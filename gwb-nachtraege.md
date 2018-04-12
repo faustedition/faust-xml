@@ -28,7 +28,10 @@ Pfuel Faust II, V. 11561 John H
 ## Formenbildung
 
 ### Wegfall der Enklise "s"
+* `lemma:brauchen` "braucht" (für _brauchts_) Faust II, V. 10763 egh IV H.22c, dagegen an derselben Stelle "braucht's" egh IV H.8 (s. auch "rasselt")
+* `lemma:rasseln` "rasselt" (für _rasselts_) Faust II, V. 10766 egh IV H.22c, dagegen an derselben Stelle "rasselts" egh IV H.8 (s. auch "braucht")
+* `lemma:sich` "sich" (für _sichs_) Faust II, V. 10909 egh IV H.20
 
 ### Wegfall der Endung -t vor Enklise "s"
-* bangen: "bangs" (für _bangt_)
-* wittern: "witters" (für _wittert_)
+* `lemma:bangen` "bangs" (für _bangt_)
+* `lemma:wittern` "witters" (für _wittert_)
