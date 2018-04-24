@@ -11,6 +11,9 @@ Fehllesung zu Faust II, V. 7975 egh II H.48 (allenfalls "Schlundes Drey")
 ### Daube
 "Taube" Faust II, V. 5025 John H, I H.0a
 
+### Glimmern
+"(b) aufscheinen, aufleuchten ...": Einziger angegebener Beleg (Faust I, V. 3916 A) mutmaßlich Fehler gegen "glimmet" egh 1 H.14 
+
 ### Hintermann
 "Hintermann" 
 
