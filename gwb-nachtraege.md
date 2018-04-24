@@ -15,7 +15,7 @@ Fehllesung zu Faust II, V. 7975 egh II H.48 (allenfalls "Schlundes Drey")
 "(b) aufscheinen, aufleuchten ...": Einziger angegebener Beleg (Faust I, V. 3916 A) mutmaßlich Fehler gegen "glimmet" egh 1 H.14 
 
 ### Hintermann
-"Hintermann" 
+"Hindermann" Faust II, V. 5750 egh I H.30 
 
 ### Höhle
 Zur Form "Höle": "Die Höle schwoll ..."; vgl. auch „Trauerhöle“ Faust I, V. 1589 (A 8)
