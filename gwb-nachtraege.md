@@ -32,6 +32,7 @@ Pfuel Faust II, V. 11561 John H
 
 ### Wegfall der Enklise "s"
 * `lemma:brauchen` "braucht" (für _brauchts_) Faust II, V. 10763 egh IV H.22c, dagegen an derselben Stelle "braucht's" egh IV H.8 (s. auch "rasselt")
+* `lemma:geben` "giebt" (für _giebts_) Faust II, V. 11283 John H (wohl Fehler), dagegen an derselben Stelle "giebts" egh V H.1
 * `lemma:ich` "mir" (für _mirs_?) Faust II, V. 7315 John II H.74 H (Korrekturvorschlag "mirs" ausgewischt)
 * `lemma:rasseln` "rasselt" (für _rasselts_) Faust II, V. 10766 egh IV H.22c, dagegen an derselben Stelle "rasselts" egh IV H.8 (s. auch "braucht")
 * `lemma:sich` "sich" (für _sichs_) Faust II, V. 10909 egh IV H.20
