@@ -38,5 +38,5 @@ Pfuel Faust II, V. 11561 John H
 * `lemma:sich` "sich" (für _sichs_) Faust II, V. 10909 egh IV H.20
 
 ### Wegfall der Endung -t vor Enklise "s"
-* `lemma:bangen` "bangs" (für _bangt_) Faust II, V. 10979, egh 2 IV H.22e 
-* `lemma:wittern` "witters" (für _wittert_) Faust II, V. 6229, egh I H.49
+* `lemma:bangen` "bangs" (für _bangts_) Faust II, V. 10979, egh 2 IV H.22e 
+* `lemma:wittern` "witters" (für _witterts_) Faust II, V. 6229, egh I H.49
