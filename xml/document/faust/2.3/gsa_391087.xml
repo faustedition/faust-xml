@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391087/">
+   <revisionDesc>
+      <change when="2012-11-27" who="bruening">encoded</change>
+      <change when="2014-09-16" who="henzel">docTranscript bei leeren Seiten angetragen</change>
+      <change when="2015-03-05" who="henzel">textTranscript nachgetragen</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 24 Blätter nebst Umschlag. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Konzept John zu Vers 9122–10038 mit dem Inzipit: Ja auf einmal wird es dü- ster . . ., mit Datum egh: „9. Jun. 1826“, Korrektur egh = späteres Konzept im Vgl. mit 2 III H.2 (GSA 25/W 1568 und GSA 25/W 1569)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.3a:2</idno>
+      <idno type="gsa_1">GSA 25/XVIII,1,3:2</idno>
+      <note>Vorher: GSA 25/XVIII,1,3b (?).</note>
+      <idno type="gsa_2">GSA 25/W 1577</idno>
+      <idno type="gsa_ident">391087</idno>
+      <idno type="wa_faust">2 III H.III</idno>
+      <textTranscript uri="391087.xml"/>
+      <classification>Mundum</classification>
+      <binding>Blauer Umschlag ohne Aufschrift.</binding>
+      <numberingList>
+         <numbering name="Bleistiftfoliierung">Eigenhändige Foliierung mit Bleistift (faust://bibliography/wa_I_15_2, S. 67).</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">203</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <bindingMaterial>Faden</bindingMaterial>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 67</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 81</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_15_2">S. 67</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 81</reference>
+      </references>
+   </metadata>
+   <!-- Umschlag -->
+   <sheet>
+      <metadata>
+         <paperType>none</paperType>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <!-- Vorderes Umschlagblatt -->
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">210</width>
+               <height unit="mm">345</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <!-- 1. Lage (21–24) -->
+      <sheet>
+         <metadata>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 21 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0002.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0003.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 22 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0004.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0006.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 23 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0007.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0008.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 24 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0009.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0010.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- 2. Lage (25–28) -->
+      <sheet>
+         <metadata>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 25 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0011.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0012.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 26 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0013.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0014.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 27 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0015.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0016.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 28 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0017.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0018.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- 3. Lage (29–[44]) -->
+      <sheet>
+         <metadata>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 29 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0019.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0020.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 30 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0021.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0023.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 31 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0025.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0026.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <sheet>
+            <!-- Bl. 32 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0027.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0028.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <sheet>
+               <!-- Bl. 33 -->
+               <leaf>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0029.xml"/>
+                     </metadata>
+                  </page>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0031.xml"/>
+                     </metadata>
+                  </page>
+               </leaf>
+               <!-- Bl. 34 -->
+               <leaf>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0032.xml"/>
+                     </metadata>
+                  </page>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0033.xml"/>
+                     </metadata>
+                  </page>
+               </leaf>
+            </sheet>
+            <!-- Bl. 35 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0034.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0035.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <sheet>
+            <!-- Bl. 36 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0036.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0037.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <sheet>
+               <!-- Bl. 37 -->
+               <leaf>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0038.xml"/>
+                     </metadata>
+                  </page>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0039.xml"/>
+                     </metadata>
+                  </page>
+               </leaf>
+               <!-- Bl. 38 -->
+               <leaf>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0040.xml"/>
+                     </metadata>
+                  </page>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0041.xml"/>
+                     </metadata>
+                  </page>
+               </leaf>
+            </sheet>
+            <!-- Bl. 39 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0042.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0043.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <sheet>
+            <!-- Bl. 40 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0044.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0045.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <sheet>
+               <!-- Bl. 41 -->
+               <leaf>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0046.xml"/>
+                     </metadata>
+                  </page>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0047.xml"/>
+                     </metadata>
+                  </page>
+               </leaf>
+               <!-- Bl. 42 -->
+               <leaf>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0048.xml"/>
+                     </metadata>
+                  </page>
+                  <page>
+                     <metadata>
+                        <docTranscript uri="0049.xml"/>
+                     </metadata>
+                  </page>
+               </leaf>
+            </sheet>
+            <!-- Bl. 43 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0050.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0051.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Schluss-Bl. [44] -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0052.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0053.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Hinteres Umschlagblatt -->
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">200</width>
+               <height unit="mm">343</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Teil von H.III, Folioheft in blauem Umschlag (ohne Aufschrift), Heft 1 befindet sich in der Universitätsbibliothek Bonn (dazu Kopie im GSA unter 25/XVIII,1,3:3); = späteres Konzept  im Vgl. mit III H.2 (25/XVIII,1,2a und 2b)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>24</f:blatt>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391087</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9122-10038
+Ja auf einmal wird es düster ...
+WA: III H.III; vgl. I 15.2,67
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John, egh</f:schrift>
+      <f:signatur>XVIII,1,3:2</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,3:2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12d">Datierung auf der Handschrift</f:key>
+            <f:value>"9. Jun. 1826.", egh [auf dem letzten Blatt]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Ja auf einmal wird es düster</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>= Heft 2, fol. 21-43</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,67</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.III</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9122-10038</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>24</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Teil von H.III, Folioheft in blauem Umschlag (ohne Aufschrift), Heft 1 befindet sich in der Universitätsbibliothek Bonn (dazu Kopie im GSA unter 25/XVIII,1,3:3); = späteres K im Vgl. mit III H.2 (25/XVIII,1,2a und 2b)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1225</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3503</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

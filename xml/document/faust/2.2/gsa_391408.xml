@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391408/">
+<revisionDesc>
+   <change when="2012-12-06" who="henzel">imported</change>
+   <change when="2012-12-06" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Weimarer Theaterzettel vom 26.12.1829 zu "Die Stumme von Portici" Oper nach Scribe und Delavigne, Musik von Auber; eigenhändige Zeichnung einer geometrischen Figur mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.15</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,16</idno>
+      <idno type="gsa_2">GSA 25/W 1504</idno>
+      <idno type="gsa_ident">391408</idno>
+      <idno type="wa_faust">2 II H.15</idno>
+      <!-- P133 -->
+      <idno type="hecker">156</idno>
+      <textTranscript uri="391408.xml"/>
+      <classification>Konzept</classification><!-- ABR: Entwürfe -->
+      <condition>fleckig, auf der Rückseite am rechten Rand vergilbt</condition>
+      <dimensions>
+         <width unit="mm">193</width>
+         <height unit="mm">335</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 190 mm.</note>
+      <format>2</format><!-- ABR: Halbfolio -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>n.s.</paperMill><!-- TODO nachtragen -->
+      <watermarkID>Weimar</watermarkID><!-- ABR:kein Wz -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37, 218</reference><!-- P133 -->
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 35</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 480</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 480</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 648f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 35</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 481</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>ab dem 26.12.1829</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> IIH15 (P133) Diese anhand des Theaterzettels auf einen Zeitpunkt ab dem 26. 12. 1829 zu datierenden, unterschiedlichen Entwürfe zur `Klassischen Walpurgisnacht' wurden zum Teil in die endgültige Dichtung aufgenommen, zum Teil aber fallengelassen oder erheblich abgewandelt. </p>
+            <p>Z. 1-11: Das zunächst in Blei skizzierte, dann in verschiedenen Fassungen mit Tinte fixierte <b>P133</b> (vgl. auch II H6, hier S. 483f.) läßt sich offensichtlich wie die folgenden Entwürfe zu V. 7558ff. dem für die `Klassische Walpurgisnacht' vorgesehenen Erdbebenmotiv zuordnen. (Die WA nimmt als Sprecher Seismos an, vgl. aber Kommentar zu III H7, hier S. 406).</p>
+            <p>Strehlke (S. 88f.) ergänzt diese Entwürfe um die variante Fassung der Verse 7562-7565 die in einer eigenhändigen Fassung (II H18: 7550-7573) und in einer Reinschrift von der Hand Johns (II H39: V.7550-7573) überliefert ist (hier V.7558-7565 Var nach IIH18):</p>
+            <p>Als Angesichts der höchsten Ahnen,</p>
+            <p>Der Nacht des Chaos ich mich stark gefühlt</p>
+            <p>Und, in Gesellschaft von Titanen</p>
+            <p>Mit Pelion und Ossa wie mit Ball gespielt.</p>
+            <p>Die Alten lächelten vom düstern Sitze</p>
+            <p>Da nach dem heißen Spiel zuletzt</p>
+            <p>Wir frevelhaft als eine Doppelmütze</p>
+            <p>Sie dem Parnassus aufgesetzt. [...]</p>
+            <p>Außerdem fügt er die in einer frühen eigenhändigen Bleistiftskizze überlieferte variante Fassung der folgenden V. 7566-7569 hinzu (II H38: 7550-7557 u. 7566-7569):</p>
+            <p>Nun Thronen sie auf ihr[en] Sitz[en]</p>
+            <p>Apoll mit sein[er] Musen Chor</p>
+            <p>Selbst Jupiter mit sein[en] Blitz[en]</p>
+            <p>Schob ich den Sessel hoch empor.</p>
+            <p>Z. 12-15: Die unten auf dem Blatt mit Bleistift skizzierten Vorstufen zu den Mephisto-Versen 7843ff. sind vermutlich etwas später entstanden. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

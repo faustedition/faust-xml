@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/tml_new_york/102896v/">
+    <revisionDesc>
+        <change who="bruening">Von Joachim Seng erhobene Daten eingearbeitet.</change>
+        <change when="2015-02-04" who="koehler">minimal headnote</change>
+        <change when="2016-09-23" who="bruening">encoded</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+        <repository>tml_new_york</repository>
+        <subRepository>Pierpont Morgan Library Dept. of Literary and Historical
+            Manuscripts</subRepository>
+        <idno type="faustedition">2 III H.58a</idno>
+        <idno type="tml_new_york">MA 877.1</idno>
+        <idno type="gsa_1">GSA 25/XVIII,4,6b</idno>
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="102896v.xml"/>
+        <classification>Mundum</classification>
+        <history>Aus der Bibliothek von Augustin Daly (1838–1899). Im September 1907 von Pierpont
+            Morgan erworben.</history>
+        <container>Das Doppelblatt ist in ein Album eingeklebt. Einbandmaterial: rotes Maroquin.
+            Maße: 23,2 × 30,9 cm. Goldgeprägter Einbandtitel: „Portion of the Original Autograph
+            Manuscript of the Faust of Johann Wolfgang von Goethe“. Enthält zwei Reproduktionen von
+            Goethe-Porträts, das hier beschriebene Doppelblatt, drei Briefe (MA 877.5–7), von denen
+            dritte (MA 877.3, egh., an Sophie Caroline von Hopfgarten vom 7. März 1827, WA-Nr.
+            8002a, gedruckt WA IV, Bd. 51, S. 435, nachgewiesen WA IV, Bd. 52, S. 260) erst 1928 in
+            das Album aufgenommen wurde, ferner einen Scherenschnitt Goethes, einen französischen
+            Zeitungsausschnitt sowie zwei Reproduktionen von Faust-Illustrationen.</container>
+        <paperType>Schreibpapier</paperType>
+        <paperColour>grau</paperColour>
+        <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">306</height>
+        </dimensions>
+        <format>2</format>
+        <edges>cut</edges>
+        <watermarkID>n.s.</watermarkID>
+    </metadata>
+    <sheet>
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="0001.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="0002.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="0003.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <note>Am oberen Rand offenbar eine Art von Dispositionsnotiz.</note>
+                    <docTranscript uri="0004.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+</archivalDocument>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-15" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="33" facs="mueller1832_0033.jpg"/>
+            <div type="text">
+                <p><milestone unit="testimony" spanTo="#bie3_7196_end" xml:id="bie3_7196"/>Die Zeit
+                    war ihm das kostbarste Element, er wußte sie wie Keiner zu nutzen, wahrhaft
+                    auszubeuten und mitten im Andrang zahlloser Einzelheiten Sammlung genug zu
+                    gewinnen, um den Faden tiefster Forschung oder dichterischer Schöpfungen
+                    festzuhalten.</p>
+                <p>Hat er doch einst, als der Besuch eines erhabenen Königs ihn beglückte, sich
+                    mitten aus den anziehendsten Gesprächen auf einige Minuten abgeschlichen, um
+                    schnell für <rs>seinen Faust</rs> eine eben in ihm aufgetauchte Idee
+                        niederzuschreiben.<anchor xml:id="bie3_7196_end"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

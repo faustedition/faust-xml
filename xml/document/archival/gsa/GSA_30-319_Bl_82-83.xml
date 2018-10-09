@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+    xml:base="faust://xml/transcript/gsa/GSA_30-319_Bl_82-83/">
+    <revisionDesc>
+        <change when="2016-09-22" who="bruening">Datei angelegt</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>1 Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+        <note>Göttling an Goethe, 27. Oktober 1826, mit Göttlings Korrekturen zu faust://document/faustedition/2_H und 
+            diesbezüglichen Einträgen Goethes. Die Transkription wurde von Annette Mönnich (Weimar) angefertigt und für die
+            Faustedition aufbereitet. Zu einigen der Bemerkungen vgl. das herausgetrennte und ersetzte Blatt faust://document/faustedition/2_III_H.62.</note>
+        <repository>gsa</repository>
+        <idno type="faustedition">2 III H.3b</idno>
+        <idno type="gsa_2">GSA 30/319, Bl. 82–83</idno>
+        <idno type="gsa_ident">12858</idno>
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="GSA_30-319_Bl_82-83.xml"/>
+        <classification>n.s.</classification>
+        <references>
+            <reference type="text" uri="faust://bibliography/quz_2">S. 394–396</reference>
+        </references>
+    </metadata>
+    <sheet>
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="82r.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="82v.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="83r.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="83v.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+</archivalDocument>

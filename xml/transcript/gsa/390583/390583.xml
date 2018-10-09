@@ -1,0 +1,822 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">T 5 H.1</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/faust/1/gsa_390583.xml--><msIdentifier><repository>Goethe- und Schiller-Archiv, Weimar</repository><idno type="gsa_1">GSA 25/XVII,1,11:1</idno><altIdentifier><idno type="gsa_2">GSA 25/W 1372</idno></altIdentifier><altIdentifier><idno type="gsa_ident">390583</idno></altIdentifier></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change type="bondedVar" xml:id="l398"/>
+                    <change type="bondedVar" xml:id="l457-458"/>
+                </listChange>
+            </creation>
+            <handNotes>
+                <handNote xml:id="g">Goethe (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="g_t">Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="g_t_lat">Goethe (ink - latin)</handNote>
+                <handNote xml:id="g_t_gr">Goethe (ink - greek)</handNote>
+                <handNote xml:id="g_tr">Goethe (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="g_tr_lat">Goethe (ink red/brown - latin)</handNote>
+                <handNote xml:id="g_tr_gr">Goethe (ink red/brown - greek)</handNote>
+                <handNote xml:id="g_bl">Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="g_bl_lat">Goethe (pencil - latin)</handNote>
+                <handNote xml:id="g_bl_gr">Goethe (pencil - greek)</handNote>
+                <handNote xml:id="g_ro">Goethe (ruddle - Schrift)</handNote>
+                <handNote xml:id="g_ro_lat">Goethe (ruddle - latin)</handNote>
+                <handNote xml:id="g_ro_gr">Goethe (ruddle - greek)</handNote>
+                <handNote xml:id="g_ko">Goethe (charcoal - Schrift)</handNote>
+                <handNote xml:id="g_ko_lat">Goethe (charcoal - latin)</handNote>
+                <handNote xml:id="g_ko_gr">Goethe (charcoal - greek)</handNote>
+                <handNote xml:id="g-o-ri_bl">Goethe oder Riemer (pencil – Schrift)</handNote>
+                <handNote xml:id="g-o-ri_bl_lat">Goethe oder Riemer (pencil – latin)</handNote>
+                <handNote xml:id="aj_t">Anna Jameson (ink - Schrift)</handNote>
+                <handNote xml:id="aj_t_lat">Anna Jameson (ink - latin)</handNote>
+                <handNote xml:id="ec_t">Eckermann (ink - Schrift)</handNote>
+                <handNote xml:id="ec_t_lat">Eckermann (ink - latin)</handNote>
+                <handNote xml:id="ec_t_gr">Eckermann (ink - greek)</handNote>
+                <handNote xml:id="ec_tr">Eckermann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ec_tr_lat">Eckermann (ink red/brown - latin)</handNote>
+                <handNote xml:id="ec_tr_gr">Eckermann (ink red/brown - greek)</handNote>
+                <handNote xml:id="ec_bl">Eckermann (pencil - Schrift)</handNote>
+                <handNote xml:id="ec_bl_lat">Eckermann (pencil - latin)</handNote>
+                <handNote xml:id="ec_bl_gr">Eckermann (pencil - greek)</handNote>
+                <handNote xml:id="f_t">Färber (ink - Schrift)</handNote>
+                <handNote xml:id="f_t_lat">Färber (ink - latin)</handNote>
+                <handNote xml:id="gt_t">Geist (ink - Schrift)</handNote>
+                <handNote xml:id="gt_t_lat">Geist (ink - latin)</handNote>
+                <handNote xml:id="gt_t_gr">Geist (ink - greek)</handNote>
+                <handNote xml:id="gt_tr">Geist (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gt_tr_lat">Geist (ink red/brown - latin)</handNote>
+                <handNote xml:id="gt_tr_gr">Geist (ink red/brown - greek)</handNote>
+                <handNote xml:id="gt_bl">Geist (pencil - Schrift)</handNote>
+                <handNote xml:id="gt_bl_lat">Geist (pencil - latin)</handNote>
+                <handNote xml:id="gt_bl_gr">Geist (pencil - greek)</handNote>
+                <handNote xml:id="gh_t">Goechhausen (ink - Schrift)</handNote>
+                <handNote xml:id="gh_t_lat">Goechhausen (ink - latin)</handNote>
+                <handNote xml:id="gh_t_gr">Goechhausen (ink - greek)</handNote>
+                <handNote xml:id="gh_tr">Goechhausen (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gh_tr_lat">Goechhausen (ink red/brown - latin)</handNote>
+                <handNote xml:id="gh_tr_gr">Goechhausen (ink red/brown - greek)</handNote>
+                <handNote xml:id="gh_bl">Goechhausen (pencil - Schrift)</handNote>
+                <handNote xml:id="gh_bl_lat">Goechhausen (pencil - latin)</handNote>
+                <handNote xml:id="gh_bl_gr">Goechhausen (pencil - greek)</handNote>
+                <handNote xml:id="go_t">Goettling (ink - Schrift)</handNote>
+                <handNote xml:id="go_t_lat">Goettling (ink - latin)</handNote>
+                <handNote xml:id="go_t_gr">Goettling (ink - greek)</handNote>
+                <handNote xml:id="go_tr">Goettling (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="go_tr_lat">Goettling (ink red/brown - latin)</handNote>
+                <handNote xml:id="go_tr_gr">Goettling (ink red/brown - greek)</handNote>
+                <handNote xml:id="go_bl">Goettling (pencil - Schrift)</handNote>
+                <handNote xml:id="go_bl_lat">Goettling (pencil - latin)</handNote>
+                <handNote xml:id="go_bl_gr">Goettling (pencil - greek)</handNote>
+                <handNote xml:id="hd_t">Herder (ink - Schrift)</handNote>
+                <handNote xml:id="hd_t_lat">Herder (ink - latin)</handNote>
+                <handNote xml:id="hd_tr">Herder (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="hd_tr_lat">Herder (ink red/brown - latin)</handNote>
+                <handNote xml:id="jo">John (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="jo_t">John (ink - Schrift)</handNote>
+                <handNote xml:id="jo_t_lat">John (ink - latin)</handNote>
+                <handNote xml:id="kr_t">Kräuter (ink - Schrift)</handNote>
+                <handNote xml:id="kr_t_lat">Kräuter (ink - latin)</handNote>
+                <handNote xml:id="kr_t_gr">Kräuter (ink - greek)</handNote>
+                <handNote xml:id="kr_tr">Kräuter (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="kr_tr_lat">Kräuter (ink red/brown - latin)</handNote>
+                <handNote xml:id="kr_tr_gr">Kräuter (ink red/brown - greek)</handNote>
+                <handNote xml:id="kr_bl">Kräuter (pencil - Schrift)</handNote>
+                <handNote xml:id="kr_bl_lat">Kräuter (pencil - latin)</handNote>
+                <handNote xml:id="kr_bl_gr">Kräuter (pencil - greek)</handNote>
+                <handNote xml:id="m_t">Müller (ink - Schrift)</handNote>
+                <handNote xml:id="m_t_lat">Müller (ink - latin)</handNote>
+                <handNote xml:id="m_t_gr">Müller (ink - greek)</handNote>
+                <handNote xml:id="m_tr">Müller (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="m_tr_lat">Müller (ink red/brown - latin)</handNote>
+                <handNote xml:id="m_tr_gr">Müller (ink red/brown - greek)</handNote>
+                <handNote xml:id="m_bl">Müller (pencil - Schrift)</handNote>
+                <handNote xml:id="m_bl_lat">Müller (pencil - latin)</handNote>
+                <handNote xml:id="m_bl_gr">Müller (pencil - greek)</handNote>
+                <handNote xml:id="ovg_t">Ottilie von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="ovg_t_lat">Ottilie von Goethe (ink - latin)</handNote>
+                <handNote xml:id="re_bl">Reichel (pencil - Schrift)</handNote>
+                <handNote xml:id="re_bl_lat">Reichel (pencil - latin)</handNote>
+                <handNote xml:id="re_ro">Reichel (ruddle - Schrift)</handNote>
+                <handNote xml:id="re_ro_lat">Reichel (ruddle - latin)</handNote>
+                <handNote xml:id="re_t">Reichel (ink - Schrift)</handNote>
+                <handNote xml:id="re_t_lat">Reichel (ink - latin)</handNote>
+                <handNote xml:id="ri">Riemer (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="ri_t">Riemer (ink - Schrift)</handNote>
+                <handNote xml:id="ri_t_lat">Riemer (ink - latin)</handNote>
+                <handNote xml:id="ri_t_gr">Riemer (ink - greek)</handNote>
+                <handNote xml:id="ri_tr">Riemer (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ri_tr_lat">Riemer (ink red/brown - latin)</handNote>
+                <handNote xml:id="ri_tr_gr">Riemer (ink red/brown - greek)</handNote>
+                <handNote xml:id="ri_bl">Riemer (pencil - Schrift)</handNote>
+                <handNote xml:id="ri_bl_lat">Riemer (pencil - latin)</handNote>
+                <handNote xml:id="ri_bl_gr">Riemer (pencil - greek)</handNote>
+                <handNote xml:id="ri_ro">Riemer (ruddle - Schrift)</handNote>
+                <handNote xml:id="ri_ro_lat">Riemer (ruddle - latin)</handNote>
+                <handNote xml:id="st_t">Schuchardt (ink - Schrift)</handNote>
+                <handNote xml:id="st_t_lat">Schuchardt (ink - latin)</handNote>
+                <handNote xml:id="st_t_gr">Schuchardt (ink - greek)</handNote>
+                <handNote xml:id="st_tr">Schuchardt (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="st_tr_lat">Schuchardt (ink red/brown - latin)</handNote>
+                <handNote xml:id="st_tr_gr">Schuchardt (ink red/brown - greek)</handNote>
+                <handNote xml:id="st_bl">Schuchardt (pencil - Schrift)</handNote>
+                <handNote xml:id="st_bl_lat">Schuchardt (pencil - latin)</handNote>
+                <handNote xml:id="st_bl_gr">Schuchardt (pencil - greek)</handNote>
+                <handNote xml:id="sd_t">Seidler (ink - Schrift)</handNote>
+                <handNote xml:id="sd_t_lat">Seidler (ink - latin)</handNote>
+                <handNote xml:id="so_t">Soret (ink - Schrift)</handNote>
+                <handNote xml:id="so_t_lat">Soret (ink - latin)</handNote>
+                <handNote xml:id="sp_t">Spiegel (ink - Schrift)</handNote>
+                <handNote xml:id="sp_t_lat">Spiegel (ink - latin)</handNote>
+                <handNote xml:id="sta_t">Stadelmann (ink - Schrift)</handNote>
+                <handNote xml:id="sta_t_lat">Stadelmann (ink - latin)</handNote>
+                <handNote xml:id="sta_t_gr">Stadelmann (ink - greek)</handNote>
+                <handNote xml:id="sta_tr">Stadelmann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sta_tr_lat">Stadelmann (ink red/brown - latin)</handNote>
+                <handNote xml:id="sta_tr_gr">Stadelmann (ink red/brown - greek)</handNote>
+                <handNote xml:id="sta_bl">Stadelmann (pencil - Schrift)</handNote>
+                <handNote xml:id="sta_bl_lat">Stadelmann (pencil - latin)</handNote>
+                <handNote xml:id="sta_bl_gr">Stadelmann (pencil - greek)</handNote>
+                <handNote xml:id="sti_t">Stieler (ink - Schrift)</handNote>
+                <handNote xml:id="sti_t_lat">Stieler (ink - latin</handNote>
+                <handNote xml:id="ve_t">Varnhagen von Ense (ink – Schrift)</handNote>
+                <handNote xml:id="v_t">Helene Vulpius (ink - Schrift)</handNote>
+                <handNote xml:id="v_t_lat">Helene Vulpius (ink - latin)</handNote>
+                <handNote xml:id="v_t_gr">Helene Vulpius (ink - greek)</handNote>
+                <handNote xml:id="v_tr">Helene Vulpius (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="v_tr_lat">Helene Vulpius (ink red/brown - latin)</handNote>
+                <handNote xml:id="v_tr_gr">Helene Vulpius (ink red/brown - greek)</handNote>
+                <handNote xml:id="v_bl">Helene Vulpius (pencil - Schrift)</handNote>
+                <handNote xml:id="v_bl_lat">Helene Vulpius (pencil - latin)</handNote>
+                <handNote xml:id="v_bl_gr">Helene Vulpius (pencil - greek)</handNote>
+                <handNote xml:id="we_t">Weller (ink - Schrift)</handNote>
+                <handNote xml:id="we_t_lat">Weller (ink - latin)</handNote>
+                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne (ink - Schrift)</handNote>
+                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne (ink - latin)</handNote>
+                <handNote xml:id="wo_t">Pius Alexander Wolff (ink - Schrift)</handNote>
+                <handNote xml:id="wo_t_lat">Pius Alexander Wolff (ink - latin)</handNote>
+                <handNote xml:id="wo_t_gr">Pius Alexander Wolff (ink - greek)</handNote>
+                <handNote xml:id="wo_tr">Pius Alexander Wolff (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="wo_tr_lat">Pius Alexander Wolff (ink red/brown - latin)</handNote>
+                <handNote xml:id="wo_tr_gr">Pius Alexander Wolff (ink red/brown - greek)</handNote>
+                <handNote xml:id="wo_bl">Pius Alexander Wolff (pencil - Schrift)</handNote>
+                <handNote xml:id="wo_bl_lat">Pius Alexander Wolff (pencil - latin)</handNote>
+                <handNote xml:id="wo_bl_gr">Pius Alexander Wolff (pencil - greek)</handNote>
+                <handNote xml:id="avg_t">August von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="avg_t_lat">August von Goethe (ink - latin)</handNote>
+                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="wvg_t">Wolfgang von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="wvg_bl">Wolfgang von Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="sc">Schreiberhand (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="sc_bl">Schreiberhand (pencil - Schrift)</handNote>
+                <handNote xml:id="sc_bl_lat">Schreiberhand (pencil - latin)</handNote>
+                <handNote xml:id="sc_blau">Schreiberhand (blue pencil - Schrift)</handNote>
+                <handNote xml:id="sc_ro">Schreiberhand (ruddle - Schrift)</handNote>
+                <handNote xml:id="sc_ro_lat">Schreiberhand (ruddle - latin)</handNote>
+                <handNote xml:id="sc_t">Schreiberhand (ink - Schrift)</handNote>
+                <handNote xml:id="sc_t_lat">Schreiberhand (ink - latin)</handNote>
+                <handNote xml:id="sc_tr">Schreiberhand (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sc_tr_lat">Schreiberhand (ink red/brown - latin)</handNote>
+                <handNote xml:id="zs_t">Zeitgenössische Schrift (ink - Schrift)</handNote>
+                <handNote xml:id="zs_t_lat">Zeitgenössische Schrift (ink - latin)</handNote>
+                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown - latin)</handNote>
+                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown - greek)</handNote>
+                <handNote xml:id="zs_bl">Zeitgenössische Schrift (pencil - Schrift)</handNote>
+                <handNote xml:id="zs_bl_lat">Zeitgenössische Schrift (pencil - latin)</handNote>
+                <handNote xml:id="zs_bl_gr">Zeitgenössische Schrift (pencil - greek)</handNote>
+                <handNote xml:id="zs_ro">Zeitgenössische Schrift (ruddle - Schrift)</handNote>
+                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil - Schrift)</handNote>
+                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil - latin)</handNote>
+                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil - greek)</handNote>
+                <handNote xml:id="xx_t">Fremde Hand #1 (ink - Schrift)</handNote>
+                <handNote xml:id="xx_t_lat">Fremde Hand #1 (ink - latin)</handNote>
+                <handNote xml:id="xx_t_gr">Fremde Hand #1 (ink - greek)</handNote>
+                <handNote xml:id="xx_tr">Fremde Hand #1 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xx_tr_lat">Fremde Hand #1 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xx_tr_gr">Fremde Hand #1 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xx_bl">Fremde Hand #1 (pencil - Schrift)</handNote>
+                <handNote xml:id="xx_bl_lat">Fremde Hand #1 (pencil - latin)</handNote>
+                <handNote xml:id="xx_bl_gr">Fremde Hand #1 (pencil - greek)</handNote>
+                <handNote xml:id="xx_blau">Fremde Hand #1 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xx_blau_lat">Fremde Hand #1 (blue pencil - latin)</handNote>
+                <handNote xml:id="xx_blau_gr">Fremde Hand #1 (blue pencil - greek)</handNote>
+                <handNote xml:id="xx_ro">Fremde Hand #1 (ruddle - Schrift)</handNote>
+                <handNote xml:id="xx_ro_lat">Fremde Hand #1 (ruddle - latin)</handNote>
+                <handNote xml:id="xy_t">Fremde Hand #2 (ink - Schrift)</handNote>
+                <handNote xml:id="xy_t_lat">Fremde Hand #2 (ink - latin)</handNote>
+                <handNote xml:id="xy_t_gr">Fremde Hand #2 (ink - greek)</handNote>
+                <handNote xml:id="xy_tr">Fremde Hand #2 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xy_tr_lat">Fremde Hand #2 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xy_tr_gr">Fremde Hand #2 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xy_bl">Fremde Hand #2 (pencil - Schrift)</handNote>
+                <handNote xml:id="xy_bl_lat">Fremde Hand #2 (pencil - latin)</handNote>
+                <handNote xml:id="xy_bl_gr">Fremde Hand #2 (pencil - greek)</handNote>
+                <handNote xml:id="xy_blau">Fremde Hand #2 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xy_blau_lat">Fremde Hand #2 (blue pencil - latin)</handNote>
+                <handNote xml:id="xy_blau_gr">Fremde Hand #2 (blue pencil - greek)</handNote>
+                <handNote xml:id="xz_t">Fremde Hand #3 (ink - Schrift)</handNote>
+                <handNote xml:id="xz_t_lat">Fremde Hand #3 (ink - latin)</handNote>
+                <handNote xml:id="xz_t_gr">Fremde Hand #3 (ink - greek)</handNote>
+                <handNote xml:id="xz_tr">Fremde Hand #3 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xz_tr_lat">Fremde Hand #3 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xz_tr_gr">Fremde Hand #3 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xz_bl">Fremde Hand #3 (pencil - Schrift)</handNote>
+                <handNote xml:id="xz_bl_lat">Fremde Hand #3 (pencil - latin)</handNote>
+                <handNote xml:id="xz_bl_gr">Fremde Hand #3 (pencil - greek)</handNote>
+                <handNote xml:id="xz_blau">Fremde Hand #3 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xz_blau_lat">Fremde Hand #3 (blue pencil - latin)</handNote>
+                <handNote xml:id="xz_blau_gr">Fremde Hand #3 (blue pencil - greek)</handNote>
+            </handNotes>
+        </profileDesc>
+        <encodingDesc>
+            <charDecl>
+                <char xml:id="g_transp_1">
+                    <charName>TRANSPOSITION SIGN 1</charName>
+                    <desc>„Einweisungzeichen“ mit einem nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_2">
+                    <charName>TRANSPOSITION SIGN 2</charName>
+                    <desc>„Einweisungzeichen“ mit zwei nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_3">
+                    <charName>TRANSPOSITION SIGN 3</charName>
+                    <desc>Geschwungenes „Einweisungzeichen“.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_4">
+                    <charName>TRANSPOSITION SIGN 4</charName>
+                    <desc>Griechisches Kreuz (gleichschenklig und auf einer Spitze stehend).</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_5">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>Häkchen, ähnelt Einfügungslinie</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_6">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>rautenförmiges „Einweisungzeichen“</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_break">
+                    <charName>TEXT BREAK</charName>
+                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt begann</desc>
+                    <mapping type="Unicode">[</mapping>
+                </char>
+                <char xml:id="parenthesis_left">
+                    <charName>LEFT PARENTHESIS</charName>
+                    <desc>In 18th century there were different ways to represent parentheses in handwritten documents. Then the token most often used (default symbol) was a vertical stroke combined with a colon. We want to be able to differentiate between this default representation, which we encode as normal parenthesis characters, and the very (same) characters, that are used today, and that also appear in documents of that time. Therefore we encode the contemporary representation of parantheses, if encountered in handwritten documents, as glyphs.</desc>
+                    <mapping type="Unicode">(</mapping>
+                </char>
+                <char xml:id="parenthesis_right">
+                    <charName>RIGHT PARENTHESIS</charName>
+                    <desc>See the description of LEFT PARANTHESIS.</desc>
+                    <mapping type="Unicode">)</mapping>
+                </char>
+                <char xml:id="truncation">
+                    <charName>TRUNCATION SIGN</charName>
+                    <desc>The suspension/truncation sign, in German known as “Abbrechungszeichen”.</desc>
+                    <mapping type="Unicode">.</mapping>
+                </char>
+            </charDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2011-04-29" who="pravida">encoded</change>
+            <change when="2013-12-06" who="henzel">stageNote zu 398 und Dispositionsnotiz</change>
+            <change when="2013-12-09" who="henzel">1x korrekturgelesen</change>
+            <change when="2015-03-02" who="kockel">Automatische Verszählung abgeschlossen</change>
+            <change when="2015-03-02" who="kockel">Zählung des Nebentextes abgeschlossen</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <!-- fixme Schröerversziffern einfügen -->
+        <body>
+            <pb n="3"/>
+            <!-- fixme Dispositionsnotizen einbauen <ge:line rend="centered" xml:id="la1"><handShift new="#g_bl"/>Fauſt</ge:line> -->
+            <sp>
+                <speaker n="before_354_d">Faust.</speaker>
+                <lg>
+                    <l n="354">Habe nun, ach! Philoſophie,</l>
+                    <l n="355">Juriſterey und Medicin,</l>
+                    <l n="356">Und leider auch Theologie.</l>
+                    <l n="357">Durchaus ſtudirt mit heißem Bemühn.</l>
+                    <l n="358">Da ſteh ich nun ich armer Thor.</l>
+                    <l n="359">Und bin ſo klug als wie zuvor;</l>
+                    <l n="360">Heiße Magiſter, heiße Docktor gar,</l>
+                    <l n="361">Und ziehe ſchon an die zehen Jahr,</l>
+                    <l n="362">Herauf, herab, und quer und krum,</l>
+                    <l n="363">Meine Schüler an der Naſe herum –</l>
+                    <l n="364">Und ſehe, daß wir nichts wißen können!</l>
+                    <l n="365">Das will mir ſchier das Herz verbrennen.</l>
+                    <l n="366">Zwar bin ich geſchei<del f:revType="instant">t</del>dter, als alle die Laffen,</l>
+                    <l n="367">Doctoren, Magiſter, Schreiber und Pfaffen;</l>
+                    <l n="368">Mich plagen keine Scrupel noch Zweifel,</l>
+                    <l n="369">Fürchte mich weder für Hölle noch Teufel –</l>
+                    <l n="370">Dafür iſt mir auch alle Freud <choice>
+                            <sic>enrißen</sic>
+                            <corr>entrißen</corr>
+                        </choice>,</l>
+                    <l n="371">Bilde mir nicht ein, was rechts zu wiſſen,</l>
+                    <l n="372">Bilde mir nicht ein, was rechts zu <del f:revType="instant">b</del>lehren,</l>
+                    <l n="373">Die Menſchen zu beßern und zu bekehren.</l>
+                    <l n="374">Auch hab ich weder <del f:revType="instant">g</del>Gut noch Geld,</l>
+                    <l n="375">Noch Ehr’ noch Herrlichkeit der Welt.</l>
+                    <l n="376">Es möchte kein Hund ſo länger leben!</l>
+                </lg>
+                <lg>
+                    <l n="377">Drum hab’ ich mich der Magie ergeben.</l>
+                    <l n="378">Ob mir durch Geiſteskraft und Mund,</l>
+                    <l n="379">Nicht manch Geheimniß würde kund;</l>
+                    <l n="380">Daß ich nicht mehr mit ſauerm Schweiß,</l>
+                    <l n="381">Zu ſagen brauche, was ich nicht weiß;</l>
+                    <l n="382">Daß ich erkenne was die Welt</l>
+                    <l n="383">Im Innerſten zuſammenhält,</l>
+                    <l n="384">Schau’ alle Wirkenskraft und Samen</l>
+                    <l n="385">Und thu’ nicht mehr in Worten kramen.</l>
+                </lg>
+                <pb n="4"/>
+                <lg>
+                    <l n="386">O ſähſt du, voller Mondenſchein,</l>
+                    <l n="387">Zum letzten mal auf meine Pein,</l>
+                    <l n="388">Den ich ſo manche Mitternacht</l>
+                    <l n="389">An dieſem Pult herangewacht:</l>
+                    <l n="390">Dann über Büchern und Papier,</l>
+                    <l n="391">Trub’ſel’ger Freund erſchienſt du mir.</l>
+                    <l n="392">Ach<add f:revType="soon">!</add> könnt’ ich doch, auf <subst f:revType="soon">
+                            <del>Berges-Höhe</del>
+                            <add>Berges-Höh’n</add>
+                        </subst>,</l>
+                    <l n="393">In deinem lieben Lichte <subst f:revType="soon">
+                            <del>gehen.</del>
+                            <add>gehn,</add>
+                        </subst></l>
+                    <l n="394">Um Bergeshöhle mit Geiſtern ſchweben,</l>
+                    <l n="395">Auf Wieſen in deinem Dämmer weben,</l>
+                    <l n="396">Von allem Wißensqualm entladen,</l>
+                    <l n="397">In deinem Thau geſund mich baden!</l>
+                </lg>
+                <!-- <stage><add f:revType="late"><abbr>NB</abbr></add></stage> -->
+                <lg>
+                    <l n="398">Weh! ſteck<subst f:revType="soon" change="#l398">
+                            <del>?</del>
+                            <add>’</add>
+                        </subst> ich in <del f:revType="instant" f:correction="true">den</del> dem Kerker noch<add f:revType="soon" change="#l398">?</add></l>
+                    <l n="399">Verfluchtes dumpfes Mauerloch!</l>
+                    <l n="400">Wo ſelbſt das liebe Him̄elslicht</l>
+                    <l n="401">Trüb durch gemahlte <choice>
+                            <sic>Scheuben</sic>
+                            <corr>Scheiben</corr>
+                        </choice>ben bricht.</l>
+                    <l n="402">Beſchränkt <subst f:revType="late">
+                            <del>mit</del>
+                            <add>von</add>
+                        </subst> dieſem Bücherhauf,</l>
+                    <l n="403">Den Würme nagen, Staub bedeckt,</l>
+                    <l n="404">Den bis an’s Hohe Gewölb’ hi<del f:correction="true" f:revType="uncertain">e</del>nauf,</l>
+                    <l n="405">Ein angeraucht Papier umſteckt;</l>
+                    <l n="406">Mit Gläſern, Büchſen rings umſtellt,</l>
+                    <l n="407">Mit Inſtrumenten vollgepfropft,</l>
+                    <l n="408">Urväter Hausrath drein geſtopft<subst f:revType="instant">
+                            <del>.</del>
+                            <add> –</add>
+                        </subst></l>
+                    <l n="409">Das iſt deine Welt! das iſt deine Welt!</l>
+                </lg>
+                <pb n="5"/>
+                <lg>
+                    <l n="410">Und fragſt du noch warum dein Herz</l>
+                    <l n="411">Sich bang’ in deinem Buſen klemmt?</l>
+                    <l n="412">Warum ein unerklärter Schmerz</l>
+                    <l n="413">Dir alle Lebensregung hemmt?</l>
+                    <l n="414">Statt aller lebenden Natur,</l>
+                    <l n="415">Da Gott die Menſchen ſchuf hinein</l>
+                    <l n="416">Umgiebt <subst f:revType="late">
+                            <del>ein</del>
+                            <add>in</add>
+                        </subst> Rauch und Moder nur</l>
+                    <l n="417">Dich Thiergeripp’ und Todtenbein.</l>
+                    <!-- Pausenzeichen <add f:revType="late">– NB</add> -->
+                </lg>
+                <lg>
+                    <l n="418">Flieh! auf! hinaus ins weite Land!</l>
+                    <l n="419">Und dieß geheimnißvolle Buch,</l>
+                    <l n="420">Von Noſtradamus eigner Hand,</l>
+                    <l n="421">Iſt dir das nicht Geleit genug?</l>
+                    <l n="422">Erkenneſt dann der Sterne Lauf,</l>
+                    <l n="423">Und wenn Natur dich unterweißt,</l>
+                    <l n="424">Dann geht die Seelenkraft dir auf,</l>
+                    <l n="425">Wie ſpricht ein Geiſt zum andern Geiſt.</l>
+                    <l n="426">Umſonſt, daß trocknes Sinnen hier</l>
+                    <l n="427">Die Heil’gen Zeichen di<del f:revType="instant">e</del>r erklärt,</l>
+                    <l n="428">Ihr ſchwebt, ihr Geiſter, neben mir,</l>
+                    <l n="429">Antwortetet mir, wenn ihr mich hört!</l>
+                </lg>
+                <stage n="before_430"> Er ſchlägt das Buch auf, und erblickt das Zeichen des Macrocosmus. </stage>
+                <pb n="6"/>
+                <lg>
+                    <l n="430">Ha! welche Wonne fließ<add f:revType="late">t</add> in dieſem Blick</l>
+                    <l n="431">Auf, einmal mir durch alle meine Sinnen!</l>
+                    <l n="432">Ich fühle, junges, heilges Lebensglück</l>
+                    <l n="433">Neuglühend m<del f:revType="instant">r</del>ir, durch Nerv’, und Adern rinnen.</l>
+                    <l n="434">War es ein Gott, der dieſe Zeichen ſchrieb?</l>
+                    <l n="435">Die mir, das innre Toben ſtillen,</l>
+                    <l n="436">Das arme Herz mit Freude füllen</l>
+                    <l n="437">Und mit geheimnißvolle<subst f:revType="instant">
+                            <del>n</del>
+                            <add>m</add>
+                        </subst> Trieb,</l>
+                    <l n="438">Die Kräfte der Natur rings um mich her enthüllen.</l>
+                    <l n="439">Bin ich ein Gott? mir wird ſo licht!</l>
+                    <l n="440">Ich ſchau in dieſen reinen Zügen</l>
+                    <l n="441">Die würkende Natur vor meiner Seele liegen.</l>
+                    <l n="442">Jetzt erſt erkenn ich, was der Weiſe ſpricht:</l>
+                    <l n="443">„Die Geiſterwelt iſt nicht verſchloßen;</l>
+                    <l n="444">„Dein Sinn iſt zu, dein Herz iſt todt!</l>
+                    <l n="445">„Auf! bade, Schüler unverdroßen,</l>
+                    <l n="446">„Die ird’ſche Bruſt in Morgenroth!“</l>
+                </lg>
+                <!-- <add f:revType="late">–
+                    NB</add><note>Pausenzeichen</note> -->
+                <stage n="before_447">Er beſchaut das Zeichen</stage>
+                <lg>
+                    <l n="447">Wie alles ſich zum Ganzen webt,</l>
+                    <l n="448">Eins in dem andern wirkt und lebt!</l>
+                    <l n="449">Wie Himmelskräfte, auf und niederſteigen</l>
+                    <l n="450">Und ſich die goldnen Eimer reichen!</l>
+                    <l n="451">Mit <subst f:revType="late">
+                            <del>Segen duftenden</del>
+                            <add>Segenduftenden</add>
+                        </subst> Schwingen,</l>
+                    <l n="452">Vom Himmel, durch die Erde dringen,</l>
+                    <l n="453">Harmoniſch all’ das All durchklingen!</l>
+                    <pb n="7"/>
+                    <l n="454">Welch Schauſpiel! aber ach! ein Schauſpiel nur!</l>
+                    <l n="455">Wo faß ich dich unendliche Natur?</l>
+                    <l n="456">Euch Brüſte, wo? Ihr Quellen alles Lebens,</l>
+                    <l n="457">An denen Himmel und Erde häng<del f:revType="instant-or-soon" change="#l457-458">e</del>t,</l>
+                    <l n="458">Dahin die welke Bruſt ſich drängt –</l>
+                    <!-- Pausenzeichen und Aufführungsanweisung? -->
+                    <l n="459">Ihr quellt, ihr trä<del f:revType="instant">ü</del>nkt, und ſchmacht’ ich ſo vergebens!</l>
+                    <!-- Aufführungsanweisung? -->
+                </lg>
+                <stage n="before_460">Er ſchlägt unwillig das Buch um und erblickt das Zeichen des Erdgeiſtes.</stage>
+                <lg>
+                    <l n="460">Wie anders wirkt dies Zeichen auf mich ein!</l>
+                    <l n="461">Du, Geiſt der Erde, biſt mir näher;</l>
+                    <l n="462">Schon fühl’ ich meine Kräfte höher,</l>
+                    <l n="463"><del f:revType="instant">ſ</del>Schon glüh ich wie vom neuen Wein</l>
+                    <l n="464">Ich fühle Muth mich in die Welt zu wagen,</l>
+                    <l n="465">Der Erde Weh’, <del f:revType="instant"><gap reason="illegible" quantity="1" unit="chars"/></del>der Erde Glück zu tragen,</l>
+                    <l n="466">Mit Stürmen mich herum zu ſchlagen,</l>
+                    <l n="467">Und in des Schiffbruch’s Knirſchen nicht zu zagen.</l>
+                    <l n="468">Es wölkt ſich über mir –</l>
+                    <l n="469">Der Mond verbirgt ſein Licht <del f:revType="late">–</del></l>
+                    <!-- <add f:revType="late">NB <unclear cert="low">gan</unclear></add> -->
+                    <l n="470">Die Lampe ſchwindet!</l>
+                    <l n="471">Es dampft – Es zucken rothe Stralen</l>
+                    <l n="472">Mir um das Haupt – Es weht</l>
+                    <l n="473">Ein Schauer vom Gewölb’ herab</l>
+                    <l n="474">Und faßt mich an!</l>
+                    <l n="475">Ich fühl’s, du ſchwebſt um mich erflehter Geiſt.</l>
+                    <l n="476">Enthülle dich!</l>
+                    <l n="477">Ha! wie’s in meine<del f:revType="instant">n</del>m Herzen reißt!</l>
+                    <l n="478">Zu neuen Gefühlen</l>
+                    <l n="479">All meine Sinne<add f:revType="instant">n</add> ſich erwühlen!</l>
+                    <l n="480">Ich fühle ganz mein Herz dir hingegeben!</l>
+                    <l n="481">Du mußt! du mußt! Und koſtet es mein Leben!</l>
+                </lg>
+            </sp>
+            <stage n="before_482i_a">Er faßt das Buch, und ſpricht das Zeichen des Geiſtes geheimnißvoll aus. Es zuckt eine röthliche Flamme, der Geiſt erſcheint.</stage>
+            <pb n="8"/>
+            <sp>
+                <speaker n="before_482i_b">Geiſt.</speaker>
+                <l n="482" xml:id="l_130a">Wer ruft mir?</l>
+            </sp>
+            <sp>
+                <speaker n="before_482f_a">Fauſt</speaker>
+                <stage n="before_482f_b">(abgewendet)</stage>
+                <l n="482" xml:id="l_130b">Schreckliches Geſicht!</l>
+                <join target="#l_130a #l_130b" type="antilabe"/>
+            </sp>
+            <sp>
+                <speaker n="before_483">Geiſt.</speaker>
+                <l n="483">Du haſt mich mächtig angezogen,</l>
+                <l n="484">An meiner Sphäre lang’ geſogen,</l>
+                <l n="485" xml:id="l_133a">Und nun –</l>
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+            </sp>
+            <sp>
+                <speaker n="before_485f">Fauſt.</speaker>
+                <l n="485" xml:id="l_133b">Weh! ich ertrag dich nicht!</l>
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+                <join target="#l_133a #l_133b" type="antilabe"/>
+            </sp>
+            <sp>
+                <speaker n="before_486">Geiſt.</speaker>
+                <l n="486">Du flehſt erathmend mich zu ſchauen,</l>
+                <l n="487">Meine Stimme zu hören, mein Antlitz zu ſehn,</l>
+                <l n="488">Mich neigt dein mächtig Seelenfleh<subst f:revType="soon" f:correction="true">
+                        <del>m</del>
+                        <add>n,</add>
+                    </subst></l>
+                <l n="489">Da bin ich! – Welch erbärmlich Grauen</l>
+                <l n="490">Faßt Uebermenſchen dich! Wo iſt der Seele Ruf?</l>
+                <l n="491">Wo iſt die Bruſt? die eine Welt in ſich erſchuf?</l>
+                <l n="492">Und trug und hegte; die mit Freudebeben</l>
+                <l n="493">Erſchwoll, ſich uns, den Geiſtern, gleich zu heben.</l>
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+                <l n="494">Wo biſt du, Fauſt? deß Stimme mir erklang,</l>
+                <l n="495">Der ſich, an mich mit allen Kräften drang?</l>
+                <l n="496">Biſt du es? der, von meine<del f:revType="instant">n</del>m Hauch umwittert,</l>
+                <l n="497">In allen Lebenstiefen zittert,</l>
+                <l n="498">Ein furchtſam weggekrümter Wur<del f:revType="instant">n</del>m!</l>
+            </sp>
+            <sp>
+                <speaker n="before_499">Fauſt.</speaker>
+                <l n="499">Soll ich dir Flammenbildung weichen?</l>
+                <l n="500">Ich bin’s, bin Fauſt, bin deinesgleichen!</l>
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+            </sp>
+            <pb n="9"/>
+            <sp>
+                <speaker n="before_501">Geiſt.</speaker>
+                <l n="501">In Lebensfluthen, im Thatenſturm</l>
+                <l n="502">Wall’ ich auf und ab,</l>
+                <l n="503">Webe hin und her!</l>
+                <l n="504">Geburt und Grab,</l>
+                <l n="505">Ein ewiges Meer,</l>
+                <l n="506">Ein wechſelnd <del f:revType="instant">w</del>Weben,</l>
+                <l n="507">Ein glühend Leben,</l>
+                <l n="508">So ſchaff’ ich am ſauſenden Webſtuhl der Zeit,</l>
+                <l n="509">Und wirke der Gottheit lebendiges Kleid.</l>
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+            </sp>
+            <sp>
+                <speaker n="before_510">Fauſt.</speaker>
+                <l n="510">Der du die weite Welt umſchweifſt,</l>
+                <l n="511">Geſchäftger Geiſt, wie nah fühl ich mich dir!</l>
+            </sp>
+            <sp>
+                <speaker n="before_512">Geiſt.</speaker>
+                <l n="512">Du gleichſt dem Geiſt, den du begreifſt,</l>
+                <l n="513">Nicht mir.</l>
+                
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+            </sp><stage n="before_514_a">(verſchwindet.)</stage>
+            <sp>
+                <speaker n="before_514_b">Fauſt.</speaker>
+                <!-- <stage><add f:revType="late">unter der Muſ<ex resp="editor">ik</ex></add></stage> -->
+                <l n="514">Nicht dir!</l>
+                <l n="515">Wem denn?</l>
+                <l n="516">Ich Ebenbild der Gottheit!</l>
+                <l n="517">Und nicht einmal dir!</l>
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+            </sp>
+            <sp>
+                <lg>
+                    <l n="614">Ich Eben<del f:revType="instant">d</del>bild der Gottheit, das ſich ſchon</l>
+                    <l n="615">Ganz nah gedünkt dem Spiegel ew’ger Wahrheit,</l>
+                    <l n="616">Sein ſelbſt genoß, in Himmelsglanz und Klarheit,</l>
+                    <l n="617">Und abgeſtreift den Erdenſohn;</l>
+                    <!-- <stage><add f:revType="late">+<note>Aufführungsanweisung?</note></add></stage> -->
+                    <l n="619">Die Adern der Natur ſchon zu durchfließen.</l>
+                    <l n="620">Und, ſchaffend, Götterleben zu genießen</l>
+                    <l n="621">Sich ahndungsvoll vermaß, wie muß ich’s büßen,</l>
+                    <l n="622">Ein Donnerwort hat mich hingerafft.</l>
+                    <!-- <stage><add f:revType="late">–<note>Pausenzeichen</note></add></stage> -->
+                </lg>
+                <pb n="10"/>
+                <lg>
+                    <l n="623">Nicht darf ich dir zu gleich<add f:revType="soon">en</add> mich vermeßen.</l>
+                    <l n="624">Hab’ ich <del f:revType="instant">ich</del> die Kraft dich anzuziehn beſeßen;</l>
+                    <l n="625">So hatt’ ich dich zu halten keine Kraft.</l>
+                    <l n="626">In jenem ſel’gen Augenblicke</l>
+                    <l n="627">Ich fühlte mich ſo klein, ſo groß,</l>
+                    <l n="628">Du ſtießeſt grauſam mich zurücke,</l>
+                    <l n="629">Ins ungewiße Menſchenloos.</l>
+                    <!-- <stage><add f:revType="late">x<note>Hinweis</note></add></stage>
+                        <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+                    <l n="todo">Hier ſoll ich bangen, ſoll ich wähnen,</l>
+                    <l n="todo">Und hoffen in erneuter Pein,</l>
+                    <l n="todo">Soll an Verzweiflung mich gewöhnen</l>
+                    <l n="todo">Und größer als Verzweiflung ſeyn.</l>
+                    <l n="todo">Du Erdengeiſt, kennſt du die Macht</l>
+                    <l n="todo">Was eine Menſchenbruſt vermag?</l>
+                    <l n="todo">Ich breche durch! Nach dieſer Nacht</l>
+                    <l n="todo">Was kümmert mich ein neuer Tag<add f:revType="late">.</add></l>
+                    <l n="todo">Ich ſollte wohl im Jammer weilen,</l>
+                    <l n="todo">Nachdem ich eimal dich geſchaut.</l>
+                    <l n="todo">Sieh mich entſchloßen, ſieh mich eilen.</l>
+                    <l n="todo">Das Ende ſuch ich, keine Braut.</l>
+                </lg>
+                <pb n="11"/>
+                <lg>
+                    <l n="686">Doch warum heftet ſich mein Blick auf jene Stelle?</l>
+                    <l n="687">Iſt jenes Fläſchchen dort den Augen ein Magnet?</l>
+                    <l n="688">Warum wird mir auf einmal lieblich helle?</l>
+                    <l n="689">Als wenn im nächtgen <del f:revType="instant">M</del> Wald uns Mondenglanz umweht. –</l>
+                    <l n="690">Ich grüße dich, du einzige Phiole!</l>
+                    <l n="691">Die ich mit Andacht nun herunterhohle,</l>
+                    <l n="692">In dir verehr’ ich Menſchenwitz und Kunſt.</l>
+                    <l n="693">Du Inbegriff der holden Schlummerſäfte,</l>
+                    <l n="694">Du Auszug aller tödtlich feinen Kräfte,</l>
+                    <l n="695">Erweiſe deinem Meiſter deine Gunſt!</l>
+                    <l n="696">Ich ſehe dich, es wird der Schmerz gelindert,</l>
+                    <l n="697">Ich faße dich, das Streben wird gemindert,</l>
+                    <l n="698">Des Geiſtes Fluthſtrom ebbet nach und nach.</l>
+                    <l n="699">Ins hohe Meer, werd’ ich hi<del f:revType="soon">e</del>nausgewieſen,</l>
+                    <l n="700">Die Spiegelfluth erglänzt zu meinen Füßen</l>
+                    <l n="701">Zu neuen Ufern, lockt ein neuer Tag.</l>
+                </lg>
+                <pb n="12"/>
+                <lg>
+                    <l n="702">Ein Feuerwagen ſchwebt, auf leichten Schwingen,</l>
+                    <l n="703">An mich heran! Ich fühle mich bereit</l>
+                    <l n="704">Auf neuer Bahn den Aether zu durchdringen,</l>
+                    <l n="705">Zu neuen Sphären reiner Thätigkeit,</l>
+                    <l n="706">Dieß hohe Leben, dieſe Götterwonne!</l>
+                    <l n="707">Du, erſt<del f:revType="instant">,</del> noch Wurm, und die verdieneſt du?</l>
+                    <l n="708">Ja, kehre nur der Holdenerdenſonne</l>
+                    <l n="709">Entſchloßen deinen Rücken zu!</l>
+                    <l n="710">Vermeße dich, die Pforten aufzureißen,</l>
+                    <l n="711">Vor denen jeder gern vorüberſchleicht.</l>
+                    <l n="712">Hier iſt es Zeit, durch Thaten zu beweiſen,</l>
+                    <l n="713">Daß Mannes-Würde nicht der Götterhöhe weicht,</l>
+                    <l n="714">Vor jener dunklen Höle nicht zu beben,</l>
+                    <l n="715">In der ſich Phantaſie, zur eignen Qual verdammt,</l>
+                    <l n="716">Nach jenem <choice>
+                            <sic>durchgang</sic>
+                            <corr>Durchgang</corr>
+                        </choice> hinzuſtreben,</l>
+                    <l n="717">Um deßen engen Mund, die ganze Hölle flammt;</l>
+                    <l n="718">Zu dieſem Schritt ſich heiter zu entſchließen</l>
+                    <l n="719">Und wär es mit Gefahr, ins Nichts dahin zu fließen</l>
+                </lg>
+                <pb n="13"/>
+                <l n="720">Nun komm herab Kriſtallne reine Schale!</l>
+                <l n="721">Hervor a<del f:revType="instant">l</del>us altem Futterale,</l>
+                <l n="722">An die ich viele Jahre <subst f:revType="instant">
+                        <del>mich</del>
+                        <add>nicht</add>
+                    </subst> gedacht.</l>
+                <l n="723">Du glän<subst f:revType="instant">
+                        <del>t</del>
+                        <add>z</add>
+                    </subst>teſt bey der Väter Freudenfeſte,</l>
+                <l n="724">Erheiterteſt die ernſten Gäſte,</l>
+                <l n="725">Wenn einer dich, dem andern zugebracht.</l>
+                <l n="726">Der vielen Bilder künſtlich reiche Pracht,</l>
+                <l n="727">Des Trinkers Pflicht, ſie reimweis zu erklären,</l>
+                <l n="728">Auf eine<subst f:revType="instant">
+                        <del>m</del>
+                        <add>n</add>
+                    </subst> Zug, die Hölung auszuleeren,</l>
+                <l n="729">Erinnert mich an manche Jugend-Nacht</l>
+                <l n="730">Ich werde jetzt dich keinem Nachbar reichen,</l>
+                <l n="731">Ich werde meinen Witz an deiner Kunſt nicht zeigen,</l>
+                <l n="732">Hier iſt ein Saft der eilig trunken macht.</l>
+                <l n="733">Mit brauner Fluth erfüllt er deine Höle.</l>
+                <l n="734">Den ich bereitet, den ich wähle,</l>
+                <l n="735">Der letzte Trunk sey nun, mit ganz<add f:revType="instant-or-soon" f:correction="true">er</add> Seele</l>
+                <l n="736">Als feſtlich hoher Gruß, dem Morgen zugebracht.</l>
+                
+            </sp><stage n="before_737_a">Er ſetzt die Schale an den Mund.</stage>
+            <pb n="14"/>
+            <stage n="before_737_b">&gt;Glockenklang und Chorgeſang.</stage>
+            <sp>
+                <speaker n="before_737_c">Chor der Engel.</speaker>
+                <lg>
+                    <l n="737">Chriſt iſt erſtanden!</l>
+                    <l n="738">Freude dem Sterblichen,</l>
+                    <l n="739">Den die verderblichen,</l>
+                    <l n="740">Schleichenden, erblichen,</l>
+                    <l n="741">Mängel umwanden.</l>
+                </lg>
+            </sp>
+            <sp>
+                <speaker n="before_742">Fauſt.</speaker>
+                <l n="742">Welch tiefes Summen, welch ein heller Ton,</l>
+                <l n="743">Zieht mit Gewalt das Glas von meinem Munde?</l>
+                <l n="744">Verkündiget ihr dumpfen <subst f:revType="instant-or-soon">
+                        <del>Glockenſchon</del>
+                        <add>Glocken ſchon</add>
+                    </subst></l>
+                <l n="745">Des Oſterfeſtes Feyerſtunde?</l>
+                <l n="746">Ihr Chöre ſingt ihr ſchon den tröſtlichen Geſang?</l>
+                <l n="747">Der einſt, um Grabesnacht, von <subst f:revType="instant-or-soon">
+                        <del>Engelslippenklang</del>
+                        <add>Engelslippen klang</add>
+                    </subst>,</l>
+                <l n="748">Gewißheit einem neue<subst f:revType="instant-or-soon" f:correction="false">
+                        <del>n</del>
+                        <add>m</add>
+                    </subst> Bunde.</l>
+            </sp>
+            <sp>
+                <speaker n="before_749">Chor der Weiber.</speaker>
+                <l n="749">Mit Spezereyen</l>
+                <l n="750">Hatten wir ihn gepflegt,</l>
+                <l n="751">Wir, ſeine Treuen.</l>
+                <l n="753">Tücher und Binden</l>
+                <l n="754">Reinlich umwanden wir,</l>
+                <l n="755">Ach! und wir finden</l>
+                <l n="756">Chriſt nicht mehr hier.</l>
+            </sp>
+            <sp>
+                <speaker n="before_757">Chor der Engel.</speaker>
+                <lg>
+                    <l n="757">Chriſt iſt erſtanden!</l>
+                    <l n="758">Selig, der Liebende</l>
+                    <l n="759">Der die betr<choice>
+                            <sic>u</sic>
+                            <corr>ü</corr>
+                        </choice>bende,</l>
+                    <l n="760">Heilſam und übende</l>
+                    <l n="761">Prüfung beſtanden.</l>
+                </lg>
+            </sp>
+            <pb n="15"/>
+            <sp>
+                <speaker n="before_762">Fauſt.</speaker>
+                <l n="762">Was ſucht ihr mächtig und gelind,</l>
+                <l n="763">Ihr Himmelstöne mich am Staube?</l>
+                <l n="764">Klingt <subst f:revType="instant-or-soon">
+                        <del>dortumher</del>
+                        <add>dort umher</add>
+                    </subst>, wo weiche Menſchen ſind.</l>
+                <l n="765">Die Botſchaft hör ich wohl, allein mir fehlt der Glaube;</l>
+                <l n="766">Das Wunder iſt, des Glaubens liebſtes Kind.</l>
+                <l n="767">Zu jenen Sphären wag ich nicht zu ſtreben</l>
+                <l n="768">Woher die holde Nachricht Tönt;</l>
+                <l n="769">Und doch an dieſen Klang, von Jugend auf gewöhnt,</l>
+                <l n="770">Ruft er auch jetzt zurück, mich in das Leben.</l>
+                <!-- <add f:revType="late">–<note>Pausenzeichen</note></add> -->
+                <l n="771">Sonſt ſtürzte ſich der <subst f:revType="soon">
+                        <del>Himmel Liebe</del>
+                        <add>Himmels-Liebe</add>
+                    </subst> Kuß</l>
+                <l n="772">Auf mich h<del f:revType="instant">a</del>erab, in ernſter Sabbathſtille;</l>
+                <l n="773">Da klang ſo ahndungs voll des Glockentones Fülle</l>
+                <l n="774">Und ein Gebet, war brünſtiger Genuß;</l>
+                <l n="775">Ein unbegreiflich holdes Sehnen</l>
+                <l n="776">Trieb mich durch <subst f:revType="soon">
+                        <del>Wieſe</del>
+                        <add>Wieſ’</add>
+                    </subst> und Wälder hinzugehn</l>
+                <l n="777">Und unter tauſend heißen Thränen</l>
+                <l n="778">Fühlt’ ich mir eine Welt entſtehn.</l>
+                <l n="779">Dies Lied verkündete der Jugend muntre Spiele</l>
+                <l n="780">Der Frühlingsfeyer freyes Glück;</l>
+                <l n="781">Erinnerung hält mich nun, mit kindlichem Gefühle,</l>
+                <l n="782">Vom letzten<add f:revType="late">,</add> ernſten Schritt zurück.</l>
+                <l n="783">O! Tönet fort ihr ſüßen Himmelslieder!</l>
+                <l n="784">Die Thräne quillt, die Erde hat mich wieder.</l>
+                
+            </sp><stage n="todo">(In den Seßel ſinkend)</stage>
+            <pb n="16"/>
+            <sp>
+                <speaker n="before_785">Chor der Jünger.</speaker>
+                <lg>
+                    <l n="785">Hat der Begrabene</l>
+                    <l n="786">Schon ſich nach oben</l>
+                    <l n="787">Lebend <del f:revType="instant">e</del>Erhabene,</l>
+                    <l n="788">Herrlich erhoben;</l>
+                    <l n="789">Iſt er in Werdeluſt</l>
+                    <l n="790">Schaffender Freude nah;</l>
+                    <l n="791"><del f:revType="instant">An</del> Ach! an der Erde Bruſt,</l>
+                    <l n="792"><del f:revType="instant">ſ</del>Sind wir zum Leide da.</l>
+                    <l n="793">Ließ er die Seinen</l>
+                    <l n="794">Schmachtend uns hier zurück;</l>
+                    <l n="795">Ach! wir beweinen</l>
+                    <l n="796">Meiſter dein Glück.</l>
+                </lg>
+            </sp>
+            <sp>
+                <speaker n="before_797">Chor der Engel.</speaker>
+                <lg>
+                    <l n="797">Chriſt iſt erſtanden</l>
+                    <l n="798">Aus der Verweſung Schoos.</l>
+                    <l n="799">Reißet von Banden</l>
+                    <l n="800">Freudig euch los!</l>
+                </lg>
+            </sp>
+            <sp>
+                <speaker n="todo"><hi rend="latin">Tutti</hi></speaker>
+                <lg>
+                    <l n="801">Thätig ihn preißenden,</l>
+                    <l n="802">Liebe beweiſenden,</l>
+                    <l n="803">Brüderli<add f:correction="true" f:revType="soon">c</add>h ſpeißenden,</l>
+                    <l n="804">Predigend reiſenden,</l>
+                    <l n="805">Wonne verheißenden</l>
+                    <l n="806">Euch iſt der Meiſter nah’,</l>
+                    <l n="807">Euch iſt er da!</l>
+                </lg>
+            </sp>
+        </body>
+    </text>
+</TEI>

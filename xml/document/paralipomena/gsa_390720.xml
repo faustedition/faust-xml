@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390720/">
+	<revisionDesc>
+		<change when="2012-11-09" who="bruening">encoded</change>
+		<change when="2013-09-06" who="ritter">aktualisiert</change>
+		<change when="2014-01-27" who="henzel">docTranscript nachgetragen</change>
+		<change when="2014-10-10" who="pravida">headnote</change>
+		<change when="2015-07-03" who="koehler">minimal headnote</change>
+		<change when="2015-09-24" who="bruening">headnote geändert</change>
+		<change when="2016-02-08" who="koehler">witkowski1906</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Einzelblatt. – Prosaentwurf zu ‚Faust‘.</headNote>
+		<note>Abgetrennte Hälfte eines Quartdoppelblatts. Vom anderen Blatt ist unterhalb des
+			untersten Stichlochs noch ein Rest vorhanden.
+			Einzelblatt, 1 beschriebene Seite. – Vs.: Prosanotiz (eigenhändig, Tinte).</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P1</idno>
+		<idno type="gsa_1">GSA 25/XVII,2,1</idno>
+		<idno type="gsa_2">GSA 25/W 1374</idno>
+		<idno type="gsa_ident">390720</idno>
+		<idno type="wa_faust">none</idno>
+		<idno type="bohnenkamp">H P1</idno>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_14">S. 287</reference>
+			<reference type="description" uri="faust://bibliography/manning1896">S. 213</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+				221</reference>
+			<reference type="text" uri="faust://bibliography/castle1911">S. 70</reference>
+			<reference type="text" uri="faust://bibliography/binder1968">S. 64</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 221</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+				576f.</reference>
+			<reference type="facsimile" uri="faust://bibliography/manning1896">vor S.
+				209</reference>
+			<reference type="facsimile" uri="faust://bibliography/castle1911">Beilage, Nr.
+				6</reference>
+			<reference type="facsimile" uri="faust://bibliography/witkowski1906">nach S. 375</reference>
+			<reference type="facsimile" uri="faust://bibliography/witkowski1936">S.
+				524f.</reference>
+			<reference type="facsimile" uri="faust://bibliography/binder1968">nach S. 64</reference>
+			<reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach S. 736,
+				Abb. 11</reference>
+			<reference type="essay" uri="faust://bibliography/duentzer1891c"/>
+			<reference type="essay" uri="faust://bibliography/morris1902_1">S.
+				155–158<!-- auch zum "Denk- und Schreibprozess" --></reference>
+			<!--<reference type="essay" uri="faust://bibliography/castle1911">S. 70f.</reference>-->
+			<reference type="essay" uri="faust://bibliography/sarauw1917">S. 90f.</reference>
+			<reference type="essay" uri="faust://bibliography/binder1968">S.
+				64<!-- zur Datierung re u -->, 69<!-- Reihenfolge der Niederschrift --></reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 222-225</reference>
+		</references>
+		<textTranscript uri="390720.xml"/>
+		<classification>Notiz</classification>
+		<!-- <f:classification>Konzept</f:classification> -->
+		<condition>Das Blatt ist stark vergilbt, wie schon Manning beobachtet hat
+			(faust://bibliography/manning1896). Klebespuren am oberen Rand sowie auf der Rückseite.
+			Bei der Ablösung der rückseitigen Klebung ist Papiersubstanz verloren
+			gegangen.</condition>
+		<dimensions>
+			<width unit="mm">172</width>
+			<height unit="mm">209</height>
+		</dimensions>
+		<note>Der Mindestwert der Blatt-Höhe beträgt 206 mm.</note>
+		<format>4</format>
+		<stabMarks>
+			<stabMark unit="mm">131</stabMark>
+			<stabMark unit="mm">148</stabMark>
+		</stabMarks>
+		<note>Von den oberen beiden Stichlöchern sind keine Spuren mehr vorhanden.</note>
+		<edges>cut</edges>
+		<watermarkID>Gekroentes_Oval_in_Bogenmitte</watermarkID>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<note>Schwarze Flecken (Tintenkleckse?).</note>
+				<docTranscript/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Datierung "11. April 1800", sS</f:dabei_vermerk>
+      <f:datierung>1800 (?)</f:datierung>
+      <f:ident>390720</f:ident>
+      <f:kurztitel>Faust. Erster Theil
+Paralipomenon I 
+Ideales streben nach Einwircken ...
+WA: oS; vgl. I 14,287
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,2,1</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<metadaten xmlns="">
+				<p>GSA XVII (2,1) (WA I,14,287)</p>
+				<p>Arbeitsnotizen</p>
+				<p>Erstdruck: WA I,14,287; Faksimile u. a.: DVjs 42 (1968), S. 65; Abbildung auf
+					Schutzumschlag</p>
+				<p> x , ehemals gefaltetetes, dann halbiertes Folioblatt, bräunlich; WZ:
+					angeschnittenes Rautenkranzoval (Remdaer Wappenpapier);</p>
+				<p>VS: G schw.br. Tinte mit Sofortkorrekturen und Ergänzungen P1;</p>
+				<p>RS: leer</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p>Bei dem vieldiskutierten Paralipomenon 1 handelt es sich um eine zügige
+					eigenhändige Niederschrift mit Korrekturen und nachträglichen Ergänzungen im
+					letzten Teil. Das Blatt selbst bietet keine Anhaltspunkte für die Datierung: ein
+					mit Bleistift unten rechts notiertes Datum (11. April 1800) stammt von der Hand
+					eines Archivars und geht auf Überlegungen Pniowers zurück. P1 ist im Laufe der
+					Forschungsgeschichte schon für alle Phasen der Entstehungsgeschichte des Ersten
+					Teils in Anspruch genommen worden. Als zugehörig zur frühesten Phase, ja
+					mitunter als allerersten Entwurf oder Plan zu Goethes `Faust' überhaupt
+					bezeichneten es unter anderem Baumgart (Goethes Faust als einheitliche
+					Dichtung), Manning (Chronologie des ersten Paralipomenons) und Wohlauer (Das
+					erste Paralipomenon). Harnack vermutete die Entstehung dieser Skizze im Jahr
+					1788 nach Goethes Rückkehr aus Italien: "Das bisher Geleistete und den
+					Gesammtplan des Ganzen suchte er sich nach seiner Art in einer
+					genial-flüchtig-hingeworfenen Skizze zu recapituliren, die deutlich erkennen
+					läßt, daß die ausgeführten Scenen des `Urfaust' dem Dichter vorlagen" (Harnack,
+					Entstehung, S. 66).</p>
+				<p>Gegen Harnack vertrat Pniower die Auffassung, daß P1 nicht den `Urfaust', sondern
+					das Fragment rekapituliere und somit das Jahr 1790 als terminus post quem
+					anzusetzen sei (Pniower, Einige Faustparalipomena, S. 408f.). Seit Morris'
+					Untersuchung (Faustparalipomena, S. 153-158) gilt die Phase der Wiederaufnahme
+					der `Faust'-Arbeit ab 1797 als wahrscheinliche Entstehungszeit: mit dem Hinweis
+					auf Goethes Milton-Lektüre im Juli 1799, deren Einfluß in der letzten Zeile von
+					P1 zu erkennen sei ("Epilog im Chaos auf dem Weg zur Hölle"), möchte Morris den
+					Sommer 1799 als terminus post quem festhalten (Faustparalipomena, S. 158).
+					Dieser Auffassung schlossen sich u. a. Gräf, Sarauw (Entstehungsgeschichte), Alt
+					und Frederking (Das erste Faustparalipomenon) an; es kann allerdings keineswegs
+					als erwiesen gelten, daß Goethe mit Miltons Gedicht erst in diesem Sommer in
+					Berührung gekommen ist. (Vgl. Burdach, Das religiöse Problem, S. 62f.)</p>
+				<p>Einige Ausleger haben P1 für das von Goethe im Juni 1797 genannte "ausführlichere
+					Schema zum Faust" (WA III,2,74) gehalten (vgl. etwa Castle, Plan und Einheit,
+					und noch J. Müller, Prolog und Epilog). Abgesehen davon, daß die vorliegende
+					Skizze einer Charakterisierung als `ausführlicheres Schema' kaum gerecht wird,
+					spricht gegen diese Zuordnung vor allem auch die in P1 bereits geplante Teilung
+					des Dramas, die im Schema von 1797 noch nicht vorgesehen war und die für P1 eine
+					Entstehung nicht vor 1800 wahrscheinlich macht (vgl. mein Kapitel zur
+					Entstehungsgeschichte, hier S. 98). In seiner Untersuchung über `das erste
+					Faustparalipomenon' hat Pniower den Versuch einer genauen Datierung unternommen.
+					Er charakterisiert die Stichworte des P1 als "Gerippe einer Rückschau über das
+					an der Dichtung bisher Geschaffene und eine Auschau über das noch zu Leistende"
+					und bringt sie mit einem von Schiller veranlaßten Schreiben des Verlegers Cotta
+					in Zusammenhang, in dem dieser bittet, den wahrscheinlich "seiner Vollendung
+					nahe gebrachte[n]" `Faust' verlegen zu dürfen, und Goethe ein Grundhonorar von
+					4000 Gulden anbietet. Über diesen Brief</p>
+				<p> HP1</p>
+				<p> schreibt Goethe am 11. 4. 1800 an Schiller: "Ich habe einen Brief von ihm
+					[Cotta] über <i>Faust</i>, den Sie mir wahrscheinlich zugezogen haben. Wofür ich
+					aber danken muß. Denn wirklich habe ich auf diese Veranlassung das Werk heute
+					vorgenommen und durchdacht." (WA IV,15,56) Das Tagebuch verzeichnet unter diesem
+					Datum: "Brief von Cotta. Faust angesehen." (WA III,2,287) Nach Pniowers These
+					ist mit P1 der schriftliche Niederschlag dieses `Durchdenkens' überliefert.
+					Diesen durchaus plausiblen, jedoch keineswegs gesicherten Datierungsvorschlag
+					hat Grumach irrtümlich für eine Goethesche Datierung gehalten und als solche
+					übernommen (Prolog und Epilog, S. 734, Anm. 31; ebenso Stahl, Schiller and the
+					Composition of Goethe's `Faust', S.186); vermutlich auf diesem Wege ist er auch
+					als gesichertes Datum in den Kommentar der BA gelangt. </p>
+				<p>Nicht nur über die Datierung, auch über Funktion und Deutung der Stichworte des
+					P1 gibt es jedoch sehr unterschiedliche Auffassungen: so stellte etwa Düntzer
+					jeden engeren Zusammenhang mit dem `Faust' überhaupt in Frage (Düntzer, Eine
+					neues räthselhaftes Blatt, S. 609ff.); von anderen Forschern wurde es dagegen
+					als `geheime Mitte' und Schlüssel der `Faust'-Dichtung gewertet. (Vgl. z. B. von
+					Löw, Strukturen in Goethes `Faust'.)</p>
+				<p>Friedrich/Scheithauer beschreiben P1 überzeugend als den "Versuch des Dichters,
+					die von ihm bereits ausgestalteten Szenen nachträglich auf kurze Formeln zu
+					bringen, diese untereinander gedanklich zu verbinden und von da aus die
+					Stichworte für das Neuzuschaffende zu gewinnen. Der noch rein
+					gefühlsmäßig-anschaulich schaffende Verfasser des `Urfaust' hat allerdings kaum
+					in solchen Begriffen gedacht. Hier zeigt sich deutlich der Einfluß Schillers."
+					(Friedrich/Scheithauer, S. 115.)</p>
+				<p>Begrifflich-abstrahierende Überlegungen zum `Faust' finden sich unter den
+					Paralipomena nur in diesen, zumindest teilweise (Z. 1-13) als "nachträgliche
+					Selbstinterpretation" (Ursula Wertheim, Klassisches in `Faust _ der Tragödie
+					erster Teil', S. 125) beschreibbaren Stichworten; auf einer vergleichbaren
+					Metaebene bewegt sich unter den Paralipomena kein weiteres.</p>
+				<p>Deutet bereits das Verfahren selbst auf den Einfluß Schillers, so weisen die
+					zentralen Begriffe auf Goethes Auseinandersetzung mit der zeitgenössischen
+					Philosophie: auf Parallelen zur Terminologie Schellings hat zuerst Sarauw
+					(Entstehungsgeschichte, S. 51f.) aufmerksam gemacht; ebenfalls festzustellen
+					sind Anklänge an die Begrifflichkeit Fichtes, mit dessen Schrift `Ueber den
+					Begriff der Wissenschaftslehre' sich Goethe 1794 auseinandersetzte. Das in
+					Goethes Bibliothek neben anderen Werken Fichtes vorhandene Exemplar dieser
+					Abhandlung verrät seine eingehende Beschäftigung mit dieser Schrift: zahlreiche
+					Stellen hat Goethe mit Bleistift angestrichen. Dreifach angestrichen ist der
+					folgende Satz aus § 7, S. 50: "Im menschlichen Geist ist also ursprünglich vor
+					unserm Wissen vorher Gehalt und Form, und beide sind unzertrennlich verbunden."
+					(Vgl. auch Stahl, Schiller and the Composition of Goethe's `Faust'.)</p>
+				<p>Im Mai 1798 lernt Goethe Schelling persönlich kennen, dessen frühe Schriften ihn
+					sehr interessierten. In Schellings Schrift `Erster Entwurf eines Systems der
+					Natur</p>
+				<p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+				<p>philosophie' von 1799, mit der Goethe sich schon bald nach Erscheinen
+					auseinandersetzte (vgl. WA I,26,361), findet sich die von Sarauw im Hinblick auf
+					P1 angeführte Formulierung vom "Schauspiel eines Kampfs <i>zwischen der Form und
+						dem Formlosen</i>" (Schelling III,33), die hier auf die `continuirlich im
+					Werden begriffene Natur' bezogen ist. Daß Goethes Notiz tatsächlich mit seiner
+					Schelling-Lektüre in Zusammenhang zu bringen ist, wird durch weitere Bezüge
+					gestützt: Ausführlich diskutiert Schelling in derselben Schrift auch das
+					Verhältnis von "Innerem" und "Äußerem" als "Thätigkeit, die von innen nach außen
+					wirkt." (Schelling III,70f.) Auch Goethe hat sich mit der "alte[n] Hauptfrage
+					[...] wie viel unser Selbst und wie viel die Außenwelt zu unserm geistigen
+					Dasein beitrage" (Neuere Philosophie; WA II,11,48f.) gerade in den 90er Jahren
+					intensiv beschäftigt. Mit Interesse studierte er zu dieser Zeit nicht nur Fichte
+					und Schelling, sondern beschäftigte sich auch in eigenen Arbeiten mit der
+					Beziehung von Subjekt und Objekt. (Vgl. Der Versuch als Vermittler von Objekt
+					und Subjekt [1792], WA II,11,21ff.; Beobachtung und Denken [1792], WA
+					II,11,42ff.; Erfahrung und Wissenschaft [1798], WA II,11,38ff.) Auch in der noch
+					1801 geplanten `Disputation' stehen die Fragen nach dem Verhältnis von Subjekt
+					und Welt, `Innen' und `Außen' im Mittelpunkt. Die ebenfalls Möglichkeiten der
+					Weltaneignung durch das Subjekt thematisierenden Begriffe "Streben" und "Genuß",
+					die in P1 als Angelpunkte des dramatischen Geschehens etabliert werden, spielen
+					auch in den von Goethe 1801 entwickelten Überlegungen zu den `Stufen der
+					Kulturentwicklung' eine zentrale Rolle als "die beyden Enden menschlicher
+					Thätigkeit <i>Genuß und Streben,</i> mit den dazwischen liegenden Zuständen
+						<i>Gewohnheit und Resignation</i>". (1. 5. 1801; WA IV,15,228.) (Vgl. auch
+					Kommentar zu H P11, hier S. 229.)</p>
+				<p>Als "Erzeugnis der Schillerzeit" (S. 76) und Entwurf der `klassischen
+					Faust-Konzeption' hat in einer ausgreifenden Studie Ende der 60er Jahre Wolfgang
+					Binder das Paralipomenon bezeichnet und überzeugend mit den "beiden Kernstellen
+					des `Faust'" (Paktszene und `Großer Vorhof des Palastes') in Verbindung
+					gebracht, die beide "um 1800 entstanden sein müssen" (Binder, Faust-Konzeption,
+					S. 75). Zu den um 1800 anzusetzenden Vorarbeiten zum 5. Akt vgl. hier S.
+					739-742.</p>
+				<p>Die Entstehung von P1 läßt sich also mit großer Wahrscheinlichkeit in den Jahren
+					1800/1801 annehmen; es handelt sich hier um den Ansatz einer `Gesamtdeutung' des
+					Werkes durch seinen Verfasser. Bei der Einschätzung der Bedeutung dieser
+					Selbstinterpretation bleibt freilich zu berücksichtigen, daß diese Deutung einer
+					bestimmten Phase des Entstehungsprozesses zuzuordnen und nur unter Vorbehalten
+					auf die Dichtung als Ganzes beziehbar ist. Goethe selbst waren die hier
+					notierten Stichworte allerdings wichtig genug, um sie bis zur Fortsetzung der
+					Arbeit im Jahre 1825 und darüber hinaus aufzubewahren.</p>
+				<p>Z. 1f.: Vgl. den Eingangsmonolog Fausts (V. 354-459).</p>
+				<p>Z. 3f.: Vgl. die Erdgeisterscheinung (V. 460-517), die hier umgesetzt erscheint
+					in die "klassizistische Kunstterminologie der Jahrhundertwende" (Grumach, Prolog
+					und Epilog, S. 100, Anm. 94). Als "Weltgeist" wird der Erdgeist auch in der 1812
+					ge</p>
+				<p> HP1</p>
+				<p> planten Bühneneinrichtung bezeichnet. Vgl. hier S. 245. </p>
+				<p>Z. 5-9: Von der Szene zwischen Faust und Wagner (V. 522-601) ausgehende Notizen
+					zum Verhältnis von Gehalt und Form. Vgl. dazu Überlegungen aus dem Historischen
+					Teil der Farbenlehre, 3. Abtheilung: "Gehalt ohne Methode führt zur Schwärmerei;
+					Methode ohne Gehalt zum leeren Klügeln; Stoff ohne Form zum beschwerlichen
+					Wissen, Form ohne Stoff zu einem hohlen Wähnen." (WA II,3,137)</p>
+				<p>Z. 12f.: Schematische Gegenüberstellung: Wagner und Schüler werden als Vertreter
+					bestimmter Richtungen aufgefaßt; `dumpf' ist hier weniger als positiv
+					konnotierte Sturm-und-Drang-Vokabel, sondern als Gegensatz zu `hell' im Sinne
+					des schulphilosophischen Terminus `verworren' aufzufassen. Die Verwendung der
+					Bezeichnung "Schüler" läßt sich als Anhaltspunkt für die Bestimmung der
+					Entstehungszeit werten: der `Student' der `Frühen Fassung' heißt erst im
+					`Fragment' von 1790 `Schüler'.</p>
+				<p>Z. 14 Lebens Thaten Wesen] Kurzformel für das in den folgenden Zeilen näher
+					Ausgeführte?</p>
+				<p>Z. 16, 19, 21: Die zunächst niedergeschriebenen Zeilen, die die drei genannten
+					Stichworte (Z. 14) aufgreifen; bemerkenswert die Nennung eines zweiten
+					Teils.</p>
+				<p>Z. 15, 18, 20: Die ergänzenden Zusätze "von aussen ges{eh}", "nach aussen" und
+					"von innen" hat Goethe zwar in kleinerer Schrift, aber mit derselben Tinte
+					notiert wie den übrigen Text. Anhand einer dunkleren Tinte und abweichendem
+					Duktus deutlich davon zu unterscheiden sind dagegen die Ergänzungen "in der
+					Dumpfheit Leidensch.", "und Genuß mit Bewußtsey. Schönheit."</p>
+				<p>Z. 15 ges{eh}] Für die nicht sicher zu entziffernden Buchstaben schlägt Büchner
+					die Lesung "gesu[cht]" vor (Entstehung des `Faust', S. 34-45). Binder weist
+					darauf hin, daß die Richtungsbegriffe "von aussen" _ "nach aussen" _ "von innen"
+					in Goethes Werk immer dann begegnen "wenn eine Polarität von Innen und Außen _
+					Subjekt und Objekt, Ich und Welt, Mensch und Natur, Individuum und Gesellschaft
+					usf. _ durch Übergreifen des einen ins andre zu vermitteln ist. Das Urphänomen
+					dieser Vermittlung ist der Genuß." (Binder, Faust-Konzeption, S. 75.)</p>
+				<p>Z. 21f. Epilog im Chaos auf dem Weg zur Hölle] Morris verweist auf Miltons
+					`Paradise Lost', in dem das `Chaos' als `Urraum vor Erschaffung der Welt'
+					zwischen Hölle und Erde liegend gedacht ist. Der von Morris aus den vorliegenden
+					Stichworten gezogene Schluß auf einen alten Plan Goethes, der vorgesehen habe,
+					daß "Faust unmittelbar vor der anscheinend sicheren Verdammnis doch noch
+					gerettet werden soll" (Morris, Walpurgisnacht, S. 86), bleibt spekulativ: mit
+					Burdach läßt sich ebensogut vermuten, daß Goethe hier an die in den
+					`Satansprozessen' geschilderten "wiederholten Berichte Satans über den Verlauf
+					des Himmelgerichts, die er in der Hölle den Teufeln erstattet", anknüpft:
+					"Vielleicht ists der Schlußbericht [Mephistos] über den endgültigen Verlust der
+					Seele Fausts." (Burdach, Das religiöse Problem, S. 63.) Eine eindeutige Antwort
+					auf die Frage, wer hier "auf dem Weg zur Hölle" ist, läßt sich den Stichworten
+					des Paralipomenons nicht entnehmen.</p>
+				<p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+				<p>
+					<b>HP11</b>
+				</p>
+			</kommentar>
+		</f:abrDissertation>
+		<f:inventoryDatabase>
+			<f:field>
+				<f:key n="08">Signatur</f:key>
+				<f:value>25/XVII,2,1</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="081">Bestandsbezeichnung</f:key>
+				<f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+				<f:value>Faust I. WA I 14, 1-245</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="12e">ermittelte Datierung</f:key>
+				<f:value>1800 (?)</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="12i">Index-Datum</f:key>
+				<f:value>18000411</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="14">vorgefundenes Inzipit</f:key>
+				<f:value>Ideales streben nach Einwircken</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+				<f:value>I 14,287</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="25">Sigle</f:key>
+				<f:value>oS</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="30">Schrift</f:key>
+				<f:value>egh</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="333">Überlieferungsform</f:key>
+				<f:value>Konzept</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="41p">Paralipomenon</f:key>
+				<f:value>I 14,287</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="80">Blattzahl</f:key>
+				<f:value>1</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="90">dabei-Vermerk</f:key>
+				<f:value>Datierung "11. April 1800", sS</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="994">Filmnummer</f:key>
+				<f:value>1046</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="xx0">Datensatznr.</f:key>
+				<f:value>3639</f:value>
+			</f:field>
+			<f:paralipomenon>
+				<f:field>
+					<f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+					<f:value>25/XVII,2,1</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="21">WA-Abtlg. Bd. S.</f:key>
+					<f:value>I 14,287</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="26">Bohnenkamp-Sigle</f:key>
+					<f:value>H P1</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="41b">Bohnenkamp-Seite</f:key>
+					<f:value>221</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="41h">Hecker-Nummer</f:key>
+					<f:value>5</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="42i">Bohnenkamp-Inzipit</f:key>
+					<f:value>Ideales streben nach Einwircken</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="43">WA-Paralipomenon-Nummer</f:key>
+					<f:value>1</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="xx0">Datensatznr.</f:key>
+					<f:value>10079</f:value>
+				</f:field>
+			</f:paralipomenon>
+		</f:inventoryDatabase>
+	</f:metadataImport>
+</archivalDocument>

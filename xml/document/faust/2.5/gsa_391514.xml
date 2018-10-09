@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391514/">
+<revisionDesc>
+   <change when="2012-12-03" who="henzel">imported</change>
+   <change when="2012-12-03" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Blatt bildete ursprünglich mit faust://document/wa_faust/2_V_H.21 ein Folioblatt; eigenhändiges Konzept eines Briefs mit Bleistift an das Staatsarchiv Hannover: "So Geschehen, in danckbarster Anerkennung..." WA I 15.2,148 (Empfehlungsschreiben von Goethe für Eckermann(?), um den 27.2.1825(?)</note><!-- (25/XVIII,7,22) -->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.28</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,29</idno>
+      <idno type="gsa_2">GSA 25/W 1726</idno>
+      <idno type="gsa_ident">391514</idno>
+      <idno type="wa_faust">2 V H.28</idno>
+      <textTranscript uri="391514.xml"/>
+      <classification>Konzept</classification>
+      <condition>vergilbter Rand, fleckig</condition>
+      <dimensions>
+         <width unit="mm">168</width>
+         <height unit="mm">199</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graugrünlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>verschlungenes "JGH"</watermarkID><!-- über "N 3" --><!-- ABR: verschlungenes "G H" -->
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 159</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 774</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 161</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 159</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 774</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 727</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 159f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 775</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>            
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>um den 27.2.1825 (?)</f:datierung>
+      </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV2_59.JPG" width="65" height="9" align="middle"/> VH28 Entwürfe zur Szene `Grablegung', wohl aus dem März 1825. Vorstufen finden sich auf den Handschriften V H25 und V H27. Die zuerst von Hertz (Zur Entstehungsgeschichte von Faust II Akt 5, S. 254f.) und wieder von Landeck (S. 160) vorgeschlagene Datierung anhand des rückseitigen Konzeptbruchstücks ("Geschehen in dankbarster Anerkennung so vieljähriger, mit größter Genauigkeit und Treue, durchgeführ- ter mannigfaltiger Geschäfte, Weimar") auf einen Zeitraum um den 27.2. 1825 setzt dessen Deutung als Entwurf zu einem Empfehlungsschreiben für Eckermann voraus, der sich um eine Stelle am Staatsarchiv in Hannover bewerben wollte (vgl. Tagebuch vom 27. und 28. 2. 1825; WA III,10,24). Um das Konzeptbruchstück plausibel auf Eckermann beziehen zu können, muß Hertz allerdings gleich zwei "Schreibfehler" annehmen: statt "vieljährig" sei "vielfältig", statt "Geschehen"
+               "Gegeben" beabsichtigt gewesen _ eine überzeugendere Einordnung dieses Briefentwurfs steht noch aus. </p>
+            <p>Z. 1-8 sind bei Strehlke unter die Paralipomena aufgenommen (S. 140) und als "frühere Fassung von 11710-11716" bestimmt worden, was der Überlieferungskontext bestätigt.</p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:value>Verse doppelt = früheres und späteres K; beides spätere K zu V H.27 (25/XVIII,7,28)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

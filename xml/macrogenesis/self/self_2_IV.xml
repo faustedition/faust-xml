@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>"IV H 7a scheint mir richtig vor H 7 angesetzt"<!-- ABR per Mail, September 29, 2018 10:04 PM --></comment>
+    <item uri="faust://document/faustedition/2_IV_H.7a"/>
+    <item uri="faust://document/faustedition/2_IV_H.7"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>"IV H 7a scheint mir ... nach IV H 6.1 einzuordnen."<!-- ABR per Mail, September 29, 2018 10:04 PM --></comment>
+    <item uri="faust://document/faustedition/2_IV_H.6_1"/>
+    <item uri="faust://document/faustedition/2_IV_H.7a"/>
+  </relation>
+</macrogenesis>

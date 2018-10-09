@@ -1,0 +1,1594 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc xmlns:f="http://www.faustedition.net/ns"><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">J.2</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/print/J_1808.xml--><msIdentifier><repository>Freies Deutsches Hochstift, Frankfurt am Main</repository><idno type="fdh_frankfurt">XII A / 149</idno></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <revisionDesc>
+            <change when="2012-12-19" who="grepect">1. Lfg.2012</change>
+            <change when="2013-05-22" who="blaschko">Fehler korrigiert</change>
+            <change when="2013-06-20" who="blaschko">Fehler korrigiert</change>
+            <change when="2014-02-24" who="gorbunova">erste Textverse eingetragen</change>
+            <change when="2014-02-25" who="gorbunova">fremde Texte auskommentiert, automatische
+                Verszählung, Nummerierung des Nebentextes</change>
+            <change when="2014-02-26" who="kockel">Trüber Tag. Feld fertig.</change>
+            <change when="2015-03-09" who="bruening">Änderungen</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <text>
+                <pb facs="J_XIIA149-1808_00333.tif" n="333"/>
+                <!--<front>
+                    <titlePart type="issue" rend="centered big"><hi rend="letter-spaced">Nro.</hi>
+                        84</titlePart>
+                    <figure type="swelledRule"/>
+                    <titlePart rend="centered big letter-spaced"><hi rend="bold"
+                            >Morgenblatt</hi><lb/>für<lb/><hi rend="bold">gebildete
+                        Stände.</hi></titlePart>
+                    <figure type="line"/>
+                    <docDate rend="centered big letter-spaced">Donnerstag, 7. April, 1808.</docDate>
+                    <figure type="swelledRule"/>
+                    <epigraph>
+                        <quote>
+                            <lg rend="indented">
+                                <l>Blick’ hinweg vom Erdgetümmel,</l>
+                                <l>Wo ſich Träum’ um Träume dreh’n!</l>
+                                <l>Sieh dein Herz iſt ſelbſt ein Himmel!</l>
+                                <l>Kann ein Himmelreich vergeh’n?</l>
+                            </lg>
+                            <bibl rend="indented big letter-spaced">Tiedge.</bibl>
+                        </quote>
+                    </epigraph>
+                </front>-->
+                <body>
+                    <milestone unit="cols" n="2"/>
+                    <cb/>
+                    <head n="before_737_b" rend="centered big"><hi rend="letter-spaced">Glockenklang</hi> nnd <hi rend="letter-spaced">Chorgeſang.</hi></head>
+                    <!--<head rend="hanging small">(Neue Szene aus <hi rend="letter-spaced"
+                            >Goethe’s</hi> Tragödie: <hi rend="letter-spaced">Fauſt,</hi>
+                        welche<lb/>in der Fortſetzung der ſämmtlichen Goethiſchen Werke auf<lb/>die
+                        Oſtermeſſe erſcheinen wird.)</head>-->
+                    <sp>
+                        <speaker n="before_737_c" rend="centered letter-spaced">Chor der
+                            Engel.</speaker>
+                        <lg rend="indented">
+                            <l n="737">Chriſt iſt erſtanden!</l>
+                            <l n="738">Freude dem Sterblichen,</l>
+                            <l n="739">Den die verderblichen,</l>
+                            <l n="740">Schleichenden, erblichen</l>
+                            <l n="741">Mängel umwanden.</l>
+                        </lg>
+                    </sp>
+                    <sp>
+                        <speaker n="before_742" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="742">Welch tiefes Summen, welch ein heller Ton</l>
+                        <l n="743">Zieht mit Gewalt das Glas von meinem Munde?</l>
+                        <l n="744">Verkündiget ihr dumpfen Glocken ſchon</l>
+                        <l n="745">Des Oſterfeſtes erſte Feyerſtunde?</l>
+                        <l n="746">Ihr Chöre, ſingt ihr ſchon den tröſtlichen Geſang?</l>
+                        <l n="747">Der einſt, um Grabes Nacht, von Engelslippen klang,</l>
+                        <l n="748">Gewißheit einem neuen Bunde.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_749" rend="centered letter-spaced">Chor der
+                            Weiber.</speaker>
+                        <lg rend="indented">
+                            <l n="749">Mit Spezereyen</l>
+                            <l n="750">Hatten wir ihn gepflegt,</l>
+                            <l n="751">Wir ſeine Treuen</l>
+                            <l n="752">Hatten ihn hingelegt;</l>
+                            <l n="753">Tücher und Binden</l>
+                            <l n="754">Reinlich umwanden wir,</l>
+                            <l n="755">Ach! und wir finden</l>
+                            <l n="756">Chriſt nicht mehr hier.</l>
+                        </lg>
+                    </sp>
+                    <sp>
+                        <speaker n="before_757" rend="centered letter-spaced">Chor der
+                            Engel.</speaker>
+                        <lg rend="indented">
+                            <l n="757">Chriſt iſt erſtanden!</l>
+                            <l n="758">Selig der Liebende,</l>
+                            <l n="759">Der die betrübende,</l>
+                            <l n="760">Heilſam’ und übende</l>
+                            <l n="761">Prüfung beſtanden.</l>
+                        </lg>
+                    </sp>
+                    <cb/>
+                    <sp>
+                        <speaker n="before_762" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="762">Was ſucht ihr mächtig und gelind,</l>
+                        <l n="763">Ihr Himmelstöne, mich am Staube?</l>
+                        <l n="764">Klingt dort umher, wo weiche Menſchen ſind.</l>
+                        <l n="765">Die Botſchaft hör’ ich wohl, allein mir fehlt der Glaube;</l>
+                        <l n="766">Das Wunder iſt des Glaubens liebſtes Kind.</l>
+                        <l n="767">Zu jenen Sphären wag’ ich nicht zu ſtreben,</l>
+                        <l n="768">Woher die holde Nachricht tönt;</l>
+                        <l n="769">Und doch, an dieſen Klang von Jugend auf gewöhnt,</l>
+                        <l n="770">Ruft er auch jetzt zurück mich in das Leben.</l>
+                        <l n="771">Sonſt ſtürzte ſich der Himmels-Liebe Kuß</l>
+                        <l n="772">Auf mich herab, in ernſter Sabbathſtille;</l>
+                        <l n="773">Da klang ſo ahndungsvoll des Glockentones Fülle,</l>
+                        <l n="774">Und ein Gebet war brünſtiger Genuß;</l>
+                        <l n="775">Ein unbegreiflich holdes Sehnen</l>
+                        <l n="776">Trieb mich durch Wald und Wieſen hinzugehn,</l>
+                        <l n="777">Und unter tauſend heißen Thränen</l>
+                        <l n="778">Fühlt’ ich mir eine Welt entſtehn.</l>
+                        <l n="779">Dies Lied verkündete der Jugend muntre Spiele,</l>
+                        <l n="780">Der Frühlingsfeyer freyes Glück;</l>
+                        <l n="781">Erinnrung hält mich nun, mit kindlichem Gefühle,</l>
+                        <l n="782">Vom letzten, ernſten Schritt zurück.</l>
+                        <l n="783">O! tönet fort, ihr ſüßen Himmelslieder!</l>
+                        <l n="784">Die Thräne quillt, die Erde hat mich wieder!</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_785" rend="centered letter-spaced">Chor der
+                            Jünger.</speaker>
+                        <lg rend="indented">
+                            <l n="785">Hat der Begrabene</l>
+                            <l n="786">Schon ſich nach oben,</l>
+                            <l n="787">Lebend Erhabene,</l>
+                            <l n="788">Herrlich erhoben;</l>
+                            <l n="789">Iſt er in Werdeluſt</l>
+                            <l n="790">Schaffender Freude nah;</l>
+                            <l n="791">Ach! an der Erde Bruſt</l>
+                            <l n="792">Sind wir zum Leide da.</l>
+                            <l n="793">Ließ er die Seinen</l>
+                            <l n="794">Schmachtend uns hier zurück;</l>
+                            <pb facs="J_XIIA149-1808_00334.tif" n="334"/>
+                            <fw rend="centered" type="pageNum">334</fw>
+                            <milestone unit="cols" n="2"/>
+                            <cb/>
+                            <l n="795">Ach! wir beweinen,</l>
+                            <l n="796">Meiſter, dein Glück.</l>
+                        </lg>
+                    </sp>
+                    <sp>
+                        <speaker n="before_797" rend="centered letter-spaced">Chor der
+                            Engel.</speaker>
+                        <lg rend="indented">
+                            <l n="797">Chriſt iſt erſtanden,</l>
+                            <l n="798">Aus der Verweſung Schoos.</l>
+                            <l n="799">Reiſſet von Banden</l>
+                            <l n="800">Freudig euch los!</l>
+                            <l n="801">Thätig ihn preiſenden,</l>
+                            <l n="802">Liebe beweiſenden,</l>
+                            <l n="803">Brüderlich ſpeiſenden,</l>
+                            <l n="804">Predigend reiſenden,</l>
+                            <l n="805">Wonne verheißenden</l>
+                            <l n="806">Euch iſt der Meiſter nah’,</l>
+                            <l n="807">Euch iſt er da!</l>
+                        </lg>
+                    </sp>
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big letter-spaced">Der Rieſentang.</head>
+                        <stage rend="centered small">(Aus <hi rend="antiqua">Voyage aux terres
+                                australes.</hi>)</stage>
+                        <p rend="firstLineIndented">Die Ausdehnung der Lagen von Meergras, womit
+                            ein<lb/>Theil der Bay Ri<hi rend="antiqua">é</hi>dl<hi rend="antiqua"
+                                >é</hi> überdeckt iſt, hatte mich ſchon in<lb/>Verwunderung geſetzt;
+                            aber als wir an der nordöſtlichen<lb/>Küſte der Inſel hinſchifften,
+                            gaben uns eben dieſe Pflanzen<lb/>einen noch viel weſentlicheren Stoff
+                            zur Bewunderung. Die<lb/>ganze Oberfläche des Meeres war davon weithin
+                            bedeckt:<lb/>wir konnten uns ſogar nur mit vieler Mühe aus einer
+                            dieſer<lb/>Untiefen von Meergras losmachen, auf deren Rand
+                            wir<lb/>gerathen waren: mehrere Stunden lang hatten wir mit die­<lb
+                                break="no"/>ſem ſonderbaren Hinderniß zu kämpfen. Dieſe
+                            ungeheuern<lb/>Untiefen beſtanden aus einer einzigen Gattung, dem <hi
+                                rend="letter-spaced">Rie­<lb break="no"/>ſentang</hi> (<hi
+                                rend="antiqua">Fucus gigantinus</hi>), unſtreitig dem gröſten
+                            unter<lb/>allen Seegewächſen; denn wir haben einige derſelben gemeſ­<lb
+                                break="no"/>ſen, welche nicht weniger als 81 bis 97 Meter (250
+                            bis<lb/>300 Fuß) lang waren. Um dieſe unermeßlichen Stängel an<lb/>die
+                            Oberfläche des Waſſers zu erheben, und daſelbſt zu er­<lb break="no"
+                            />halten, bedient ſich die Natur eines eben ſo einfachen
+                            als<lb/>wirkſamen Mittels. Jeder Stängel bringt, in
+                            gewiſſen<lb/>Entfernungen von einander, ein ziemlich breites, am
+                            Rande<lb/>ausgezacktes, ſeiner ganzen Ausdehnung nach
+                            gemodeltes<lb/>Blatt hervor, deſſen Stiel ganz nahe an der Stelle, wo
+                            er<lb/>aus dem Stängel herauskommt, eine Art von großem, birn­<lb
+                                break="no"/>förmigem, 54 bis 81 Millimeter (2 bis 3 Zoll)
+                            langem,<lb/>und in der Mitte, wo es mehr Ausdehnung hat, beynahe<lb/>27
+                            Millimeter (1 Zoll) im Durchmeſſer dicken Bläschen<lb/>trägt. Alle dieſe
+                            mit Luft angefüllten Bläschen ſind gleichſam<lb/>eben ſo viele Ballone,
+                            durch welche die Stängel genöthigt<lb/>werden, ſich an die Oberfläche
+                            des Meers zu erheben, und<lb/>durch welche die entfalteten Blätter über
+                            dem Waſſer gehal­<lb break="no"/>ten werden. Einige von dieſen Blättern
+                            ſind ſehr groß, und<lb/>ich habe ihrer mehrere gemeſſen, welche 32 bis
+                            38 Decimeter<lb/>(10 bis 12 Fuß) lang waren.</p>
+                        <p rend="firstLineIndented">Nicht allein wegen ſeiner ſonderbaren
+                            Organiſation, und<lb/>wegen ſeiner rieſenmäßigen Größe muß dieſes
+                                Meergras<lb/>(<hi rend="antiqua">Fucus</hi>) den Beobachter
+                            intereſſiren. Zuweilen werden dieſe<lb/>Lagen (<hi rend="antiqua"
+                                >bancs</hi>) von Meergras durch den Sturm von dem<lb/><cb/>Grunde
+                            des Meeres losgeriſſen, und durch die Strömungen<lb/>in den Hintergrund
+                            der Bay Ri<hi rend="antiqua">é</hi>dl<hi rend="antiqua">é</hi> geführt,
+                            wo ſie bald<lb/>unter dem Sande begraben werden, und ſehr viel zu
+                            der<lb/>Verſchüttung dieſer Bay, und zu der Entwicklung der
+                            Erd-<lb/>Enge beytragen, wodurch ſie von der Auſternbay
+                            getrennt<lb/>iſt. So kommt alſo das große Gemählde, welches <hi
+                                rend="letter-spaced">Lin­<lb break="no"/>näus</hi> in ſeinen
+                            Prolegomenen zu dem Mineralreiche von<lb/>dem Einfluſſe der Seepflanzen
+                            auf die Anſchwemmungen der<lb/>Meere beſchreibt, hier an dieſem
+                            äußerſten Ende der Welt<lb/>zur Wirklichkeit.</p>
+                    </div>-->
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big letter-spaced">Sainclair.</head>
+                        <stage rend="centered small">(Fortſetzung der Novelle von Frau v. <hi
+                                rend="letter-spaced">Genlis.</hi>)</stage>
+                        <p rend="firstLineIndented">In Paris angekommen fühlte Sainclair lange Weile
+                            und<lb/>Unluſt zur Arbeit. Eines Morgens fiel ihm die Geſchichte
+                            der<lb/>unglücklichen Familie wieder ein, und er entſchloß ſich gleich,
+                            ſie<lb/>zu beſuchen. Er kam in Paſſy an, und frug nach dem Hauſe<lb/>von
+                            Mad. <hi rend="letter-spaced">Morin.</hi> Man führte ihn dahin; aber bey
+                                ſei­<lb break="no"/>nem Eintritt in den Hof ſah er einen Wagen
+                            ſtehen, und<lb/>erkannte die Livree des Grafen von <hi
+                                rend="letter-spaced">Monclar!</hi> .. Sehr<lb/>bewegt ſtieg er die
+                            Treppe hinauf. Er wähnte, bis in den<lb/>vierten Stock ſteigen zu
+                            müſſen; allein man ſagte ihm, daß<lb/>dieſe Familie ſeit zwey Tagen eine
+                            anſtändigere Wohnung<lb/>im zweyten Stocke genommen habe, die ſehr artig
+                            von einer<lb/>reitzenden, jungen Perſon meublirt worden ſey . . . Er
+                            frug<lb/>nicht nach ihrem Namen; aber Albinens Blicke fielen
+                            ihm<lb/>ein, und da ſagte er bey ſich ſelbſt: o wie iſt ihr
+                            Mitleid<lb/>ſo rührend und wahr! .. Schon ſtand er an der Thür,
+                            und<lb/>wußte nicht, ob er hineintreten ſollte; denn es iſt
+                            leicht<lb/>bey Leuten, die im äuſſerſten Elende ſind,
+                            unangemeldet<lb/>einzuſprechen; aber wenn ſie es nicht mehr ſind, bedarf
+                            es<lb/>ſchon eines Vorwands . . . und dann traf er ja Albinen
+                            an,<lb/>und die mußte denken, daß er viel zu ſpät komme
+                            . . .<lb/>Während er noch ſich beſann, ging die Thür auf, und Al­<lb
+                                break="no"/>bine erſchien mit ihrer Gouvernantinn . . . Er war
+                                unbe­<lb break="no"/>weglich; Albine machte eine Bewegung von
+                            Ueberraſchung,<lb/>grüßte ihn, und ging ſchnell an ihm vorüber. Wie
+                            ſchön<lb/>kam ſie ihm nun vor! Wie gut ſtand ihr dieſes Neglig<hi
+                                rend="antiqua">é</hi>,<lb/>während ſie die etwas dunkle Treppe
+                            hinabſtieg! .. Noch<lb/>drehte ſie einmal den Kopf, und ſah Sainclair’n,
+                            wie er<lb/>unbeweglich an der Thüre ſtand, wie er ihr mit den
+                            Augen<lb/>folgte, . . . und verſchwand. Da er ſie nicht mehr ſah,<lb/>ſo
+                            horchte er, hörte den Wagen aus dem Hofe fahren, zit­<lb break="no"
+                            />terte . . . Nun erſt entſchloß er ſich, Madame Morin zu<lb/>ſehn; die
+                            mußte doch von Albinen ſprechen . . . Er zog die<lb/>Klingel, eine Magd
+                            öffnete, und führte ihn hinein. Aber<lb/>er fand Mad. Morin nicht, wie
+                            man ihm erzählt hatte,<lb/>in einem Dachſtübchen ohne Meubles, ſondern
+                            in einer<lb/>niedlichen und bequemen Wohnung. Mit der gröſten Höf­<lb
+                                break="no"/>lichkeit näherte er ſich ihr, und ſagte ihr, daß er von
+                                ih­<lb break="no"/>rem Unglück gehört habe, und komme, um ihr ſeine
+                            Dienſte<lb/>anzubieten. Mad. Morin dankte ihm, erwiederte aber,<lb/><pb
+                                facs="J_XIIA149-1808_00335.tif" n="335"/><fw rend="centered"
+                                type="pageNum">335</fw><milestone unit="cols" n="2"/><cb/>daß ſie
+                            nichts mehr zu wünſchen habe, indem der Graf von<lb/>Monclar, auf den
+                            Wunſch ſeiner engelguten Tochter, ihr<lb/>großmüthigſter Beſchützer
+                            geworden ſey, und ſie durch eine<lb/>Leibrente in eine ſehr behagliche
+                            Lage verſetzt habe. Ich<lb/>habe drey Töchter, fuhr ſie fort, Demoiſelle
+                            de Monclar<lb/>hat mir eine abgenommen, die ſie wie ihre Freundinn
+                            hält;<lb/>die zweyte wurde von ihr in einem Kloſter
+                            untergebracht,<lb/>deſſen Aebtiſſinn ihre Tante iſt, und ich habe nur
+                            noch<lb/>die jüngſte bey mir. Herr von Monclar hat mir dieſe<lb/>Wohnung
+                            meubliren laſſen. Sehen Sie, das iſt Edel­<lb break="no"/>muth! Was aber
+                            über alle dieſe Wohlthaten geht, das iſt<lb/>die zarte Schonung, mit
+                            welcher Demoiſ. von Monclar<lb/>mich behandelt. Die Dankbarkeit ſelbſt
+                            wäre nicht im<lb/>Stande, ſie zu ſchildern! O wenn Sie wüßten, welche
+                                Auf­<lb break="no"/>merk amkeiten, welche Freundſchaft ſie für mich
+                            hat, wie<lb/>ſie ſich ſo ganz vergißt, wenn ſie mit mir ſpricht!
+                            . . .<lb/>Während Mad. Morin ſprach, betrachtete Sainclair in tief­<lb
+                                break="no"/>ſter Rührung das ſämmtliche Geräthe der Wohnung, er­<lb
+                                break="no"/>rieth alle die beſondern Geſchenke Albinens; das
+                            hübſche<lb/>Dejeuner von Porcelaine, der Stickrahmen, der Papagei<lb/>in
+                            ſeinem Käfich, der Topf mit Blumen, all das waren<lb/>gewiß keine
+                            Geſchenke von Hrn. von Monclar. Mit unbe­<lb break="no"/>ſchreiblicher
+                            Verwirrung erkannte er die wohlthätige weib­<lb break="no"/>liche Hand,
+                            Albinens Hand! .. Die Vernunft vermag den<lb/>Verführungen der Schönheit
+                            und der Talente entgegenzu­<lb break="no"/>kämpfen; aber wie dem
+                            vereinten Zauber der Jugend, der<lb/>Anmuth und Tugend zu widerſtehn?
+                            Man iſt bey dem<lb/>Enthuſiasmus, den man fühlt, ſo wohl mit ſich ſelbſt
+                                zu­<lb break="no"/>frieden! ....</p>
+                        <p rend="firstLineIndented">Die Aeuſſerung der Mad. Morin, daß Albine in
+                            Zeit<lb/>von funfzehn Tagen nach einer der Ländereyen ihres Va­<lb
+                                break="no"/>ters abreiſen, und dort bis zu ihrer Hochzeit bleiben
+                            werde,<lb/>weckte Sainclair’n endlich aus ſeinen Träumereyen.
+                            Er<lb/>zitterte, ſtieß einen tiefen Seufzer aus, und beurlaubte<lb/>ſich
+                            von Mad. Morin. Doch fiel es ihm ein, daß ſeine<lb/>Beſuche Albinen
+                            abhalten könnten, ſo oft wie bisher zu<lb/>kommen. Er bediente ſich
+                            daher einer höflichen Wendung,<lb/>wodurch er bey ſeinem Weggehn
+                            erklärte, daß er zum letz­<lb break="no"/>tenmale hier geweſen ſey. Den
+                            andern Tag ſchickte er Mad.<lb/>Morin eine Parthie der ſchönſten und
+                            ſeltenſten Blumen, der<lb/>Beſteller ſelbſt wußte den Namen des Senders
+                            nicht; doch<lb/>ließ er ſich nur zu leicht errathen.</p>
+                        <p rend="firstLineIndented">Sainclair hatte eine Zerſtreuung ſehr nöthig. Er
+                                be­<lb break="no"/>ſuchte Klotilden, welche ihn durch ihr Benehmen
+                                über­<lb break="no"/>zeugte, daß ſie eine große Leidenſchaft für ihn
+                            habe. Sie<lb/>war ſehr reitzend, und Albine daher bald ſo ziemlich
+                            vergeſſen.</p>
+                        <p rend="firstLineIndented">Indeß band er ſich noch nicht, und erklärte
+                            ſelbſt ſeine<lb/>Geſinnungen nicht. Er kannte ein Talent an Klotilden,
+                            das<lb/>ihn einigermaßen beunruhigte. Sie mahlte, und that
+                            ſich<lb/>nicht wenig auf ihr Mahlen zu gut. Sie unterhielt
+                            ſich<lb/>nicht blos mit Blumenzeichnung, ſondern komponirte in<lb/>Oel
+                            und halb Lebensgröße mythologiſche Gegenſtände, und<lb/><cb/>wähnte den
+                            berühmteſten Frauen in dieſem Fache beyzukom­<lb break="no"/>men. Schon
+                            hatte ſie, durch die Begünſtigung eines großen<lb/>Mahlers, den Ruhm
+                            genoſſen, einige Gemählde im Salon<lb/>des Louvers auszuſtellen.
+                            Sainclair’n war das nicht unbe­<lb break="no"/>kannt. Er wußte ſogar,
+                            daß ſie mit Eifer für die nächſte<lb/>Ausſtellung arbeitete, welche in
+                            Zeit von einem Monat ſtatt<lb/>finden ſollte. Duval theilte Sainclair’s
+                            günſtige Geſinnung<lb/>für Klotilden nicht, ſondern bekämpfte ohne
+                            Rückhalt die<lb/>Neigung ſeines Freunds. So willſt du endlich doch,
+                            ſagte<lb/>er ihm, gegen dein Gelübde eine berühmte Frau heira­<lb
+                                break="no"/>then! — Ich bin noch nicht ganz entſchloſſen; aber du
+                            weißt<lb/>ja, daß ich die Künſte nicht haſſe, ſondern blos den
+                            Werth<lb/>nicht leiden kann, welchen die Liebhaber auf kleine
+                            Erfolge<lb/>und mittelmäßige Talente ſetzen. Nur dieſe zügelloſe Ei­<lb
+                                break="no"/>genliebe iſt mir unausſtehlich, welche die gefühlvolle
+                            Seele<lb/>der Frauen dermaſſen verhärtet, daß ſie ihr die
+                            theuerſten<lb/>Meinungen aufzuopfern im Stande ſind . . . —
+                            Glaubſt<lb/>du, daß Klotilde von dieſem Stolze frey ſey? — Wenig­<lb
+                                break="no"/>ſtens hat er ihr Herz noch nicht angegriffen; denn ſie
+                            liebt<lb/>doch noch, und die Mahlerey iſt nur eine Erhohlung
+                            für<lb/>ſie. — Wenn ihr die Eitelkeit den Kopf nicht verdreht
+                            hat,<lb/>ſo ſtellt ſie alſo wohl aus Demuth ihre Gemählde neben
+                            den<lb/>Werken der größten Meiſter vor die Augen des Publikum.
+                            —<lb/>Nein, ſie gibt aus einer Art von Nachläßigkeit
+                            einem,<lb/>heutzutage nur zu allgemeinen, lächerlichen Beyſpiele
+                            nach.<lb/>Uebrigens verändert meine Neigung für ſie nicht das Ge­<lb
+                                break="no"/>ringſte an meinen Ideen über die ſogenannten
+                            Kunſtliebhaber,<lb/>und meine Grundſätze in Bezug auf dieſe ſind noch
+                            eben ſo<lb/>ſtreng, wie ſonſt. Man behauptet, daß man dieſen
+                            weit<lb/>mehr nachſehen müſſe, als den Künſtlern. Ja, wenn blos<lb/>ihre
+                            Gefälligkeit in der Geſellſchaft ſie nöthigt, ihre Talente<lb/>zu
+                            zeigen. Stellen ſie ſie aber von ſelbſt vor dem Publikum<lb/>aus, ſo iſt
+                            es natürlich, ſie mit ungleich größerer Strenge<lb/>zu behandeln, als
+                            die Künſtler ſelbſt. Es gibt ehrenvolle<lb/>Plätze im zweyten und ſelbſt
+                            im dritten Rang, und ein mit­<lb break="no"/>telmäßiger Künſtler kann
+                            dennoch ſehr achtungswerth ſeyn.<lb/>— Wenn er ſich vor dem Publikum
+                            zeigt, ſo geſchieht das<lb/>nicht aus Eitelkeit, ſondern aus der
+                            Verbindlichkeit, wel­<lb break="no"/>che ihm der Stand auferlegt, worin
+                            er einmal lebt. Thut<lb/>aber der Kunſtliebhaber denſelben Schritt, und
+                            rechtfertigt<lb/>er ihn nicht durch ein ganz ausgezeichnetes Talent, ſo
+                                han­<lb break="no"/>delt er unüberlegt, und offenbart beynahe immer
+                            eine lä­<lb break="no"/>cherliche Eitelkeit. Wie ſollt’ ich auch den
+                            Muth haben,<lb/>das ſchlechte Gemählde eines Künſtlers zu bekritteln?
+                            Ich<lb/>weiß ja, daß er es nicht theuer verkaufen, und ſich al­<lb
+                                break="no"/>ſo nicht zu hoch anſchlagen kann; der Kunſtliebhaber
+                            aber,<lb/>der ſeine Arbeiten nicht verkauft, wird nie durch die An­<lb
+                                break="no"/>bote der Käufer belehrt, und wenn er ſich einfallen
+                            läßt, in<lb/>einer öffentlichen Ausſtellung ſein Gemählde neben die
+                            Werke<lb/>von Gu<hi rend="antiqua">é</hi>rin und G<hi rend="antiqua"
+                                >é</hi>rard zu ſtellen, ſo bin ich in Verſu­<lb break="no"/>chung,
+                            über ihn zu lachen. Seh’ ich hingegen die nämliche<lb/>Arbeit auf ſeinem
+                            Zimmer, oder bey einem Freunde, ſo<lb/><pb
+                                facs="J_XIIA149-1808_00336.tif" n="336"/><fw rend="centered"
+                                type="pageNum">336</fw><milestone unit="cols" n="2"/><cb/>werd’ ich
+                            ſie mit Vergnügen loben. — Dann darfſt du<lb/>noch wohl hinzuſetzen, daß
+                            man die Mahler aus Liebhabe­<lb break="no"/>rey, wenn ſie viele
+                            Anſprüche machen, immer ein wenig im<lb/>Verdachte hat, ſich in ihren
+                            Arbeiten helfen zu laſſen. —<lb/>Eines ſolchen Betrugs iſt Klotilde
+                            unfähig. — Nicht Jeder­<lb break="no"/>mann urtheilt ſo günſtig von ihr.
+                            — Sie iſt zu hübſch, zu<lb/>liebenswürdig, um nicht Neid zu erregen. —
+                            Du heiratheſt<lb/>ſie, ich ſeh’ es ſchon voraus! — Ich . . . ich werd’
+                            es noch<lb/>überlegen. Bey Albinen ſtand ich keinen Augenblick an.
+                            —<lb/>O wie viel beſſer hätte ſie für dich gepaßt! — Das fühl’<lb/>ich
+                            nur zu tief, und, hauptſächlich um mich von einer ſo ge­<lb break="no"
+                            />fährlichen Erinnerung — zu zerſtreuen, ſuch’ ich eine
+                            andere<lb/>Verbindung. — Aber du ſollteſt eine gute Wahl treffen.
+                            —<lb/>Ich verſpreche dir wenigſtens, nichts zu übereilen.</p>
+                        <p rend="centered">(Die Fortſetzung folgt.)</p>
+                    </div>-->
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big bold letter-spaced"
+                            >Korreſpondenz-Nachrichten.</head>
+                        <stage rend="right small"><hi rend="letter-spaced">Paris,</hi> 25
+                            März.</stage>
+                        <p rend="firstLineIndented small">Der verſtorbene Profeſſor der türkiſchen
+                            Sprache, Hr.<lb/><hi rend="letter-spaced">Venture,</hi> hat mehrere
+                            Papiere hinterlaſſen, aus welchen<lb/>Hr. <hi rend="letter-spaced"
+                                    >Langl<hi rend="antiqua">è</hi>s</hi> Folgendes mittheilt: Die
+                            Araber haben drey­<lb break="no"/>erley Racen guter Pferde. Die erſte
+                            Race heißt Djelfy, die<lb/>zweyte Manakry<hi rend="antiqua">é</hi>h, und
+                            die dritte Saklaouvy<hi rend="antiqua">é</hi>h. Weit weni­<lb break="no"
+                            />ger geſchätzt ſind die andern Racen, Sakers, Turkmäni<hi
+                                rend="antiqua">é</hi>hs<lb/>und Rob<hi rend="antiqua">é</hi>ichäns.
+                            Die Race Djelfy halten die Araber von Sy­<lb break="no"/>rien für die
+                            beſte; einige ziehen die Manakry<hi rend="antiqua">é</hi>hs vor, als
+                                wel­<lb break="no"/>che eben ſo fein und leicht als jene, und noch
+                            überdiß taugli­<lb break="no"/>cher für die Strapazen ſeyn ſollen. Man
+                            findet beyderley Ra­<lb break="no"/>cen ſehr leicht bey den Arabern, die
+                            in den Gegenden von St.<lb/>Jean d’Acre, Nazareth, Napoulouze, Yaffa,
+                            Stamah, Je­<lb break="no"/>ruſalem und Ghazah umherſtreichen; am beſten
+                            ſind ſie bey den<lb/>Arabern von Ghazah; doch findet man auch einige
+                            gute bey<lb/>einigen Bewohnern von andern Städten und Dörfern.
+                            Ein<lb/>ſchönes Füllen dieſer beyden Racen, einjährig oder
+                                anderthalb­<lb break="no"/>jährig, koſtet ungefähr 100 Piaſter,
+                            zwey- oder dritthalbjäh­<lb break="no"/>rig 150 bis 200 Piaſter. Ein
+                            ſchönes 3- bis 4jähriges Pferd<lb/>von dieſen beyden Racen wird
+                            gewöhnlich mit 300 Piaſtern<lb/>bezahlt; doch kömmt es dabey viel darauf
+                            an, ob der Käufer<lb/>ſehr eifrig, der Verkäufer ſehr habſüchtig iſt, u.
+                            ſ. w. Will<lb/>man 2 Pferde von gleicher Race, Schönheit und Güte
+                                beyſam­<lb break="no"/>men haben, und man findet ſie nicht bey
+                            ebendemſelben Eigen­<lb break="no"/>thümer, ſo bezahlt man oft das erſte
+                            mit 200, und das zweyte<lb/>mit 500 P. Die Race Saklaouvy<hi
+                                rend="antiqua">é</hi>h rührt von Vermiſchung<lb/>eines
+                            Djelfy-Hengſts mit einer Saklaouvy<hi rend="antiqua">é</hi>h-Stute oder
+                                Sa­<lb break="no"/>ker, oder Turkmany<hi rend="antiqua">é</hi>h her;
+                            man findet die Saklaouvy<hi rend="antiqua">é</hi>hs in<lb/>eben dieſen
+                            Gegenden ſowohl bey den herumſtreifenden Arabern,<lb/>als bey den
+                            Einwohnern der Städte und Dörfer; ſie find aber<lb/>um ein Drittel
+                            wohlfeiler als jene beyden erſten Racen. Die<lb/>Race Saker iſt aber gut
+                            unter jenen dreyen; ſie hat ihren<lb/>Namen von den Arabern, die um Acre
+                            und Galiläa herſtrei­<lb break="no"/>fen; die ſchönen Fohlen koſten 80,
+                            die 2- bis 3jährigen 130<lb/>bis 150 P. Die Race Turkmany<hi
+                                rend="antiqua">é</hi>h, von den Turkmanniſchen<lb/>Arabern, findet
+                            man bey Alep; bisweilen bringt man ſie nach<lb/>Damas, Tripoli in
+                            Syrien, Acre, Ramah, Napoulouze und<lb/>Ghazah; ſie ſind gut und ſchön,
+                            aber doch etwas weniger ge­<lb break="no"/>ſchätzt als die Sakers; ihr
+                            Preis iſt beynahe wie dieſer. Noch<lb/>hat man die Race Madeloumi und
+                            Musmar, von einem Heng­<lb break="no"/>ſte der guten Racen und einer
+                            gewöhnlichen Stute, die nicht<lb/>von Race iſt; ihr Preis iſt wiederum
+                            ein Drittel weniger; ſie<lb/>ſind jedoch bisweilen ziemlich gut.</p>
+                        <cb/>
+                        <p rend="firstLineIndented small">Der Dekorations-Mahler, welcher die
+                            Dekorationen des<lb/>Hoftheaters in den Tuillerien gemahlt hat, wird nun
+                            auch die<lb/>Appartements in dieſem Kaiſerlichen Pallaſte mahlen. Es
+                            iſt<lb/>Hr. <hi rend="letter-spaced">Mönch,</hi> ein Schwabe.</p>
+                        <p rend="firstLineIndented small">Der alte berühmte Tänzer <hi
+                                rend="letter-spaced">Veſtris</hi> hat ſo eben ſeine Gat­<lb
+                                break="no"/>tin, eine geborne <hi rend="letter-spaced">Heynel,</hi>
+                            verloren; ſie ſtarb an einer lan­<lb break="no"/>gen Krankheit. Ihren
+                            Anfang in der Tanzkunſt machte ſie<lb/>unter dem berühmten <hi
+                                rend="letter-spaced">Noverre,</hi> und zwar in Stuttgart,<lb/>wo er
+                            ihr in ſeinem Ballete Proſerpina die Hauptpantomime<lb/>auftrug. Sie
+                            zeichnete ſich nachher in Wien in den Balleten<lb/>Armide, Alceſte und
+                            Orpheus aus. Im Jahr 1769 tanzte ſie<lb/>in Paris in der großen Oper.
+                            Als ſie das Theater verließ,<lb/>heirathete ſie den alten Veſtris.
+                            Folgende Anekdote iſt wenig<lb/>bekannt: als die Mademoiſelle <hi
+                                rend="letter-spaced">Balletti</hi> nach Paris kam,<lb/>mit welcher
+                            die Mad. Veſtris als Pathin in Verbindung ſtand,<lb/>hatte dieſe
+                            talentvolle, liebenswürdige Künſtlerin anfänglich<lb/>viele Mühe, bey
+                            ihr einige Anleitung und Freundſchaft zu fin­<lb break="no"/>den; als
+                            aber Mademoiſ. Balletti nachher auf andern Wegen<lb/>Gelegenheit fand,
+                            durch ihre hohe Kunſt und ihre vortrefflichen<lb/>Eigenſchaften in ganz
+                            Frankreich ſich ſelber bekannt zu ma­<lb break="no"/>chen, da gab ſich
+                            Mad. Veſtris ihrer Seits alle Mühe, der<lb/>jungen Künſtlerin ihre
+                            Dienſte und Protektion anzubieten.</p>
+                        <p rend="firstLineIndented small"><hi rend="antiqua">La Vallée de
+                                Barcelonnette ou le Rendezvous des deux<lb/>Hermites</hi> iſt ein
+                                <hi rend="letter-spaced">Vaudeville</hi> voll Verdienſt und Reiz
+                            für<lb/>Franzoſen, aber voll Impertinenz gegen die Deutſchen;
+                            eine<lb/>Hauptrolle darin iſt ein Deutſcher, ein
+                            Feſtungskommandant,<lb/>der die Ehre hat, einen Tölpel vorzuſtellen und
+                            geprellt zu<lb/>werden. Uebrigens verdient das Stück den allgemeinen
+                                Bey­<lb break="no"/>fall durch den Witz der Couplets, und durch eine
+                            ſehr lebhafte<lb/>Handlung. Es iſt von den HH. <hi rend="letter-spaced"
+                                >Dieulafoy</hi> und <hi rend="letter-spaced">Gerſin.</hi></p>
+                        <p rend="firstLineIndented small"><hi rend="antiqua">Ordre et Désordre</hi>
+                            von den HH. <hi rend="letter-spaced">Chazel</hi> und <hi
+                                rend="letter-spaced">Sewrin</hi><lb/>hat im Theater der Kayſerin,
+                            Louvois, vielen Beyfall; die<lb/>beyden Charaktere eines ordentlichen
+                            und unordentlichen Men­<lb break="no"/>ſchen ſind darin glücklich
+                            dargeſtellt, die Idee iſt nicht abge­<lb break="no"/>droſchen, und das
+                            Stück verdient eine deutſche Ueberſetzung.</p>
+                        <stage rend="right small letter-spaced">Münſter.</stage>
+                        <p rend="firstLineIndented small">In dem Verzeichniße der jüngſt von hier
+                            aus im Mor­<lb break="no"/>genblatte nahmhaft gemachten, weniger
+                            bekannten, weſiphä­<lb break="no"/>liſchen Dichter (auch wohl <hi
+                                rend="letter-spaced">Dichterlinge,</hi> was der ſam­<lb break="no"
+                            />melnde Literator jedoch nicht ſo ſtreng nimmt) können
+                            noch<lb/>folgende nachgetragen werden: Hr. Profeſſor <hi
+                                rend="letter-spaced">Wardenburg</hi><lb/>in Lingen (ein trefflicher
+                            lateiniſcher Dichter), Hr. Prediger<lb/><hi rend="letter-spaced"
+                                >Wernekink</hi> in Metelen (lieferte einige Gedichte zum Un­<lb
+                                break="no"/>befangenen), Hr. Freyherr von <hi rend="letter-spaced"
+                                >Wintgent,</hi> Hr. <hi rend="antiqua">Dr.</hi>
+                            <hi rend="letter-spaced">Sie­<lb break="no"/>benbergen</hi> (nicht
+                            unglücklich im Epigramm), und Herr<lb/>Apotheker <hi
+                                rend="letter-spaced">Kahler</hi> in Münſter, Hr. Kandidat <hi
+                                rend="letter-spaced">Friedes</hi><lb/>in Düſſeren bey Duisburg, Hr.
+                            Hofrath <hi rend="letter-spaced">Ruland</hi> in He­<lb break="no"/>men,
+                            Hr. <hi rend="letter-spaced">Seeger</hi> in Broich bey Mülheim u. ſ.
+                            w.</p>
+                        <p rend="firstLineIndented small">Ein neues Produkt der <hi
+                                rend="letter-spaced">Krummacherſ</hi>chen Muſe, ein<lb/><hi
+                                rend="letter-spaced">Hymnus an die Liebe,</hi> wird nächſtens bey
+                                <hi rend="letter-spaced">Baede­<lb break="no"/>ker</hi> in Eſſen
+                            erſcheinen. Hoffentlich wieder ein herrlicher<lb/>Genuß!</p>
+                        <p rend="firstLineIndented small">Eine neue Schrift von <hi
+                                rend="letter-spaced">Ehrenberg</hi> iſt im <hi rend="letter-spaced"
+                                >Büſchler­</hi><lb break="no"/>ſchen Verlage zu Elberfeld unter dem
+                            Titel erſchienen: „Der<lb/>Charakter und die Beſtimmung des Mannes, in
+                            Vorleſungen,<lb/>ein Gegenſtück zu den Reden an Gebildete aus dem
+                                weibli­<lb break="no"/>chen Geſchlechte.“ Von dieſen Reden befindet
+                            ſich gegenwär­<lb break="no"/>tig eine <hi rend="letter-spaced"
+                                >verbeſſerte</hi> Auflage unter der Preſſe, da die er­<lb break="no"
+                            />ſte vergriffen iſt.</p>
+                        <p rend="firstLineIndented small">In Düſſeldorf erſcheint eine Schrift,
+                            betitelt: <hi rend="letter-spaced">Das<lb/>Sittenblatt.</hi></p>
+                        <p rend="firstLineIndented small">Der zu Elſey verſtorbene Prediger <hi
+                                rend="letter-spaced">Möller</hi> war auch<lb/>Verfaſſer der
+                            meiſterhaften Bittſchrift an den König von<lb/>Preuſſen.</p>
+                    </div>-->
+                </body>
+            </text>
+            <pb facs="J_XIIA149-1808_00353.tif" n="353"/>
+            <text>
+                <!--<front>
+                    <titlePart type="issue" rend="centered big"><hi rend="letter-spaced">Nro.</hi>
+                        89.</titlePart>
+                    <figure type="swelledRule"/>
+                    <titlePart rend="centered big letter-spaced"><hi rend="bold"
+                            >Morgenblatt</hi><lb/>für<lb/><hi rend="bold">gebildete
+                        Stände.</hi></titlePart>
+                    <figure type="line"/>
+                    <docDate rend="centered big letter-spaced">Mittwoch, 13. April, 1808.</docDate>
+                    <figure type="swelledRule"/>
+                    <epigraph>
+                        <quote>
+                            <lg rend="indented">
+                                <l>— Des Dichters Werk ſoll ſeinem Schöpfer lohnen.</l>
+                                <l>Sein goldner Pfeil ereilet raſch das Ziel,</l>
+                                <l>Und ſtill genügt ihm ſeiner That Gefühl.</l>
+                            </lg>
+                            <bibl rend="indented big letter-spaced">A. W. Schlegel.</bibl>
+                        </quote>
+                    </epigraph>
+                </front>-->
+                <body>
+                    <milestone unit="cols" n="2"/>
+                    <cb/>
+
+                    <!--<head rend="centered big">Noch eine neue Szene aus <hi rend="letter-spaced"
+                                >Goethe’s Fauſt.</hi></head>-->
+
+                    <stage rend="centered small"><hi rend="letter-spaced" n="before_903_a">Fauſt</hi> und <hi rend="letter-spaced">Wagner.</hi></stage>
+                    <ab>— — — — — — — — — — — — —</ab>
+
+                    <sp>
+                        <speaker n="before_1011" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1011">Welch ein Gefühl mußt du, o großer Mann!</l>
+                        <l n="1012">Bey der Verehrung dieſer Menge haben!</l>
+                        <l n="1013">O! glücklich, wer von ſeinen Gaben</l>
+                        <l n="1014">Solch einen Vortheil ziehen kann!</l>
+                        <l n="1015">Der Vater zeigt dich ſeinem Knaben,</l>
+                        <l n="1016">Ein jeder fragt und drängt und eilt,</l>
+                        <l n="1017">Die Fiedel ſtockt, der Tänzer weilt.</l>
+                        <l n="1018">Du gehſt, in Reihen ſtehen ſie,</l>
+                        <l n="1019">Die Mützen fliegen in die Höh’;</l>
+                        <l n="1020">Und wenig fehlt, ſo beugten ſich die Knie,</l>
+                        <l n="1021">Als käm’ das Venerabile.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1022" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1022">Nur wenig Schritte noch hinauf zu jenem Stein,</l>
+                        <l n="1023">Hier wollen wir von unſrer Wandrung raſten.</l>
+                        <l n="1024">Hier ſaß ich oft gedankenvoll allein,</l>
+                        <l n="1025">Und quälte mich mit Beten und mit Faſten.</l>
+                        <l n="1026">An Hoffnung reich, im Glauben feſt,</l>
+                        <l n="1027">Mit Thränen, Seufzen, Händeringen</l>
+                        <l n="1028">Dacht’ ich das Ende jener Peſt</l>
+                        <l n="1029">Vom Herrn des Himmels zu erzwingen.</l>
+                        <l n="1030">Der Menge Beyfall tönt mir nun wie Hohn.</l>
+                        <l n="1031">O könnteſt du in meinem Innern leſen,</l>
+                        <l n="1032">Wie wenig Vater und Sohn</l>
+                        <l n="1033">Solch eines Ruhmes werth geweſen!</l>
+                        <l n="1034">Mein Vater war ein dunkler Ehrenmann,</l>
+                        <l n="1035">Der über die Natur und ihre heilgen Kreiſe,</l>
+                        <l n="1036">In Redlichkeit, jedoch auf ſeine Weiſe,</l>
+                        <l n="1037">Mit grillenhafter Mühe ſann;</l>
+                        <l n="1038">Der, in Geſellſchaft von Adepten,</l>
+                        <cb/>
+                        <l n="1039">Sich in die ſchwarze Küche ſchloß,</l>
+                        <l n="1040">Und, nach unendlichen Recepten,</l>
+                        <l n="1041">Das Widrige zuſammengoß.</l>
+                        <l n="1042">Da ward ein rother Leu, ein kühner Freyer,</l>
+                        <l n="1043">Im lauen Bad, der Lilie vermählt,</l>
+                        <l n="1044">Und beyde dann, mit offnem Flammenfeuer,</l>
+                        <l n="1045">Aus einem Brautgemach ins andere gequält.</l>
+                        <l n="1046">Erſchien darauf, mit bunten Farben,</l>
+                        <l n="1047">Die junge Königin im Glas,</l>
+                        <l n="1048">Hier war die Arzeney, die Patienten ſtarben,</l>
+                        <l n="1049">Und niemand fragte: wer genas?</l>
+                        <l n="1050">So haben wir, mit hölliſchen Latwergen,</l>
+                        <l n="1051">In dieſen Thälern, dieſen Bergen,</l>
+                        <l n="1052">Weit ſchlimmer als die Peſt getobt.</l>
+                        <l n="1053">Ich habe ſelbſt den Gift an Tauſende gegeben,</l>
+                        <l n="1054">Sie welkten hin, ich muß erleben,</l>
+                        <l n="1055">Daß man die frechen Mörder lobt.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1056" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1056">Wie könnt ihr euch darum betrüben!</l>
+                        <l n="1057">Thut nicht ein braver Mann genug,</l>
+                        <l n="1058">Die Kunſt, die man ihm übertrug,</l>
+                        <l n="1059">Gewiſſenhaft und pünktlich auszuüben?</l>
+                        <l n="1060">Wenn du, als Jüngling, deinen Vater ehrſt,</l>
+                        <l n="1061">So wirſt du gern von ihm empfangen;</l>
+                        <l n="1062">Wenn du, als Mann, die Wiſſenſchaft vermehrſt,</l>
+                        <l n="1063">So kann dein Sohn zu höhrem Ziel gelangen.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1064" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1064">O! glücklich, wer noch hoffen kann</l>
+                        <l n="1065">Aus dieſem Meer des Irrthums aufzutauchen!</l>
+                        <l n="1066">Was man nicht weiß, das eben brauchte man,</l>
+                        <l n="1067">Und was man weiß, kann man nicht brauchen.</l>
+                        <l n="1068">Doch laß uns dieſer Stunde ſchönes Gut,</l>
+                        <l n="1069">Durch ſolchen Trübſinn, nicht verkümmern!</l>
+                        <l n="1070">Betrachte, wie, in Abendſonne-Glut,</l>
+                        <l n="1071">Die grünumgebnen Hütten ſchimmern.</l>
+                        <pb facs="J_XIIA149-1808_00354.tif" n="354"/>
+                        <fw rend="centered" type="pageNum">354</fw>
+                        <milestone unit="cols" n="2"/>
+                        <cb/>
+                        <l n="1072">Sie rückt und weicht, der Tag iſt überlebt,</l>
+                        <l n="1073">Dort eilt ſie hin und fördert neues Leben.</l>
+                        <l n="1074">O! daß kein Flügel mich vom Boden hebt,</l>
+                        <l n="1075">Ihr nach und immer nach zu ſtreben.</l>
+                        <l n="1076">Ich ſäh’ im ewigen Abendſtrahl</l>
+                        <l n="1077">Die ſtille Welt zu meinen Füßen,</l>
+                        <l n="1078">Entzündet alle Höh’n, beruhigt jedes Thal,</l>
+                        <l n="1079">Den Silberbach in goldne Ströme fließen.</l>
+                        <l n="1080">Nicht hemmte dann den göttergleichen Lauf</l>
+                        <l n="1081">Der wilde Berg mit allen ſeinen Schluchten;</l>
+                        <l n="1082">Schon thut das Meer ſich mit erwärmten Buchten</l>
+                        <l n="1083">Vor den erſtaunten Augen auf.</l>
+                        <l n="1084">Doch ſcheint die Göttin endlich wegzuſinken;</l>
+                        <l n="1085">Allein der neue Trieb erwacht,</l>
+                        <l n="1086">Ich eile fort, ihr ew’ges Licht zu trinken,</l>
+                        <l n="1087">Vor mir den Tag, und hinter mir die Nacht,</l>
+                        <l n="1088">Den Himmel über mir, und unter mir die Wellen.</l>
+                        <l n="1089">Ein ſchöner Traum, indeſſen ſie entweicht.</l>
+                        <l n="1090">Ach! zu des Geiſtes Flügeln wird ſo leicht</l>
+                        <l n="1091">Kein körperlicher Flügel ſich geſellen.</l>
+                        <l n="1092">Doch iſt es jedem eingeboren,</l>
+                        <l n="1093">Daß ſein Gefühl hinauf und vorwärts dringt,</l>
+                        <l n="1094">Wenn über uns, im blauen Raum verloren,</l>
+                        <l n="1095">Ihr ſchmetternd Lied die Lerche ſingt;</l>
+                        <l n="1096">Wenn über ſchroffen Fichtenhöhen</l>
+                        <l n="1097">Der Adler ausgebreitet ſchwebt,</l>
+                        <l n="1098">Und über Flächen, über Seen</l>
+                        <l n="1099">Der Kranich nach der Heimat ſtrebt.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1100" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1100">Ich hatte ſelbſt oft grillenhafte Stunden,</l>
+                        <l n="1101">Doch ſolchen Trieb hab’ ich noch nie empfunden.</l>
+                        <l n="1102">Man ſieht ſich leicht an Wald und Feldern ſatt;</l>
+                        <l n="1103">Des Vogels Fittig werd’ ich nie beneiden.</l>
+                        <l n="1104">Wie anders tragen uns die Geiſtesfreuden</l>
+                        <l n="1105">Von Buch zu Buch, von Blatt zu Blatt!</l>
+                        <l n="1106">Da werden Winternächte hold und ſchön,</l>
+                        <l n="1107">Ein ſelig Leben wärmet alle Glieder,</l>
+                        <l n="1108">Und ach! entrollſt du gar ein würdig Pergamen,</l>
+                        <l n="1109">So ſteigt der ganze Himmel zu dir nieder.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1110" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1110">Du biſt dir nur des einen Triebs bewußt,</l>
+                        <l n="1111">O lerne nie den andern kennen!</l>
+                        <l n="1112">Zwey Seelen wohnen, ach! in meiner Bruſt,</l>
+                        <l n="1113">Die eine will ſich von der andern trennen;</l>
+                        <l n="1114">Die eine hält, in derber Liebesluſt,</l>
+                        <l n="1115">Sich an die Welt, mit klammernden Organen;</l>
+                        <l n="1116">Die andre hebt gewaltſam ſich vom Duſt</l>
+                        <l n="1117">Zu den Gefilden hoher Ahnen.</l>
+                        <l n="1118">O gibt es Geiſter in der Luft,</l>
+                        <l n="1119">Die zwiſchen Erd’ und Himmel herrſchend weben,</l>
+                        <l n="1120">So ſteiget nieder aus dem goldnen Duft</l>
+                        <l n="1121">Und führt mich weg zu neuem buntem Leben!</l>
+                        <l n="1122">Ja, wäre nur ein Zaubermantel mein!</l>
+                        <l n="1123">Und trüg’ er mich in fremde Länder!</l>
+                        <l n="1124">Mir ſollt’ er um die köſtlichſten Gewänder,</l>
+                        <l n="1125">Nicht feil um einen Königsmantel ſeyn.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1126" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1126">Berufe nicht die wohlbekannte Schaar,</l>
+                        <l n="1127">Die, ſtrömend, ſich im Dunſtkreis überbreitet,</l>
+                        <l n="1128">Dem Menſchen tauſendfältige Gefahr,</l>
+                        <l n="1129">Von allen Enden her, bereitet.</l>
+                        <l n="1130">Von Norden dringt der ſcharfe Geiſterzahn</l>
+                        <l n="1131">Auf dich herbey, mit pfeilgeſpitzten Zungen;</l>
+                        <l n="1132">Von Morgen ziehn, vertrocknend, ſie heran,</l>
+                        <cb/>
+                        <l n="1133">Und nähren ſich von deinen Lungen;</l>
+                        <l n="1134">Wenn ſie der Mittag aus der Wüſte ſchickt,</l>
+                        <l n="1135">Die Glut auf Glut um deinen Scheitel häufen,</l>
+                        <l n="1136">So bringt der Weſt den Schwarm, der erſt erquickt,</l>
+                        <l n="1137">Um dich und Feld und Aue zu erſäufen.</l>
+                        <l n="1138">Sie hören gern, zum Schaden froh gewandt,</l>
+                        <l n="1139">Gehorchen gern, weil ſie uns gern betrügen;</l>
+                        <l n="1140">Sie ſtellen wie vom Himmel ſich geſandt,</l>
+                        <l n="1141">Und lispeln engliſch, wenn ſie lügen.</l>
+                        <l n="1142">Doch gehen wir! Ergraut iſt ſchon die Welt,</l>
+                        <l n="1143">Die Luft gekühlt, der Nebel fällt!</l>
+                        <l n="1144">Am Abend ſchätzt man erſt das Haus. —</l>
+                        <l n="1145">Was ſtehſt du ſo, und blickſt erſtaunt hinaus?</l>
+                        <l n="1146">Was kann dich in der Dämmrung ſo ergreifen?</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1147" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1147">Siehſt du den ſchwarzen Hund durch Saat und Stop­<lb break="no"/>pel ſtreifen?</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1148" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1148">Ich ſah ihn lange ſchon, nicht wichtig ſchien er mir.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1149" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1149">Betracht’ ihn recht! für was hälſt du das Thier?</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1150" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1150">Für einen Pudel, der auf ſeine Weiſe</l>
+                        <l n="1151">Sich auf der Spur des Herren plagt.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1152" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1152">Bemerkſt du, wie in weitem Schneckenkreiſe</l>
+                        <l n="1153">Er um uns her und immer näher jagt?</l>
+                        <l n="1154">Und irr’ ich nicht, ſo zieht ein Feuerſtrudel</l>
+                        <l n="1155">Auf ſeinen Pfaden hinterdrein.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1156" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1156">Ich ſehe nichts als einen ſchwarzen Pudel;</l>
+                        <l n="1157">Es mag bey euch wohl Augentäuſchung ſeyn.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1158" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1158">Mir ſcheint es, daß er magiſch leiſe Schlingen,</l>
+                        <l n="1159">Zu künftgem Band, um unſre Füße zieht.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1160" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1160">Ich ſeh’ ihn ungewiß und furchtſam uns umſpringen,</l>
+                        <l n="1161">Weil er, ſtatt ſeines Herrn, zwey Unbekannte ſieht.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1162" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1162">Der Kreis wird eng, ſchon iſt er nah!</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1163" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1163">Du ſiehſt! ein Hund, und kein Geſpenſt iſt da.</l>
+                        <l n="1164">Er knurrt und zweifelt, legt ſich auf den Bauch,</l>
+                        <l n="1165">Er wedelt. Alles Hunde Brauch.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1166" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1166">Geſelle dich zu uns! Komm hier!</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1167" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1167">Es iſt ein pudelnärriſch Thier.</l>
+                        <l n="1168">Du ſteheſt ſtill, er wartet auf;</l>
+                        <l n="1169">Du ſprichſt ihn an, er ſtrebt an dir hinauf;</l>
+                        <l n="1170">Verliere was, er wird es bringen,</l>
+                        <l n="1171">Nach deinem Stock ins Waſſer ſpringen.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1172" rend="centered letter-spaced">Fauſt.</speaker>
+                        <l n="1172">Du haſt wohl recht, ich finde nicht die Spur</l>
+                        <l n="1173">Von einem Geiſt, und alles iſt Dreſſur.</l>
+                    </sp>
+                    <sp>
+                        <speaker n="before_1174" rend="centered letter-spaced">Wagner.</speaker>
+                        <l n="1174">Dem Hunde, wenn er gut gezogen,</l>
+                        <l n="1175">Wird ſelbſt ein weiſer Mann gewogen.</l>
+                        <l n="1176">Ja deine Gunſt verdient er ganz und gar</l>
+                        <l n="1177">Er, der Studenten trefflicher Scolar.</l>
+                    </sp>
+
+                    <!--  <figure type="line"/>
+                    <pb facs="J_XIIA149-1808_00355.tif" n="355"/>
+                    <fw rend="centered" type="pageNum">355</fw>
+                    <milestone unit="cols" n="2"/>
+                    <cb/>-->
+                    <!--<div type="act">
+                        <head rend="centered big letter-spaced">For, der Dichter.</head>
+                        <p rend="firstLineIndented">Daß <hi rend="letter-spaced">For</hi> in Eton
+                            ſich vor allen ſeinen Mitſchülern durch<lb/>Beredſamkeit auszeichnete,
+                            und ſich des Schwächern, des<lb/>Unterdrückten mit demoſtheniſchem Feuer
+                            annahm, ja, daß<lb/>ihm Lord <hi rend="letter-spaced">Carlisle,</hi>
+                            ſein Geſpiele, ſchon damals pro­<lb break="no"/>phezeyte:</p>
+                        <l rend="antiqua">— „What praise to <hi rend="letter-spaced">Pitt,</hi> to
+                                <hi rend="letter-spaced">Townshende</hi>’er was due,</l>
+                        <l rend="antiqua">In future times, my <hi rend="letter-spaced">Fox,</hi>
+                            shall wait on <hi rend="letter-spaced">You</hi>“</l>
+                        <p>iſt vielleicht ſchon bekannt. Sein Talent für die Dichtkunſt<lb/>ſollt’
+                            es nicht weniger ſeyn. Von der <hi rend="antiqua">materna Etona</hi>
+                            nahm<lb/>er in ſchönen lateiniſchen Diſtichen Abſchied, welche in
+                                ſei­<lb break="no"/>ner Biographie abgedruckt ſind. Nur den Anfang
+                            zur Probe:</p>
+                        <lg rend="indented antiqua">
+                            <l>Poscimur: et nobis si rite precantibus olim</l>
+                            <l>Dixeris optatum, Musa rogata, melos,</l>
+                            <l>Nunc quoque et emerito praesens succurre poëtæ;</l>
+                            <l>Dona ferens adeat sic tua fana cliens etc.</l>
+                        </lg>
+                        <p rend="firstLineIndented">Als Bewunderer der Mlſſ <hi rend="letter-spaced"
+                                >Crewe</hi> beſang er ihre Reitze,<lb/>ohne zu ſchmeicheln; er
+                            ſchließt:</p>
+                        <lg rend="indented antiqua">
+                            <l>— „If then, for this once in my life, J am free</l>
+                            <l>And escape from a snare might catch wiser than me,</l>
+                            <l>’Tis that beauty alone but imperfectly charms,</l>
+                            <l>For, though brightness may dazzle, ’tis Kindness that<lb/>warms.</l>
+                            <l>As on sun in the Winter with pleasure we gaze</l>
+                            <l>But ſeel not their warmth, though their splendor we<lb/>praise,</l>
+                            <l>So beauty our just admiration may claim;</l>
+                            <l>But love, and love only, our hearts can enflame.“</l>
+                        </lg>
+                        <p rend="firstLineIndented">In jener Biographie iſt noch ein treffliches
+                                Gedicht:<lb/><hi rend="antiqua">Invocation to Poverty</hi> (Anrufung
+                            der Armuth) von ihm<lb/>aufbehalten. Noch am 24 Jan. 1799, ſeinem
+                            funfzigſten<lb/>Geburtstage, weihte er ſeiner geliebten Freundinn <hi
+                                rend="letter-spaced">Arm­<lb break="no"/>ſtead</hi> Folgendes:</p>
+                        <lg rend="indented antiqua">
+                            <l>Of years J have now half a century past,</l>
+                            <l>And none of the fifty so blest as the last,</l>
+                            <l>How it happens my troubles thus daily should cease,</l>
+                            <l>And my happiress still with my years should increase,</l>
+                            <l>This defiance of nature’s more general laws</l>
+                            <l>You alone can explain, who alone are the cause.</l>
+                        </lg>
+                        <p rend="firstLineIndented">Hätten Neigung und Umſtände dieſem
+                            Univerſalgenie ge­<lb break="no"/>ſtattet, ſein poetiſches Talent
+                            auszubilden, gewiß mit Glücke<lb/>würd’ er ſich zu den Höhen des
+                            Parnaſſes aufgeſchwungen<lb/>haben.</p>
+                    </div>-->
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big letter-spaced">Miszellen aus Italien, aus dem
+                                geſell­<lb break="no"/>ſchaftlichen Leben.</head>
+                        <stage rend="centered small letter-spaced">Abnahme des Gebrauchs der
+                            Dolche.</stage>
+                        <p rend="firstLineIndented">Seit dem Einrücken der Franzoſen in Rom am 2
+                            Febr.<lb/>hat man nie mehr etwas von den ſonſt gewöhnlichen Meſ­<lb
+                                break="no"/>ſerſtechereyen gehört. Die Römer wiſſen noch von
+                            Zeiten<lb/>der Republik her, daß die franzöſiſche Juſtiz ſolche
+                            Vorfälle<lb/>mit einer Füſilirung zu beſtrafen pflegt, und eine ſolche
+                                Ab­<lb break="no"/>reiſe aus der Welt ohne Beichtiger und Abſolution
+                            iſt dem<lb/>Italiener widriger als der Tod ſelbſt. Es iſt daher
+                                bemer­<lb break="no"/>kenswerth, daß bey Beſchädigungen, die mehrere
+                            Perſonen<lb/><cb/>zur Nachtzeit — vor der Einführung der ſtarken
+                            franzöfiſchen<lb/>Patrouillen — erlitten, häufig die Mazza, ein in
+                            einem<lb/>dikken keilartigen Knopf auslaufender Stock,
+                            gehandhabt<lb/>wurde. — Daß überhaupt das in Italien beſonders zu ge­<lb
+                                break="no"/>wiſſen Zeiten und in gewiſſen Gegenden ſo häufig
+                            geweſene<lb/>Ermorden nicht ſowohl Folge des heiſſen Klimas, des lei­<lb
+                                break="no"/>denſchaftlichen Blutes, ſondern vielmehr der ſchlechten
+                                Po­<lb break="no"/>lizey und der Nachläßigkeit der Juſtiz war, iſt
+                            wohl keinem<lb/>Zweifel unterworfen. Der Italiener weiß ſich ſo gut
+                            und<lb/>oft beſſer zu beherrſchen als jeder andere, wenn er die be­<lb
+                                break="no"/>ſtimmte Folge kennt. Die neueſten neapolitaniſchen
+                            Liſten<lb/>über gewaltſame Todesfälle ſind ein auffallender Beweis
+                                da­<lb break="no"/>von, indem die Vorgänge der Art immer ſeltener
+                            werden,<lb/>und ſich zu der vormaligen Zeit, und zwar nur wenige
+                            Jahre<lb/>zurückgerechnet — bereits wie eins zu drey verhalten.
+                            —<lb/>Gewiß iſt es aber, daß den Italiener nur die Furcht zurück­<lb
+                                break="no"/>hält. So lange dem Volke keine ganz veränderte
+                            National-<lb/>Erziehung gegeben werden kann, wird es immer
+                            begierig<lb/>jede Gelegenheit ergreifen, das Gelüſte eines
+                            verwilderten<lb/>rohen Sinns zu befriedigen.</p>
+                        <stage rend="centered small letter-spaced">Diebs-Konſorten.</stage>
+                        <p rend="firstLineIndented">Man bemerkt, daß ſeit Abnahme der Händel deſto
+                            mehr<lb/>Diebereyen in Schwung gekommen ſind. Ein
+                            merkwürdiges<lb/>Beyſpiel, das zugleich als Beweis von der ehmaligen
+                                Ver­<lb break="no"/>bindung der Prattica oder des <hi rend="antiqua"
+                                >Savoir-ſaire</hi> der Diebe die­<lb break="no"/>nen kann, ereignete
+                            ſich im Monat Februar. Ein junger<lb/>artiger Mann wurde an einen
+                            Terraziner, der ſich in Rom<lb/>als Lieferant aufhielt, von einem ſeiner
+                            beſten Freunde auf<lb/>das dringendſte empfohlen. — Der junge Menſch gab
+                            ſich für<lb/>einen Neapolitaner oder geflohenen Inſulaner aus,
+                            und<lb/>wußte ſeine Rolle ſo gut zu ſpielen, daß er das
+                            Vertrauen<lb/>jenes Mannes gewann. Sie gingen faſt täglich miteinan­<lb
+                                break="no"/>der aus, brachten die Abende häufig, nach der Sitte
+                            der<lb/>Leute aus dem Mittelſtande, bey einem Glaſe Wein in ei­<lb
+                                break="no"/>nem Wirthshauſe oder in einem Kaffeeladen zu.
+                            Eines<lb/>Tages erſcheint der Fremde ſehr niedergeſchlagen.
+                            Sein<lb/>Freund befragt ihn um die Urſache. Jener erwiedert: mei­<lb
+                                break="no"/>ne Briefe ſind ausgeblieben, ich bin ohne Geld u. ſ. w.
+                            Der<lb/>Terraziner erbietet ſich, ihm mit einer Kleinigkeit auszuhel­<lb
+                                break="no"/>fen, und ſtreckt ihm einige Thaler vor. Ganz froh
+                            kommt<lb/>der Fremde ſpäter wieder zu ihm, ihn zu einem Spatzier­<lb
+                                break="no"/>gange für den folgenden Morgen nach St. Peter, wo
+                            8,000<lb/>Mann franzöſiſche Truppen die Revüe paſſiren ſollten, ein­<lb
+                                break="no"/>zuladen. Das geſchieht. Kaum haben ſie den halben
+                            Weg<lb/>gemacht, als der Lieferant ſeinen Hausſchlüſſel vermißt.<lb/>Ich
+                            hab’ ihn wahrſcheinlich ſtecken laſſen, ſagt er, und wir<lb/>müſſen
+                            zurückkehren, um ſo mehr, da meine Mutter, die in<lb/>einem hinteren
+                            Zimmer wohnt, in die Meſſe zu gehen pflegt,<lb/>und ihre Wohnung einen
+                            eigenen Ausgang hat. — Inzwi­<lb break="no"/>ſchen nehmen ſie noch in
+                            der Geſchwindigkeit ein Frühſtück.<lb/>Als ſie die Wohnung erreichen —
+                            es war am Platze Mi­<lb break="no"/>gnianelli, der gegenüber der Wohnung
+                            des ſpaniſchen Ge­<lb break="no"/><pb facs="J_XIIA149-1808_00356.tif"
+                                n="356"/><fw rend="centered" type="pageNum">356</fw><milestone
+                                unit="cols" n="2"/><cb/>ſandten liegt, finden ſie die Thüre offen
+                            und eine baare<lb/>Summe von ſechs oder achthundert Säulen-Thalern (<hi
+                                rend="antiqua">Colon­<lb break="no"/>nate</hi>) ſind fort. Die
+                            Beſtürzung iſt groß. Die Freunde<lb/>trennen ſich. Der Beſtohlene begibt
+                            ſich zum Hauptmann<lb/>der Sbirren, und erzählt den Vorfall. — Ruhig
+                            antwortet<lb/>der: das wundert mich nicht, da Ihr mit einem <hi
+                                rend="antiqua">Capo La­<lb break="no"/>dro</hi> (Erzgauner) zu thun
+                            habt, und immer mit ihm er­<lb break="no"/>ſcheint. — Ihr ſollt ſogleich
+                            hören, ob die Sache ſich ſo ver­<lb break="no"/>hält. Er ruft einen
+                            Sbirren, und fordert ihn auf, zu ſagen,<lb/>ob und wie er den
+                            gewöhnlichen Begleiter des ſich Beklagen­<lb break="no"/>den kenne? —
+                            Der Sbirre antwortet: ſicher kenne ich ihn.<lb/>Das iſt einer der
+                            Allerverſchmitzteſten (<hi rend="antiqua">uno dei soprafini</hi>).
+                            Das<lb/>Reſultat dieſes Geſprächs iſt, daß der Beraubte darauf an­<lb
+                                break="no"/>trägt, der Barigello ſolle thun, was ihm das Beſte
+                            dünke.<lb/>— Wenige Stunden nachher tritt der in Verdacht
+                            geſetzte<lb/>Freund zu dem Terraziner. — Wißt Ihr, warum ich
+                            komme?<lb/>Euch, wie Ihrs verdientet, einen Dolchſtich zu geben.
+                            Ich<lb/>weiß alles, kenne euer ganzes Geſpräch, u. ſ. w. Blos
+                            weil<lb/>Ihr euch bis jetzt als einen Mann von dem beſten Charak­<lb
+                                break="no"/>ter gegen mich gezeigt habt, ſo vergeb’ ich Euch alles,
+                            aber<lb/>ich fordre, daß Ihr auf der Stelle dem Sbirren-Haupt­<lb
+                                break="no"/>mann ſchreibt: er ſolle ſich jedes weitern Verfahrens
+                            gegen<lb/>mich enthalten, ſonſt mach’ ich euch beym franzöſiſchen Ge­<lb
+                                break="no"/>neral verantwortlich, von dem ich protegirt bin. Dies
+                            Wort<lb/>wirkt wie ein Talisman. Der Beſtohlene kehrt ſelber
+                            zum<lb/>Barigello zurück, und erzählt, was geſchehen ſey.
+                            Dieſer<lb/>macht ihm neue Vorwürfe, und räth ihm, auf der Stelle
+                            ſich<lb/>zum General zu begeben, und ſich zu erkundigen, ob ein ſol­<lb
+                                break="no"/>cher und ſolcher ſeines Vertrauens genieße. — Es
+                            erfolgte<lb/>die Antwort, der General wolle wiſſen, wer derjenige
+                            ſey,<lb/>der es wage, ſich auf ihn zu berufen, ohne daß er die ge­<lb
+                                break="no"/>ringſte Kenntniß von ihm habe. Nun war die
+                            Arreſtation<lb/>entſchieden — aber der Fremde — der blos Zeit hatte
+                                ge­<lb break="no"/>winnen wollen, war fort. —</p>
+                        <p rend="firstLineIndented">Dieſer Vorfall machte auf Perſonen, die von
+                            ähnlichen<lb/>Ereigniſſen unterrichtet waren, geringen Eindruck.
+                            Sie<lb/>machten die ſimple Bemerkung: wir wiſſen es längſt, daß
+                            —<lb/>die Sbirren und die Diebe miteinander theilen, und mit­<lb
+                                break="no"/>einander einverſtanden ſind.</p>
+                        <stage rend="centered small letter-spaced">Warnung für Reiſende.</stage>
+                        <p rend="firstLineIndented">Zwey Fremde, die HH. von K. und ein dritter
+                                Reiſe­<lb break="no"/>gefährte, H. L. aus Berlin, hatten am
+                            ſpaniſchen Platz<lb/>eine gemeinſchaftliche Wohnung gemiethet. Es
+                            verging einige<lb/>Zeit, ehe ſie bemerkten, daß jedem Geld aus ſeiner
+                                Kom­<lb break="no"/>mode fehlte. Sie ſtellten Proben an, zählten ihr
+                            Geld am<lb/>Abend, und fanden, daß jedem täglich ein Piaſter entwen­<lb
+                                break="no"/>det wurde. Es war wahrſcheinlich und gewiß, daß die
+                            Leute<lb/>vom Hauſe doppelte Schlüſſel haben mußten. — Man mach­<lb
+                                break="no"/>te zu frühen Lärm. Die Sache konnte nicht bewieſen
+                                wer­<lb break="no"/>den, und die Miethe für einen Monat war
+                            vorausbezahlt. —<lb/>Man erlitt alſo gelaſſen den gehabten Verluſt, und
+                            ſah ihn<lb/>als Lehrgeld an. — Vor dieſen Fremden wohnte in
+                            dem<lb/>gleichen Hauſe ein junger Kurländer, H. von G., der
+                            mit<lb/>verſchiedenen wiſſenſchaftlichen Liebhabereyen beſchäftigt,
+                            auf<lb/>Nachzählen ſeiner Baarſchaft ſchwerlich dachte. Es iſt
+                            wohl<lb/><cb/>kaum einem Zweifel unterworfen, daß ihm, da er
+                            anſehnliche<lb/>Summen empfing, und längere Zeit in dem Hauſe
+                            wohnte,<lb/>und ſogar von den Hausleuten bedient wurde, der Aufent­<lb
+                                break="no"/>halt daſelbſt theurer zu ſtehen kam, als er es ſelbſt
+                            glaubte.<lb/>Das Haus liegt neben dem engliſchen Kaffehauſe am ſpani­<lb
+                                break="no"/>ſchen Platz, und hat die Nummer 85.</p>
+                        <p rend="firstLineIndented">Ein ähnlicher Vorfall begegnete vor einigen
+                            Jahren einem<lb/>Engländer. Ihm fehlten Geldſtücke und Münze, aber
+                            er<lb/>entdeckte die Sache zuerſt einem Italiener. Dieſer rieth
+                            ihm<lb/>eine Menge kleiner gezählter Münze liegen zu laſſen. —<lb/>Man
+                            vermißte beym Nachzählen 25 Paul. Nun begab ſich<lb/>der Engländer mit
+                            ſeinem italiäniſchen Freunde zum Gou­<lb break="no"/>verneur, und
+                            verlangte, daß ihm ein Polizeydiener mitgege­<lb break="no"/>ben würde,
+                            der eine gezählte Summe in die Kommode des<lb/>Fremden legen, und
+                            alsdann den Schlüſſel zu ſich ſtecken<lb/>ſollte. So wurde der Polizey
+                            ein Beweis in die Hände<lb/>gegeben. Der Hausherr wurde ſogleich
+                            arretirt, und mußte<lb/>gegen 40 Scudi erſetzen, die der Fremde beſtimmt
+                            vermißte.<lb/>Der Mann war unſchuldig. Der Verdacht wurde auf
+                            die<lb/>Dienſtmagd gewälzt, und ſchien Wahrſcheinlichkeit zu
+                            haben,<lb/>da dieſe geflohen war. Es wieß ſich aber am Ende aus,<lb/>daß
+                            die Dame des Hauſes ſelbſt, <hi rend="antiqua">la Signora padrona</hi> —
+                            der<lb/>Kommode den heimlichen Befuch gemacht hatte.</p>
+                        <p rend="firstLineIndented">Einem andern Fremden wurde, während er in ein
+                            drittes<lb/>Nebenzimmer gegangen war, ohne vorher die
+                            Eingangsthür<lb/>in ſein Hauptzimmer zu verſchließen, in einem
+                            Augenblicke<lb/>die goldne Uhr geſtohlen. Gleichwohl lag das Haus in
+                            einer<lb/>nicht ſehr lebhaften Gegend der Stadt. Alles
+                            Nachforſchen<lb/>war umſonſt. Man darf in Italien nie vergeſſen, daß
+                            man<lb/>in Italien iſt. —</p>
+                    </div>-->
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big bold letter-spaced"
+                            >Korreſpondenz-Nachrichten.</head>
+                        <stage rend="right small"><hi rend="letter-spaced">München,</hi> 9
+                            April.</stage>
+                        <p rend="firstLineIndented small">Unſer Kronprinz, ein eifriger Beförderer
+                            jeder ſchönen<lb/>Kunſt, hat 4 treffliche Gemählde, einen <hi
+                                rend="antiqua">Da Vinci,</hi> einen<lb/><hi rend="antiqua">Giulio
+                                Romano etc.</hi> vor Kurzem aus Italien erhalten. Sie<lb/>werden
+                            nächſtens auf der Galerie ausgeſtellt werden, und ſo<lb/>einigen Erſatz
+                            für Raphaels Johannes geben, der gegenwärtig<lb/>in den Zimmern des
+                            königl. Pallaſtes hängt.</p>
+                        <p rend="firstLineIndented small">Der Plan zu Anlegung eines neuen Quartiers
+                            an der<lb/>Weſtſeite der Stadt ſoll nun definitiv angenommen ſeyn,
+                            und<lb/>dieſen Sommer ſchon bedeutend gebaut werden.</p>
+                        <p rend="firstLineIndented small">Zur Feyer der Vermählung der Prinzeßinn
+                                <hi rend="letter-spaced">Charlotte</hi><lb/>wird <hi
+                                rend="letter-spaced">Romeo</hi> und <hi rend="letter-spaced"
+                                >Giulietta,</hi> und ein pantomimiſches<lb/>Ballet, <hi
+                                rend="antiqua">Dr.</hi>
+                            <hi rend="letter-spaced">Fauſt,</hi> einſtudirt.</p>
+                        <p rend="firstLineIndented small">Daß die Volkspoeſie in einem Theile
+                            Deutſchlands noch im­<lb break="no"/>mer lebendig iſt, beweist ein
+                            Volkslied, das die Geſchichte<lb/>der Eroberung Tyrols 1806 in dortiger
+                            Mundart mit vielen<lb/>Perſonalitäten in ächtem originellem Volkstone
+                            erzählt.</p>
+                        <p rend="firstLineIndented small"><hi rend="letter-spaced">Himmel</hi> iſt
+                            noch hier. Man freut ſich um ſo mehr ihn<lb/>zu beſitzen, da man ihn
+                            kürzlich todt ſagte.</p>
+                        <stage rend="right small letter-spaced">Augsburg.</stage>
+                        <p rend="firstLineIndented small">Schon vor einigen Wochen feyerte unſer
+                            trefflicher <hi rend="letter-spaced">Soll­<lb break="no"/>brigg</hi>
+                            ſeine Ankunft auf hieſiger Bühne durch die Rolle des<lb/><hi
+                                rend="letter-spaced">Hamlet.</hi> Alles, was wir zu ſeinem Vortheil
+                            in dieſer<lb/>ſchweren Rolle ſagen könnten, würde noch lange nicht die
+                                We­<lb break="no"/>ſenheit ſeines Verdienſtes erreichen, das der
+                            größte Beyfall<lb/>nie hinlänglich belohnen kann. Nicht weniger aber hat
+                            ſich<lb/>unſere erhabene Künſtlerin Madame <hi rend="letter-spaced"
+                                >Müller</hi> als Ophelia<lb/>ausgezeichnet, und wenn wir blos ihre
+                            Vortrefflichkeit in den<lb/>Augenblicken ihres Wahnſinns flüchtig
+                            berühren, ſo geſchieht es<lb/>nur, um jeden wahren Kenner aus den
+                            ſchwereren Zügen dieſer<lb/>Rolle auf die ausgebildetſte Vollkommenheit
+                            ihres Talents<lb/>aufmerkſam zu machen.</p>
+                    </div>-->
+                </body>
+            </text>
+            <pb facs="J_XIIA149-1808_00429.tif" n="429"/>
+            <text>
+                <!--<front>
+                    <titlePart type="issue" rend="centered big"><hi rend="letter-spaced">Nro.</hi>
+                        108.</titlePart>
+                    <figure type="swelledRule"/>
+                    <titlePart rend="centered big letter-spaced"><hi rend="bold"
+                            >Morgenblatt</hi><lb/>für<lb/><hi rend="bold">gebildete
+                        Stände.</hi></titlePart>
+                    <figure type="line"/>
+                    <docDate rend="centered big letter-spaced">Donnerstag, 5. Mai, 1808.</docDate>
+                    <figure type="swelledRule"/>
+                    <epigraph>
+                        <quote>
+                            <lg rend="indented">
+                                <l>Feine Kritik — ſo heiße ſie euch, die geſchliffene Brille,</l>
+                                <l>Welche die ganze Natur kleiner und niedlicher zeigt.</l>
+                                <l>Uns nur gönnt ungefälſchten Genuß der unendlichen Schöpfung,</l>
+                                <l>Wie ſie dem <hi rend="letter-spaced">Shakespear</hi> einſt, <hi
+                                        rend="letter-spaced">Goethe!</hi> wie dir ſie erſchien.</l>
+                            </lg>
+                            <bibl rend="indented big letter-spaced">C. G. v. Brinkmann.</bibl>
+                        </quote>
+                    </epigraph>
+                </front>-->
+                <body>
+                    <milestone unit="cols" n="2"/>
+                    <cb/>
+
+                    <!--<head rend="centered big">Eine dritte Szene aus <hi rend="letter-spaced"
+                                >Goethe’s Fauſt.</hi></head>-->
+                    <!--<figure type="line"/>-->
+
+                    <div type="scene" n="1.1.23">
+                        <head n="before_ttf_1_a" rend="centered small letter-spaced">Trüber
+                            Tag.<lb/>Feld.</head>
+                        <figure type="line"/>
+                        <stage n="before_ttf_1_c" rend="centered big letter-spaced">Fauſt.
+                            Mephiſtopheles.</stage>
+                        <sp>
+                            <speaker n="before_ttf_1_c" rend="centered letter-spaced">Fauſt.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_1"/>Im
+                                Elend! Verzweifelnd! Erbärmlich auf der Erde lange<lb/><milestone unit="refline" n="ttf_2"/>verirrt und nun gefangen! Als
+                                Miſſethäterinn im Kerker<lb/><milestone unit="refline" n="ttf_3"/>zu
+                                entſetzlichen Qualen eingeſperrt das holde unſelige Ge­<lb break="no"/>ſchöpf! <milestone unit="refline" n="ttf_4"/>Bis
+                                dahin! dahin! — Verräthriſcher, nichtswürdi­<lb break="no"/>ger
+                                    <milestone unit="refline" n="ttf_5"/>Geiſt, und das haſt du mir
+                                verheimlicht! — Steh nur,<lb/><milestone unit="refline" n="ttf_6"/>ſteh! wälze die teufliſchen Augen ingrimmend im Kopf her­<lb break="no"/>um! <milestone unit="refline" n="ttf_7"/>Steh und
+                                trutze mir durch deine unerträgliche Gegen­<lb break="no"/>wart!
+                                    <milestone unit="refline" n="ttf_8"/>Gefangen! Im
+                                unwiederbringlichen Elend! Böſen<lb/><milestone unit="refline" n="ttf_9"/>Geiſtern übergeben und der richtenden gefühlloſen
+                                    Menſch­<lb break="no"/>heit! <milestone unit="refline" n="ttf_10"/>Und mich wiegſt du indeß in abgeſchmackten
+                                    Zerſtreuun­<lb break="no"/>gen, <milestone unit="refline" n="ttf_11"/>verbirgſt mir ihren wachſenden Jammer, und
+                                    läſſeſt<lb/><milestone unit="refline" n="ttf_12"/>ſie hülflos
+                                verderben!</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_13" rend="centered letter-spaced">Mephiſtopheles.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_13"/>Sie
+                                iſt die erſte nicht.</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_14" rend="centered letter-spaced">Fauſt.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_14"/>Hund!
+                                abſcheuliches Unthier! — Wandle ihn, du unend­<lb break="no"/>licher
+                                    <milestone unit="refline" n="ttf_15"/>Geiſt! wandle den Wurm
+                                wieder in ſeine Hundsgeſtalt,<lb/><milestone unit="refline" n="ttf_16"/>wie er ſich oft nächtlicher Weile gefiel vor mir
+                                    herzutrotten,<lb/><milestone unit="refline" n="ttf_17"/>dem
+                                harmloſen Wandrer vor die Füße zu kollern, und ſich<lb/><milestone unit="refline" n="ttf_18"/>dem niederſtürzenden auf die
+                                Schultern zu hängen. Wandl’<lb/><milestone unit="refline" n="ttf_19"/>ihn wieder in ſeine Lieblingsbildung, daß er vor mir
+                                    im<lb/><milestone unit="refline" n="ttf_20"/>Sand auf dem Bauche
+                                krieche, ich ihn mit Füßen trete, den<lb/><cb/><milestone unit="refline" n="ttf_21"/>Verworfnen! — Die erſte nicht! —
+                                Jammer! Jammer!<lb/><milestone unit="refline" n="ttf_22"/>von keiner
+                                Menſchenſeele zu faſſen, daß mehr als ein Ge­<lb break="no"/>ſchöpf
+                                    <milestone unit="refline" n="ttf_23"/>in die Tiefe dieſes
+                                Elendes verſank, daß nicht das<lb/>erſte <milestone unit="refline" n="ttf_24"/>genugthat für die Schuld aller übrigen in ſeiner
+                                    win­<lb break="no"/>denden <milestone unit="refline" n="ttf_25"/>Todesnoth vor den Augen des ewig Verzeihenden!<lb/>Mir <milestone unit="refline" n="ttf_26"/>wühlt es Mark und Leben durch, das
+                                Elend dieſer einzi­<lb break="no"/>gen, <milestone unit="refline" n="ttf_27"/>du grinſeſt gelaſſen über das Schickſal von
+                                Tauſenden hin.</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_28" rend="centered letter-spaced">Mephiſtopheles.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_28"/>Nun
+                                ſind wir ſchon wieder an der Gränze unſers Witzes,<lb/><milestone unit="refline" n="ttf_29"/>da wo euch Menſchen der Sinn
+                                überſchnappt. Warum machſt<lb/><milestone unit="refline" n="ttf_30"/>du Gemeinſchaft mit uns, wenn du ſie nicht
+                                    durchführen<lb/><milestone unit="refline" n="ttf_31"/>kannſt?
+                                Willſt fliegen und biſt vor’m Schwindel nicht ſicher?<lb/><milestone unit="refline" n="ttf_32"/>Drangen wir uns dir auf, oder du dich
+                                uns?</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_33">Fauſt.rend="centered
+                                letter-spaced"&gt;Fauſt.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_33"/>Fletſche deine gefräßigen Zähne mir nicht ſo entgegen!<lb/>Mir
+                                    <milestone unit="refline" n="ttf_34"/>eckelts! — Großer
+                                herrlicher Geiſt, der du mir zu<lb/>erſcheinen <milestone unit="refline" n="ttf_35"/>würdigteſt, der du mein Herz kenneſt
+                                und meine<lb/>Seele, <milestone unit="refline" n="ttf_36"/>warum an
+                                den Schandgeſellen mich ſchmieden, der<lb/>ſich am <milestone unit="refline" n="ttf_37"/>Schaden weidet und am Verderben ſich
+                                letzt.</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_38" rend="centered letter-spaced">Mephiſtopheles.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_38"/>Endigſt du?</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_39" rend="centered letter-spaced">Fauſt.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_39"/>Rette
+                                ſie! oder weh dir! den gräßlichſten Fluch über dich<lb/><milestone unit="refline" n="ttf_40"/>auf Jahrtauſende!</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_41" rend="centered letter-spaced">Mephiſtopheles.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_41"/>Ich
+                                kann die Bande des Rächers nicht löſen, ſeine Riegel<lb/><milestone unit="refline" n="ttf_42"/>nicht öffnen. — Rette ſie! — Wer
+                                war’s, der ſie ins Ver­<lb break="no"/>derben <milestone unit="refline" n="ttf_43"/>ſtürzte? Ich oder du?</p>
+                        </sp>
+                        <pb facs="J_XIIA149-1808_00430.tif" n="430"/>
+                        <fw rend="centered" type="pageNum">430</fw>
+                        <milestone unit="cols" n="2"/>
+                        <cb/>
+                        <stage rend="centered small" n="before_ttf_44_a">
+                            <hi rend="normal letter-spaced">Fauſt</hi> blickt wild umher. </stage>
+                        <sp>
+                            <speaker n="before_ttf_44_b" rend="centered letter-spaced">Mephiſtopheles.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_44"/>Greifſt du nach dem Donner? Wohl, daß er euch
+                                    elenden<lb/><milestone unit="refline" n="ttf_45"/>Sterblichen
+                                nicht gegeben ward! Den unſchuldig Entgegnen­<lb break="no"/>den
+                                    <milestone unit="refline" n="ttf_46"/>zu zerſchmettern, das iſt
+                                ſo Tyrannen-Art, ſich in Ver­<lb break="no"/>legenheiten <milestone unit="refline" n="ttf_47"/>Luft zu machen.</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_48" rend="centered letter-spaced">Fauſt.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_48"/>Bringe
+                                mich hin! Sie ſoll frey ſeyn!</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_49" rend="centered letter-spaced">Mephiſtopheles.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_49"/>Und
+                                die Gefahr, der du dich ausſetzeſt? Wiſſe, noch liegt<lb/><milestone unit="refline" n="ttf_50"/>auf der Stadt Blutſchuld von deiner
+                                Hand. Ueber des<lb/>Erſchlagenen <milestone unit="refline" n="ttf_51"/>Stätte ſchweben rächende Geiſter, und lauern<lb/>auf
+                                    <milestone unit="refline" n="ttf_52"/>den wiederkehrenden
+                                Mörder.</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_53" rend="centered letter-spaced">Fauſt.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_53"/>Noch
+                                das von dir? Mord und Tod einer Welt über dich<lb/><milestone unit="refline" n="ttf_54"/>Ungeheuer! Führe mich hin, ſag’ ich,
+                                und befreye ſie!</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_55" rend="centered letter-spaced">Mephiſtopheles.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_55"/>Ich
+                                führe dich, und was ich thun kann, höre! Habe ich<lb/>alle
+                                    <milestone unit="refline" n="ttf_56"/>Macht im Himmel und auf
+                                Erden? Des Thürners Sinne<lb/><milestone unit="refline" n="ttf_57"/>will ich umnebeln, bemächtige dich der Schlüſſel, und
+                                    führe<lb/><milestone unit="refline" n="ttf_58"/>ſie heraus mit
+                                Menſchenhand. Ich wache! die Zauberpferde<lb/><milestone unit="refline" n="ttf_59"/>ſind bereit, ich entführe euch. Das
+                                vermag ich!</p>
+                        </sp>
+                        <sp>
+                            <speaker n="before_ttf_60" rend="centered letter-spaced">Fauſt.</speaker>
+                            <p rend="firstLineIndented"><milestone unit="refline" n="ttf_60"/>Auf
+                                und davon!</p>
+                        </sp>
+                    </div>
+
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big"><hi rend="letter-spaced">Guido,</hi> von <hi
+                                rend="letter-spaced">Iſidorus Orientalis.</hi></head>
+                        <stage rend="centered small">(Fortſetzung.)</stage>
+                        <p rend="firstLineIndented"><hi rend="letter-spaced">Guido</hi> bekommt Luſt
+                            unter <hi rend="letter-spaced">Flora’s</hi> Anleitung
+                            ſich<lb/>gleichfalls mit der heiligen Sprache des Indus bekannt
+                            zu<lb/>machen; ſie iſt dazu bereit, unter der Bedingung, daß er<lb/>ihr
+                            dagegen die deutſche Reimkunſt lehren ſoll, und ſingt<lb/>ihm zur
+                            Guitarre ein Lied oder eine Romanze, die einige<lb/>rührende Strophen
+                            hat, und auch durch den Anwachs der<lb/>letzten Zeile jeder Strophe eine
+                            eigene Anmuth gewinnt.<lb/>Sie drückt ein Sehnen nach Indien und nach
+                            der Himmels­<lb break="no"/>königinn Maria aus, die dahin eingeladen
+                            wird, wo bereits<lb/>ihr alle Herzen glühen, und wo ſie ſelbſt ſchon
+                            geweſen<lb/>ſeyn ſoll.</p>
+                        <p rend="firstLineIndented">Gerührt verheißt <hi rend="letter-spaced"
+                                >Guido,</hi> die liebliche Schwärmerinn<lb/>in ihre Heimath
+                            zurückzuführen. Indem tritt der Burgherr<lb/>herein, es werden Becher
+                            und Kränze gebracht, und <hi rend="letter-spaced">Felir</hi><lb/>kommt
+                            auch, um ſich mit Geſang und Wein zu erfreuen.<lb/>Flora entfernt ſich.
+                            Ob der Kapellan nicht ſchon während<lb/>der Romanze einige Becher mag
+                            geleert haben, bleibt unge­<lb break="no"/>wiß; mir iſt es aber beynahe
+                            ſo vorgekommen, weil er ſo<lb/>mancherley im Becher ſieht. „Mir hebt,“
+                            ſagt er, „ſich<lb/>ein heiliges Chriſtikind aus ſeinen goldenen Wellen
+                            empor,<lb/>das badet ſich in den friſchen Wogen, und ſchwimmt
+                            mir<lb/>nachmals im Herzen zu tauſend Freuden umher. Dann<lb/>weiß ich’s
+                            ſo ganz was es heißt: Wein erfreut das Menſchen­<lb break="no"
+                            />herz.“</p>
+                        <cb/>
+                        <p rend="firstLineIndented"><hi rend="letter-spaced">Felix</hi> ſtimmte ein
+                            höchſtwunderbares Weinlied an,<lb/>worin er, wie <hi
+                                rend="letter-spaced">Guido</hi> ſagt, ihn gereiften
+                            Gold-Duft<lb/>nannte, und überhaupt ins Allerheiligſte der Natur
+                            ſich<lb/>wagte. — Einige Kreuzlieder entflammen unſern Helden,<lb/>der
+                            nach Dichter Art ſchnell Feuer fängt, zum Kreuzzuge,<lb/>welchen ihm der
+                            Graf und der Kapellan — gewiß abſichtlich,<lb/>denn man merkt recht gut,
+                            daß der treuherzige <hi rend="letter-spaced">Guido</hi><lb/>von dieſen
+                            Herrn bearbeitet wird — verheißen; wird aber<lb/>von <hi
+                                rend="letter-spaced">Felix</hi> zu einem Trinkliede aufgefordert,
+                            und hier iſt<lb/>er in ſeinem Elemente. Er beginnt:</p>
+                        <lg rend="indented">
+                            <l>Wer iſt, der Bacchus Kraft nicht kennt,</l>
+                            <l>Wenn uns der Gott durchdringt,</l>
+                            <l>Und in ihr wahres Element</l>
+                            <l>Die ganze Welt verſinkt? u. ſ. w.</l>
+                        </lg>
+                        <p rend="firstLineIndented">Ein recht liebliches Liedchen, voll feinem Sinn,
+                            und doch<lb/>verſtändlich. —</p>
+                        <p rend="firstLineIndented"><hi rend="letter-spaced">Flora</hi> (die
+                            Repräſentantinn der indiſchen Dichtkunſt)<lb/>gefällt dem <hi
+                                rend="letter-spaced">Guido</hi> über alle Maßen wohl in dem
+                            deutſchen<lb/>Gewande, und ſie muß ſich nach ſeiner Beſchreibung
+                            auch<lb/>wirklich recht fein ausgenommen haben. — In ihrem wech­<lb
+                                break="no"/>ſelſeitigen Unterrichte macht G. vorzüglich in der
+                            indiſchen<lb/>Botanik und auch in der Sprache ſo große Fortſchritte,
+                            als<lb/>ein junger Dichter bey einer ſolchen Lehrerinn nur
+                            immer<lb/>machen kann.</p>
+                        <p rend="firstLineIndented">Der Graf ſchlägt eine Reiſe <hi
+                                rend="letter-spaced">ins Blaue</hi> vor. (In die<lb/>Luft?) <hi
+                                rend="letter-spaced">Flora</hi> hatte nicht Luſt mitzugehen, ob ſie
+                            ſich<lb/>gleich ungern von ihrem geliebten Schüler trennte.
+                            Am<lb/>Abende vorher wanderten ſie einſam in das dunkle Thal hin­<lb
+                                break="no"/>unter. Die Nacht ſpannte ihren weichen Schleyer über
+                            die<lb/>Bergſpitzen aus, und — was machen die guten Seelen in<lb/>dieſer
+                            Dunkelheit? — G. foderte mit den ſüſſeſten Wor­<lb break="no"/>ten <hi
+                                rend="letter-spaced">Flora,</hi> welche ſich innig an ſeinen Arm
+                            ſchmiegt, auf,<lb/>ihm — ein indiſches Mährchen zu erzählen. — Die
+                            lieben<lb/>reinen Seelen! — Das Mährchen iſt zwar nicht lang,
+                            aber<lb/>ich bin doch darüber eingeſchlafen. Es iſt ſo hübſch
+                            kindiſch;<lb/>überall kriechen neckiſche kleine Weſen, wie in den
+                                berühm­<lb break="no"/>ten Kindermythen, aus Blumen hervor. So viel
+                            iſt mir<lb/>nur noch erinnerlich, daß es darauf ankam, eine
+                                gewiſſe<lb/><hi rend="letter-spaced">Edda</hi> zu erlöſen, welches
+                            geſchehen wird:</p>
+                        <lg rend="indented">
+                            <l>Wirſt Du ein Herz erblicken,</l>
+                            <l>Das ſich in Düfte lößt,</l>
+                            <l>So geh’, die Blume zu pflücken,</l>
+                            <l>Und <hi rend="letter-spaced">Edda</hi> iſt erlöst.</l>
+                        </lg>
+                        <p rend="firstLineIndented">Aber die Vorherverkündigung liegt in dem
+                            Verſe:</p>
+                        <lg rend="indented">
+                            <l>Wenn <hi rend="letter-spaced">Edda</hi> wird in Deinen Armen</l>
+                            <l>Von ihrer Sehnſucht, ihrem Schmerz</l>
+                            <l>In einer ew’gen Nacht erwarmen;</l>
+                            <l>Dann ſchlägt der Liebe banges Herz.</l>
+                        </lg>
+                        <p rend="firstLineIndented">Die Reiſe ins Blaue geht vor ſich. — Eine
+                            Gruppe<lb/>Bergleute, und darunter ein hochbetagter Greis, ein
+                                blühen­<lb break="no"/>des ſchelmiſches Mädchen, ein junger
+                            Bergknappe und ein<lb/>ſüſſes Kind, geſellen ſich zur Karavane. Sie
+                            ſcheinen dem<lb/>G., beſonders die jungen Leute, bekannt und auch
+                                nicht<lb/><pb facs="J_XIIA149-1808_00431.tif" n="431"/><fw
+                                rend="centered" type="pageNum">431</fw><milestone unit="cols" n="2"
+                            /><cb/>bekannt. (Ich vermuthete <hi rend="letter-spaced">Cyane</hi> und
+                                <hi rend="letter-spaced">Wunibald,</hi><lb/>unter dem Alten aber <hi
+                                rend="letter-spaced">Ambroſius,</hi> habe es jedoch auch<lb/>nicht
+                            beſtimmt herausbringen können.) — Das Mädchen<lb/>ſingt ein
+                            allerliebſtes Lied von Reiſen und Bergmannsge­<lb break="no"/>ſchäften.
+                            Unter andern heißt es darin:</p>
+                        <space/>
+                        <lg rend="indented">
+                            <l>Trift man hie und da im Freyen</l>
+                            <l>Einen andern Pilger an,</l>
+                            <l>O wie ſteigt der Muth von Neuen (neuem),</l>
+                            <l>Wie erblüht’s um unſre Bahn.</l>
+                            <l>Gar Bekannte zu entdecken —</l>
+                            <l>Welch’ ein fröhliches Erſchrecken!</l>
+                        </lg>
+                        <space/>
+                        <lg rend="indented">
+                            <l>Bin ich hie und da geweſen,</l>
+                            <l>Laß ich gern das Herz zurück,</l>
+                            <l>Bey den lieben frommen Weſen</l>
+                            <l>Jedes Ortes weilt mein Blick;</l>
+                            <l>Wer gediegnes Gold will haben,</l>
+                            <l>Muß ſich leicht durch’s Leben graben.</l>
+                        </lg>
+                        <space/>
+                        <p rend="firstLineIndented">Das müſſen mir aber ſonderbare Bergleute ſeyn.
+                            Der<lb/>eine war ſogar ſchon im Anfange des dreizehnten Jahrhun­<lb
+                                break="no"/>derts in den <hi rend="letter-spaced">Sibiriſchen
+                                Schachten</hi> geweſen, und der<lb/>andre tief nach Weſten hinein in
+                            einem noch wenig bekann­<lb break="no"/>ten überaus reichhaltigen Lande.
+                            — Alle wünſchen recht<lb/>viel von jenem entfernten wunderſamen Lande zu
+                            hören,<lb/>und er erzählt ihnen darauf — eine mährchenhafte
+                            Geſchichte<lb/>von einem weiſen und mächtigen Könige, der das Sonnen­<lb
+                                break="no"/>reich beherrſchte. Zwey ſeiner Töchter waren
+                            verheirathet,<lb/>die eine an den König von Thule, und die andere an
+                            den<lb/>Kaiſer von Hindoſtan; die dritte aber war mit einem be­<lb
+                                break="no"/>rühmten Sänger ſeines Hofes vermählt, und der
+                            Erzähler<lb/>ſagt: „Das <hi rend="letter-spaced">Band</hi> ihrer
+                            Umarmung <hi rend="letter-spaced">brannte</hi> ſilberrein<lb/>und <hi
+                                rend="letter-spaced">innig,</hi> wie die Milchſtraße, die durch den
+                            Aether ſich<lb/>ewig ſchlingt.“ — Es muß von <hi rend="letter-spaced"
+                                >Asbeſt</hi> geweſen ſeyn,<lb/>denn es verbrannte nicht. — Dieſe
+                            Prinzeßinn hieß <hi rend="letter-spaced">Gold­<lb break="no"
+                                />blüthe,</hi> und erbat von dem Vater ſich, daß er ſie
+                            mit<lb/>ihrem Gemahle ziehen laſſen ſollte, um den Karfunkel
+                            zu<lb/>ſuchen, der dem Herrſcher abhanden gekommen war, und<lb/>ohne
+                            welchen er nicht vermochte, ſein Reich in Ordnung zu<lb/>erhalten. — Der
+                            König wankte, da erſchien ein wunderba­<lb break="no"/>rer Bergmann, und
+                            ſang ein myſtiſches Bergmannslied,<lb/>welches ſo anfängt:</p>
+                        <space/>
+                        <lg rend="indented">
+                            <l>Wird denn der Kummer niemals enden?</l>
+                            <l>Iſt nie des Oels (?) genug?</l>
+                            <l>Wenn (wann) kommt die Zeit, wo aus den Blenden</l>
+                            <l>Ein neuer Schimmer ſchlug?</l>
+                            <l>Soll ſich in ſeiner bangen Haſt</l>
+                            <l>Der König unten ganz verzehren,</l>
+                            <l>Darf in ſein Reich nicht wiederkehren</l>
+                            <l>Beladen mit der Schätze Laſt? u. ſ. w.</l>
+                        </lg>
+                        <space/>
+                        <p rend="firstLineIndented">Der Bergmann verſchwindet, und der König
+                            entſchließt<lb/>ſich in einem Liede, das Schickſal zu erfüllen, und
+                            läßt<lb/>nach einem ſchmerzlichen Abſchiede ſeine Kinder
+                            ziehen.<lb/>Doch ermannt er ſich bald, da eine Tanzmuſik ſich
+                            erhebt,<lb/>und ſpricht: „Nichts iſt würdiger und königlicher, als
+                            einen<lb/>ungeheuern Schmerz in den fliegenden Tanz
+                            hineinzuſtoßen,<cb/>daß er entfliegen, und ſeine Göttlichkeit fühlen und
+                            feyern<lb/>muß.“ Er tanzt.</p>
+                        <p rend="firstLineIndented">Das neue Reich iſt gegründet, man weiß nicht
+                            wie,<lb/>und Alles wird durch Geſang bewirkt; ja des Königes Ab­<lb
+                                break="no"/>ſicht war: „Jegliches in Geſang aufzulöſen, und für
+                            die<lb/>vergeſſenſten Dinge eigenthümliche Sprachorgane hervorzu­<lb
+                                break="no"/>bringen, ſo daß alles zugleich Dichter und Gedicht
+                            werden<lb/>ſollte. Durch dieſen einzigen <hi rend="letter-spaced">höchſt
+                                einfachen</hi> Zauber<lb/>hoffte er alle Strahlen des erſehnten
+                            Karfunkels an ſich zu<lb/>ziehen, und den Monarchen der Sonne vielleicht
+                            bald in das<lb/>glückliche Reich laden zu können, um daſelbſt mit
+                            einem<lb/>Feſte die Erlöſung des Karfunkels zu feyern.“</p>
+                        <p rend="firstLineIndented">Unterdeſſen wurde der Königinn Goldblüthe das
+                            Herz<lb/>ſchwer; ſie ſehnte ſich zu den ihrigen zurück. Da hört
+                            ſie<lb/>auf einem einſamen Spaziergange luſtige Stimmchen, wel­<lb
+                                break="no"/>che ſie einladen, ſich in ein Vögelchen verwandeln zu
+                            laſſen,<lb/>und ſich ihrem Gemahle, der eben den Göttern ein
+                            Opfer<lb/>zu bringen im Begriff ſteht, zum Opfer aufzudringen.
+                            Sie<lb/>geht den Vorſchlag ein, und fliegt als ein Flamingo auf
+                            den<lb/>Altar, wo bereits die Flamme lodert, und nachdem ſie
+                            zu<lb/>Aſche verbrannt iſt, hört man aus der Aſche dieſe Strophen:</p>
+                        <space/>
+                        <lg rend="indented">
+                            <l>Der König hat das Opfer gebracht,</l>
+                            <l>Goldblüthe hat ihr Herz gegeben,</l>
+                            <l>Nun wird dem Suchen ein End’ gemacht,</l>
+                            <l>Bald ſoll der Stein ſich uns ergeben,</l>
+                            <l>Denn Opfer löſen des Zaubers Macht,</l>
+                            <l>Aus heil’ger Aſche will er ſich heben,</l>
+                            <l>Und wenn Dein Herz geopfert iſt,</l>
+                            <l>Du dem Karfunkel ſehr nahe biſt.</l>
+                        </lg>
+                        <space/>
+                        <p rend="firstLineIndented">Nun beſchließt der König durch ſein Opfer den
+                                Kar­<lb break="no"/>funkel zu gewinnen, und ſtürzt ſich in die
+                            Flamme, nachdem<lb/>er ſeinen Höflingen geboten hat, den koſtbaren Stein
+                            aus<lb/>ſeiner Aſche hervorzuziehen, und dem Beſitzer (Eigenthü­<lb
+                                break="no"/>mer) einhändigen zu laſſen.</p>
+                        <stage rend="centered">(Die Fortſetzung folgt.)</stage>
+                    </div>-->
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big letter-spaced">Notiz.</head>
+                        <stage rend="centered small"><hi rend="letter-spaced">Aus Zürch,</hi> vom 24
+                            April.</stage>
+                        <p rend="firstLineIndented">So eben gibt der Buchhändler Geßner von ſeines
+                                Schwie­<lb break="no"/>gervaters, des ehrwürdigen <hi
+                                rend="letter-spaced">Wieland’s,</hi> Ueberſetzung
+                            und<lb/>Erläuterung der <hi rend="letter-spaced">ſämtlichen Briefe
+                                Cicero’s</hi> die<lb/>zwey erſten Bände heraus. Die Vorrede <hi
+                                rend="letter-spaced">Wieland’s</hi> iſt<lb/>am 26 März geſchrieben;
+                            ſie enthält in gediegener Kürze<lb/>die Würdigung der köſtlichen
+                            Briefſammlung und die Dar­<lb break="no"/>ſtellung der Stimmung und
+                            Abſicht, mit denen der Ueber­<lb break="no"/>ſetzer ſeine Arbeit
+                            unternommen hat, was er ſelbſt eine ver­<lb break="no"/>ſpätete Frucht
+                            aus dem Winter ſeines Lebens nennt: das<lb/>iſt in dem Kranze der
+                            Verdienſte des großen Mannes ge­<lb break="no"/>wiß keines der
+                            kleinſten, und dieſe Vorrede ſelbſt iſt eine<lb/>lieblich duftende
+                            Blume, die jedes zarte Gefühl der Liebe,<lb/>der Dankharkeit und der
+                            Hochſchätzung gegen den von den<lb/>unſichtbaren Mächten, welche Tugend
+                            und Weisheit loh­<lb break="no"/>nen, geliebten und geſchätzten Greis,
+                            neu aufweckt. Es ſey<lb/>uns vergönnt, einige Gedanken aus eben jener
+                            Vorrede für<lb/>die jenigen Leſer des Morgenblatts auszuheben, denen
+                            der<lb/>Genuß des Werkes ſelbſt noch für Wochen oder Monate<lb/>verſagt
+                            ſeyn möchte. — „Unter Myriaden, welche ſeit<lb/><pb
+                                facs="J_XIIA149-1808_00432.tif" n="432"/><fw rend="centered"
+                                type="pageNum">432</fw><milestone unit="cols" n="2"/><cb/>mehr als
+                            300 Jahren einige gelehrte Erziehung genoſſen ha­<lb break="no"/>ben,
+                            ſind wohl nur wenige, die nicht die <hi rend="letter-spaced"
+                                >Grundlage<lb/>ihrer Bildung</hi> dem <hi rend="letter-spaced"
+                                >Cicero</hi> zu danken hätten, und<lb/>es gibt vielleicht kein
+                            untrüglicheres Zeichen einer glückli­<lb break="no"/>chern und
+                            liberalern Natur, eines geſunden und zu zärte­<lb break="no"/>rem Gefuhl
+                            des ächten Schönen und Guten geſtimmten in­<lb break="no"/>nern Sinnes,
+                            als den Grad des Geſchmacks, welchen ein<lb/>Jüngling an den Werken
+                            dieſes großen Römers findet, der<lb/>an üppiger Falle ſo vieler von
+                            Mutter Natur an ihn ver­<lb break="no"/>ſchwendeten Gaben, und an
+                            höchſter Ausbildung derſelben,<lb/>bis itzt noch keinen Seinesgleichen,
+                            geſchweige einen über<lb/>ſich, geſehen hat. — Alles Vergangene kommt,
+                            wie es<lb/>ſcheint, in einer Art von Kreislauf der Zeiten, in
+                            mehr<lb/>oder minder veränderter Geſtalt wieder. Die alte
+                            Geſchichte<lb/>iſt eine Art von Orakel zur Belehrung und Warnung
+                                derje­<lb break="no"/>nigen, deren Geſchichte in tauſend Jahren die
+                            alte ſeyn<lb/>wird; nur Schade, daß dieſe prophetiſche Stimme
+                            das<lb/>Schickſal der Weiſſagungen der Trojaniſchen <hi
+                                rend="letter-spaced">Caſſandra</hi><lb/>hat; man <hi
+                                rend="letter-spaced">verſteht</hi> ſie nicht, weil man ſie nicht
+                            verſtehen<lb/>will; man <hi rend="letter-spaced">glaubt</hi> ihr nicht,
+                            weil man keine Luſt hat, ihr<lb/>zu <hi rend="letter-spaced"
+                                >gehorchen.</hi> Nichts kann für Leſer von hellem
+                            Kopfe<lb/>unterhaltender ſeyn, als aus dem hohen Standpunct, wor­<lb
+                                break="no"/>auf uns achtzehn verfloſſene Jahrhunderte geſtellt
+                            haben, das<lb/>ganze Spiel derjenigen zu überſehen, die einſt in der <hi
+                                rend="letter-spaced">Ge­<lb break="no"/>genwart</hi> deſſen, was für
+                            uns Vergangenheit iſt, wie in<lb/>einem großen unſichtbaren Netze
+                            befangen waren, zu ſehen,<lb/>wie oft ſie mit den ſchärfſten Augen blos
+                            deßwegen falſch<lb/>ſahen, weil die Gegenſtände ihnen zu nahe waren,
+                            oder,<lb/>weil das Große, worauf ihr Blick unverwandt hätte gehef­<lb
+                                break="no"/>tet ſeyn ſollen, durch kleine ſie umgebende Dinge
+                            verdeckt,<lb/>oder durch krumme Pfade aus ihren Augen gerückt
+                            wurde.“</p>
+                        <p rend="firstLineIndented">Und nun noch der Anfang der ſchönen und
+                            rührenden<lb/>Stelle, in der <hi rend="letter-spaced">Wieland von ſich
+                                ſelbſt</hi> ſpricht:<lb/>„Was kann ich denen, welche eine ſo große
+                            und mit Schwie­<lb break="no"/>rigkeiten aller Art umgebene
+                            Unternehmung, wie eine Doll­<lb break="no"/>metſchung der ſämtlichen
+                            Briefe <hi rend="letter-spaced">Cicero’s</hi> unläugbar iſt,<lb/>für ein
+                            allzugroßes Wageſtück für einen Greis von fünf und<lb/>ſiebzig Jahren
+                            halten, was kann ich ihnen antworten, als —<lb/>daß ich ſelbſt gänzlich
+                            ihrer Meynung bin, und kaum et­<lb break="no"/>was anders zu meiner
+                            Entſchuldigung anzuführen habe, als<lb/>die <hi rend="letter-spaced"
+                                >Zeit,</hi> in welcher, und die <hi rend="letter-spaced">Art,</hi>
+                            mit welcher dieſer<lb/>verwegene Gedanke wie ein Gewappneter über mich
+                                gekom­<lb break="no"/>men iſt. Ich fühlte damals ein zweyfaches
+                            dringendes Be­<lb break="no"/>dürfniß in mir, ohne deſſen unmittelbare
+                            Stillung ich nicht<lb/>länger ausdauern zu können glaubte: das Eine war,
+                            mich<lb/>je bälder je lieber aus einer fürchterlich einengenden
+                                Gegen­<lb break="no"/>wart in eine andere Welt, in eine Zeit und
+                            unter Men­<lb break="no"/>ſchen, die längſt nicht mehr waren, wo möglich
+                            unter lau­<lb break="no"/>ter koloſſaliſche Menſchen vom Titanen- und
+                                Giganten­<lb break="no"/>Stamm, zu verſetzen, — das Andere, irgend
+                            eine große,<lb/>ſchwere und mühſelige, aber mir mit allem dem
+                            angenehme,<lb/>und zu meinen gewohnten Studien paſſende
+                            Geiſtesarbeit<lb/>zu unternehmen, welche mich hoffen ließe, daß ſie
+                            mir,<lb/>durch Luſt und Liebe zur Sache und durch die mit der Aus­<lb
+                                break="no"/>führung ſelbſt nothwendig verbundene unvermerkte
+                                Steige­<lb break="no"/>rung meiner Kräfte, vielleicht ſo weit
+                            gelingen dürfte, daß<lb/>ich die Welt mit dem Troſte verlaſſen könnte,
+                            die letzten Jahre<lb/>oder Tage meines Lebens nicht ohne alles Verdienſt
+                            um mei­<lb break="no"/>ne geliebten — <hi rend="letter-spaced"
+                                >Sptachgenoſſen</hi> zugebracht zu haben.</p>
+                    </div>-->
+                    <!--<figure type="line"/>-->
+                    <!--<div type="act">
+                        <head rend="centered big bold letter-spaced"
+                            >Korreſpondenz-Nachrichten.</head>
+                        <stage rend="right small"><hi rend="letter-spaced">Berlin,</hi> 20
+                            April.</stage>
+                        <p rend="firstLineIndented small">Das Muſeum des Hrn. <hi
+                                rend="letter-spaced">Werkmeiſter</hi> hat den glänzend­<lb
+                                break="no"/>ſten Fortgang, ungeachtet Hr. <hi rend="letter-spaced"
+                                >Kuhn</hi> von ſeinem Preiſe ſo<lb/>ſehr herabgeſtimmt hat, daß das
+                            jährliche Abonnement, nach<lb/><cb/>dem gegenwärtigen Kurs der
+                            Scheidemünze, ihm jetzt kaum<lb/>ſo viele Thaler <hi
+                                rend="letter-spaced">einträgt,</hi> als er ſonſt Friedrichd’or <hi
+                                rend="letter-spaced">ver­<lb break="no"/>langte.</hi> Dieß ſchnelle
+                            Anwachſen der Zahl der Abonnenten,<lb/>die in kurzem beſtimmt über 300
+                            betragen wird, hat Hrn. W.<lb/>genöthigt, ſein Muſeum in ein größeres
+                            Local, Jägerſtraße<lb/>Nr. 20, zu verlegen, wo er demſelben fünf Zimmer
+                            mit<lb/>Einſchluß eines Unterhaltungszimmers, und einen Saal ein­<lb
+                                break="no"/>geräumt hat, die ſämmtlich auf das geſchmackvollſte
+                            dekorirt,<lb/>und Abends durch Lüſtres erleuchtet ſind. Wände und
+                            Pfeiler<lb/>zieren die vorzüglichſten Landcharten, und Büſten von
+                            unſerm<lb/>Direktor <hi rend="letter-spaced">Schadow,</hi> von <hi
+                                rend="letter-spaced">Tiek</hi> und <hi rend="letter-spaced"
+                                >Dannecker,</hi> nach<lb/>der eigenen Anordnung des erſtern. <hi
+                                rend="letter-spaced">Friedrich der Große,<lb/>Luther, Goethe,
+                                Schiller, Iffland,</hi> Madame<lb/><hi rend="letter-spaced"
+                                >Schröck</hi> etc. verdienen unter letzteren vorzügliche
+                            Auszeichnung.<lb/>Auſſer dieſen Büſten wird <hi rend="letter-spaced"
+                                >Schadow</hi> noch mehrere ſeiner Ar­<lb break="no"/>beiten
+                            aufſtellen, zu denen bald auch Gyps-Abgüße von An­<lb break="no"/>tiken
+                            des Muſeum Napoleon kommen werden, bey deren<lb/>Auswahl Hr. W. unſern
+                            Hofrath <hi rend="letter-spaced">Hirt</hi> zu Rathe gezogen<lb/>haben
+                            ſoll. —</p>
+                        <p rend="firstLineIndented small">In dem erſten Zimmer des am 14. d. M.
+                            eröffneten neuen<lb/>Locals befindet ſich die ſo bedeutende Anzahl von
+                            Journalen<lb/>und Zeitungen in eleganten Repoſitorien, die gedruckte
+                            und<lb/>numerirte Rubriken haben, nach der Ordnung eingelegt, wo­<lb
+                                break="no"/>durch dem Suchenden das Auffinden ſo leicht als möglich
+                                ge­<lb break="no"/>macht iſt. Auſſer dieſen Journalen und Zeitungen
+                            werden<lb/>alle neue Flug ſchriften von einiger Bedeutung, Deutſche
+                            und<lb/>Franzöſiſche, und viele wiſſenſchaftliche Werke, ſo bald ſie
+                                er­<lb break="no"/>ſcheinen angeſchafft, und dieſe ſowohl, als die
+                            Zeitſchriften, ge­<lb break="no"/>hen, nachdem ſie 4 bis 6 Wochen im
+                            Muſeum ausgelegen ha­<lb break="no"/>ben, zu der großen Bibliothek über,
+                            woraus ſie dann jeder<lb/>Abonnent auch mit ſich nach Hauſe nehmen
+                            kann.</p>
+                        <p rend="firstLineIndented small">So hat Hr. W. mehr geleiſtet, als er
+                            verſprochen; da­<lb break="no"/>für gebührt ihm der Dank aller ſeiner
+                            Abonnenten, mit deren<lb/>völliger Zufriedenheit er ſich belohnt ſieht;
+                            hoffentlich wird<lb/>ihm aber auch ſein Inſtitut, dem er ſeine ganze
+                                Aufmerkſam­<lb break="no"/>keit widmet, bald von reellem Nutzen
+                            ſeyn.</p>
+                        <p rend="firstLineIndented small">Ueber das Sommerlocal im Thiergarten werde
+                            ich Ihnen,<lb/>ſo bald es eröffnet ſeyn wird, ebenfalls Nachricht
+                            geben.</p>
+                        <stage rend="right small"><hi rend="letter-spaced">Berlin,</hi> 23
+                            April.</stage>
+                        <p rend="firstLineIndented small">Seit vierzehn Tagen haben wir das
+                            Vergnügen, Bern­<lb break="no"/>hard <hi rend="letter-spaced"
+                                >Romberg</hi> wieder bey uns zu ſehen; einer Ankündi­<lb break="no"
+                            />gung zufolge gibt er morgen ein Konzert. Leider aber wird<lb/>das auch
+                            das letzte ſeyn, denn er wäre ſchon abgereist, um<lb/>(nach einer
+                            Excurſion nach Hamburg) in ſein Engagement bey<lb/>dem Fürſten <hi
+                                rend="letter-spaced">Kinsky</hi> zu treten, hielte ihn nicht die
+                                Krank­<lb break="no"/>heit eines geliebten Kindes noch hier feſt.
+                            Wir verlieren ihn,<lb/>und wenn nicht alles trügt, noch manchen wackern
+                            Künſtler<lb/>und Gelehrten von Ruf und Thatkraft. Um ſo mehr
+                            aber<lb/>ſchätzen wir hoch, was, trotz der ihm im Auslande angetra­<lb
+                                break="no"/>genen Vortheile, bey uns bleibt. Dahin gehört <hi
+                                rend="letter-spaced">Gnbitz,</hi><lb/>der vor einiger Zeit einen
+                            ſehr hoffnungsreichen Ruf erhielt<lb/>und ablehnte. Er wird nächſtens
+                            ein großes Blatt, ein Gan­<lb break="no"/>zes beginnen, und darin
+                            wahrſcheinlich mehr als je ſeinen<lb/>Werth beurkunden.</p>
+                        <p rend="firstLineIndented small">Heute reist der bekannte Hofmahler <hi
+                                rend="letter-spaced">Weitſch,</hi> einer<lb/>Einladung des Hrn.
+                            Marſchalls <hi rend="letter-spaced">Soult</hi> zu genügen,
+                            nach<lb/>Stettin ab, um das Portrait des Hrn. Marſchalls für
+                            den<lb/>Napoleons-Saal in Paris zu mahlen. — Ein hieſiger Kupfer­<lb
+                                break="no"/>ſtecher liefert nächſtens ein Bildniß des berühmten
+                                Bürgers<lb/><hi rend="letter-spaced">Nettelberg</hi> zu Colberg nach
+                            einem Oelgemählde bearbei­<lb break="no"/>tet. Der Mann iſt der
+                            Unſterblichkeit würdig, nur muß man<lb/>wünſchen, daß er auch auf eine
+                            würdige Weiſe verewigt<lb/>werde.</p>
+                        <p rend="firstLineIndented small">Der Kammergerichtsrath <hi
+                                rend="letter-spaced">Gosler</hi> wird im nächſten hal­<lb break="no"
+                            />ben Jahre Vorleſungen über den <hi rend="letter-spaced">Code
+                                Napoleon</hi> halten.</p>
+                    </div>-->
+                    <!--<pb facs="J_XIIA149-1808_Graukarte.tif"/>-->
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

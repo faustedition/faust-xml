@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390745/">
+   <revisionDesc>
+      <change when="2012-12-04" who="bruening">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Spuren der typischen Brieffaltung, vorder- und rückseitig Klebespuren.
+         Konzept egh zu Vers 8845–8859 mit
+         dem Inzipit: Du aber hochbegnadigt . . .
+         = zweites Konzept im Vgl. mit diesen
+         Versen in 2 III H.15 (GSA 25/W 1594);
+         auf Brief von F. v. Müller an Goethe mit
+         dem Inzipit: „Eben erst finde ich bey
+         meiner Heimkunft . . .“, ohne Datum
+         [(?)zwischen Mitte März und 5. April
+         1825]</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.16</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,4</idno>
+      <idno type="gsa_2">GSA 25/W 1595</idno>
+      <idno type="gsa_ident">390745</idno>
+      <idno type="wa_faust">2 III H.16</idno>
+      <textTranscript uri="390745.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">259</width>
+         <height unit="mm">206</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 68</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 94</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 94</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Vorstufe zu H.17 (25/XVIII,2,5*a)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>1825 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390745</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 8845-8859
+Du aber hochbegnadigt ...
+WA: III H.16; vgl. I 15.2,68
+Konzept
+auf Brief von F. v. Müller an Goethe "Eben erst finde ich bey meiner Heimkunft ..." [(?)zwischen Mitte März und 5.4.1825 Weimar]</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,4</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,4</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1825 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1825</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Du aber hochbegnadigt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,68</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.16</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8845-8859</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Müller, Friedrich Theodor Adam Heinrich von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Vorstufe zu H.17 (25/XVIII,2,5*a), = 2. K im Vgl. mit diesen Versen in H.15
+               (25/XVIII,2,3*a)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Brief von F. v. Müller an Goethe "Eben erst finde ich bey meiner Heimkunft
+               ..." [(?)zwischen Mitte März und 5.4.1825 Weimar]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1238</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4090</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

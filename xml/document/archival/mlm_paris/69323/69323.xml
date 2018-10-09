@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/mlm_paris/69323/">
+    <revisionDesc>
+        <change when="2012-09-27" who="bruening">Die von K. Heumann erhobenen Daten
+            aufgenommen.</change>
+        <change when="2012-09-27" who="bruening">encoded</change>
+        <change when="2014-08-28" who="bruening">Inhalt aus location_unknown/stargardt_katalog698-84.xml hierher verlegt.</change>
+        <change when="2015-01-28" who="koehler">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+        <note>Ein Fragment des Entwurfs von Goethes Brief vom 15. März 1826 an den preußischen
+            Staatsmann K.F.F. v. Nagler, den er bittet, sein Dankschreiben für das ihm verliehene
+            Privileg zum Schutz seiner Werke in Preußen an König Friedrich Wilhelm III.
+            weiterzuleiten (WA, Abt. IV, Bd. 40, Nr. 253).</note>
+        <repository>mlm_paris</repository>
+        <idno type="faustedition">2 III H.45b</idno>
+        <idno type="mlm_paris">69323</idno>
+        <!-- „cote (ou référence)“ laut Julien PETIOT -->
+        <idno type="gsa_1">GSA 25/XVIII,4,1a</idno>
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="69323.xml"/>
+        <classification>Konzept</classification>
+        <references>
+            <reference type="description" uri="faust://bibliography/stargardt_634">S. 33, Nr.
+                106</reference>
+            <reference type="description" uri="faust://bibliography/stargardt_698">S. 48, Nr.
+                84</reference>
+            <reference type="essay" uri="faust://bibliography/stargardt_698">S. 48, Nr.
+                84</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <metadata>
+            <paperType>Konzeptpapier</paperType>
+            <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+            <note>Untere Hälfte des Gegenzeichens.</note>
+            <dimensions>
+                <width unit="mm">200</width>
+                <height unit="mm">167</height>
+            </dimensions>
+            <format>none</format>
+            <note>Halbiertes Folioblatt</note>
+            <edges>cut</edges>
+        </metadata>
+        <page>
+            <metadata>
+                <note>Briefentwurf von Schreiberhand.</note>
+                <docTranscript uri="0001.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0002.xml"/>
+                <references>
+                    <reference type="text" uri="faust://bibliography/stargardt_634">S. 33, Nr.
+                        106</reference>
+                    <reference type="text" uri="faust://bibliography/stargardt_698">S. 48, Nr.
+                        84</reference>
+                </references>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

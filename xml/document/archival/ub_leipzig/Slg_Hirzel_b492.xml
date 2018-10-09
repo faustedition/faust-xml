@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_leipzig/Slg_Hirzel_b492/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Hs.-Nachweise</change>
+      <change when="2013-10-10" who="henzel">wa_I_6 ergaenzt</change>
+      <change when="2012-11-21" who="henzel">encoded</change>
+      <change when="2013-11-21" who="henzel">Ruecksprache mit Carmen Knickmeier und Jürgen Gruß wegen zweifacher Signaturvergabe gsa_1</change>
+      <change who="bruening" when="2014-01-30">Maier und anderes</change>
+      <change when="2014-05-28" who="henzel">erneute Pruefung am Original</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-04-02" who="henzel">Nachtraege nach erneuter Pruefung am Original</change>
+      <change when="2018-09-29" who="pravida">changed sigil "2 III H.58b" to "2 III H.59a"</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <repository>ub_leipzig</repository>
+      <collection>Sammlung Hirzel</collection>
+      <idno type="faustedition">2 III H.59a</idno>
+      <idno type="ub_leipzig">B 492</idno>
+      <subidno type="gsa_1">GSA 25/XI,XIVa,20<!-- Aufnahme der Vorderseite, getrennt archiviert  --></subidno>
+      <subidno type="gsa_1">GSA 25/XVIII,4,7<!-- Rückseite --></subidno>
+      <idno type="wa_faust">2 III H.e</idno>
+      <idno type="wa_div">H.69</idno>
+      <textTranscript uri="b492.xml"/>
+      <classification>Konzept</classification>
+      <note>Reinschrift</note>
+      <numberingList>
+         <numbering>Foliierung eines zeitgenössischen Schreibers (vielleicht sogar Goethes) mit Bleistift, s. auch B 494</numbering>
+         <numbering>unten rechts auf der Pappe Zählung mit Bleistift (wohl archivarisch und zur Durchzählung der Handschriften innerhalb der Sammlung)</numbering>
+      </numberingList>
+      <condition>leicht fleckig; Aufklebung des zweiten Blattes auf das Grundblatt erfolgte mit Klebeband auf der Rückseite; beide Blätter wurden nach der Beschriftung in Kolumnen und in Gänze noch einmal quer gebrochen; das Grundblatt wurde auf gelbbräunliche Pappe geklebt; auf dem Grundblatt und der Anklebung ist jeweils ein Stempel der Universitätsbibliothek Leipzig; unterhalb des aufgeklebten Blatts wurden zwei Bleistiftzeilen gezogen; Blätter wurden vermutlich zusammen mit B 494 aus einer Konvolutsammlung entnommen (darauf verweist Foliierung)</condition>
+      <dimensions>
+         <width unit="mm">167</width>
+         <height unit="mm">180</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <watermarkID>JGH No 4</watermarkID>
+      <watermarkID>Doppeladler mit Krone</watermarkID>
+      <note>angeschnittenes Wasserzeichen (Fragment), vgl. faust://bibliography/wa_I_6, S. 347: „JGH No 4 und Doppeladler-Wappen“ und faust://bibliography/maier1965, Bd. 2, S. 382: „JGH | No 4“.</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/hirzel1874">S. 235</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 72</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_6">S. 349f., 436</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323, Nr. 15</reference>
+         <reference type="description" uri="faust://bibliography/fink1932">S. 50</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 143</reference>
+         <reference type="description" uri="faust://bibliography/maier1965">Bd. 2, S. 55</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 143f.</reference>
+         <reference type="essay" uri="faust://bibliography/maier1965">Bd. 2, S. 382f.</reference>
+         <reference type="essay" uri="faust://bibliography/bosse1999">S. 878f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="a.xml"/>
+         </metadata>
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">167</width>
+                  <height unit="mm">119</height>
+               </patchDimensions>
+               <note>Der Mindestwert der Blatt-Breite beträgt 166 mm. Der Mindestwert der Blatt-Höhe beträgt 118 mm.</note>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchChainLines unit="mm">26</patchChainLines>
+               <note>ungefährer Wert</note>
+               <patchWatermarkID>"GM" oder "GH"</patchWatermarkID>
+               <note>angeschnittenes Wasserzeichen (Fragment)</note>
+               <!-- Höhe: 28 mm, Breite: ca. 50 mm -->
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="b.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

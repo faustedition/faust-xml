@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-02-21" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="145" facs="gjb_10_0145.jpg"/>
+            <div type="letter">
+                <head rend="right">Rehburg, <date when="1786-10-14">14. Oct. 1786</date>.</head>
+                <head>Frau von Gravmayer<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
+                        >3</hi></ref> an Caroline von Beulwitz.</head>
+                <p>.... <milestone unit="testimony" spanTo="#bie3_773_end" xml:id="bie3_773"/>Göthe
+                    hat viel (in Carlsbad) vorgelesen, unter andern <rs>Doctor Faust</rs> und es
+                    schien, dass meine beyde Freundinnen Lanthiery<anchor xml:id="N2"/><ref
+                        target="#F2"><hi rend="sup">4</hi></ref> und Frl. Asseburg mich recht
+                    bedauerten, es nicht gehört zu haben. ich bedauerte mich damals schon selbst
+                    darum, und noch hinten nach jedes mahl wenn ich dran denke .... Denn bei
+                    dialogirten Stücken ist es von vorzüglichem Werth sie von den Autoren selbst
+                    lesen zu hören. überhaupt ist es mir unersezbar <hi rend="italic">Göthen</hi>
+                    nicht selbst <hi rend="italic">sein</hi> Stück haben lesen hören....</p>
+                <pb n="146" facs="gjb_10_0146.jpg"/>
+                <p>Die Lanthiery haben wir viel gesehen und wirklich genossen, es ist eine schöne,
+                    offene, reine Seele, voll Licht und der wahren Güte. Göthe gefiel ihr ganz
+                    ausnehmend, si j’avais un coeur a donner sagte sie, je le donnerai a Göthe,
+                    nachher glaube ich hätte sie es unter Herder und Göthe getheilt, denn sie liebte
+                        beyde.<anchor xml:id="bie3_773_end"/></p>
+            </div>
+            <div type="editorial">
+                <p><anchor xml:id="F1"/><ref target="#N1"><hi rend="sup">3 Mittheilung von O. Brahm.
+                            Aus dem Schillerschen Archiv.</hi></ref>
+                </p>
+                <p><anchor xml:id="F2"/><ref target="#N2"><hi rend="sup">4</hi> Vgl. Goethe an
+                        Schiller No. 369. Urlichs Briefe an Schiller S. 172.</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

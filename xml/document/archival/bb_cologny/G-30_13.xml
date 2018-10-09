@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_13/">
+   <revisionDesc>
+      <change when="2012-10-08" who="bruening">Metadatenanreichung</change>
+      <change when="2012-04-16" who="henzel">Ergaenzungen</change>
+      <change when="2013-08-12" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Fragment. Gegenstück: f://document/gsa_2/GSA_25-W_1696. Weiteres Gegenstück (oben)
+         verschollen? Aus demselben Blatt wie f://document/landeck/2_V_H.j? So müsste es sich
+         verhalten, wenn zutrifft, was faust://bibliography/landeck1981, S. 92 in Bezug auf
+         f://document/landeck/2_V_H.k sagt. Echtheitsbestätigung durch Anna Jameson.</note>
+      <repository>bb_cologny</repository>
+      <idno type="faustedition">2 V H.0e</idno>
+      <idno type="bb_cologny">G-30.13</idno>
+      <idno type="landeck">2 V H.k</idno>
+      <idno type="gsa_1">GSA 25/XVIII,8,3</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="G-30_13.xml"/>
+      <classification>none</classification>
+      <!-- Reinschrift -->
+      <history>Weitergabe Ottilies an Anna Jameson im Jahr 1834; oberer Teil des Blattes wurde 1834
+         oder später abgeschnitten und befindet sich im Goethe- und Schiller-Archiv Weimar.</history>
+      <condition>Blatt wurde auf beigefarbenes Passepartout so geklebt, dass Vorder- und Rückseite des
+         Blattes sichtbar blieben;
+         Tinte drückt durch; Blatt scheint geglättet worden zu sein, da die Oberfläche nicht mehr
+         griffig ist; Blatt wurde nach der Beschriftung längs mit Beschriftungsseite nach innen
+         gefaltet; auf Rückseite Stempel mit Initialen(?) 'SH' oder 'HS' (übereinander
+         liegend)</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">97</height>
+      </dimensions>
+      <note>Der Mindestwert
+         der Blatt-Höhe beträgt 96 mm.</note>
+      <format>none</format>
+      <!-- nah an Oktav -->
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 92</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 92</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 92</reference>
+         <reference type="essay" uri="faust://bibliography/knopf2006">S. 196</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+            <!-- Echtheitsbestätigung von Anna Jameson -->
+            <!-- Stempel links der Schrift -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

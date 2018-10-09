@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390461/">
+<revisionDesc>
+   <change when="2012-12-06" who="henzel">imported</change>
+   <change when="2012-12-06" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.10</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,11</idno>
+      <idno type="gsa_2">GSA 25/W 1499</idno>
+      <idno type="gsa_ident">390461</idno>
+      <idno type="wa_faust">2 II H.10</idno>
+      <textTranscript uri="390461.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">330</width>
+         <height unit="mm">201</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 328 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 33</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 33</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= früheres Konzept im Vgl. mit diesen Versen auf H.8 (25/XVII,7,9:1)</f:bemerkung>
+      </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

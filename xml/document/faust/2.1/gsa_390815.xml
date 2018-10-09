@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390815/">
+	<revisionDesc>
+		<change when="2012-12-10" who="bruening">encoded</change>
+		<change when="2015-01-22" who="koehler">minimal headnote</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+		<note>Längs und quer gebrochen.
+		dabei: Tagebuchnotizen zum 11. und 12. Oktober 1827, WA III 11, S. 123,23-26,
+		WA III 11, S. 124,1-2, Konzept egh</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P102</idno>
+		<idno type="gsa_1">GSA 25/XIX,1,17</idno>
+		<idno type="gsa_2">GSA 25/W 1761</idno>
+		<idno type="gsa_ident">390815</idno>
+		<idno type="wa_faust">none</idno>
+		<idno type="bohnenkamp">H P102</idno>
+		<classification>Schema</classification>
+		<textTranscript uri="390815.xml"/>
+		<dimensions>
+			<width unit="mm">203</width>
+			<height unit="mm">330</height>
+		</dimensions>
+		<format>2</format>
+		<edges>cut</edges>
+		<paperType>Konzeptpapier</paperType>
+		<paperColour>grau</paperColour>
+		<countermarkID>H_ueber_Stuetzerbach</countermarkID>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 191</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 297</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 191f.</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 297f.</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 598-600</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 298-303</reference>
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0003.xml"/>
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Tagebuchnotizen zum 11. und 12.10.1827, WA III 11,123,23-26, WA III 11,124,1-2, Konzept egh</f:dabei_vermerk>
+      <f:datierung>vor dem 11.10.1827</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390815</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Paralipomenon 102
+Zur Mummenschanz ...
+WA: oS; vgl. I 15.2,191-192
+Schema</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John, egh</f:schrift>
+      <f:signatur>XIX,1,17</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<metadaten xmlns="">
+				<p>GSA XIX (1,17) (WA I,15.2,191f.)</p>
+				<p>Schema</p>
+				<p>Erstdruck: WA I,15.2,191f.</p>
+				<p> x , graues Folioblatt, Konzeptpapier, gerippt, gefaltet, in Kolumnen
+					gebrochen;<br/> WZ: `H' über `Stuetzerbach' (Stuetzerbacher Sternpapier);</p>
+				<p>VS: John schw. Tinte rechtsspaltig P102; links Bleizusatz Goethes; mit Blei und
+					Tinte als erledigt gestr.;</p>
+				<p>RS: John schw. Tinte rechtsspaltig Fortsetzung P102; umgekehrt dazu, dem Schema
+					ausweichend (also sehr wahrscheinlich später) G Blei Tagebuchnotizen vom
+					11.10.1827, mit Blei als erledigt gestr.</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p> Auf der Rückseite dieses Folioblattes finden sich eigenhändige Tagebuchnotizen:
+					"Mittag für uns/ 5 Uhr/ Hr. Fleischer das Ded. Exemplar/ des Parnass. it.
+					bringen/ Weiter[es] Gespräch mit demselben/ über mancherl[ey] Liter.[arische]
+					Ge[gen]/ stände/ Albert Dürers Reliquien Taschenbuch/ Kräuter wegen der
+					Fleisch./ Angelegenheit", vgl. Tagebuch zum 11./12. 10. 1827; WA III,11,123f. Da
+					sie der Schema-Reinschrift ausweichen, also <i>nach</i> ihr auf diesem Blatt
+					eingetragen wurden, läßt sich das Schema zur `Mummenschanz' auf eine
+					Entstehungszeit vor dem 11. 10. 1827 festlegen. (Gegen Collin, der _ ausgehend
+					von den Angaben der WA _ ohne eigene Sichtung der Handschrift den 11. 10. 1827
+					als terminus <i>post</i> quem behandelt; vgl. Josef Collin, Zur
+					`Mummenschanz'-Szene in Goethes Faust, S. 361.) </p>
+				<p>Es handelt sich hier um das älteste überlieferte Schema zur `Mummenschanz' (etwa
+					zu V. 5088-5688), das viele der auftretenden Gruppen schon nennt. Von den
+					Maskengruppen bis zum Auftritt des Plutus fehlen nur wenige: die Gruppe der
+					Grazien, die hier noch nicht genannt ist, wurde auch im Mundum H erst
+					nachträglich eingefügt. Zentrale Motive des zweiten Teils der `Mummenschanz'
+					aber fehlen in P102 noch ganz; einige der hier notierten Gruppen sind
+					andererseits in der Ausführung fallengelassen worden oder treten nur als
+					pantomimisch agierende Figuren auf.</p>
+				<p>Das Schema zeugt von Goethes erneuter Lektüre einer Sammlung florentinischer
+					Maskenzüge (`Tutti i trionfi'), die Goethe am 11. 8. 1827 "nach langer Zeit"
+					wieder vornahm: "`Canti Carnascialeschi' nach langer Zeit wieder angesehen.
+					Herrlichstes Denkmal der florentinischen Epoche und Lorenz Medicis." (WA
+					III,11,96) Zwei Tage später verzeichnet das Tagebuch: "Fuhr fort in den
+					florentinischen Gedichten zu lesen [...]" (WA III,11,97), und wahrscheinlich ist
+					auch der Eintrag vom 21. 8. 1827 ("Einiges zu den allegorischen Festbildern", WA
+					III,11,99f.) schon auf die Arbeit an der `Mummenschanz' zu beziehen.</p>
+				<p>Diesen von dem florentinischen Apotheker Anton-Francesco Grazzini herausgegebenen
+					Sammelband hat Goethe vom 11. 8. bis zum 9. 10. 1827 aus der Weimarischen
+					Bibliothek entliehen (vgl. Keudell, Nr. 1855): Dieser Rückgabetermin und die
+					anderweitige Nutzung des Blattes mit dem Hauptschema zu den "Maskenzüge[n]" (11.
+					10.) liegen auffällig dicht beieinander. Mit großer Wahrscheinlichkeit ist P102
+					also zwischen dem 11. August und dem 11. Oktober 1827 entstanden. Daß P102
+					"wahrscheinlich" am 11. Oktober entstanden sei, wie Katharina Mommsen annimmt
+					(1001 Nacht, S. 206), läßt sich allerdings daraus nicht folgern. Die Verwendung
+					eines (Reinschrift!) Blattes für neue Notizen läßt eher darauf schließen, daß es
+					zu diesem Zeitpunkt schon `als erledigt' angesehen wurde.</p>
+				<p>Der Vergleich von P102 mit Goethes Quelle macht deutlich, daß er zunächst viel
+					stärker an dieser orientiert war, als die Ausführung der Szene es schließlich
+					noch zu erkennen gibt. (Eine parallele Entwicklung stellt K. Mommsen bei der
+					Untersuchung des Einflusses der Märchen aus 1001 Nacht fest, vgl. Mommsen, 1001
+					Nacht.) Eine ausführliche Untersuchung der Grazzini-Bezüge der `Mummenschanz'
+					findet sich in der genannten Untersuchung von J. Collins. Die auffallende
+					Mischung der Masken</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 1</p>
+				<p> gruppen der `Mummenschanz' aus sehr unterschiedlichen Bereichen (Berufsgruppen,
+					mythologische Figuren, Allegorien) fand Goethe bei Grazzini schon vor. Die
+					Sammlung enthält vor allem `canti', in denen sich die Vertreter verschiedenster
+					Berufe und Gewerbe vorstellen; in einer Reihe von Liedern geht es auch um das
+					Verhältnis der beiden Geschlechter. Schließlich treten allegorisierte Tugenden
+					oder Laster auf sowie _ meist in der Form des `trionfo' _ Figuren aus dem
+					Bereich der griechischen Mythologie. Tatsächlich sind alle Stichworte des
+					Schemas P102 bei Grazzini vorgebildet (vgl. Zeilenkommentar). Die Reihenfolge
+					der Gruppen im Schema P102 ist dagegen ohne jede Anlehnung an die Vorlage
+					entstanden und entspricht im Grunde schon dem Aufbau der schließlich
+					ausgeführten Szene. Bereits im Schema beginnt der Karneval mit dem Auftritt der
+					Gärtner und Gärtnerinnen und endet der Maskenreigen mit dem Auftritt des Plutus. </p>
+				<p>Aufschlußreich für Goethes Arbeitsweise ist die Beobachtung (zuerst bei
+					Fischer-Lamberg, S. 9), daß sich die Stichworte des Schemas als
+					`Dispositionsnotizen' mit Bleistift eingetragen noch im abschließenden Mundum H
+					wiederfinden lassen: der Eintrag "Fischer und Vogelsteller" etwa findet sich
+					dort auf einer leer gebliebenen Seite, die später mit dem anstelle der zunächst
+					geplanten Verse eingesetzten Szenar überklebt wurde. (Vgl. mein Kapitel zur
+					Arbeitsweise, hier S. 834ff.)</p>
+				<p>Im ausgeführten Text fehlen gegenüber dem Schema schließlich ganz die Gruppen der
+					"Musikanten" und des "Juwelier" (die beiden einzigen Einträge, die im Schema
+					nicht als erledigt gestrichen wurden); "Fischer", "Vogelsteller" und "Poeten"
+					werden nur pantomimisch eingeführt. Die "Mütter und Töchter" sind auf ein Paar
+					reduziert, als "Verschwendung" bezeichnet sich im endgültigen Text der `Knabe
+					Lenker' (V. 5573). Andererseits finden sich im ausgeführten Text Beziehungen zur
+					Sammlung Grazzinis, die auf P102 noch nicht notiert waren. Da sind vor allem die
+					Verse des Trunkenen: Goethe übernimmt hier leicht abgewandelt sogar den bei
+					Grazzini vorgegebenen Refrain "Lanze trinche, trinche, Lanze" (Grazzini, S.
+					302). Zwei weitere Stellen weisen immerhin Anklänge an die Vorlage auf: Die
+					Wendung "Sù, Donne, a queste frutte aprite il grembo" (Los, meine Damen, diesen
+					Früchten öffnet den Schoß) aus dem `Canto di contadini, che vendono frutte
+					d'ogni ragione' (Gesang der Bauern, die Früchte jeder Art verkaufen, S. 84)
+					verwendet Goethe in V. 5197. Die Zeile "Ch'ognun ha foglie, e fior; ma pochi
+					frutti" (daß jede Blätter hat und Blüten, aber nur wenige Früchte, S. 347) aus
+					dem `Canto d'uomini, che vendono fiori' (Gesang der Männer, die Blumen
+					verkaufen) könnte als Anregung für V. 5177 wirksam geworden sein. Ob solche
+					Anklänge allerdings ausreichen, um die Entstehung der entsprechenden Verse _ vor
+					allem im Fall der Verse des `Trunkenen' _ auf einen Zeitpunkt vor der Rückgabe
+					des Sammelbands florentinischer Maskenzüge festzulegen, ist zweifelhaft.</p>
+				<p>Z. 2-5: Die Einteilung in "Gärtner" und "Gärtnerinnen" ist in der Vorlage nicht
+					gegeben; es treten jedoch verschiedene Gruppen auf, die als Vorbilder in Frage
+					kommen: `Canto di contadini, che vendono frutte d'ogni ragione' (Grazzini, S.
+					84);</p>
+				<p>HP101</p>
+				<p> `Canto di donne, che vendono mele' (Gesang der Frauen, die Äpfel verkaufen, S.
+					278); `Canto d'uomini che vendono fiori' (S. 346); `Canto di giardinieri'
+					(Gesang der Gärtner, S. 536). Vgl. V. 5088-5119 u. 5158-5177. </p>
+				<p>Z. 6 Gelegenheit für alle Pflanzen zu finden] Im `Canto di giardinieri'
+					(Grazzini, S.536) heißt es, daß bestimmte Pflanzen bestimmte Umgebungen
+					brauchen, um zu gedeihen, und daß es die Aufgabe der Gärtner ist, für jede
+					Pflanze die ihr angemessenen Bedingungen zu schaffen.</p>
+				<p>Z. 8-13: Vorgegeben sind bei Grazzini nicht nur die "Vogelsteller" und "Fischer",
+					sondern auch das unterschiedliche Gerät, mit dem diese auf die Jagd gehen. (Vgl.
+					den `Canto d'uccellatori [Vogelsteller] alle starne [Rebhühner]', S. 154; `degli
+					strozzieri [Falken]', S. 182, oder `di passerotti [Sperlinge]', S. 486. Der
+					`Canto d'uccellatori alla civetta [Käuzchen]', S. 326, erläutert die Vogeljagd
+					mit der Leimrute, der `Canto d'uccellatori col gufo', S. 484, die Krähenjagd mit
+					der Eule. Vgl. auch `Canto de' pescatori [Fischer]', S. 521; `Canto di pescatori
+					a lenza [Angelschnur]', S. 333; `Canto del pescar coll'esca [Köder]', `e l'amo
+					[Fischangel]', S. 145.) Im ausgeführten Text vgl. dazu die Regieanweisung nach
+					V. 5198.</p>
+				<p>Z. 12 Reißen] Für `reusze' (Reuse) erscheint in älterer Sprache auch `reisze'
+					(DWB 14,846).</p>
+				<p>Z. 14 Holzhauer] Vgl. den `Canto di tagliatori di boschi' (Gesang der Holzfäller)
+					bei Grazzini, S. 50: "Rozzi Pastor noi siam, ma d'alti ingegnj;/ La insegna vi
+					dimostra,/ Che l'arte nostra è tagliar boschi, e legnj./ [...]/ Consiste l'arte
+					nostra in un sol punto,/ Nel dar gran colpi, e buoni [...]./ In due colpi
+					facciam quel, ch'altri in venti" (Rohe Hirten sind wir, aber von hohem Talent;
+					das Wappen zeigt Euch, daß unsere Kunst ist Wälder abzuschlagen und Brennholz zu
+					hacken. [...] Unsere Kunst besteht nur in Einem, nämlich darin, grosse Schläge
+					auszuteilen und gute [...]. Mit zwei Schlägen machen wir das, wofür andere
+					zwanzig brauchen). Im endgültigen Text vgl. V. 5199-5214.</p>
+				<p>Z. 15 Buffone und Parasiten] Vgl. den `Canto de' Buffoni e Parassiti', der bei
+					Grazzini mit der üblichen Vorstellung beginnt: "Buffon siam noi, quest'altri
+					Parassiti,/ Gente giocose, e liete [...]" (Wir sind die Narren, diese anderen
+					sind Parasiten, lustige Leute, und froh; S. 450). Der Hanswurst `Buffone' ist in
+					der Ausführung durch `Pulcinelli', die Spaßmacher der Commedia dell'arte ersetzt
+					(V. 5215-5236); den Auftritt der `Parasiten' hat Goethe im endgültigen Text
+					ausgeführt (V. 5237-5262).</p>
+				<p>Z. 16 Musikanten] Bei Grazzini fand Goethe unter anderem einen `Canto di sonatori
+					di liuti' (Gesang der Lautenspieler, Grazzini S. 306) und zahlreiche weitere
+					Gesänge vor, in welchen sich die "Lanzi" (Landsknechte) als Spieler der
+					unterschiedlichsten Instrumente vorstellen. Vgl. den `Canto di Lanzi, Sonatori
+					di varj strumenti' (Gesang der Landsknechte, Spieler verschiedener Instrumente),
+					den `Canto di lanzi sonatori di ribecchini [Maultrommel]' und den `Canto die
+					lanzi, che suonano trombini [kleine Posaunen]'; Grazzini, S. 279, 304 u.
+					383.</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 1</p>
+				<p>Z. 17 Poeten] Vgl. den `Canto de' poeti' (Grazzini, S. 466-468). Zu den
+					unterschiedlichen Dichtertypen vgl. den Kommentar zu P110a, hier S. 308f.</p>
+				<p>Z. 21 Furien] Vgl. den in der Ausführung von der Vorlage allerdings deutlich
+					abweichenden `Trionfo delle Furie' (Grazzini, S. 254). Im endgültigen Text vgl.
+					V. 5357-5392).</p>
+				<p>Z. 22 Parzen] Vgl. den `Trionfo delle tre Parche' bei Grazzini (S. 29), in dem
+					die traditionelle Aufgabenverteilung der drei Parzen vorgeführt wird: "L'una dà
+					vita al core/ L'altra il viver mantiene;/ L'ultima è fine a nostro danno, e
+					bene. Però Lachesi il Lino a Rocca pone,/ Che ci dà vita, e sorte;/ Cloto
+					filando dà perfezione,/ Atropo tronca il fil, quando vuol morte:/ E cosí ferma e
+					forte/ È questa legge, e fia,/ Che tutto nasca, viva, e morto sia" (Die eine
+					gibt Leben, die andre erhält es, die letzte ist das Ende unserem Wohl und Wehe.
+					Darum legt Lachesis den Flachs auf den Spinnrocken, der uns Leben gibt und
+					Schicksal; Clotho bietet Vollendung beim Spinnen, Atropos schneidet den Faden
+					ab, wenn der [sie den?] Tod will. So fest und stark ist dieses Gesetz, es
+					bewirkt, daß alles geboren wird, lebt und stirbt). Diese `Aufgabenverteilung'
+					wird in Goethes Bearbeitung vertauscht: "Mich die älteste zum Spinnen/ Hat man
+					dießmal eingeladen [...]". Vgl. V. 5305-5356.</p>
+				<p>Z. 23 Mütter und Töchter] Vgl. den `Canto di Vedove, che menano le figliuole a
+					mostra, per trovar loro marito' (Gesang der Witwen, die ihre Töchter vorführen,
+					um Ehemänner für sie zu finden; Grazzini, S. 323). Vgl. V. 5178-5198.</p>
+				<p>Z. 24 Juwelier] Vgl. die `Mercatanti di Gioje' bei Grazzini, S. 73 und S.
+					271.</p>
+				<p>Z. 25 Klatschen] meint hier: Schwatzen, Plaudern. Vgl. den bei Grazzini als
+					Wechselgespräch eingerichteten `Canto delle fanciulle, e delle cicale' (Gesang
+					der Mädchen und der Schwätzer, S. 3) und die Sprecherangabe `Weiber-Geklatsch'
+					vor V. 5640 im endgültigen Text.</p>
+				<p>Z. 26-29: Vgl. den `Trionfo della Prudenza' in der Sammlung Grazzinis, der auch
+					die bei Goethe auftretenden Figuren "Furcht" und "Hoffnung" ins Spiel bringt:
+					"Viva Prudenza, e chi sua legge attende:/ Questa è colei, che `n Terra, e `n
+					Ciel risplende./ Questa leggiadra, e trionfante Donna,/ Che tutto il Mondo
+					regge,/ Unico refrigerio, alta Colonna/ Di chi ama sua legge;/ Per liberare il
+					suo famoso gregge/ Da tanti strazj, e si lunghe fatiche,/ Contr'a due gran
+					nimiche/ Di nostra vita, oggi per noi contende./ L'un è Speranza; e l'altra, che
+					ad un laccio/ Medesmo il collo piega,/ Paura è detta" (Es lebe die Klugheit, und
+					wer sich an ihr Gesetz hält: Das ist diejenige, die auf der Erde und im Himmel
+					glänzt. Diese anmutige und triumphierende Herrin, die die ganze Welt regiert,
+					einziger Trost, hohe Stütze für den, der ihr Gesetz liebt; Um ihre berühmte
+					Herde von zahlreichen Qualen und langen Mühen zu befreien, kämpft sie heute für
+					uns gegen zwei große Feinde unseres Lebens. Der eine ist die Hoffnung; der
+					andere, der den Hals selbst in die Schlinge legt, wird Furcht genannt; S. 35).
+					Die von Goethe ohne Grazzini-Vorlage eingeführte, diesen `Triumphzug'
+					schließlich überragende "Victorie, Göttin aller Thätigkeiten" (V. 5455f.), auf
+					die einige der bei Grazzini der Klugheit zugeschriebenen Attribute</p>
+				<p>HP101</p>
+				<p> übergegangen sind (vgl. V. 5453f.), wurde erst in späten Erweiterungen zur
+					dominierenden Gestalt (vgl. I H18, hier S. 325f.).</p>
+				<p>Z. 30-36: Der `Trionfo in dispregio dell'oro, dell'avarizia, e del guadagno'
+					(Triumphzug der Verachtung des Goldes, des Geizes und des Gewinns; Grazzini, S.
+					38) läßt sich mit dem "Triumph des Plutus" in Verbindung bringen: vgl. im
+					ausgeführten Text den Auftritt des Plutus ("des Reichthums Gott", V. 5569) mit
+					dem `Abgemagerten' ("da hieß ich Avaritia", V. 5649) auf dem "Viergespann" _ die
+					allegorische Ausgestaltung ist bei Grazzini jedoch nicht vorgebildet. Dort
+					handelt es sich um eine "Moralpredigt ohne allegorisches Beiwerk", die "wider
+					Gold und Geiz und Gewinn" eifert, "während Mephistopheles in der Maske des
+					Geizes diesen verteidigt; sein Wort: `Das sollte wohl gar ein Laster sein' (V.
+					5653) klingt wie eine Entgegnung auf des italienischen Dichters Klage, daß die
+					Tugend daniederliege und das Laster samt dem Reichtum auf die Höhe erhoben sei
+					(`E `l vizio col tesoro è posto in cima')" (Collins, S. 378).</p>
+				<p>Z. 35 Farfarellen ] Teufelchen bei Dante (Hölle 21,123). Goethe gebraucht das
+					Wort nicht nur im `Faust' für das ähnlich klingende italienische `farfalletto'
+					oder `farfallina' (kleiner Schmetterling). Vgl. V. 6592.</p>
+				<p>Z. 37f. Eisenkasten mit Drachenschlößern] Vgl. V. 5666-5688. </p>
+				<p>Nachlaßstücke Zweiter Teil, Akt 1</p>
+				<p>
+					<b>H P108b</b>
+				</p>
+			</kommentar>
+		</f:abrDissertation>
+		<f:inventoryDatabase>
+			<f:field>
+				<f:key n="08">Signatur</f:key>
+				<f:value>25/XIX,1,17</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="081">Bestandsbezeichnung</f:key>
+				<f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+				<f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11z">Druckstelle in der WA</f:key>
+				<f:value>I 15.1,8</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="12e">ermittelte Datierung</f:key>
+				<f:value>vor dem 11.10.1827</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="14">vorgefundenes Inzipit</f:key>
+				<f:value>Zur Mummenschanz</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+				<f:value>I 15.2,191-192</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="25">Sigle</f:key>
+				<f:value>oS</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="30">Schrift</f:key>
+				<f:value>John; egh</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="333">Überlieferungsform</f:key>
+				<f:value>Schema</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="41p">Paralipomenon</f:key>
+				<f:value>102</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="70">Personen</f:key>
+				<f:value>John, Johann August Friedrich</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="80">Blattzahl</f:key>
+				<f:value>1</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="90">dabei-Vermerk</f:key>
+				<f:value>Tagebuchnotizen zum 11. und 12.10.1827, WA III 11,123,23-26, WA III
+					11,124,1-2, Konzept egh</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="994">Filmnummer</f:key>
+				<f:value>1391</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="xx0">Datensatznr.</f:key>
+				<f:value>3905</f:value>
+			</f:field>
+		</f:inventoryDatabase>
+	</f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
+   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
+   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>WA IV 50</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2017-02-08" who="Kockel">angelegt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!--Testimony graef_1364-->
+         <pb n="105"/>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">50</num>/<num type="wa-letter">71</num>. <lb/>
+               <lb/>An <persName>Friedrich Wilhelm Riemer</persName>
+            </head>
+            <p rend="indentchar-m4n0">
+               <milestone unit="testimony" spanTo="#graef_1364_end" xml:id="graef_1364"/>Da ich
+               nicht das Vergnügen habe Sie heut Abend bey mir zu sehen, erbitt ich mir das <rs>Mspt
+                  der Helena</rs> um die Folge anzuschließen. Das übrige auf Morgen.<anchor
+                  xml:id="graef_1364_end"/>
+            </p>
+            <p rend="right">G.</p>
+            <lb/>
+         </div>
+         <!--Testimony graef_1435-->
+         <pb n="107"/>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">50</num>/<num type="wa-letter">85</num>. <lb/>
+               <lb/>An <persName>Friedrich Wilhelm Riemer</persName>
+            </head>
+            <p rend="indentchar-m4n0">
+               <milestone unit="testimony" spanTo="#graef_1435_end" xml:id="graef_1435"/>Sollte das
+               Datum der <rs>Pharsalischen Schlacht</rs> auszumitteln seyn.<anchor xml:id="graef_1435_end"/>
+            </p>
+            <lb/>
+         </div>
+      </body>
+   </text>
+</TEI>

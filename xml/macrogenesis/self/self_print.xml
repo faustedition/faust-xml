@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+    <!-- zu den absoluten Datierungen der Drucke vgl. https://github.com/faustedition/xml/issues/605 -->
+    <!--  J.1 : Erscheinungsdatum 00-00-1782 -->
+    <date notBefore="1782-01-01" notAfter="1782-12-31">
+        <source uri="faust://self"/>
+        <comment>Datierung des Drucks</comment>
+        <item uri="faust://print/faustedition/J.1"/>
+    </date>
+    <!--  S 7 : Erscheinungsdatum zur Ostermesse 1790, zwischen 00-04-1790 und 00-06-1790, QuZ I, Nr. 419, 421, 423 -->
+    <date notBefore="1790-04-01" notAfter="1790-06-30">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_1">Nr. 419, 421, 423</source>
+        <item uri="faust://print/hagen/S.o"/>
+    </date>
+    <!--  J.2 : Erscheinungsdatum 07-04-1808 (Nr. 84), 13-04-1808 (Nr. 89), 03-05-1808 (Nr. 108) -->
+    <date from="1808-04-07" to="1808-05-03">
+        <source uri="faust://self"/>
+        <source uri="faust://print/faustedition/J.2"/>
+        <item uri="faust://print/faustedition/J.2"/>
+    </date>
+    <!--  A 8 : Erscheinungsdatum zur Ostermesse 1808, zwischen 00-04-1808 und 00-05-1808, QuZ I, Nr. 1022, 1027 -->
+    <date notBefore="1808-04-01" notAfter="1808-05-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_1">Nr. 1022, 1027</source>
+        <item uri="faust://print/hagen/A"/>
+    </date>
+    <!--  D.1 : Erscheinungsdatum vor Michaelismesse 1808, zwischen 00-06-1808 und 00-10-1808, 
+        QuZ I, Nr. 1030, 1036; QuZ IV, Nr. 1240 -->
+    <date notBefore="1808-06-01" notAfter="1808-10-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_1">Nr. 1030, 1036</source>
+        <source uri="faust://bibliography/quz_4">Nr. 1240</source>
+        <item uri="faust://print/hagen/D.1"/>
+    </date>
+    <!--  B 9 : Erscheinungsdatum zur Ostermesse 1817, zwischen 00-04-1817 und 00-05-1817, 
+        QuZ I, Nr. 1312, 1340, 1360; Herstellung von B9 war Ende März 1817 fertig. Gesetzt wurde B9
+    aber deutlich früher. -->
+    <date type="normalized" notBefore="1816-10-01" notAfter="1816-10-31">        
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_1">Nr. 1297</source>
+        <comment>8.10.1816: "Goethe 9r Band wird heute auch ausgesetzt"</comment>
+        <item uri="faust://print/hagen/B"/>
+    </date>
+    <!--  D.2 : Erscheinungsdatum 00-00-1816, QuZ I, Nr. 1313 -->
+    <!--<date notBefore="1816-01-01" notAfter="1816-12-31">        
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_1">Nr. 1313</source>
+        <item uri="faust://print/hagen/D.2"/>
+    </date>-->
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>"Laut QuZ I, Nr. 1444 müsste D.2 "in der ersten Hälfte von 1816" gedruckt worden sein (00-01-1816 bis 00-06-1816). 
+            Dann könnte D.2 aber nicht aus dem umbrochenen Satz von B stammen, da B 9 im Oktober "ausgesetzt" (QuZ I, Nr. 1297) wurde. 
+            Reichels Angabe "in der ersten Hälfte von 1816" kann aber nicht stimmen, D.2 ist wegen Übereinstimungen zwischen A und B gegen D.2 ziemlich sicher ein abgeleiteter Druck. 
+            Es ist daher anzunehmen, dass D.2 Oktober-Dezember 1816 gesetzt wurde, ohne dass ein Zeugnis dies bestätigen könnte. 
+            (https://github.com/faustedition/xml/issues/623#issuecomment-424381472)</comment>
+        <item uri="faust://print/hagen/B"/>
+        <item uri="faust://print/hagen/D.2"/>
+    </relation>
+    <!--  Ba 9 : Erscheinungsdatum zweite Hälfte 1817, zwischen 00-06-1817 und 00-12-1817 -->
+    <date notBefore="1817-06-01" notAfter="1817-12-31">
+        <source uri="faust://self"/>
+        <item uri="faust://print/hagen/B.a"/>
+    </date>
+    <!--  D.3 : Erscheinungsdatum 00-00-1821, QuZ IV, Nr. 1240, 1249 -->
+    <date notBefore="1821-01-01" notAfter="1821-12-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_4">Nr. 1240, 1249</source>
+        <item uri="faust://bibliography/D.3"/>
+    </date>
+    <!--  D.4 : Erscheinungsdatum 00-09-1825, QuZ IV, Nr. 1789 -->
+    <date notBefore="1825-09-01" notAfter="1825-09-30">
+        <source uri="faust://bibliography/quz_4">Nr. 1789</source>
+        <item uri="faust://bibliography/D.4"/>
+    </date>
+    <!--  D.4alpha : Erscheinungsdatum 00-09-1825 (vermutlich) -->
+    <date notBefore="1825-09-01" notAfter="1825-09-30">
+        <source uri="faust://self"/>
+        <item uri="faust://bibliography/D.4alpha"/>
+    </date>
+    <!--  C.1 4 : Erscheinungsdatum zur Ostermesse 1827, zwischen 15-04-1827 und 00-05-1827, 
+        QuZ II, Nr. 1063 -->
+    <date notBefore="1827-04-15" notAfter="1827-05-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_2">Nr. 1063</source>
+        <item uri="faust://print/faustedition/C.1_4"/>
+    </date>
+    <!--  C.1 12 : Erscheinungsdatum zur Ostermesse 1828, zwischen 00-04-1818 und 00-05-1828, 
+        QuZ II, Nr. 1255, 1282 -->
+    <date notBefore="1828-04-01" notAfter="1828-05-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_2">Nr. 1255, 1282</source>
+        <item uri="faust://print/faustedition/C.1_12"/>
+    </date>
+    <!--  C.3 4 : Erscheinungsdatum nach Ostern 1828, zwischen 00-04-1828 und 00-05-1828, 
+        QuZ II, Nr. 1255 (nach Ostern) -->
+    <date notBefore="1828-04-01" notAfter="1828-05-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_2">Nr. 1255</source>
+        <item uri="faust://print/faustedition/C.3_4"/>
+    </date>
+    <!--  C.2 4alpha @gerritbruening -->
+    <date notBefore="1828-05-17" notAfter="1828-12-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_2"> 1076, 1150<!-- (28.9.1827 prospektiv)-->, 
+            1153<!-- (1.10.1827 prospektiv)-->, 1271<!-- (1.4.1828 prospektiv)-->, 
+            1298<!-- (17.5.1828 prospektiv)--></source>
+        <item uri="faust://print/faustedition/C.2alpha_4"/>
+    </date>
+    <!--  C.3 12 : Erscheinungsdatum zwischen 00-03-1829 und 00-10-1829, QuZ II, Nr. 1287, 1636 -->
+    <date notBefore="1829-03-01" notAfter="1829-10-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_2">Nr. 1287, 1636</source>
+        <item uri="faust://print/faustedition/C.3_12"/>
+    </date>
+    <!--  C.1 41 : Erscheinungsdatum zur Ostermesse 1833, 00-03-1833, QuZ III, Nr. 182, 311 -->
+    <date notBefore="1833-03-01" notAfter="1833-03-31">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_3">Nr. 182, 311</source>
+        <item uri="faust://bibliography/C.1_41"/>
+    </date>
+    <!--  C.3 41 : Erscheinungsdatum zur Ostermesse 1833, 00-04-1833, QuZ III, Nr. 182, 311 -->
+    <date notBefore="1833-04-01" notAfter="1833-04-30">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_3">Nr. 182, 311</source>
+        <item uri="faust://bibliography/C.3_41"/>
+    </date>
+    <!--  Q : Erscheinungsdatum erste Hälfte 1836, zwischen 16-03-1836 und 11-06-1836, QuZ III, Nr. 487 -->
+    <date notBefore="1836-03-16" notAfter="1836-06-11">
+        <source uri="faust://self"/>
+        <source uri="faust://bibliography/quz_3">Nr. 487</source>
+        <item uri="faust://bibliography/Q"/>
+    </date>
+    <!--<relation name="temp-pre">
+        <source uri="faust://self"/>
+        <item uri="faust://document/wa_faust/U"/>
+        <item uri="faust://print/hagen/S.o"/>
+        <item uri="faust://print/hagen/A"/>
+        <item uri="faust://print/wa_faust/J"/>
+        <item uri="faust://print/hagen/D.1"/>
+        <item uri="faust://print/hagen/B.a"/>
+        <item uri="faust://print/dla_marbach/Cotta_Manuskripte_Goethe_Ausg_letzter_Hand"/>
+        <item uri="faust://print/hagen/C.1"/>
+        <item uri="faust://print/hagen/C.2alpha"/>
+        <item uri="faust://print/hagen/C.3"/>
+    </relation>-->
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <item uri="faust://document/wa_faust/1_0_2_H"/>
+        <item uri="faust://print/hagen/A"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <item uri="faust://document/wa_faust/1_0_3_H"/>
+        <item uri="faust://print/hagen/A"/>
+    </relation>
+    <!-- usw., für die einzelnen Handschriften, siehe 
+        https://faustedition.uni-wuerzburg.de/new/genesis/lines/#/1/4612 -->
+</macrogenesis>

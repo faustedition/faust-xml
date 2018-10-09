@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2017-03-09" who="Krause">markiert</change></revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="329" facs="vollmer1876_0329.jpg"/>
+            <div type="letter">
+                <head rend="centered"><num>286.</num> Cotta an Schiller.</head>
+                <head rend="right">(<hi rend="letter-spaced">Tübingen</hi>, <date when="1798-12-06"
+                        >6. Dec. 98.</date>) <hi rend="small">[nicht verz.]</hi></head>
+                <p>Ihr werthes v. 28.<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
+                        >1</hi></ref> November wolte ich nicht eher beantworten, als bis der darinn
+                    angezeigte Nachfolger eintreffen würde; da aber Haſelmajer indeſſen geſchriben
+                    hat, ſo beeile ich mich Ihnen diß zu ſenden.<anchor xml:id="N2"/><ref
+                        target="#F2"><hi rend="sup">2</hi></ref> Ich ſchrib ihm, daß wegen
+                    eingetrettenen Umſtänden der Druk ſchwerlich vor Einem Jahr beginnen werde: denn
+                    ſo ſehr ich auch mit Ungeduld diſem entgegen ſehe, ſo könte ich es doch nicht
+                    vertragen, wann Ihr Intereſſe darunter leiden ſolte, und das wäre unter diſen
+                    Umſtänden doch der Fall. Unwandelbar etc.</p>
+                <p rend="right">J. F. <hi rend="letter-spaced">Cotta.</hi></p>
+                <p><milestone unit="testimony" spanTo="#pniower_137_end" xml:id="pniower_137"/>Hat Goethe <rs>ſeinen Fauſt nicht geendet</rs>? Gedenken Sie doch meiner ſtets bei
+                    ihm<anchor xml:id="pniower_137_end"/>.</p>
+            </div>
+            <div type="editorial">
+                <p><anchor xml:id="F1"/><ref target="#N1"><hi rend="sup">1</hi></ref>Von Cotta
+                    verleſen für 21.</p>
+                <p><anchor xml:id="F2"/><ref target="#N2"><hi rend="sup">2</hi></ref>Haſelmaiers
+                    Brief fehlt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

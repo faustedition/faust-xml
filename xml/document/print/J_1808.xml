@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+        <change when="2018-09-19" who="pravida">Angaben korrigiert</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">J.2</idno>
+        <idno type="wa_faust">J</idno>
+        <idno type="hagen_nr">653</idno>
+        <headNote>Morgenblatt für gebildete Stände, 1808</headNote>
+        <bibl>Morgenblatt für gebildete Stände. Zweiter Jahrgang. 1808. Im Verlag der J. G. Cotta’schen Buchhandlung in Tübingen.</bibl>
+        <note>Nr. 84 vom 7. April, S. 333f.: Faust I, v. 737–807; Nr. 89 vom 13. April, S. 353f.: Faust I, v. 1011–1177; Nr. 108 vom 5. Mai, S. 429f.: Faust I, Trüber Tag. Feld.</note>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">XII A / 149</idno>
+            </referenceCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 250</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 303</reference>
+            <reference type="essay" uri="faust://bibliography/hagen1983">S. 303</reference>
+        </references>
+        <textTranscript uri="J_XIIA149-1808.xml"/>
+    </metadata>
+</print>

@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-W_3-2/">
+   <revisionDesc>
+      <change when="2013-02-07" who="henzel">encoded</change>
+      <change when="2014-06-11" who="henzel">docTranscript nachgetragen</change>
+      <change when="2014-06-30" who="henzel">xml:base nachgetragen</change>
+      <change when="2015-03-02" who="henzel">textTranscript nachgetragen</change>
+      <change when="2015-03-09" who="pravida">minimal headnote</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Konvolut, 26 Blätter und Umschlag. – Druckvorlage (Bl. 6: ‚Der König in Thule‘).</headNote>
+      <note>"Balladen und Romanzen", Abschrift Geists mit Tinte mit eigenhändigen und Riemers
+         Korrekturen, Druckvorlage zu N Bd 7, 1800; Vorstufe für Druckvorlage zu A Bd 1, 1806, 28
+         Blatt</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.9</idno>
+      <idno type="gsa_1">GSA 25/I,5,2</idno>
+      <idno type="gsa_2">GSA 25/W 3,2</idno>
+      <idno type="gsa_ident">349271</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="wa_gedichte">H.5</idno>
+      <textTranscript uri="GSA_25-W_3-2.xml"/>
+      <classification>none</classification>
+      <!-- Reinschrift -->
+      <numberingList>
+         <numbering>zeitgenössische, möglicherweise eigenhändige Foliierung mit Bleistift (19-45,
+            unter Einbeziehung des Titelblattes)</numbering>
+         <numbering>zeitgenössische (möglicherweise eigenhändige) oder späte Neufoliierung mit roter
+            Tinte (1-27 ohne Titelblatt, 9 fehlt), die die Bleistiftfoliierung ersetzt</numbering>
+      </numberingList>
+      <note>Die Foliierung lässt darauf schließen, dass die Reihenfolge der Blätter und damit der
+         Gedichte nach der ersten Foliierung nicht mehr geändert wurde; einzig irritierend ist, dass
+         bei der neuen Foliierung keine Nr. 9 vorhanden ist - entweder handelt es sich um ein
+         Versehen, oder es war ein Blatt nach der ersten Foliierung hinzugefügt, mit neu foliiert
+         und dann aber wieder entfernt worden (plausibler scheint erste Vermutung).</note>
+      <condition>Konvolut wurde nach der Beschriftung auf Quartformat gefaltet (zwecks
+         Aufbewahrung?) und in großen Teilen ein weiteres Mal auf Oktav (anhand leichter Faltspuren
+         zu erkennen), glatte Blätter ohne diese Spuren (5, 6, 7, 8 10, 11) sind vermutlich später
+         (aber vor beiden Foliierungen) hinzugekommen</condition>
+      <dimensions>
+         <width unit="mm">210</width>
+         <height unit="mm">332</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 208 mm. Der Mindestwert der Blatt-Höhe beträgt
+         331 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">23</chainLines>
+      <watermarkID>Krone mit Zierrahmen, umrahmt von Blumenornamentik</watermarkID>
+      <countermarkID>I G HENDEL</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 367</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <!-- Umschlagbogen -->
+      <leaf>
+         <page/>
+         <page/>
+      </leaf>
+      <disjunctLeaf>
+         <!-- 1 "Der Sänger" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 2 "Das Veilchen" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <sheet>
+         <leaf>
+            <!-- 3 "Der untreue Knabe" -->
+            <page/>
+            <page/>
+         </leaf>
+         <leaf>
+            <!-- 4 "Erlkönig" -->
+            <page/>
+            <page/>
+         </leaf>
+      </sheet>
+      <disjunctLeaf>
+         <!-- 5 "Der Fischer" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 6 "Der König in Thule" -->
+         <metadata>
+            <watermarkID>none</watermarkID>
+            <countermarkID>I G HENDEL</countermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="GSA_25-W_3-2_Blatt-6recto.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="GSA_25-W_3-2_Blatt-6verso.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 7 "Das Blümlein Wunderschön" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 8 -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <!-- 9 fehlt -->
+      <sheet>
+         <leaf>
+            <!-- 10 "Der Schatzgräber" -->
+            <page/>
+            <page/>
+         </leaf>
+         <leaf>
+            <!-- 11 "Die Spinnerin" -->
+            <page/>
+            <page/>
+         </leaf>
+      </sheet>
+      <disjunctLeaf>
+         <!-- 12 "Der Edelknabe und die Müllerinn" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 13 "Der Junggesell und der Mühlbach" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 14 "Der Müllerinn Verrath" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 15 -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <sheet>
+         <leaf>
+            <!-- 16 "Der Müllerinn Reue" -->
+            <page/>
+            <page/>
+         </leaf>
+         <leaf>
+            <!-- 17 -->
+            <page/>
+            <page/>
+         </leaf>
+      </sheet>
+      <disjunctLeaf>
+         <!-- 18 "Die erste Walpurgisnacht" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 19 -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 20 "Der Zauberlehrling" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 21 -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 22 "Die Braut von Corinth" -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 23 -->
+         <page/>
+         <page/>
+      </disjunctLeaf>
+      <sheet>
+         <leaf>
+            <!-- 24 -->
+            <page/>
+            <page/>
+         </leaf>
+         <sheet>
+            <leaf>
+               <!-- 25 -->
+               <page/>
+               <page/>
+            </leaf>
+            <leaf>
+               <!-- 26 "Der Gott und die Bajadere" -->
+               <page/>
+               <page/>
+            </leaf>
+         </sheet>
+         <leaf>
+            <!-- 27 -->
+            <page/>
+            <page/>
+         </leaf>
+      </sheet>
+      <leaf>
+         <page/>
+         <page/>
+      </leaf>
+   </sheet>
+</archivalDocument>

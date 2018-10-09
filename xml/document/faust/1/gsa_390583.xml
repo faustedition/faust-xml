@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390583/">
+   <revisionDesc>
+      <change when="2012-11-08" who="henzel">imported</change>
+      <change when="2012-11-08" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2014-10-10" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 9 Blätter. – Text für die Bühne.</headNote>
+      <note>Heft in Umschlag, 15 beschriebene Seiten. – Seite 1 (Umschlag): Titelaufschrift (Kräuter, Tinte). Seite 3–16: Reinschrift einer Bühnenbearbeitung der Szene ‚Nacht‘ von ‚Faust I‘ (unbekannte Hand, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">T 5 H.1</idno>
+      <idno type="gsa_1">GSA 25/XVII,1,11:1</idno>
+      <idno type="gsa_2">GSA 25/W 1372</idno>
+      <idno type="gsa_ident">390583</idno>
+      <idno type="wa_faust">T 5 H<!-- T 5 H.1 --></idno>
+      <idno type="kraeuter">Eigen Poetisches 64</idno>
+      <textTranscript uri="390583.xml"/>
+      <classification>Mundum</classification>
+      <numberingList>
+         <numbering>Eigenhändige Foliierung mit Bleistift</numbering>
+      </numberingList>
+      <condition>auf der Außenseite fleckig und mit Tintenflecken; Ränder vergilbt; Konvolutblätter
+         wurden vermutlich im Quartformat aufbewahrt</condition>
+      <dimensions>
+         <width unit="mm">211</width>
+         <height unit="mm">353</height>
+      </dimensions>
+      <note>Angaben sind Durchschnittswerte für das gesamte Konvolut</note>
+      <format>2</format>
+      <bindingMaterial>Klebstoff, Faden</bindingMaterial>
+      <note>Blatt 1 wurde an Blatt 6 geklebt, abschließend wurde das gesamte Konvolut
+         geheftet</note>
+      <stabMarks>
+         <stabMark unit="mm">62</stabMark>
+         <stabMark unit="mm">111</stabMark>
+         <stabMark unit="mm">213</stabMark>
+         <stabMark unit="mm">278</stabMark>
+      </stabMarks>
+      <edges>uncut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 321</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 263</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <!-- Bl 1 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">218</width>
+            <height unit="mm">353</height>
+         </dimensions>
+         <note>Die Breitenangabe ist inklusive Klebefalz.</note>
+         <watermarkID>Fragment</watermarkID>
+         <note>nicht zu erkennen, Wz am unteren rechten Rand, angeschnitten, mittig Initialen</note>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <!-- 1r -->
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <!-- 1v -->
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <!-- Bl 2 und 5 -->
+      <metadata>
+         <watermarkID>Stern, acht- oder zehnzackig</watermarkID>
+         <note>auf Blatt 5 Vorderseite</note>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <leaf>
+         <page>
+            <!-- 2r -->
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 2v -->
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl 3 und 4 -->
+         <metadata>
+            <watermarkID>eventuell Buchstabe</watermarkID>
+            <note>auf Blatt 4 Vorderseite, mittig</note>
+            <countermarkID>none</countermarkID>
+         </metadata>
+         <leaf>
+            <page>
+               <!-- 3r -->
+               <metadata>
+                  <docTranscript uri="0005.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 3v -->
+               <metadata>
+                  <docTranscript uri="0006.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <page>
+               <!-- 4r -->
+               <metadata>
+                  <docTranscript uri="0007.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 4v -->
+               <metadata>
+                  <docTranscript uri="0008.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <page>
+            <!-- 5r -->
+            <metadata>
+               <docTranscript uri="0009.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 5v -->
+            <metadata>
+               <docTranscript uri="0010.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <!-- Bl 6 und 9 -->
+      <metadata>
+         <watermarkID>Stern, acht- oder zehnzackig</watermarkID>
+         <note>auf Blatt 6 Vorderseite</note>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <leaf>
+         <page>
+            <!-- 6r -->
+            <metadata>
+               <docTranscript uri="0011.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 6v -->
+            <metadata>
+               <docTranscript uri="0012.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl 7 und 8 -->
+         <metadata>
+            <watermarkID>eventuell Stern, acht- oder zehnzackig</watermarkID>
+            <note>auf Blatt 8 Vorderseite</note>
+            <countermarkID>none</countermarkID>
+         </metadata>
+         <leaf>
+            <page>
+               <!-- 7r -->
+               <metadata>
+                  <docTranscript uri="0013.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 7v -->
+               <metadata>
+                  <docTranscript uri="0014.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <page>
+               <metadata>
+                  <!-- 8r -->
+                  <docTranscript uri="0015.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <!-- 8v -->
+                  <docTranscript uri="0016.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <!-- 9r -->
+               <docTranscript uri="0017.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- 9v -->
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

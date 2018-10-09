@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391374/">
+   <revisionDesc>
+      <change when="2012-11-13" who="bruening">encoded</change>
+      <change when="2013-11-12" who="henzel">uri nachgetragen fuer lagenstruktur</change>
+      <change when="2014-10-16" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf, möglicherweise zu ‚Faust I‘, Szene ‚Walpurgisnacht‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Vs.: Versentwurf, möglicherweise zur Szene ‚Walpurgisnacht‘ in ‚Faust I‘ (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P32</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,21</idno>
+      <idno type="gsa_2">GSA 25/W 1395</idno>
+      <idno type="gsa_ident">391374</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P32</idno>
+      <textTranscript uri="391374.xml"/>
+      <classification>Konzept</classification>
+      <condition>Stark stockfleckig.</condition>
+      <dimensions>
+         <width unit="mm">210</width>
+         <height unit="mm">171</height>
+      </dimensions>
+      <note>Der Mindestwert für die Blatt-Breite beträgt 207 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Briefpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <paperMill>Lehesten</paperMill>
+      <watermarkID fragment="a_u">ILAbt</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 301</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 180</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 301</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 180</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 564</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 180</reference>
+      </references>
+   </metadata>
+
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:ident>391374</f:ident>
+      <f:kurztitel>Faust. Erster Theil
+Paralipomenon 32
+welch hohe Pracht ...
+WA: oS; vgl. I 14,301
+Konzept
+Text der Handschrift zu WA: I 14,301</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,2,21</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (2,21) (WA I,14,301)</p>
+            <p>Entwurf</p>
+            <p>Erstdruck: WA I,14,301</p>
+            <p> x , halbiertes Folioblatt (untere Hälfte), oben Rißkante, fleckig, gelblich,
+               gerippt; angeschnittenes WZ: `I L ABT' (Lehestener Sternpapier);</p>
+            <p>VS: G schw.br. Tinte P32;</p>
+            <p>RS: leer</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Das Blatt gibt keine Anhaltspunkte für eine Datierung; das gleiche Papier hat Goethe
+               auch für die erste Lage des Quarthefts H P50 verwendet. Deutung und Zuordnung dieser
+               flüchtigen Notiz bleiben unsicher. Erich Schmidt verweist sie auf den Blocksberg, die
+               späteren Kommentatoren der Paralipomena sind ihm hierin entweder gefolgt (Strehlke,
+               Witkowski, Petsch, Hecker), führen dieses `Paralipomenon' unter der Rubrik
+               `Zweifelhaftes' auf (Alt) oder lassen es ganz fallen (Harnack). </p>
+            <p> HP67</p>
+            <p>
+               <b>H P67</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,21</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>welch hohe Pracht</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 14,301</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>oS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>32</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,301</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1066</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2805</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,21</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,301</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P32</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>180</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>41</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>welch hohe Pracht</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>32</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9899</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

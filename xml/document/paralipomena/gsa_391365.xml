@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391365/">
+	<revisionDesc>
+		<change when="2012-11-12" who="henzel">imported</change>
+		<change when="2012-11-12" who="henzel">encoded</change>
+		<change when="2013-01-23" who="henzel">aktualisiert</change>
+		<change when="2013-09-06" who="ritter">aktualisiert</change>
+		<change when="2014-08-13" who="bruening">Morris</change>
+		<change when="2014-10-13" who="pravida">headnote</change>
+		<change when="2015-07-03" who="koehler">minimal headnote</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Heft, 3 Blätter. – Prosaentwürfe zu ‚Faust I‘.</headNote>
+		<note>dabei: Eigenhändiges Briefkonzept mit Bleistift an unbekannten Empfänger vom 1.5.1801
+			Heft, 3 Blätter, 4 beschriebene Seiten. - Seite 1,3, 5: Szenendisposition (eigenhändig, Tinte). Seite 6: Briefentwurf und Notiz (eigenhändig, Bleistift).</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P11</idno>
+		<idno type="gsa_1">GSA 25/XVII,2,8</idno>
+		<idno type="gsa_2">GSA 25/W 1382</idno>
+		<idno type="gsa_ident">391365</idno>
+		<idno type="wa_faust">none</idno>
+		<!-- P11, Hecker-Nr. 14 -->
+		<idno type="bohnenkamp">H P11</idno>
+		<textTranscript uri="391365.xml"/>
+		<classification>Schema</classification>
+		<condition>etwas fleckig; Durchscheinen der Tinte</condition>
+		<dimensions>
+			<width unit="mm">114</width>
+			<height unit="mm">170</height>
+		</dimensions>
+		<note>Der Mindestwert der Blatt-Breite beträgt 111 mm.</note>
+		<format>8</format>
+		<note>aus Quartblättern geschnitten</note>
+		<bindingMaterial>Faden</bindingMaterial>
+		<stabMarks>
+			<stabMark unit="mm">33</stabMark>
+			<stabMark unit="mm">66</stabMark>
+			<stabMark unit="mm">131</stabMark>
+			<stabMark unit="mm">144</stabMark>
+		</stabMarks>
+		<edges>cut</edges>
+		<paperType>Schreibpapier</paperType>
+		<paperColour>gelblich</paperColour>
+		<chainLines unit="mm">26</chainLines>
+		<paperMill>Blankenburg</paperMill>
+		<!-- Blankenburger Adlerpapier: Papiermacher Johann Ephraim Stahl [1800-1837]) -->
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_14">S. 290f.</reference>
+			<reference type="description" uri="faust://bibliography/wa_I_42_2">S. 432</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 226</reference>
+			<!-- TODO Erstdruck: Q, S. 178 -->
+			<reference type="text" uri="faust://bibliography/wa_I_14">S. 290f.</reference>
+			<reference type="text" uri="faust://bibliography/wa_IV_15">S. 228, Z. 6-13</reference>
+			<!-- Brief vom 1.5.1801 an unbekannten Empfänger -->
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 226-228</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 577f.</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 229-235</reference>
+			<!-- <reference uri="faust://bibliography/wa_III_3">S. 12</reference> Eigenhändige Tagebuchnotiz zum 29.4.1801 -->
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<!-- 1 -->
+		<metadata>
+			<watermarkID>Doppeladler, gekrönt, mit Zepter und Reichsapfel, Brust belegt mit kleinem Herzen</watermarkID>
+			<note>angeschnittenes Wasserzeichen</note>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- 2 -->
+		<metadata>
+			<watermarkID>Doppeladler, gekrönt, mit Zepter und Reichsapfel, Brust belegt mit kleinem Herzen</watermarkID>
+			<note>angeschnittenes Wasserzeichen</note>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0003.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- 3 -->
+		<metadata>
+			<watermarkID>none</watermarkID>
+			<countermarkID>"I G"</countermarkID>
+			<note>wahrscheinlich unvollständig; Gegenzeichen zu vorigen Wasserzeichen</note>
+			<!-- Gegenzeichen: `BLANCKENBURG / IESt' -->
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0004.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<references>
+					<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 229</reference>
+					<reference type="text" uri="faust://bibliography/morris1902d">S. 52</reference>
+					<reference type="essay" uri="faust://bibliography/morris1902d">S. 52f.</reference>
+					<reference type="essay" uri="faust://bibliography/wa_I_42_2">S. 432</reference>
+					<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 229</reference>
+				</references>
+				<docTranscript uri="0005.xml"/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:datierung>April (?) 1801</f:datierung>
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p> Dieses Schema ist auf den Seiten eines kleinen Heftes überliefert, das aus drei auf Oktavformat zurechtgeschnittenen Blättern selber hergestellt wurde. Goethe hat P11 mit dunkler Tinte in zügiger Schrift eigenhändig niedergeschrieben, offensichtlich ohne größere Unterbrechungen. Beschrieben sind in diesem Heft jeweils die Vorderseiten der zusammengehefteten Blätter. Nur das letzte Blatt weist auch auf der Rückseite Eintragungen auf: es handelt sich um schwer zu entziffernde Bleistiftnotizen Goethes, die lange für unverständliche Bruchstücke gehalten wurden. (Vgl. WA I,14,291.) Sinn und Zusammenhang der am oberen Rand von Blatt 3, RS mit Bleistift notierten Stichworte ("Ich erkl[äre] mich in dieser/ soSache durch ein Bei[spiel]/ Genuß/ Resignat[ion]Gewohnhe[it]/ Streben") hat zuerst Max Morris erkannt: Goethe war Anfang 1801 von einem Grafen Zenobio um Formulierung und Ausschreibung einer Preisaufgabe gebeten worden, die sich mit den Gesetzen, nach denen sich die
+					menschliche Kultur entwickelt, beschäftigen sollte. Bei den Bleistiftnotizen auf der letzten Seite von H P11 handelt es sich wahrscheinlich um den Entwurf zu einen am 1. Mai 1801 von Schreiberhand aufgesetzten Brief an die philosophischen Freunde mit der Bitte um eine Stellungnahme zur Preisfrage (WA IV,15,227). Auch die zweite, umgekehrt dazu stehende Bleinotiz ("In Winckelweiden 3½ Std") weist auf das Frühjahr 1801: Der Eintrag erklärt sich, wenn man Goethes Tagebuch zu Rate zieht. Am 29. 4. 1801 heißt es hier: "In den Winckelweiden die Anpflanzung begossen" (Goethe hielt sich in diesen Tagen zur Regelung von Gutsangelegenheiten und zur Anlage von Pflanzungen in Oberrosla auf) und weiter: "Preisaufgabe die Stufen der Kultur betr." (WA III,3.12) Das Datum stimmt überein mit dem zweiten wichtigen Anhaltspunkt, der für die Datierung der Disputationsszene zur Verfügung steht, Goethes brieflicher Mitteilung an Schiller vom 3. 4. 1801: "An Faust ist in der Zeit auch
+					etwas geschehen. Ich hoffe daß bald in der großen Lücke nur der Disputationsactus fehlen soll, welcher denn freylich als ein eigenes Werk anzusehen ist und aus dem Stegreife nicht entstehen wird." (WA IV,15,214) In diesem Brief ist dann auch von der "famosen Preisfrage" die Rede und im Zusammenhang mit der `Farbenlehre' von den "bononischen Leuchtsteinen", die im Disputations-Schema ebenfalls eine Rolle spielen. </p>
+				<p>Fest steht also, daß Goethe sich im April 1801 mit der Disputationsszene beschäftigte und aller Wahrscheinlichkeit nach hat auch das Oktavheft mit dem Schema der Disputation in diesem Monat auf seinem Schreibtisch gelegen: die Anordnung der auf Ende April datierbaren Bleistiftstichworte auf der Rückseite dieses Heftes macht zumindest unwahrscheinlich, daß sie bereits vor der Anfertigung des Oktavheftes auf einem dann zufällig weiterverwendeten Konzeptpapierbogen notiert wurden (wie Michels vermutete), sondern legt im Gegenteil nahe, daß Goethe die Rückseite des bereits für das `Faust'-Schema verwendeten Heftes für einige eilige Notizen nutzte, als es in diesen Tagen gerade auf seinem Schreibtisch lag. (So auch Morris, Disputation, S. 52.) Ob das Schema (und womöglich das Dialogfragment) in dieser Zeit niedergeschrieben (oder gar konzipiert) wurde, ist damit allerdings nicht geklärt. Im Gegenteil: die briefliche Mitteilung an Schiller spricht eher dagegen, daß die
+					Idee zu einer</p>
+				<p>solchen Szene gerade erst entstanden war. "Ich hoffe daß bald in der großen Lücke nur der Disputationsactus fehlen soll": Der bestimmte Artikel scheint auf einen älteren, vielleicht sogar Schiller schon bekannten Plan einer solchen Szene zu verweisen.</p>
+				<p>Nach Max Morris, der annimmt, daß Goethe zur Aufnahme des Motivs des `schaffenden Spiegels' (Z. 49) durch die Anfang 1798 belegte Lektüre einer `philosophischen Unterredung' in Erasmus Franciscus' `Neu-polirtem Geschicht- Kunst- und Sitten-Spiegel' angeregt worden sei, kann das Schema nicht vor 1798 niedergeschrieben sein. Im Hinblick auf die Diskussion erkenntnistheoretischer Grundfragen schickt Goethe Franciscus' Darstellung, ein Streitgespräch zwischen einem Chinesen und einem Jesuiten über die Natur menschlicher Erkenntnis, mit folgendem Kommentar an Schiller: "Hier schicke ich die angekündigte Philosophische Unterredung. Der Chineser [der im Gespräch die idealistische Position vertritt] würde mir noch besser gefallen, wenn er die Glutpfanne ergriffen und sie seinem Gegner mit diesen Worten überreicht hätte: `Ja, ich <i>erschaffe</i> sie, da nimm sie zu deinem Gebrauch'!" Mit Bezug auf Schellings `Ideen zu einer Philosophie der Natur' fährt er fort: "Ich gebe
+					gern zu daß es nicht die Natur ist die wir erkennen, sondern daß sie nur nach gewissen Formen und Fähigkeiten unsers Geistes von uns aufgenommen wird [...]. Eben so mag sich der Idealist gegen die <i>Dinge an sich</i> wehren wie er will, er stößt doch ehe er sichs versieht an die <i>Dinge außer ihm,</i> und wie mir scheint, sie kommen ihm immer beym ersten Begegnen so in die Quere wie dem Chineser die Glutpfanne. Mir will immer dünken daß wenn die eine Partey von außen hinein den Geist niemals erreichen kann, die andere von innen heraus wohl schwerlich zu den Körpern gelangen wird [...]" (6. 1. 1798; WA IV,13,911).</p>
+				<p>Gegen eine Entstehung der zum "Disputationsactus" überlieferten Handschriften in den Jahren 1798/99 spricht allerdings die Tatsache, daß diese Blätter keine Signatur `ad x' aufweisen, wie das für die übrigen `Faust'-Papiere aus dieser Zeit typisch ist. Ebenfalls gegen die von Morris vorgeschlagene Datierung auf einen Zeitpunkt ab 1798 hat Burdach überzeugend eingewendet, daß Goethe die Vorstellung vom `schaffenden Spiegel' wahrscheinlich bereits wesentlich früher aus anderen Quellen vertraut war: das an Schiller berichtete Amüsement über die Stelle bei Franciscus beruhe eben gerade darauf, daß eine bekannte Vorstellung hier auf wunderliche Art variiert sei. (Burdach, Disputationsszene, S. 9-15: "Der Begriff `schaffender Spiegel' stammt in der Tat aus der Gedankenarbeit des Zeitalters. Er geht zurück auf <i>Leibnizens</i> Metaphysik [...]".)</p>
+				<p>Burdach setzt den Entwurf der Disputationsszene in die italienische Zeit (1788), entstanden in enger Nachbarschaft mit den Überlegungen zum Fragment und der Ausführung der `Hexenküche'. Als Argumente führt er unter anderem die von Mephisto in diesem Schema ins Spiel gebrachten Naturerscheinungen an, die zum großen Teil aus italienischen Erfahrungen Goethes stammen. Er stellt die These auf, daß Goethe in Italien einen `Faust'-Plan entwickelte, der, unter dem Einfluß der römischen Erlebnisse, vor allem der Gespräche mit Karl Philipp Moritz, das Prinzip</p>
+				<p> des Schöpferischen in den Mittelpunkt rückt: dem `schaffenden Spiegel' wird in Rom, so Burdach, eine zentrale Rolle im `Faust' zugedacht. Die Antwort auf Fausts Frage, die Mephisto in der Disputationsszene noch schuldig bleibt, werde jetzt mit dem `magischen Spiegel' der `Hexenküche' gegeben, der Fausts Anliegen ins Niedrig-Sinnliche transponiert. </p>
+				<p>Burdachs Argumentation stützt sich nicht auf äußere Anhaltspunkte zur Datierung eines überlieferten Blattes: ihm geht es nicht um die Niederschrift der fraglichen Handschrift, sondern um den Versuch einer Rekonstruktion ursprünglicher Grundideen Goethes. Er fragt nach der Rolle der Disputation im Zusammenhang des Ganzen und kommt zu dem Schluß: "In Rom also, müssen wir schließen, hat Goethe das Motiv, das den dramatischen Angelpunkt der Disputationsszene bildet, zur Achse für die Fortführung seines Faustdramas gemacht." (Burdach, Disputationsszene, S. 29.) Für eine ganz frühe Entstehung der Disputationspläne in Goethes Straßburger Zeit hat 1967 Reich plädiert, die eine Verwandtschaft mit der Schülerszene der `Frühen Fassung' feststellt: beide Szenen zielten auf eine "Karikatur akademischer Sitten und Zustände" _ und wie die Schülerszene müsse es sich bei der Disputation also um einen sehr frühen Entwurf gehandelt haben, da er jene bereits von der Aufnahme in das
+					Fragment ausnimmt: "Er vermochte offenbar einer derartigen Posse nichts mehr abzugewinnen. Und da sollte er etwas Entsprechendes neu entworfen haben? Das ist undenkbar." (Reich, S. 153) <i>Daß</i> Goethe jedoch noch um 1801 die Aufnahme dieser Szene beabsichtigte, ist schon aufgrund der Briefzeugnisse zweifelsfrei.</p>
+				<p>Wie aber dachte sich Goethe 1801 die Einordnung der noch auszuführenden Disputation in das dramatische Geschehen? Die Frage wurde von der `Faust'-Forschung unterschiedlich beantwortet. Ausgehend von der bekannten Briefstelle vom April 1801 kann aber zumindest zu diesem Zeitpunkt der "Disputationsactus" nicht mehr als erste Begegnung zwischen Faust und Mephisto geplant gewesen sein _ dieses erste Treffen war 1801 in Gestalt der Beschwörungsszene (Studierzimmer, V. 1178ff.) bereits ausgeführt: Hier präsentiert sich Mephisto zunächst in der Gestalt eines schwarzen Pudels und dann in der Kleidung eines fahrenden Scholasticus. Im Frühjahr 1801 fehlt dann wahrscheinlich nur noch die Disputationsszene; die große Lücke ist schon weitgehend ausgefüllt, die Szenen `Vor dem Tor' und `Studierzimmer 1 und 2' sind bereits geschrieben. Der Rest der `großen Lücke', den Goethe 1801 noch mit dem `Disputationsakt' auszufüllen plante, wird nach herrschender Auffassung zwischen den
+					beiden Studierzimmer-Szenen angenommen: Vermutlich sollte hier ursprünglich die Disputationsszene eingefügt werden. "Was liegt zwischen diesen beiden Szenen? Nichts. Was erklärt den Umschlag? Nichts. Hier ist eine Lücke; hier ist ein Fehler des Dramas, so wie es uns vorliegt. Aber wir erfahren aus Goethes hinterlassenen Papieren [...], daß zwischen beiden Scenen ein feierlicher Universitätsactus, eine Disputation beabsichtigt war, welche nicht nur das Universitätstreiben, die ganze bisherige Lebensatmosphäre Fausts näher charakterisieren, sondern auch den Umschlag in Fausts Stimmung motivieren konnte." (Scherer, Fauststudien, S. 332.)</p>
+				<p>Gegen eine solche Einordnung wendet sich Petsch, der feststellt, daß die Disputationsszene eben deshalb im endgültigen Drama fehlt, weil sie dort überflüssig wäre: Ihr Gehalt sei in die beiden Studierzimmer-Szenen (Ende 1, Anfang 2) übergegangen (Petsch, Disputationsszene, S. 336). Burdach wiederum hält zwar für möglich, daß Goethe sich die Disputation einmal zwischen `Pudel' und `Pakt' gedacht habe, "aber mit Sicherheit können wir nicht mehr ermitteln, an welcher Stelle der dramatischen Handlung die Disputationsszene von Goethe eingereiht worden ist, und welchen Moment in der Entwicklung der Beziehungen zwischen Faust und Mephisto sie bezeichnete. Und das um so weniger, als Goethe wie in andern ähnlichen Fällen selbst geschwankt haben kann." (Burdach, Disputationsszene, S. 6.)</p>
+				<p>Es bleibt die Frage, warum Goethe die Disputation schließlich doch nicht mehr geschrieben, jedenfalls nicht mehr eingefügt hat. Von den verschiedenen möglichen Motiven wie Selbstzensur aus Rücksicht auf den herrschenden Publikumsgeschmack, Zeitmangel oder aber eine inhaltlich-konzeptionell begründete Entscheidung gegen die Aufnahme der Szene, ist das erste im vorliegenden Fall nicht anzunehmen: Die Disputationsszene sollte, soweit das den überlieferten Stücken zu entnehmen ist, keine kritischen, anstößigen Stellen enthalten, die zu einem Ausschluß der Szene _ wie etwa im Fall der `Satansmesse' _ hätten führen können.</p>
+				<p>Bleibt also zu prüfen, ob Goethe inhaltliche Gründe für den Ausschluß der Szene hatte. Mit Petsch ließe sich annehmen, daß der "Disputationsactus" überflüssig wurde, da sein Gehalt und seine dramatische Funktion in die übrigen Szenen eingegangen ist. Möglich wäre aber auch, daß die Disputationsszene aufgegeben werden mußte, weil sie nicht mehr in die durch die neu entstandenen Szenen veränderte Gestalt des Ersten Teiles paßte.</p>
+				<p>Das für diese Szene vorgesehene Streitgespräch zwischen Faust und Mephisto läßt sich anhand des überlieferten Schemas in seinen Umrissen erkennen; geplant war eine Debatte über erkenntnistheoretische Grundfragen, ein zentrales Thema des 18. Jahrhunderts. Faust sollte zunächst als Vertreter der `Schulweisheit' und Anwalt eines nach den Regeln ordentlich durchgeführten akademischen Streitgesprächs auftreten; nichts zu spüren ist da von Zweifeln oder gar der Verzweiflung an Gelehrsamkeit und wissenschaftlicher Erkenntnis überhaupt. Gegen den `schwadronirenden' Mephisto besteht Faust auf `Articulation' _ dem logisch geordneten Vortrag der Argumente. Mephisto dagegen greift die traditionelle deduktive Metaphysik an und preist die Erfahrung als überlegene Erkenntnisquelle. In der Fortführung des Gesprächs scheint Faust dann sogar Positionen der neueren Philosophie _ einen erkenntnistheoretischen Idealismus _ zu vertreten, allerdings in einer spezifisch (goethisch?)
+					abgewandelten Form. Da Goethe noch im April 1801 beabsichtigte, die Disputation auszuführen und die "große Lücke" damit endlich vollständig zu schließen (s. o.) _ zu einem Zeitpunkt, als die übrigen 1808 im Ersten Teil veröffentlichten Szenen aller Wahrscheinlichkeit nach vorlagen _, muß die Möglichkeit eines Verzichts auf die Disputation aus rein äußerlichen Gründen (wie etwa Zeitmangel) in Betracht gezogen werden. Goethe selbst hat</p>
+				<p> den 1808 veröffentlichten Ersten Teil der Tragödie als `fragmentarische Behandlung' des `Faust' bezeichnet (vgl. WA I,35,247; dazu hier S. 851f.); und vielleicht läßt sich schließlich auch die Tatsache, daß er die Vorarbeiten zur Disputation sorgfältig aufbewahrt hat, als Hinweis darauf deuten, daß er ihre Ausführung noch nicht endgültig aufgegeben hatte.</p>
+				<p>Z. 1 Disputation] "in der Sprache unserer Hochschulen sowol eine Schrift, welche bei einem feierlichen gelehrten Kampfe zu Grunde gelegt wird (sonst Dissertation genannt), als auch den darüber angestellten Kampf selbst" (Campe 1,267). Hier das gelehrte Streitgespräch, das bis ins 19. Jahrhundert zu den Hauptformen akademischer Tätigkeit zählte. Vgl. etwa den ausführlichen Bericht über die verschiedenen Disputationsformen in den von Friedrich Zarncke herausgegebenen `Aufzeichnungen des Leipziger Studenten Johann Heinrich Jugler aus dem Jahre 1779'.</p>
+				<p>Z. 2-4: Abwechselnd spricht die eine, dann die andere Hälfte der Studenten, schließlich alle zusammen.</p>
+				<p>Z. 4-7: Die Reihenfolge der ersten Zeilen hat Goethe offensichtlich noch während der Niederschrift des Schemas oder im unmittelbaren Anschluß daran durch Bezifferung umgestellt: Entgegen dem ersten Ansatz soll das Schema nun mit den Angaben zum Geschehen auf der Bühne beginnen: "Das Gedräng. Die Wach[e]/ Das ein- und ausströmen." Erst nach dieser Situationsbeschreibung vor dem Hörsaal sollen die Sprecherangaben folgen, die einen Dialog zwischen zwei Studentengruppen ("Halbchor/ andere Hälfte") mit gemeinsamem Schluß ("Tutti") notieren.</p>
+				<p>Z. 6 Wach[e]] Gegen WA ("Wogen?") von Hecker vorgeschlagene Lesung.</p>
+				<p>Z. 9 Opponent] Gegner bei einer Disputation: "diejenige Person [...], welche die gesetzte Sachen und Sätze des andern, das ist, des Präsidis und Respondenten [...], untersuchet, hiewider, wo es nöthig ist, Einwürffe machet, und durch geschehene Gegeneinanderhaltung der beyderseitigen Meynungen die Wahrheit prüfet, welches der eigentliche Endzweck des Disputirens ist." (Zedler, Bd. 25, S. 1694.)</p>
+				<p>Z. 12 Pedell] Universitätsdiener.</p>
+				<p>Z. 15 Fahrender Scholasticus] Vgl. H P13, hier S. 112.</p>
+				<p>Z. 20 Respondent] "ein Verfechter, ist bey einer Disputation diejenige Person, welche unter dem Schutz eines Präsidis die gesetzten Sätze [seiner Dissertation] so lange zu vertheidigen suchet, bis er weiter nicht fortkommen kann, und das übrige dem Präsidis überlassen muß." (Zedler, Bd. 31, S. 757.)</p>
+				<p>Z. 24 Schwadroniren] schwätzen.</p>
+				<p>Z. 25 daß er articuli[re]] daß er deutlich gegliederte, logisch zusammenhängende Sätze aufstelle. (Vgl. Kehrein, S. 52.)</p>
+				<p>Z. 26f.: Mephisto tritt als Befürworter der Erfahrungswissenschaft, der Empirie, auf und wendet sich gegen die (rationalistische) `Schulweisheit'.</p>
+				<p>Z. 27 Lob des Vagirens] Gegenüber dem `Stubengelehrten' preist Mephisto das unbestimmt-ziellose Umherschweifen eines `fahrenden Scholasticus'. </p>
+				<p>Z. 36 gnoJi seauton] Die griechischen Worte `erkenne dich selbst' (Goethe schreibt wohl irrtümlich gnoJi statt gnwJi) zitieren die Inschrift des Heiligtums in Delphi, mit der Goethe sich öfter beschäftigt hat. Vgl. folgende kritische Äußerung Goethes aus einem späteren Aufsatz: "Hiebei bekenn' ich, daß mir von jeher die große und so bedeutend klingende Aufgabe: <i>erkenne dich selbst,</i> immer verdächtig vorkam, als eine List geheim verbündeteter Priester, die den Menschen durch unerreichbare Forderungen verwirren und von der Thätigkeit gegen die Außenwelt zu einer innern falschen Beschaulichkeit verleiten wollten. Der Mensch kennt nur sich selbst, in sofern er die Welt kennt, die er nur in sich und sich nur in ihr gewahr wird. Jeder neue Gegenstand, wohl beschaut, schließt ein neues Organ in uns auf." (Bedeutende Förderniß durch ein einziges geistreiches Wort [1823]; WA II,11,59.) In einem zeitlich näher liegenden Aufsatz heißt es: "Was ist das mit der Philosophie
+					und besonders mit der neuen für eine wunderliche Sache! In sich selbst hineinzugehen, seinen eignen Geist über seinen Operationen zu ertappen, sich ganz in sich zu verschließen, um die Gegenstände desto besser kennen zu lernen! Ist das wohl der rechte Weg?" Goethes Antwort ist deutlich: "Gewiß diese Philosophie scheint mir eine Art von Hypochondrie zu sein, eine falsche Art von Neigung [...]" (Der Sammler und die Seinigen [1799]; WA I,47,125f.). Entweder also scheint Fausts Position hier gerade nicht die Goethesche zu sein _ oder aber der Zusatz "im schon[en] Sinne" verändert die Maxime in entscheidender Weise. "<i>Handle besonnen,</i> ist die praktische Seite von: <i>Erkenne dich selbst</i>" (WA IV,46,167). Vgl. auch WA I,2,248 und WA I,5.1,84. ("gnwJi seauton" ist auch der Titel eines `Magazins für Erfahrungsseelenkunde', das von Karl Philip Moritz in den Jahren 1783-1793 herausgegeben wurde und das als erste psychologische Zeitschrift in Deutschland gilt.)</p>
+				<p>Z. 38f.: An dieser Stelle könnte P14 (hier S. 238) eingesetzt werden als die in Verse gefaßte Aufforderung Fausts, Fragen aus der Erfahrung vorzulegen.</p>
+				<p>Z. 42 Gletscher] Die Welt der Gletscher hatte Goethe vor allem auf seiner zweiten Schweizer Reise im Oktober/November 1779 kennengelernt; wie sehr ihn "das merkwürdige der Formen und Erscheinungen bei den Gletschern" (an Frau von Stein; WA IV,4,85) beschäftigte und beeindruckte, belegen die Briefe und Tagebücher aus dieser Zeit.</p>
+				<p>Z. 43 Bologn. Feuer] das Bolognesische Feuer: der bei Bologna vorkommende im Dunkel leuchtende Kalkspat war Goethe auch "wegen seiner außerordentlichen specifischen Schweere gegen den übrigen Gyps merckwürdig" (an Knebel, 17. 11. 1786 aus Rom; WA IV,8,59). Mit diesem Stein hat Goethe sich später, vor allem auch im Zusammenhang mit der `Farbenlehre', immer wieder beschäftigt; um die Jahrhundertwende hat er wohl sogar einen Aufsatz über den `Bologneser Stein' geschrieben, der aber verloren gegangen sein muß. (Vgl. Burdach, Disputationsszene, S. 33.)</p>
+				<p> Z. 44-47: Wie Burdach gezeigt hat, verweisen im folgenden nicht nur die "Charibdis" (sagenhaftes Meerungeheuer bzw. gefährlicher Strudel bei Messina), sondern auch das Stichwort "Fata Morg.[ana]" auf Süditalien: auch hier geht es um "merckwürdige", geheimnisvolle oder sogar unheimliche Naturerscheinungen. Was genau mit den beiden letzten Punkten ("Thier"/ "Mensch") gemeint war, wird sich ohne zusätzliche Hinweise wohl nicht mehr feststellen lassen; Burdachs Vorschlag, hier "Thiermensch" zu lesen und den Eintrag mit den von Goethe in der `Italienischen Reise' erwähnten "Schwanzmenschen" (WA I,32,79) in Verbindung zu bringen (Burdach, Disputationsszene, S. 38f.), ist angesichts der jeweils in einer Zeile einzeln für sich notierten Stichworte wohl zurückzuweisen. </p>
+				<p>Z. 48f.: Die zweite Äußerung Fausts, die "Gegenfrage wo der schaffende Spiegel sey", zielt offenbar in eine ähnliche Richtung wie die erste: auch hier geht es um das Wesen des menschlichen Geistes. Mit der Spiegelmetapher ruft Faust eine alte Tradition auf. (Vgl. hierzu Franz Koch, Goethe und Plotin; Jürgen Nieraad, Standpunktbewußtsein und Weltzusammenhang sowie Ralf Konersmann, Lebendige Spiegel.) Die Formel vom "schaffende[n] Spiegel" erinnert an Leibniz' Formulierung vom `miroir vivant' oder `miroir actif'. Verwandte Bilder finden sich wieder sowohl bei Herder (Der Mensch als `lebendiger Spiegel des Universums', S. 236ff.) als auch bei K. Ph. Moritz: "[...] der Mensch verwandelt nicht nur Tier und Pflanze durch Werden, Wachsen und Genuß in sein innres Wesen, sondern faßt zugleich alles, was seiner Organisation sich unterordnet, durch die unter allen am hellsten geschliffne, spiegelnde Oberfläche seines Wesens in den Umfang seines Dasein auf und stellt es, wenn
+					sein Organ sich bildend in sich selbst vollendet, verschönert außer sich wieder dar." (Über die bildende Nachahmung des Schönen, S. 249.) Morris verweist auf das `philosophische Gespräch' in Erasmus Franciscus' `Neu-polirtem Geschicht- Kunst- und Sitten-Spiegel' (1670), über das Goethe am 3. 1. 1798 Schiller berichtete (s. o.). Der Jesuit fragt den idealistischen Chinesen: "Schauet, in diesem Spiegel hier siehet man der Sonnen und des Mondes Bild, so man ihn recht dagegen stellet; wer sollte aber so stumpfsinnig wohl sein und sprechen, der Spiegel könne den Mond und die Sonne schaffen." (Morris, Disputation, S. 46.)</p>
+				<p>Z. 57f.: Zur Erläuterung verweist Morris wiederum auf das `philosophische Gespräch' aus Franciscus' `Neu-polirtem Geschicht- Kunst- und Sitten-Spiegel'. Dort sagt der Jesuit: "[...] so werdet ihr spüren, dass dasjenige, so sie jetzt vorbringen, nicht aus ihrem eigenen Hirn, sondern vielmehr aus des Satans Eingaben herkommen, der ihnen solches hat eingeblasen." (Vgl. Morris, Disputation, S. 47.)</p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

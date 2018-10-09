@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391404/">
+   <revisionDesc>
+      <change when="2012-11-22" who="bruening">encoded</change>
+      <change when="2014-10-23" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Quer gebrochen.
+         Doppelblatt, 4 beschriebene Seiten. – S. 1–4: Versentwürfe zu ‚Faust II‘, Akt 1
+         (eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.36</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,7</idno>
+      <idno type="gsa_2">GSA 25/W 1459</idno>
+      <idno type="gsa_ident">391404</idno>
+      <idno type="wa_faust">2 I H.36</idno>
+      <textTranscript uri="391404.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">329</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Stern_ueber_N1</watermarkID>
+      <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 11</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>im Umkreis von H.32 (25/XVII,5,2) entstanden, vgl. Bohnenkamp, S.349, = früheres Konzept im Vgl. mit H.35 (25/XVII,5,6)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:datierung>Dez 1827 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>391404</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.36; vgl. I 15.2,11
+
+Vers(e): 5797-5814 (5811, 5813 fehlt/fehlen)
+Er ahnt nicht was ...
+Konzept
+
+Vers(e): 5884-5935 (5932-5933 fehlt/fehlen)
+Und wenn er zu Mittag ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,5,7</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,7*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Und wenn er zu Mittag</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,11</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>5932-5933</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5884-5935</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2496</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,7*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Er ahnt nicht was</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>5811, 5813</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5797-5814</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit H.35 (25/XVII,5,6)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3065</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,7</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Dez 1827 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>182712</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,11</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.36</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>im Umkreis von H.32 (25/XVII,5,2) entstanden, vgl. Bohnenkamp, S.349</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1119</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3079</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

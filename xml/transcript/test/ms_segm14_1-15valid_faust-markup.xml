@@ -1,0 +1,174 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition"/><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change xml:id="lay_1"/>
+                </listChange>
+            </creation>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-01-23" who="henzel">angelegt</change>
+            <change when="2015-01-23" who="henzel">Transkription GB ueberfuehrt und Kodierung nach Faust geaendert</change>
+            <change when="2015-01-23" who="henzel">encoded</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="14" type="textsegment" xml:id="sgm14">
+                <pb n="1"/>
+                <dateline>(<abbr>Nov.</abbr> 17th)</dateline>
+                <p>
+                    <del f:revType="instant">The reserve between</del>
+                    <del f:revType="instant">Thoby then, was</del>
+                    <del f:revType="instant">The reserve which</del>
+                </p>
+                <!-- alle 3 Ansätze würde ich in eine <p> stecken (statt in 2) - ob neuer Ansatz auf nächster Zeile erfolgt oder in selber, ist dabei ohne Belang -->
+                <p><del f:revType="instant">We never spoke of this to each other;</del></p>
+                <p>
+                    <del f:revType="instant">During those unhappy years</del>
+                    <del f:revType="instant">we never spok</del>
+                </p>
+                <p>
+                    <!-- hier ist mir überhaupt nicht klar, welche Sofortrevisionen eine Einheit bilden und wo die jeweils nächste einsetzt, jedenfalls würde ich hier nicht nach Länge und Umfang der Durchstreichung gehen -->
+                    <del f:revType="instant">All this -</del>
+                    <del f:revType="instant">Vanessas</del> But we never spoke, during those unhappy years, of <del f:revType="instant">this</del>
+                    <del f:revType="instant">what was made </del>
+                    <del f:revType="instant">them, to this</del>
+                    <del f:revType="instant">"being in love".</del> of these scenes; Thoby, I imagine, may have had some vague conception that something, as I think he would have put it, was up between Jack &amp; Vanessa. But his general attitude was <del f:revType="instant">rather</del> aloof, &amp; <add f:revType="soon-or-late" change="#lay_1">judicial.</add> conventional: <del f:revType="instant">that is, he</del> From his remote station, as a schoolboy, as an undergraduate, he <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>saw</del>
+                        <add>felt</add>
+                    </subst> us <del f:revType="soon-or-late" change="#lay_1">in the traditional position:</del>
+                    <add f:revType="soon-or-late" change="#lay_1">
+                        <sic>generaly</sic>
+                        <corr resp="#hwg">generally</corr>
+                        <corr resp="#hwg"/>
+                    </add><!-- 2. corr warum? --> allied by the old ties: <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>sisters who</del>
+                        <add>we</add>
+                    </subst><!-- wurde das "we" später erst dazugeschrieben? (nach Streichung von "who") --> should accept our place: if George wanted us to go to parties, why not? If father wanted us to walk with him, why not? Once, at Salisbury, when the Fishers were our neighbours, &amp; Vanessa, detesting Aunt Mary, who had most viciously intervened, <del f:revType="instant">with</del> writing surreptitious letters addressed to Copes School, in the chronic warfare between Vanessa &amp; Jack, Vanessa &amp; George, refused to visit <del f:revType="instant">, &amp;</del>
+                    <del f:revType="instant">cut the</del> them &amp; cut them in the street, he made one of his rare impressive <del f:revType="instant">cont</del> statements: <del f:revType="instant">it was</del>
+                    <add f:revType="soon-or-late" change="#lay_1">Gruffly <del resp="#kh" change="#lay_1"><surplus>he said</surplus></del></add>
+                    <!--  <choice xml:id="d1e8475">
+                        <sic>
+                        <add change="#lay_1" rendition="#add_inter">Gruffly he said</add>
+                        <del>it was</del> he said </sic>
+                        <corr resp="#hwg">Gruffly he said</corr>
+                        </choice>
+                        <note resp="#hwg" target="#d1e8475">Enote</note> -> wurde mit surplus aufgelöst -->he said it was not right to treat Aunt Mary like that. <space/><!-- ___ -->
+                    <del f:revType="instant">How little he knew.</del>
+                </p>
+                <p>It thus came about that Nessa &amp; I formed together <del f:revType="instant">a v</del> a very close<del f:revType="instant">,</del> conspiracy.<space/><del f:revType="instant">During those years the</del><space/><del f:revType="instant">In that large house,</del>
+                    <del f:revType="instant">the parties</del><!-- mir nicht klar, ob diese Tilgung zur vorigen dazugehört oder eigenständig ist (müsste dann mit "T" beginnen?) --><space/>
+                    <del f:revType="soon">Even if we were silent about her affair with Jack, <del f:revType="instant">it was</del> that wa<supplied evidence="internal">s</supplied> the only reserve we had.</del><!-- scheint mir klar eine Baldrevision zu sein, die nach einer Sofortrevision abschnittweise erfolgte -->
+                    <space/>In that world of many men, <del f:revType="instant">we were the two</del> coming &amp; going, we formed <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>the</del>
+                        <add>our private</add>
+                    </subst> nucleus. There we were <pb n="2"/> alone, with father all day; in the evening, Adrian would come back from Westminster; then Jack from Lincolns Inn; then Gerald from Dents or Henrietta House; then George from the Post office or the Treasury. <del f:revType="instant">&amp; in the holidays Thoby would</del> Thoby would be at Clifton or at Cambridge.<space/>The staple day would be a day spent together. And therefore we made together a <add f:revType="soon-or-late" change="#lay_1">small</add> world inside the big world. We had an alliance that was so knit together that everything <del f:revType="instant">w</del> (with the exception of Jack perhaps) was seen from the same angle; <del f:revType="instant">by</del>
+                    <mod rend="strikethrough">o</mod> &amp; took its shape from our own vantage points.<space/> Very soon after Stella's death we <del f:revType="instant">had</del> saw life as a <del f:revType="uncertain">perpetual</del><!-- Zeit nicht eindeutig --> struggle to <del f:revType="instant">make our<!-- Sofort --></del> get some kind of standing <add f:revType="soon-or-late" change="#lay_1">place</add> for ourselves in this bewildering, <alt target="#add1 #add2" mode="excl"/><add f:revType="soon-or-late" change="#lay_1"><seg xml:id="add1">baffling</seg><seg xml:id="add2"><unclear cert="high" resp="#hwg">b</unclear><gap quantity="8" unit="chars" precision="medium"/>.</seg></add><!-- scheint mir eine Alternativbelegung zu sein -->
+                    <del f:revType="soon-or-late" change="#lay_1">always changing, almost always <del f:revType="instant">per</del> d</del> We were always battling for that which was always being interfered with, snuffled up, snatched away. The most imminent obstacle &amp; <del f:revType="instant">pr</del> burden was of course father. How could we, to take a c<unclear cert="low">oncrete</unclear> case, arrange that he should be out when perhaps Kitty Maxse, perhaps Katie Thynne came to tea? How could we escape Mr Bryce? Must I spend the afternoon walking round Kensington Garden? Could we possibly arrange to take our friends straight up to the Studio (the day nursery) <del f:revType="instant">without</del> Then, <del f:revType="instant">what</del>
+                    <del f:revType="instant">how could</del> what could we talk about at luncheon? Could we avoid Brighton at Easter? Must we be in because Aunt Mary was coming? Over the <add f:revType="soon-or-late" change="#lay_1">whole</add> week <add f:revType="soon-or-late" change="#lay_1">of these <unclear cert="high">scenes</unclear> &amp; <unclear cert="low">perpetuals</unclear></add> brooded the horror of Wednesday. On that day the weekly books were shown him. If they were over eleven pounds, that lunch was a torture. <del f:revType="uncertain">I waited outside the drawing room door.</del><add f:revType="soon-or-late" change="#lay_1">The books were presented</add><!-- möglicherweise del und add als subst, aber Tilgungszeit unklar --> Silence. He was putting on his glasses.<space/>A roar. He had read the figures.<space/>Then,<space/>"You are <pb n="3"/>ruining me<g>...</g> we are shooting Niagara<g>...</g>" But <add f:revType="soon-or-late" change="#lay_1">a roar of
+                            s<gap quantity="3" unit="chars" precision="medium"/><c xml:space="preserve"> </c><gap quantity="6" unit="chars" precision="medium"/><c xml:space="preserve"> </c><gap quantity="6" unit="chars" precision="medium"/></add> He beat his breast. Dropped his pen; &amp; indulged in one of these extraordinary exhibitions of self pity of self dramatisation. He was ruined. He was dyin<g>..</g> He was <surplus>He was</surplus> wrecked to the bone<g>...</g> Silence &amp; Vanessa par. "And you stand there like a block of stone...". <add f:revType="soon-or-late" change="#lay_1">He <choice>
+                            <abbr>wd</abbr>
+                            <expan>would</expan>
+                        </choice> shake all ove<g>..</g></add> So to a wild cry that he was deserted, that he was alone <g>...</g>
+                    <del f:revType="uncertain">that we had no sympathy for him.</del><!-- schwierige Stelle, scheint komplett der Teilsatz getilgt, wenn auch nur 2 Wörter gestrichen? --> That was of rage against her; of denunciation of her; which made my blood boil <del f:revType="uncertain">with rage:</del><!-- auch hier Zeitpunkt der Tilgung unklar --> my fingers tremble. Then another attitude. The cheque was signed <add f:revType="soon-or-late" change="#lay_1">with a deep groan<del resp="kh"><surplus>.</surplus></del></add>. He would shake &amp; quiver, <del f:revType="instant">representing (he was curiously dramatic) an old man ruined &amp; an old man <del f:revType="uncertain">cruelly</del> tortured<g>...</g> That over, he would sigh; subside; &amp; say, to me, for whom he had some pity, &amp;</del>
+                    <add f:revType="soon-or-late" change="#lay_1">He <choice>
+                            <abbr>wd</abbr>
+                            <expan>would</expan>
+                        </choice> sink his head on his breast.</add><!-- kein Ersetzungsverhältnis, weil Satz in Tilgung plötzlich abbricht -->
+                    <space/>As if he had signed away his own life, he would hand <add f:revType="soon-or-late" change="#lay_1">his</add>
+                    <del resp="kh" status="notMarked">the</del> cheque to Vanessa. <add f:revType="soon-or-late" change="#lay_1">we sat in complete silence.</add>
+                    <space/>Then subside<g>..</g> looking <unclear cert="low">generous</unclear>, worn, excruciated. And then with a profound groan look up, at me, at last &amp; say plaintively, yet with some <del f:revType="instant">regret</del> remorse. Then I <add f:revType="soon-or-late" change="#lay_1"><choice>
+                            <abbr>wd</abbr>
+                            <expan>would</expan>
+                        </choice> have my turn</add> for whom he had some pity, I so like him in excitability &amp; say "Well Giny, what <del f:revType="instant">about a wa</del> are you doing the afternoon?<!-- "a" über der Zeile ohne Textrelevanz, lediglich Verdeutlichung des "a" in "are" -->
+                    <del f:revType="uncertain">What about</del> a walk? </p>
+                <p>I cannot understand the savage brutality.</p>
+                <pb n="4"/>
+                <!-- Anfang Seite 4 ist Wiederholung der gleichen Stelle, die sich auf Seite 3 befindet. TODO von wo bis wo genau? TODO Ersetzungsverhältnis oder Alternativbelegung? -->
+                <p>Down came his fist on the account book. There was a roar. His vein filled. His face flushed. Then he shouted "I am ruined" – <del f:revType="instant">Then he</del>
+                    <del f:revType="instant">This words were only</del> Then he beat his breast<g>..</g> He went through an extraordinary dramatisation of <add f:revType="soon-or-late" change="#lay_1">self pity</add> anger &amp; despair. He was ruined – dying<g>...</g>
+                    <del f:revType="uncertain">wantonly</del> tortured by the wanton extravagance of Vanessa &amp; Sophie<g>..</g>
+                    <add f:revType="soon-or-late" change="#lay_1"><handShift new="#g_t"/>Vanessa stood <del f:revType="instant">be</del> by his side dumb.</add> "And you stand there like a block of stone. Dont you pity me? Havent you a word to say to me?" &amp; so on. Vanessa stood by his side absolutely dumb. He <del f:revType="instant">thr</del> flung at her <add f:revType="soon-or-late" change="#lay_1"><gap quantity="3" unit="chars" precision="medium"/></add> all the phrases <add f:revType="soon-or-late" change="#lay_1">of <unclear cert="high" resp="#hwg">frenzy</unclear> &amp; <unclear cert="high" resp="#hwg">sarcasm</unclear></add> – about shooting Niagara &amp; so on – that came handy. <del f:revType="uncertain">Still</del> she remained static. <del f:revType="instant">Then</del>
+                    <!-- hier klar instant, weil "Another" mit Großbuchstaben folgt --> Another attitude was adopted. With a deep groan he picked up his pen &amp; with ostentatiously trembling fingers wrote out the cheque. This was wearily tossed to Vanessa. Slowly &amp; with many groans the pen the account book were put away. Then he sank into his chair &amp; sat with his head on his breast. And then at last, after glancing at a book <del f:revType="instant">for a</del>, <del f:revType="instant">mo</del> he <choice xml:id="d1e8976">
+                        <sic>woud</sic>
+                        <corr resp="#hwg">would</corr>
+                    </choice> look up &amp; say half plaintively. <supplied evidence="internal">"</supplied>And what are you doing this afternoon, Jinny?"</p>
+                <p><del f:revType="uncertain">I was <del f:revType="instant">by t</del> trembling now with fury.</del><!-- habe 2 Tilgungen zu einer gemacht --> Never have I felt such rage, <choice xml:id="d1e9003">
+                        <sic>a</sic>
+                        <corr resp="#hwg">&amp;</corr>
+                    </choice> such frustration. For not a word of my feeling could be expressed.<space/><del f:revType="instant">And there once more was his</del></p>
+                <p>This, as far as I can describe it, is an <del f:revType="instant">unegg</del> unexaggerated account of a bad Wednesday. Even now I can find nothing to say of his behaviour save that it was brutal. If, instead of words, he had used a whip <del f:revType="instant">it would have been</del>
+                    <del f:revType="instant">no more</del><!-- oder eine einzige Revision? -->
+                    <del f:revType="instant">a</del>
+                    <del f:revType="instant">brutal</del><!-- oder eine einzige Revision? --> the brutality <del f:revType="uncertain">of that attack</del> would have been no greater. How can one explain it? <del f:revType="uncertain">It was complex.</del> He had been indulged of course ever since he broke the flower pot &amp; threw the fragments at his mother (whatever the truth of that story<del f:revType="instant">)</del> it ran something like that)<!-- keine Hinzufügung in der Klammer, da selbe Schreibphase -->
+                    <del f:revType="instant">then</del>
+                    <del f:revType="instant">Health</del> Delicacy excused that. <del f:revType="instant">Then the</del></p>
+                <pb n="5"/>
+                <p>Then, as he grew older, there was the genius legend to <choice>
+                        <expan>which</expan>
+                        <abbr>wh-</abbr>
+                    </choice> I have already referred. Men of genius are <choice xml:id="d1e9091">
+                        <sic>gely</sic>
+                        <corr resp="#hwg">generally</corr>
+                    </choice> ill to live with.. But there are certain qualifications to be noted – These scenes were never indulged in before men. Fred Maitland for example <del f:revType="instant">abso</del> resolutely refused to believe in them when Caroline Emilia (the Quaker Sister) <del f:revType="uncertain">gently</del> tried to insinuate that Leslie <del f:revType="uncertain">sometimes</del> had a temper. If Thoby had presented these books or George <add change="#lay_1" f:revType="soon-or-late">being the most typical of <choice>
+                            <expan>Victorians</expan>
+                            <abbr>Vctns</abbr>
+                        </choice></add> the explosion <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been suppressed. <del f:revType="instant">It was then the woman who excited these rages.</del>
+                    <del f:revType="instant">Was it then the woman who excited these rages?</del>
+                    <del f:revType="instant">I</del> Why <del f:revType="instant">w</del> had he no shame in front of women? <del f:revType="instant">Because, I suggest, <del f:revType="instant">he</del> the woman was to him a</del> Partly of course because the woman was his slave<del f:revType="instant">; but</del>. But that does not explain the self dramatisation: the attitudinising; the histrionic element; the breast beating; the groaning <add f:revType="soon-or-late" change="#lay_1"><choice>
+                            <expan>which</expan>
+                            <abbr>wh.</abbr>
+                        </choice> played so large a part so disgusting a part in <choice>
+                            <expan>these</expan>
+                            <abbr>thes</abbr>
+                        </choice>
+                        <choice>
+                            <expan>scenes.</expan>
+                            <abbr>scn</abbr>
+                        </choice></add>. <del f:revType="instant">To explain that, <del f:revType="instant">it is</del>
+                        <del f:revType="instant">is it</del>
+                        <del f:revType="instant">&amp; its</del>
+                        <del f:revType="instant">&amp; the</del>
+                        <del f:revType="instant">it is</del> one must guess that the woman had</del> His <del f:revType="uncertain">absolute</del> dependence upon women perhaps explains that. He needed always a woman to sympathise to flatter. to console. <del f:revType="instant">Why</del>
+                    <del f:revType="uncertain">And</del> why? Because he was conscious of <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>some</del>
+                        <add>his own</add>
+                    </subst> failure, as a philosopher, as a writer<del f:revType="instant">?</del>: <del f:revType="instant">Thus</del>
+                    <del f:revType="instant">&amp; this failure</del>
+                    <del f:revType="instant">If you</del>
+                    <del f:revType="instant">It was</del>
+                    <add f:revType="soon-or-late" change="#lay_1">But</add>
+                    <choice xml:id="d1e9296">
+                        <sic>His</sic>
+                        <corr resp="#hwg">his</corr>
+                    </choice> creed <del change="#lay_1" f:revType="soon-or-late">however</del>, <del instant="true">that</del>
+                    <del>by which I mean</del>
+                    <add f:revType="soon-or-late" change="#lay_1"><del>r</del> made him ashamed to confess this need of sympathy to men.</add> the attitude that his intellect made him, <del f:revType="instant">ad</del>
+                    <lb/> adopt with men, <del f:revType="instant">forbad</del> made him the most modest, the most reasonable of men. <del f:revType="instant">Thus to Fred Maitland &amp; to Herbert Fisher he was <del f:revType="uncertain">almost</del> entirely without vanity without conceit. <del change="#lay_1" f:revType="soon-or-late">All</del>
+                        <add f:revType="soon-or-late" change="#lay_1">Thus </add>
+                        <del f:revType="instant">And</del>
+                        <del f:revType="instant">But</del> The <del f:revType="instant">attitude</del> public attitude</del>
+                    <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>Then</del>
+                        <add><unclear reason="illegible" resp="#hwg"><del>I</del><!-- f:revType? --> think</unclear></add>
+                    </subst> Vanessa, on Wednesdays, was the recipient of <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>many suppressions</del>
+                        <add f:revType="soon-or-late" change="#lay_1"><del f:revType="instant">all</del> much discontent, that he had suppressed</add>
+                    </subst>; &amp; <del f:revType="instant">t</del> her refusal to accept her role, part slave, part angel of sympathy, exacerbated him so that he was probably unconcious of his own barbarous violence. <del f:revType="uncertain">And</del>
+                    <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been horrified had anyone said <del f:revType="instant">to h</del> of</p>
+            </div>
+        </body>
+    </text>
+</TEI>

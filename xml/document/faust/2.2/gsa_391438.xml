@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391438/">
+   <revisionDesc>
+      <change when="2013-01-09" who="henzel">imported</change>
+      <change when="2013-01-09" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf dem gedruckten Programm des Weimarer Theaters zu "Der Freischütz" Oper von Carl Maria von Weber vom 12.6.1830</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.71</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,34</idno>
+      <idno type="gsa_2">GSA 25/W 1563</idno>
+      <idno type="gsa_ident">391438</idno>
+      <idno type="wa_faust">2 II H.71</idno>
+      <textTranscript uri="391438.xml"/>
+      <classification>Konzept</classification>
+      <condition>auf der Vorderseite am rechten Rand fleckig</condition>
+      <dimensions>
+         <width unit="mm">196</width>
+         <height unit="mm">334</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 194 mm. Der Mindestwert der Blatt-Höhe beträgt 333 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 66</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Verse 8359-8361 doppelt = 1. und 2. Konzept</f:bemerkung>
+      <f:datierung>nach dem 12.6.1830</f:datierung>
+      <f:kurztitel>
+Vers(e): 8359-8378 (8369,8376 fehlt/fehlen)
+In Cypren rauhen Hohlen ...
+
+</f:kurztitel>
+      </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

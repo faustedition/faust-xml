@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_09/">
+    <revisionDesc>
+        <change when="2012-09-27" who="bruening"/>
+        <change when="2012-10-11" who="bruening"/>
+        <change when="2013-07-09" who="koehler">history</change>
+        <change when="2013-08-13" who="henzel">Lagenstruktur und references-Zuordnung aktualisiert</change>
+        <change when="2013-08-13" who="henzel">encoded</change>
+        <change when="2014-04-16" who="henzel">Verweise auf docTranscript aktualisiert</change>
+        <change when="2015-02-04" who="koehler">minimal headnote</change>
+        <change when="2015-08-06" who="bruening">Brockhaus 1899</change>
+        <!-- TODO Digitalisate in vier aufspalten und zuordnen -->
+    </revisionDesc>
+    <metadata>
+        <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+        <note>zwei Folioblätter, die zusammengeklebt wurden</note>
+        <repository>bb_cologny</repository>
+        <idno type="faustedition">2 IV H.21a</idno>
+        <idno type="bb_cologny">G-30.9</idno>
+        <idno type="gsa_1">GSA 25/XVIII,6,3</idno>
+        <idno type="wa_faust">2 IV H.c</idno>
+        <textTranscript uri="G-30_09.xml"/>
+        <classification>Mundum</classification>
+        <history>„Die Handschrift gelangte im Jahre 1854 in meinen Besitz. […] Im Laufe dieser Correspondenz 
+            [zwischen Eckermann und Heinrich Brockhaus] nun sandte Eckermann einen hochwerthvollen 
+            Goethe-Autograph, der vom Vater […] mir geschenkweise übergeben wurde.“ (faust://bibliography/brockhaus1899) Laut faust://bibliography/knopf2004 und faust://bibliography/knopf2006 1936 oder 1951 von Martin Bodmer aus dem Nachlass von Rudolf Brockhaus, Leipzig, erworben.</history>
+        <numberingList>
+            <numbering>Eigenhändige Foliierung mit roter Tinte</numbering>
+            <numbering>Eigenhändige Foliierung mit roter Tinte</numbering>
+        </numberingList>
+        <condition>leicht fleckig; beide Blätter wurden erst einzeln mit schwarzer Tinte beschrieben (vermutlich auch Paralipomenon 193) und dann zusammengeklebt und anschließend mit roter Tinte beschrieben; Blätter wurden dreimal zusammengefaltet (Duodezformat)</condition>
+        <format>2</format>
+        <bindingMaterial>Klebstoff</bindingMaterial>
+        <edges>cut</edges>
+        <note>rechter Rand von Blatt 2 Risskante</note>
+        <paperType>Konzeptpapier</paperType>
+        <paperColour>grau</paperColour>
+        <note>Blatt 1 graubraun, Blatt 2 grau</note>
+        <chainLines unit="mm">27</chainLines>
+        <note>Der Steglinienabstand bei Blatt 2 beträgt 26 mm.</note>
+        <paperMill>Stützerbach</paperMill>
+        <watermarkID>Stern über 'N 1'</watermarkID>
+        <note>Wasserzeichen befindet sich auf Blatt 2.</note>
+        <!-- Vorderseite, schwer erkennbar, zwischen den Steglinien -->
+        <countermarkID>'H' über 'Stuetzerbach'</countermarkID>
+        <note>Gegenzeichen befindet sich auf Blatt 1.</note>
+        <!-- Vorderseite, zwischen den Steglinien -->
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133, 242</reference>
+            <reference type="description" uri="faust://bibliography/brockhaus1899">S. 67</reference>
+            <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 734</reference>
+            <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 736f.</reference>
+            <reference type="essay" uri="faust://bibliography/knopf2004">S. 156, 161, 164f.</reference>
+            <reference type="essay" uri="faust://bibliography/knopf2006">S. 196</reference>
+        </references>
+    </metadata>
+    <!-- Zwei zu einem Foliobogen zusammengeklebte Folioblätter. Blatt 1: 199 x 326 mm, Blatt 2: 201 x 332 mm -->
+    <!-- Brockhaus 1899 gibt an 32 1/2  zu 38 1/2 cm (S. 67) -->
+    <sheet>
+        <leaf>
+            <metadata>
+                <dimensions>
+                    <width unit="mm">199</width>
+                    <height unit="mm">327</height>
+                </dimensions>
+                <note>Blatt-Breite mit Klebefalz. Der Mindestwert der Blatt-Breite (ohne Klebefalz) beträgt 190 bis 196 mm.</note>
+                <stabMarks>
+                    <stabMark unit="mm">83</stabMark>
+                    <stabMark unit="mm">110</stabMark>
+                    <stabMark unit="mm">132</stabMark>
+                    <stabMark unit="mm">220</stabMark>
+                    <stabMark unit="mm">234</stabMark>
+                </stabMarks>
+            </metadata>
+            <page>
+                <metadata>
+                    <docTranscript uri="verso.xml"/>
+                    <!-- rechte Hälfte "(laut" (Blatt 1 Vorderseite) -->
+                    <references>
+                        <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 7</reference>
+                        <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr. 18</reference>
+                        <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 734</reference>
+                    </references>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="recto.xml"/>
+                    <!-- obere Hälfte "Kayſer mit Vier Fürſten" (Blatt 1 Rückseite) -->
+                    <references>
+                        <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 10</reference>
+                        <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr. 21</reference>
+                    </references>
+                </metadata>
+            </page>
+        </leaf>
+        <leaf>
+            <!-- Belehnungsszene -->
+            <metadata>
+                <dimensions>
+                    <width unit="mm">201</width>
+                    <height unit="mm">332</height>
+                </dimensions>
+                <references>
+                    <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 11</reference>
+                    <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr. 22</reference>
+                    <reference type="text" uri="faust://bibliography/loeper1869">unpag. (S. 1 eig. Zählung)</reference>
+                    <reference type="text" uri="faust://bibliography/loeper1870">S. 205</reference>
+                    <reference type="text" uri="faust://bibliography/loeper1879a">Tl. 2, S. 270</reference>
+                    <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 721 <!-- P 193 --></reference>
+                    <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 735</reference>
+                    <reference type="facsimile" uri="faust://bibliography/knopf2004">S. 159<!-- P 193 --></reference>
+                </references>
+            </metadata>
+            <page>
+                <metadata>
+                    <docTranscript uri="verso_b.xml"/>
+                    <!-- linke Hälfte "Der Kanzler (liest)" (Blatt 2 Vorderseite) -->
+                    <references>
+                        <reference type="text" uri="faust://bibliography/wa_I_15_1">S. 342</reference>
+                        <reference type="facsimile" uri="faust://bibliography/brockhaus1899">zw. S. 66 u. 67</reference>
+                    </references>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="recto_b.xml"/>
+                    <!-- untere Hälfte "Herr Gott" (Blatt 2 Rückseite) -->
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+</archivalDocument>

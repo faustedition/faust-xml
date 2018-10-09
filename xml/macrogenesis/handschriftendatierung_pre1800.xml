@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+   <!-- 390028 / 25/XXXV,5 /  /  /  -->
+   <!--  Entstehungszeit der Göchhausischen Handschrift -->
+   <date type="normalized" notBefore="1777-12-01" notAfter="1816-12-31" ignore="yes">
+      <source uri="faust://bibliography/schmidt1915">S.XI,XII</source>
+      <comment>Biographie</comment>
+      <item uri="faust://document/gsa_1/GSA_25-XXXV-5"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1776-01-01" notAfter="1776-12-31">
+      <source uri="faust://bibliography/pravida2015">S. 29</source>
+      <comment>"1776 ... Diese Datierung scheint in der Tat die am nächsten liegende"</comment>
+      <item uri="faust://document/faustedition/1_H.5"/>
+   </date>
+   <!-- 390621 / 25/XVII,1,1 /  / H P5a -->
+   <date type="normalized" notBefore="1798-08-15" notAfter="1798-09-15">
+      <source uri="faust://bibliography/bohnenkamp1994">S.220</source>
+      <comment>Zeugnis. . .</comment>
+      <comment>August/September 1798</comment>
+      <item uri="faust://document/bohnenkamp/H_P5a"/>
+   </date>
+   <!-- geprüft -->
+   
+   <date notBefore="1786-06-01" notAfter="1787-02-28">
+      <!-- H.8 [lies: H.11]: 00-06-1786 (Suphan 1876, S. 230) bis 24-08-1788 (Brief an Charlotte von Stein, Abschluss der Sammlung der Gedichte für S 8 = QuZ I, Nr. 302) -->
+      <!-- vgl. https://github.com/faustedition/xml/issues/634#issuecomment-424342621 -->
+      <source uri="faust://bibliography/suphan1876">S.230</source>
+      <comment>"Im juni 1786 also frühestens ist die Herderische samlung der 
+         lyrischen gedichte ihrem grössten teile nach angelegt worden. [...] 
+         Wir kennen sie aus dem briefe Goethes an Fritz von Stein vom 16. februar 1788."</comment>
+      <item uri="faust://document/faustedition/1_H.11"/>
+   </date>
+   
+   <!-- 390489 / 25/XVII,1,3 /  /  /  -->
+   <date notBefore="1800-04-13" notAfter="1800-11-08">
+      <comment> Überlieferte Datierung mit 1800, Kräuters Archivierung. .</comment>
+      <source uri="faust://bibliography/wa_I_14">S.278</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1362"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 393795 / 25/XVII,1,4 / StB Berlin, Ms. German. Quart. 475 / H /  -->
+   <date type="normalized" notBefore="1806-03-01" notAfter="1806-05-31">
+      <comment>Frühjahr 1806</comment>
+      <comment>Scheibe1965: Ende März/Anfang April 1806 Valentinszene</comment>
+      <source uri="faust://bibliography/scheibe1965">S.50-51</source>
+      <source uri="faust://bibliography/gsa-datenbank"/>
+      <item uri="faust://document/gsa_1/GSA_25-XVII-1-4"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 393744 / 25/XVII,1,6 / StB Berlin, Ms. German. Quart. 527 / H /  -->
+   <!-- 393832 / GSA 25/XVII,1,7 / StB Berlin, Ms. German. Quart. 527 /  /  -->
+   <date notBefore="1800-11-05" notAfter="1801-02-08">
+      <comment>Datierung auf Hs. . .</comment>
+      <comment>Ueberlieferte Datierung: "d. 5 Nov 1800" [fol. 2 Rs]; "d. 9 Febr. 1801" [fol. 3]; "d. 8 Febr. 1801" [fol. 4 Rs.]</comment>
+      <source uri="faust://bibliography/gsa-datenbank"/>
+      <item uri="faust://document/gsa_1/GSA_25-XVII-1-7"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 391352 / 25/XVII,1,5 /  / H Dom-Szene/  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.208</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1363"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 391465 / 25/XVII,1,8:1 /  / H /  -->
+   <date notBefore="1824-07-31" notAfter="1826-06-30">
+      <comment>Bezug auf Brief auf Hs. Briefkonzept an Fritsch, 07.01.1826. .</comment>
+      <comment>um 1825?</comment>
+      <source uri="faust://bibliography/wa_I_14">S.281</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1364"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 391353 / 25/XVII,1,8:2 /  / H2 /  -->
+   <date type="normalized" notBefore="1826-01-01" notAfter="1826-12-31">
+      <comment>1826?</comment>
+      <source uri="faust://bibliography/gsa-datenbank"/>
+      <item uri="faust://document/gsa_2/GSA_25-W_1365"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 391257 / 25/XVII,1,9:1 /  / (oS) /  -->
+   <date notBefore="1810-11-04" notAfter="1812-12-01">
+      <comment>Zeugnis. Tagebucheintrag vom 04.11.1810. Terminus ante quem erschlossen</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.248</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1366"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390352 / 25/XVII,1,9:2 /  / (oS) /  -->
+   <date notBefore="1812-10-20" notAfter="1812-12-01">
+      <comment>Herbst 1812, Zeugnis. Tagebuch, 20.10.-01.12.1812. .</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.248</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1367"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390789 / 25/XVII,1,10:1 /  / (oS) /  -->
+   <date notBefore="1814-04-01" notAfter="1819-07-04">
+      <comment>Zeugnis. Besuch des Fürsten Radziwill am 01.04.1814; Brief an P. A. Wolff vom 04.07.1819. .</comment>
+      <comment>1814 oder 1819</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.261</source>
+      <source uri="faust://bibliography/graef1901-1914_II_2">S.207-208</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1368"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390753 / 25/XVII,1,10:2 /  / (oS) /  -->
+   <date notBefore="1814-04-01" notAfter="1814-04-11">
+      <comment>Zeugnis. Tagebuch, 04.04.1814 (Gräf 1152); Goethe an Radziwill, 11.04.1814 (Gräf 1153). .</comment>
+      <source uri="faust://bibliography/wa_I_14">S.317</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.259</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1369"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390263 / 25/XVII,1,10:3 /  / (oS) /  -->
+   <!-- 390076 / 25/XVII,1,10:4 /  / (oS) /  -->
+   <!-- 389781 / 25/XVII,1,10:5 /  / (oS) /  -->
+   <!--  / 25/XVII,1,10a / Warschau, Familienarchiv Radziwill,Teil XIII, Kasten 16, Mappe 24 / (oS) /  -->
+   <date type="normalized" notBefore="1812-01-01" notAfter="1812-12-31">
+      <comment>Zeugnis. Tagebuch, 04.04.1814. .</comment>
+      <source uri="faust://bibliography/frankenberger1926">S.43-44</source>
+      <source uri="faust://bibliography/duentzer1857">S.792</source>
+      <item uri="faust://document/gsa_1/GSA_25-XVII-1-10a"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVII,1,10c / Warschau, Familienarchiv Radziwill,Teil XIII, Kasten 16, Mappe 24 / (oS) /  -->
+   <date notBefore="1814-04-02" notAfter="1814-04-11">
+      <comment>Zeugnis. Tagebuch, 04.04.1814. .</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.259</source>
+      <item uri="faust://document/gsa_1/GSA_25-XVII-1-10c"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVII,1,10d / Warschau, Familienarchiv Radziwill,Teil XIII, Kasten 16, Mappe 24 / (oS) /  -->
+   <date notBefore="1814-04-02" notAfter="1814-04-11">
+      <comment>Zeugnis (Brief an Knebel vom 02.04.1814); Tagebuch, 04.04.1814: Arbeit an Paralipomena zu Faust</comment>
+      <comment>Brief vom 11.04.1814 an Fürst von Radziwill</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.259</source>
+      <item uri="faust://document/gsa_1/GSA_25-XVII-1-10d"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390583 / 25/XVII,1,11:1 /  / (oS) /  -->
+   <date notBefore="1815-05-17" notAfter="1815-05-17">
+      <comment>Zeugnis. Tagebuch, 17.05.1815. .</comment>
+      <source uri="faust://bibliography/wa_I_14">S.320</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1372"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390822 / 25/XVII,1,11:2 /  / (oS) /  -->
+   <date notBefore="1815-05-01" notAfter="1815-05-03">
+      <comment>Zeugnis. Tagebuch, 1.-3.5.1815. .</comment>
+      <comment>Anfang Mai 1815</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.263</source>
+      <item uri="faust://document/gsa_2/GSA_25-W_1373"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVII,1,12 / Weimar, Nationaltheater, Archiv, No. 227 / (oS) /  -->
+   <!--  / 25/XVII,1,12*a /  / (oS) /  -->
+   <!--  / 25/XVII,1,12*b /  / (oS) /  -->
+   <!--  / 25/XVII,1,1a / Düsseldorf, Sammlung Kippenberg, K. K. 1838 / (oS) /  -->
+   <date notBefore="1801-02-12" notAfter="1801-02-13">
+      <comment>Datierung auf Hs. . .</comment>
+      <source uri="faust://bibliography/gsa-datenbank"/>
+      <item uri="faust://document/gsa_1/GSA_25-XVII-1-1a"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390720 / 25/XVII,2,1 /  / H P1 /  -->
+   <date type="normalized" notBefore="1788-01-01" notAfter="1788-12-31">
+      <comment>Zeugnis; Inhalt. Tagebuch, 11.04.1800. .</comment>
+      <source uri="faust://bibliography/harnack1891">S.170</source>
+      <source uri="faust://bibliography/harnack1899">S.66</source>
+      <item uri="faust://document/bohnenkamp/H_P1"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1795-05-01" notAfter="1797-07-31" ignore="yes">
+      <comment>Zeugnis; Inhalt. Tagebuch, 02.12.1794. .</comment>
+      <comment>Sommer 1795 oder 1797</comment>
+      <source uri="faust://bibliography/pniower1892">S.411-414</source>
+      <item uri="faust://document/bohnenkamp/H_P1"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1799-07-01">
+      <comment>Zeugnis; Inhalt. Tagebuch, 11.04.1800. .</comment>
+      <comment>nach Juli 1799</comment>
+      <source uri="faust://bibliography/morris1902b">S.158</source>
+      <item uri="faust://document/bohnenkamp/H_P1"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1800-04-11" notAfter="1800-04-11">
+      <comment>Zeugnis; Inhalt. Tagebuch, 11.04.1800. .</comment>
+      <source uri="faust://bibliography/pniower1924">S.143-146</source>
+      <item uri="faust://document/bohnenkamp/H_P1"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1800-04-13" notAfter="1801-04-07">
+      <comment>1800/01</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.222-224</source>
+      <source uri="faust://self"/>
+      <item uri="faust://document/bohnenkamp/H_P1"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390259 / 25/XVII,2,2 /  / H P3 /  -->
+   <date type="normalized" notBefore="1798-08-15" notAfter="1798-09-15">
+      <comment>Inhalt, Biographie. . .</comment>
+      <comment>Mitte August bis Mitte September 1798</comment>
+      <comment>Schillemeit1986: im Laufe des August 1798</comment>
+      <source uri="faust://bibliography/schillemeit1986">S.160-161</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.216</source>
+      <item uri="faust://document/bohnenkamp/H_P3"/>
+   </date>
+   <!-- geprüft-->
+   <!-- 389765 / 25/XVII,2,4 /  / H P5 /  -->
+   <date type="normalized" notBefore="1798-08-15" notAfter="1798-09-15">
+      <source uri="faust://bibliography/bohnenkamp1994">S.216</source>
+      <comment>"H P 3,  H P 5 und H P5a lassen sich nach Bo 216 "auf August/September 1798"
+         festlegen."</comment>
+      <item uri="faust://document/bohnenkamp/H_P5"/>
+   </date>
+   <!-- 390900 / 25/XVII,2,5 /  / H P8 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Bezug auf beziffertes Schema; Inhalt. . .</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.132</source>
+      <item uri="faust://document/bohnenkamp/H_P8"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 391360 / 25/XVII,2,6:2 /  / H P9Var /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.129</source>
+      <comment>"auf einem
+         – eigenhändig in lateinischer Schrift beschriebenen – Einzelblatt überliefert
+         (GSA XVI 2,6)"</comment>
+      <comment>ABR per Mail: "H P9a: da es sich um eine Abschrift von HP 9 handelt, ließe sich der tpq von
+         dort auch hier angeben."</comment>
+      <item uri="faust://document/bohnenkamp/H_P9"/>
+      <item uri="faust://document/bohnenkamp/H_P9a"/>
+   </relation>
+   <!-- 391365 / 25/XVII,2,8 /  / H P11 /  -->
+   <date type="normalized" notBefore="1788-01-01" notAfter="1788-12-31">
+      <comment>Inhalt passt zur Italienischen Zeit</comment>
+      <source uri="faust://bibliography/burdach1926">S.29</source>
+      <item uri="faust://document/bohnenkamp/H_P11"/>
+   </date>
+   <!-- geprüft -->
+   <!-- ABR: "H P 11: zwischen Mai 1798 und  April 1801 (bo 229)"  -->
+   <date notBefore="1798-05-01" notAfter="1801-04-30">
+      <source uri="faust://bibliography/bohnenkamp1994">S.229</source>
+      <item uri="faust://document/bohnenkamp/H_P11"/>
+   </date>
+   <!-- 390778 / 25/XVII,2,9 /  / H P12 /  -->
+   <!-- ABR: "H P 12: zwischen Mai 1798 und  April 1801 (bo 237)" -->
+   <date notBefore="1798-05-01" notAfter="1801-04-30">
+      <source uri="faust://bibliography/bohnenkamp1994">S.237</source>
+      <item uri="faust://document/bohnenkamp/H_P12"/>
+   </date>
+   <!-- 389808 / 25/XVII,2,10 /  / H P14 /  -->
+   <date notBefore="1797-06-24" notAfter="1801-04-07">
+      <comment>Inhalt. . .</comment>
+      <comment>1797/1798 oder 1800/1801</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.238</source>
+      <item uri="faust://document/bohnenkamp/H_P14"/>
+   </date>
+   <!-- geprüft -->
+   <!-- XVII,2,11 / H P15 -->
+   <date notBefore="1798-05-01" notAfter="1801-04-30">
+      <source uri="faust://bibliography/bohnenkamp1994">S.240</source>
+      <comment>ABR September 23, 2018 12:38 AM: "H P 15: zwischen Mai 1798 und  April 1801 (bo 240)"</comment>
+      <item uri="faust://document/bohnenkamp/H_P15"/>
+   </date>
+   <!-- 390888 / 25/XVII,2,14 /  / H P22 /  -->
+   <date type="normalized" notBefore="1788-01-01" notAfter="1788-12-31">
+      <comment>. . .</comment>
+      <source uri="faust://bibliography/harnack1891">S.171-173</source>
+      <item uri="faust://inscription/bohnenkamp/H_P22/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390888 / 25/XVII,2,14 /  / H P22 /  -->
+   <date notBefore="1798-01-01">
+      <source uri="faust://bibliography/harnack1891">S.171-173</source>
+      <item uri="faust://inscription/bohnenkamp/H_P22/i_1_o"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1797-01-01" notAfter="1797-12-31">
+      <comment>. . .</comment>
+      <source uri="faust://bibliography/pniower1892">S.419</source>
+      <item uri="faust://inscription/bohnenkamp/H_P22/i_1_o"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1797-01-01">
+      <comment>. . .</comment>
+      <comment>in den neunziger Jahren</comment>
+      <source uri="faust://bibliography/morris1899">S.683-684</source>
+      <item uri="faust://inscription/bohnenkamp/H_P22/i_1_o"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 391368 / 25/XVII,2,15 /  / H P25 /  -->
+   <date notBefore="1799-07-01" notAfter="1801-04-07">
+      <comment>Papier, Inhalt. . .</comment>
+      <comment>um 1800</comment>
+      <source uri="faust://bibliography/morris1902b">S.163</source>
+      <item uri="faust://document/bohnenkamp/H_P25"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 391369 / 25/XVII,2,16 /  / H P26 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier, Bezug auf beziffertes Schema. . .</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.134</source>
+      <item uri="faust://document/bohnenkamp/H_P26"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 389816 / 25/XVII,2,17 /  / H P27 /  -->
+   <date notBefore="1800-11-02" notAfter="1800-11-08">
+      <source uri="faust://bibliography/bohnenkamp1994">S.162</source>
+      <item uri="faust://document/bohnenkamp/H_P27"/>
+   </date>
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.165</source>
+      <comment>"vermutlich frühere Fassung auf dem Sammelblatt H P10", "Die auf
+         H P27 vorliegende Niederschrift ist sehr wahrscheinlich später entstanden."</comment>
+      <item uri="faust://document/bohnenkamp/H_P10"/>
+      <item uri="faust://document/bohnenkamp/H_P27"/>
+   </relation>
+   <!-- 391371 / 25/XVII,2,18 /  / H P28 /  -->
+   <date notBefore="1800-11-02">
+      <source uri="faust://bibliography/bohnenkamp1994">S.166</source>
+      <comment>"ab Winter" (Winter 1800 oder später). Grund: Inhalt. . .</comment>
+      <item uri="faust://document/bohnenkamp/H_P28"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390403 / 25/XVII,2,19 /  / H P29 /  -->
+   <date notBefore="1800-11-02" notAfter="1800-11-08">
+      <source uri="faust://bibliography/bohnenkamp1994">S.169</source>
+      <comment>ABR September 23, 2018 12:38 AM: "H P 27-29: Ende 1800 (Bo 162 nach Morris)"</comment>
+      <item uri="faust://document/bohnenkamp/H_P29"/>
+   </date>
+   <!-- 390891 / 25/XVII,2,20 /  / H P30 /  -->
+   <!-- 389879 / 25/XVII,2,22 /  / H P42 /  -->
+   <!-- 391375 / 25/XVII,2,24 /  / H P50 /  -->
+   <date notBefore="1797-06-24" notAfter="1800-11-08">
+      <comment>Bezug auf beziffertes Schema. . .</comment>
+      <comment>Juni 1797-Herbst 1800</comment>
+      <source uri="faust://bibliography/scheibe1965">S.33-35</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.150-154</source>
+      <item uri="faust://document/bohnenkamp/H_P50"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/scheibe1965">S.33-35</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.150-154</source>
+      <comment>Bezug auf beziffertes Schema. . .</comment>
+      <item uri="faust://document/bohnenkamp/H_P50"/>
+      <item uri="faust://inscription/wa/P31/i_2_o"/>
+      <item uri="faust://inscription/wa/P48/i_2_u"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVII,3,1:1 /  / (oS) /  -->
+   <!--  / 25/XVII,3,1:2 /  / (oS) /  -->
+   <!--  / 25/XVII,3,1:3 /  / (oS) /  -->
+   <!--  / 25/XVII,3,1:4 /  / (oS) /  -->
+   <!--  / 25/XVII,3,1:5 /  / (oS) /  -->
+   <!--  / 25/XVII,3,1:6 /  / (oS) /  -->
+   <!--  / 25/XVII,3,2 /  / (oS) /  -->
+   <!--  / 25/XVII,3,3 /  / (oS) /  -->
+   <!--  / 25/XVII,3,4:1 /  / (oS) /  -->
+   <!--  / 25/XVII,3,4:2 /  / (oS) /  -->
+   <!--  / 25/XVII,3,5 /  / (oS) /  -->
+   <!--  / 25/XVII,3,6 /  / (oS) /  -->
+   <!--  / 25/XVII,3,7:1 /  / (oS) /  -->
+   <!--  / 25/XVII,3,7:2 /  / (oS) /  -->
+   <!--  / 25/XVII,3,8 /  / (oS) /  -->
+   <!--  / 25/XIX,1,3:1 /  / H P67 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier und Duktus. . Ursprünglich zusammen mit P68 auf einem Blatt.</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.182</source>
+      <item uri="faust://document/bohnenkamp/H_P67"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,3:2 /  / H P68 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier und Duktus, Inhalt. . Ursprünglich zusammen mit P67 auf einem Blatt.</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.184</source>
+      <item uri="faust://document/bohnenkamp/H_P68"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,3:3 /  /  /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.184-185</source>
+      <comment>Inhalt. . .</comment>
+      <item uri="faust://document/gsa_2/GSA_25-W_1744"/>
+      <item uri="faust://document/bohnenkamp/H_P68"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,4 /  / (oS) /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/inventare_2_2">Sp.256</source>
+      <source uri="faust://bibliography/graef1901-1914_II_2">S.484-486</source>
+      <comment>. . .</comment>
+      <item uri="faust://document/gsa_1/GSA_25-XIX,4"/>
+      <item uri="faust://document/gsa_2/GSA_25-W_1806"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,5 /  / (oS) /  -->
+   <date notAfter="1829-08-29">
+      <comment>. . Abschrift von 25/XIX,4.</comment>
+      <source uri="faust://bibliography/gsa-datenbank"/>
+      <item uri="faust://document/gsa_2/GSA_25-W_1806"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,1 /  / H P63 /  -->
+   <date notBefore="1816-12-16">
+      <comment>Bezug auf Tagebucheintrag 16.12.1816,eigentlich ein Paralipomenon zu Dichtung und Wahrheit (P135/H158 Scheibe), NB: andere Faust-Erwähnungen in DuW werden nicht zu den Faust-Paralipomena gerechnet.</comment>
+      <source uri="faust://bibliography/scheibe1974">S.169-170</source>
+      <item uri="faust://document/bohnenkamp/H_P63"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,2 /  / H P65 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier, Inhalt, Signatur auf Hs. . .</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.189-190</source>
+      <item uri="faust://inscription/wa/P66/i_4_r"/>
+   </date>
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.189-190</source>
+      <item uri="faust://inscription/wa/H_P65/i_uebrige"/>
+      <item uri="faust://inscription/wa/P66/i_4_r"/>
+   </relation>
+   <!-- geprüft -->
+
+   <!-- GSA 25/XIX,1,6 / H_P78 -->
+   <date notAfter="1826-12-31">
+      <source uri="faust://bibliography/bohnenkamp1994">S.131</source>
+      <comment>ABR, September 20, 2018 9:34 AM: H P78: vor 1827 (Bo 131)</comment>
+      <item uri="faust://document/bohnenkamp/H_P78"/>
+   </date>
+
+   <!--  / 25/XIX,1,8 /  / H P82 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier und Signatur. . .</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.202</source>
+      <item uri="faust://document/bohnenkamp/H_P82"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,10 /  / H P91 /  -->
+   <!-- 1797/1798 (AB); 11.04.1800 (Pniower); Frühling 1798, September/November 1800 und Februar/März 1801 (Gräf) -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier und Signatur. Gräf, Nr. 1162. .</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.205</source>
+      <source uri="faust://self"/>
+      <item uri="faust://document/bohnenkamp/H_P91"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1798-03-01" notAfter="1801-03-31">
+      <comment>Papier und Signatur. Gräf, Nr. 1162. .</comment>
+      <source uri="faust://bibliography/graef1901-1914_II_2">S.215</source>
+      <item uri="faust://document/bohnenkamp/H_P91"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1800-04-11" notAfter="1800-04-24" ignore="yes">
+      <comment>Papier und Signatur. Gräf, Nr. 1162. .</comment>
+      <!-- ABR: H P91: Pniower-Datierung wegen Signatur auszuschließen (Bo 205) -->
+      <source uri="faust://bibliography/pniower1924">S.144</source>
+      <item uri="faust://document/bohnenkamp/H_P91"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,11:1 /  / H P92 /  -->
+   <date notBefore="1800-04-11" notAfter="1800-04-24">
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162; Tagebucheintrag vom 27.02.1825. .</comment>
+      <source uri="faust://bibliography/pniower1924">S.144</source>
+      <item uri="faust://document/faustedition/2_V_H.15a"/>
+      <!--<item uri="faust://document/bohnenkamp/H_P92"/>-->
+   </date>
+   <!-- geprüft -->
+   <!-- Bohnenkamp-Datierung für die gesamte Handschrift: möglicherweise vollständig 1797/98 -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <source uri="faust://bibliography/bohnenkamp1994">S.207</source>
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162; Tagebucheintrag vom 27.02.1825. .</comment>
+      <comment>1797/1798 (Geist), u.U. auch 1825</comment>
+      <comment>"Neuordnung von 1797/1798"</comment>
+      <item uri="faust://document/faustedition/2_V_H.15a"/>
+      <!--<item uri="faust://document/bohnenkamp/H_P92"/>-->
+   </date>
+   <!-- dasselbe, nach Inskriptionen: Geist (sicher 1797/98) -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <source uri="faust://bibliography/bohnenkamp1994">S.207</source>
+      <comment>"Neuordnung von 1797/1798"</comment>
+      <item uri="faust://document/faustedition/2_V_H.15a/i_r_gt"/>
+      <!--<item uri="faust://document/bohnenkamp/H_P92"/>-->
+   </date>
+   <!-- dasselbe, nach Inskriptionen: Goethe Bleistift (mglw. 1825) -->
+   <date type="normalized" notBefore="1825-02-26" notAfter="1825-04-05">
+      <source uri="faust://bibliography/bohnenkamp1994">S.207</source>
+      <comment>"Ob diese Überarbeitung noch am Ende des 18.
+         Jahrhunderts oder erst 25 Jahre später bei der Wiederaufnahme der Arbeit am ‘Faust’
+         stattgefunden hat, läßt sich nicht mit Sicherheit entscheiden."</comment>
+      <item uri="faust://document/faustedition/2_V_H.15a/i_r_g"/>
+      <!--<item uri="faust://document/bohnenkamp/H_P92"/>-->
+   </date>
+   <!-- geprüft -->
+   <!-- H P92 (John) -->
+   <date type="normalized" notBefore="1825-02-26" notAfter="1825-04-05">
+      <source uri="faust://bibliography/bohnenkamp1994">S.207</source>
+      <comment>"Die Abschrift der beiden
+         letzten Strophen von der Hand Johns, die also aus der Zeit der Wiederaufnahme
+         der Arbeit am ‘Faust’ im Jahr 1825 stammt". ABR: "2 V H 15 b: (nach 1825) (Bo 207)"</comment>
+      <item uri="faust://document/faustedition/2_V_H.15b"/>
+   </date>
+   <date notBefore="1825-02-27" notAfter="1825-02-27">
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162; Tagebucheintrag vom 27.02.1825. .</comment>
+      <source uri="faust://bibliography/hertz1932">S.255,273</source>
+      <item uri="faust://document/faustedition/2_H.15b"/>
+      <!--<item uri="faust://document/bohnenkamp/H_P92"/>; https://github.com/faustedition/xml/issues/633#issuecomment-424366317 -->
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1798-03-01" notAfter="1801-03-31">
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162; Tagebucheintrag vom 27.02.1825. .</comment>
+      <comment>Frühling 1798, September/November 1800 und Februar/März 1801 (Gräf)</comment>
+      <source uri="faust://bibliography/graef1901-1914_II_2">S.215</source>
+      <item uri="faust://document/faustedition/2_H.15a"/>
+      <!--<item uri="faust://document/bohnenkamp/H_P92"/>-->
+      <!-- (11531-11538; 11604-11608 auf derselben Seite sind von 1825); https://github.com/faustedition/xml/issues/633#issuecomment-424364937 -->
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/graef1901-1914_II_2">S.215</source>
+      <source uri="faust://bibliography/pniower1924">S.144</source>
+      <source uri="faust://bibliography/hertz1932">S.255,273</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.207</source>
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162; Tagebucheintrag vom 27.02.1825. .</comment>
+      <item uri="faust://document/faustedition/2_H.15b"/>
+      <!--<item uri="faust://document/bohnenkamp/H_P92"/>-->
+      <item uri="faust://document/wa/2_V_H.14"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,12 /  / H P93 /  -->
+   <date notBefore="1800-04-11" notAfter="1800-04-24">
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162 (für Vorlage); Tagebucheintrag vom 27.02.1825. .</comment>
+      <source uri="faust://bibliography/pniower1924">S.144</source>
+      <item uri="faust://document/bohnenkamp/H_P93"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1798-03-01" notAfter="1801-03-31">
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162 (für Vorlage); Tagebucheintrag vom 27.02.1825. .</comment>
+      <comment>Frühling 1798, September/November 1800 und Februar/März 1801 (Gräf)</comment>
+      <source uri="faust://bibliography/graef1901-1914_II_2">S.215</source>
+      <item uri="faust://document/bohnenkamp/H_P93"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1824-01-01" notAfter="1824-12-31">
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162 (für Vorlage); Tagebucheintrag vom 27.02.1825. .</comment>
+      <comment>"wohl 1824 kopiert" (Erich Schmidt)</comment>
+      <source uri="faust://bibliography/wa_I_15_2">S.187</source>
+      <item uri="faust://document/bohnenkamp/H_P93"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
+      <comment>Bezug auf Tgb. Gräf, Nr. 1162 (für Vorlage); Tagebucheintrag vom 27.02.1825. .</comment>
+      <comment>Frühjahr 1825</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.751</source>
+      <source uri="faust://self"/>
+      <item uri="faust://document/bohnenkamp/H_P93"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,14:1 /  / H P97 /  -->
+   <date notBefore="1800-04-11" notAfter="1800-04-24">
+      <comment>Papier und Signatur auf Hs. . .</comment>
+      <source uri="faust://bibliography/pniower1924">S.144</source>
+      <item uri="faust://document/bohnenkamp/H_P97"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier und Signatur auf Hs. . .</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.209</source>
+      <source uri="faust://self"/>
+      <item uri="faust://document/bohnenkamp/H_P97"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,14:2 /  / H P98 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier und Duktus. . .</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.213</source>
+      <source uri="faust://self"/>
+      <item uri="faust://document/bohnenkamp/H_P98"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1797-11-01" notAfter="1798-03-31">
+      <comment>Papier und Duktus. . .</comment>
+      <comment>Winter 1797/1798</comment>
+      <comment>Brief Goethes an Hirt; Plan Faust zu beenden</comment>
+      <source uri="faust://bibliography/wa_IV_13">S.46</source>
+      <item uri="faust://document/bohnenkamp/H_P98"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1800-04-13" notAfter="1800-04-24">
+      <comment>Frühling 1800</comment>
+      <source uri="faust://bibliography/pniower1899">S.71-72</source>
+      <source uri="faust://bibliography/pniower1924">S.144</source>
+      <item uri="faust://document/bohnenkamp/H_P98"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1800-04-13" notAfter="1800-11-08">
+      <comment>Papier und Duktus. . .</comment>
+      <comment>1800</comment>
+      <source uri="faust://bibliography/graef1901-1914_II_2">S.87-88</source>
+      <source uri="faust://self"/>
+      <item uri="faust://document/bohnenkamp/H_P98"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XXVIII,G /  / H P121a /  -->
+   <date type="normalized" notBefore="1797-09-01" notAfter="1797-09-30">
+      <comment>Biographie. . .</comment>
+      <comment>im September 1797</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.200</source>
+      <item uri="faust://document/bohnenkamp/H_P121a"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,3 /  / H /  -->
+   <!--  / 25/XIX,3*a /  /  /  -->
+   <!-- 391373 / 25/XVII,1,2 /  / H / H P2 -->
+   <date notBefore="1795-10-01" notAfter="1797-06-24">
+      <comment>Zeugnis. an Schiller, 05.05.1798 (Gräf 942). Sammelblatt.</comment>
+      <comment>Schillersche Zeit, ab 1795 (Einstellung Schreiber Geist) und vor 1797/98</comment>
+      <source uri="faust://bibliography/grumach1953">S.66-70,91-102</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.116-119</source>
+      <item uri="faust://document/bohnenkamp/H_P2"/>
+   </date>
+   <!-- geprüft -->
+   <!--  /391362 / 25/XVII,2,7  / H / H P10 -->
+   <date notAfter="1798-05-05">
+      <comment>Zeugnis. an Schiller, 05.05.1798 (Gräf 942). Sammelblatt.</comment>
+      <comment>Schillersche Zeit, vor 05. Mai 1798</comment>
+      <source uri="faust://bibliography/wa_IV_13">S.136-137</source>
+      <item uri="faust://inscription/bohnenkamp/H_P10/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Zeugnis. an Schiller, 05.05.1798 (Gräf 942). Sammelblatt.</comment>
+      <comment>zwischen Juni 1797 und 5. Mai 1798, Teile wahrscheinlich zu späteren Zeitpunkt</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.123</source>
+      <source uri="faust://self"/>
+      <item uri="faust://inscription/bohnenkamp/H_P10/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1798-05-05">
+      <comment>Zeugnis. an Schiller, 05.05.1798 (Gräf 942). Sammelblatt.</comment>
+      <comment>möglicherweise nach 1798; Schrift und Tinte heben sich ab</comment>
+      <source uri="faust://bibliography/grumach1958">S.47-48</source>
+      <item uri="faust://inscription/bohnenkamp/H_P10/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1800-04-13" notAfter="1800-11-08">
+      <comment>um 1800; Zuordnung zur Walpurgisnacht</comment>
+      <source uri="faust://bibliography/mmommsen1953">S.342-343</source>
+      <item uri="faust://inscription/bohnenkamp/P10/i_3_u"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390186 / 25/XVII,2,6:1 /  / H P9 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>unsicher (vmtl. 1797/1798)</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.129</source>
+      <item uri="faust://document/bohnenkamp/H_P9"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 390782 / 25/XVII,2,13 /  / H P6 /  -->
+   <date notBefore="1773-06-10" notAfter="1775-11-07">
+      <comment>Tinte, Inhalt. . .</comment>
+      <comment>Entstehungszeit: Urfaust-Zeit, unsicher, 1773-1775</comment>
+      <source uri="faust://bibliography/wa_I_14">S.294</source>
+      <source uri="faust://bibliography/grumach1954">S.141</source>
+      <source uri="faust://bibliography/scheibe1959">S.413-416</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.104-106</source>
+      <item uri="faust://document/bohnenkamp/H_P6"/>
+   </date>
+   <!-- geprüft -->
+   <!-- 389821 / 25/XVII,2,25 /  / H P54 /  -->
+   <date notAfter="1776-01-01">
+      <comment>Vgl. zu Brief an Kestner vom 25. April 1773</comment>
+      <comment>bei Nollendorfs Bezug auf Brief an Kestner vom 26. Januar 1773</comment>
+      <comment>Fischer-Lamberg Brief an Kestner vom 26. Januar 1773</comment>
+      <comment>vor 1776</comment>
+      <source uri="faust://bibliography/wa_I_14">S.311-312</source>
+      <source uri="faust://bibliography/fischer-lamberg1957">S.393-394</source>
+      <source uri="faust://bibliography/nollendorfs1967">S.56</source>
+      <item uri="faust://document/bohnenkamp/H_P54"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1786-09-03" notAfter="1788-06-18">
+      <comment>. . .</comment>
+      <comment>Italien 1786-1788</comment>
+      <source uri="faust://bibliography/krogmann1933">S.14</source>
+      <source uri="faust://bibliography/binder1944">S.108-109</source>
+      <item uri="faust://document/bohnenkamp/H_P54"/>
+   </date>
+   <!-- geprüft -->
+</macrogenesis>

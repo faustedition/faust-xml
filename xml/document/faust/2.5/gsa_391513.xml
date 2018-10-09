@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391513/">
+<revisionDesc>
+   <change when="2012-12-05" who="henzel">imported</change>
+   <change when="2012-12-05" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">WA-Nr. Brief</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>auf Umschlag mit Adresse Goethes, Ch. E. F. Weller; eigenhändiges Briefkonzept mit Bleistift: Brief an Großherzogin Maria Pawlowna von Sachsen-Weimar-Eisenach, 16.2.1831 (WA-Nr. 48111); eigenhändige Berechnung mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.37</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,37</idno>
+      <idno type="gsa_2">GSA 25/W 1735</idno>
+      <idno type="gsa_ident">391513</idno>
+      <idno type="wa_faust">2 V H.37</idno>
+      <textTranscript uri="391513.xml"/>
+      <classification>Konzept</classification>
+      <condition>als Umschlag mehrfach geknickt; ober linker Rand abgerissen; rotes Siegel "Academi[sche Biblio]thek Iena"</condition>
+      <dimensions>
+         <width unit="mm">335</width>
+         <height unit="mm">209</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 307 mm. Der Mindestwert der Blatt-Höhe beträgt 205 mm.</note>
+      <format>none</format>
+      <!-- möglicherweise Folioformat im Querformat? -->
+      <edges>cut</edges>
+      <paperType>none</paperType><!-- Karton, sehr fest -->
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <!--<note>Ausrichtung der Steglinien deutet auf Querformat des Papiers hin</note>-->
+      <watermarkID>none</watermarkID><!-- vorhanden? evt. Rahmen mit Buchstaben darin parallel zu Steglinien -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 190</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 190f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 191</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

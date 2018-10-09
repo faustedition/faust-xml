@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_vicenza/E137/">
+   <revisionDesc>
+      <change when="2012-12-19" who="bruening">begonnen</change>
+      <change when="2013-01-03" who="bruening">weitergeführt</change>
+      <change when="2013-01-11" who="bruening">Von Serena Zanaboni erhobene Daten
+         eingearbeitet.</change>
+      <change when="2013-01-11" who="bruening">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-02-19" who="henzel">gsa_1 bearbeitet</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>In einer Mappe mit der Aufschrift „Miscellanea di autografi non vicentini“, mehrere
+         Handschriften enthaltend, die nicht aus Vicenza stammen. Längs gebrochen. – Dabei:
+         zeitgenössische oder spätere Abschrift (269 × 208 mm, Velinpapier). – Längs
+         gebrochen.</note>
+      <repository>bb_vicenza</repository>
+      <idno type="faustedition">2 III H.46a</idno>
+      <idno type="bb_vicenza">E. 137</idno>
+      <idno type="gsa_1">GSA 25/XVIII,4,1b</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="E137.xml"/>
+      <classification>Konzept</classification>
+      <history>Laut Aufschrift auf der Mappe „dono di P. Mugna“ von der Hand Andrea Capparozzos, der
+         von 1857 bis zum seinem Tod im Jahr 1884 Bibliothekar der Biblioteca Civica Bertoliana war. Beim
+         Inhalt der Mappe handelt es sich demnach um einen Teil der Schenkung, Pietro Mugna der
+         Bertoliana im Jahr 1882 machte (vgl. faust://bibliography/lotto2000, S. 45).</history>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">59</height>
+      </dimensions>
+      <format>none</format>
+      <edges>uncut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>none</watermarkID>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="002_v.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="002_r.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

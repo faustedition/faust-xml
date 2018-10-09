@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391505/">
+<revisionDesc>
+   <change when="2012-11-29" who="henzel">imported</change>
+   <change when="2012-11-29" who="henzel">encoded</change>
+   <change when="2014-10-24" who="henzel">erneute Pruefung am Original</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>auf Rückseite Text zu Kunst und Alterthum gehörig</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.14</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,15</idno>
+      <idno type="gsa_2">GSA 25/W 1711</idno>
+      <idno type="gsa_ident">391505</idno>
+      <idno type="wa_faust">2 V H.14</idno>
+      <textTranscript uri="391505.xml"/>
+      <classification>Konzept</classification>
+      <condition>Tinte drückt durch, Vergilbungen, gewellt, auf der oberen Hälfte zwei Löcher, die von einer Nadel stammen; Blatt war erst gefaltet und offensichtlich nach der Beschriftung zusammengeklebt (Spuren mit Textverlust am Rand), Papierabriss am linken Rand zeugt von ehemaliger Klebung</condition>
+      <dimensions>
+         <width unit="mm">212</width>
+         <height unit="mm">345</height>
+      </dimensions>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>"H" und "A"(?)</countermarkID><!-- schwer zu erkennen -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147f.</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 132</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 132f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 133</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf><!-- TODO mithilfe von Landeck Reihenfolge prüfen -->
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/><!-- Bildende Kunst -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!--  <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 3. Konzept im Vgl. mit V H.13 (25/XVIII,7,14*b)</f:bemerkung>
+      <f:dabei_vermerk>"Über Kunst und Alterthum. Mittheilungen im vierten bis sechsten Bande. 1823-1832" WA I 41.2: Verzeichnis verschiedener Beiträge zum 5. Band unter der Überschrift John: "Bildende Kunst. für Kunst u Alterthum zunächst anzuwenden"</f:dabei_vermerk>
+      <f:datierung>nach dem 14.3.1825</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

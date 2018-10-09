@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391007/">
+   <revisionDesc>
+      <change when="2012-11-28" who="bruening">encoded</change>
+      <change when="2014-03-18" who="henzel">docTranscript nachgetragen</change>
+      <change when="2014-11-12" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>6 Einzelblätter. – Zu ‚Faust II‘, Akt 1 und 2.</headNote>
+      <note>Die angenommene Reihenfolge der Blätter folgt faust://bibliography/bohnenkamp1994, S.
+         479. Quer gebrochen. dabei: Brief an König Ludwig I. von Bayern, 29. August 1829,
+         faust://bibliography/wa_IV_46, S. 64–65, Konzept egh
+         6 Einzelblätter, 9 beschriebene Seiten. – S. 1: Versentwürfe zu ‚Faust II‘, Akt 1
+         (eigenhändig, Tinte und Bleistift), S. 2: leer, S. 3: Versentwürfe zu ‚Faust II‘, Akt 1
+         (eigenhändig, Tinte), S. 4: leer, S. 5: Versentwürfe zu ‚Faust II‘, Akt 1 (eigenhändig,
+         Tinte), S. 6: Versentwürfe zu ‚Faust II‘, Akt 1 (eigenhändig, Tinte und Bleistift), S. 7:
+         Versentwürfe zu ‚Faust II‘, Akt 1 (eigenhändig, Tinte), S. 8: leer, S. 9: Versentwürfe zu
+         ‚Faust II‘, Akt 1 (eigenhändig, Tinte und Bleistift), S. 10: Briefentwurf (eigenhändig,
+         Bleistift), S. 11: Versentwürfe zu ‚Faust II‘, Akt 1 und 2 (eigenhändig, Tinte; John,
+         Tinte), S. 12: Versentwürfe zu ‚Faust II‘, Akt 2 (John, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.56</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,28</idno>
+      <idno type="gsa_2">GSA 25/W 1481</idno>
+      <idno type="gsa_ident">391007</idno>
+      <idno type="wa_faust">2 I H.56</idno>
+      <textTranscript uri="391007.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering name="Bleistiftziffer">Eigenhändige Bleistiftzählung auf Bl. 2r (isoliert und
+            entgegen der dominierenden Schreibrichtung).</numbering>
+      </numberingList>
+      <format>2</format>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 12</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            68</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 479</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 68</reference>
+      </references>
+   </metadata>
+   <!-- Bl. 1 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">203</width>
+            <height unit="mm">333</height>
+         </dimensions>
+         <edges>cut</edges>
+         <watermarkID>Stern_ueber_N1</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 2 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">345</height>
+         </dimensions>
+         <edges>uncut</edges>
+         <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0011.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 3 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">331</height>
+         </dimensions>
+         <edges>cut</edges>
+         <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 4 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">335</height>
+         </dimensions>
+         <edges>cut</edges>
+         <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0013.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 5 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Rückseitig erstes Konzept zum Brief an Ludwig I. vom 29. August 1829
+            (faust://bibliography/wa_IV_46, S. 64f.). Bereits von Schmidt identifiziert
+            (faust://bibliography/wa_I_15_2, S. 12), im später erschienenen Band der vierten
+            Abteilung (faust://bibliography/wa_IV_46, S. 322, zu Nr. 68) jedoch nicht nachgewiesen.
+            Die abgetrennte Bogenhälfte (faust://document/wa_faust/2_I_H.57, vgl.
+            faust://bibliography/bohnenkamp1994, S. 479) trägt das zweite Konzept.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">325</height>
+         </dimensions>
+         <edges>cut</edges>
+         <paperType>Schreibpapier</paperType>
+         <paperColour>gelblich</paperColour>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+         <references>
+            <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 479</reference>
+         </references>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0007.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0009.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Blatt 6 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">199</width>
+            <height unit="mm">327<!-- 324-27 ABR --></height>
+         </dimensions>
+         <edges>cut</edges>
+         <watermarkID>Stern_ueber_N1</watermarkID>
+         <references>
+            <reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+               477</reference>
+            <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 479</reference>
+         </references>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0016.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <references>
+               <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 477f.</reference>
+               <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                  648</reference>
+            </references>
+            <docTranscript uri="0014.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Arbeitsmundum; zur Datierung vgl. Bohnenkamp, S.479; verlöschte Bleizeilen auf Bl 1 und 5</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>6</f:blatt>
+      <f:dabei_vermerk>Brief an König Ludwig I. von Bayern, 29.8.1829, WA IV 46,64-65, Konzept egh = früheres Konzept im Vgl. mit dem Briefkonzept auf I H.57</f:dabei_vermerk>
+      <f:datierung>1829/1830</f:datierung>
+      <f:druckort>WA I 15.1, 8-89, WA I 15.1, 110-176</f:druckort>
+      <f:ident>391007</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.56; vgl. I 15.2,12
+
+Vers(e): 6415-6472 (6441-6448 fehlt/fehlen)
+Empfangt mit Ehrfurcht ...
+Konzept egh
+
+Vers(e): 6487-6524 (6502-6505 fehlt/fehlen)
+Hab ich noch Augen? ...
+Konzept egh
+
+Vers(e): 6541-6565 (6550-6557 fehlt/fehlen)
+Nicht Knabe mehr! Ein kühner Heldenmann ...
+Konzept egh
+
+Faust. Zweiter Theil. Zweiter Act. Classische Walpurgisnacht
+Vers(e): 7080-7089
+Und wie ich stürmend hin und wieder schweife ...
+Konzept John; Korrektur egh
+
+Faust. Zweiter Theil. Zweiter Act. Classische Walpurgisnacht
+Vers(e): 7117-7139
+In welcher Sprache weis doch ...
+Konzept John; Korrektur egh</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh, John</f:schrift>
+      <f:signatur>XVII,5,28</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (5,28) (WA I,15.2,12 u. 44f.)</p>
+            <p>Arbeitsmundum</p>
+            <p>Erstdruck: WA I,15.2,44f. (teilweise)</p>
+            <p> x , Folioblatt, graues Konzeptpapier, gerippt, gefaltet; WZ: Stern über `N 1'
+               (Stuetzerbacher Sternpapier);</p>
+            <p>VS: 6560 bis Ende 1. Akt, G schw. Tinte, mit Blei als erledigt gestr., darunter John
+               schw. Tinte 70807089 Var, mit Tinte als erledigt gestr.;</p>
+            <p>RS: John 7117f. Var, Spatium, 7122ff. Var, 71317139 Var; mit Blei als erledigt
+               gestrichen</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> IH56 Unter der Sigle I H56 hat Schmidt 6 Folioblätter zusammengefaßt, die _ mit
+               einigen Lücken _ zum großen Teil eigenhändige Niederschriften der Verse 6415-7139
+               enthalten. </p>
+            <p>Blatt 1, VS: G schw. Tinte 6415-6438 Var, mit Blei als erledigt gestr.; ca. 5
+               verlöschte Bleizeilen; RS: leer.</p>
+            <p>Blatt 2, VS: G schw. Tinte 6439-6440, 6449-6462, mit Blei als erledigt gestr.; RS:
+               leer.</p>
+            <p>Blatt 3, VS: G schw. Tinte 6463-6472, mit Blei als erledigt gestr.; RS: G schw. Tinte
+               6487-6501 mit Sofortkorrekturen; G Blei Szenar.</p>
+            <p>Blatt 4, VS: G schw. Tinte 6506-6524, mit Tinte als erledigt gestr.; RS: leer.</p>
+            <p>Blatt 5, VS: G schw. Tinte 6541-6549, 6558f. Var, mit Blei als erledigt gestr.;
+               darunter verlöschte Bleispuren; RS: G Blei Briefkonzept _ an König Ludwig I, 29. 8.
+               1829, 1. Fassung.</p>
+            <p>Blatt 5 (das ehemals mit I H57 zu einem Foliobogen gehörte) läßt sich anhand des
+               Briefkonzepts auf einen Zeitpunkt ab dem 29. 8. 1829 datieren. Fischer-Lamberg (S.
+               68) stellt in bezug auf die Datierung der oben dokumentierten Verse auf Blatt6 zum 2.
+               Akt fest: "Das Konzept des Briefes an den König Ludwig kann zur Datierung der Verse
+               aus dem 2. Akt auf Bl. 6 zunächst nur mit Vorbehalt verwendet werden. Da aber die vor
+               I H56 liegende Handschrift II H9 +28. 11. 1829 zu datieren ist, und dieser terminus
+               post quem also auch für I H56 gilt, so sind diese Bedenken hinfällig."</p>
+            <p>Die hier wiedergegebene Niederschrift zu der Szene zwischen Mephistopheles und den
+               Sphinxen auf Blatt 6 wird also Ende 1829/Anfang 1830 entstanden sein; am 17.Januar
+               ist diese Szene bereits im wesentlichen abgeschlossen. (Zur Entstehungsgeschichte
+               vgl. hier S. 395f.) Den Beginn dieser von der endgültigen Fassung noch erheblich
+               abweichenden Reinschrift (Z. 1-14) hat bereits Strehlke (S. 87f.) in seine Edition
+               der Paralipomena aufgenommen; er folgt den teilweise irrtümlichen Lesungen der WA (Z.
+               2: "sonst so", Z. 7 "Im ältsten", Z. 9: "Du brauchst führwahr dich nicht zu
+               übersetzen", Z. 14 "Sprich nur dich selbst das wird") und fügt einen eigenen Fehler
+               hinzu (Z. 12 "Gieb mir").</p>
+            <p>Das Blatt demonstriert Goethes `Lückentechnik' auf der Ebene der Verse: Die Punkte in
+               Z. 4 und 5 markieren noch fehlende Verszeilen, die Goethe nachträglich ergänzen
+               wollte. </p>
+            <p>Nachlaßstücke Zweiter Teil, Akt 2</p>
+            <p>
+               <b>II H15 (P133)</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,28*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Hab ich noch Augen?</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>6502-6505</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6487-6524</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2555</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,28*e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>In welcher Sprache weis doch</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>7117-7139</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2568</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,28</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1829/1830</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1829; 1830; 18290829</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,12</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.56</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30b">Schrift (Zusatzfeld für Indizierung)</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="61b">weiterer Druckort in WA (Verknüpfungskategorie) (unscharf)</f:key>
+            <f:value>IV 46,64-65</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Bayern, Ludwig I. König von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>6</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Brief an König Ludwig I. von Bayern, 29.8.1829, WA IV 46,64-65, Konzept egh =
+               früheres Konzept im Vgl. mit dem Briefkonzept auf I H.57</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Arbeitsmundum; zur Datierung vgl. Bohnenkamp, S.479; verlöschte Bleizeilen
+               auf Bl 1 und 5</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1140</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2969</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,28*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Empfangt mit Ehrfurcht</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>6441-6448</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6415-6472</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3275</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,28*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Nicht Knabe mehr! Ein kühner Heldenmann</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>6550-6557</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6541-6565</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3415</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,28*d</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Und wie ich stürmend hin und wieder schweife</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>7080-7089</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3847</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

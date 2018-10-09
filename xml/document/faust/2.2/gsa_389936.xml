@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389936/">
+   <revisionDesc>
+      <change when="2013-01-07" who="henzel">imported</change>
+      <change when="2013-01-08" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>am oberen Rand [über den Versen] beschnittenes Blatt; dabei: nicht bestimmter Text egh: "Nichts bekehrendes Nichts belehrendes Nichts erheiterndes Nichts forderndes Nichts erweiterndes"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.53</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,18</idno>
+      <idno type="gsa_2">GSA 25/W 1545</idno>
+      <idno type="gsa_ident">389936</idno>
+      <idno type="wa_faust">2 II H.53</idno>
+      <textTranscript uri="389936.xml"/>
+      <classification>Konzept</classification> 
+      <condition>verwischte Tinte</condition>
+      <dimensions>
+         <width unit="mm">195</width>
+         <height unit="mm">90</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 167 mm. Der Mindestwert der Blatt-Höhe beträgt 87 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <note>Schnittkante oben, Risskante rechts</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graubräunlich</paperColour>
+      <chainLines unit="mm">30</chainLines>
+      <watermarkID>none</watermarkID>
+      <!-- TODO nochmals pruefen, ob eventuell doch Buchstaben als Wz -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 52</reference>
+         <reference type="text" uri="faust://bibliography/fischer-lamberg1955">S. 52</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 52f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

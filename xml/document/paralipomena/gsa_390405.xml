@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390405/">
+<revisionDesc>
+   <change when="2012-11-27" who="henzel">imported</change>
+   <change when="2012-11-27" who="henzel">encoded</change>
+   <change when="2015-01-30" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf, möglicherweise zu ‚Faust II‘, Akt 1.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P75</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,5</idno>
+      <idno type="gsa_2">GSA 25/W 1746</idno>
+      <idno type="gsa_ident">390405</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P75</idno>
+      <!-- P75 -->
+      <idno type="hecker">143</idno>
+      <!-- P76 -->
+      <idno type="hecker">144</idno>
+      <!-- P77 -->
+      <idno type="hecker">145</idno>
+      <textTranscript uri="390405.xml"/>
+      <classification>Sammelblatt</classification>
+      <condition>Tintenfraß</condition>
+      <dimensions>
+         <width unit="mm">173</width>
+         <height unit="mm">80</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 73 mm.</note>
+      <format>none</format>
+      <!-- Streifen, rechts abgetrennt -->
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 182</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 193</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 182</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 193</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 569</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 193</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase; = oben nach der Beschriftung abgerissener Streifen; zur Datierung vgl. Bohnenkamp, S.193</f:bemerkung>
+      <f:datierung>1797/1798 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Auch dieses Sammelblatt entspricht in Papier und Schrift den Abschriften Geists im Zusammenhang mit dem Nummernschema von 1797/98; die fehlende Signatur könnte auf der abgerissenen oberen Hälfte des Blattes gestanden haben. Inhaltlich lassen sich die hier versammelten Fragmente auf die Nummer 20 des `Faust'-Plans beziehen: Wie P66 (auf H P65, hier S. 189) gehören diese Bruchstücke in den Zusammenhang des geplanten Auftritts der beiden Protagonisten am Hofe des Kaisers.</p>
+            <p>Z. 1f. <b>(P75)</b>: Mephisto zu Faust? Im Sinne von P70-74, vgl. hier S. 114f.</p>
+            <p>Z. 3-6 <b>(P76)</b>: Verschiedene Hofleute über den als Zauberer auftretenden Faust? Der Kommentar Strehlkes ("Urteil des Kämmerers [oder Hofmanns] über Faust, der, von den Müttern kommend, sich ohne Weiteres in die Versammlung einführt", S. 69) vernachlässigt die entstehungsgeschichtlichen Zusammenhänge; Fausts Gang zu den Müttern war um die Jahrhundertwende noch nicht geplant. (Vgl. mein Kapitel zur Entstehungsgeschichte des 1. Akts, hier S. 289f.)</p>
+            <p>Z. 7f. <b>(P77)</b>: Mephisto zu Faust über den Kaiser, der seinerseits sich im Gespräch mit Faust als geistreicher Mann zeigen will? (Witkowski, S. 440) Vielleicht auch: Faust zu Mephisto bezogen auf den Hofnarren, dessen Rolle Mephisto spielt (Harnack, S.580), oder Faust zu Mephisto über den eigentlichen Leibarzt?</p>
+            <p>Z. 8 dir die] WA: "die die". </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

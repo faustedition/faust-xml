@@ -1,0 +1,966 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">Testhandschrift</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/test/test.xml--><msIdentifier><repository>Freies Deutsches Hochstift, Frankfurt am Main</repository><idno type="fdh_frankfurt">Testhandschrift</idno></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <profileDesc>
+            <listTranspose>
+                    <transpose>
+                        <ptr target="#innerhalb"/>
+                        <ptr target="#eines"/>
+                    </transpose>
+                    <transpose>
+                        <ptr target="#transp_2_l11637"/>
+                        <ptr target="#transp_1_l11637"/>
+                    </transpose>
+                    <transpose>
+                        <ptr target="#erster"/>
+                        <ptr target="#zweiter"/>
+                    </transpose>
+                    <transpose>
+                        <ptr target="#hierher"/>
+                        <ptr target="#anchor_hierher"/>
+                    </transpose>
+                    <transpose xml:id="ein-sie">
+                        <ptr target="#ein-Ziel"/>
+                        <ptr target="#fuerSie"/>
+                    </transpose>
+                    <!-- posthum -->
+                    <transpose change="#posthumous">
+                        <ptr target="#innerhalbposth"/>
+                        <ptr target="#einesposth"/>
+                    </transpose>
+                    <transpose change="#posthumous">
+                        <ptr target="#transp_2_l11637posth"/>
+                        <ptr target="#transp_1_l11637posth"/>
+                    </transpose>
+                    <transpose change="#posthumous">
+                        <ptr target="#ersterposth"/>
+                        <ptr target="#zweiterposth"/>
+                    </transpose>
+                    <transpose change="#posthumous">
+                        <ptr target="#hierherposth"/>
+                        <ptr target="#anchor_hierherposth"/>
+                    </transpose>
+                    <transpose change="#posthumous" xml:id="ein-sieposth">
+                        <ptr target="#ein-Zielposth"/>
+                        <ptr target="#fuerSieposth"/>
+                    </transpose>
+                    <transpose change="#posthumous">
+                        <ptr target="#sp2"/>
+                        <ptr target="#sp1"/>
+                    </transpose>
+                </listTranspose>
+            <creation>
+                
+                <listChange>
+                    <change type="bondedVar" xml:id="verband_l_5139"/>
+                    <change type="phase" xml:id="posthumous"/>
+                </listChange>
+            </creation>
+            <handNotes>
+                <handNote xml:id="g">Goethe (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="g_t">Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="g_t_lat">Goethe (ink - latin)</handNote>
+                <handNote xml:id="g_t_gr">Goethe (ink - greek)</handNote>
+                <handNote xml:id="g_tr">Goethe (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="g_tr_lat">Goethe (ink red/brown - latin)</handNote>
+                <handNote xml:id="g_tr_gr">Goethe (ink red/brown - greek)</handNote>
+                <handNote xml:id="g_bl">Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="g_bl_lat">Goethe (pencil - latin)</handNote>
+                <handNote xml:id="g_bl_gr">Goethe (pencil - greek)</handNote>
+                <handNote xml:id="g_ro">Goethe (ruddle - Schrift)</handNote>
+                <handNote xml:id="g_ro_lat">Goethe (ruddle - latin)</handNote>
+                <handNote xml:id="g_ro_gr">Goethe (ruddle - greek)</handNote>
+                <handNote xml:id="g_ko">Goethe (charcoal - Schrift)</handNote>
+                <handNote xml:id="g_ko_lat">Goethe (charcoal - latin)</handNote>
+                <handNote xml:id="g_ko_gr">Goethe (charcoal - greek)</handNote>
+                <handNote xml:id="g-o-ri_bl">Goethe oder Riemer (pencil – Schrift)</handNote>
+                <handNote xml:id="g-o-ri_bl_lat">Goethe oder Riemer (pencil – latin)</handNote>
+                <handNote xml:id="aj_t">Anna Jameson (ink - Schrift)</handNote>
+                <handNote xml:id="aj_t_lat">Anna Jameson (ink - latin)</handNote>
+                <handNote xml:id="ec_t">Eckermann (ink - Schrift)</handNote>
+                <handNote xml:id="ec_t_lat">Eckermann (ink - latin)</handNote>
+                <handNote xml:id="ec_t_gr">Eckermann (ink - greek)</handNote>
+                <handNote xml:id="ec_tr">Eckermann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ec_tr_lat">Eckermann (ink red/brown - latin)</handNote>
+                <handNote xml:id="ec_tr_gr">Eckermann (ink red/brown - greek)</handNote>
+                <handNote xml:id="ec_bl">Eckermann (pencil - Schrift)</handNote>
+                <handNote xml:id="ec_bl_lat">Eckermann (pencil - latin)</handNote>
+                <handNote xml:id="ec_bl_gr">Eckermann (pencil - greek)</handNote>
+                <handNote xml:id="f_t">Färber (ink - Schrift)</handNote>
+                <handNote xml:id="f_t_lat">Färber (ink - latin)</handNote>
+                <handNote xml:id="gt_t">Geist (ink - Schrift)</handNote>
+                <handNote xml:id="gt_t_lat">Geist (ink - latin)</handNote>
+                <handNote xml:id="gt_t_gr">Geist (ink - greek)</handNote>
+                <handNote xml:id="gt_tr">Geist (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gt_tr_lat">Geist (ink red/brown - latin)</handNote>
+                <handNote xml:id="gt_tr_gr">Geist (ink red/brown - greek)</handNote>
+                <handNote xml:id="gt_bl">Geist (pencil - Schrift)</handNote>
+                <handNote xml:id="gt_bl_lat">Geist (pencil - latin)</handNote>
+                <handNote xml:id="gt_bl_gr">Geist (pencil - greek)</handNote>
+                <handNote xml:id="gh_t">Goechhausen (ink - Schrift)</handNote>
+                <handNote xml:id="gh_t_lat">Goechhausen (ink - latin)</handNote>
+                <handNote xml:id="gh_t_gr">Goechhausen (ink - greek)</handNote>
+                <handNote xml:id="gh_tr">Goechhausen (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gh_tr_lat">Goechhausen (ink red/brown - latin)</handNote>
+                <handNote xml:id="gh_tr_gr">Goechhausen (ink red/brown - greek)</handNote>
+                <handNote xml:id="gh_bl">Goechhausen (pencil - Schrift)</handNote>
+                <handNote xml:id="gh_bl_lat">Goechhausen (pencil - latin)</handNote>
+                <handNote xml:id="gh_bl_gr">Goechhausen (pencil - greek)</handNote>
+                <handNote xml:id="go_t">Goettling (ink - Schrift)</handNote>
+                <handNote xml:id="go_t_lat">Goettling (ink - latin)</handNote>
+                <handNote xml:id="go_t_gr">Goettling (ink - greek)</handNote>
+                <handNote xml:id="go_tr">Goettling (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="go_tr_lat">Goettling (ink red/brown - latin)</handNote>
+                <handNote xml:id="go_tr_gr">Goettling (ink red/brown - greek)</handNote>
+                <handNote xml:id="go_bl">Goettling (pencil - Schrift)</handNote>
+                <handNote xml:id="go_bl_lat">Goettling (pencil - latin)</handNote>
+                <handNote xml:id="go_bl_gr">Goettling (pencil - greek)</handNote>
+                <handNote xml:id="hd_t">Herder (ink - Schrift)</handNote>
+                <handNote xml:id="hd_t_lat">Herder (ink - latin)</handNote>
+                <handNote xml:id="hd_tr">Herder (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="hd_tr_lat">Herder (ink red/brown - latin)</handNote>
+                <handNote xml:id="jo">John (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="jo_t">John (ink - Schrift)</handNote>
+                <handNote xml:id="jo_t_lat">John (ink - latin)</handNote>
+                <handNote xml:id="kr_t">Kräuter (ink - Schrift)</handNote>
+                <handNote xml:id="kr_t_lat">Kräuter (ink - latin)</handNote>
+                <handNote xml:id="kr_t_gr">Kräuter (ink - greek)</handNote>
+                <handNote xml:id="kr_tr">Kräuter (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="kr_tr_lat">Kräuter (ink red/brown - latin)</handNote>
+                <handNote xml:id="kr_tr_gr">Kräuter (ink red/brown - greek)</handNote>
+                <handNote xml:id="kr_bl">Kräuter (pencil - Schrift)</handNote>
+                <handNote xml:id="kr_bl_lat">Kräuter (pencil - latin)</handNote>
+                <handNote xml:id="kr_bl_gr">Kräuter (pencil - greek)</handNote>
+                <handNote xml:id="m_t">Müller (ink - Schrift)</handNote>
+                <handNote xml:id="m_t_lat">Müller (ink - latin)</handNote>
+                <handNote xml:id="m_t_gr">Müller (ink - greek)</handNote>
+                <handNote xml:id="m_tr">Müller (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="m_tr_lat">Müller (ink red/brown - latin)</handNote>
+                <handNote xml:id="m_tr_gr">Müller (ink red/brown - greek)</handNote>
+                <handNote xml:id="m_bl">Müller (pencil - Schrift)</handNote>
+                <handNote xml:id="m_bl_lat">Müller (pencil - latin)</handNote>
+                <handNote xml:id="m_bl_gr">Müller (pencil - greek)</handNote>
+                <handNote xml:id="ovg_t">Ottilie von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="ovg_t_lat">Ottilie von Goethe (ink - latin)</handNote>
+                <handNote xml:id="re_bl">Reichel (pencil - Schrift)</handNote>
+                <handNote xml:id="re_bl_lat">Reichel (pencil - latin)</handNote>
+                <handNote xml:id="re_ro">Reichel (ruddle - Schrift)</handNote>
+                <handNote xml:id="re_ro_lat">Reichel (ruddle - latin)</handNote>
+                <handNote xml:id="re_t">Reichel (ink - Schrift)</handNote>
+                <handNote xml:id="re_t_lat">Reichel (ink - latin)</handNote>
+                <handNote xml:id="ri">Riemer (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="ri_t">Riemer (ink - Schrift)</handNote>
+                <handNote xml:id="ri_t_lat">Riemer (ink - latin)</handNote>
+                <handNote xml:id="ri_t_gr">Riemer (ink - greek)</handNote>
+                <handNote xml:id="ri_tr">Riemer (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ri_tr_lat">Riemer (ink red/brown - latin)</handNote>
+                <handNote xml:id="ri_tr_gr">Riemer (ink red/brown - greek)</handNote>
+                <handNote xml:id="ri_bl">Riemer (pencil - Schrift)</handNote>
+                <handNote xml:id="ri_bl_lat">Riemer (pencil - latin)</handNote>
+                <handNote xml:id="ri_bl_gr">Riemer (pencil - greek)</handNote>
+                <handNote xml:id="ri_ro">Riemer (ruddle - Schrift)</handNote>
+                <handNote xml:id="ri_ro_lat">Riemer (ruddle - latin)</handNote>
+                <handNote xml:id="st_t">Schuchardt (ink - Schrift)</handNote>
+                <handNote xml:id="st_t_lat">Schuchardt (ink - latin)</handNote>
+                <handNote xml:id="st_t_gr">Schuchardt (ink - greek)</handNote>
+                <handNote xml:id="st_tr">Schuchardt (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="st_tr_lat">Schuchardt (ink red/brown - latin)</handNote>
+                <handNote xml:id="st_tr_gr">Schuchardt (ink red/brown - greek)</handNote>
+                <handNote xml:id="st_bl">Schuchardt (pencil - Schrift)</handNote>
+                <handNote xml:id="st_bl_lat">Schuchardt (pencil - latin)</handNote>
+                <handNote xml:id="st_bl_gr">Schuchardt (pencil - greek)</handNote>
+                <handNote xml:id="sd_t">Seidler (ink - Schrift)</handNote>
+                <handNote xml:id="sd_t_lat">Seidler (ink - latin)</handNote>
+                <handNote xml:id="so_t">Soret (ink - Schrift)</handNote>
+                <handNote xml:id="so_t_lat">Soret (ink - latin)</handNote>
+                <handNote xml:id="sp_t">Spiegel (ink - Schrift)</handNote>
+                <handNote xml:id="sp_t_lat">Spiegel (ink - latin)</handNote>
+                <handNote xml:id="sta_t">Stadelmann (ink - Schrift)</handNote>
+                <handNote xml:id="sta_t_lat">Stadelmann (ink - latin)</handNote>
+                <handNote xml:id="sta_t_gr">Stadelmann (ink - greek)</handNote>
+                <handNote xml:id="sta_tr">Stadelmann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sta_tr_lat">Stadelmann (ink red/brown - latin)</handNote>
+                <handNote xml:id="sta_tr_gr">Stadelmann (ink red/brown - greek)</handNote>
+                <handNote xml:id="sta_bl">Stadelmann (pencil - Schrift)</handNote>
+                <handNote xml:id="sta_bl_lat">Stadelmann (pencil - latin)</handNote>
+                <handNote xml:id="sta_bl_gr">Stadelmann (pencil - greek)</handNote>
+                <handNote xml:id="sti_t">Stieler (ink - Schrift)</handNote>
+                <handNote xml:id="sti_t_lat">Stieler (ink - latin</handNote>
+                <handNote xml:id="ve_t">Varnhagen von Ense (ink – Schrift)</handNote>
+                <handNote xml:id="v_t">Helene Vulpius (ink - Schrift)</handNote>
+                <handNote xml:id="v_t_lat">Helene Vulpius (ink - latin)</handNote>
+                <handNote xml:id="v_t_gr">Helene Vulpius (ink - greek)</handNote>
+                <handNote xml:id="v_tr">Helene Vulpius (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="v_tr_lat">Helene Vulpius (ink red/brown - latin)</handNote>
+                <handNote xml:id="v_tr_gr">Helene Vulpius (ink red/brown - greek)</handNote>
+                <handNote xml:id="v_bl">Helene Vulpius (pencil - Schrift)</handNote>
+                <handNote xml:id="v_bl_lat">Helene Vulpius (pencil - latin)</handNote>
+                <handNote xml:id="v_bl_gr">Helene Vulpius (pencil - greek)</handNote>
+                <handNote xml:id="we_t">Weller (ink - Schrift)</handNote>
+                <handNote xml:id="we_t_lat">Weller (ink - latin)</handNote>
+                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - Schrift)</handNote>
+                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - latin)</handNote>
+                <handNote xml:id="wo_t">Pius Alexander Wolff (ink - Schrift)</handNote>
+                <handNote xml:id="wo_t_lat">Pius Alexander Wolff (ink - latin)</handNote>
+                <handNote xml:id="wo_t_gr">Pius Alexander Wolff (ink - greek)</handNote>
+                <handNote xml:id="wo_tr">Pius Alexander Wolff (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="wo_tr_lat">Pius Alexander Wolff (ink red/brown - latin)</handNote>
+                <handNote xml:id="wo_tr_gr">Pius Alexander Wolff (ink red/brown - greek)</handNote>
+                <handNote xml:id="wo_bl">Pius Alexander Wolff (pencil - Schrift)</handNote>
+                <handNote xml:id="wo_bl_lat">Pius Alexander Wolff (pencil - latin)</handNote>
+                <handNote xml:id="wo_bl_gr">Pius Alexander Wolff (pencil - greek)</handNote>
+                <handNote xml:id="avg_t">August von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="avg_t_lat">August von Goethe (ink - latin)</handNote>
+                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink -
+                    Schrift)</handNote>
+                <handNote xml:id="wvg_t">Wolfgang von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="wvg_bl">Wolfgang von Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="sc">Schreiberhand (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="sc_bl">Schreiberhand (pencil - Schrift)</handNote>
+                <handNote xml:id="sc_bl_lat">Schreiberhand (pencil - latin)</handNote>
+                <handNote xml:id="sc_blau">Schreiberhand (blue pencil - Schrift)</handNote>
+                <handNote xml:id="sc_ro">Schreiberhand (ruddle - Schrift)</handNote>
+                <handNote xml:id="sc_ro_lat">Schreiberhand (ruddle - latin)</handNote>
+                <handNote xml:id="sc_t">Schreiberhand (ink - Schrift)</handNote>
+                <handNote xml:id="sc_t_lat">Schreiberhand (ink - latin)</handNote>
+                <handNote xml:id="sc_tr">Schreiberhand (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sc_tr_lat">Schreiberhand (ink red/brown - latin)</handNote>
+                <handNote xml:id="zs_t">Zeitgenössische Schrift (ink - Schrift)</handNote>
+                <handNote xml:id="zs_t_lat">Zeitgenössische Schrift (ink - latin)</handNote>
+                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown -
+                    latin)</handNote>
+                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown -
+                    greek)</handNote>
+                <handNote xml:id="zs_bl">Zeitgenössische Schrift (pencil - Schrift)</handNote>
+                <handNote xml:id="zs_bl_lat">Zeitgenössische Schrift (pencil - latin)</handNote>
+                <handNote xml:id="zs_bl_gr">Zeitgenössische Schrift (pencil - greek)</handNote>
+                <handNote xml:id="zs_ro">Zeitgenössische Schrift (ruddle - Schrift)</handNote>
+                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil -
+                    latin)</handNote>
+                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil -
+                    greek)</handNote>
+                <handNote xml:id="xx_t">Fremde Hand #1 (ink - Schrift)</handNote>
+                <handNote xml:id="xx_t_lat">Fremde Hand #1 (ink - latin)</handNote>
+                <handNote xml:id="xx_t_gr">Fremde Hand #1 (ink - greek)</handNote>
+                <handNote xml:id="xx_tr">Fremde Hand #1 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xx_tr_lat">Fremde Hand #1 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xx_tr_gr">Fremde Hand #1 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xx_bl">Fremde Hand #1 (pencil - Schrift)</handNote>
+                <handNote xml:id="xx_bl_lat">Fremde Hand #1 (pencil - latin)</handNote>
+                <handNote xml:id="xx_bl_gr">Fremde Hand #1 (pencil - greek)</handNote>
+                <handNote xml:id="xx_blau">Fremde Hand #1 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xx_blau_lat">Fremde Hand #1 (blue pencil - latin)</handNote>
+                <handNote xml:id="xx_blau_gr">Fremde Hand #1 (blue pencil - greek)</handNote>
+                <handNote xml:id="xx_ro">Fremde Hand #1 (ruddle - Schrift)</handNote>
+                <handNote xml:id="xx_ro_lat">Fremde Hand #1 (ruddle - latin)</handNote>
+                <handNote xml:id="xy_t">Fremde Hand #2 (ink - Schrift)</handNote>
+                <handNote xml:id="xy_t_lat">Fremde Hand #2 (ink - latin)</handNote>
+                <handNote xml:id="xy_t_gr">Fremde Hand #2 (ink - greek)</handNote>
+                <handNote xml:id="xy_tr">Fremde Hand #2 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xy_tr_lat">Fremde Hand #2 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xy_tr_gr">Fremde Hand #2 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xy_bl">Fremde Hand #2 (pencil - Schrift)</handNote>
+                <handNote xml:id="xy_bl_lat">Fremde Hand #2 (pencil - latin)</handNote>
+                <handNote xml:id="xy_bl_gr">Fremde Hand #2 (pencil - greek)</handNote>
+                <handNote xml:id="xy_blau">Fremde Hand #2 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xy_blau_lat">Fremde Hand #2 (blue pencil - latin)</handNote>
+                <handNote xml:id="xy_blau_gr">Fremde Hand #2 (blue pencil - greek)</handNote>
+                <handNote xml:id="xz_t">Fremde Hand #3 (ink - Schrift)</handNote>
+                <handNote xml:id="xz_t_lat">Fremde Hand #3 (ink - latin)</handNote>
+                <handNote xml:id="xz_t_gr">Fremde Hand #3 (ink - greek)</handNote>
+                <handNote xml:id="xz_tr">Fremde Hand #3 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xz_tr_lat">Fremde Hand #3 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xz_tr_gr">Fremde Hand #3 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xz_bl">Fremde Hand #3 (pencil - Schrift)</handNote>
+                <handNote xml:id="xz_bl_lat">Fremde Hand #3 (pencil - latin)</handNote>
+                <handNote xml:id="xz_bl_gr">Fremde Hand #3 (pencil - greek)</handNote>
+                <handNote xml:id="xz_blau">Fremde Hand #3 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xz_blau_lat">Fremde Hand #3 (blue pencil - latin)</handNote>
+                <handNote xml:id="xz_blau_gr">Fremde Hand #3 (blue pencil - greek)</handNote>
+            </handNotes>
+        </profileDesc>
+        <encodingDesc>
+            <charDecl>
+                <char xml:id="g_transp_1">
+                    <charName>TRANSPOSITION SIGN 1</charName>
+                    <desc>„Einweisungzeichen“ mit einem nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_2">
+                    <charName>TRANSPOSITION SIGN 2</charName>
+                    <desc>„Einweisungzeichen“ mit zwei nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_3">
+                    <charName>TRANSPOSITION SIGN 3</charName>
+                    <desc>Geschwungenes „Einweisungzeichen“.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_4">
+                    <charName>TRANSPOSITION SIGN 4</charName>
+                    <desc>Griechisches Kreuz (gleichschenklig und auf einer Spitze stehend).</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_5">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>Häkchen, ähnelt Einfügungslinie</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_6">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>rautenförmiges „Einweisungzeichen“</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_break">
+                    <charName>TEXT BREAK</charName>
+                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn
+                        eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt
+                        begann</desc>
+                    <mapping type="Unicode">[</mapping>
+                </char>
+                <char xml:id="parenthesis_left">
+                    <charName>LEFT PARENTHESIS</charName>
+                    <desc>In 18th century there were different ways to represent parentheses in
+                        handwritten documents. Then the token most often used (default symbol) was a
+                        vertical stroke combined with a colon. We want to be able to differentiate
+                        between this default representation, which we encode as normal parenthesis
+                        characters, and the very (same) characters, that are used today, and that
+                        also appear in documents of that time. Therefore we encode the contemporary
+                        representation of parantheses, if encountered in handwritten documents, as
+                        glyphs.</desc>
+                    <mapping type="Unicode">(</mapping>
+                </char>
+                <char xml:id="parenthesis_right">
+                    <charName>RIGHT PARENTHESIS</charName>
+                    <desc>See the description of LEFT PARANTHESIS.</desc>
+                    <mapping type="Unicode">)</mapping>
+                </char>
+                <char xml:id="truncation">
+                    <charName>TRUNCATION SIGN</charName>
+                    <desc>The suspension/truncation sign, in German known as
+                        “Abbrechungszeichen”.</desc>
+                    <mapping type="Unicode">.</mapping>
+                </char>
+            </charDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-07-18" who="wissenbach">manuell angelegt</change>
+            <change when="2014-09-02" who="bruening">etwas Material hinzugefügt</change>
+            <change when="2015-06-22" who="bruening">nested subst</change>
+            <change when="2015-06-24" who="bruening">Antilaben</change>
+            <change when="2017-05-21" who="bruening">posthum</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>Test-Handschriftentext (body/head)</head>
+            <div>
+                <head>Aus der Faust-Edition (body/div/head)</head>
+                <div>
+                    <head>Figurenreden (body/div/div/head)</head>
+                    <stage>Bühnenanweisung <hi>außerhalb (hi)</hi> einer Figurenrede.</stage>
+                    <sp>
+                        <speaker>Sprecherbezeichnung</speaker>
+                        <stage>Bühnenanweisung</stage>
+                        <stage>noch eine Bühnenanweisung</stage>
+                        <l>Gesprochener <emph>Vers</emph> (emph) gesprochener Vers</l>
+                    </sp>
+                    <sp>
+                        <speaker>Sprecherbezeichnung</speaker>
+                        <lg rend="indented">
+                            <l>Erste eingerückte Versgruppe</l>
+                            <l>Erste eingerückte Versgruppe</l>
+                        </lg>
+                        <lg rend="indented">
+                            <l>Zweite eingerückte Versgruppe</l>
+                            <l>Zweite eingerückte Versgruppe</l>
+                        </lg>
+                        <stage>dazwischenstehende stage</stage>
+                        <lg rend="indented">
+                            <l>Dritte eingerückte Versgruppe</l>
+                            <l>Dritte eingerückte Versgruppe</l>
+                        </lg>
+                    </sp>
+                    <sp>
+                        <speaker>Mephisto</speaker>
+                        <stage>spricht in Prosa</stage>
+                        <p>Absatz: Nun ſind wir ſchon wieder an der Gränze unſres Witzes, da wo euch
+                            Menſchen der Sinn überſchnappt. Warum machſt du Gemeinſchaft mit uns,
+                            wenn du ſie nicht durchführen kannſt? Willſt fliegen und biſt vorm
+                            Schwindel nicht ſicher? Drangen wir uns dir auf, oder du dich uns?</p>
+                        <p>folgender Absatz</p>
+                    </sp>
+                </div>
+                <div>
+                    <head>Antilaben</head>
+                    <stage>folgt eine mit @part kodierte Antilabe </stage>
+                    <sp>
+                        <speaker> Helena.</speaker>
+                        <l part="I" n="8925">Ich?</l>
+                    </sp>
+                    <sp>
+                        <speaker>Phorkyas.</speaker>
+                        <l part="M" n="8925">Und diese.</l>
+                    </sp>
+                    <sp>
+                        <speaker>Chor.</speaker>
+                        <l part="M" n="8925">Weh und Jammer!</l>
+                    </sp>
+                    <sp>
+                        <speaker>Phorkyas.</speaker>
+                        <l part="F" n="8925">Fallen wirst du durch das Beil.</l>
+                    </sp>
+                    <stage>folgt eine mit xml:id und &lt;join&gt; kodierte Antilabe</stage>
+                    <sp>
+                        <speaker>Der Herr.</speaker>
+                        <l xml:id="Kennst-Faust" n="299">Kennst du den Faust?</l>
+                    </sp>
+                    <sp>
+                        <speaker>Mephistopheles.</speaker>
+                        <l xml:id="Den-Doktor" n="299">Den Doktor?</l>
+                    </sp>
+                    <sp>
+                        <speaker>Der Herr</speaker>
+                        <l xml:id="Meinen-Knecht" n="299">Meinen Knecht.</l>
+                        <join type="antilabe" target="#Kennst-Faust #Den-Doktor #Meinen-Knecht"/>
+                    </sp>
+                    <stage>folgte eine @part-Antilabe ohne Verszählung</stage>
+                    <sp>
+                        <speaker>Helena.</speaker>
+                        <l part="I">Ich?</l>
+                    </sp>
+                    <sp>
+                        <speaker>Phorkyas.</speaker>
+                        <l part="M">Und diese.</l>
+                    </sp>
+                    <sp>
+                        <speaker>Chor.</speaker>
+                        <l part="M">Weh und Jammer!</l>
+                    </sp>
+                    <sp>
+                        <speaker>Phorkyas.</speaker>
+                        <l part="F">Fallen wirst du durch das Beil.</l>
+                    </sp>
+                </div>
+                <div>
+                    <head>Tabelle</head>
+                    <table>
+                        <row>
+                            <cell role="label">Germanen</cell>
+                            <cell role="data">Corint</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Gothen</cell>
+                            <cell role="data">Argos</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Franken</cell>
+                            <cell role="data">Elis</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Sachsen</cell>
+                            <cell role="data">Meſſene</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Normannen</cell>
+                            <cell role="data">Mantinea</cell>
+                        </row>
+                    </table>
+                </div>
+                <div>
+                    <head>Editorisches</head>
+                    <l><choice>
+                            <abbr>Abk.</abbr>
+                            <expan>Abkürzungen</expan>
+                        </choice> werden nicht aufgelöſt.</l>
+                    <l>Editorische Er<supplied>g</supplied>änzung.</l>
+                    <l>Nicht markierte Umlaute werden nicht umgesetzt, bleiben <orig>a</orig>,
+                            <orig>o</orig>, <orig>u</orig>.</l>
+                    <l>Die Lesung ist <unclear cert="high">unsicher (wahrscheinlich)</unclear>.</l>
+                    <l>Die Lesung ist <unclear cert="low">unsicher (möglich)</unclear>.</l>
+                    <l>Ein unlesbarer Buchstabe: <gap unit="chars" quantity="1"/>.</l>
+                    <l>Zwei unlesbare Buchstaben: <gap unit="chars" quantity="2"/> (usw.).</l>
+                    <l>Nicht genau bestimmte Anzahl unlesbarer Buchstaben: <gap unit="chars" quantity="7" precision="medium"/></l>
+                    <l>Unlesbare Stelle ohne Angabe des Umfangs: <gap/>.</l>
+                    <l>Eine markierte oder erschlossene Lücke zwischen diesem …</l>
+                    <space/>
+                    <l>… und dem folgenden Vers oder Absatz.</l>
+                    <l>Eine markierte oder erschlossene <space/> innerhalb eines Verses oder
+                        Absatzes.</l>
+                    <l>Textverlust (ganze Verse):</l>
+                    <damageSpan/>
+                    <l>Besch<damage>ä</damage>digung innerhalb eines Verses oder Absatzes ohne
+                        Textverlust oder mit su<damage><supplied>pp</supplied></damage>liertem
+                        Textverlust.</l>
+                </div>
+
+                <div>
+                    <head>Varianten</head>
+                    <sp>
+                        <l>Dies ist eine <add>einfache</add> Hinzufügung.</l>
+                        <l><add>Eine Hinzufügung <add>in der</add> Hinzufügung.</add></l>
+                        <stage>Hinzufügung in einer Lücke</stage>
+                        <l><add place="inspace">Unbezwinglich unſer</add> Muth</l>
+                        <l>Dies ist eine <del>einfache</del> Tilgung.</l>
+                        <stage>Sofortrevision</stage>
+                        <l>Eine <del f:revType="instant">Sofortkorr</del> Sofortrevision.</l>
+                        <stage>Aufeinanderfolgende Sofortrevisionen</stage>
+                        <l>Im Anfang war <del f:revType="instant">das Wort</del>
+                            <del f:revType="instant">der Sinn</del>
+                            <del f:revType="instant">die Kraft</del> die Tat</l>
+                        <l><del>Eine äußere und eine <del>innere</del> Tilgung.</del></l>
+                        <l>Dies ist eine <subst>
+                                <del>simple</del>
+                                <add>einfache</add>
+                            </subst> Ersetzung.</l>
+                        <stage>Ersetzung mit //del[@f:revType="instant"]:</stage>
+                        <l>Eine <subst>
+                                <del f:revType="instant">Sofortkorrektur</del>
+                                <add>Sofortrevision</add>
+                            </subst>.</l>
+                        <stage>Eine kürzere Ersetzung in einer <hi>Tilgung</hi> in einer
+                            Ersetzung</stage>
+                        <l>Eine <subst>
+                                <del>ganz <subst>
+                                        <del>simple</del>
+                                        <add>einfache</add>
+                                    </subst></del>
+                                <add>zweifache</add>
+                            </subst> Ersetzung.</l>
+                        <stage>Eine kürzere Ersetzung in einer <hi>Hinzufügung</hi> in einer
+                            Ersetzung</stage>
+                        <l>Feuer blicke, <subst>
+                                <del>nicht ſeh ichs gerne</del>
+                                <add>ſeh ich <subst>
+                                        <del>blitzen</del>
+                                        <add>ſprühen</add>
+                                    </subst></add>
+                            </subst></l>
+                        <l>Eine <subst>
+                                <del><subst>
+                                        <del>simple</del>
+                                        <add>einfache</add>
+                                    </subst></del>
+                                <add>zweifache</add>
+                            </subst> Ersetzung.</l>
+                        <stage>Vollständig rückgängig gemachte Tilgung.</stage>
+                        <stage>Richtige nesting order:</stage>
+                        <l>Eine <del><restore>rückgängig gemachte</restore></del> Tilgung.</l>
+                        <stage>Häufigere nesting order:</stage>
+                        <l>Eine <del><restore>rückgängig gemachte</restore></del> Tilgung.</l>
+                        <stage>teilweise zurückgenommene Tilgung</stage>
+                        <l>Es hat <del><restore>wohl</restore> ſeinen</del> Anfang</l>
+                        <stage>rückgängig gemachte Ersetzung</stage>
+                        <stage>TEI-konforme nesting order:</stage>
+                        <l>Eine <subst>
+                                <del><restore>rückgängig</restore></del>
+                                <add><del>ungültig</del></add>
+                            </subst> gemachte Ersetzung.</l>
+                        <stage>häufigere nesting order:</stage>
+                        <l>Eine <subst>
+                                <del><restore>rückgängig</restore></del>
+                                <add><del>ungültig</del></add>
+                            </subst> gemachte Ersetzung.</l>
+                        <stage>von früher her auch ohne zweites del:</stage>
+                        <l>Eine <restore><subst>
+                                    <del>rückgängig</del>
+                                    <add>ungültig</add>
+                                </subst></restore> gemachte Ersetzung.</l>
+                        <!--<stage>kombiniert</stage>
+                    <l>Aber was <restore><del>ich</del></restore> nicht <subst>
+                            <restore><del>begreife</del></restore>
+                            <del><add>zu begreifen</add></del>
+                        </subst></l>-->
+                        <stage>sofort zurückgenommene Ersetzung</stage>
+                        <l><subst>
+                                <del><restore>Von</restore></del>
+                                <add><del f:revType="instant">Bewährt</del></add>
+                            </subst> altem Teufelsſchrot und Korne</l>
+                        <stage>Illegal: nur teilweise rückgängig gemachte Ersetzung</stage>
+                        <l n="8948">Die Mädchen <subst>
+                                <del>Welken wie gemähtes <restore>Wieſengras</restore></del>
+                                <add>welken gleich gemähtem <del>Wieſenheu</del></add>
+                            </subst><add>;</add></l>
+                    </sp>
+                    <sp>
+                        <speaker>addSpan</speaker>
+                        <addSpan spanTo="#addSpan"/>
+                        <l>Erster und …</l>
+                        <l>… zweiter gemeinsam hinzugefügter Vers.</l>
+                        <anchor xml:id="addSpan"/>
+                    </sp>
+                    <sp>
+                        <speaker>delSpan</speaker>
+                        <delSpan spanTo="#delSpan"/>
+                        <l>Erster und …</l>
+                        <l>… zweiter gemeinsam getilgter Vers.</l>
+                        <anchor xml:id="delSpan"/>
+                    </sp>
+                    <sp>
+                        <speaker>Transposition</speaker>
+                        <stage>phrase-level, im selben chunk …</stage>
+                        <stage>… benachbart:</stage>
+                        <l>Umstellung <seg xml:id="eines">eines</seg>
+                            <seg xml:id="innerhalb">innerhalb</seg> Verses.</l>
+                        <stage>… nicht benachbart:</stage>
+                        <l n="11637">Ihr Herrn vom <seg xml:id="transp_1_l11637">krummen-</seg> und
+                            vom <seg xml:id="transp_2_l11637">graden</seg> Horne</l>
+                        <stage>auf block-level</stage>
+                        <l xml:id="zweiter">Am Ende der zweite Vers</l>
+                        <l xml:id="erster">Am Ende der erste Vers</l>
+                        <stage>Platzwechsel einer Phrase ohne Gegenstück:</stage>
+                        <l>Wort eines Verses an das Ende dieses Verses: <anchor xml:id="anchor_hierher"/></l>
+                        <l><seg xml:id="hierher">hierher</seg> verlegt aus dem folgenden</l>
+                    </sp>
+                    <sp>
+                        <speaker>zurückgenommene Umstellung</speaker>
+                        <l n="7121">Das wäre hier <seg xml:id="fuerSie">für ſie</seg>
+                            <seg xml:id="ein-Ziel">ein würdiges Ziel</seg>
+                            <undo target="#ein-sie"/>.</l>
+                    </sp>
+                    <sp>
+                        <speaker>Monierung</speaker>
+                        <l>Mein <seg f:questionedBy="#ri">Leit</seg> ertönt</l>
+                    </sp>
+                    <sp>
+                        <speaker>Alternativen (tei:alt)</speaker>
+                        <l>Umworben gleich von auserleſner Helden <alt mode="excl" target="#Chor #Schaar"/><seg xml:id="Chor">Chor</seg>
+                            <seg xml:id="Schaar">Schaar</seg></l>
+                    </sp>
+                    <sp>
+                        <speaker>Zusammenhängende Änderungen</speaker>
+                        <l><add change="#verband_l_5139">Aber</add> Mancher <del change="#verband_l_5139">Schönen</del> zu gefallen</l>
+                    </sp>
+                </div>
+                <div>
+                    <head>Varianten (posthum)</head>
+                    <sp>
+                        <l>Dies ist eine <add change="#posthumous">einfache</add> Hinzufügung.</l>
+                        <l>Dies ist eine <del change="#posthumous">einfache</del> Tilgung.</l>
+                        <l>Dies ist eine <subst change="#posthumous">
+                                <del>simple</del>
+                                <add>einfache</add>
+                            </subst> Ersetzung.</l>
+                    </sp>
+                    <sp>
+                        <speaker>addSpan (posthum)</speaker>
+                        <addSpan spanTo="#addSpanposth" change="#posthumous"/>
+                        <l>Erster und …</l>
+                        <l>… zweiter gemeinsam hinzugefügter Vers.</l>
+                        <anchor xml:id="addSpanposth"/>
+                    </sp>
+                    <sp>
+                        <speaker>delSpan (posthum)</speaker>
+                        <delSpan spanTo="#delSpanposth" change="#posthumous"/>
+                        <l>Erster und …</l>
+                        <l>… zweiter gemeinsam getilgter Vers.</l>
+                        <anchor xml:id="delSpanposth"/>
+                    </sp>
+                    <sp>
+                        <speaker>Transposition (posthum)</speaker>
+                        <stage>phrase-level, im selben chunk …</stage>
+                        <stage>… benachbart:</stage>
+                        <l>Umstellung <seg xml:id="einesposth">eines</seg>
+                            <seg xml:id="innerhalbposth">innerhalb</seg> Verses.</l>
+                        <stage>… nicht benachbart:</stage>
+                        <l n="11637">Ihr Herrn vom <seg xml:id="transp_1_l11637posth">krummen-</seg>
+                            und vom <seg xml:id="transp_2_l11637posth">graden</seg> Horne</l>
+                        <stage>auf block-level</stage>
+                        <l xml:id="zweiterposth">Am Ende der zweite Vers</l>
+                        <l xml:id="ersterposth">Am Ende der erste Vers</l>
+                        <stage>Platzwechsel einer Phrase ohne Gegenstück:</stage>
+                        <l>Wort eines Verses an das Ende dieses Verses: <anchor xml:id="anchor_hierherposth"/></l>
+                        <l><seg xml:id="hierherposth">hierher</seg> verlegt aus dem folgenden</l>
+                    </sp>
+                    <stage>Transposition of two speeches (posthumous):</stage>
+                    <sp xml:id="sp1">
+                        <p>content of the speech sp1 (originally the first one)</p>
+                    </sp>
+                    <sp xml:id="sp2">
+                        <p>content of the speech sp2 (originally the second one)</p>
+                    </sp>
+                    <sp>
+                        <speaker>zurückgenommene Umstellung (posthum)</speaker>
+                        <l n="7121">Das wäre hier <seg xml:id="fuerSieposth">für ſie</seg>
+                            <seg xml:id="ein-Zielposth">ein würdiges Ziel</seg>
+                            <undo target="#ein-sieposth"/>.</l>
+                    </sp>
+                </div>
+            </div>
+            <div n="14" type="textsegment" xml:id="sgm14">
+                <!-- ab hier Woolf Diachronic Markup  -->
+                <!-- Faust-Markup -->
+                <!-- <pb n="1"/> -->
+                <dateline>(<abbr>Nov.</abbr> 17th)</dateline>
+                <p>
+                    <del f:revType="instant">The reserve between</del>
+                    <del f:revType="instant">Thoby then, was</del>
+                    <del f:revType="instant">The reserve which</del>
+                </p>
+                <!-- alle 3 Ansätze würde ich in eine <p> stecken (statt in 2) - ob neuer Ansatz auf nächster Zeile erfolgt oder in selber, ist dabei ohne Belang -->
+                <p><del f:revType="instant">We never spoke of this to each other;</del></p>
+                <p>
+                    <del f:revType="instant">During those unhappy years</del>
+                    <del f:revType="instant">we never spok</del>
+                </p>
+                <p>
+                    <!-- hier ist mir überhaupt nicht klar, welche Sofortrevisionen eine Einheit bilden und wo die jeweils nächste einsetzt, jedenfalls würde ich hier nicht nach Länge und Umfang der Durchstreichung gehen -->
+                    <del f:revType="instant">All this -</del>
+                    <del f:revType="instant">Vanessas</del> But we never spoke, during those unhappy
+                    years, of <del f:revType="instant">this</del>
+                    <del f:revType="instant">what was made </del>
+                    <del f:revType="instant">them, to this</del>
+                    <del f:revType="instant">"being in love".</del> of these scenes; Thoby, I
+                    imagine, may have had some vague conception that something, as I think he would
+                    have put it, was up between Jack &amp; Vanessa. But his general attitude was
+                        <del f:revType="instant">rather</del> aloof, &amp; <add f:revType="soon-or-late" change="#lay_1">judicial.</add> conventional:
+                        <del f:revType="instant">that is, he</del> From his remote station, as a
+                    schoolboy, as an undergraduate, he <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>saw</del>
+                        <add>felt</add>
+                    </subst> us <del f:revType="soon-or-late" change="#lay_1">in the traditional
+                        position:</del>
+                    <add f:revType="soon-or-late" change="#lay_1">
+                        <sic>generaly</sic>
+                        <corr resp="#hwg">generally</corr>
+                        <corr resp="#hwg"/>
+                    </add><!-- 2. corr warum? --> allied by the old ties: <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>sisters who</del>
+                        <add>we</add>
+                    </subst><!-- wurde das "we" später erst dazugeschrieben? (nach Streichung von "who") -->
+                    should accept our place: if George wanted us to go to parties, why not? If
+                    father wanted us to walk with him, why not? Once, at Salisbury, when the Fishers
+                    were our neighbours, &amp; Vanessa, detesting Aunt Mary, who had most viciously
+                    intervened, <del f:revType="instant">with</del> writing surreptitious letters
+                    addressed to Copes School, in the chronic warfare between Vanessa &amp; Jack,
+                    Vanessa &amp; George, refused to visit <del f:revType="instant">, &amp;</del>
+                    <del f:revType="instant">cut the</del> them &amp; cut them in the street, he
+                    made one of his rare impressive <del f:revType="instant">cont</del> statements:
+                        <del f:revType="instant">it was</del>
+                    <add f:revType="soon-or-late" change="#lay_1">Gruffly <del resp="#kh" change="#lay_1"><surplus>he said</surplus></del></add>
+                    <!--  <choice xml:id="d1e8475">
+                        <sic>
+                        <add change="#lay_1" rendition="#add_inter">Gruffly he said</add>
+                        <del>it was</del> he said </sic>
+                        <corr resp="#hwg">Gruffly he said</corr>
+                        </choice>
+                        <note resp="#hwg" target="#d1e8475">Enote</note> -> wurde mit surplus aufgelöst -->he
+                    said it was not right to treat Aunt Mary like that. <space/><!-- ___ -->
+                    <del f:revType="instant">How little he knew.</del>
+                </p>
+                <p>It thus came about that Nessa &amp; I formed together <del f:revType="instant">a
+                        v</del> a very close<del f:revType="instant">,</del> conspiracy.<space/><del f:revType="instant">During those years the</del><space/><del f:revType="instant">In that large house,</del>
+                    <del f:revType="instant">the parties</del><!-- mir nicht klar, ob diese Tilgung zur vorigen dazugehört oder eigenständig ist (müsste dann mit "T" beginnen?) --><space/>
+                    <del f:revType="soon">Even if we were silent about her affair with Jack, <del f:revType="instant">it was</del> that wa<supplied evidence="internal">s</supplied> the only reserve we had.</del><!-- scheint mir klar eine Baldrevision zu sein, die nach einer Sofortrevision abschnittweise erfolgte -->
+                    <space/>In that world of many men, <del f:revType="instant">we were the
+                        two</del> coming &amp; going, we formed <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>the</del>
+                        <add>our private</add>
+                    </subst> nucleus. There we were <!-- <pb n="2"/> --> alone, with father all day;
+                    in the evening, Adrian would come back from Westminster; then Jack from Lincolns
+                    Inn; then Gerald from Dents or Henrietta House; then George from the Post office
+                    or the Treasury. <del f:revType="instant">&amp; in the holidays Thoby
+                        would</del> Thoby would be at Clifton or at Cambridge.<space/>The staple day
+                    would be a day spent together. And therefore we made together a <add f:revType="soon-or-late" change="#lay_1">small</add> world inside the big
+                    world. We had an alliance that was so knit together that everything <del f:revType="instant">w</del> (with the exception of Jack perhaps) was seen
+                    from the same angle; <del f:revType="instant">by</del>
+                    <mod rend="strikethrough">o</mod> &amp; took its shape from our own vantage points.<space/> Very
+                    soon after Stella's death we <del f:revType="instant">had</del> saw life as a
+                        <del f:revType="uncertain">perpetual</del><!-- Zeit nicht eindeutig -->
+                    struggle to <del f:revType="instant">make our<!-- Sofort --></del> get some kind
+                    of standing <add f:revType="soon-or-late" change="#lay_1">place</add> for
+                    ourselves in this bewildering, <alt target="#add1 #add2" mode="excl"/><add f:revType="soon-or-late" change="#lay_1"><seg xml:id="add1">baffling</seg><seg xml:id="add2"><unclear cert="high" resp="#hwg">b</unclear><gap quantity="8" unit="chars" precision="medium"/>.</seg></add><!-- scheint mir eine Alternativbelegung zu sein -->
+                    <del f:revType="soon-or-late" change="#lay_1">always changing, almost always
+                            <del f:revType="instant">per</del> d</del> We were always battling for
+                    that which was always being interfered with, snuffled up, snatched away. The
+                    most imminent obstacle &amp; <del f:revType="instant">pr</del> burden was of
+                    course father. How could we, to take a c<unclear cert="low">oncrete</unclear>
+                    case, arrange that he should be out when perhaps Kitty Maxse, perhaps Katie
+                    Thynne came to tea? How could we escape Mr Bryce? Must I spend the afternoon
+                    walking round Kensington Garden? Could we possibly arrange to take our friends
+                    straight up to the Studio (the day nursery) <del f:revType="instant">without</del> Then, <del f:revType="instant">what</del>
+                    <del f:revType="instant">how could</del> what could we talk about at luncheon?
+                    Could we avoid Brighton at Easter? Must we be in because Aunt Mary was coming?
+                    Over the <add f:revType="soon-or-late" change="#lay_1">whole</add> week <add f:revType="soon-or-late" change="#lay_1">of these <unclear cert="high">scenes</unclear> &amp; <unclear cert="low">perpetuals</unclear></add>
+                    brooded the horror of Wednesday. On that day the weekly books were shown him. If
+                    they were over eleven pounds, that lunch was a torture. <del f:revType="uncertain">I waited outside the drawing room door.</del><add f:revType="soon-or-late" change="#lay_1">The books were
+                    presented</add><!-- möglicherweise del und add als subst, aber Tilgungszeit unklar -->
+                    Silence. He was putting on his glasses.<space/>A roar. He had read the
+                    figures.<space/>Then,<space/>"You are <!-- <pb n="3"/> -->ruining me<g>...</g>
+                    we are shooting Niagara<g>...</g>" But <add f:revType="soon-or-late" change="#lay_1">a roar of s<gap quantity="3" unit="chars" precision="medium"/><c xml:space="preserve"> </c><gap quantity="6" unit="chars" precision="medium"/><c xml:space="preserve"> </c><gap quantity="6" unit="chars" precision="medium"/></add> He beat his breast.
+                    Dropped his pen; &amp; indulged in one of these extraordinary exhibitions of
+                    self pity of self dramatisation. He was ruined. He was dyin<g>..</g> He was
+                        <surplus>He was</surplus> wrecked to the bone<g>...</g> Silence &amp;
+                    Vanessa par. "And you stand there like a block of stone...". <add f:revType="soon-or-late" change="#lay_1">He <choice>
+                            <abbr>wd</abbr>
+                            <expan>would</expan>
+                        </choice> shake all ove<g>..</g></add> So to a wild cry that he was
+                    deserted, that he was alone <g>...</g>
+                    <del f:revType="uncertain">that we had no sympathy for
+                    him.</del><!-- schwierige Stelle, scheint komplett der Teilsatz getilgt, wenn auch nur 2 Wörter gestrichen? -->
+                    That was of rage against her; of denunciation of her; which made my blood boil
+                        <del f:revType="uncertain">with
+                    rage:</del><!-- auch hier Zeitpunkt der Tilgung unklar --> my fingers tremble.
+                    Then another attitude. The cheque was signed <add f:revType="soon-or-late" change="#lay_1">with a deep groan<del resp="kh"><surplus>.</surplus></del></add>. He would shake &amp; quiver, <del f:revType="instant">representing (he was curiously dramatic) an old man
+                        ruined &amp; an old man <del f:revType="uncertain">cruelly</del>
+                            tortured<g>...</g> That over, he would sigh; subside; &amp; say, to me,
+                        for whom he had some pity, &amp;</del>
+                    <add f:revType="soon-or-late" change="#lay_1">He <choice>
+                            <abbr>wd</abbr>
+                            <expan>would</expan>
+                        </choice> sink his head on his breast.</add><!-- kein Ersetzungsverhältnis, weil Satz in Tilgung plötzlich abbricht -->
+                    <space/>As if he had signed away his own life, he would hand <add f:revType="soon-or-late" change="#lay_1">his</add>
+                    <del resp="kh" status="notMarked">the</del> cheque to Vanessa. <add f:revType="soon-or-late" change="#lay_1">we sat in complete silence.</add>
+                    <space/>Then subside<g>..</g> looking <unclear cert="low">generous</unclear>,
+                    worn, excruciated. And then with a profound groan look up, at me, at last &amp;
+                    say plaintively, yet with some <del f:revType="instant">regret</del> remorse.
+                    Then I <add f:revType="soon-or-late" change="#lay_1"><choice>
+                            <abbr>wd</abbr>
+                            <expan>would</expan>
+                        </choice> have my turn</add> for whom he had some pity, I so like him in
+                    excitability &amp; say "Well Giny, what <del f:revType="instant">about a
+                        wa</del> are you doing the afternoon?<!-- "a" über der Zeile ohne Textrelevanz, lediglich Verdeutlichung des "a" in "are" -->
+                    <del f:revType="uncertain">What about</del> a walk? </p>
+                <p>I cannot understand the savage brutality.</p>
+                <!-- <pb n="4"/> -->
+                <!-- Anfang Seite 4 ist Wiederholung der gleichen Stelle, die sich auf Seite 3 befindet. TODO von wo bis wo genau? TODO Ersetzungsverhältnis oder Alternativbelegung? -->
+                <p>Down came his fist on the account book. There was a roar. His vein filled. His
+                    face flushed. Then he shouted "I am ruined" – <del f:revType="instant">Then he</del>
+                    <del f:revType="instant">This words were only</del> Then he beat his
+                        breast<g>..</g> He went through an extraordinary dramatisation of <add f:revType="soon-or-late" change="#lay_1">self pity</add> anger &amp;
+                    despair. He was ruined – dying<g>...</g>
+                    <del f:revType="uncertain">wantonly</del> tortured by the wanton extravagance of
+                    Vanessa &amp; Sophie<g>..</g>
+                    <add f:revType="soon-or-late" change="#lay_1"><handShift new="#g_t"/>Vanessa
+                        stood <del f:revType="instant">be</del> by his side dumb.</add> "And you
+                    stand there like a block of stone. Dont you pity me? Havent you a word to say to
+                    me?" &amp; so on. Vanessa stood by his side absolutely dumb. He <del f:revType="instant">thr</del> flung at her <add f:revType="soon-or-late" change="#lay_1"><gap quantity="3" unit="chars" precision="medium"/></add>
+                    all the phrases <add f:revType="soon-or-late" change="#lay_1">of <unclear cert="high" resp="#hwg">frenzy</unclear> &amp; <unclear cert="high" resp="#hwg">sarcasm</unclear></add> – about shooting Niagara
+                    &amp; so on – that came handy. <del f:revType="uncertain">Still</del> she
+                    remained static. <del f:revType="instant">Then</del>
+                    <!-- hier klar instant, weil "Another" mit Großbuchstaben folgt --> Another
+                    attitude was adopted. With a deep groan he picked up his pen &amp; with
+                    ostentatiously trembling fingers wrote out the cheque. This was wearily tossed
+                    to Vanessa. Slowly &amp; with many groans the pen the account book were put
+                    away. Then he sank into his chair &amp; sat with his head on his breast. And
+                    then at last, after glancing at a book <del f:revType="instant">for a</del>,
+                        <del f:revType="instant">mo</del> he <choice xml:id="d1e8976">
+                        <sic>woud</sic>
+                        <corr resp="#hwg">would</corr>
+                    </choice> look up &amp; say half plaintively. <supplied evidence="internal">"</supplied>And what are you doing this afternoon, Jinny?"</p>
+                <p><del f:revType="uncertain">I was <del f:revType="instant">by t</del> trembling
+                        now with fury.</del><!-- habe 2 Tilgungen zu einer gemacht --> Never have I
+                    felt such rage, <choice xml:id="d1e9003">
+                        <sic>a</sic>
+                        <corr resp="#hwg">&amp;</corr>
+                    </choice> such frustration. For not a word of my feeling could be
+                        expressed.<space/><del f:revType="instant">And there once more was
+                    his</del></p>
+                <p>This, as far as I can describe it, is an <del f:revType="instant">unegg</del>
+                    unexaggerated account of a bad Wednesday. Even now I can find nothing to say of
+                    his behaviour save that it was brutal. If, instead of words, he had used a whip
+                        <del f:revType="instant">it would have been</del>
+                    <del f:revType="instant">no more</del><!-- oder eine einzige Revision? -->
+                    <del f:revType="instant">a</del>
+                    <del f:revType="instant">brutal</del><!-- oder eine einzige Revision? --> the
+                    brutality <del f:revType="uncertain">of that attack</del> would have been no
+                    greater. How can one explain it? <del f:revType="uncertain">It was
+                        complex.</del> He had been indulged of course ever since he broke the flower
+                    pot &amp; threw the fragments at his mother (whatever the truth of that
+                        story<del f:revType="instant">)</del> it ran something like that)<!-- keine Hinzufügung in der Klammer, da selbe Schreibphase -->
+                    <del f:revType="instant">then</del>
+                    <del f:revType="instant">Health</del> Delicacy excused that. <del f:revType="instant">Then the</del></p>
+                <!-- <pb n="5"/> -->
+                <p>Then, as he grew older, there was the genius legend to <choice>
+                        <expan>which</expan>
+                        <abbr>wh-</abbr>
+                    </choice> I have already referred. Men of genius are <choice xml:id="d1e9091">
+                        <sic>gely</sic>
+                        <corr resp="#hwg">generally</corr>
+                    </choice> ill to live with.. But there are certain qualifications to be noted
+                    – These scenes were never indulged in before men. Fred Maitland for
+                    example <del f:revType="instant">abso</del> resolutely refused to believe in
+                    them when Caroline Emilia (the Quaker Sister) <del f:revType="uncertain">gently</del> tried to insinuate that Leslie <del f:revType="uncertain">sometimes</del> had a temper. If Thoby had presented these books or George
+                        <add change="#lay_1" f:revType="soon-or-late">being the most typical of <choice>
+                            <expan>Victorians</expan>
+                            <abbr>Vctns</abbr>
+                        </choice></add> the explosion <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been suppressed. <del f:revType="instant">It was then the woman
+                        who excited these rages.</del>
+                    <del f:revType="instant">Was it then the woman who excited these rages?</del>
+                    <del f:revType="instant">I</del> Why <del f:revType="instant">w</del> had he no
+                    shame in front of women? <del f:revType="instant">Because, I suggest, <del f:revType="instant">he</del> the woman was to him a</del> Partly of
+                    course because the woman was his slave<del f:revType="instant">; but</del>. But
+                    that does not explain the self dramatisation: the attitudinising; the histrionic
+                    element; the breast beating; the groaning <add f:revType="soon-or-late" change="#lay_1"><choice>
+                            <expan>which</expan>
+                            <abbr>wh.</abbr>
+                        </choice> played so large a part so disgusting a part in <choice>
+                            <expan>these</expan>
+                            <abbr>thes</abbr>
+                        </choice>
+                        <choice>
+                            <expan>scenes.</expan>
+                            <abbr>scn</abbr>
+                        </choice></add>. <del f:revType="instant">To explain that, <del f:revType="instant">it is</del>
+                        <del f:revType="instant">is it</del>
+                        <del f:revType="instant">&amp; its</del>
+                        <del f:revType="instant">&amp; the</del>
+                        <del f:revType="instant">it is</del> one must guess that the woman had</del>
+                    His <del f:revType="uncertain">absolute</del> dependence upon women perhaps
+                    explains that. He needed always a woman to sympathise to flatter. to console.
+                        <del f:revType="instant">Why</del>
+                    <del f:revType="uncertain">And</del> why? Because he was conscious of <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>some</del>
+                        <add>his own</add>
+                    </subst> failure, as a philosopher, as a writer<del f:revType="instant">?</del>:
+                        <del f:revType="instant">Thus</del>
+                    <del f:revType="instant">&amp; this failure</del>
+                    <del f:revType="instant">If you</del>
+                    <del f:revType="instant">It was</del>
+                    <add f:revType="soon-or-late" change="#lay_1">But</add>
+                    <choice xml:id="d1e9296">
+                        <sic>His</sic>
+                        <corr resp="#hwg">his</corr>
+                    </choice> creed <del change="#lay_1" f:revType="soon-or-late">however</del>,
+                        <del instant="true">that</del>
+                    <del>by which I mean</del>
+                    <add f:revType="soon-or-late" change="#lay_1"><del>r</del> made him ashamed to
+                        confess this need of sympathy to men.</add> the attitude that his intellect
+                    made him, <del f:revType="instant">ad</del>
+                    <lb/> adopt with men, <del f:revType="instant">forbad</del> made him the most
+                    modest, the most reasonable of men. <del f:revType="instant">Thus to Fred
+                        Maitland &amp; to Herbert Fisher he was <del f:revType="uncertain">almost</del> entirely without vanity without conceit. <del change="#lay_1" f:revType="soon-or-late">All</del>
+                        <add f:revType="soon-or-late" change="#lay_1">Thus </add>
+                        <del f:revType="instant">And</del>
+                        <del f:revType="instant">But</del> The <del f:revType="instant">attitude</del> public attitude</del>
+                    <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>Then</del>
+                        <add><unclear reason="illegible" resp="#hwg"><del>I</del><!-- f:revType? -->
+                                think</unclear></add>
+                    </subst> Vanessa, on Wednesdays, was the recipient of <subst f:revType="soon-or-late" change="#lay_1">
+                        <del>many suppressions</del>
+                        <add f:revType="soon-or-late" change="#lay_1"><del f:revType="instant">all</del> much discontent, that he had suppressed</add>
+                    </subst>; &amp; <del f:revType="instant">t</del> her refusal to accept her role,
+                    part slave, part angel of sympathy, exacerbated him so that he was probably
+                    unconcious of his own barbarous violence. <del f:revType="uncertain">And</del>
+                    <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been horrified had anyone said <del f:revType="instant">to
+                        h</del> of</p>
+            </div>
+        </body>
+    </text>
+</TEI>

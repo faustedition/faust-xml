@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390777/">
+	<revisionDesc>
+		<change when="2012-11-23" who="henzel">imported</change>
+		<change when="2012-11-23" who="henzel">encoded</change>
+		<change when="2015-01-28" who="koehler">minimal headnote</change>
+		<change when="2015-02-23" who="koehler">URI fuer Handschriftensigle</change>
+		<change when="2016-01-28" who="koehler">Uri schmidt1888 geändert in schmidt 1888a</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Zettel. – Zum Schluss des ‚Faust‘.</headNote>
+		<note>Streifen mit "Abkündigung"; eigenhändige Numerierung "ad 30" mit Bleistift; bildete
+			ursprünglich ein Blatt mit 2 V H.3</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P97</idno>
+		<idno type="gsa_1">GSA 25/XIX,1,14:1</idno>
+		<idno type="gsa_2">GSA 25/W 1756</idno>
+		<idno type="gsa_ident">390777</idno>
+		<idno type="wa_faust">P97 H.1</idno>
+		<idno type="bohnenkamp">H P97</idno>
+		<textTranscript uri="390777.xml"/>
+		<classification>Konzept</classification>
+		<condition>Tintenfraß, Vergilbung am rechten Rand; in den vier Ecken Stichlöcher, die von
+			Stecknadeln herrühren</condition>
+		<dimensions>
+			<width unit="mm">176</width>
+			<height unit="mm">92</height>
+		</dimensions>
+		<format>none</format>
+		<edges>cut</edges>
+		<note>oben beschnitten, unten gerissen</note>
+		<paperType>Schreibpapier</paperType>
+		<paperColour>gelblich</paperColour>
+		<chainLines unit="mm">26</chainLines>
+		<paperMill>Geraberg</paperMill>
+		<watermarkID>David mit Harfe in Wappen</watermarkID>
+		<note>angeschnittenes Wasserzeichen; ergänzender Teil des Wasserzeichens auf faust://document/wa_faust/2_V_H.3</note>
+		<countermarkID>none</countermarkID>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 188</reference>
+			<reference type="description" uri="faust://bibliography/schmidt1888a">S. 6</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+				209</reference>
+			<reference type="text" uri="faust://bibliography/schmidt1888a">S. 5</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 209</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 573</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 209f.</reference>
+			<!-- ABR WA I,15.1,344 so nicht gefunden -->
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase</f:bemerkung>
+      <f:datierung>1797/98</f:datierung> 
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p> Auch dieses Blatt gehört zu den im Zusammenhang mit dem Nummernschema von
+					1797/98 gefertigten Abschriften Geists; mit der Signatur "ad 30" ist
+					offensichtlich der letzte Punkt des Nummernschemas bezeichnet. Ein Bruchstück
+					der hier vorliegenden `Abkündigung' findet sich schon auf dem Sammelblatt H P10,
+					auf dem wahrschein Nachlaßstücke bis zum Erscheinen des Ersten Teils </p>
+				<p>lich ältere Textsplitter vorbereitend für die Neuordnung des vorhandenen
+					Materials gesammelt wurden. (Vgl. hier S. 121.) Die oft für erstaunlich
+					gehaltene Tatsache, daß Goethe zu diesem Zeitpunkt der Neuordnung bereits mit
+					den Schlußgedichten beschäftigt war, ist im Hinblick auf seine häufig sprunghaft
+					verfahrende Arbeitsweise keineswegs ungewöhnlich, sondern geradezu
+					kennzeichnend: immer wieder läßt sich beobachten, daß Goethe in einem relativ
+					frühen Arbeitsstadium bereits in dieser Weise `Zielpunkte' markiert, um im
+					folgenden verbliebene `Lücken' auszufüllen. (Vgl. dazu mein Kapitel zur
+					Arbeitsweise, hier S. 834-838.)</p>
+				<p>Die `Abkündigung' läßt sich als Pendant zum `Vorspiel auf dem Theater' bestimmen;
+					wie dort wird auch hier die Ebene der Theaterwirklichkeit dargestellt. Goethe
+					knüpft in diesen Versen nicht nur an das `Plaudite' der antiken Komödie, sondern
+					auch an einen Theaterbrauch des 18. Jahrhunderts an: Die "Abkündigung"
+					bezeichnet nach Auskunft des `Satyrisch-ästhetischen Hand- und
+					Taschen-Wörterbuches für Schauspieler und Theaterfreunde beides Geschlechtes'
+					von J. F. Schütze aus dem Jahr 1800 den "[...] temporäre[n] Dienst des
+					Schauspielers, dem vom Regisseur die Ordre wird, nach Endigung des Stücks dem
+					Publikum zu sagen, was man für ein Stück Kochwerk _ ihm am nächsten Spielabend
+					auftischen werde. [...]. Gewöhnlich trat damals der Prinzipal [...] oder sein
+					Narr und Lustigmacher _ gewöhnlich er selbst _ auf, und begann etwa so: `Für die
+					heute gehabte Ehre des zahlreichen Zuspruchs und großen Beifalls [...] statten
+					wir unsern ergebensten Dank ab. Auf Morgen [...]'". Hatte ein Stück Beifall
+					gefunden, wurde am Schluß der Vorstellung seine Wiederholung angekündigt. Eben
+					diesem Schema entspricht die `Abkündigung' zum `Faust'; als Sprecher ist der
+					Direktor oder die Lustige Person des `Vorspiels' zu denken. Nach den
+					überzeugenden Ergebnissen einer neueren Untersuchung von Jost Schillemeit (Das
+					Vorspiel auf dem Theater), ist die Entstehung des `Vorspiels' erst im Sommer
+					1798 anzusetzen und noch später die Entscheidung, es als Rahmenhandlung für den
+					`Faust' zu verwenden. Sieht man hierin einen terminus post quem für die
+					Entstehung der `Abkündigung', wäre ihre Entstehung zwischen Ende 1798 und der
+					Aufgabe des Nummernschemas (spätestens 1800) anzusetzen; hält man eine
+					Entstehung der `Abkündigung' unabhängig vom `Vorspiel' für wahrscheinlich, gilt
+					das Datum der Entstehung der `Zueignung', der 24. 6. 1797, als terminus post
+					quem.</p>
+				<p>Z. 8 ähnliches Gedicht] Wohl kein Hörfehler des Schreibers für "episches Gedicht"
+					(so Düntzer, Entstehung der klassischen Walpurgisnacht, S. 75), sondern eine in
+					die von Goethe gründlich durchgesehene Abschrift auf V H2 (hier S. 783)
+					übernommene Änderung des auf H P10, Z. 14-16 (hier S. 121) überlieferten
+					Fragments: In den dort noch für sich stehenden Versen wird das "Leben" mit einem
+					"epischen Gedicht" verglichen; erst im Zusammenhang der `Abkündigung' wird durch
+					die Ersetzung von `episch' durch `ähnlich' der Bezug zum vorangegangenen
+					Theaterstück hergestellt.</p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390183/">
+   <revisionDesc>
+      <change when="2012-11-27" who="henzel">imported</change>
+      <change when="2012-11-27" who="henzel">encoded</change>
+      <change when="2013-08-05" who="bruening">Verweis auf 0003.xml.</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata><!-- TODO klären, was 764,- bedeutet (Katalogpreis?) -->
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.7</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,8</idno>
+      <idno type="gsa_2">GSA 25/W 1703</idno>
+      <idno type="gsa_ident">390183</idno>
+      <idno type="wa_faust">2 V H.7</idno>
+      <textTranscript uri="390183.xml"/>
+      <classification>Mundum</classification>
+      <condition>ursprünglich in der Mitte quer gefaltet; vermutlich Klebespuren an den oberen Ecken der Rückseite</condition>
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">334</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>Stern</watermarkID><!-- vermutlich über "N 1" -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 118</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 118f.</reference>
+         <reference type="facsimile" uri="faust://bibliography/wahl1929">S. 11</reference>
+         <reference type="essay" uri="faust://bibliography/wahl1929">S. 29</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 119</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 6. Konzept im Vgl. mit V H.6 (25/XVIII,7,7)</f:bemerkung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390850/">
+   <revisionDesc>
+      <change when="2012-11-27" who="henzel">imported</change>
+      <change when="2012-11-27" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P194</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,25</idno>
+      <idno type="gsa_2">GSA 25/W 1800</idno>
+      <idno type="gsa_ident">390850</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P194</idno>
+      <!-- P194 -->
+      <textTranscript uri="390850.xml"/>
+      <classification>Schema</classification>
+      <condition>war ursprünglich einmal längs und mehrfach quer gefaltet</condition>
+      <dimensions>
+         <width unit="mm">102</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <format>none</format>
+      <note>Längshälfte eines Folioblattes</note>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach(?)</paperMill>
+      <watermarkID>Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 243</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 756</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 243</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 756f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 732</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 757</reference>
+         <!-- genetischer Hinweis -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>2.3.1825 (?)</f:datierung>
+     </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Nach dem Entwurf P195 (hier S. 752) entstandene Schemareinschrift aus der ersten Phase der Arbeit am 5. Akt seit der Jahrhundertwende: Es handelt sich entweder um die Abschrift einer fehlenden Zwischenfassung oder um eine Diktatniederschrift, für die Goethe den vorliegenden Entwurf P195 `umdiktierte'. Mit Bezug auf den Tagebucheintrag "Einiges an Faust geordnet" (WA III,10,25) vermutet Hertz die Entstehung dieser Niederschrift am 2. 3. 1825 (vgl. Hertz, Entstehungsgeschichte von Faust II Akt 5, S. 251). Im Gegensatz zu P195 bietet P194 auch einige Stichworte zur Szene `Mitternacht' (Z. 1f.), das Schema skizziert diese und die Szene `Großer Vorhof' (Z. 3-5) in groben Zügen (V. 11384-11603), die `Grablegung' (Z. 6-24; V. 11604-11843) schon recht genau. Die Bergschluchten-Szene ist auch in diesem Schema noch nicht vorgesehen. Das abschließende Stichwort "Mephist. zur Appellation" meint wohl Mephistos Einspruch gegen die Entführung Fausts durch die Rosen streuenden Engel.
+               (Vgl. P195, Z. 28f., hier S. 752.) Wie die überlieferten Handschriften bestätigen, konzentrierte sich Goethe auch bei der Ausführung zunächst auf die hier skizzierten Szenen (`Mitternacht', `Großer Vorhof' einschließlich `Grablegung'). </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

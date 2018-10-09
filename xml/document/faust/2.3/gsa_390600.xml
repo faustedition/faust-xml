@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390600/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Loeper-Nachweis.</change>
+      <change when="2012-10-02" who="bruening">Loeper-Nachweis.</change>
+      <change when="2013-01-11" who="bruening">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Aus den beiden Hälften eines Foliobogens herausgeschnitten. Die Faltung des Bogens ist noch erkennbar.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.57a</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,8</idno>
+      <idno type="gsa_2">GSA 25/W 1639</idno>
+      <idno type="gsa_ident">390600</idno>
+      <idno type="wa_faust">2 III H.d</idno>
+      <idno type="wa_faust">2 III H.d</idno>
+      <idno type="fischer_lamberg">2 III H.58a</idno>
+      <textTranscript uri="390600.xml"/>
+      <classification>Konzept</classification>
+      <history>„Aus v. Loepers Besitz erworben / Oct. 1888“ (Aufschrift auf altem Archivumschlag,
+         als Xerokopie beiliegend).</history>
+      <condition>Vergilbt.</condition>
+      <numberingList>
+         <numbering>4/</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">338</width>
+         <height unit="mm">111</height>
+      </dimensions>
+      <format>none</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>ICKirchgeorg</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323f., Nr. 14,
+            16b</reference>
+         <reference type="text" uri="faust://bibliography/loeper1879a">S. 341f.</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 72</reference>
+         <reference type="watermarkRubbing" uri="faust://bibliography/femmel">Bl. 147, Nr.
+         220</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 120</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 120</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Numerierung(?) zS: "4/" [quer zu den Versen]</f:dabei_vermerk>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390600</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.d; vgl. I 15.2,72
+aus Besitz Loeper, Gustav von, Okt. 1888 erworben
+
+Vers(e): 9506-9521
+Die Gaben die du hier verliehen ...
+Konzept
+
+Vers(e): 9564-9569 (9566 fehlt/fehlen)
+Denn du die Gotterzeugte ...
+Konzept
+
+Vers(e): 9570-9573
+Bestimmt auf seelgem Grund zu wohnen ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,8</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,72</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.d</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Numerierung(?) zS: "4/" [quer zu den Versen]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="993">Überlieferungsweg</f:key>
+            <f:value>aus Besitz Loeper, Gustav von, Okt. 1888 erworben</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1282</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2584</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,8*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Bestimmt auf seelgem Grund zu wohnen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9570-9573</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3355</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,8*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Die Gaben die du hier verliehen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9506-9521</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4055</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,8*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Denn du die Gotterzeugte</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>9566</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9564-9569</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4076</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

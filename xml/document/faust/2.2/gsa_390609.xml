@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390609/">
+<revisionDesc>
+   <change when="2013-01-09" who="henzel">imported</change>
+   <change when="2013-01-09" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+   <change when="2015-05-11" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   <change when="2018-09-19" who="pravida">Korrektur in minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>2 Einzelblätter. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.69</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,32</idno>
+      <idno type="gsa_2">GSA 25/W 1561</idno>
+      <idno type="gsa_ident">390609</idno>
+      <idno type="wa_faust">2 II H.69</idno>
+      <textTranscript uri="390609.xml"/>
+      <classification>Konzept</classification>
+      <condition>ursprünglich mit einer Nadel aneinandergeheftete Blätter; Druckstellen an den Rändern mit Stichlöchern verweisen auf früheres Eingebundensein in eine Mappe oder ähnliches</condition>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <paperMill>Stützerbach</paperMill>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 60</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1959">S. 288ff.</reference>
+         <!-- zur Datierung -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">206</width>
+            <height unit="mm">335</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 201 mm. Der Mindestwert der Blatt-Höhe beträgt 329 mm.</note>
+         <stabMarks>
+            <stabMark unit="mm">149</stabMark>
+            <stabMark unit="mm">161</stabMark>
+            <stabMark unit="mm">163</stabMark>
+         </stabMarks>
+         <note>Die Stichlöcher befinden sich nahe des rechten Randes.</note>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>Stern über "N 1"</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">206</width>
+            <height unit="mm">335</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 202 mm. Der Mindestwert der Blatt-Höhe beträgt 330 mm.</note>
+         <stabMarks>
+            <stabMark unit="mm">149</stabMark>
+            <stabMark unit="mm">157</stabMark>
+            <stabMark unit="mm">165</stabMark>
+            <stabMark unit="mm">175</stabMark>
+            <stabMark unit="mm">183</stabMark>
+         </stabMarks>
+         <stabMarks>
+            <stabMark unit="mm">146</stabMark>
+            <stabMark unit="mm">160</stabMark>
+            <stabMark unit="mm">175</stabMark>
+            <stabMark unit="mm">184</stabMark>
+         </stabMarks>
+         <note>Die Stichlöcher befinden sich nahe des linken Randes.</note>
+         <chainLines unit="mm">26</chainLines>
+         <watermarkID>Stern über "N 1"</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0005.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:kurztitel>
+
+Vers(e): 8347-8358
+Nennte wohl ...
+Konzept egh
+
+Vers(e): 8370-8378 (8376 fehlt/fehlen)
+Wir leise geschäftig scheuen ...
+Konzept egh
+
+Vers(e): 8424-8456
+Tochter Galathä welch Glück ...
+Konzept egh; John
+
+Vers(e): 8470-8483
+Es sind die Symptome ...
+Konzept egh</f:kurztitel>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>zwischen dem 12.6. und dem 29.8.1830</f:value>
+         </f:field>
+         </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390837/">
+<revisionDesc>
+   <change when="2012-12-11" who="henzel">imported</change>
+   <change when="2012-12-11" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Umschlag mit Adresse Goethes von Luise Seidler mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.48</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,13</idno>
+      <idno type="gsa_2">GSA 25/W 1540</idno>
+      <idno type="gsa_ident">390837</idno>
+      <idno type="wa_faust">2 II H.48</idno>
+      <!-- P152 -->
+      <!-- P204 -->
+      <textTranscript uri="390837.xml"/>
+      <classification>Konzept</classification>
+      <condition>zerknittert; fleckig; rote Siegelreste</condition>
+      <dimensions>
+         <width unit="mm">203</width>
+         <height unit="mm">343</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 340 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38f.</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 51</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 516</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 222</reference><!-- P152 -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 516f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 661f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 51</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 517</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf type="import">
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.517</f:bemerkung>
+      <f:dabei_vermerk/>
+      <f:datierung>vor Juni 1830</f:datierung>
+      </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Auch für diesen schwer zu entziffernden Bleientwurf gilt, daß er vor Abschluß des Mundums II H74, also vor Juni 1830 entstanden ist; für eine genauere Datierung gibt es keine sicheren Anhaltspunkte (vgl. Fischer-Lamberg, S. 51). </p>
+            <p>Die aus diesem Entwurf als <b>P152</b> von Erich Schmidt isolierte Zeile gehört offensichtlich in den gebotenen Entwurfszusammenhang, in dem es um Mephistos Zusammentreffen mit den Phorkyaden geht. Es handelt sich um Mephistos Einfall, als `Phorkyas' aufzutreten, der in den vorausgehenden Zeilen als "Der listigste von all[en] mei[nen] Streich[en]" bestimmt wird <b>(P204 Var)</b>. Die als P152 bezeichnete Z. 22 des Entwurfs bezieht sich auf das zu diesem Zweck von den Phorkyaden erbetene Auge. </p>
+         </kommentar>
+      </f:abrDissertation>
+      </f:metadataImport>
+</archivalDocument>

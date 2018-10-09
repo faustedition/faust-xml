@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-02-17" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="81" facs="duentzer1857_0081.jpg"/>
+            <div type="text">
+                <p><milestone unit="testimony" spanTo="#pniower_67_end" xml:id="pniower_67"/>Am 18.
+                    September 1789 ſchreibt Knebel von Jena aus an Frau von Imhoff: „Heute hat mir
+                    Goethe die <rs>erſten Szenen ſeines „Fauſt’s“</rs> geleſen, ſo wie ſie zum Druck
+                    bereit liegen.“<anchor xml:id="pniower_67_end"/></p>
+            </div>
+            <pb n="83" facs="duentzer1857_0083.jpg"/>
+            <div type="text">
+                <p><milestone unit="testimony" spanTo="#pniower_83_end" xml:id="pniower_83"/>Frau
+                    von Kalb erzählte nämlich, Goethe habe ihr wenigſtens zwölf Jahre vor der
+                    <rs>vollſtändigen Herausgabe des erſten Theils des „Fauſt“</rs>, die im Jahre 1808
+                    erfolgte, ein Geſpräch zwiſchen Mephiſtopheles und einem jungen
+                    überſchwenglichen Idealiſten vorgeleſen, worin dieſer jenem <pb n="84"
+                        facs="duentzer1857_0084.jpg"/>zu Leibe gehe und ihn an Abſolutheit
+                    übertrumpfe, wobei ſie ſich beſonders der Aeußerung erinnerte, daß man alle
+                    Dreißigjährigen todtſchlagen ſolle, welche Aeußerung man zu Jena und Weimar
+                    Fichte zuſchrieb <anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
+                        >1</hi>)</ref>.</p>
+            </div>
+            <div type="editorial">
+                <p><anchor xml:id="F1"/><ref target="#N1">1) Dieſe Mittheilung der Frau von Kalb
+                        verdanke ich der freundlichen Güte des Herrn Prof. Fichte in
+                            Tübingen.<anchor xml:id="pniower_83_end"/></ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

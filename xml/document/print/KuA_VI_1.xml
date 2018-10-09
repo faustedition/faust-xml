@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-27" who="bruening">angelegt</change>
+        <change when="2015-01-29" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">J.3-2</idno>
+        <idno type="wa_helenaank">J</idno>
+        <idno type="aa_ls_helenaank">D.11</idno>
+        <headNote>Ueber Kunst und Altherthum, 1827</headNote>
+        <bibl>Ueber Kunst und Altherthum. Von Goethe. Sechsten Bandes erstes Heft. Stuttgart, in der
+            Cotta’schen Buchhandlung. 1827. 216 S. 8°</bibl>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_42_1">S.
+                260</reference>
+            <reference type="description" uri="faust://bibliography/aa_ls_6">S. 736</reference>
+        </references>
+        <textTranscript uri="KuA_IIIE43-5-1.xml"/>
+    </metadata>
+</print>

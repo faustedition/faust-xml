@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+    <!-- Cf. https://github.com/faustedition/xml/issues/600 -->
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/2_III_H.24"/>
+        <item uri="faust://document/faustedition/2_III_H.24a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.8a"/>
+        <item uri="faust://document/faustedition/2_III_H.2a_4"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.2a_4"/>
+        <item uri="faust://document/faustedition/2_III_H.8b"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.8b"/>
+        <item uri="faust://document/faustedition/2_III_H.7_2"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.23"/>
+        <item uri="faust://document/faustedition/2_III_H.23a_"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Mundum</comment>
+        <item uri="faust://document/faustedition/2_III_H.23a_"/>
+        <item uri="faust://document/faustedition/2_III_H.22"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.22"/>
+        <item uri="faust://document/faustedition/2_III_H.23b"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.23b"/>
+        <item uri="faust://document/faustedition/2_III_H.23c"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/2_III_H.24"/>
+        <item uri="faust://document/faustedition/2_III_H.24a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/2_III_H.37"/>
+        <item uri="faust://document/faustedition/2_III_H.37a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/2_III_H.37a"/>
+        <item uri="faust://document/faustedition/2_III_H.2a_2"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/2_III_H.42"/>
+        <item uri="faust://document/faustedition/2_III_H.42a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.44"/>
+        <item uri="faust://document/faustedition/2_III_H.44a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Zitat in Schema</comment>
+        <item uri="faust://document/faustedition/2_III_H.49"/>
+        <item uri="faust://document/faustedition/H_P166a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/H_P166a"/>
+        <item uri="faust://document/faustedition/2_III_H.49a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/2_III_H.49a"/>
+        <item uri="faust://document/faustedition/2_III_H.49b"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer</comment>
+        <item uri="faust://document/faustedition/2_III_H.49b"/>
+        <item uri="faust://document/faustedition/2_III_H.49c"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.49c"/>
+        <item uri="faust://document/faustedition/2_III_H.7_4"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.50b"/>
+        <item uri="faust://document/faustedition/2_III_H.50c"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.50d"/>
+        <item uri="faust://document/faustedition/2_III_H.51"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.55"/>
+        <item uri="faust://document/faustedition/2_III_H.56"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.56"/>
+        <item uri="faust://document/faustedition/2_III_H.56a"/>
+        <item uri="faust://document/faustedition/2_III_H.56b"/>
+        <item uri="faust://document/faustedition/2_III_H.56c"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Bleistiftentwurf, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.57"/>
+        <item uri="faust://document/faustedition/2_III_H.57a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Bleistiftentwurf, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.57a"/>
+        <item uri="faust://document/faustedition/2_III_H.58"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.58"/>
+        <item uri="faust://document/faustedition/2_III_H.58a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Bleistiftentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.59"/>
+        <item uri="faust://document/faustedition/2_III_H.59a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Bleistiftentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.59b"/>
+        <item uri="faust://document/faustedition/2_III_H.59c"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.64b"/>
+        <item uri="faust://document/faustedition/2_III_H.64a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.64a"/>
+        <item uri="faust://document/faustedition/2_III_H.64c"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift Riemer, Reihenfolge textuell begründet</comment>
+        <item uri="faust://document/faustedition/2_III_H.64c"/>
+        <item uri="faust://document/faustedition/2_III_H.64d"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Zitat in Schema</comment>
+        <item uri="faust://document/faustedition/2_III_H.64b"/>
+        <item uri="faust://document/faustedition/H_P168"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.66"/>
+        <item uri="faust://document/faustedition/2_III_H.66a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.73"/>
+        <item uri="faust://document/faustedition/2_III_H.74"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.74"/>
+        <item uri="faust://document/faustedition/2_III_H.75"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Konzept</comment>
+        <item uri="faust://document/faustedition/2_III_H.75"/>
+        <item uri="faust://document/faustedition/2_III_H.75a"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Ausführung</comment>
+        <item uri="faust://document/faustedition/2_III_H.75a"/>
+        <item uri="faust://document/faustedition/2_III_H.75b"/>
+    </relation>
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Tintenentwurf</comment>
+        <item uri="faust://document/faustedition/2_III_H.81"/>
+        <item uri="faust://document/faustedition/2_III_H.81a"/>
+    </relation>    
+</macrogenesis>

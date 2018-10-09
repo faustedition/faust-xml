@@ -1,0 +1,86 @@
+<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>WA II, 5</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2018-06-28" who="krause">Datei angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!--Testimony graef_1222 , WA II, 5, 337f.-->
+            <div org="uniform" sample="complete" part="N">
+                <pb n="337"/>
+                <lb/>
+                <lb/>
+                <lb/>
+                <head>1</head>
+                <lb/>
+                <lb/>
+                <milestone unit="testimony" spanTo="#graef_1222_end" xml:id="graef_1222"/>
+                <head rend="center">Hell und Dunkel im Auge bleibend. </head>
+                <lb/>
+                <p>Hell und Dunkel, welche, eins oder das andere, auf das Auge wirkend, sogleich
+                    ihren Gegensatz fordern, stehn vor allem voran. Ein dunkler Gegenstand, sobald
+                    er sich entfernt, hinterläßt dem Auge die Nöthigung dieselbe Form hell zu sehen.
+                    In Scherz und Ernst führen wir eine <rs>Stelle aus Faust</rs> an, welche hierher
+                    bezüglich ist. Faust und Wagner auf dem Felde, gegen Abend, spazierend bemerken
+                    einen Pudel.</p>
+                <sp>
+                    <speaker rend="center">Faust.</speaker>
+                    <l>Siehst du den schwarzen Hund durch Saat und Stoppel<lb/> streifen?</l>
+                </sp>
+                <sp>
+                    <speaker rend="center">Wagner.</speaker>
+                    <l>Ich sah ihn lange schon, nicht wichtig schien er mir.</l>
+                </sp>
+                <sp>
+                    <speaker rend="center">Faust.</speaker>
+                    <l>Betracht' ihn recht! Für was hältst du das Thier?</l>
+                </sp>
+                <sp>
+                    <speaker rend="center">Wagner.</speaker>
+                    <lg>
+                        <l>Für einen Pudel, der auf seine Weise<lb/> Sich auf der Spur des Herren
+                            plagt.</l>
+                    </lg>
+                </sp>
+                <sp>
+                    <speaker rend="center">Faust.</speaker>
+                    <lg>
+                        <l>Bemerkst du, wie in weitem Schneckenkreise</l>
+                        <l>Er um uns her und immer näher jagt?</l>
+                        <l>Und irr' ich nicht, so zieht ein Feuerstrudel</l>
+                        <l>Auf seinen Pfaden hinterdrein.</l>
+                    </lg>
+                </sp>
+                <sp>
+                    <speaker rend="center">Wagner.</speaker>
+                    <lg>
+                        <l>Ich sehe nichts als einen schwarzen Pudel;</l>
+                        <l>Es mag bei euch wohl Augentäuschung sein.</l>
+                    </lg>
+                </sp>
+                <lb/>
+                <p><pb n="338"/> Vorstehendes war schon lange, aus dichterischer Ahnung und nur im
+                    halben Bewußtsein geschrieben, als, bei gemäßigtem Licht, vor meinem Fenster auf
+                    der Straße, ein schwarzer Pudel vorbei lief, der einen hellen Lichtschein nach
+                    sich zog: das undeutliche, im Auge gebliebene Bild seiner vorübereilenden
+                    Gestalt. Solche Erscheinungen sind um desto angenehm-überraschender, als sie
+                    gerade, wenn wir unser Auge bewußtlos hingeben, am lebhaftesten und schönsten
+                    sich anmelden.<anchor xml:id="graef_1222_end"/><lb/><lb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

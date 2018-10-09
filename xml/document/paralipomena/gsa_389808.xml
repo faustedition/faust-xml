@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389808/">
+   <revisionDesc>
+      <change when="2012-11-13" who="henzel">imported</change>
+      <change when="2012-11-13" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2014-10-14" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf zu ‚Faust I‘.</headNote>
+      <note>Zettel, 1 beschriebene Seite. - Vs.: Reinschrift eines Versentwurfs zu der für
+         ‚Faust I‘ bestimmten Szene ‚Disputation‘ (Geist, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P14</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,10</idno>
+      <idno type="gsa_2">GSA 25/W 1384</idno>
+      <idno type="gsa_ident">389808</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P14, Hecker-Nr. 16 -->
+      <idno type="bohnenkamp">H P14</idno>
+      <textTranscript uri="389808.xml"/>
+      <classification>none</classification>
+      <!-- ABR: Reinschrift, GSA-DB: Konzept -->
+      <condition>Tintenfleck am unteren Rand; ursprünglich längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">206</width>
+         <height unit="mm">54</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 51 mm.</note>
+      <format>none</format>
+      <edges>uncut</edges>
+      <note>rechts und unten Risskanten, oben und links abgestoßene Ränder</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 292</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 238</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 292</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 238</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 579</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 238</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/1798 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Das Blatt mit einer Reinschrift Geists stellt keine weiteren Anhaltspunkte für eine
+               genaue Datierung zur Verfügung; vermuten läßt sich auch hier ein Zusammenhang mit der
+               Abschrifttätigkeit Geists in den Jahren 1797/98 in Verbindung mit der Neuordnung der
+               `Faust'-Papiere.</p>
+            <p>Aus inhaltlichen Erwägungen wird dieses Fragment seit Erich Schmidt zu den
+               `Paralipomena' der geplanten Disputation gestellt. Als herausfordernde Reaktion
+               Fausts auf einen Angriff Mephistos (vgl. P11, Z. 34f., hier S. 227) ließe es sich
+               dort in der Tat gut einfügen. Da (erneute?) Überlegungen zum "Disputationsactus" den
+               Jahren 1800/1801 zugeordnet werden konnten (s. o.), könnte dies Datum auch für die
+               Niederschrift des vorliegenden Vierzeilers gelten, der dem Fragment P12 (hier S. 236)
+               in bezug auf Reimordnung und metrische Organisation nahe steht. Möglich bleibt jedoch
+               auch, daß dieses Fragment mit den übrigen Abschriften Geists 1797/98 entstand und auf
+               frühere Einfälle zu einem "Disputationsactus" (s. o.) zurückgeht. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

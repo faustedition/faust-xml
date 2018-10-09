@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390610/">
+   <revisionDesc>
+      <change when="2013-01-09" who="bruening">begonnen</change>
+      <change when="2013-01-10" who="bruening">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Wohl erst nach der Niederschrift des Faust-Entwurfs gefaltet und rückseitig beschrieben,
+         da die über die jetzige Faltungsspur hinweggehenden Unterlängen durch die jetzige Erhebung
+         nicht abgelenkt werden.
+         dabei: eigenhändiges Konzept Goethes zu Brief an J. F. Blu-
+         menbach, 23. April 1824, WA IV 38, 117
+         . – eigenhändige Notiz Goethes »Zelter Stunden« . – eigenhändiges Kon-
+         zept Goethes zum Aufsatz „Don Alonzo ou
+         l’Espagne, Histoire contemporaine par N.
+         A. de Salvandy. IV Tomes. Paris 1824“ WA
+         I 41.2, S. 134 Zeile 20–26</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.44</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,33</idno>
+      <idno type="gsa_2">GSA 25/W 1624</idno>
+      <idno type="gsa_ident">390610</idno>
+      <idno type="wa_faust">2 III H.44</idno>
+      <textTranscript uri="390610.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">331</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>ICR</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 69f.</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 110</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 110</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Brief an J. F. Blumenbach, 23.4.1824, WA IV 38,117, Konzept egh; Notiz egh: "Zelter Stunden"; Aufsatz "Don Alonzo ou l'Espagne, Histoire contemporaine par N. A. de Salvandy. IV Tomes. Paris 1824" Konzept egh zu WA I 41.2,134,20-26</f:dabei_vermerk>
+      <f:datierung>1824/1825 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390610</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.44; vgl. I 15.2,69-70
+
+Szenar vor Vers 9182
+Nachdem Knaben und Knappen ...
+Konzept
+
+Vers 9182-9191
+Wenn diesem nicht ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,33</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,33*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1824/1825 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1824</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wenn diesem nicht</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9182-9191</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2313</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor Überlieferungsform)</f:key>
+            <f:value>Szenar vor Vers 9182</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,33*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Nachdem Knaben und Knappen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2537</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,33</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1824</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,69-70</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.44</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Salvandy, Narcisse Achille de; Blumenbach, Johann Friedrich; Zelter, Karl
+               Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Brief an J. F. Blumenbach, 23.4.1824, WA IV 38,117, Konzept egh; Notiz egh:
+               "Zelter Stunden"; Aufsatz "Don Alonzo ou l'Espagne, Histoire contemporaine par N. A.
+               de Salvandy. IV Tomes. Paris 1824" Konzept egh zu WA I 41.2,134,20-26</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1267</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3281</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

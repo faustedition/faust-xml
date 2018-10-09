@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390697/">
+   <revisionDesc>
+      <change when="2012-11-15" who="henzel">imported</change>
+      <change when="2012-11-15" who="henzel">encoded</change>
+      <change when="2013-02-01" who="henzel">aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <!-- Hinweis: Vorstufe zu H.8 (25/XVIII,5,9) -->
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.9</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,10</idno>
+      <idno type="gsa_2">GSA 25/W 1679</idno>
+      <idno type="gsa_ident">390697</idno>
+      <idno type="wa_faust">2 IV H.9</idno>
+      <textTranscript uri="390697.xml"/>
+      <classification>Konzept</classification>
+      <condition>Fleck auf der Rückseite (im unteren Bereich des rechten Randes), an den Rändern leicht vergilbt</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">326</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 666</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!--  <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

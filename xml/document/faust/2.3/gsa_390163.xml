@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390163/">
+   <revisionDesc>
+      <change when="2013-01-22" who="bruening">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Halbiertes Folioblatt.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.66</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,18</idno>
+      <idno type="gsa_2">GSA 25/W 1651</idno>
+      <idno type="gsa_ident">390163</idno>
+      <idno type="wa_faust">2 III H.66</idno>
+      <textTranscript uri="390163.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">205</width>
+         <height unit="mm">170</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Stern_ueber_N1</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 70</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 126</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 647</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 647</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 702</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 647</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Hälfte eines Folioblattes, nur Zeilenanfänge!</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390163</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.66; vgl. I 15.2,70
+
+Vers(e): 9679-9694
+Hört ihr aller[liebste] Klänge ...
+Konzept
+
+Vers(e): 10030-10038
+Und nun gellt ...
+Konzept
+Bruchstück
+
+Paralipomenon 177
+So vertheilen wir uns Schwestern ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,18</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVIII (3,18) (WA I,15.2,70 u. 235)</p>
+            <p>Entwurf</p>
+            <p>Erstdruck: WA I,15.2,235</p>
+            <p> x , Hälfte eines grauen Folioblattes, Konzeptpapier, gerippt, unten Schnittkante;
+               WZ: Stern über `N 1' (Stuetzerbacher Sternpapier);</p>
+            <p>VS: G Blei 96799694, flüchtig, mit Sofortkorrekturen;</p>
+            <p>RS: G Blei P177, mit Blei als erledigt gestr.; quer daneben, durch Beschneiden des
+               Blattes unvoll-ständig G Blei Versanfänge 1003010038, mit Blei als erledigt
+               gestr.</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>Der Überlieferungskontext zeigt, daß es sich hier um einen Entwurf zu geplanten
+               Schlußversen des 3. Akts handelt; die Verse des in vier Gruppen sprechenden Chors
+               (vgl. V. 9992ff.) sollten also wohl ursprünglich durch zwei gemeinsame Zeilen
+               beschlossen werden. </p>
+            <p> Nachlaßstücke Zweiter Teil, Akt 3</p>
+            <p>
+               <b>H P148</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,18</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,70</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.66</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Hälfte eines Folioblattes</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1292</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2358</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVIII,3,18*c</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,70: H.66</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>III H 66</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>647</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>197</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>So vertheilen wir uns</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>177</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10011</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,18*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Hört ihr aller[liebste] Klänge</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9679-9694</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2662</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,18*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>So vertheilen wir uns Schwestern</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,235</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= K zu geplanten Schlußversen des 3. Aktes</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2700</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,18*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Und nun gellt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="32">Vollständigkeit</f:key>
+            <f:value>Bru</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>10030-10038</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>nur Zeilenanfänge!</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3336</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

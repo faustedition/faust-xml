@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390088/">
+   <revisionDesc>
+      <change when="2013-01-22" who="bruening">encoded</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">idno typisiert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>dabei Notizen egh: „v. Humboldt Cu-
+         vier Gerhard Hase Cousin Stapfer J. J.
+         A. Globe 55.64“, vgl. auch WA III 10,
+         S. 196
+         auf „Vorwort [zu Eckermanns Aufsatz:
+         Über Goethe’s Recensionen für die
+         Frankfurter gelehrten Anzeigen]“ WA:
+         H, I 41.2, S. 500, Konzept egh</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.70</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,22</idno>
+      <idno type="gsa_2">GSA 25/W 1656</idno>
+      <idno type="gsa_ident">390088</idno>
+      <idno type="wa_faust">2 III H.70</idno>
+      <idno type="wa_kua">H</idno>
+      <!-- wa_literatur oder wa_kua? -->
+      <textTranscript uri="390088.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">332</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Zwoelfzackiger_Stern_Fe_Bl_87</watermarkID>
+      <countermarkID>H_ueber_I_Fe_Bl_87</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 71</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 129</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_41_2">S. 500</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_41_2">S. 500–502</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_41_2">S. 500</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 129f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:dabei_vermerk>Notizen egh "v. Humboldt/ Cuvier/ Gerhard/ Hase/ Cousin/ Stapfer/ J.J.A. Globe 55.64"  WA I 41.2,500 vgl. auch Tagebucheintrag vom 25.5.1826  WA III 10,196</f:dabei_vermerk>
+      <f:datierung>Frühjahr 1826</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390088</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.70; vgl. I 15.2,71
+auf "Vorwort [zu Eckermanns Aufsatz: Über Goethe's Recensionen für die Frankfurter gelehrten Anzeigen]" WA: H, I 41.2,500, Konzept egh
+
+Vers(e): 9863-9893 (9881-9883 fehlt/fehlen)
+Heilige Poesie ...
+Konzept
+
+Vers(e): 9907-9938
+Nicht allein! wo du auch weilest ...
+Konzept
+Verse 9915-9918, 9918, 9927, 9929-9930, 9931-9938 doppelt</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,22</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,22*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Nicht allein! wo du auch weilest</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9907-9938</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Verse 9915-9918, 9918, 9927, 9929-9930, 9931-9938 doppelt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2985</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,22*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Heilige Poesie</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>9881-9883</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9863-9893</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3398</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,22</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Frühjahr 1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,71</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.70</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Notizen "v. Humboldt/ Cuvier/ Gerhard/ Hase/ Cousin/ Stapfer/ J. J. A. Globe
+               55.64" egh [J. J. A.= Jean Jacques Ampère], vgl. auch WA III 10,196</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf "Vorwort [zu Eckermanns Aufsatz: Über Goethe's Recensionen für die
+               Frankfurter gelehrten Anzeigen]" WA: H, I 41.2,500, K egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1296</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3761</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

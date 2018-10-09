@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390856/">
+   <revisionDesc>
+      <change when="2012-11-13" who="henzel">imported</change>
+      <change when="2012-11-13" who="henzel">encoded</change>
+      <change when="2013-01-21" who="henzel">aktualisiert</change>
+      <change when="2014-10-16" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Vs.: Reinschrift von Zusatzversen zu der Szene ‚Walpurgisnachtstraum‘ in ‚Faust I‘ (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P47</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,23</idno>
+      <idno type="gsa_2">GSA 25/W 1397</idno>
+      <idno type="gsa_ident">390856</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P47, Hecker-Nr. 48 -->
+      <idno type="bohnenkamp">H P47</idno>
+      <textTranscript uri="390856.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <!-- Reinschrift mit Korrekturen -->
+      <condition>fleckig</condition>
+      <dimensions>
+         <width unit="mm">170</width>
+         <height unit="mm">209</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <!-- In unserer Wasserzeichensammlung gibt es in der Mappe der Papiermühle Stützerbach sehr ähnliche Wasserzeichen, so dass ich Ihr Zeichen auch der Papiermühle Stützerbach zuordne.
+Eine Zuordnung zur Papiermühle Geraberg kommt nach den bei uns vorhandenen Wasserzeichen nicht in Frage.
+(Lothe) -->
+      <watermarkID fragment="a_o">angeschnitten, Sächsisches Wappen zwischen Zweigen, mit Kurhut
+         gekrönt</watermarkID>
+      <!-- Vgl. H P12 -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference uri="faust://bibliography/wa_I_14" type="description">S. 304</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="description">S. 243</reference>
+         <reference uri="faust://bibliography/wa_I_14" type="text">S. 304f.</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="text">S. 243</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 581</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="essay">S. 244</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>Ende 1808</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Eigenhändiges Reinschriftblatt. Die sehr an den Rand gedrängte Überschrift, die die
+               Verse auf den Blocksberg verweist, ist wahrscheinlich nachgetragen. Für die
+               Entstehung der Verse läßt sich mit Hilfe der Anspielungen auf Zeitgenossen Ende 1808
+               als terminus a quo bestimmen.</p>
+            <p>Z. 2-17: Bezieht sich auf die 1808 von Goethes Jugendfreund Johann Heinrich Jung
+               (vgl. hier Z. 10), genannt Stilling (vgl. Z.2), verfaßte `Theorie der Geister-Kunde,
+               in einer Natur- Vernunft- und Bibelmäsigen [vgl. Z. 4] Beantwortung der Frage: Was
+               von Ahnungen, Gesichten und Geistererscheinungen geglaubt und nicht geglaubt werden
+               müße', die ein Titelkupfer der "berühmten weißen Frau" (vgl. Z. 5), der Gräfin von
+               Orlamünde schmückt (vgl. Z.7). (Ihre genaue Beschreibung und Angaben "wo sie
+               erscheine", finden sich bei Jung, S.271-279 in den §§ 245-255.) An anderer Stelle (§
+               24) beschäftigt sich die `Geisterkunde' mit den Folgen des "Sturz[es] des uralten
+               Ptolomeischen Weltsystems": "auf einmal trat der Mönch Nicolaus Copernikus auf; mit
+               gewaltiger Hand rückte er die Erdkugel aus dem Mittelpunkt der Schöpfung weg, setzte
+               die Sonne dahin, und ließ nun jene in einem Jahr um diese, und in 24 Stunden um ihre
+               eigene Axe laufen. Durch diese glückliche Erfindung wurde viel Unbegreifliches,
+               begreiflich, und vieles Unerklärbare, erklärbar." (S.12) Vgl. hier Z. 1217.</p>
+            <p>Z. 18-27: Am 25./26. November 1808 erschienen im Morgenblatt No. 283/284 Angriffe von
+               Johann Heinrich Voß (1782-1802 Rektor in Eutin) auf `Des Knaben Wunderhorn', dessen
+               ersten Band Goethe wohlwollend besprochen hatte. Vgl. Goethe zum Kanzler Müller am
+               14. 12. 1808: "Für seine [Vossens] Angriffe in der Recension über `des Knaben
+               Wunderhorn' will ich ihn auch noch einst auf den Blocksberg citiren." (Gespräche Bd.
+               2, S. 232.) Die beiden letzten Verse schließlich beziehen sich darauf, "daß Voß der
+               entschiedenste Gegner der neuen Romantik und ihres katholischen Mystizismus war."
+               (Witkowski, S. 418.)</p>
+            <p>Die vorliegenden Verse sind also erst nach der Veröffentlichung des Ersten Teils
+               entstanden; Überschrift, Tonart und Zeugnisse stellen sie in einen Zusammenhang mit
+               dem satirischen Teil des Walpurgisnachtstraumes. Ob Goethe allerdings tatsächlich
+               beabsichtigte, sie "zur künftigen Vervollständigung" (Alt, S. 594) zu einem späteren
+               Zeitpunkt in den `Faust' aufzunehmen, ist nicht sicher. In die Ausgabe von 1828, in
+               der immerhin einige ergänzende Verse noch nachträglich in den Walpurgisnachtstraum
+               eingefügt werden (V. 4335-4342), hat er sie nicht aufgenommen. Falls die Verse aus
+               Rücksicht auf Voss zu Lebzeiten des Dichters ungedruckt blieben (so Harnack, S. 579),
+               hätte Goethe sie 1828 nicht mehr zurückzuhalten brauchen.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

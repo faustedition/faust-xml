@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389846/">
+   <revisionDesc>
+      <change when="2013-01-10" who="henzel">imported</change>
+      <change when="2013-01-10" who="henzel">encoded</change>
+      <change when="2014-01-20" who="henzel">leere Seite in Lagenstruktur nachgetragen</change>
+      <change when="2015-01-30" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P204</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,28</idno>
+      <idno type="gsa_2">GSA 25/W 1803</idno>
+      <idno type="gsa_ident">389846</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P204</idno>
+      <!-- P204 -->
+      <!-- Hecker-Nummer 236 -->
+      <textTranscript uri="389846.xml"/>
+      <classification>Konzept</classification>
+      <condition>rote Siegelspuren, Ecke links oben ausgerissen, Knitterspuren am rechten
+         Rand</condition>
+      <dimensions>
+         <width unit="mm">207</width>
+         <height unit="mm">98</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 95 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <note>Risskante unten</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Leutenberg</paperMill>
+      <watermarkID>Leutenberg</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 246</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 515</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 246</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 515</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 661</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 515</reference>
+      </references>
+      <note>Die bei faust://bibliography/sabell1879 wiedergegebene Fassung von Paralipomenon 40
+         beruht nicht etwa auf einer Goetheschen, sondern auf der „Handschrift eines Weimarer
+         Freundes und Sammlers“ (faust://bibliography/sabell1879, S. 79). Gegenüber den bis dahin
+         bekannten Drucken in Q und der Ausgabe letzter Hand enthält sie lediglich Konjekturen.</note>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Diese Bleinotiz auf einem abgerissenen Papierstreifen wurde bisher auf die Szene
+               `Grablegung' im 5. Akt bezogen; mit Blick auf den hier S. 516 dokumentierten Entwurf
+               zu Mephistos Plänen in bezug auf die Phorkyaden (II H48) wird wahrscheinlich, daß
+               P204 in diesem Zusammenhang entstanden und dem Mephistopheles zuzuordnen ist: bei den
+               vorliegenden Entwurfszeilen handelt es sich um eine variante Vorstufe zu Z. 18-20 des
+               auf II H48 (hier S. 517) skizzierten Entwurfs.</p>
+            <p>Z. 1 Mir grillts im Kopf] Meint: Ich habe einen wunderlichen Einfall (vgl. DWB
+               9,323-326).</p>
+            <p>Z. 3 Der listigste von mein[en] Streich[en]] Mephistos Einfall, als Phorkyas
+               aufzutreten. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+   xml:base="faust://xml/transcript/thlma_weimar/DNT_227/">
+   <revisionDesc>
+      <change when="2015-11-19" who="bruening">Datei angelegt, neue Sigle</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Souffleurbuch, 24 Blätter. – ‚Faust‘-Melodrama (1815/1816), Bl. 12 und 22–24: Zusatzchöre.</headNote>
+      <note>Text nach faust://bibliography/bohnenkamp1994, S. 264.</note>
+      <!-- 24 Bl., 230 × 320 mm, ohne Wz -->
+      <repository>thlma_weimar</repository>
+      <idno type="thlma_weimar">D-WRha/ DNT 227</idno>
+      <idno type="faustedition">T 6 H.2</idno>
+      <note>Ältere Signaturen laut RISM: MM 227, BM 73, BM 65.</note>
+      <idno type="gsa_1">GSA 25/XVII,1,12</idno>
+      <!--          Auf dieses Soufflierbuch, nicht auf die hier beschriebene
+         Partitur, bezieht sich die Pseudo-Signatur für Reproduktionen GSA 25/XVII,1,12. -->
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="DNT_227_soufflierb.xml"/>
+      <classification>none</classification>
+      <history>Aus dem Archiv des Deutschen Nationaltheaters, im Jahr 2001 als Depositum in das
+         ThLMA gekommen.</history>
+      <dimensions>
+         <width unit="mm">230</width>
+         <height unit="mm">320</height>
+      </dimensions>
+      <edges>cut</edges>
+      <paperType>none</paperType>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 264</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 264</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">S.
+            591f.</reference>
+      </references>
+   </metadata>
+   <!-- Bl. 12 -->
+   <disjunctLeaf>
+      <page></page>
+      <page></page>
+   </disjunctLeaf>
+   <disjunctLeaf><!-- Bl. 22 -->
+      <page></page>
+      <page></page>
+   </disjunctLeaf>
+</archivalDocument>

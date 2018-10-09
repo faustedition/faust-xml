@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390050/">
+   <revisionDesc>
+      <change when="2012-11-23" who="henzel">imported</change>
+      <change when="2012-11-23" who="henzel">encoded</change>
+      <change when="2015-01-30" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Eigenhändige Numerierung "ad 28." mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P96</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,13</idno>
+      <idno type="gsa_2">GSA 25/W 1755</idno>
+      <idno type="gsa_ident">390050</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P96</idno>
+      <!-- P96 -->
+      <idno type="hecker">235</idno>
+      <textTranscript uri="390050.xml"/>
+      <classification>none</classification>
+      <!-- ABR: Reinschrift -->
+      <condition>fleckig, Tintenfraß, unterer Rand fransig</condition>
+      <dimensions>
+         <width unit="mm">171</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 207 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>oben beschnitten, unten gerissen</note>
+      <paperType>Schreibpapier</paperType>
+      <!-- evt. auch grobes Briefpapier -->
+      <paperColour>hellgeblich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <!-- an manchen Stellen 23 mm oder 25 mm -->
+      <paperMill>Ilversgehofen</paperMill>
+      <watermarkID>Posthorn</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <!-- TODO Erstdruck: Q, S. 181 -->
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 187f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 208</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 188</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 208</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 573</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 208</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase, zur Datierung vgl. Bohnenkamp, S.208</f:bemerkung>
+      <f:datierung>1797/1798 (?)</f:datierung>
+     </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Papier (vgl. H P82, hier S. 201) und Signatur dieses Blattes mit eigenhändiger
+               Reinschrift Goethes weisen auch hier auf den Zusammenhang mit dem Nummernschema von
+               1797/98; für die nicht sicher zu entziffernde Signatur ist die Lesung "ad 28"
+               wahrscheinlicher, da "ad 18" auf eine Szene direkt nach der Walpurgisnacht (Kerker?)
+               deuten würde. Die Zuordnung "ad 28" dagegen verweist auf eine Szene am Ende des
+               Dramas, nach Fausts Tod: die Verse lassen sich auf Mephistos Auseinandersetzung mit
+               den Engeln ("das zierlich höfische Geschlecht") um Fausts Seele beziehen, die also
+               schon dem alten Plan angehörte. Das Fragment setzt offenbar voraus, daß Goethe
+               bereits um die Jahrhundertwende plante, Mephisto beim abschließenden Himmelsgericht
+               nicht auf den "König" treffen zu lassen, sondern stattdessen wohl auf seinen
+               "Reichsverweser" Christus (P95, hier S. 750) _ vgl. die späte Abschrift dieses und
+               weiterer sehr wahrscheinlich vor der Jahrhundertwende entstandener Bruchstücke zum
+               Schluß des `Faust'-Dramas auf dem Sammelblatt H P93 (hier S. 750) sowie mein Kapitel
+               zur Entstehungsgeschichte des 5. Akts, hier S. 738-741. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

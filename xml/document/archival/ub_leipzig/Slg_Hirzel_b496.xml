@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_leipzig/Slg_Hirzel_b496/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening"/>
+      <change when="2013-11-21" who="henzel">encoded</change>
+      <change when="2014-05-28" who="henzel">erneute Pruefung am Original</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-04-02" who="henzel">Nachtraege nach erneuter Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>ub_leipzig</repository>
+      <collection>Sammlung Hirzel</collection>
+      <idno type="faustedition">2 IV H.22c</idno>
+      <idno type="ub_leipzig">B 496</idno>
+      <idno type="gsa_1">GSA 25/XVIII,6,5</idno>
+      <idno type="wa_faust">2 IV H.e</idno>
+      <textTranscript uri="b496.xml"/>
+      <classification>none</classification>
+      <!-- Abschrift -->
+      <numberingList>
+         <numbering>unten rechts auf der Pappe Zählung mit Bleistift (wohl archivarisch und zur Durchzählung der Handschriften innerhalb der Sammlung?)</numbering>
+      </numberingList>
+      <condition>Blatt wurde am linken Rand mit Klebeband auf Pappe geklebt; fleckig, Tinte scheint durch; auf der Vorderseite Stempel der Universitätsbibliothek Leipzig</condition>
+      <dimensions>
+         <width unit="mm">191</width>
+         <height unit="mm">167</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 189 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Briefpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/hirzel1874">S. 236</reference>
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 9</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr. 20</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133</reference>
+         <reference type="description" uri="faust://bibliography/fink1932">S. 50</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 715</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 715</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 717</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 716</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="a.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="b.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

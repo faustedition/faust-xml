@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389879/">
+   <revisionDesc>
+      <change when="2012-11-13" who="bruening">encoded</change>
+      <change when="2013-12-19" who="henzel">leeres docTranscript nachgetragen</change>
+      <change when="2014-10-16" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwürfe, möglicherweise zu ‚Faust I‘, Szene ‚Walpurgisnacht‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Vs.: Versentwürfe, möglicherweise zur Szene
+         ‚Walpurgisnacht‘ in ‚Faust I‘ (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P42</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,22</idno>
+      <idno type="gsa_2">GSA 25/W 1396</idno>
+      <idno type="gsa_ident">389879</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P42</idno>
+      <textTranscript uri="389879.xml"/>
+      <classification>none</classification>
+      <!-- Konzept -->
+      <condition>Vergilbt. Linker Rand leicht gewellt.</condition>
+      <dimensions>
+         <width unit="mm">212</width>
+         <height unit="mm">128</height>
+      </dimensions>
+      <format>8</format>
+      <edges>uncut</edges>
+      <paperType>Briefpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <watermarkID>Muschel</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 303</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 130</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 303</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 130</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 550</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 130</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:ident>389879</f:ident>
+      <f:kurztitel>Faust. Erster Theil
+Paralipomenon 42
+Nur Hunger schärft den Geist ...
+WA: oS; vgl. I 14,303
+Konzept
+Text der Handschrift zu WA: I 14,303</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,2,22</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (2,22) (WA I,14,303)</p>
+            <p>Sammelblatt</p>
+            <p>Erstdruck; WA I,14,303</p>
+            <p> x , dünnes gelbliches Papier, beschnitten, gerippt; angeschnittenes WZ: (nicht
+               identifiziert);</p>
+            <p>VS: G schw.br. Tinte P42.1, P42.2;</p>
+            <p>RS: leer</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Auch bei diesem eigenhändigen Sammelblatt fehlt ein äußerer Anhaltspunkt für die
+               Datierung; bei dem Papier handelt es sich um keine der von Goethe üblicherweise
+               verwendeten Sorten. Nicht nur die chronologische Zuordnung bleibt unsicher _ auch
+               eine Zugehörigkeit zum `Faust' kann lediglich vermutet werden.</p>
+            <p>Morris möchte auch diese Textsplitter zur `Walpurgisnacht', genauer zu den vor dem
+               Satan geplanten Audienzen rechnen: "Wieder ein neuer Gast, zu dessen Benennung die
+               gegebenen Merkmale nicht hinreichen, präsentiert sich in Paralipomenon 42."
+               (Walpurgisnacht, S. 80.) Der Sammelblattcharakter des Überlieferungsträgers (zwei
+               durch Striche voneinander getrennte Einträge) spricht eher gegen einen solchen engen
+               Zusammenhang der beiden Zweizeiler; auch hier handelt es sich wohl um einzelne
+               Einfälle, die zur späteren gelegentlichen Verwendung aufbewahrt wurden. </p>
+            <p> HP78</p>
+            <p>
+               <b>H P78</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,22</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Nur Hunger schärft den Geist</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 14,303</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>oS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>42</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,303</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1067</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2768</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,22</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,303</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P42</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>130</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>61</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Nur Hunger schärft den Geist</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>42</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10092</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

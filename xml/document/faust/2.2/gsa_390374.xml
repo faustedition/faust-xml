@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390374/">
+   <revisionDesc>
+      <change when="2013-01-07" who="henzel">imported</change>
+      <change when="2013-01-07" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>am oberen Rand beschnittenes Blatt</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.51</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,16</idno>
+      <idno type="gsa_2">GSA 25/W 1543</idno>
+      <idno type="gsa_ident">390374</idno>
+      <idno type="wa_faust">2 II H.51</idno>
+      <textTranscript uri="390374.xml"/>
+      <classification>Konzept</classification>
+      <condition>Loch und Flecken (offensichtlich Klebespuren) am oberen linken Rand, vermutlich war oberhalb der noch vorhandenen Anklebung an dieser Stelle eine weitere Anklebung angebracht, die entfernt wurde; auf dem Blatt angeklebter Streifen stammt vom oberen Rand des Grundblattes</condition>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">138</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 137 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>hellgelblich</paperColour>
+      <chainLines unit="mm">29</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Krone</watermarkID><!-- wohl über "Stuetzerbach" -->
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 52</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 52</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0002.xml"/> patch -->
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">178</width>
+                  <height unit="mm">14</height>
+               </patchDimensions>
+               <note>Der Mindestwert der Blatt-Breite beträgt 173 mm. Der Mindestwert der Blatt-Höhe beträgt 11 mm.</note>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>hellgelblich</patchPaperColour>
+               <patchChainLines unit="mm">29</patchChainLines>
+               <patchWatermarkID>Krone</patchWatermarkID>
+               <note>angeschnittenes Wasserzeichen</note>
+               <patchCountermarkID>none</patchCountermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

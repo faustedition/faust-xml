@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">B</idno>
+        <idno type="wa_faust">B</idno>
+        <note>(Einmal faust://bibliography/wa_I_14, S. 251 auch B.1.)</note>
+        <idno type="hagen">B</idno>
+        <idno type="hagen_nr">20</idno>
+        <headNote>Zweite Gesamtausgabe bei Cotta, 1817</headNote>
+        <bibl>Goethe’s Werke. Neunter Band. Stuttgart und Tübingen, in der J. G. Cotta’schen Buchhandlung. 1817. 419 S. 8°</bibl>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 20/2</idno>
+            </referenceCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 18/2</idno>
+            </furtherCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 18/3</idno>
+            </furtherCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">IV 3 / 2</idno>
+            </furtherCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 251</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 41</reference>
+            <reference type="essay" uri="faust://bibliography/hagen1983">S. 42</reference>
+        </references>
+        <textTranscript uri="B9_IIIB20-2.xml"/>
+    </metadata>
+</print>

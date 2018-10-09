@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_27-64_S_17/">
+   <revisionDesc>
+      <change when="2013-03-28" who="henzel">Datei angelegt und Referenzen von Frau Koehler ueberfuehrt</change>
+      <change when="2014-01-27" who="henzel">Lagenstruktur</change>
+      <change when="2014-06-11" who="henzel">Lagenstruktur aktualisiert</change>
+      <change when="2014-06-24" who="kockel">xml:base nachgetragen</change>
+      <change when="2014-10-24" who="henzel">Handschriftenautopsie</change>
+      <change when="2014-10-28" who="henzel">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+      <change when="2015-07-02" who="henzel">textTranscript</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Notizbuch, das von zwei Leserichtungen beschrieben wurde (die erste durchgängig, die zweite vom Ende des Buches her um 180° gedreht); Faust-Passage befindet sich auf pag. 17 der zweiten Beschriftung, Buchtitel von Kräuter 'Notizenbuch / enthaltend Gedichte / und / Anderes von Goethe's Hand.'</note>
+      <!-- WA I 53 (s.u.): Notizbuch im Querformat, Quart, in starken Pappendecke gebunden, von beiden Seiten beschrieben von Kräuter; Aufzeichnungen erstrecken sich über Zeitraum 1805 bis 1828 und sind v.a. von Goethe -->
+      <repository>gsa</repository>
+      <idno type="faustedition">H P101a</idno>
+      <idno type="gsa_2">GSA 27/64</idno>
+      <idno type="gsa_ident">11396</idno>
+      <note>Seite 17 des Notizheftes (nach der zweiten Zählung)</note>
+      <idno type="wa_faust">none</idno>
+      <idno type="kraeuter">Varia. 33</idno>
+      <idno type="bohnenkamp">H P101a</idno>
+      <textTranscript uri="GSA_27-64_S_17.xml"/>
+      <classification>Schema</classification><!-- Bruchstück eines Schemas -->
+      <binding>Basismaterial: braune Pappe, Vorderdeckel: 206 mm breit und 167 mm hoch, Buchrücken: 20 mm breit und 165 mm hoch; zusätzlich zum Buchtitel befindet sich auf dem Vorderdeckel oben links der Vermerk Kräuters mit Tinte 'Varia', oben rechts '33' (ebenfalls mit Tinte) und unten rechts mit Bleistift '64'.</binding>
+      <numberingList>
+         <numbering>Die erste archivarische Paginierung folgt der ursprünglichen Leseausrichtung des Buches, erfolgte mit Bleistift oben rechts von 1 bis 179.</numbering>
+         <numbering>Die zweite archivarische Paginierung (ebenfalls mit Bleistift) läuft entgegengesetzt zur ursprünglichen Leseausrichtung, ist entsprechend um 180° gedreht und beginnt auf den letzten Seiten und zählt bis 19 (beschrieben sind 20 Seiten, nur die ungeraden wurden gezählt).</numbering>
+      </numberingList>
+      <note>Die Faust-Passage befindet sich auf pag. 17 der zweiten Zählung (nach Zählweise der ersten befände sie sich auf pag. 164).</note>
+      <condition>Einband zeigt Abnutzungsspuren (Flecken, Kratzspuren am Buchrücken, die die Lesbarkeit verhindern), ansonsten ist das Buch allgemein in einem guten Erhaltungszustand</condition>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">163</height>
+      </dimensions>
+      <format>4</format>
+      <note>eigentlich Halbfolio</note><!-- da die Steglinien senkrecht stehen -->
+      <bindingMaterial>Faden</bindingMaterial>
+      <note>insgesamt elf Lagen geheftet</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>beige</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 445-447</reference><!-- v.a. S. 447 -->
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 296</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 296</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 598</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 445</reference>
+         <reference type="essay" uri="faust://bibliography/gjb_11">S. 137-143</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 296</reference> 
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <chainLines unit="mm">24</chainLines>
+         <watermarkID>Mann mit Harfe</watermarkID><!-- zwischen den Steglinien, 73 mm breit, 51 mm hoch (entspricht ca. 1/3 des gesamten Zeichens, Wz ist selber Lesrichtung wie Beschriftung des Blattes (also 180° gedreht zur ursprünglichen Ausrichtung) -->
+         <note>Wasserzeichen ist fragmentiert.</note>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page><!-- geht man vom Prinzip der Erstbeschriftung aus, ist 18 vor 17, von der Leserichtung her aber 17 vor 18. -->
+         <metadata>
+            <docTranscript uri="S_18.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="S_17.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

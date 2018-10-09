@@ -1,0 +1,433 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc xmlns:f="http://www.faustedition.net/ns"><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition"/><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+    <profileDesc>
+        <creation><listChange>
+          <change xml:id="ch01"><desc>writes "I am blac"</desc></change>
+          <change xml:id="ch02"><desc>overstrikes "blac"</desc></change>
+          <change xml:id="ch03"><desc>writes "a curse:"</desc></change>
+          <change xml:id="ch04"><desc>writes "H"</desc></change>
+          <change xml:id="ch05"><desc>overwrites "H" with "A black"</desc></change>
+          <change xml:id="ch06"><desc>overstrikes "A black"</desc></change>
+          <change xml:id="ch07"><desc>writes "a black slave spoke me"</desc></change>
+          <change xml:id="ch08"><desc>writes "I darted like a snake from his mouth"</desc></change>
+          <change xml:id="ch09"><desc>overstrikes "black slave" and writes "negro"</desc></change>
+          <change xml:id="ch10"><desc>overstrikes "spoke" and writes "felt"</desc></change>
+          <change xml:id="ch11"><desc>overstrikes "felt" and writes "thought"</desc></change>
+          <change xml:id="ch12"><desc>overstrikes "thought" and writes "thinks"</desc></change>
+          <change xml:id="ch13"><desc>overstrikes "ed"</desc></change>
+          <change xml:id="ch14"><desc>overstrikes "his" and inserts "your"</desc></change>
+          <change xml:id="ch15"><desc>writes "You could not speak for yourself, slave—I lend you my own mouth"</desc></change>
+          <change xml:id="ch16"><desc>overstrikes "You" and writes "He"</desc></change>
+          <change xml:id="ch17"><desc>overwrites "could" with "can"</desc></change>
+          <change xml:id="ch18"><desc>overwrites "your" in "yourself" with "him"</desc></change>
+          <change xml:id="ch19"><desc>overstrikes "slave" and writes "negro"</desc></change>
+          <change xml:id="ch20"><desc>overstrikes "you" and writes "him"</desc></change>
+          <change xml:id="ch21"><desc>overstrikes "mouth" and writes "tongue"</desc></change>
+          <change xml:id="ch22"><desc>overstrikes "He" and writes "You"</desc></change>
+          <change xml:id="ch23"><desc>writes "I"</desc></change>
+          <change xml:id="ch24"><desc>overstrikes "I"</desc></change>
+          <change xml:id="ch25"><desc>writes "My eyes are bloodshoo"</desc></change>
+          <change xml:id="ch26"><desc>overwrites "o" with "t"</desc></change>
+          <change xml:id="ch27"><desc>writes ", they look down the river,"</desc></change>
+          <change xml:id="ch28"><desc>writes "A steamboat carries off my woman and children.—"</desc></change>
+          <change xml:id="ch29"><desc>overstrikes "carries off" and writes "paddles away"</desc></change>
+          <change xml:id="ch30"><desc>draws hash marks through the previous two lines</desc></change>
+          <change xml:id="ch31"><desc>writes "Around my neck"</desc></change>
+          <change xml:id="ch32"><desc>overstrikes "Around my neck" and writes "I am"</desc></change>
+          <change xml:id="ch33"><desc>overstrikes "I am"</desc></change>
+          <change xml:id="ch34"><desc>writes "T"</desc></change>
+          <change xml:id="ch35"><desc>overstrikes "T"</desc></change>
+          <change xml:id="ch36"><desc>Writes "The iron necklace and the red sores of my shoulders / I do not feel</desc></change>
+          <change xml:id="ch37"><desc>overstrikes "The" and writes "His"</desc></change>
+          <change xml:id="ch38"><desc>overstrikes "His" and overwrites "i" in "iron" with "I"</desc></change>
+          <change xml:id="ch39"><desc>overstrikes "the"</desc></change>
+          <change xml:id="ch40"><desc>overstrikes "my" and writes "the"</desc></change>
+          <change xml:id="ch41"><desc>overstrikes "feel" and writes "mind,"</desc></change>
+          <change xml:id="ch42"><desc>writes "The hopple and ball"</desc></change>
+          <change xml:id="ch43"><desc>overstrikes "and ball"</desc></change>
+          <change xml:id="ch44"><desc>writes "at my ancles, does not</desc></change>
+          <change xml:id="ch45"><desc>detain me"</desc></change>
+          <change xml:id="ch46"><desc>overstrikes "The" and overwrites "h" in "hopple" with "H"</desc></change>
+          <change xml:id="ch47"><desc>overstrikes "my" and writes "the"</desc></change>
+          <change xml:id="ch48"><desc>insterts "and tight cuffs at the wrists"</desc></change>
+          <change xml:id="ch49"><desc>overwrites "does" with "do"</desc></change>
+          <change xml:id="ch50"><desc>inserts "must"</desc></change>
+          <change xml:id="ch51"><desc>writes "I go down the river, my"</desc></change>
+          <change xml:id="ch52"><desc>overwrites "my" with "with my bloodshot eyes"</desc></change>
+          <change xml:id="ch53"><desc>inserts "the sight of"</desc></change>
+          <change xml:id="ch54"><desc>writes "I go in the steamboat that paddles my wife and children"</desc></change>
+          <change xml:id="ch55"><desc>inserts "will" and "will"</desc></change>
+          <change xml:id="ch56"><desc>overstrikes "will" and "will"</desc></change>
+          <change xml:id="ch57"><desc>overstrikes "in" and writes "to"</desc></change>
+          <change xml:id="ch58"><desc>inserts "aw"</desc></change>
+          <change xml:id="ch59"><desc>overwrites "aw" with "off"</desc></change>
+          <change xml:id="ch60"><desc>overstrikes "wife" and writes "woman"</desc></change>
+          <change xml:id="ch61"><desc>writes "A"</desc></change>
+          <change xml:id="ch62"><desc>overstrikes "A"</desc></change>
+          <change xml:id="ch63"><desc>writes "I do not stop with my woman and children,"</desc></change>
+          <change xml:id="ch64"><desc>writes "I burst down the saloon doors, and crash on a</desc></change>
+          <change xml:id="ch65"><desc>writes "party of passengers.—"</desc></change>
+          <change xml:id="ch66"><desc>overstrikes "down"</desc></change>
+          <change xml:id="ch67"><desc>writes "But for them, I sh"</desc></change>
+          <change xml:id="ch68"><desc>overstrikes "sh" and writes "too should have been on the steamboat</desc></change>
+          <change xml:id="ch69"><desc>writes "I should soon"</desc></change>
+          <change xml:id="ch70"><desc>overstrikes "But for them, I too should have been on the steamboat" and "I should soon"</desc></change>
+          <change xml:id="ch71"><desc>draws hash marks through the last two lines</desc></change></listChange>
+        </creation>
+    </profileDesc> 
+  <revisionDesc><change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change><change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change></revisionDesc></teiHeader>
+<sourceDoc>
+<surface xml:id="r1">
+<graphic url="figures/loc.00256.001.jpg" width="4151px" height="4363px"/>
+
+<line>
+<zone n="1" xml:id="z01" ulx="110" uly="246" lrx="899" lry="449" change="#ch01">I am 
+<zone n="2" xml:id="z02" ulx="562" uly="371" lrx="880" lry="427" change="#ch02">
+<del change="#ch02">blac</del>
+</zone>
+</zone> 
+<zone n="3" xml:id="z03" ulx="912" uly="349" lrx="1615" lry="455" change="#ch03">a curse:</zone> 
+<zone n="7" xml:id="z07" ulx="1713" uly="301" lrx="3438" lry="458" change="#ch07">a 
+<zone n="9" xml:id="z09" ulx="1989" uly="378" lrx="2561" lry="445" change="#ch09">
+<del change="#ch09">black slave</del>
+</zone>
+<zone n="10" xml:id="z10" ulx="1998" uly="238" lrx="2437" lry="353" change="#ch09">
+<add change="#ch09">negro</add>
+</zone> 
+<zone n="11" xml:id="z11" ulx="2773" uly="382" lrx="3152" lry="437" change="#ch10">
+<del change="#ch10">spoke</del>
+</zone> 
+<zone n="13" xml:id="z13" ulx="2865" uly="279" lrx="3166" lry="320" change="#ch11">
+<zone n="12" xml:id="z12" ulx="2851" uly="209" lrx="3189" lry="351" change="#ch10">
+<del change="#ch11">
+<add change="#ch10">felt</add>
+</del>
+</zone>
+</zone> 
+<zone n="15" xml:id="z15" ulx="3041" uly="146" lrx="3418" lry="210" change="#ch12">
+<zone n="14" xml:id="z14" ulx="2947" uly="87" lrx="3477" lry="231" change="#ch11">
+<del change="#ch12">
+<add change="#ch11">thought</add>
+</del>
+</zone>
+</zone> 
+<zone n="16" xml:id="z16" ulx="3121" uly="16" lrx="3457" lry="135" change="#ch12">
+<add change="#ch12">thinks</add>
+</zone> me
+</zone>
+</line>
+
+<addSpan spanTo="#a4" change="#ch15"/>
+<line>
+<zone n="32" xml:id="z32" ulx="69" uly="474" lrx="369" lry="559" change="#ch22">
+<add change="#ch22">You</add> 
+</zone>
+<zone n="20" xml:id="z20" ulx="298" uly="394" lrx="3857" lry="582" change="#ch15">
+<zone n="21" xml:id="z21" ulx="360" uly="517" lrx="607" lry="570" change="#ch16">
+<del change="#ch16">You</del>
+</zone> 
+<zone n="22" xml:id="z22" ulx="511" uly="445" lrx="696" lry="559" change="#ch16">
+<zone n="31" xml:id="z31" ulx="477" uly="483" lrx="610" lry="520" change="#ch22">
+<del change="#ch22">
+<add change="#ch16">He</add>
+</del>
+</zone> 
+</zone>
+<zone n="23" xml:id="z23" ulx="715" uly="462" lrx="946" lry="558" change="#ch17">
+<del change="#ch17">could</del>
+<add change="#ch17">can</add>
+</zone> not speak for 
+<zone n="24" xml:id="z24" ulx="1798" uly="463" lrx="1938" lry="547" change="#ch18">
+<del change="#ch18">your</del>
+<add change="#ch18">him</add>
+</zone>self, 
+<zone n="25" xml:id="z25" ulx="2158" uly="502" lrx="2352" lry="541" change="#ch19">
+<del change="#ch19">slave</del>
+</zone> 
+<zone n="26" xml:id="z26" ulx="2147" uly="438" lrx="2412" lry="506" change="#ch19">
+<add change="#ch19">negro</add>
+</zone>—I lend 
+<zone n="27" xml:id="z27" ulx="2892" uly="513" lrx="3021" lry="550" change="#ch20">
+<del change="#ch20">you</del>
+</zone> 
+<zone n="28" xml:id="z28" ulx="2915" uly="438" lrx="3108" lry="509" change="#ch20">
+<add change="#ch20">him</add>
+</zone> my own 
+<zone n="29" xml:id="z29" ulx="3516" uly="479" lrx="3833" lry="522" change="#ch21">
+<del change="#ch21">mouth</del>
+</zone> 
+</zone>
+<zone n="30" xml:id="z30" ulx="3855" uly="421" lrx="4149" lry="563" change="#ch21">
+<add change="#ch21">tongue</add>
+</zone>
+</line>
+<anchor xml:id="a4"/>
+
+<line>
+<zone n="5" xml:id="z05" ulx="80" uly="504" lrx="779" lry="661" change="#ch05">
+<zone n="4" xml:id="z04" ulx="131" uly="505" lrx="278" lry="664" change="#ch04">
+<del change="#ch05">H</del>
+</zone>
+<zone n="6" xml:id="z06" ulx="136" uly="577" lrx="893" lry="649" change="#ch06">
+<del change="#ch06"><add change="#ch05">A black</add></del>
+</zone>
+</zone> 
+<zone n="8" xml:id="z08" ulx="909" uly="508" lrx="3809" lry="660" change="#ch08">I dart
+<zone n="17" xml:id="z17" ulx="1377" uly="550" lrx="1509" lry="680" change="#ch13">
+<del change="#ch13">ed</del>
+</zone> like a snake from 
+<zone n="18" xml:id="z18" ulx="2993" uly="614" lrx="3099" lry="653" change="#ch14">
+<del change="#ch14">his</del>
+</zone> 
+<metamark function="insertion" target="#a3" change="#ch14">‸</metamark>
+<zone n="19" xml:id="z19" ulx="2980" uly="540" lrx="3185" lry="616" change="#ch14">
+<add change="#ch14" xml:id="a3">your</add>
+</zone> mouth</zone>
+</line>
+
+<space dim="vertical" quantity="1" unit="lines"/> 
+<zone n="41" xml:id="z41" points="921,904 1134,904 1418,1230 1383,1230" change="#ch30">
+<zone n="42" xml:id="z_42" points="2238,936 2329,936 2788,1364 2688,1364" change="#ch30">
+<delSpan spanTo="#a5" change="#ch30"/>
+<line>
+<zone n="34" xml:id="z34" ulx="137" uly="889" lrx="327" lry="1035" change="#ch24">
+<zone n="33" xml:id="z33" ulx="156" uly="822" lrx="311" lry="1076" change="#ch23">
+<del change="#ch24">I</del>
+</zone>
+</zone> 
+<zone n="35" xml:id="z35" ulx="316" uly="874" lrx="2037" lry="1074" change="#ch25">My eyes are bloodsho
+<zone n="36" xml:id="z36" ulx="1918" uly="895" lrx="2117" lry="1039" change="#ch26">
+<del change="#ch26">o</del>
+<add change="#ch26">t</add>
+</zone>
+</zone>
+<zone n="37" xml:id="z37" ulx="2026" uly="873" lrx="3903" lry="1105" change="#ch27">, they look down the river,</zone>
+</line>
+
+<line>
+<zone n="38" xml:id="z38" ulx="226" uly="1099" lrx="3783" lry="1262" change="#ch28">A steamboat
+<zone n="39" xml:id="z39" ulx="1275" uly="1175" lrx="1946" lry="1236" change="#ch29">
+<del change="#ch29"> carries off</del>
+</zone>
+<zone n="40" xml:id="z40" ulx="1281" uly="1047" lrx="2025" lry="1184" change="#ch29">
+<add change="#ch29"> paddles away</add>
+</zone> 
+my woman and children.—
+</zone>
+</line>
+
+<anchor xml:id="a5"/>
+</zone>
+</zone>
+
+<line>
+<zone n="44" xml:id="z_44" ulx="230" uly="1575" lrx="1237" lry="1630" change="#ch32">
+<zone n="43" xml:id="z_43" ulx="199" uly="1499" lrx="1294" lry="1643" change="#ch31">
+<del change="#ch32">Around my neck</del>
+</zone>
+</zone>
+<zone n="46" xml:id="z_46" ulx="1254" uly="1575" lrx="1615" lry="1624" change="#ch33">
+<zone n="45" xml:id="z_45" ulx="1245" uly="1472" lrx="1622" lry="1644" change="#ch32">
+<del change="#ch33">
+<add change="#ch32"> I am</add>
+</del>
+</zone>
+</zone>
+</line>
+
+<line>
+<zone n="48" xml:id="z_48" ulx="243" uly="1637" lrx="426" lry="1787" change="#ch35">
+<zone n="47" xml:id="z_47" ulx="296" uly="1666" lrx="400" lry="1794" change="#ch34">
+<del change="#ch35">T</del>
+</zone>
+</zone> 
+<zone n="49" xml:id="z_49" ulx="439" uly="1642" lrx="4110" lry="1820" change="#ch36">
+<zone n="51" xml:id="z_51" ulx="473" uly="1764" lrx="687" lry="1812" change="#ch37">
+<del change="#ch36">The</del>
+</zone> 
+<zone n="53" xml:id="z_53" ulx="607" uly="1655" lrx="775" lry="1694" change="#ch38">
+<zone n="52" xml:id="z_52" ulx="621" uly="1614" lrx="813" lry="1736" change="#ch37">
+<del change="#ch38">
+<add change="#ch37">His</add>
+</del>
+</zone>
+</zone> 
+<zone n="54" xml:id="z_54" ulx="758" uly="1655" lrx="882" lry="1820" change="#ch38">
+<del change="#ch38">i</del>
+<add change="#ch38">I</add>
+</zone>ron necklace and 
+<zone n="55" xml:id="z_55" ulx="2232" uly="1698" lrx="2347" lry="1830" change="#ch39">
+<del change="#ch39">the</del>
+</zone> red sores of 
+<zone n="56" xml:id="z_56" ulx="3321" uly="1714" lrx="3437" lry="1824" change="#ch40">
+<del change="#ch40">my</del>
+</zone> 
+<zone n="57" xml:id="z_57" ulx="3319" uly="1583" lrx="3510" lry="1711" change="#ch40">
+<add change="#ch40">the</add>
+</zone> shoulders</zone>
+</line>
+
+<line>
+<zone n="50" xml:id="z_50" ulx="1248" uly="1850" lrx="2405" lry="2011" change="#ch36">I do not 
+<zone n="58" xml:id="z_58" ulx="2099" uly="1934" lrx="2362" lry="1996" change="#ch41">
+<del change="#ch41">feel</del>
+</zone> 
+<zone n="59" xml:id="z_59" ulx="2148" uly="1809" lrx="2488" lry="1959" change="#ch41">
+<add change="#ch41">mind,</add>
+</zone>
+</zone>
+</line>
+
+<line>
+<zone n="60" xml:id="z_60" ulx="356" uly="2022" lrx="2222" lry="2216" change="#ch42">
+<zone n="64" xml:id="z_64" ulx="462" uly="2122" lrx="684" lry="2203" change="#ch46">
+<del rend="overstrike" change="#ch45">The</del>
+</zone> 
+<zone n="65" xml:id="z_65" ulx="767" uly="2020" lrx="932" lry="2257" change="#ch46">
+<del change="#ch45">h</del>
+<add change="#ch45">H</add>
+</zone>opple 
+<zone n="61" xml:id="z_61" ulx="1456" uly="2117" lrx="2171" lry="2207" change="#ch43">
+<del change="#ch43">and ball</del>
+</zone>
+</zone> 
+<zone n="62" xml:id="z_62" ulx="2280" uly="2070" lrx="4107" lry="2226" change="#ch44">at 
+<zone n="66" xml:id="z_66" ulx="2577" uly="2134" lrx="2692" lry="2271" change="#ch47">
+<del change="#ch46">my</del>
+</zone> 
+<zone n="67" xml:id="z_67" ulx="2624" uly="1999" lrx="2820" lry="2132" change="#ch47">
+<add change="#ch46">the</add>
+</zone> 
+<choice>
+<orig>ancles</orig>
+<reg>ankles</reg>
+</choice>, 
+<zone n="68" xml:id="z_68" ulx="2999" uly="1868" lrx="4095" lry="2109" change="#ch48">
+<add change="#ch47">and tight cuffs at the wrists</add>
+</zone>
+<zone n="69" xml:id="z_69" ulx="3448" uly="2088" lrx="3642" lry="2211" change="#ch49">
+<del change="#ch48"> does</del>
+<add change="#ch48"> do</add>
+</zone>
+<zone n="70" xml:id="z_70" ulx="3627" uly="2014" lrx="3914" lry="2265" change="#ch50">
+<add change="#ch49"> must</add>
+</zone> not
+</zone>
+</line> 
+
+<line>
+<zone n="63" xml:id="z_63" ulx="1592" uly="2259" lrx="2443" lry="2420" change="#ch45">detain me</zone>
+</line>
+
+
+
+<line>
+<zone n="71" xml:id="z_71" ulx="297" uly="2610" lrx="2339" lry="2830" change="#ch51">I
+<zone n="77" xml:id="z_77" points="822,2655 826,2520 826,2558 636,2694" change="#ch56">
+<zone n="75" xml:id="z_75" ulx="528" uly="2506" lrx="843" lry="2889" change="#ch55">
+<del change="#ch56">
+<add change="#ch55"> will</add>
+</del>
+</zone>
+</zone> go down the river
+<del rend="overwrite" change="#ch51"> my</del>
+</zone>
+<zone n="72" xml:id="z_72" ulx="2236" uly="2623" lrx="3927" lry="2804" change="#ch52">
+<addSpan spanTo="#a7" change="#ch52"/> with
+<zone n="73" xml:id="z_73" ulx="2520" uly="2487" lrx="3261" lry="2898" change="#ch53">
+<add change="#ch53"> the sight of</add>
+</zone> my bloodshot eyes,
+<anchor xml:id="a7"/>
+</zone>
+</line>
+
+<line>
+<zone n="74" xml:id="z_74" ulx="288" uly="2842" lrx="4152" lry="3093" change="#ch54">I 
+<zone n="78" xml:id="z_78" points="475,2960 731,2836 739,2855 505,3002" change="#ch56">
+<zone n="76" xml:id="z_76" ulx="471" uly="2862" lrx="711" lry="3104" change="#ch55">
+<del change="#ch56">
+<add change="#ch55">will</add>
+</del>
+</zone>
+</zone> go 
+<zone n="79" xml:id="z_79" ulx="900" uly="2928" lrx="1072" lry="2998" change="#ch57">
+<del change="#ch57">in</del>
+</zone>
+<zone n="80" xml:id="z_80" ulx="980" uly="2813" lrx="1127" lry="2923" change="#ch57">
+<add change="#ch57">to</add>
+</zone> the steamboat that paddles
+<zone n="82" xml:id="z_82" ulx="3191" uly="2795" lrx="3357" lry="2903" change="#ch59">
+<zone n="81" xml:id="z_81" ulx="3188" uly="2789" lrx="3352" lry="3036" change="#ch58">
+<del change="#ch59">
+<add change="#ch58"> aw</add>
+</del>
+<add change="#ch59">off</add>
+</zone>
+</zone> my
+<zone n="83" xml:id="z_83" ulx="3578" uly="2921" lrx="3801" lry="2980" change="#ch60">
+<del change="#ch60"> wife</del>
+</zone>
+<zone n="84" xml:id="z_84" ulx="3538" uly="2843" lrx="3919" lry="2911" change="#ch60">
+<add change="#ch60"> woman</add>
+</zone> and child
+<supplied>ren</supplied>
+</zone>
+</line>
+
+
+<line>
+<zone n="86" xml:id="z_86" ulx="330" uly="3243" lrx="514" lry="3404" change="#ch62">
+<zone n="85" xml:id="z_85" ulx="309" uly="3237" lrx="488" lry="3393" change="#ch61">
+<del change="#ch62">A</del>
+</zone>
+</zone> 
+<zone n="87" xml:id="z_87" ulx="490" uly="3212" lrx="3738" lry="3404" change="#ch63">I do not stop with my woman and children,</zone>
+</line>
+
+<line>
+<zone n="88" xml:id="z_88" ulx="393" uly="3413" lrx="3980" lry="3636" change="#ch64">I burst 
+<zone n="90" xml:id="z_90" ulx="1281" uly="3525" lrx="1575" lry="3584" change="#ch66">
+<del change="#ch65">down</del>
+</zone> the saloon doors, and crash on a</zone>
+</line>
+
+<line>
+<zone n="89" xml:id="z_89" ulx="1011" uly="3638" lrx="2701" lry="3829" change="#ch65">party of passengers.—</zone>
+</line>
+
+<zone n="99" xml:id="z_99" points="3147,3852 3183,3853 3459,4260 3407,4260" change="#ch71">
+<zone n="98" xml:id="z_98" points="1916,3921 1936,3921 2091,4271 2051,4271" change="#ch71">
+<zone n="97" xml:id="z_97" points="590,3872 630,3872 800,4347 765,4347" change="#ch71">
+<delSpan spanTo="#a6" change="#ch70"/>
+<line>
+<zone n="94" xml:id="z_94" points="367,4015 4151,3899 4151,4009 367,4083" change="#ch70">
+<zone n="91" xml:id="z_91" ulx="249" uly="3917" lrx="1682" lry="4093" change="#ch67">But for them, I 
+<zone n="92" xml:id="z_92" ulx="1520" uly="3982" lrx="1640" lry="4029" change="#ch68">
+<del instant="true" change="#ch67">sh</del>
+</zone>
+</zone> 
+<zone n="93" xml:id="z_93" ulx="1706" uly="3885" lrx="4153" lry="4053" change="#ch68">too should have been on the steamboa
+<supplied>t</supplied>
+</zone>
+</zone>
+</line>
+<anchor xml:id="a6"/>
+
+<line>
+<zone n="96" xml:id="z_96" ulx="202" uly="4093" lrx="1390" lry="4226" change="#ch70">
+<zone n="95" xml:id="z_95" ulx="279" uly="4082" lrx="1156" lry="4210" change="#ch69">
+<del change="#ch71">I should soon</del>
+</zone>
+</zone>
+</line>
+</zone>
+</zone> 
+</zone>
+</surface>
+</sourceDoc>
+
+
+
+</TEI>

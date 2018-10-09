@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391415/">
+   <revisionDesc>
+      <change when="2012-11-27" who="bruening">encoded</change>
+      <change when="2014-11-10" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+      <change when="2016-02-05" who="koehler">references ergänzt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Gedichte WEIMAR, DEN 27. DECEMBER 1827 („Was- serstrahlen reichsten Schwalles . . .“)
+         faust://bibliography/wa_I_4 , S. 282 früheres Konzept egh zu Vers 1–4 WA: H.618a;
+         faust://bibliography/wa_I_5_2, S. 175 späteres Konzept egh WA: H.618b; I 52, 175; AN FRAU
+         CARLYLE. WEIMAR, DEN 27. DE- CEMBER 1827 faust://bibliography/wa_I_4, S. 283 Vers 1–4 ZUR
+         BRUSTNADEL („Wenn der Freund . . .“) Konzept egh WA: H.618; faust://bibliography/wa_I_5_2,
+         S. 175 DEM GROSSHERZOG CARL AUGUST ZU NEUJAHR 1828 („Fehlt der Gabe . . .“)
+         faust://bibliography/wa_I_4, S. 283 Konzept egh WA: H.618; faust://bibliography/wa_I_5_2,
+         S. 175 Agendanotizen egh mit Bezügen zu Ta- gebucheinträgen und Briefen von Ende Dezember
+         1827, vgl. Bohnenkamp S. 373
+         Doppelblatt, 4 beschriebene Seiten. – S. 1: Versentwürfe zu ‚Faust II‘, Akt 1,
+         Gedichtentwurf, Notizen (eigenhändig, Bleistift und TInte). S. 2–3: Versentwürfe zu ‚Faust
+         II‘, Akt 1 (eigenhändig, Bleistift). S. 4: Gedichtentwürfe (eigenhändig, Bleistift und
+         Rötel).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.45</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,16</idno>
+      <idno type="gsa_2">GSA 25/W 1468</idno>
+      <idno type="gsa_ident">391415</idno>
+      <idno type="wa_faust">2 I H.45</idno>
+      <idno type="wa_gedichte">H.618</idno>
+      <textTranscript uri="391415.xml"/>
+      <classification>Konzept</classification>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Stern_ueber_N1</watermarkID>
+      <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S. 175</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 12</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 371</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 371f., 373</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 618f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 372f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">160</width>
+               <height unit="mm">330</height>
+            </dimensions>
+
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">330</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>nach der Beschriftung Streifen von Blatt 1 abgeschnitten</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:dabei_vermerk>Gedichte "Weimar, den 27. December 1827" ("Wasserstrahlen reichsten Schwalles ..." WA I 4,282 früheres und späteres Konzept egh zu Vers 1-4, WA: H.618a und H.618b, I 5.2,175; "An Frau Carlyle" WA I 4,283 Konzept egh zu Vers 1-4, WA: Teil von H.618, I 5.2,175; "Dem Großherzog Carl August" WA I 4,283 Konzept egh, WA: Teil von H.618, I 5.2,175; Agendanotizen mit Bezügen zu Tagebucheinträgen und Briefen von Ende Dez. 1827, vgl. Bohnenkamp, S 373</f:dabei_vermerk>
+      <f:datierung>Ende Dez.1827</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>391415</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.45; vgl. I 15.2,12
+
+Vers(e): 6005-6036
+Gehorsam Feuer hast du ...
+Konzept
+
+Paralipomenon 117
+Wer schildert solchen Ubermuth ...
+Konzept
+Bruchstück
+Text der Handschrift zu WA: I 15.2,196
+
+Paralipomenon 118
+Und wenn du rufst ...
+Konzept
+Text der Handschrift zu WA: I 15.2,197</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,5,16</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (5,16) (WA I,15.2,12 u. 196f.)</p>
+            <p>Entwürfe</p>
+            <p>Erstdruck: WA I,15.2,196f. (P117, P118)</p>
+            <p> x , graues Konzeptpapier, gerippt, beschnittener Foliobogen (1½ Blatt), gefaltet,
+               links Schnittkante; WZ: Stern über `N' / `H' über `Stuetzerbach' (Stuetzerbacher
+               Sternpapier);</p>
+            <p>Seite 1: G Blei P117; G Blei/G Tinte Gedichtentwurf (an Jane Carlyle "Wenn der
+               Freund"; WA I,4,283); Agenda-Notizen (26. bis 28. 12. 1827);</p>
+            <p>Seite 2: G Blei 60276030 Var; G Tinte 6019f. Var; beides mit Tinte als erledigt
+               gestr.; G Blei P118, mit Tinte als erledigt gestr.;</p>
+            <p>Seite 3: G Blei 60056026 Var (ohne 6019f.), 6030, 6035f., mit Rötel als erledigt
+               gestr.; am Rand 6031f.;</p>
+            <p>Seite 4: G Blei/Rötel Gedichtentwürfe (Neujahrsgedicht für Carl August "Fehlt der
+               Gabe" [WA I,4,283] und "Wasserstrahlen reichsten Schwalles" [WA I,4,282]), mit Tinte
+               als erledigt gestr.</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Dieser Foliobogen vereinigt in einer für Goethes Arbeitsweise charakteristischen
+               Manier Entwürfe unterschiedlichster Zugehörigkeit. Anhand der Gedichtentwürfe und
+               Agendanotizen lassen sich Anhaltspunkte für die Datierung gewinnen. </p>
+            <p>Auf S. 1 befindet sich der mit Bleistift skizzierte Entwurf zu einem Gedicht an Jane
+               Carlyle vom 27. 12. 1827 ("Wenn der Freund auf blanken Grunde/ Heute dich als Mohr
+               begrüßt/ Neid ich ihm die seelige Stunde/ Wo er deinen Blick genießt"; WA I,4,283).
+               Vgl. Tagebuch 27. 12. 1827: "Kleine Gedichte. Brief an Carlyle John diktirt" (WA
+               III,11,154) und 28. 12.: "Gedichte zu den Neujahrsgeschenken" (WA III,11,154).</p>
+            <p>Bei den Versen auf S. 4 handelt es sich um die Entwürfe zu zwei kleinen Gedichten:
+               einem kurz vor dem Jahreswechsel 1827/28 entstandenen Neujahrsgedicht für Carl </p>
+            <p>IH45 (P117, P118)</p>
+            <p> August (WA I,4,282) und zu dem Gedicht "Wasserstrahlen reichsten Schwalles" (WA
+               I,4,283), das auf einer überlieferten Reinschrift auf den 27. 12. 1827 datiert ist. </p>
+            <p>Die Agendanotizen auf der ersten Seite, die zunächst mit Bleistift notiert und dann
+               zum Teil mit Tinte eigenhändig fixiert wurden, weisen verschiedene Bezüge zu
+               Tagebucheintragungen und Briefen von Ende Dezember 1827 auf und bestätigen so dieses
+               Datum. ( "<u>Riemer:</u> /Homer/ Zauper/ Bremischs/ <u>Tö</u>p<u>fer:</u>/ Xenien/
+               Morgenbl.[att]/ [vgl. den Brief an Töpfer vom 28. 12. 1827; WA IV,43,212f.]
+                  <u>Iken:</u>/ Brocar[dicon]/ Chaum[igrem]/ [am 26. 12. 1827 erhielt Goethe von C.
+               J. L. Iken einen heute im GSA vorhandenen Brief, in dem es unter anderem um die hier
+               notierten Begriffe `Brocardicon' und `Chaumigrem' geht] J<u>ohn:</u>/ Rechnungen/
+               [vgl. Tagebuch vom 26. 12. 1827; WA III,11,153] <u>Buchbinder:</u> Octav Ausg./ [xxx]
+               Tabelle/ [xxx] Zelter / München: Herme[xx]/ Meda[xx]/ Blat[xx]/ [vgl. Tagebuch vom
+               28. 12. 1827; WA III,11,154] <u>Carlisle:</u> Sendung angek./[xxx] der Ankunft/
+               German Roman/ Monthly Rev/ Verfasser/ Nicht zwey/ Baumann/ das [xxx] [vgl. Tagebuch
+               vom 27. 12. 1827; WA III,11,154 und das Schreiben an Carlyle vom 1. 1. 1828; WA
+               IV,43,221ff.] Tischer: Gest[xx]/Maj[olika)/ Kast[xx] [vgl. Tagebuch vom 21. 12. 1827;
+               WA III,11,151]" sowie vier weitere verwischte Bleistiftstichwörter und "Böhm. Museum/
+               Sontags Blat".)</p>
+            <p>Die eigenhändigen Entwürfe zur Szene `Lustgarten' (V. 6005-6036 Var) auf den
+               Innenseiten dieses Foliobogens sind in zeitlicher Nachbarschaft zu den übrigen
+               Entwürfen anzusetzen.</p>
+            <p>
+               <b>P118</b> bezieht sich auf die geplanten Geistererscheinungen; vielleicht handelt
+               es sich um einen Entwurf zu der auf H P104, H P105 und H P107 skizzierten Szene, die
+               später jedoch fallengelassen wurde (vgl. Kommentar, hier S. 370): der Kaiser fordert
+               die Beschwörung der Geister Helenas und Paris' von Faust. (Vgl. Morris,
+               Faustparalipomena, S. 194: "Die Verse sollte nicht Mephisto zum Kaiser sprechen, wie
+               die Weimarer Ausgabe annimmt, sondern Faust.") Strehlke bezieht diese Verse dagegen
+               auf den Schluß der Szene `Finstere Galerie' (6297-6299), die jedoch, nach den
+               überlieferten Vorarbeiten zu urteilen, um die Jahreswende 1827/28 noch gar nicht
+               vorgesehen war.</p>
+            <p>Die als <b>P117</b> bezeichneten Bleistiftzeilen auf der 1. Seite des Foliobogens
+               wurden immer wieder als Beleg für den geplanten Auftritt eines `Dichters'
+               herangezogen; dazu vgl. auch P106 (hier S. 343), P113 (hier S. 339f.) und I H60 (hier
+               S. 377).</p>
+            <p>Mit Bezug auf I H60, Z. 21f. meint Blumenthal, daß nach den ursprünglichen Plänen die
+               Karnevalsszene vielleicht mit der Beschwichtigung des Flammenzaubers durch Faust noch
+               gar nicht enden sollte, sondern "noch ein Abgesang des Dichters folgen sollte, wie ja
+               in diesem ersten Akt fast jede Szene in einem Epilog ausklingt" und weist auf P117
+               als einen "unvollständigen Entwurf" zu einem solchen Epilog, der sich hier "mühelos
+               einfügen" ließe (Blumenthal, Goethes letztes Gedicht, S. 150). Wirklich nachgewiesen
+               ist allerdings nicht einmal die Zugehörigkeit dieser vier Entwurfszeilen zum
+               `Faust'.</p>
+            <p> Nachlaßstücke Zweiter Teil, Akt 1</p>
+            <p>
+               <b>I H46</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wer schildert solchen Ubermuth</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="32">Vollständigkeit</f:key>
+            <f:value>Bru</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>117</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 15.2,196</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2873</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,5,16*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,12: H.45</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>I H 45</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>371</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>131</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Wer schildert solchen Übermuth</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>117</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9956</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Gehorsam Feuer hast du</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6005-6036</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3025</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Ende Dez.1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271299</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,12</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.45</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Carlyle, Jane; Sachsen-Weimar-Eisenach, Karl August Großherzog von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Gedichte "Weimar, den 27. December 1827" ("Wasserstrahlen reichsten Schwalles
+               ..." WA I 4,282 früheres und späteres Konzept egh zu Vers 1-4, WA: H.618a und H.618b,
+               I 5.2,175; "An Frau Carlyle" WA I 4,283 Konzept egh zu Vers 1-4, WA: Teil von H.618,
+               I 5.2,175; "Dem Großherzog Carl August" WA I 4,283 Konzept egh, WA: Teil von H.618, I
+               5.2,175; Agendanotizen mit Bezügen zu Tagebucheinträgen und Briefen von Ende Dez.
+               1827, vgl. Bohnenkamp, S 373</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>nach der Beschriftung Streifen von Blatt 1 abgeschnitten</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1128</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3671</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,5,16*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,12: H.45</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>I H 45</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>371</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>131</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Wer schildert solchen Übermuth</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>117</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9956</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Und wenn du rufst</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>118</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 15.2,197</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3702</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,5,16*c</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,12: H.45</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>I H 45</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>372</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>132</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Und wenn du rufst</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>118</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9957</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16*e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Aus dem Nachlaß. An Personen. WA I 4, 177-306</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 4,282,2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271227</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 5.2,175</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>H.618b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>späteres Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="98">Export in die Archivdatenbank</f:key>
+            <f:value>e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Sammelblatt bei "Faust" II, 1. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>18109</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16*g</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Aus dem Nachlaß. An Personen. WA I 4, 177-306</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 4,283,2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18280101</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 5.2,176</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>H.618</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Sachsen-Weimar-Eisenach, Karl August Großherzog von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="98">Export in die Archivdatenbank</f:key>
+            <f:value>e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Sammelblatt bei "Faust" II, 1. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>18376</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16*f</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Aus dem Nachlaß. An Personen. WA I 4, 177-306</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 4,283,1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271227</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 5.2,175</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>H.618</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30a">Zusatz nach der Schriftangabe</f:key>
+            <f:value>zu Vers 1-4</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Carlyle, Jane</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="98">Export in die Archivdatenbank</f:key>
+            <f:value>e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Sammelblatt bei "Faust" II, 1. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>19552</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,16*d</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Aus dem Nachlaß. An Personen. WA I 4, 177-306</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 4,282,2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271227</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 5.2,175</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>H.618a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30a">Zusatz nach der Schriftangabe</f:key>
+            <f:value>zu Vers 1-4</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>früheres Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="98">Export in die Archivdatenbank</f:key>
+            <f:value>e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Sammelblatt bei "Faust" II, 1. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>20155</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

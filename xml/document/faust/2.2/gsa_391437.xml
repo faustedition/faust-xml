@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391437/">
+   <revisionDesc>
+      <change when="2013-01-10" who="henzel">imported</change>
+      <change when="2013-01-10" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-02-23" who="koehler">WA-Nr. Briefe</change>
+   </revisionDesc>
+   <!-- historischer Zustand des Konvoluts:
+   Blatt 1 und Blatt 4 bildeten erst eine Einheit, sie wurden auf identische Weise zugeschnitten; Blatt 2 und 3 wurden später dazwischengelegt (hierfür wurde jeweils gerade greifbares, bereits auf einer Seite beschriebenes Papier verwendet -->
+   <metadata>
+      <headNote>2 Einzelblätter, 2 Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>dabei: auf Blatt 2: eigenhändiges Briefkonzept mit Bleistift zu WA IV 47,198,1-5 (an H.
+         Wilmans, 29.8.1830, WA-Nr. 47163); ebd.: eigenhändiges Konzept mit Bleistift eines
+         Begleitschreibens zu einer Sendung , womöglich an Th. Carlyle vom 29.8.1830 (vgl. WA IV 47,
+         279,1-5, WA-Nr. 47237); auf Blatt 3: eigenhändiges Konzept mit Bleistift: Weisung der
+         Oberaufsicht über die unmittelbaren Anstalten für Wissenschaft und Kunst an H. L. F.
+         Schrön, 2.7.1830 (überliefert als Aktenkopie in GSA 31/II,6)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.70</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,33</idno>
+      <idno type="gsa_2">GSA 25/W 1562</idno>
+      <idno type="gsa_ident">391437</idno>
+      <idno type="wa_faust">2 II H.70</idno>
+      <textTranscript uri="391437.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <!-- GSA Konzept -->
+      <condition>kleine lochförmige Ausdünnungen des Papiers</condition>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            60</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 61-66</reference>
+         <!-- TODO zur Datierung vgl. Fischer-Lamberg, R., Der Schluß der Klassischen Walpurgisnacht, in: Grumach, E., Beiträge zur Goetheforschung, Berlin 1959, S. 282 ff. -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <!-- Blatt 1 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">207</width>
+            <height unit="mm">335</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 203 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 330 mm.</note>
+         <format>2</format>
+         <leafCondition>am linken Rand Spuren einer früheren Einbindung in eine Mappe oder
+            ähnliches</leafCondition>
+         <edges>cut</edges>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>Stern über "N 1"</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- Blatt 2 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">168</width>
+            <height unit="mm">208</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 165 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 206 mm.</note>
+         <format>none</format>
+         <leafCondition>Vergilbung am unteren Rand</leafCondition>
+         <edges>cut</edges>
+         <note>Risskante oben</note>
+         <chainLines unit="mm">27</chainLines>
+         <paperMill>n.s.</paperMill>
+         <watermarkID>none</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <note>Federprobe „h“ am oberen Rand.</note>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- Blatt 3 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">197</width>
+            <height unit="mm">260</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 195 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 264 mm.</note>
+         <format>none</format>
+         <leafCondition>Vergilbung der Ecken rechts oben sowie links unten, roter Fleck in der
+            unteren rechten Ecke der Vorderseite; auf der Rückseite Spuren einer abgeschnittenen
+            Tintenschrift; ursprünglich in der Mitte waagerecht gefaltet</leafCondition>
+         <edges>cut</edges>
+         <chainLines unit="mm">27</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>Stern über "N 1"</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0010.xml"/>
+            <!-- <docTranscript uri="0011.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0009.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- Blatt 4 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">206</width>
+            <height unit="mm">335</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 202 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 330 mm.</note>
+         <format>2</format>
+         <leafCondition>am linken Rand Spuren einer früheren Einbindung in eine Mappe oder
+            ähnliches</leafCondition>
+         <edges>cut</edges>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0007.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0008.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= späteres Konzept im Vgl. zu den Versen 8359-8378 auf H.71 (25/XVII,8,34); zur Datierung vgl. Fischer-Lamberg, R., Der Schluß der Klassischen Walpurgisnacht, in: Grumach, E., Beiträge zur Goetheforschung, Berlin 1959, S. 282 ff.</f:bemerkung>
+      <f:datierung>nach dem 29.8.1830</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

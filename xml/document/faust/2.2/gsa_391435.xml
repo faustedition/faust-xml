@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391435/">
+<revisionDesc>
+   <change when="2012-12-07" who="henzel">imported</change>
+   <change when="2012-12-07" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">URIs fuer Handschriftensiglen</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>bildete ursprünglich mit faust://document/wa_faust/2_II_H.19 und faust://document/wa_faust/2_II_H.56 einen Foliobogen; auf Umschlag Teil der Adresse Goethes durch einen zeitgenössischen Schreiber mit Tinte: "Weimar" [gehörte ursprünglich zur Aufschrift auf faust://document/wa_faust/2_II_H.56]</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.58</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,23</idno>
+      <idno type="gsa_2">GSA 25/W 1550</idno>
+      <idno type="gsa_ident">391435</idno>
+      <idno type="wa_faust">2 II H.58</idno>
+      <textTranscript uri="391435.xml"/>
+      <classification>Konzept</classification>
+      <condition>rote Siegelreste, war ursprünglich mehrfach zusammengefaltet; fleckig</condition>     
+     <dimensions>
+        <width unit="mm">205</width>
+        <height unit="mm">214</height>
+     </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 202 mm. Der Mindestwert der Blatt-Höhe beträgt 209 mm.</note>
+      <format>none</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbräunlich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <paperMill>n.s.</paperMill><!-- TODO Mühle nachtragen (s. 391409 oder 390196) -->
+      <watermarkID>none</watermarkID>
+      <countermarkID>"C T R"</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 56</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 36f., 56</reference>
+         <!-- TODO Fischer-Lamberg, S.56 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Fischer-Lamberg, S.56</f:bemerkung>
+      <f:datierung>nach dem 16.2.1830 (?)</f:datierung>
+          </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

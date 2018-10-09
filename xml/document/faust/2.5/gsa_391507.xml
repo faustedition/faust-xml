@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391507/">
+<revisionDesc>
+   <change when="2012-12-03" who="henzel">imported</change>
+   <change when="2012-12-03" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.16</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,17:1</idno>
+      <idno type="gsa_2">GSA 25/W 1713</idno>
+      <idno type="gsa_ident">391507</idno>
+      <idno type="wa_faust">2 V H.16</idno>
+      <textTranscript uri="391507.xml"/>
+      <classification>Konzept</classification>
+      <condition>zweifach waagerecht eingerissen, teilweise mit Papier wieder zusammengeklebt, ursprünglich zweimal zusammengefaltet</condition>
+      <dimensions>
+         <width unit="mm">128</width>
+         <height unit="mm">136</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 126 mm. Der Mindestwert der Blatt-Höhe beträgt 134 mm.</note>
+      <format>none</format>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">none</chainLines>
+      <watermarkID>drei Buchstaben</watermarkID><!-- "GEM"? -->
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 136</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 136</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 136</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <note>Zeichnung von Walther oder Wolfgang von Goethe(?): Kopf im Profil.</note>
+            <docTranscript uri="0005.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Wohl eigenhändige Skizze mit Bleistift einer halbrunden Form.</note>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   </archivalDocument>

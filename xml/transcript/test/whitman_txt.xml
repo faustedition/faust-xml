@@ -1,0 +1,180 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+  <teiHeader>
+    <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition"/><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+    <profileDesc>
+      <creation><listChange>
+          <change xml:id="ch01"><desc>writes "I am blac"</desc></change>
+          <change xml:id="ch02"><desc>overstrikes "blac"</desc></change>
+          <change xml:id="ch03"><desc>writes "a curse:"</desc></change>
+          <change xml:id="ch04"><desc>writes "H"</desc></change>
+          <change xml:id="ch05"><desc>overwrites "H" with "A black"</desc></change>
+          <change xml:id="ch06"><desc>overstrikes "A black"</desc></change>
+          <change xml:id="ch07"><desc>writes "a black slave spoke me"</desc></change>
+          <change xml:id="ch08"><desc>writes "I darted like a snake from his mouth"</desc></change>
+          <change xml:id="ch09"><desc>overstrikes "black slave" and writes "negro"</desc></change>
+          <change xml:id="ch10"><desc>overstrikes "spoke" and writes "felt"</desc></change>
+          <change xml:id="ch11"><desc>overstrikes "felt" and writes "thought"</desc></change>
+          <change xml:id="ch12"><desc>overstrikes "thought" and writes "thinks"</desc></change>
+          <change xml:id="ch13"><desc>overstrikes "ed"</desc></change>
+          <change xml:id="ch14"><desc>overstrikes "his" and inserts "your"</desc></change>
+          <change xml:id="ch15"><desc>writes "You could not speak for yourself, slave—I lend
+              you my own mouth"</desc></change>
+          <change xml:id="ch16"><desc>overstrikes "You" and writes "He"</desc></change>
+          <change xml:id="ch17"><desc>overwrites "could" with "can"</desc></change>
+          <change xml:id="ch18"><desc>overwrites "your" in "yourself" with "him"</desc></change>
+          <change xml:id="ch19"><desc>overstrikes "slave" and writes "negro"</desc></change>
+          <change xml:id="ch20"><desc>overstrikes "you" and writes "him"</desc></change>
+          <change xml:id="ch21"><desc>overstrikes "mouth" and writes "tongue"</desc></change>
+          <change xml:id="ch22"><desc>overstrikes "He" and writes "You"</desc></change>
+          <change xml:id="ch23"><desc>writes "I"</desc></change>
+          <change xml:id="ch24"><desc>overstrikes "I"</desc></change>
+          <change xml:id="ch25"><desc>writes "My eyes are bloodshoo"</desc></change>
+          <change xml:id="ch26"><desc>overwrites "o" with "t"</desc></change>
+          <change xml:id="ch27"><desc>writes ", they look down the river,"</desc></change>
+          <change xml:id="ch28"><desc>writes "A steamboat carries off my woman and
+              children.—"</desc></change>
+          <change xml:id="ch29"><desc>overstrikes "carries off" and writes "paddles
+            away"</desc></change>
+          <change xml:id="ch30"><desc>draws hash marks through the previous two
+            lines</desc></change>
+          <change xml:id="ch31"><desc>writes "Around my neck"</desc></change>
+          <change xml:id="ch32"><desc>overstrikes "Around my neck" and writes "I am"</desc></change>
+          <change xml:id="ch33"><desc>overstrikes "I am"</desc></change>
+          <change xml:id="ch34"><desc>writes "T"</desc></change>
+          <change xml:id="ch35"><desc>overstrikes "T"</desc></change>
+          <change xml:id="ch36"><desc>Writes "The iron necklace and the red sores of my shoulders /
+              I do not feel</desc></change>
+          <change xml:id="ch37"><desc>overstrikes "The" and writes "His"</desc></change>
+          <change xml:id="ch38"><desc>overstrikes "His" and overwrites "i" in "iron" with
+            "I"</desc></change>
+          <change xml:id="ch39"><desc>overstrikes "the"</desc></change>
+          <change xml:id="ch40"><desc>overstrikes "my" and writes "the"</desc></change>
+          <change xml:id="ch41"><desc>overstrikes "feel" and writes "mind,"</desc></change>
+          <change xml:id="ch42"><desc>writes "The hopple and ball"</desc></change>
+          <change xml:id="ch43"><desc>overstrikes "and ball"</desc></change>
+          <change xml:id="ch44"><desc>writes "at my ancles, does not</desc></change>
+          <change xml:id="ch45"><desc>detain me"</desc></change>
+          <change xml:id="ch46"><desc>overstrikes "The" and overwrites "h" in "hopple" with
+              "H"</desc></change>
+          <change xml:id="ch47"><desc>overstrikes "my" and writes "the"</desc></change>
+          <change xml:id="ch48"><desc>insterts "and tight cuffs at the wrists"</desc></change>
+          <change xml:id="ch49"><desc>overwrites "does" with "do"</desc></change>
+          <change xml:id="ch50"><desc>inserts "must"</desc></change>
+          <change xml:id="ch51"><desc>writes "I go down the river, my"</desc></change>
+          <change xml:id="ch52"><desc>overwrites "my" with "with my bloodshot eyes"</desc></change>
+          <change xml:id="ch53"><desc>inserts "the sight of"</desc></change>
+          <change xml:id="ch54"><desc>writes "I go in the steamboat that paddles my wife and
+              children"</desc></change>
+          <change xml:id="ch55"><desc>inserts "will" and "will"</desc></change>
+          <change xml:id="ch56"><desc>overstrikes "will" and "will"</desc></change>
+          <change xml:id="ch57"><desc>overstrikes "in" and writes "to"</desc></change>
+          <change xml:id="ch58"><desc>inserts "aw"</desc></change>
+          <change xml:id="ch59"><desc>overwrites "aw" with "off"</desc></change>
+          <change xml:id="ch60"><desc>overstrikes "wife" and writes "woman"</desc></change>
+          <change xml:id="ch61"><desc>writes "A"</desc></change>
+          <change xml:id="ch62"><desc>overstrikes "A"</desc></change>
+          <change xml:id="ch63"><desc>writes "I do not stop with my woman and
+            children,"</desc></change>
+          <change xml:id="ch64"><desc>writes "I burst down the saloon doors, and crash on
+            a</desc></change>
+          <change xml:id="ch65"><desc>writes "party of passengers.—"</desc></change>
+          <change xml:id="ch66"><desc>overstrikes "down"</desc></change>
+          <change xml:id="ch67"><desc>writes "But for them, I sh"</desc></change>
+          <change xml:id="ch68"><desc>overstrikes "sh" and writes "too should have been on the
+              steamboat</desc></change>
+          <change xml:id="ch69"><desc>writes "I should soon"</desc></change>
+          <change xml:id="ch70"><desc>overstrikes "But for them, I too should have been on the
+              steamboat" and "I should soon"</desc></change>
+          <change xml:id="ch71"><desc>draws hash marks through the last two
+          lines</desc></change></listChange>
+      </creation>
+    </profileDesc>
+  <revisionDesc><change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change><change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change></revisionDesc></teiHeader>
+  <text>
+    <body>
+      <pb facs="uva.00256.001.jpg"/>
+      <lg type="poem">
+        <lg type="linegroup">
+          <l><seg change="#ch01">I am <del rend="overstrike" change="#ch02">black</del></seg>
+            <seg change="#ch03">a curse:</seg>
+            <seg change="#ch07">a <del rend="overstrike" change="#ch09">black slave</del><add rend="unmarked" place="above" change="#ch09"> negro</add><del rend="overstrike" change="#ch10"> spoke</del>
+              <del rend="overstrike" change="#ch11"><add change="#ch10">felt</add></del><del rend="overstrike" change="#ch12"><add place="above" change="#ch11">
+                thought</add></del><add place="above" change="#ch12"> thinks</add> me</seg></l>
+
+          <addSpan spanTo="#a8" change="#ch15" place="interlinear"/>
+          <l><seg change="#ch15"><del rend="overstrike" change="#ch16">You</del><del rend="overstrike" change="#ch22"><add rend="unmarked" place="above" change="#ch16">
+                  He</add></del><add rend="unmarked" place="before" change="#ch22"> You</add><del rend="overwrite" change="#ch17"> could</del><add rend="overwrite" place="over" change="#ch17"> can</add>not speak for<del rend="overwrite" change="#ch18">
+                your</del><add rend="overwrite" place="over" change="#ch18">him</add>self,<del rend="overstrike" change="#ch19"> slave</del><add rend="unmarked" place="above" change="#ch19"> negro</add>.—I lend<del rend="overstrike" change="#ch20">
+                you</del><add rend="unmarked" place="above" change="#ch20"> him</add> my own<del rend="overstrike" change="#ch21"> mouth</del><add rend="unmarked" place="inline" change="#ch21"> tongue</add></seg></l>
+          <anchor xml:id="a8"/>
+
+          <l><del change="#ch06"><del rend="overwrite" change="#ch05"><seg change="#ch04">H</seg></del><add rend="overwrite" change="#ch05">A black</add></del><seg change="#ch08"> I dart<del rend="overstrike" change="#ch13">ed</del> like a snake from
+                <del rend="overstrike" change="#ch14">his</del>
+              <add rend="insertion" place="above" change="#ch14">your</add> mouth.</seg></l>
+        </lg>
+
+        <delSpan rend="hashmarks" spanTo="#a1" change="#ch30"/>
+        <lg type="linegroup">
+          <l><del rend="overstrike" change="#ch24"><seg change="#ch23">I</seg></del>
+            <seg change="#ch25">My eyes are bloodsho<del rend="overwrite" change="#ch26">o</del></seg><add rend="overwrite" place="over" change="#ch26">t</add><seg change="#ch27">, they look down the river,</seg></l>
+
+          <l><seg change="#ch28">A steamboat<del rend="overstrike" change="#ch29"> carries
+                off</del><add rend="unmarked" place="above" change="#ch29"> paddles away</add> my
+              woman and children.—</seg></l>
+        </lg>
+        <anchor xml:id="a1"/>
+
+        <lg type="linegroup">
+          <l><del rend="overstrike" change="#ch32"><seg change="#ch31">Around my
+              neck</seg></del><del rend="overstrike" change="#ch33"><add rend="unmarked" place="inline" change="#ch32"> I am</add></del></l>
+
+
+          <l><del rend="overstrike" change="#ch35"><seg change="#ch34">T</seg></del>
+            <seg change="#ch36"><del rend="overstrike" change="#ch36">The</del>
+              <del rend="overstrike" change="#ch38"><add rend="unmarked" place="above" change="#ch37">His</add></del>
+              <del rend="overwrite" change="#ch38">i</del><add rend="overwrite" place="over" change="#ch38">I</add>ron necklace and <del rend="overstrike" change="#ch39">the</del> red sores of <del rend="overstrike" change="#ch40">my</del>
+              <add rend="unmarked" place="above" change="#ch40">the</add> shoulders<lb/> I do not
+                <del rend="overstrike" change="#ch41">feel</del></seg>
+            <add rend="unmarked" place="above" change="#ch41">mind,</add></l>
+
+          <l><seg change="#ch42"><del rend="overstrike" change="#ch45">The</del>
+              <del rend="overwrite" change="#ch45">h</del><add rend="overwrite" place="over" change="#ch45">H</add>opple <del rend="overstrike" change="#ch43">and
+              ball</del></seg><seg change="#ch44"> at <del rend="overstrike" change="#ch46">my</del>
+              <add rend="unmarked" place="above" change="#ch46">the</add>
+              <choice>
+                <orig>ancles</orig>
+                <reg>ankles</reg>
+              </choice>, <add rend="insertion" place="above" change="#ch47">and tight cuffs at the
+                wrists</add><del rend="overwrite" change="#ch48"> does</del><add rend="overwrite" place="over" change="#ch48"> do</add><add rend="insertion" place="above" change="#ch49"> must</add> not<lb/> detain me</seg></l>
+        </lg>
+
+        <lg type="linegroup">
+          <l><seg change="#ch50">I<del rend="overstrike" change="#ch56"><add rend="insertion" place="above" change="#ch55"> will</add></del> go down the river<del rend="overwrite" change="#ch51"> my</del></seg><add rend="overwrite" place="over" change="#ch51"> with<add rend="insertion" place="above" change="#ch53"> the sight
+                of</add><seg change="#ch52"> my bloodshot eyes,</seg></add></l>
+
+          <l><seg change="#ch54">I <del rend="overstrike" change="#ch56"><add rend="insertion" place="above" change="#ch55">will</add></del> go <del rend="overstrike" change="#ch57">in</del><add rend="unmarked" place="above" change="#ch57">to</add>
+              the steamboat that paddles<del rend="overwrite" change="#ch59"><add rend="insertion" place="above" change="#ch58"> aw</add></del><add rend="overwrite" place="over" change="#ch59">off</add> my<del rend="overstrike" change="#ch60"> wife</del><add rend="unmarked" place="above" change="#ch60"> woman</add> and<lb/> child<supplied cert="high" evidence="conjecture" reason="cut away" resp="#bb">ren</supplied></seg></l>
+        </lg>
+
+        <lg type="linegroup">
+          <l><del rend="overstrike" change="#ch62"><seg change="#ch61">A</seg></del><seg change="#ch63"> I do not stop with my woman and children,</seg></l>
+
+          <l><seg change="#ch64">I burst <del rend="overstrike" change="#ch65">down</del> the saloon
+              doors, and crash on a<lb/> party of passengers.—</seg></l>
+        </lg>
+
+        <delSpan rend="hashmarks" spanTo="#a2" change="#ch72"/>
+        <lg type="linegroup">
+          <l><del rend="overstrike" change="#ch69"><seg change="#ch66">But for them, I <del rend="overstrike" instant="true" change="#ch67">sh</del></seg>
+              <seg change="#ch68">too should have been on the steamboa<supplied cert="high" evidence="conjecture" reason="cut away" resp="#bb">t</supplied></seg></del></l>
+
+          <l><del rend="overstrike" change="#ch71"><seg change="#ch70">I should soon</seg></del></l>
+        </lg>
+        <anchor xml:id="a2"/>
+      </lg>
+
+
+    </body>
+  </text>
+</TEI>

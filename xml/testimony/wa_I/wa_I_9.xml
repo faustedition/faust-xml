@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>WA I, 9</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-08-24" who="krause">Datei angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Testimony pniower_1-->
+            <div>
+                <pb n="39"/>
+                <head rend="centered">Die Mitschuldigen.<lb/>
+                    <hi rend="italic">Ein Lustspiel in Versen und drei Acten.</hi></head>
+                <!-- Lücke -->
+                <pb n="96"/>
+                <!-- Lücke -->
+                <head rend="centered">Sechster Auftritt.</head>
+
+                <p rend="centered">Söller<lb/> (mit Karikatur und Angst).</p>
+                <l n="747">Was gab's? Weh dir! vielleicht in wenig Augenblicken ---</l>
+                <l n="748">Gib deinen Schädel Preis! Parire nur den Rücken!</l>
+                <milestone unit="testimony" spanTo="#pniower_1_end" xml:id="pniower_1"/>
+                <l n="749">Vielleicht ist's 'raus! o weh, o wie mir Armem graus't,</l>
+                <l n="750">Es wird mir siedend heiß. So war's dem <rs>Doctor Faust</rs></l>
+                <l n="751">Nicht halb zu Muth! Nicht halb war's so Richard dem Dritten!</l>
+                <anchor xml:id="pniower_1_end"/>
+                <l n="752">Höll' da! der Galgen da! der Hahnrey in der Mitten!</l>
+                <p rend="centered">(Er läuft wie unsinnig herum, endlich besinnt er sich.)</p>
+                <l n="753">Ach, des gestohlnen Guts wird keiner jemals froh!</l>
+                <l n="754">Geh, Memme, Bösewicht! Warum erschrickst du so?</l>
+                <l n="755">Vielleicht ist's nicht so schlimm. Ich will es schon erfahren.</l>
+                <p rend="centered">(Er erblickt Alcesten und läuft fort.)</p>
+                <l n="756">O weh! er ist's! er ist's! Er faßt mich bei den Haaren.</l>
+                <pb n="97"/>
+
+            </div>
+        </body>
+    </text>
+</TEI>

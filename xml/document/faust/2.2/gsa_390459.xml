@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390459/">
+<revisionDesc>
+   <change when="2012-12-06" who="henzel">imported</change>
+   <change when="2012-12-06" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+   <change when="2015-05-11" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>dabei nicht bestimmter Text egh:
+         „Konnte man sich über ihren Gegen-
+         wärtigen Zustand“ Bohnenkamp: S.
+         519, 33–34 . – Notiz egh: „3 Sphynx“
+         Bohnenkamp: II H 49; S. 519,35 . –
+         Bleistiftskizze egh(?)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.49</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,14</idno>
+      <idno type="gsa_2">GSA 25/W 1541</idno>
+      <idno type="gsa_ident">390459</idno>
+      <idno type="wa_faust">2 II H.49</idno>
+      <!-- P153 -->
+      <idno type="hecker">155</idno>
+      <textTranscript uri="390459.xml"/>
+      <classification>Konzept</classification><!-- ABR: Entwürfe -->
+      <condition>fleckig</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">325</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 192 mm.</note>
+      <format>2</format><!-- ABR: Halbfolio -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39, 222</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 51</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 518</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 222</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 518f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 662</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 51f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 520</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!--  <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+  
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:dabei_vermerk>nichtbestimmter Text egh: "Konnte man sich über ihren gegenwärtigen Zustand"; Notiz egh: "3 Sphinx"</f:dabei_vermerk>
+      <f:datierung>zwischen März und Juni 1830</f:datierung>
+      </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Die auf II H42 isoliert überlieferte Notiz (Februar/März 1830) ist auf II H49 (Z.12) im Kontext gestrichen (bis Juni 1830). Unter Berufung auf P123C (Z. 335ff., hier S. 448) vermutet Witkowski (S. 445): "Chiron, die Flucht des Königs Perseus von Mazedonien schildernd, siehe [P123C, Z. 335ff.] und 7465ff." Näherliegend ist jedoch der Bezug auf Z. 252ff. des P123C (hier S. 444): "Dort bebt die Erde zuerst, bläht sich auf und ein Gebirgsreihen bildet sich aufwärts bis Scotusa abwärts bis an den Peneus bedrohlich sogar den Fluß zu hemmen." Das Stichwort "Seismos" auf II H42 sowie der Entwurfskontext auf II H49 bestätigen die Zugehörigkeit dieser Zeile zur Erdbebenszene: Seismos beschreibt die Ausdehnung des vom Erdbeben betroffenen Gebietes.</p>
+            <p>Z. 14-18: Wohl auf Mephistos Verkleidung als Phorkyas bezogene Entwurfsnotizen.</p>
+            <p>Z. 19-22: Mit Tinte über darunterliegendem Bleistiftentwurf.</p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= zwei K zu diesen Versen, 1. K [mit Blei und Tinte], 2. K [= mit Tinte über darunterliegendem Bleientwurf]</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit II H.47 (25/XVII,8,12*a)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

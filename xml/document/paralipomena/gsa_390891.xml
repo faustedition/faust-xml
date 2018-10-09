@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390891/">
+   <revisionDesc>
+      <change when="2012-11-13" who="bruening">encoded</change>
+      <change when="2014-10-15" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>fragmentiertes Doppelblatt. – Quellenexzerpt für ‚Faust I‘, Szene ‚Walpurgisnacht‘.</headNote>
+      <note>Exzerpte z.T. zurückgehend auf Sueton „De vita Caesarum“ bzw. aus Plinius d. J.
+         „Epistulae“ (Ruppert Nr 1423) (vgl. faust://bibliography/inventare_2_2, Sp. 79).
+         fragmentiertes Doppelblatt (rechte Hälfte des ersten Blattes abgetrennt), 2
+         beschriebene Seiten. - S. 1, linke Spalte und S. 3, linke Spalte: Quellenexzerpt für die
+         Szene ‚Walpurgisnacht‘ in Faust I‘ (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P30</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,20</idno>
+      <idno type="gsa_2">GSA 25/W 1394</idno>
+      <idno type="gsa_ident">390891</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P30</idno>
+      <textTranscript uri="390891.xml"/>
+      <classification>Notiz</classification>
+      <!-- Vorarbeit -->
+      <condition>Tintenfraß.</condition>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <watermarkID>IFK</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 300</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 171</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 301</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 171f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 562f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 172f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <metadata>
+         <format>none</format>
+      </metadata>
+      <leaf>
+         <metadata>
+            <note>Auf Höhe des Längsfalzes halbiert.</note>
+            <dimensions>
+               <width unit="mm">87</width>
+               <height unit="mm">210</height>
+            </dimensions>
+            <format>none</format>
+         </metadata>
+         <!-- NB Die Abbildung gibt derzeit das Quartdoppelblatt als Folioblatt wieder: Dessen Vs. entspricht im Doppelblatt Seite 4 (oben) und Seite 1 (unten), dessen Rs. Seite 3 (oben) und Seite 2 (unten), d.h. Seiten 1 und 4 finden sich auf Transcript uri="0002.xml" und Seiten 3 und 2 auf Transcript uri="0003.xml. -->
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">173</width>
+               <height unit="mm">216</height>
+            </dimensions>
+            <note>Der Mindestwert für die Blatt-Höhe beträgt 209 mm.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>1800 (?)</f:datierung>
+      <f:ident>390891</f:ident>
+      <f:kurztitel>Faust. Erster Theil
+Paralipomenon 30
+Faust Hippomanes. Insomnia paucis ...
+WA: oS; vgl. I 14,300-301
+Vorarbeit
+Exzerpte zT zurückgehend auf Sueton "De vita Caesarum" bzw. aus Plinius d.J. "Epistulae" (Ruppert 1423)
+Text der Handschrift zu WA: I 14,301</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,2,20</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (2,20) (WA I,14,300f.)</p>
+            <p>Exzerpt</p>
+            <p>Erstdruck: WA I,14,300f.</p>
+            <p> x , hellgelbliches Folioblatt, gefaltet, ein Viertel abgetrennt, gerippt; WZ:
+               doppelstrichige Antiqualettern `J F K';</p>
+            <p>VS: G schw. Tinte P30 auf dem verbliebenen Viertel der Seite;</p>
+            <p>RS: Fortsetzung P30</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Ein weiteres Blatt mit Exzerptnotizen, die Goethe sich für die Arbeit am `Faust'
+               notierte; vermutlich im Zusammenhang mit der Arbeit an der Walpurgisnacht. Ist die
+               von Goethe hier ausgewertete "gemeinsame Quelle dieser flüchtigen Notizen" bisher
+               auch nicht nachgewiesen (Witkowski, Walpurgisnacht, S. 74), so läßt sich doch
+               feststellen, daß ein großer Teil der hier notierten Stichworte auf die
+               Kaiserbiographien Suetons verweisen. Daß Goethe für diese Notizen jedoch zumindest
+               auch spätere Quellen vorlagen, zeigt das Stichwort "Somnambule".</p>
+            <p>Z. 2 Hippomanes] (griech./lat.) Brunstschleim rossiger Stuten oder Auswuchs auf der
+               Stirn neugeborener Füllen (beides zu Liebestränken und als Liebeszauber
+               verwendet).</p>
+            <p>Z. 3ff. Insomnia [...] imaginibus] (lat.) `Schlaflosigkeit in den wenigen Stunden der
+               Nacht nicht einmal in sanfter Ruhe sondern furchtsam durch wundersame Bilder von
+               Dingen'. Vgl. Sueton, Caligula 50,2f./51,1 (Caligula): "Creditur potionatus a
+               Caesonia uxore amatorio quidem medicamento, sed quod in <i>furorem</i> verterit.
+               incitabatur <i>insomnio</i> maxime; neque enim plus quam tribus <i>nocturnis
+                  horis</i> quiescebat: ac <i>ne</i> iis <i>quidem placida quiete, sed pavida miris
+                  rerum imaginibus</i> [...]. Non immerito mentis valitudini attribuerim
+               diversissima in eodem vitia, <i>summam confidentiam,</i> et contra <i>nimium
+                  metum.</i>" (`Man nimmt an, daß seine Gattin Caesonia ihm einen Liebestrank
+               gegeben, der ihn aber wahnsinnig gemacht habe. Besonders HP30</p>
+            <p> litt er unter Schlaflosigkeit: er konnte nämlich nicht länger als drei Stunden
+               schlafen und genoß auch während dieser keinen ruhigen Schlaf, sondern wurde durch
+               merkwürdige Traumgesichter beunruhigt [...]. Wohl mit Recht darf ich es auf Caligulas
+               Geisteszustand zurückführen, daß er in sich zwei völlig entgegengesetzte Fehler
+               vereinigte, nämlich größte Unverfrorenheit und daneben übergroße Ängstlichkeit.') </p>
+            <p>Z. 6 Furor] (lat. ) Wahnsinn; auch personifiziert als Nachtgespenst (furor
+               nocturnus).</p>
+            <p>Z. 7 Somnambule] frz., Ende des 17. Jhdts. aus lat. `somnus' (Schlaf) und `ambulare'
+               (gehen) gebildet; Schlafwandler.</p>
+            <p>Z. 9f. Summa Confidentia et nimius metus] (lat.) `Höchstes (Selbst-)Vertrauen und
+               übermäßige (nicht weniger) Furcht'.</p>
+            <p>Z.11f. toiV eutucousi kai trimena paidia] (griech.) `den Glücklichen auch
+               Dreimonatskinder'. (Goethe schreibt wohl irrtümlich trimena für trimhna.) Sueton
+               berichtet über die Geburt des Nero Claudio Drusus, mit dem Livia bereits 6 Monate
+               schwanger war, als sie den Augustus heiratete. Daraus entstand das Sprichwort, daß
+               die Glücklichen ihre Kinder auch in drei Monaten bekommen. ("Patrem Claudi Caesaris
+               Drusum, olim Decimum, mox Neronem praenomine, Livia, cum Augusto gravida nupsisset,
+               intra mensem tertium peperit, fuitque suspicio ex vitrico per adulterii consuetudinem
+               procreatum. Statim certe vulgatus est versus: `ToiV eutucousi kai trimhna paidia.'"
+               (`Den Vater des Claudius Caesar, Drusus, der erst den Vornamen Decimus trug und dann
+               Nero hieß, gebar Livia, die bereits schwanger den Augustus geheiratet hatte, noch vor
+               Ablauf von drei Monaten, und es bestand der Verdacht, daß er (Drusus) dem
+               ehebrecherischen Verkehr mit seinem Stiefvater entstammte. Zumindest verbreitete sich
+               gleich (i.e. nach seiner Geburt) der Spruch: <i>Der Glückliche bekommt auch ein
+                  Dreimonatskind.</i>' (Sueton, Claudius 1,1.) Vielleicht in Verbindung zu bringen
+               mit der kurzen Schwangerschaft der Hexen? (Witkowski, Walpurgisnacht, S. 74.)</p>
+            <p>Z. 13f. a sinistra [...] aquila] `Auf der Linken eine Krähe und ein Specht/ auf der
+               Rechten ein Rabe und ein Adler'. Wohl auf die Zukunft weissagende Vogelschau der
+               Alten bezüglich; der Flug des Raben zur rechten und der der Krähe zur linken galt als
+               günstiges Omen.</p>
+            <p>Z. 15-21: Vgl. Z. 11f.</p>
+            <p>Z. 22-30: Für die auf der Rückseite notierten Stellen aus Plinius (epist. VI,20,19:
+               `[die meisten], außer sich vor Furcht durch die schrecklichen Weissagungen,
+               verhöhnten sowohl ihr eigenes wie auch das fremde Unheil'; VI,21,5: `es fehlte ihm
+               nicht an Kraft, Größe, Feinsinn, Bitterkeit, Süße, Anmut') ist eine Beziehung auf den
+               `Faust' wohl unwahrscheinlich. Die Angaben "Pl. ep 443" u. "445" in Z. 22 und 26
+               meinen die Seitenzahlen in Goethes Plinius-Ausgabe (vgl. Ruppert, Nr. 1423); der vor
+               den Plinius-Stellen notierte Eintrag "Wilh" (für "Wilhelm"?) steht wohl nur zufällig
+               und ohne Zusammenhang hier.</p>
+            <p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+            <p>
+               <b>H P22</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor Überlieferungsform)</f:key>
+            <f:value>Exzerpte zT zurückgehend auf Sueton "De vita Caesarum" bzw. aus Plinius d.J.
+               "Epistulae" (Ruppert 1423)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,20</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1800 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1800</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Faust Hippomanes. Insomnia paucis</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 14,300-301</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>oS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Vorarbeit</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>30</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,301</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Sueton (Gaius Suetonius Tranquillus); Ruppert, Hans; Plinius d. J. (Gaius
+               Plinius Caecilius Secundus)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1065</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3233</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,20</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,300-301</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P30</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>171</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>--</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Faust Hippomanes</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>30</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9892</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

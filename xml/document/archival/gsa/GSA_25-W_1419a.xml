@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-W_1419a/">
+   <revisionDesc>
+      <change when="2013-02-04" who="henzel">encoded</change>
+      <change when="2014-10-17" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+      <change when="2016-02-08" who="koehler">references</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Achteckiges Schmuckblatt mit umlaufender goldener Blattornamentik.
+         Geschenkblatt, 1 beschriebene Seite. - Vs.: Gedichtreinschrift, Text entsprechend Versen  in ‚Faust II‘, Akt 1.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.9m</idno>
+      <idno type="gsa_2">GSA 25/W 1419a</idno>
+      <idno type="gsa_ident">443124</idno>
+      <note>alte GSA-Signatur (bis zur Verfilmung): NZ 10/07</note>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="GSA_25-W_1419a.xml"/>
+      <classification>none</classification>
+      <!-- Reinschrift -->
+      <history>Schenkung im Jahr 2007 über eine testamentarische Verfügung aus Weimarer
+         Privatbesitz</history>
+      <condition>Geschenkblatt wurde offensichtlich auf der Rückseite cachiert. Am oberen Rand 17 mm
+         langer Einschnitt, durch den ein nicht erhaltenes Geschenkband durchgefädelt
+         war.</condition>
+      <dimensions>
+         <width unit="mm">128</width>
+         <height unit="mm">96</height>
+      </dimensions>
+      <note>Der Wert der Blatt-Breite an den kurzen Kanten beträgt 66 mm. Der Wert der Blatt-Höhe an
+         den kurzen Kanten beträgt 50 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>none</paperType>
+      <note>Karton</note>
+      <paperColour>graubraun</paperColour>
+      <chainLines unit="mm">none</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="text" uri="faust://bibliography/henke2008">S. 266</reference>
+         <reference type="facsimile" uri="faust://bibliography/henke2008">S. 267</reference>
+         <reference type="essay" uri="faust://bibliography/henke2008">S. 266-269</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="443124_1recto.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="443124_1verso.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

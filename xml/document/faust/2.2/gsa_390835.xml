@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390835/">
+<revisionDesc>
+   <change when="2013-01-10" who="henzel">imported</change>
+   <change when="2013-01-10" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf dem Blatt eigenhändige Datierung "17.10." mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P149</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,7</idno>
+      <idno type="gsa_2">GSA 25/W 1780</idno>
+      <idno type="gsa_ident">390835</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P149 -->
+      <idno type="bohnenkamp">H P149</idno>
+      <textTranscript uri="390835.xml"/>
+      <classification>Notiz</classification>
+      <condition>leichter Tintendurchdruck</condition>
+      <dimensions>
+         <width unit="mm">144</width>
+         <height unit="mm">136</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 133 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+      <note>angeschnitten</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 221</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 472</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 221</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 472</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 647</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 472</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S. 472</f:bemerkung>
+      <f:datierung>"17.10." [1829(?)]</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Diese Entwurfszeilen zur `Klassischen Walpurgisnacht' (vgl. etwa V. 7856 oder 8260 und 8315f.) sind auf den 17. 10. datiert. Da entsprechende Zeilen in endgültiger Fassung im Mundum II H74 (vgl. hier S. 522f.) schon auftauchen, das im Juni 1830 abgeschlossen war (vgl. Fischer-Lamberg, S. 23: "Mit weitgehender Sicherheit kann man [...] vermuten, daß der Abschluß des Manuskripts auf Mitte Juni 1830 fällt [...]"), wird es sich bei der vorliegenden Datierung um den Oktober 1829 handeln.</p>
+            <p>Während Erich Schmidt diese Verse als Äußerung des "Thales zu Homunculus" bestimmt, verweist Witkowski , S. 444, auf parallele Äußerungen des Proteus (V. 8260, 8315f.). Eine eindeutige Zuordnung zu einem bestimmten Sprecher läßt sich jedoch nicht erreichen (ob er für Goethe überhaupt schon feststand, bleibt offen); der Angesprochene ist zweifellos Homunculus. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

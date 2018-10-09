@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389773/">
+   <revisionDesc>
+      <change when="2012-10-24" who="henzel">imported</change>
+      <change when="2012-11-14" who="henzel">encoded</change>
+      <change when="2013-02-01" who="henzel">aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.7</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,8</idno>
+      <idno type="gsa_2">GSA 25/W 1677</idno>
+      <idno type="gsa_ident">389773</idno>
+      <idno type="wa_faust">2 IV H.7</idno>
+      <textTranscript uri="389773.xml"/>
+      <classification>Konzept</classification>
+      <condition>Auf der Vorderseite des Blattes wurde zur Stärkung des Papiers (wegen einer Rasur auf der Rückseite) ein Stück Papier aufgeklebt.</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <note>Der Mindestbetrag der Blatt-Breite beträgt 201 mm.</note>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">54</stabMark>
+         <stabMark unit="mm">110</stabMark>
+         <stabMark unit="mm">194</stabMark>
+         <stabMark unit="mm">205</stabMark>
+         <stabMark unit="mm">252</stabMark>
+         <stabMark unit="mm">265</stabMark>
+      </stabMarks>
+      <!-- Die letzten Löcher rühren sehr wahrscheinlich von Stichlöchern her, könnten eventuell auch Risse sein. -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <note>sehr feines Schreibpapier</note>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">29</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Rautenkranzwappen mit Krone über "Stuetzerbach"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 132</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390881/">
+   <revisionDesc>
+      <change when="2012-11-16" who="henzel">imported</change>
+      <change when="2012-11-19" who="henzel">encoded</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-05-12" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 7 Blätter nebst Umschlag. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>in blaues Umschlagpapier gebundenes und aus sechs Folioblättern und einem Kuvert in Quartformat zusammengeklebtes und geheftetes Faszikel mit teils eigenhändiger Aufschrift Goethes mit Tinte "Faust / Vierter Act. / Zweyte Hälfte." Briefumschlag mit Adresse Goethes, Siegel von J. F. Rochlitz und Poststempel von 1831: "Leipzig 21. May"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.8</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,9</idno>
+      <idno type="gsa_2">GSA 25/W 1678</idno>
+      <idno type="gsa_ident">390881</idno>
+      <idno type="wa_faust">2 IV H.8</idno>
+      <!-- P184 -->
+      <idno type="hecker">110</idno>
+      <textTranscript uri="390881.xml"/>
+      <classification>Mundum</classification>
+      <container>blauer Umschlag</container>
+      <numberingList>
+         <numbering>Archivarische Foliierung mit Bleistift</numbering>
+      </numberingList>
+      <condition>Kuvert ursprünglich mehrfach gefaltet, vereinzelt Klebespuren, teils fleckig</condition>
+      <format>2</format>
+      <bindingMaterial>Faden, Klebstoff</bindingMaterial>
+      <note>Heftung umfasst alle inneliegenden Blätter; es sind zwei separate Klebungen vorhanden: die erste bindet die Blätter 2-6, die zweite Blatt 7 und 8.</note>
+      <edges>cut</edges>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 240</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 725 <!-- Blatt 5, RS --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 725f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 720 <!-- P 184 --></reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 727f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <!-- blauer Umschlag = 1 -->
+      <metadata>
+         <stabMarks>
+            <stabMark unit="mm">50</stabMark>
+            <stabMark unit="mm">95</stabMark>
+            <stabMark unit="mm">198</stabMark>
+            <stabMark unit="mm">248</stabMark>
+         </stabMarks>
+         <stabMarks>
+            <stabMark unit="mm">71</stabMark>
+            <stabMark unit="mm">130</stabMark>
+            <stabMark unit="mm">231</stabMark>
+            <stabMark unit="mm">274</stabMark>
+         </stabMarks>
+         <!-- gemessen auf Rückseite, von links nach rechts -->
+         <leafCondition>Klebespuren auf der Umschlaginnenseite des folgenden Blatts, das ursprünglich angeklebt war</leafCondition>
+         <paperType>none</paperType>
+         <note>Karton</note>
+         <paperColour>blau</paperColour>
+         <chainLines unit="mm">26</chainLines>
+         <watermarkID>n.s.</watermarkID>
+         <note>schwer zu erkennen aufgrund der Papierdicke und -farbe; könnte Stern oder auch Ochsenkopf sein, rechts davon wahrscheinlich Sächsisches Wappen mit Helm(busch)</note>
+      </metadata>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">209</width>
+               <height unit="mm">342</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 204 mm.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <disjunctLeaf>
+         <!-- 2 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">188</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">64</stabMark>
+               <stabMark unit="mm">123</stabMark>
+               <stabMark unit="mm">224</stabMark>
+               <stabMark unit="mm">268</stabMark>
+            </stabMarks>
+            <leafCondition>Klebespuren auf der Vorderseite, da Blatt ursprünglich auf Umschlaginnenseite geklebt war</leafCondition>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>gelblich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>"JGH" über "N3"</watermarkID>
+            <!-- ABR: "G H" über "N 3" Stuetzerbacher Wappenpapier -->
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 3 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 199 mm.</note>
+            <stabMarks>
+               <stabMark unit="mm">64</stabMark>
+               <stabMark unit="mm">124</stabMark>
+               <stabMark unit="mm">224</stabMark>
+               <stabMark unit="mm">268</stabMark>
+            </stabMarks>
+            <leafCondition>Klebespuren auf der Rückseite am oberen und linken Rand, Loch, das vermutlich bei der Ablösung des Blattes entstanden ist</leafCondition>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>gelblich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>"JGH" über "N3"</watermarkID>
+            <!-- ABR: verschlungenes `G H' über `N 3' (Stuetzerbacher Wappenpapier) -->
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 4 -->
+         <!-- lose einliegend -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">332</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm"/>
+            </stabMarks>
+            <leafCondition>Klebespuren auf der Vorderseite am oberen und linken Rand</leafCondition>
+            <paperType>Konzeptpapier</paperType>
+            <paperColour>graugelblich</paperColour>
+            <chainLines unit="mm">27</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+            <!-- Stuetzerbacher Sternpapier -->
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0008.xml"/>
+               <!-- <docTranscript uri="0007.xml"/> deleatur -->
+            </metadata>
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">145</width>
+                     <height unit="mm">33</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Breite beträgt 128 mm.</note>
+                  <!-- Patch an den Ecken abgeschnitten -->
+                  <patchType>glue</patchType>
+                  <patchPaperType>Konzeptpapier</patchPaperType>
+                  <patchPaperColour>graugelblich</patchPaperColour>
+                  <patchChainLines unit="mm">27</patchChainLines>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface>
+                  <!-- <docTranscript uri="0007.xml"/> TODO pruefen, ob hier doch Anzeige der zu loeschenden Datei -->
+               </patchSurface>
+               <patchSurface>
+                  <!-- TODO eventuell Rückseite aufnehmen -->
+               </patchSurface>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0009.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 5 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">205</width>
+               <height unit="mm">332</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 191 mm (ohne Klebefalz).</note>
+            <stabMarks>
+               <stabMark unit="mm">65</stabMark>
+               <stabMark unit="mm">125</stabMark>
+               <stabMark unit="mm">225</stabMark>
+               <stabMark unit="mm">269</stabMark>
+            </stabMarks>
+            <paperType>Konzeptpapier</paperType>
+            <paperColour>graugelblich</paperColour>
+            <chainLines unit="mm">27</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>Stern über "N1"</watermarkID>
+            <!-- Stuetzerbacher Sternpapier; Stern vermutlich zwölfzackig oder achtzackig -->
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0010.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0011.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 6 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">199</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">63</stabMark>
+               <stabMark unit="mm">123</stabMark>
+               <stabMark unit="mm">223</stabMark>
+               <stabMark unit="mm">267</stabMark>
+            </stabMarks>
+            <leafCondition>Tintenfleck auf unterer Hälfte, am rechten Rand Reste angeklebten und beschriebenen Papiers; in der Mitte des Blattes längs Falzspur</leafCondition>
+            <paperType>Konzeptpapier</paperType>
+            <paperColour>graugelblich</paperColour>
+            <chainLines unit="mm">27</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>"H" über "Stützerbach"</watermarkID>
+            <!-- Stuetzerbacher Sternpapier -->
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0012.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0013.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 7 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm"/>
+            </stabMarks>
+            <leafCondition>an das folgende Kuvert geklebt; Tintenfraß</leafCondition>
+            <paperType>Konzeptpapier</paperType>
+            <paperColour>graugelblich</paperColour>
+            <chainLines unit="mm">27</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+            <!-- Stuetzerbacher Sternpapier -->
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0014.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0015.xml"/>
+               <!-- <docTranscript uri="0016.xml"/> deleatur -->
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <disjunctLeaf>
+         <!-- 8 = Kuvert -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">215</width>
+               <height unit="mm">273</height>
+            </dimensions>
+            <note>Wert der Blatt-Breite einschließlich Klebefalz. Der Mindestwert der Blatt-Höhe beträgt 272 mm.</note>
+            <format>none</format>
+            <stabMarks>
+               <stabMark unit="mm">18</stabMark>
+               <stabMark unit="mm">63</stabMark>
+               <stabMark unit="mm">165</stabMark>
+               <stabMark unit="mm">215</stabMark>
+            </stabMarks>
+            <leafCondition>Tintenfraß</leafCondition>
+            <paperType>Schreibpapier</paperType>
+            <!-- da fest -->
+            <paperColour>gelb</paperColour>
+            <chainLines unit="mm">27</chainLines>
+            <watermarkID>none</watermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0017.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0018.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">205</width>
+               <height unit="mm">342</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 199 mm.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>ab Juni 1831</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Das Arbeitsmundum IV H8 besteht aus einem aus sechs, teilweise beschnittenen Folioblättern hergestellten Heft mit der eigenhändigen Aufschrift Goethes: "Faust/ Vierter Act./ Zweyte Hälfte" (ein entsprechender Umschlag aus blauem Papier mit der Aufschrift "Faust IIer Theil Vierter Akt. Erste Hälfte" ist ebenfalls überliefert, jedoch leer). Die einzelnen Verse in diesem sowohl für die Rekonstruktion der Entstehungsgeschichte des 4. Akts als auch für Goethes Arbeitsweise aufschlußreichen Mundum entsprechen weitgehend bereits ihrer endgültigen Fassung (wiedergegeben ist hier aus diesem Grund nur die Rückseite des 5. Blattes mit dem Schema P184); Anordnung und Umfang des Ganzen dagegen wurden im folgenden noch deutlich verändert.</p>
+            <p>IV H8 ist ein heterogen wirkendes Mundum, das aus verschiedenen Blättern zusammengeklebt und -geheftet wurde; die Verwendung eines Briefcouverts mit dem Poststempel vom "21. May" 1831 als letztem Blatt zeigt, daß Teile dieser Reinschrift, mindestens aber die auf diesem Couvert befindlichen Verse erst nach diesem Datum niedergeschrieben wurden. Da außerdem IV H22a (hier S. 723f.) als Vorstufe von Blatt 4 des Mundums IV H8 bestimmt werden kann, läßt sich eine Entstehung ab Juni 1831 annehmen. (Zur relativen Chronologie vgl. auch mein Kapitel zur Entstehungsgeschichte des 4. Akts, hier S. 665ff.)</p>
+            <p>Die Vorderseite des ersten Blattes weist eine Reinschrift Johns auf, die bereits vor der Aufnahme in das Heft geschrieben wurde. Die Vorlage für diese Verse findet sich auf IV H9 (vgl. hier S. 666, Anm. 64). Die von Goethe niedergeschriebenen Verse der Rückseite dagegen sind wohl erst nach Zusammenstellung des Mundums eingetragen worden. Das 2. Blatt weist auf seiner Vorderseite die Verse 10664-10692 in vergleichbarem Duktus von Goethes Hand auf, während die Rückseite wieder eine Reinschrift Johns bietet, für die Vorstufen auf der Rückseite des Sammelblattes IV H6 (hier S. 690) überliefert sind. Die Vorderseite des 3. Blattes trägt eine Reinschrift Johns mit Korrekturen Goethes, die Rückseite einen flüssig-schwungvollen Entwurf von Goethes eigener Hand, in Duktus und Schreibmaterial fortgesetzt auf Blatt 4: ab V. 10758 ist ein neuer Ansatz mit spitzerer Feder zu beobachten. Dieser wird auf der Vorderseite des 5. Blattes fortgesetzt, auf dessen hier wiedergegebener
+               Rückseite sich in Johnscher Reinschrift mit P184 ein Schema zur Schlußszene des Aktes (V. 10931-10976) findet. Blatt 6 und 7 setzen die eigenhändigen Entwürfe von Blatt 4 und 5 fort.</p>
+            <p>Das Mundum bietet eine erste Zusammenstellung schon ausgeführter Passagen, die die noch verbleibenden Lücken deutlich macht und so die Arbeit fördern sollte. (Vgl. zu Goethes Arbeitsweise, hier S. 834-838) IV H8 dokumentiert eine Arbeitsphase, in der wesentliche Teile der Szene `Auf dem Vorgebirg' noch nicht ausgeführt und wohl auch noch nicht geplant waren; es geht jedoch über die vorhandenen Schemata mit der Ausführung der mephistophelischen Schlacht hinaus. Der Text weist nicht nur Lücken auf, auch die endgültige Reihenfolge ist noch nicht erreicht: Passagen, die später den Abschluß der Szene `Hochgebirge' bilden, stehen hier in der Mitte der Szene `Auf dem Vorgebirg' _ der Verlauf der Schlacht wurde während der Entstehung des 4.Akts Nachlaßstücke Zweiter Teil, Akt 4</p>
+            <p>häufig umgestellt: die Abfolge hatte Goethe im Voraus nicht genau geplant. Nachträglich und wohl von Goethe selbst eingetragen sind in diesem Mundum die Hinweise auf die entsprechenden Bibelstellen.</p>
+            <p>Das nach der Szene `Auf dem Vorgebirg' eingetragene Schema <b>P184</b> bietet detaillierte Stichworte zu den Versen 10931-10976, die das Arbeitsmundum ergänzen und zunächst abschließen, bevor hier die noch fehlende Szene `Zelt des Gegenkaisers' nachgetragen wurde.</p>
+            <p>Z.6 Haus und Hof] Vgl. V. 10934.</p>
+            <p>Z.9-11 [...] erklärt er ihn zum Erzkanzler] Die im endgültigen Text vorausgesetzte Identität von Erzbischof und Erzkanzler sollte nach diesem Plan durch eine ausdrückliche Erklärung eingeführt werden.</p>
+            <p>Z. 22 Große Gerechtsame] Vgl. V. 10944.</p>
+            <p>Z. 25f. Wahl und Krönung durch sie entschieden] vgl. V. 10958f.</p>
+            <p>Z.31 <u>Faust</u>
+               <u>Habebald.</u>] Dieser und der auf der (hier nicht wiedergegebenen) Rückseite des Blattes befindliche Eintrag "Faust Raufebold." deuten auf ursprünglich geplante Szenen zwischen Faust und Raufebold sowie Faust und Habebald und einen im Frühjahr 1831 zeitweilig verfolgten Plan zur Ausgestaltung der zweiten Szene des 5. Akts, der die `Drei Gewaltigen' wesentlich stärker einbeziehen sollte. Als Goethe diese Absicht wieder aufgab, wurden die Blätter für die Arbeit am 4. Akt weiterverwendet. Vgl. dazu auch IV Hb (hier S.804), das ebenfalls den Eintrag "Faust Habebald" sowie ein Bruchstück der geplanten Szene enthält.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

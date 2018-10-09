@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391512/">
+<revisionDesc>
+   <change when="2012-11-26" who="henzel">imported</change>
+   <change when="2012-11-26" who="henzel">encoded</change>
+   <change when="2015-02-05" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Versentwurf, möglicherweise zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Eigenhändige Numerierung "ad 22." mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P81</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,7</idno>
+      <idno type="gsa_2">GSA 25/W 1748</idno>
+      <idno type="gsa_ident">391512</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P81</idno>
+      <!-- P81 -->
+      <idno type="hecker">210</idno>
+      <textTranscript uri="391512.xml"/>
+      <classification>n.s.</classification><!-- Konzept? eher Reinschrift -->
+      <condition>Vergilbung am unteren Rand, rechter Rand gewellt, etwas fleckig</condition>
+      <dimensions>
+         <width unit="mm">172</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <note>Der Mindestabstand der Blatt-Breite beträgt 171 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <paperMill>Ilversgehofen</paperMill>
+      <watermarkID>Posthorn</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <!-- TODO Erstdruck: Q, S.181 -->
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 183</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 194</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 183</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 194</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 569</reference>
+         <reference type="facsimile" uri="faust://bibliography/bohnenkamp1994">S. 825</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 195</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   
+  
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase; zur Datierung vgl. Bohnenkamp, S.183</f:bemerkung>
+      <f:datierung>1797/1798</f:datierung>
+     </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Im Zusammenhang mit der Neuordnung 1797/98 entstandene Abschrift Geists: durch die Signatur "ad 22" ebenfalls auf das Nummernschema bezogen. Sie weist die vorliegende Rede Mephistos einer Szene nach dem ersten Auftritt der beiden Weltreisenden am Hofe des Kaisers zu. Über die genaue Zuordnung gehen die Meinungen auseinander; Harnack ordnet die Verse einer geplanten Szene zu, die vom Kaiserhof zur Vermählung mit Helena überleiten sollte (Harnack, S. 580); Witkowski, der von falschen Angaben zum Überlieferungskontext ausgeht, schließt aus der Signatur auf eine Bestimmung für den Anfang des 4. Akts (Witkowski, S. 441), und auch Hecker rechnet das Bruchstück zum 4. Akt (entsprechend verfährt dann auch die BA). Strehlke stellt es in einen Zusammenhang mit P67 und P68 (hier S. 181 und 183), Petsch und Alt ordnen es unter den zweifelhaften und unbestimmten Fragmenten ein. </p>
+            <p>Da das Nummernschema aufgrund der zur Verfügung stehenden Materialien nicht mehr vollständig zu rekonstruieren ist, bleibt jede eindeutige Zuordnung spekulativ. Die Sichtung der überlieferten Bruchstücke läßt es jedoch zweifelhaft erscheinen, das "ad 22" signierte Bruchstück dem (späteren) 4. Akt zuzuordnen: da die Nr. 20 den Auftritt der Protagonisten bei Hofe enthält, bliebe für den gesamten `Helena'-Komplex nur eine Nummer, während auf den Beginn des 4. Aktes noch 8 weitere Nummern folgen würden. Außerdem ist zu bedenken, daß ein "ad 24" signiertes Bruchstück (P83 auf H P82, hier S. 201) wahrscheinlich für eine Szene direkt nach dem Verschwinden Helenas notiert wurde, so daß eine Zugehörigkeit der Nr. 21, 22 und 23 zum `Helena'-Komplex anzunehmen ist.</p>
+            <p>Auch inhaltlich ist das vorliegende Bruchstück keinesfalls zwingend einer im damaligen Plan auf die `Helena'-Episode folgenden Handlung zuzuordnen: "Mephistophles der bisher unter der Gestalt einer alten Schaffnerin von allem Zeuge gewesen", heißt es im P63, Z. 148-152 (hier S. 273), "sucht seinen Freund zu trösten und ihm Lust zum Besitz einzuflösen." Diese Beschreibung scheint wenig mit dem vorliegenden Bruchstück zu tun zu haben. Nun kann zwar P63 nicht als zuverlässiger Zeuge für die alten Pläne gelten, es führt jedoch in mancher Hinsicht näher an die ursprünglichen Absichten heran als die Bezugnahme auf die 25-30 Jahre später ausgeführte endgültige Dichtung des Zweiten Teils. Wenn Morris P82 als "Ausführung der Formel im Paralipomenon 178: `Jener (Mephisto) schildert die Zustände der besitzenden Menschen'" beschreibt (vgl. hier S. 678) und auf dieser Grundlage "in das große Gespräch Fausts und Mephistos am Anfang des vierten Aktes" einordnet, läßt er die
+               chronologischen Verhältnisse, die eine solche Zuordnung eindeutig ausschließen, völlig unbeachtet. (Morris, Faustparalipomena, S. 177f.)</p>
+            <p>Z. 1 Worum] Die WA-Lesart ("Warum", gegen Q) wurde von Hecker wieder korrigiert.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

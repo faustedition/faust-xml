@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390611/">
+   <revisionDesc>
+      <change when="2013-01-23" who="bruening">encoded</change>
+      <change when="2014-01-23" who="henzel">missing entfernt</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Spuren einer Längs- und Querfaltung.
+         Konzept egh, Riemer zu Vers 9939–9943
+         = 3. Konzept im Vgl. mit III H74
+         (GSA 25/W 1660), Vers 9940 in 3 Vari-
+         anten</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.75</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,27</idno>
+      <idno type="gsa_2">GSA 25/W 1661</idno>
+      <idno type="gsa_ident">390611</idno>
+      <idno type="wa_faust">2 III H.75</idno>
+      <textTranscript uri="390611.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">129</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">26.5</chainLines>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 71</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 134</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 135</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 3. Konzept  im Vgl. mit III H.74 (25/XVIII,3,26), Vers 9940 in 3 Varianten</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390611</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9939-9943
+Ein altes Wort bewährt sich leider auch an mir ...
+WA: III H.75; vgl. I 15.2,71
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh; Riemer</f:schrift>
+      <f:signatur>XVIII,3,27</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,27</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Ein altes Wort bewährt sich leider auch an mir</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,71</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.75</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh; Riemer</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9939-9943</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Riemer, Friedrich Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= 3. K im Vgl. mit III H.74 (25/XVIII,3,26), Vers 9940 in 3 Varianten</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1301</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2676</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

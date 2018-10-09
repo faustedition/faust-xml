@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390882/">
+   <revisionDesc>
+      <change when="2012-11-22" who="henzel">imported</change>
+      <change when="2012-11-22" who="henzel">encoded</change>
+      <change when="2015-01-30" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Ergänzungen (Überschrift, Interpunktionszeichen) Eckermanns mit Bleistift und Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P93</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,12</idno>
+      <idno type="gsa_2">GSA 25/W 1754</idno>
+      <idno type="gsa_ident">390882</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P93</idno>
+      <!-- P93 -->
+      <idno type="hecker">229</idno>
+      <!-- P94 -->
+      <idno type="hecker">230</idno>
+      <!-- P95 -->
+      <idno type="hecker">232</idno>
+      <textTranscript uri="390882.xml"/>
+      <classification>Sammelblatt</classification>
+      <condition>ursprünglich in der Mitte längs sowie zweifach quer gefaltet, links ursprünglich mehrfach geknickt</condition>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">216</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 212 mm.</note>
+      <format>n.s.</format><!-- Quart? TODO prüfen, da Wz mittig -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <!-- ABR: dünnes Konzeptpapier -->
+      <paperColour>graugelblich</paperColour>
+      <!-- ABR: graubraun  -->
+      <chainLines unit="mm">24</chainLines>
+      <watermarkID>Lilie</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <!-- TODO Erstdruck: Q, S. 181 -->
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 187</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 750</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 187</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 750</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 722</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 751</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Sammelblatt; WA zu: Paralipomena. Älteste Phase; zur Datierung vgl. Bohnenkamp, S.751, von Eckermann Ergänzung von Interpunktionszeichen</f:bemerkung>
+      <f:datierung>Frühjahr 1825 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> HP93 Dieses Sammelblatt ist offensichtlich eine Abschrift älterer Bruchstücke durch Goethes Schreiber John: "Bezeichnenderweise handelt es sich nicht wie sonst um die Johnsche Abschrift eines einheitlichen Entwurfs, sondern um drei durch kurze Striche getrennte Einzelfragmente früher Prägung, also entweder um die Abschrift eines alten Sammelblatts oder die Zusammenstellung von drei alten Fragmenten, die Goethe sich für die Neubearbeitung der Schlußszenen herstellen ließ." (Grumach, Prolog und Epilog, S. 72, Anm. 27.) Diese Abschrift kann frühestens 1818 entstanden sein, als John für Goethe zu schreiben begann; wahrscheinlich aber ist sie in der Phase der Wiederaufnahme im Frühjahr 1825 angefertigt worden, als Goethe die alten Papiere sichtete und die Fortsetzung der Arbeit vorbereitete. Schon Hertz bezeichnet Schmidts Datierung der Abschrift auf 1824 als Irrtum: "Tatsächlich ist kein Zweifel, daß Goethe die Reinschriften anfertigen ließ, sobald er an die Ausarbeitung
+               des zweiten Teiles herantrat." (Hertz, Entstehungsgeschichte Faust II Akt 5, S. 250.) </p>
+            <p>Z. 2-5 <b>(P93)</b>: Mephisto im Hinblick auf Faust, kurz vor dessen Tode. Vgl. V. 11589f.</p>
+            <p>Z. 6-12 <b>(P94)</b>: Mephisto unmittelbar nach Fausts Tod mit Bezug auf die im `Prolog im Himmel' angebotene Wette, die zu gewinnen hier sein Hauptanliegen ist. Die Vorstellung, daß die Seele nach dem Tode Fausts sich "einen neuen Körper schafft", erinnert an Goethes "aus dem Begriff der Tätigkeit" entspringende "Überzeugung unserer Fortdauer", von der er am 4. 2. 1829 zu Eckermann sagt: "[...] denn wenn ich bis an mein Ende rastlos wirke, so ist die Natur verpflichtet, mir eine andere Form des Daseins anzuweisen, wenn die jetzige meinem Geist nicht ferner auszuhalten vermag."</p>
+            <p>Z. 7 Paradebette] hier: Leichenbett.</p>
+            <p>Z. 8 sich entraft] sich herauslöst, sich entzieht; vgl. V. 12089.</p>
+            <p>Z. 13-16 <b>(P95)</b>: Mephisto stellt enttäuscht fest, daß nicht "der Herr" dem zu erwartenden Himmelsgericht vorstehen wird, sondern als "Reichsverweser" sein Sohn. Diese ungewöhnliche Bezeichnung für Christus geht auf die apostolischen Briefe Petri und an die Hebräer zurück, in die die alte mosaische Vorstellung eingegangen ist, "nach welcher Gott als der unmittelbare Beherrscher seines Volks betrachtet [wird] und ihm also nicht nur ein Pallast, eine Residenz, ein Land [...] sondern auch eine weitläuftige Bedienung zugeeignet wurde, die nun eben die Priester und Leviten ausmachten. Jene waren gleichsam die Staatsbedienten, diese das Hofgesinde [...] Jesus der höchste Reichsbediente Gottes auf der Welt [...] _ aber eines ganz andern Reichs _ denn eben er habe jene sichtbare Regierungsform aufheben, eine Anbetung Gottes im Geist und in der Wahrheit einführen [...] sollen; das habe er gethan, und mit einmal durch seinen Tod vollendet. Nun sey er gleichsam zum
+               Reichsverweser erhoben worden (Ebr. 8,1)" (Abraham Teller, Wörterbuch des Neuen Testaments [1785], S. 379f.). Für den Versuch einer Rekonstruktion des um 1797 geplanten Schlusses der `Faust'-Tragödie ist dieses Bruchstück von großer Bedeutung als wichtigstes Indiz für die Hypothese, bei einem abschließenden Gericht im Himmel habe ursprünglich Christus als _ gnadenreicher _ Richter auftreten sollen. (Vgl. etwa Grumach, Prolog und Epilog, sowie hier S. 739-741.)</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

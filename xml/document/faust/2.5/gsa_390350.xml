@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390350/">
+<revisionDesc>
+   <change when="2012-11-23" who="henzel">imported</change>
+   <change when="2012-11-23" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">URI fuer Handschriftensigle</change>
+   <change when="2015-05-12" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.3</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,4</idno>
+      <idno type="gsa_2">GSA 25/W 1699</idno>
+      <idno type="gsa_ident">390350</idno>
+      <idno type="wa_faust">2 V H.3</idno>
+      <subidno type="wa_faust">2 V H.3α</subidno>
+      <textTranscript uri="390350.xml"/>
+      <classification>Konzept</classification>
+      <condition>rechter Rand vergilbt und leicht gewellt, am linken Rand geringfügig vergilbt</condition>
+      <dimensions>
+         <width unit="mm">177</width>
+         <height unit="mm">119</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 116 mm.</note>
+      <format>8</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>David mit Harfe</watermarkID>
+      <note>angeschnittenes Wasserzeichen; ergänzender Teil des Wasserzeichens auf faust://document/wa_faust/2_P97_H.1</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 112</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 153f.</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 112</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 112f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>            
+         </metadata>
+      </page>
+   </disjunctLeaf>
+  
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>gedruckt in WA I 15.2,153-154 als H.3alpha und H.3; = 1. und 2. K zu diesen Versen, vgl. Landeck, S.112-113 (1. und 3. K laut WA I 15.2,154)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

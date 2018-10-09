@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+  <date notBefore="1825-05-22" notAfter="1828-01-10">
+    <!-- zwischen 22-05-1825 (Göttlings Übersendung der Revision von B 8; QuZ II, S. 179f., Nr. 447) 
+      und 10-01-1828 (Beginn des Satzes von C.1 12; QuZ II, S. 526, Nr. 1221) -->
+    <source uri="faust://self"/>
+    <comment>Göttlings Übersendung der Revision von B 8; QuZ II, S. 179f., Nr. 447 / 
+      Beginn des Satzes von C.1 12; QuZ II, S. 526, Nr. 1221</comment>
+    <item uri="faust://document/faustedition/1_H.1"/>
+  </date>
+  <date notBefore="1808-10-01" notAfter="1809-12-31">
+    <!-- Cf. https://github.com/faustedition/xml/issues/598
+    "Bearbeitungsdatum: zwischen Oktober 1808 und Ende Dezember 1809 (wahrscheinlich)" -->
+    <source uri="faust://self"/>
+    <item uri="faust://document/faustedition/1_H.2"/>
+  </date>
+  <date when="1825-06-12">
+    <source uri="faust://self"/>
+    <comment>Briefdatum</comment>
+    <item uri="faust://document/faustedition/1_H.6"/>
+  </date>
+  <!-- zum folgenden https://github.com/faustedition/xml/issues/634#issuecomment-424342621 -->
+  <!--  H.7: 07-11-1775 (Ankunft in Weimar) bis 24-08-1788 
+    (Brief an Charlotte von Stein, Abschluss der Sammlung der Gedichte für S 8 = QuZ I, Nr. 302) 
+    (ich würde aber ein Datum um 1783/84 vermuten) -->
+  <date notBefore="1775-11-07" notAfter="1788-08-24">
+    <source uri="faust://self"/>
+    <comment>Ankunft in Weimar / Brief an Charlotte von Stein, Abschluss der Sammlung der Gedichte für S 8 
+      (zu vermuten ist eine Datierung um 1783/84)</comment>
+    <item uri="faust://document/faustedition/1_H.7"/>
+  </date>
+  <!--  H.9: 21-06-1799 (WA III 2, 254 = QuZ I, Nr. 749) bis 04-11-1799 (WA III 2, 268 = QuZ I, Nr. 776) -->
+  <date notBefore="1799-06-21" notAfter="1799-11-04">
+    <source uri="faust://self"/>
+    <comment>WA III 2, 254 = QuZ I, Nr. 749 / WA III 2, 268 = QuZ I, Nr. 776</comment>
+    <item uri="faust://document/faustedition/1_H.9"/>
+  </date>
+  <date notBefore="1800-11-02" notAfter="1800-11-08">
+    <source uri="faust://self"/>
+    <comment>ABR, September 24, 2018 8:41 PM: "H P 30: die wahrscheinliche Zugehörigkeit zu den Walpurgisnachtvorarbeiten
+      lässt eine Datierung analog zu H P 27ff. plausibel erscheinen. Angeben?"</comment>
+    <item uri="faust://document/bohnenkamp/H_P30"/>
+  </date>
+</macrogenesis>

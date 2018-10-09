@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391373/">
+   <revisionDesc>
+      <change when="2012-11-06" who="henzel">imported</change>
+      <change when="2012-11-06" who="henzel">encoded</change>
+      <change when="2013-01-15" who="henzel">aktualisiert</change>
+      <change when="2014-10-08" who="pravida">headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Entwürfe zu ‚Faust I‘ und zu ‚Faust II‘.</headNote>
+      <note>Sammelhandschrift
+         Einzelblatt, 2 beschriebene Seiten. – Vs.: Paralipomena 36, 37, Entwurf zu ‚Faust
+         I‘, ‚Prolog im Himmel‘ (Geist, Tinte; eigenhändig, Bleistift). Rs.: Paralipomena 49, 70,
+         71, 18, 70, 72, 73, 74, 51, 2, 45, 46 (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.4</idno>
+      <idno type="gsa_1">GSA 25/XVII,1,2</idno>
+      <idno type="gsa_2">GSA 25/W 1361</idno>
+      <idno type="gsa_ident">391373</idno>
+      <idno type="wa_faust">1 0 3 H</idno>
+      <idno type="bohnenkamp">H P2</idno>
+      <!-- P2, Hecker 11 -->
+      <!-- P18, Hecker 19 -->
+      <!-- P36, Hecker 60 -->
+      <!-- P37, Hecker 59 -->
+      <!-- P45, Hecker 45 -->
+      <!-- P46, Hecker 46 -->
+      <!-- P49, Hecker 50 -->
+      <!-- P51, Hecker 12 -->
+      <!-- P70, Hecker 116 -->
+      <!-- P71, Hecker 139 -->
+      <!-- P72, Hecker 140 -->
+      <!-- P73, Hecker 141 -->
+      <!-- P74, Hecker 142 -->
+      <textTranscript uri="391373.xml"/>
+      <classification>Konzept</classification>
+      <condition>fleckig</condition>
+      <dimensions>
+         <width unit="mm">209</width>
+         <height unit="mm">346</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 206 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <note>gefaltetes Folioblatt, rechts abgetrennt, die übrigen Ränder abgestoßen</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Grün (Doubrava/Böhmen)</paperMill>
+      <!-- nicht sicher, (vgl. H P20) -->
+      <watermarkID>Wappen mit Querbalken, Helm und Helmzier, darüber kleines Schild oder
+         Büffelhörner (schlecht erkennbar), vermutlich Wappen von Zedwitz</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 253, 255</reference>
+         <!-- I 53,555, zu 1327–1330: „vgl. Faust-Paralip. 62 (14, 313)“. Als bloßer Verweis relevant -->
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 113</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 113</reference>
+         <!-- TODO <reference uri="">Erstdruck: C1, Bd. 4, S. 356 (P72 als `Zahme Xenie')</reference> -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 113-115</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 287<!-- Par. 2 -->,
+            293<!-- Par. 18 -->, 302<!-- Par. 36 als auch 37 -->, 303f.<!-- Par. 45 -->,
+            304<!-- Par. 46 -->, 305<!-- Par. 49 -->, 311<!-- Par. 51 --></reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S.
+            181<!-- Par. 70, 71 als auch 72 -->, 182<!-- Par. 73 als auch 74 --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 113-115</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 546f.</reference>
+         <reference type="essay" uri="faust://bibliography/grumach1953">S. 67-71</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 116-119</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <!-- Par. 36, 37 -->
+            <references>
+               <reference type="text" uri="faust://bibliography/grumach1953">S. 68f.</reference>
+               <reference type="facsimile" uri="faust://bibliography/grumach1953">Abb. 1, nach S.
+                  64</reference>
+            </references>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- Par. 49, 70, 71, 18, 70, 72, 73, 74, 51, 2, 45, 46 -->
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/1798</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Ein offensichtlich zunächst als Arbeitsmundum angelegtes und dann als Sammelblatt
+               weiterverwendetes Blatt. Die Vorderseite zeigt eine Entwurfsfassung von Versen des
+               `Prolog im Himmel' in einer Reinschrift des Schreibers Geist mit Korrekturen und
+               Ergänzungen Goethes. Wahrscheinlich nach der `Erledigung' dieses Entwurfs durch
+               Übertragung der überarbeiteten Verse auf ein neues Blatt nutzte Goethe die Rückseite
+               als Sammelblatt. Die Rückseite weist 12 eigenhändige, mit Doppelstrichen voneinander
+               getrennte Einträge sehr unterschiedlichen Charakters auf: gereimte Vierzeiler,
+               rhythmisch organisierte Zweizeiler, bloße Notizen und das Fragment eines Schemas.</p>
+            <p>Nach Duktus und Anordnung der einzelnen Einträge zu urteilen, erfolgte die
+               Niederschrift in einem Zuge: Goethe scheint verstreut aufgezeichnete Einfälle
+               unterschiedlichster Natur aus den alten `Faust'-Papieren hier in einem Arbeitsgang
+               zusammengestellt zu haben. Die verschiedenen Gedanken- und Verssplitter wurden wohl
+               nicht zuletzt deswegen hier gesammelt, weil Goethe noch keine Klarheit über ihre
+               endgültige Verwendung gewonnen hatte; ein einheitlicher systematischer Zusammenhang
+               ist nicht erkennbar, eine größere Gruppe läßt sich allerdings auf den geplanten
+               Eintritt Fausts in die `große Welt' beziehen (P70-P74).</p>
+            <p>Grumach nimmt an, daß es sich bei diesem Sammelblatt um eine Vorarbeit zu der 1797/98
+               vorgenommenen Neuordnung des `Faust'-Manuskripts handelt (Grumach, Prolog und Epilog,
+               S. 66f. Vgl. mein Kapitel zur Entstehungsgeschichte des `Faust' bis zum Erscheinen
+               des Ersten Teils, hier S. 91-102.) Eine frühere Entstehung läßt sich ausschließen, da
+               Johann Jacob Ludwig Geist erst seit 1795 für Goethe als Schreiber tätig war; die
+               erste seitdem bezeugte `Faust'-Arbeit fällt in das Jahr 1797. Eine erweiterte Version
+               der Notiz P70 (Z. 33) findet sich von der Hand Geists auf einem signierten, also
+               direkt der Arbeit am Nummernschema zuzurechnenden Blatt (H P65, Z. 69f., hier S.
+               189), und Grumach nimmt an, daß es sich dabei um eine sinngemäße Übertragung von H P2
+               auf H P65 handele, der eigenhändige Eintrag auf dem Sammelblatt H P2 also vor dem
+               entsprechenden Eintrag Geists auf H P65 zu datieren sei (Prolog und Epilog, S. 68) _
+               denkbar wäre allerdings auch der umgekehrte Vorgang und damit eine spätere Entstehung
+               des vorliegenden Blattes.</p>
+            <p>In bezug auf die Beschriftungsreihenfolge von HP2 stellt Grumach fest, es spreche
+               alles dafür, daß die Vorderseite mit den Prologversen von der Hand Geists zu- erst
+               beschrieben wurde: "Der umgekehrte Prozeß, d. h. also die Beschriftung der Außenseite
+               vor der Innenseite ist jedenfalls äußerst unwahrscheinlich, denn es ist nicht
+               einzusehen, warum Geist einen von Goethe schon gefalteten und außen quer
+               beschriebenen Quartbogen noch einmal aufgefaltet haben soll, um eine Abschrift des
+               Prologentwurfs vorzunehmen, für die er eine aufrechte Folioseite brauchte." (Grumach,
+               Prolog und Epilog, S. 68.) Das Blatt zeige, daß Goethe zu Beginn der Wiederaufnahme
+               der Arbeit am `Faust' auch am `Prolog' arbeitete: "In jedem Fall lagen wesentliche
+               Teile des Prologs, und zwar die Teile, die mit dem Pakt zwischen Gott und Teufel das
+               tragende Gerüst des Ganzen bilden, schon vor, als Goethe noch mitten im Ordnen
+               des</p>
+            <p> alten Manuskripts war. Der Prologentwurf muß daher entweder in unmittelbarer Nähe
+               der anderen Rahmendichtungen entstanden sein, [...] oder aber ebenso wie die
+               Fragmente, die Goethe auf den Außenseiten des Bogens notierte, schon existiert haben,
+               als er kurz vor dem 22. 6. 1797 das Faustpaket öffnete." (Grumach, Prolog und Epilog,
+               S. 70.) Über den mutmaßlichen Zeitpunkt von Konzeption und Ausführung des Prologs ist
+               immer wieder nachgedacht worden. Während lange angenommen wurde, diese Rahmenhandlung
+               sei ein neuer Gedanke der Schillerzeit, setzt Grumach erste Ideen zu diesem Konzept
+               weit vor der Phase der Wiederaufnahme im Jahr 1797 an (Grumach, Prolog und Epilog, S.
+               82ff.). Einen Überblick über die unterschiedlichen Datierungsvorschläge der Forschung
+               gibt Siegfried Scheibe in seiner Dissertation. (Scheibe, Chronologie von Goethes
+               Faust, S. 235-253.) </p>
+            <p>Wenn, wie Grumach will, die Niederschrift der verschiedenen Textsplitter auf den
+               Innenseiten des gefalteten Folioblatts ebenfalls in die Arbeitsphase der Neuordnung
+               fällt, ist ihre Entstehung jedoch früher anzusetzen: der einheitliche Duktus der
+               zügigen eigenhändigen Einträge spricht dagegen, daß es sich hier um eine Reihe von
+               Einfällen der Niederschriftzeit selbst handelt. Der einheitliche und ordentliche
+               Charakter der Niederschrift (fast ohne Korrekturen!) läßt im Gegenteil auf einen
+               Vorgang des Abschreibens einzelner Splitter aus alten Blättern schließen.</p>
+            <p>Die Einwände Joachim Müllers, der anhand der Prüfung des Manuskripts zu dem Schluß
+               kommt, daß die hier versammelten Splitter in der Zeit des Prologs auch entstanden
+               sein müßten, gehen dagegen von falschen Annahmen über Goethes Arbeitsweise aus. (J.
+               Müller, Prolog und Epilog, Anm. 14.)</p>
+            <p>Z. 1-4 (<b>P36</b>, <b>P37</b>): Der handschriftliche Befund zeigt deutlich, daß die
+               von Schmidt als `Paralipomena' isolierten Zeilen zur Niederschrift des Prologs
+               gehören und wie die folgenden, in die endgültige Version übernommenen Verse wohl dem
+               Mephistopheles in den Mund gelegt werden sollten. Diese Zugehörigkeit hat schon
+               Grumach erkannt und festgestellt, "daß der Prolog ursprünglich in noch stärkerem Maße
+               als seine späte Fassung auf die `Idee' abgestellt war [...], daß der Herr und
+               Mephistopheles hier nicht über Fausts Schicksal verhandeln, sondern über das
+               Schicksal der Menschen. Faust steht hier nicht für sich selbst [...]. Er ist der
+               Mensch schlechthin, der, anstatt `zu sichrem Stand und Lauf' mit vier Beinen auf der
+               Erde zu bleiben, sich mit zweien vom Boden gelöst hat und `stets klettert', ohne doch
+               hinaufzukommen, weil ihm der Flügel `herrliches Organ' fehlt." (Grumach, Prolog und
+               Epilog, S. 69f.)</p>
+            <p>Z. 29-32 <b>(P49)</b>: Vermutlich auf die Ursupation der Rolle Christi durch den
+               Satan in den (geplanten) Satansszenen zu beziehen (Schmidt, Hecker, Weitz). "Berg"
+               würde den Brocken der `Walpurgisnacht' meinen, des "Volckes Hauf" das gleiche "Volck"
+               wie P48 (hier S. 175). Morris allerdings schließt unter Bezugnahme auf den fünften
+               Gesang von Miltons `Paradise Lost' und P1 aus diesem Paralipomenon auf die Existenz
+               eines "Plans, wonach Christus dem Satan Fausts Seele im Chaos auf dem Wege zur Hölle
+               entreissen sollte" (Morris, Faustparalipomena, S. 226) und ordnet</p>
+            <p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+            <p>P49 also dem Ausgang des Spieles zu. Da Morris die Milton-Lektüre Goethes jedoch im
+               Sommer 1799 ansetzt (Morris, Faustparalipomena, S. 225f.), ist ein solcher Bezug eher
+               unwahrscheinlich. Zur Annahme eines ursprünglich geplanten Epilogs, in dem Christus
+               als Weltenrichter auftreten sollte, vgl. jedoch auch Grumach, Prolog und Epilog, S.
+               80f., der P49 als "einzigen uns erhaltenen Rest" dieses alten Planes verstehen
+               möchte. Zum Wandel der Pläne für den Schluß des Dramas vgl. hier S. 739-741.</p>
+            <p>Z. 33 <b>(P70)</b>: Der hier notierte Einfall, Mephisto als "Phisicien de la cour"
+               (Hofarzt) auftreten zu lassen, wurde später im 1. Akt des Zweiten Teils in der Szene
+               `Hell erleuchtete Säle' realisiert. Die Idee, Mephisto bei Hofe als Wundarzt
+               einzuführen, gehört offensichtlich zu den ältesten Plänen; eine entsprechende Szene
+               wird auch in P63 ausführlich geschildert. Vgl. P63, Z. 66-78, hier S. 269; vgl. auch
+               P66, hier S. 189.</p>
+            <p>Z. 34-36 <b>(P71)</b>: Wahrscheinlich ebenfalls auf das Auftreten bei Hofe zu
+               beziehen _ Mephistopheles erläutert Faust das `richtige' Verhalten gegenüber der
+               Hofgesellschaft. Vgl. P63, Z. 51-60, hier S. 286f., wo die Idee ausgeführt wird, daß
+               der Kaiser und die Hofgesellschaft "Gaukeley und Verblendung" den "höheren
+               Forderungen" vorziehen.</p>
+            <p>Z. 35 peroriren] mit Nachdruck vortragen</p>
+            <p>Z. 37-42 <b>(P18)</b>: "bissecirt" wohl irrtümlich für "trisecirt"; wie die Quadratur
+               des Zirkels (die Verwandlung eines gegebenen Kreises in ein flächengleiches Quadrat)
+               ist die Dreiteilung eines beliebigen Winkels eine mit Zirkel und Linear nicht
+               ausführbare mathematische Aufgabe. Von Erich Schmidt dem Mephistopheles zugeschrieben
+               und der geplanten `Disputation' zugeordnet (WA I,14,293); so auch Witkowski (S. 438)
+               und Burdach (Disputationsszene, S. 60f.). Daß eine solche Szene zum Zeitpunkt der
+               Anlage des vorliegenden Sammelblattes bereits geplant war, ist sehr wahrscheinlich.
+               (Vgl. Kommentar zu P11/12, hier S. 229ff.) Welche Rolle das Bruchstück in der
+               geplanten Debatte der `Disputation' möglicherweise spielen sollte, wird durch eine
+               Goethe-Äußerung vom 27. 3. 1814 näher beleuchtet: "Die Natur ist etwas
+               Incommensurables, und wer sich mit der Natur abgiebt, versucht die Quadratur des
+               Cirkels" (Briefe von und an Goethe. Leipzig 1846, S. 353). Eine genaue Zuordnung des
+               Bruchstücks scheint jedoch kaum möglich und wird von Goethe selbst zum Zeitpunkt der
+               Anlage dieses Sammelblatts wohl auch noch nicht vorgenommen worden sein.</p>
+            <p>Z. 43-45 <b>(P70)</b>: Schematisierter Plan zu einem Dialog im Zusammenhang des
+               geplanten Fortgangs der Dichtung (im späteren Zweiten Teil), vgl. P67 und P68, hier
+               S. 181f. und 183f.</p>
+            <p>Z. 46-54 <b>(P72-74)</b>: Splitter im Zusammenhang mit dem vorgesehenen Eintritt
+               Fausts in die `große Welt' (vgl. P71 und P63, hier S. 266ff.); thematisiert wird das
+               Verhältnis des Einzelnen (Faust) zur Menge. P72 und P73 lassen sich als Äußerungen
+               Mephistos zu Faust denken, P74 wäre eher Faust selbst in den Mund zu legen. (Vgl.</p>
+            <p> auch V. 1066.) P72 (wie auch P62, hier S. 128) wurde von Goethe 1827 in der `Ausgabe
+               letzter Hand' unter den `Zahmen Xenien' veröffentlicht _ von denen so manches als
+               mephistophelischer Spruch gelten könnte! (WA I,3,331) </p>
+            <p>Z. 55-58 <b>(P51)</b>: Vgl. V. 3249f. Eine direkte Zuordnung dieser Verszeilen zur
+               Szene `Wald und Höhle', wie von Strehlke vorgeschlagen, läßt sich ausschließen, da
+               diese Szene schon im `Fragment' veröffentlicht war. Noch 1797 aber, zum vermutlichen
+               Zeitpunkt der Anlage des vorliegenden Sammelblatts, plant Goethe eine Verwendung
+               dieser Zeilen. Wie der Begriff des Strebens spielt auch der des Genießens eine
+               bedeutende Rolle im `Faust' (vgl. u. a. Binder, Goethes Faust-Konzeption); in den
+               1797 noch zu schreibenden zentralen Szenen zwischen Faust und Mephisto (Disputation
+               und Pakt) war ihm eine wichtige Stellung zugedacht. (Vgl. Kommentar zu P1, hier S.
+               222ff. und P11/12, S. 229ff.) Pniower vermutet so auch eine Zugehörigkeit zur
+               Vertragsszene: "Ja, genau besehen treffen die Worte unseres Paralipomenons geradezu
+               den Kern der Scene, die Wette selbst. Denn wenn Faust dem Teufel sich verpflichtet,
+               dass er vom Leben Abschied nehmen wolle in dem Augenblick, wo er ihn mit
+                  <i>Genuss</i> betrügen kann, so thut er das doch in der Überzeugung, dass es einen
+               Genuss, der ihn zu befriedigen vermag, nicht gebe. Wie nahe steht aber dieser Gedanke
+               dem, was unsere Verse aussprechen!" (Pniower, Faustparalipomena, S. 422.)</p>
+            <p>Z. 59f. <b>(P2)</b>: Das offensichtlich nachgetragene Wort "Insufficienz" scheint als
+               erläuternder Zusatz oder Synonym für die zunächst eingetragene Zeile aufzufassen zu
+               sein. Vermuten läßt sich auch hier ein Bezug auf die Unzufriedenheit Fausts mit jedem
+               `auf der Stelle treten' (vgl. Zahme Xenien V "Tretet nicht immer denselben Fleck/ So
+               geht doch weiter" WA I,3,330): Mit einem `Stillstand' ist Faust selbst im "Element
+               des Glückes" nicht zufriedenzustellen(?) Die Zugehörigkeit dieser Notiz zum
+               `Faust'-Komplex, die von Düntzer (Die beiden ersten Paralipomena) bestritten wurde,
+               ist durch den Überlieferungskontext gesichert. Wahrscheinlich ist eine Beziehung auf
+               den Grundgedanken (Faust als `Strebender'). Als "Skizze des Gedankengangs" allerdings
+               (Erich Schmidt, WA I,14,287 und wieder Pniower, Faustparalipomena, S. 423) scheint
+               mir die Zeile überanstrengt. Andere Kommentatoren haben versucht, diese Zeile als
+               "Formel für Fausts Leben vor Mephistos Erscheinen" zu deuten. (Morris,
+               Faustparalipomena, S. 158f.) Ähnlich Witkowski, S. 422: "Kurze Umschreibung für
+               Fausts Unbefriedigung und ihre Gründe. Er tritt (wie in der Tretmühle) in
+               verzweifeltem Mühen sein Element, d. h. die wissenschaftliche Tätigkeit, die bis
+               jetzt allein das ist, wovon er Glück, Befriedigung, erhofft. Die Unzulänglichkeit
+               (Insufficienz) dieses Elements treibt ihn zur Verzweiflung."</p>
+            <p>Z. 61-65 <b>(P45, P46)</b>: Auf die Erscheinung Gretchens während der Walpurgisnacht
+               zu beziehen? Morris (Walpurgisnacht, S. 95) vermutet, daß nach einem ursprünglichen
+               Plan Gretchen "mit einem Kinde erscheinen und sich Faust zu Füssen werfen
+               sollte."</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

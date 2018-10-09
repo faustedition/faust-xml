@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390196/">
+   <revisionDesc>
+      <change when="2012-12-07" who="henzel">imported</change>
+      <change when="2012-12-07" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-02-23" who="koehler">URIs fuer Handschriftensiglen</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>bildete ursprünglich mit faust://document/wa_faust/2_II_H.19 und faust://document/wa_faust/2_II_H.58 einen Foliobogen; auf Umschlag mit
+         Adresse Goethes durch einen zeitgenössischen Schreiber mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.56</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,21</idno>
+      <idno type="gsa_2">GSA 25/W 1548</idno>
+      <idno type="gsa_ident">390196</idno>
+      <idno type="wa_faust">2 II H.56</idno>
+      <!-- P156 -->
+      <textTranscript uri="390196.xml"/>
+      <classification>Konzept</classification>
+      <condition>rote Siegelreste, war ursprünglich mehrfach zusammengefaltet; fleckig; Handschrift
+         enthält auch ca. vier nicht mehr lesbare Bleistiftzeilen</condition>
+      <dimensions>
+         <width unit="mm">335</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 333 mm. Der Mindestwert der Blatt-Höhe beträgt
+         206 mm.</note>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbräunlich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <paperMill>n.s.</paperMill>
+      <!-- TODO Mühle nachtragen (s. 391435 oder 391409) -->
+      <watermarkID>Waldmensch mit Wanderstock</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 533</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            55</reference>
+         <!-- TODO Fischer-Lamberg, S.55 -->
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 223</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 36f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 70</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Fischer-Lamberg, S.55</f:bemerkung>
+      <f:datierung>nach dem 16.2.1830 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. zu den Versen 8094-8110 in H.57 (25/XVII,8,22)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>von Bohnenkamp nicht zu den Paralipomena gerechnet, vgl. dort S.70; von WA
+               bereits als "kein Paralipomenon" erkannt WA I 53,533f.</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

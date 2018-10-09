@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389827/">
+<revisionDesc>
+   <change when="2012-11-28" who="henzel">imported</change>
+   <change when="2012-11-28" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>bildete ursprünglich einen Bogen mit faust://document/wa_faust/2_V_H.13</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.11</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,12</idno>
+      <idno type="gsa_2">GSA 25/W 1707</idno>
+      <idno type="gsa_ident">389827</idno>
+      <idno type="wa_faust">2 V H.11</idno>
+      <textTranscript uri="389827.xml"/>
+      <classification>Konzept</classification><!-- Arbeitsmundum? -->
+      <condition>ursprünglich in der Mitte quer gefaltet, linker Rand (im ursprünglichen Format unten) nach außen gedreht; Tintenfraß</condition>
+      <dimensions>
+         <width unit="mm">210</width>
+         <height unit="mm">253</height>
+      </dimensions>
+      <note>Der Wert ohne Falz beträgt 177 mm.</note>
+      <format>none</format><!-- Kleinfolio -->
+      <edges>cut</edges><!-- structure: uncut, (Ränder vom Ursprungsformat)(?) -->
+      <note>Risskante rechts</note>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>"G. F."</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 124</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 767</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 156</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 124f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 767f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 726 <!-- Teilwiedergabe --></reference>
+         <reference type="facsimile" uri="faust://bibliography/wahl1929">S. 12</reference>
+         <reference type="essay" uri="faust://bibliography/wahl1929">S. 29</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 125</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 768</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+  
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>ursprünglich ein Bogen mit 25/XVIII,7,14, = 1. Konzept  im Vgl. mit H.12 (25/XVIII,7,13)</f:bemerkung>
+     </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>Entwürfe</p><!-- warum nicht Arbeitsmundum? -->
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Von Goethe mit Blei überarbeitete zügige Tintenniederschrift der Verse 11467-11495 aus der Szene `Mitternacht'. Das ursprünglich mit V H13 zu einem Bogen gehörende Blatt bietet keine äußeren Anhaltspunkte für die Datierung. Die Zeilen 2429 wurden in der BA unter die `Skizzen und Varianten' aufgenommen (S. 663). Anstatt der mit Bleistift ergänzten Z. 25f. wurden im endgültigen Text an dieser Stelle die V. 11487-11490 eingefügt, die das im Entwurf eingeführte Bild abgewandelt aufnehmen; die Zeilen 28f. des Entwurfs wurden zu V. 11495-11498 erweitert. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_16/">
+   <revisionDesc>
+      <change when="2013-08-13" who="henzel">encoded</change>
+      <change when="2014-07-25" who="henzel">Fehler in Archivsignatur behoben</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>bb_cologny</repository>
+      <idno type="faustedition">2 V H.37d</idno>
+      <idno type="bb_cologny">G-30.16</idno>
+      <idno type="gsa_1">GSA 25/XVIII,8,6b</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="G-30_16.xml"/>
+      <classification>none</classification><!-- Reinschrift? für Konzept zu 'sauber' -->
+      <condition>Blatt wurde nach der Beschriftung einmal quer und dreimal längs gefaltet; auf der Vorderseite unten rechts brauner länglicher Fleck (eventuell Tinte oder andere Flüssigkeit); auf der Rückseite oben drei Flecken, vermutlich Klebespuren</condition>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">102</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 100 mm.</note>
+      <format>none</format><!-- evt. Oktav? -->
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <note>ungefährer Wert</note>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 166</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

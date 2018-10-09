@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391320/">
+   <revisionDesc>
+      <change when="2012-11-28" who="bruening">encoded</change>
+      <change when="2014-11-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Auf der Vorderseite zweites Konzept zum Brief an Ludwig I. vom 29. August 1829
+         (faust://bibliography/wa_IV_46, S. 64f.). Bereits von Schmidt identifiziert
+         (faust://bibliography/wa_I_15_2, S. 12), im später erschienenen Band der vierten Abteilung
+         (faust://bibliography/wa_IV_46, S. 322, zu Nr. 68) jedoch nicht nachgewiesen. Die
+         abgetrennte Bogenhälfte (faust://document/wa_faust/2_I_H.56, Bl. 5) trägt das zweite
+         Konzept (vgl. faust://bibliography/bohnenkamp1994, S. 388, 479). Längs und quer
+         gebrochen.
+         Einzelblatt, 2 beschriebene Seiten. – Vs.: Briefentwurf (eigenhändig, Bleistift und
+         Tinte). Rs.: Versentwürfe zu ‚Faust II‘, Akt 1 (eigenhändig, Bleistift und
+         Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.57</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,29</idno>
+      <idno type="gsa_2">GSA 25/W 1482</idno>
+      <idno type="gsa_ident">391320</idno>
+      <idno type="wa_faust">2 I H.57</idno>
+      <textTranscript uri="391320.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">325</width>
+         <height unit="mm">201</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 12</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 386</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 386</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 623</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 388</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.388</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Brief an König Ludwig I. von Bayern, 29.8.1829, WA IV 46,64-65, Konzept egh = späteres Konzept im Vgl. mit dem Briefkonzept auf I H.56</f:dabei_vermerk>
+      <f:datierung>1829/1830</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>391320</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Vers(e): 6427-6438
+In Eurem Nahmen Mutter ...
+WA: I H.57; vgl. I 15.2,12
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,5,29</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (5,29) (WA I,15.2,12 u. 35)</p>
+            <p>Entwürfe</p>
+            <p>Erstdruck: WA I,15.2,35 (teilweise)</p>
+            <p> x , grünliches Folioblatt, gerippt, gefaltet; WZ: verschlungenes `G H' über `N 3'
+               (Stuetzerbacher Wappenpapier);</p>
+            <p>VS: G Blei quer Konzept des Briefes an König Ludwig I, 29.8.1829, mit eigenhändigen
+               Tintenkorrekturen, mit Tinte als erledigt gestr.;</p>
+            <p>RS: G Blei 64276438 Var., mitTinte als erledigt gestr.; G Blei quer einige
+               Entwurfszeilen</p>
+         </metadaten>
+         <kommentar xmlns=""/>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,29</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1829/1830</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1829</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>In Eurem Nahmen Mutter</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,12</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.57</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6427-6438</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Bayern, Ludwig I. König von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Brief an König Ludwig I. von Bayern, 29.8.1829, WA IV 46,64-65, Konzept egh =
+               späteres Konzept im Vgl. mit dem Briefkonzept auf I H.56</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Bohnenkamp, S.388</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1141</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3128</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

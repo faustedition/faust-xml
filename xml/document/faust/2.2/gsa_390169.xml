@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390169/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">imported</change>
+      <change when="2012-12-11" who="henzel">imported</change>
+      <change when="2012-12-11" who="henzel">encoded</change>
+      <change when="2013-06-07" who="koehler">history</change>
+      <change when="2013-10-23" who="ritter">note Fischer-Lamberg ergänzt</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>war ursprünglich in 2 II H.74 auf folio 14 geklebt, von Fischer-Lamberg als Bl.13r bezeichnet</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.36a</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,1</idno>
+      <idno type="gsa_2">GSA 25/W 1528</idno>
+      <idno type="gsa_ident">390169</idno>
+      <idno type="wa_faust">2 II H.b</idno>
+      <textTranscript uri="390169.xml"/>
+      <classification>none</classification><!-- Reinschrift -->
+      <history>„Nachstehende verse [...] verdanke ich der gütigen mitteilung des herrn von Scholl“, so Weisstein 1877. aus Besitz Gustav von Loeper Oktober 1888 erworben</history>
+      <condition>zwei Klebeflecken auf der Rückseite mit Resten des blauen Papiers, auf dem sich das Blatt befand; verwischte Tinte</condition>
+      <dimensions>
+         <width unit="mm">146</width>
+         <height unit="mm">93</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 145 mm. Der Mindestwert der Blatt-Höhe beträgt 88 mm.</note>
+      <format>16</format>
+      <note>Fischer-Lamberg gibt als Format Oktav an (faust://bibliography/fischer-lamberg1955, S. 21).</note>
+      <edges>cut</edges>
+      <note>Risskante oben</note>
+      <paperType>Velinpapier</paperType>
+      <!-- zwei feine Striche durchs Papier wie ein Gitter längs und quer -->
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/weisstein1877">Nr. I</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 21, 67</reference>
+         <reference type="text" uri="faust://bibliography/weisstein1877">Nr. I</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390827/">
+   <revisionDesc>
+      <change when="2013-01-10" who="henzel">imported</change>
+      <change when="2013-01-10" who="henzel">encoded</change>
+      <change when="2013-08-30" who="bruening">AA-Sigle, Nachweise.</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Prosa zu ‚Faust II‘, Akt 3.</headNote>
+      <note>1. Fassung der für "Kunst und Altertum" (VI 1) vorgesehenen Ankündigung "Helena.
+         Zwischenspiel zu Faust"; dabei: auf einem blauen archivarischen Umschlag Bemerkung zu
+         Inhalt und Überlieferung, wahrscheinlich von Erich Schmidt.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P123.1</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,21d:1</idno>
+      <idno type="gsa_2">GSA 25/W 1771</idno>
+      <idno type="gsa_ident">390827</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="aa_ls_helenaank">H.1</idno>
+      <idno type="bohnenkamp">H P123A</idno>
+      <!-- P123 -->
+      <!-- Hecker-Nummer 72 -->
+      <textTranscript uri="390827.xml"/>
+      <classification>Mundum</classification>
+      <condition>ursprünglich in Kolumnen gebrochen; Ränder vergilbt; beginnender
+         Tintenfraß</condition>
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">336</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <note>auf linker Innenseite</note>
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      <note>auf rechter Innenseite</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 213</reference>
+         <reference type="description" uri="faust://bibliography/aa_ls_6">S. 726</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 412</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 213f.</reference>
+         <reference type="text" uri="faust://bibliography/aa_ls_3">S. 414f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 412-415</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 627-629</reference>
+         <reference type="essay" uri="faust://bibliography/aa_ls_6">S. 726</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 416</reference>
+         <!-- vgl. WA I 41.2,290-292 -->
+      </references>
+   </metadata>
+   <!-- <docTranscript uri="0002.xml"/> blauer Umschlag -->
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>"10en Juny 1826"</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>Im selben Umschlag befindet sich ein weiteres Blatt (halbes Folio, Velinpapier) mit
+               Tagebuchnotizen Eckermanns (WA I,15.2,9); vgl. dazu hier S. 394, Anm. 28.</p>
+            <!-- Eckermanns Notizen wurden herausgenommen -->
+         </metadaten>
+         <kommentar xmlns="">
+            <p>Dieser Foliobogen enthält die erste Fassung einer für die Veröffentlichung in Goethes
+               Zeitschrift `Von Kunst und Alterthum' vorgesehenen `Ankündigung der Helena' und damit
+               auch die ältesten uns überlieferten Überlegungen zu den Inhalten des 2.Akts.</p>
+            <p>Der vorliegende Entwurf ist auf den 10. Juni 1826 datiert; an eben diesem Tag
+               beendete John auch die Abschrift des dritten großen Mundums zur `Helena' (III HIII,
+               vgl. dazu Fischer-Lamberg, S. 80f.), das im Gegensatz zu den beiden bis dahin
+               angefertigten Reinschriften eben den Titel trägt, mit dem auch der vorliegende erste
+               Entwurf einer Ankündigung der Helena überschrieben ist. Im Tagebuch heißt es unter
+               diesem Datum: "John endigt das Mundum der Helena. Ich dictirte Schuchardt einiges zu
+               Kunst und Alterthum." (WA III,10,202) In der Abschlußphase der Arbeit an der `Helena'
+               hatte Goethe begonnen, die Vorgeschichte der `Helena', den späteren 2.Akt, zu planen;
+               die vorliegende `Ankündigung' enthält den ersten dokumentierten Ansatz zur
+               `Klassischen Walpurgisnacht'. Die frühe Konzeption der `Klassischen Walpurgisnacht'
+               steht in Zusammenhang mit Goethes Lukan-Lektüre vom April des Jahres; die in P123A
+               genannten Motive lassen durchweg einen Bezug auf die `Pharsalia' erkennen
+               (Thessalien, Hexen, Sibyllen...). Der Gedanke einer zweiten, einer `klassischen'
+               Walpurgisnacht, wird hier noch nicht explizit ausgesprochen, aber umschrieben: das
+               Erstrebte sei nicht mehr "durch Blockbergs Genossen zu erlangen", sondern, wie alles
+               im Zweiten Teil, "auf einer höhern und edlern Stufe", "in den Bergklüften
+               Thessaliens." (Z. 14-21.) Erste Notizen zu einem solchen Plan sind auf III H7 und H
+               P140 überliefert, von denen das zweite Blatt in direktem Zusammenhang mit Goethes
+               Lektüre der `Pharsalia' steht. (Vgl. hier S. 408-411.)</p>
+            <p>Z. 5-13: Schon das Volksbuch von 1587 enthält eine Episode `Von der Helena auß
+               Griechenland, so dem Fausto Beywohnung gethan in seinem letzten Jahre', in der auch
+               von einem gemeinsamen Sohn berichtet wird. In verschiedenen Bearbeitungen dieses
+               Stoffes für die Puppenbühne wird die `schöne Helena' vom Teufel eingesetzt, um den
+               mittlerweile reumütigen Teufelsbündner Faust endgültig zu verderben.</p>
+            <p>Z. 21 Thessalien] Landschaft im Norden des griechischen Festlands: Schauplatz der in
+               Lukans `Pharsalia' beschriebenen Pharsalischen Schlacht.</p>
+            <p>Z. 62f.: Vgl. den Briefwechsel Goethe-Schiller im September 1800. Zur
+               Entstehungsgeschichte der `Helena' vgl. hier S. 99 u. 532f.</p>
+            <p>Z. 74-85: Eine erste Anzeige der seit 1822 geplanten vollständigen Ausgabe `letzter
+               Hand' erschien im `Morgenblatt' vom 19. Juli 1826. Die ersten 10 Bände erschienen im
+               folgenden Jahr; der 4. Band enthält in der Abteilung `Dramatisches' auch die hier
+               angekündigte `Helena, Zwischenspiel zu Faust'. Bei dem "wohlverwahrte[n] Manuscript"
+               handelt es sich um den bereits aus dem Jahr 1800 stammenden Anfang des Helena-Akts,
+               den Goethe im Frühjahr 1825 "wieder vorgenommen" und fortgesetzt hatte (vgl. IIIH1,
+               hier S. 554-567) bis schließlich im Juni 1826 "dieses Zwischenspiel zu Ende geführt"
+               vorlag.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

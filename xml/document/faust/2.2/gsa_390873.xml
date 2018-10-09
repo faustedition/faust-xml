@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390873/">
+<revisionDesc>
+	<change when="2012-12-07" who="henzel">imported</change>
+	<change when="2012-12-07" who="henzel">encoded</change>
+	<change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+	<metadata>
+		<headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P99.2</idno>
+		<idno type="gsa_1">GSA 25/XIX,1,15:1</idno>
+		<idno type="gsa_2">GSA 25/W 1758</idno>
+		<idno type="gsa_ident">390873</idno>
+		<idno type="wa_faust">none</idno>
+		<idno type="bohnenkamp">H P99B</idno>
+		<!-- P99 -->
+		<textTranscript uri="390873.xml"/>
+		<classification>Schema</classification>
+		<condition>ursprünglich längs und quer auf Oktav gefaltet; leichter Tintenfraß</condition>
+		<dimensions>
+			<width unit="mm">201</width>
+			<height unit="mm">330</height>
+		</dimensions>
+		<note>Der Mindestwert der Blatt-Breite beträgt 200 mm.</note>
+		<format>2</format>
+		<edges>cut</edges>
+		<paperType>Konzeptpapier</paperType>
+		<paperColour>gelbbräunlich</paperColour>
+		<chainLines unit="mm">26</chainLines>
+		<paperMill>Stützerbach(?)</paperMill>
+		<watermarkID>Stern</watermarkID>
+		<countermarkID>none</countermarkID>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 189f.</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 419</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 189f.</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 419f.</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 630f.</reference>
+			<reference type="facsimile" uri="faust://bibliography/bohnenkamp1994">S. 822<!-- VS --></reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 421-423</reference>
+			<!-- TODO Erstdruck: Schillemeit, Trimeter (teilweise) -->
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+				<!-- <docTranscript uri="0003.xml"/> deleatur -->
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0004.xml"/>
+				<!-- <docTranscript uri="0005.xml"/> deleatur -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= jüngere Fassung im Vgl. mit Par. 99 in 25/XIX,1,15:2; WA zu: Späteres seit den zwanziger Jahren; zur Datierung vgl. Bohnenkamp, S.421-423</f:bemerkung>
+      <f:datierung>10.11.1826 (?)</f:datierung>
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p> Das Schema P99 ist in zwei voneinander abweichenden Fassungen überliefert. Lediglich die jüngere Version (P99B) wurde bisher in den verschiedenen Paralipomena-Editionen abgedruckt. Die ältere Fassung stammt von der Hand Johns (P99A) und ist auf den 9. November 1826 datiert. Bei der von Schuchardt niedergeschriebenen, ausführlicheren Version handelt es sich dann um eine überarbeitete Fassung. Goethes Tagebuch verzeichnet am 8. 11. 1826: "Das Schema zu Faust, zweyter Theil, bey Gelegenheit der Helena vorgenommen" und wieder am 10. 11.: "Das Schema zu Fausts zweytem Theile fortgeführt." (WA III,10,266) </p>
+				<p>Pniower vermutet, daß das "Schema zu Faust", das Goethe hier "vornimmt", P63 gewesen sei (hier S. 266ff.), anhand dessen zunächst P99A entstand (Pniower, S. 164). Auch Gräf nimmt an, daß es sich hier "wahrscheinlich" um P63 handele (Gräf, S. 353). Die Entstehung der überarbeiteten Fassung (P99B) ließe sich dann auf den Tagebucheintrag vom 10. 11. 1826 beziehen. Ob es sich bei dem am 8. November vorgenommenen Schema tatsächlich um P63 handelte, bleibt unsicher. Die schon aus dem Frühjahr stammenden Vorarbeiten zu den Geschehnissen des 2. Akts (vgl. P158, hier S. 400f., P140-P146, hier S. 408f.) und vor allem auch die im Juni entstandene erste Fassung einer `Ankündigung der Helena' (P123A, hier S. 412-415) zeigen, daß Goethes Pläne damals bereits über das in P63 Skizzierte hinausgewachsen waren. Wie weit diese Pläne gediehen und ob sie womöglich inzwischen in Form eines weiteren, nicht überlieferten Schemas fixiert worden waren, läßt sich nicht mehr entscheiden:
+					möglicherweise handelt es sich bei P99A um die Abschrift eines solchen älteren Entwurfs, vielleicht bezieht sich der Tagebucheintrag vom 8. 11. auch bereits auf P99A selbst.</p>
+				<p>Die in <b>P99A</b> skizzierte Handlung setzt nach dem Abschluß des 1. Aktes ein; das Geschehen knüpft an eine durch die Geisterbeschwörung bei Hofe verursachte Ohnmacht Faustens an. Die mit Punkt 7 beginnende Numerierung weist darauf hin, daß ein erster Teil des Schemas, der den ebenfalls noch auszuführenden 1. Akt skizzierte, verlorengegangen ist. Der erhaltene Teil skizziert die Verbindung zwischen dem Schluß des 1. Aktes und dem Auftritt der Helena zu Beginn des damals schon abgeschlossenen 3. Aktes.</p>
+				<p>Das Motiv des zu Anfang geplanten Monologs zwischen Gretchen und Helena wird in den kurz darauf entstandenen ausführlichen Berichten zum geplanten zweiten Akt (P123B und C) bereits fallengelassen, in abgewandelter Form wird es später im Anfangsmonolog des 4. Akts wieder aufgenommen (vgl. hier S. 661f.). Während Goethe die beiden Frauengestalten offenbar zuerst als "Todt[enbilder]" oder "Todt[enerscheinungen]" auftreten lassen wollte (vgl. P99A, Z. 5), der Plan also zunächst auf etwa durch die `Pharsalia' nahegelegte Vorstellungen aus dem Bereich der Nekromantie verweist, wird er im folgenden deutlich verwandelt. Die "Wahnerscheinung" (P99A, Z. 5) wird in der neuen Fassung durch das Stichwort "Träume" ergänzt (P99B, Z.2), bis die Erscheinung der beiden Geliebten Fausts im 4. Akt dann zur phantasievoll-symbolischen Deutung von Naturphänomenen gereift ist.</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 2</p>
+				<p>Das Traummotiv seinerseits wird im Gegensatz zu der Erscheinung der beiden Frauenbilder in die ausführlichen Berichte über die Geschehnisse des 2. Akts vom Dezember aufgenommen (vgl. P123C, Z. 93-96, hier S. 437) und schließlich in des Homunculus' Bericht über Fausts Traumgesichte in wiederum verwandelter Gestalt auch im endgültigen Text realisiert (V. 6901-6920).</p>
+				<p>Die folgenden 6 Punkte des Schemas skizzieren den geplanten Ablauf des 2. Akts: Mephisto bemüht sich, Faust von seinem heftigen Verlangen nach Helena abzulenken _ unter anderem durch einen Besuch im Laboratorium Wagners. Zum ersten Mal taucht hier das Motiv des künstlichen Menschen auf; noch scheint das Experiment Wagners jedoch nicht zu gelingen.</p>
+				<p>Ohne besondere Motivierung gelangen "sie" (offensichtlich Mephistopheles und Faust) schließlich nach Thessalien. Der Weg zu Helena verläuft über drei Stufen: die Reisenden treffen zunächst auf Enyo, eine der drei Graien oder Phorkyaden, mit der Mephistopheles sich auf ein nicht näher erläutertes Bündnis einläßt. Überlegungen zur Art dieses Bündnisses finden sich bei Morris (Faustparalipomena, S. 181-187): Analog zu dem Angebot, das Mephisto im ersten Teil der "Hexe aus der Küche" macht ("Und kann ich dir was zu Gefallen thun,/ So darfst du mir's nur auf Walpurgis sagen." V. 2589f.) und mit Bezug auf P162 und P127 (hier S. 574f. u. S. 469) vermutet Morris nun: "Enyo soll sich also ihre kupplerischen Bemühungen um die Vereinigung Fausts mit Helena nicht verdriessen lassen _ sie wird dafür selber geniessen." Der `Traktat' zwischen Enyo und Mephistopheles enthielt nach Morris "zwei geheime Bedingungen: 1) Enyo befördert die Vereinigung Fausts mit Helena. 2) Sie, die
+					Urhäßliche, in der schönheitsfreudigen Griechenwelt vom Liebesgenuß Ausgeschlossene darf dafür Mephistos reale Gunst in Anspruch nehmen." (S. 183) Diese Deutung der Paralipomena bleibt jedoch Spekulation.</p>
+				<p>Die Reisenden gelangen dann zur "Thessalischen Ursybille", die offenbar den Weg in die Unterwelt weist und eine Audienz bei Proserpina vermittelt. Der Bitte um die Entlassung der Helena aus dem Hades sollte durch den Hinweis auf verschiedene `Präzedenzfälle' Nachdruck verliehen werden: das Schema notiert die Namen Protesilaus (der vom Hades auf kurze Zeit freigegeben wurde), Alceste (die ihrem Gatten von Herkules aus dem Orkus zurückgeführt wurde) und Eurydike, deren Freigabe Orpheus mit seinem Gesang erreichte (und durch vorzeitiges Umdrehen nach ihr wieder verspielte). Über Helena selbst erzählt die Sage, daß sie "nach ihrem Tode den Achilles in der Insel Leuce geheurathet, und mit ihm den Euphorion gezeuget" habe. (Hederich, S. 1222).</p>
+				<p>Mit den folgenden Bedingungen für Helenas Rückkehr ins Leben (P99A, Z. 4251) wird der anschließende 3. Akt vorbereitet. Inzwischen ist das alte Motiv eines magischen Rings, das noch während der Entstehung der `Helena' bis in das Frühjahr 1826 hinein (vgl. P166, hier S. 629) eine Rolle gespielt hatte, durch die Bedingung der Rückkehr "auf den Boden von Sparta" ersetzt (vgl. schon P123A, Z. 28-30, hier S. 413). Damit ist der Auftritt Helenas im 3. Akt endgültig aus dem deutschen Mittelalter nach</p>
+				<p> H P99A/B</p>
+				<p> Sparta verlegt; auf der Suche nach ihr gelangt dann auch Faust nach Griechenland. </p>
+				<p>Die kurz darauf, vermutlich am 10. 11. 1826, entstandene überarbeitete Fassung <b>P99B</b> erweitert den Plan vor allem um die Begegnung Mephistos mit "antiken Ungeheuern und Mißgestalten" (Z. 16-18). Erichtho und Erichthonius (Z. 19) kommen hinzu (vgl. Kommentar zu P123C, hier S. 458f.), und die `neue' Walpurgisnacht wird nun auch als solche bezeichnet (Z. 15). Schließlich ist es hier zum ersten Mal ausdrücklich Faust, der sich auf den Weg in die Unterwelt macht; eine Trennung der Protagonisten im Verlauf der "Antiken Walpurgisnacht" scheint so zumindest angedeutet.</p>
+				<p>Weitere Details werden in den späteren (nach dem 9. 11. 1826, zum Teil wahrscheinlich erst bei der Überarbeitung von P123B im Dezember enstandenen) Randnotizen ergänzt; unter den "antiken Ungeheuern" werden neben den noch in der endgültigen Fassung auftretenden Sphynxen, Greifen, Sirenen, Tritonen, Nereiden und Graien auch "Gorgonen" (Schwestern der Graien oder Phorkyaden), "Chimären" (vgl. Kommentar zu P123C, Z. 201, hier S. 459) und "Centauren" genannt _ letztere Fabelwesen, die, "von oben an, bis ungefähr an den Nabel, Menschen, so dann aber vollends Pferde" (Hederich, S. 658) und im endgültigen Text in der Gestalt Chirons erhalten sind. Das Geschehen der `Klassischen Walpurgisnacht' wird auf die "Pharsalische Ebene" festgelegt, und die "Thessalische Ursybille" wird zur Figur der Manto konkretisiert: im endgültigen Text wird diese dann nicht als Tochter des griechischen Wahrsagers Tiresias, sondern als Tochter Äskulaps eingeführt (vgl. V. 7451). (Zur Entwicklung
+					des Descensus-Planes vgl. auch Schillemeit, Trimeter.)</p>
+			</kommentar>
+		</f:abrDissertation>
+		<f:inventoryDatabase>
+			<f:field>
+				<f:key n="91">Kommentar</f:key>
+				<f:value>= jüngere Fassung im Vgl. mit Par. 99 in 25/XIX,1,15:2; WA zu: Späteres seit den zwanziger Jahren; zur Datierung vgl. Bohnenkamp, S.421-423</f:value>
+			</f:field>
+		</f:inventoryDatabase>
+	</f:metadataImport>
+</archivalDocument>

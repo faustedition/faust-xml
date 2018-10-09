@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">S</idno>
+        <idno type="wa_faust">S.2</idno>
+        <idno type="seuffert">B</idno>
+        <idno type="hagen">S.o</idno>
+        <idno type="hagen_nr">11</idno>
+        <headNote>Schriften bei Göschen, 1790</headNote>
+        <bibl>Goethe’s Schriften. Siebenter Band. Leipzig, bey Georg Joachim Göschen, 1790. 320 S. 8°</bibl>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 11/2</idno>
+            </referenceCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/seuffert1882">S. Xf.</reference>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 249</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 11f.</reference>
+            <reference type="text" uri="faust://bibliography/aa_faust_1"/>
+            <reference type="facsimile" uri="faust://bibliography/artemis1968">Bd. 7</reference>            
+            <reference type="essay" uri="faust://bibliography/seuffert1882">S. XIf.</reference>
+            <reference type="essay" uri="faust://bibliography/wa_I_14">S. 250</reference>
+            <reference type="essay" uri="faust://bibliography/hagen1983">S. 12</reference>
+        </references>
+        <textTranscript uri="S(o)_IIIB11-2.xml"/>
+    </metadata>
+</print>

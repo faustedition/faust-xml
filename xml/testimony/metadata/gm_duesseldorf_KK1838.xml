@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+                  xmlns:f="http://www.faustedition.net/ns"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+                  xml:base="faust://xml/transcript/gm_duesseldorf/KK1838/">
+   <revisionDesc>
+      <change when="2012-10-01" who="bruening">angelegt</change>
+   </revisionDesc>
+        <metadata>
+            <note>Konzept Riemer unter der Überschrift „Geisterchor unsichtbar d. 12. Febr. 1801, d. 13. Febr. 1801“.</note>
+            <repository>gm_duesseldorf</repository>
+            <collection>Sammlung Kippenberg</collection>
+            <idno type="gm_duesseldorf">KK 1838</idno>
+            <idno type="gsa_1">GSA 25/XVII,1,1a</idno>
+            <idno type="wa_faust">none</idno>
+            <textTranscript uri="KK1838.xml"/>
+           <dimensions>
+              <width unit="mm">168</width>
+              <height unit="mm">182</height>
+           </dimensions>
+           <paperType>Briefpapier</paperType>
+           <paperColour>gelblich</paperColour>
+           <watermarkID>Liegendes_Posthorn_an_Schleife</watermarkID>
+           <references>
+                <reference type="description" uri="faust://bibliography/kippenberg1913">S. 111, Nr. 1400</reference>
+                <reference type="description" uri="faust://bibliography/kippenberg1928">Bd. 1, S. 165, Nr. 1838</reference>
+            </references>
+        </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page/>
+   </disjunctLeaf>
+   <disjunctLeaf type="import">
+      <page>
+         <metadata>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+      <page/>
+   </disjunctLeaf>
+</archivalDocument>

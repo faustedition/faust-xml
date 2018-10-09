@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390700/">
+<revisionDesc>
+   <change when="2012-11-29" who="henzel">imported</change>
+   <change when="2012-11-29" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+   <change when="2015-05-12" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Brief an Kräuter, 5.12.1830, WA IV 48,30,1-13 eigenhändiges Konzept mit Bleistift und John mit Tinte</note><!-- TODO Briefnummer nachtragen -->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.34</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,34a</idno>
+      <idno type="gsa_2">GSA 25/W 1732</idno>
+      <idno type="gsa_ident">390700</idno>
+      <idno type="wa_faust">2 V H.34</idno>
+      <textTranscript uri="390700.xml"/>
+      <classification>Konzept</classification>
+      <history>aus Sammlung Keil (Keil I/13,9)</history>
+      <condition>Stempel "Goethe-Archiv Weimar" auf Vorderseite, große braune Flecken, am unteren Rand gewellt</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 332 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 184</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 184f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 185</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page><!-- Faust, Begründung: senkrechte Faltung entstand erst nach der Niederschrift -->
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page><!-- Brief -->
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+  
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Vorlage für V H.33 (25/XVIII,7,34)</f:bemerkung>
+      <f:dabei_vermerk>Brief an Kräuter, 5.12.1830, WA IV 48,30,1-13 Konzept egh, John;</f:dabei_vermerk>
+      <f:datierung>um den 5.12.1830</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391346/">
+   <revisionDesc>
+      <change when="2013-01-21" who="henzel">imported</change>
+      <change when="2013-01-23" who="henzel">encoded</change>
+      <change when="2013-08-30" who="bruening">AA-Sigle, Nachweise.</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-02-19" who="henzel">WA-Sigle bearbeitet</change>
+      <change when="2015-05-04" who="henzel">todos weitgehend aufgeloest</change>
+      <change when="2015-05-12" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>5 Einzelblätter. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf der Vorderseite von Blatt 5 ein eigenhändiges, mit Bleistift geschriebenes
+         Briefkonzept (Brief vom 28.4.1827 an Friedrich Heinrich von der Hagen (WA IV 42, S. 158f.);
+         auf Rückseite von Blatt 5 eigenhändige Ergänzungen Goethes mit Bleistift zum Mundum; dabei:
+         blauer Umschlag mit der Bemerkung, vermutlich Erich Schmidts: "H.1 / Ankündigung der
+         Helena. 1. ausführliche Fassung.", 1 Blatt (vgl. 2. Fassung der für "Kunst und Altertum", VI 1, vorgesehenen Ankündigung "Helena. Zwischenspiel zu Faust", WA I 41.2, S. 290-292); Blatt 1-4: Randlinien mit Blei gezogen</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P123.2</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,21b</idno>
+      <idno type="gsa_2">GSA 25/W 1769</idno>
+      <idno type="gsa_ident">391346</idno>
+      <idno type="wa_faust">P123 H.1</idno>
+      <idno type="wa_helenaank">H.a</idno>
+      <idno type="aa_ls_helenaank">H.2</idno>
+      <idno type="bohnenkamp">H P123B</idno>
+      <textTranscript uri="391346.xml"/>
+      <classification>Mundum</classification>
+      <!-- P123 -->
+      <!-- Archivarische Foliierung mit Bleistift, erfolgte allerdings erst nach der Digitalisierung -->
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">334</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 198</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_42_1">S. 262f.</reference><!-- H.a -->
+         <reference type="description" uri="faust://bibliography/aa_ls_6">S. 727</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 424,
+            432</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 200–212</reference>
+         <!-- (in die Varianten aufgelöst) -->
+         <reference type="text" uri="faust://bibliography/aa_ls_6">S. 741–766</reference>
+         <!-- (in die Varianten aufgelöst) -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 424-432</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 631-635</reference>
+         <reference type="essay" uri="faust://bibliography/aa_ls_6">S. 727</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 455-457</reference>
+      </references>
+   </metadata>
+   <!-- <docTranscript uri="0002.xml"/> blauer kleiner Umschlag -->
+   <disjunctLeaf>
+      <metadata>
+         <!-- Blatt 1 -->
+         <leafCondition>Blatt 1 bildete ursprünglich mit Blatt 2 einen Bogen.</leafCondition>
+         <watermarkID>Stern über "N 1"</watermarkID>
+         <note>Das dazugehörige Gegenzeichen befindet sich auf Blatt 2.</note>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0005.xml"/>
+            <!-- <docTranscript uri="0006.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- Blatt 2 -->
+      <metadata>
+         <leafCondition>Blatt 2 bildete ursprünglich mit Blatt 1 einen Bogen.</leafCondition>
+         <watermarkID>none</watermarkID>
+         <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+         <note>Das dazugehörige Wasserzeichen befindet sich auf Blatt 1.</note>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0007.xml"/>
+            <!-- <docTranscript uri="0008.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0009.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- Blatt 3 -->
+      <metadata>
+         <leafCondition>Blatt 3 bildete ursprünglich mit Blatt 4 einen Bogen.</leafCondition>
+         <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+         <note>Das dazugehörige Gegenzeichen befindet sich auf Blatt 4.</note>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0010.xml"/>
+            <!-- <docTranscript uri="0011.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0012.xml"/>
+            <!-- <docTranscript uri="0013.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- Blatt 4 -->
+      <metadata>
+         <leafCondition>Blatt 4 bildete ursprünglich mit Blatt 3 einen Bogen.</leafCondition>
+         <watermarkID>none</watermarkID>
+         <countermarkID>Stern über "N 1"</countermarkID>
+         <note>Das dazugehörige Wasserzeichen befindet sich auf Blatt 3.</note>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0014.xml"/>
+            <!-- <docTranscript uri="0015.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0016.xml"/>
+            <!-- <docTranscript uri="0017.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- Blatt 5 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">167</width>
+            <height unit="mm">206</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 166 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 205 mm.</note>
+         <format>4</format>
+         <leafCondition>rechter Rand gewellt und vergilbt</leafCondition>
+         <edges>cut</edges>
+         <paperType>Schreibpapier</paperType>
+         <!-- allerdings für Stützerbach sehr feines -->
+         <paperColour>hellgelb</paperColour>
+         <chainLines unit="mm">25</chainLines>
+         <watermarkID>none</watermarkID>
+         <countermarkID>"Stuetzerbach" über "No 4"</countermarkID>
+         <note>angeschnittenes Wasserzeichen</note>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0019.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0018.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>"15. Decbr. 1826."</f:datierung>
+    </f:archiveDatabase>
+
+   </f:metadataImport>
+</archivalDocument>

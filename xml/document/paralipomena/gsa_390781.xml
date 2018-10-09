@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390781/">
+   <revisionDesc>
+      <change when="2012-11-22" who="henzel">imported</change>
+      <change who="henzel">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Eigenhändige Numerierung "ad 27." Goethes mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.15a</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,11:1</idno>
+      <idno type="gsa_2">GSA 25/W 1752</idno>
+      <idno type="gsa_ident">390781</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P92</idno>
+      <!-- P92 -->
+      <textTranscript uri="390781.xml"/>
+      <classification>Konzept</classification>
+      <!-- ABR: Reinschrift mit Korrekturen -->
+      <condition>leicht fleckig, leichter Tintenfraß, am rechten Rand leicht gewellt</condition>
+      <dimensions>
+         <width unit="mm">174</width>
+         <height unit="mm">209</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Remda</paperMill>
+      <watermarkID>Rautenkranzoval über Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <!-- vgl. H P67, H P68 -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 186f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 206</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 186</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 206</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 572</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 207</reference>
+      </references>
+   </metadata>
+
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase; zur Datierung vgl. Bohnenkamp, S. 206</f:bemerkung>
+      <f:datierung>1797/1798 oder 1825</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Papier und Schrift verweisen Blatt 1 zu den Abschriften anläßlich der Neuordnung von
+               1797/98. Wie die Abschrift der Domszene (hier S. 135ff.) wird es hier zur Übersicht
+               über den alten, die Arbeitsphase 1797/98 und das Nummernschema dokumentierenden
+               Bestand aufgenommen. Die auf das Nummernschema bezogene Signatur "ad 27." ordnet das
+               "Lied" in dieselbe Szene oder Szenenreihe wie P91 (hier S. 205), in der es nach dem
+               Plan von 1797/98 um Alter und Tod Fausts geht. Hier ist das `Totengräber-Lied' (vgl.
+               Hamlet 4,5 und Eckermann, 17. 12. 1824) noch nicht den Lemuren zugeordnet, die im
+               Plan von 1797/98 noch nicht vorgesehen waren (vgl. Grumach, Prolog und Epilog, S.
+               77). Die vorliegende Abschrift Geists ist von Goethe eigenhändig überarbeitet worden.
+               Ob diese Überarbeitung noch am Ende des 18. Jahrhunderts oder erst 25 Jahre später
+               bei der Wiederaufnahme der Arbeit am `Faust' stattgefunden hat, läßt sich nicht mit
+               Sicherheit entscheiden. Die Abschrift der beiden letzten Strophen von der Hand Johns,
+               die also aus der Zeit der Wiederaufnahme der Arbeit am `Faust' im Jahr 1825 stammt,
+               nimmt nur die erste Korrekturschicht Goethes auf; die in Bleistift unter die alte
+               Abschrift Geists gesetzte Version der letzten beiden Zeilen wird von John nicht
+               berücksichtigt. Sehr wahrscheinlich stammen also zumindest diese Korrekturen aus der
+               Zeit der Wiederaufnahme, und am vorliegenden Blatt läßt sich beobachten, wie Goethe
+               nach einer jahrzehntelangen Pause die Arbeit an den alten Papieren wieder aufnahm.
+               (Vgl. mein Kapitel zur Entstehungsgeschichte des 5. Akts, hier S. 742-744.)</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

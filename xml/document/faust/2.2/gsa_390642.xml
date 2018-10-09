@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390642/">
+   <revisionDesc>
+      <change when="2012-11-29" who="bruening">encoded</change>
+      <change when="2014-11-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Quer gebrochen. dabei: Brief an Herzog Friedrich von Sachsen-Altenburg eigenhändiges
+         Konzept Goethes, oD [17. November 1827]: „Indem ich nun dieser hohen Gnade dankbarlichst
+         genieße . . .“
+         Einzelblatt, 2 beschriebene Seiten. – Vs.: Mitteilung (Spiegel, Tinte), Versentwürfe
+         zu ‚Faust II‘, Akt 2 (eigenhändig, Bleistift). Rs.: Versentwürfe zu ‚Faust II‘, Akt 2
+         (eigenhändig, Bleistift und Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.3</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,4</idno>
+      <idno type="gsa_2">GSA 25/W 1491</idno>
+      <idno type="gsa_ident">390642</idno>
+      <idno type="wa_faust">2 II H.3</idno>
+      <textTranscript uri="390642.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">335</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            27</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 27f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Brief an Herzog Friedrich von Sachsen-Altenburg: "Indem ich nun dieser hohen Gnade dankbarlichst genieße ..." betr. Bibliotheksangelegenheiten, WA:- Konzept egh, 17.11.1827, vgl. Fischer-Lamberg, S 27-28</f:dabei_vermerk>
+      <f:datierung>zwischen dem 9. und 17.11.1827</f:datierung>
+      <f:druckort>WA I 15.1, 90-100-</f:druckort>
+      <f:ident>390642</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Zweiter Act. Hochgewölbtes enges gothisches Zimmer
+WA: II H.3; vgl. I 15.2,37
+auf Trauerreglement von Karl Emil Frh. von Spiegel für die Königin von Sachsen [Maria Therese Josepha Karolina Johanna (1767-7.11.1827) s. Gotha] vom 9.11.1827, Abschrift zS
+
+Vers(e): 6710-6720
+Sich und mir das Leben ...
+Konzept
+
+Vers(e): 6744-6757
+Wenn man der Jugend reine Wahrheit ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,7,4</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,4*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,90-100</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wenn man der Jugend reine Wahrheit</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6744-6757</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2903</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,4*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,90-100</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Sich und mir das Leben</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6710-6720</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3093</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,4</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>zwischen dem 9. und 17.11.1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,37</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>II H.3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Brief an Herzog Friedrich von Sachsen-Altenburg: "Indem ich nun dieser hohen
+               Gnade dankbarlichst genieße ..." betr. Bibliotheksangelegenheiten, WA:- Konzept egh,
+               17.11.1827, vgl. Fischer-Lamberg, S 27-28</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Trauerreglement von Karl Emil Frhr. von Spiegel für die Königin von Sachsen
+               [Maria Therese Josepha Karolina Johanna (1767-7.11.1827) s. Gotha] vom 9.11.1827,
+               Abschrift zS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1149</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3656</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

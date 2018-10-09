@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391246/">
+   <revisionDesc>
+      <change when="2012-11-29" who="bruening">encoded</change>
+      <change when="2013-10-23" who="ritter">idno aktualisiert</change>
+      <change when="2014-11-14" who="pravida">headnote</change>
+      <change when="2015-01-28" who="koehler">minimal headnote ergänzt</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Zettel, 1 beschriebene Seite. – Vs.: Versentwürfe zu ‚Faust II‘, Akt
+         2.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.8:2</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,9:2</idno>
+      <idno type="gsa_2">GSA 25/W 1497</idno>
+      <idno type="gsa_ident">391246</idno>
+      <idno type="wa_faust">2 II H.8α</idno>
+      <textTranscript uri="391246.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">198</width>
+         <height unit="mm">217</height>
+      </dimensions>
+      <note>Der Mindeswert für die Blatt-Breite beträgt 188 mm.</note>
+      <format>none</format>
+      <!-- WA: Quart  -->
+      <edges>cut</edges>
+      <note>Zwei Risskanten.</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            31</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 31</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= früheres Konzept im Vgl. mit II H.8 (25/XVII,7,9:1), aber späteres Konzept im Vgl. mit II H.14 (25/XVII,7,15)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:druckort>WA I 15.1, 110-176</f:druckort>
+      <f:ident>391246</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Zweiter Act. Classische Walpurgisnacht
+Vers(e): 7140-7151
+Du glaubst vielleicht des Gastes Nägel krauen ...
+WA: II H.8Ó; vgl. I 15.2,37
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John, egh</f:schrift>
+      <f:signatur>XVII,7,9:2</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,9:2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Du glaubst vielleicht des Gastes Nägel krauen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,37</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>II H.8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>7140-7151</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit II H.8 (25/XVII,7,9:1), aber späteres K im Vgl. mit II
+               H.14 (25/XVII,7,15*a)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1154</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2928</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

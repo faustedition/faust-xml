@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-W_762/">
+   <revisionDesc>
+      <change when="2013-03-28" who="henzel">Datei angelegt und Referenzen von Frau Koehler
+      ueberfuehrt</change>
+      <change when="2013-06-04" who="bruening">Verweise auf Transkripte.</change>
+      <change when="2013-09-09" who="ritter">aktualisiert</change>
+      <change when="2013-09-25" who="bruening">encoded</change>
+      <change when="2013-10-09" who="henzel">uri ergaenzt und nachgetragen</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P188a</idno>
+      <idno type="gsa_1">GSA 25/IX,4,20b</idno>
+      <idno type="gsa_2">GSA 25/W 762</idno>
+      <idno type="gsa_ident">350064</idno>
+      <idno type="wa_faust">none</idno>
+      <note>unter den Gedichten als Paralipomenon 139 aufgeführt</note>
+      <idno type="bohnenkamp">H P188a</idno>
+      <textTranscript uri="GSA_25-W_762.xml"/>
+      <classification>Notiz</classification>
+      <dimensions>
+         <width unit="mm">214</width>
+         <height unit="mm">103</height>
+      </dimensions>
+      <format>none</format>
+      <edges>uncut</edges>
+      <note>Der rechte Rand ist Bogenrand.</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>Drei_Herzen</watermarkID>
+      <note>Fragment b, re, vgl. faust://bibliography/bohnenkamp1994, S. 699.</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S. 420, Nr. 139</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 699</reference>
+         <reference type="description" uri="faust://bibliography/inventare_2_1">Sp. 232</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_5_2">S. 420, Nr. 139</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 699</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 712</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_5_2">S. 420, Nr. 139</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 700</reference>
+      </references>
+      <note>Kein Nachweis in faust://bibliography/inventare_2_2.</note>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0001.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

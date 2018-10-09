@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389863/">
+   <revisionDesc>
+      <change when="2012-11-14" who="henzel">imported</change>
+      <change when="2012-11-14" who="henzel">encoded</change>
+      <change when="2013-01-31" who="henzel">aktualisiert</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-05-11" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.2</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,3</idno>
+      <idno type="gsa_2">GSA 25/W 1671</idno>
+      <idno type="gsa_ident">389863</idno>
+      <idno type="wa_faust">2 IV H.2</idno>
+      <textTranscript uri="389863.xml"/>
+      <classification>Mundum</classification>
+      <!-- GSA-DB: Konzept, ABR: Mundum -->
+      <condition>Klebespuren auf der ersten Seite (3 Klebepunkte am oberen Rand), die darauf hinweisen, dass an diesen Bogen faust://document/wa_faust/1_4_H.3 angeklebt war (derselbe Abstand zwischen den Punkten, Klebfragmente passen zusammen); untere rechte Eckes des ersten Teilblatts ursprünglich geknickt; Tintenfraß</condition>
+      <!-- Tintenfraß auf Mappe vermerkt; Entdeckung des materiellen Zusammenhangs zwischen 4 H.3 und 4. H.2 am 11.5.2015 -->
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">332</height>
+      </dimensions>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">53</stabMark>
+         <stabMark unit="mm">68</stabMark>
+         <stabMark unit="mm">70</stabMark>
+         <stabMark unit="mm">130</stabMark>
+         <stabMark unit="mm">204</stabMark>
+         <stabMark unit="mm">268</stabMark>
+         <stabMark unit="mm">282</stabMark>
+      </stabMarks>
+      <note>Die beiden Stichlöcher im Abstand von 68 und 70 mm gehören zusammen.</note>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <!-- Blatt 1 -->
+      <countermarkID>"H" über "St(uetzer)bach"</countermarkID>
+      <!-- Blatt 2 -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 705</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 134<!-- Teilwiedergabe --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 705f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 707</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV2_53.JPG" width="23" height="9" align="middle"/> IVH2 IV H2 ist ein von John niedergeschriebenes und von Goethe eigenhändig korrigiertes und ergänztes vorläufiges Mundum zum ersten Teil des Dialogs zwischen Mephisto und Faust zu Beginn des 4. Akts. Die mit Blei und Tinte von Goethe vorgenommene Überarbeitung betrifft sowohl Streichungen ganzer Passagen, Hinweise auf vorzunehmende Ergänzungen als auch Einzelkorrekturen und schließlich die eigenhändige Fortsetzung des Schreibermundums. </p>
+            <p>IV H2 bietet keine äußeren Anhaltspunkte für die Datierung, läßt sich jedoch als überarbeitete Fassung von IV H5 (hier S. 692-696) bestimmen: die Entwicklung eines Einfalls zu einem in Versen ausgeführten Motiv läßt sich am Beispiel von V. 10155-10159 verfolgen. Der noch kontextlose Zweizeiler auf dem Sammelblatt IV H6 (hier S. 689) wird in IV H5 in einen größeren Zusammenhang integriert und dabei umgestellt und erweitert. Das Mundum von der Hand des Schreibers John auf IV H2 bietet dann zunächst die in IV H5 erreichte Version, in einem weiteren Korrekturgang fügt Goethe wiederum eine neue Zeile hinzu: Damit ist die endgültige Fassung erreicht (vgl. IVH5, Z. 72-76, hier S. 695). IV H2 enthält _ in diesem Punkt über alle bekannten Schemata hinausgehend _ die erste überlieferte Ausführung zum `Erdentstehungsgespräch' der Szene `Hochgebirge', die von der endgültigen Fassung jedoch noch deutlich abweicht.</p>
+            <p>Z. 23-27: Die Abschrift des ebenfalls auf IV H5 (Z. 1-5, hier S. 692) überlieferten Entwurfs zu V. 10095ff. wurde in der vorliegenden Reinschrift wieder gestrichen: die Verse sind im endgültigen Text in V. 10095ff. eingegangen; die Erwiderung auf Mephistos Rede übernehmen schließlich V. 10122f. (Der Entwurf wurde bereits von Strehlke [S. 125] unter die Paralipomena gezählt; vgl. auch BA, S. 661).</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

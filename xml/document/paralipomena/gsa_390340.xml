@@ -1,0 +1,1349 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390340/">
+	<revisionDesc>
+		<change when="2013-01-25" who="henzel">imported</change>
+		<change when="2013-01-25" who="henzel">encoded</change>
+		<change when="2015-01-30" who="koehler">minimal headnote</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>7 Einzelblätter. – Prosaentwurf zu ‚Faust II‘, Akt 2.</headNote>
+		<note>Eigenhändiger Titel der Handschrift: "Helena, Zwischenspiel zu Faust. Ankündigung" mit
+			Bleistift; 3. Fassung der für "Kunst und Alterthum" (VI 1) vorgesehenen Ankündigung
+			"Helena. Zwischenspiel zu Faust" WA I 41.2,290-292 = H.b, WA I 42.1,259; dabei:
+			Briefkonzept von Schuchardt mit Tinte von der Großherzoglichen Oberaufsicht an Karl
+			Wilhelm Göttling (Brief vermutlich vom 17.11.1826), vgl. WA IV 41,374; "Nachlese zu
+			Aristoteles Poetik" Konzept Schuchardt, eigenhändige Korrektur zu WA I 41.2,247,1-10 =
+			WA: zu H, I 41.2,553-554; vermutlich eigenhändige Zeichnung mit Bleistift: eventuell
+			Skizze eines Grabmals mit griechischem Begriff</note>
+		<!-- TODO URIs -->
+		<repository>gsa</repository>
+		<idno type="faustedition">H P123.5</idno>
+		<idno type="gsa_1">GSA 25/XIX,1,21c</idno>
+		<idno type="gsa_2">GSA 25/W 1770</idno>
+		<idno type="gsa_ident">390340</idno>
+		<idno type="wa_faust">P123 H.2</idno>
+		<idno type="wa_helenaank">H.b</idno>
+		<idno type="aa_ls_helenaank">H.5</idno>
+		<subidno type="aa_ls_aristpoet">H.1</subidno>
+		<idno type="bohnenkamp">H P123C</idno>
+		<!-- P123 C, Hecker-Nr. 73 -->
+		<textTranscript uri="390340.xml"/>
+		<classification>Mundum</classification>
+		<numberingList>
+			<numbering>Eigenhändige Foliierung mit Bleistift</numbering>
+			<!-- nicht jedes Blatt! -->
+			<numbering>Archivarische Foliierung mit Bleistift</numbering>
+		</numberingList>
+
+		<condition>Konvolut wurde vermutlich im Quartformat aufbewahrt</condition>
+		<dimensions>
+			<width unit="mm">205</width>
+			<height unit="mm">334</height>
+		</dimensions>
+		<note>Der Mindestwert der Blatt-Breite beträgt 202 mm.</note>
+		<format>2</format>
+		<edges>cut</edges>
+		<paperType>Konzeptpapier</paperType>
+		<paperColour>graugelblich</paperColour>
+		<chainLines unit="mm">26</chainLines>
+		<paperMill>Stützerbach</paperMill>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 198</reference>
+			<reference type="description" uri="faust://bibliography/aa_ls_6">S. 729–732</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+				433</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 198-212</reference>
+			<reference type="text" uri="faust://bibliography/aa_ls_3">S. 415–421</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 433-454</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+				636-644</reference>
+			<reference type="essay" uri="faust://bibliography/aa_ls_6">S. 732</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 455-462</reference>
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<!-- Blatt 1 -->
+		<metadata>
+			<watermarkID>"H" über "Stuetzerbach"</watermarkID>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+				<!-- <docTranscript uri="0003.xml"/> deleatur -->
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0004.xml"/>
+				<!-- <docTranscript uri="0005.xml"/> deleatur -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 2 -->
+		<metadata>
+			<watermarkID>none</watermarkID>
+			<countermarkID>Stern über "N 1"</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0006.xml"/>
+				<!-- <docTranscript uri="0007.xml"/> deleatur -->
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<!-- <docTranscript uri="0008.xml"/> deleatur -->
+				<docTranscript uri="0009.xml"/>
+			</metadata>
+			<patch>
+				<metadata>
+					<patchDimensions>
+						<width unit="mm">205</width>
+						<height unit="mm">37</height>
+					</patchDimensions>
+					<note>Der Mindestwert der Blatt-Breite beträgt 203 mm. Der Mindestwert der
+						Blatt-Höhe beträgt 36 mm.</note>
+					<patchType>glue</patchType>
+					<note>angeklebt am linken Rand</note>
+					<patchPaperType>Konzeptpapier</patchPaperType>
+					<patchPaperColour>graugelblich</patchPaperColour>
+					<patchChainLines unit="mm">26</patchChainLines>
+					<patchPaperMill>Stützerbach</patchPaperMill>
+					<patchWatermarkID>none</patchWatermarkID>
+					<patchCountermarkID>none</patchCountermarkID>
+				</metadata>
+				<patchSurface/>
+				<patchSurface/>
+			</patch>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 3 -->
+		<metadata>
+			<leafCondition>roter Siegellack sichtbar, der als Klebstoff für die Anbringung der
+				beiden Zettel diente</leafCondition>
+			<watermarkID>none</watermarkID>
+			<countermarkID>Stern über "N 1"</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0010.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<!-- <docTranscript uri="0011.xml"/> deleatur  -->
+				<docTranscript uri="0012.xml"/>
+			</metadata>
+			<patch>
+				<!-- patch 1 oben -->
+				<metadata>
+					<patchDimensions>
+						<width unit="mm">204</width>
+						<height unit="mm">100</height>
+					</patchDimensions>
+					<patchType>glue</patchType>
+					<note>am oberen Rand des Folioblattes angeklebt</note>
+					<patchPaperType>Konzeptpapier</patchPaperType>
+					<patchPaperColour>graugelblich</patchPaperColour>
+					<patchChainLines unit="mm">26</patchChainLines>
+					<patchWatermarkID>none</patchWatermarkID>
+					<patchCountermarkID>none</patchCountermarkID>
+					<patchPaperMill>Stützerbach</patchPaperMill>
+				</metadata>
+				<patchSurface/>
+				<patchSurface/>
+			</patch>
+			<patch>
+				<metadata>
+					<patchDimensions>
+						<width unit="mm">203</width>
+						<height unit="mm">108</height>
+					</patchDimensions>
+					<patchType>glue</patchType>
+					<note>angeklebt am linken Rand</note>
+					<patchPaperType>Konzeptpapier</patchPaperType>
+					<patchPaperColour>graugelblich</patchPaperColour>
+					<patchChainLines unit="mm">26</patchChainLines>
+					<patchPaperMill>Stützerbach</patchPaperMill>
+					<patchWatermarkID>"H" über "Stuetzerbach"</patchWatermarkID>
+					<patchCountermarkID>none</patchCountermarkID>
+				</metadata>
+				<patchSurface/>
+				<patchSurface/>
+			</patch>
+		</page>
+	</disjunctLeaf>
+	<!-- Blatt 4 (Quart) -->
+	<disjunctLeaf>
+		<metadata>
+			<dimensions>
+				<width unit="mm">204</width>
+				<height unit="mm">169</height>
+			</dimensions>
+			<note>Der Mindestwert der Blatt-Höhe beträgt 168 mm.</note>
+			<format>4</format>
+			<leafCondition>vor der Beschriftung in Kolumnen gebrochen</leafCondition>
+			<edges>cut</edges>
+			<watermarkID>"H" über "Stuetzerbach"</watermarkID>
+			<countermarkID>none</countermarkID>
+			<references>
+				<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 204, zu Z.
+					130–134</reference>
+				<reference type="description" uri="faust://bibliography/wa_I_41_2">S.
+					553f.</reference>
+				<reference type="description" uri="faust://bibliography/aa_ls_4">S. 293</reference>
+				<reference type="essay" uri="faust://bibliography/wa_I_41_2">S. 553</reference>
+				<reference type="essay" uri="faust://bibliography/aa_ls_4">S. 293</reference>
+			</references>
+
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0014.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0013.xml"/>
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 5 -->
+		<metadata>
+			<leafCondition>wurde auf Blatt 6 aufgeklebt, beide sind jetzt nur noch am oberen linken
+				Rand fixiert, auf beiden Blättern befinden sich Klebespuren in Form roten
+				Siegellacks</leafCondition>
+			<watermarkID>none</watermarkID>
+			<countermarkID>Stern über "N 1"</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0015.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 6 -->
+		<metadata>
+			<leafCondition>wurde mit Blatt 5 überklebt, beide sind jetzt nur noch am oberen linken
+				Rand fixiert auf beiden Blättern befinden sich Klebespuren in Form roten
+				Siegellacks; Rückseite des Blattes trägt rote verwischte Farbspuren</leafCondition>
+			<watermarkID>none</watermarkID>
+			<countermarkID>Stern über "N 1"</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0016.xml"/>
+				<!-- <docTranscript uri="0017.xml"/> deleatur -->
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0018.xml"/>
+				<!-- <docTranscript uri="0019.xml"/> deleatur -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 7 -->
+		<metadata>
+			<watermarkID>"H" über "Stuetzerbach"</watermarkID>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0020.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<!-- <docTranscript uri="0021.xml"/> deleatur -->
+				<docTranscript uri="0022.xml"/>
+			</metadata>
+			<patch>
+				<!-- patch 1 oben -->
+				<metadata>
+					<patchDimensions>
+						<width unit="mm">193</width>
+						<height unit="mm">86</height>
+					</patchDimensions>
+					<note>Der Mindestwert der Blatt-Höhe beträgt 81 mm.</note>
+					<patchType>glue</patchType>
+					<note>angeklebt am linken Rand</note>
+					<patchPaperType>Konzeptpapier</patchPaperType>
+					<patchPaperColour>graugelblich</patchPaperColour>
+					<patchChainLines unit="mm">26</patchChainLines>
+					<patchPaperMill>Stützerbach</patchPaperMill>
+					<patchWatermarkID>none</patchWatermarkID>
+					<patchCountermarkID>Stern (über "N 1")</patchCountermarkID>
+					<note>angeschnitten</note>
+				</metadata>
+				<patchSurface/>
+				<patchSurface/>
+			</patch>
+			<patch>
+				<!-- patch 2 unten -->
+				<metadata>
+					<patchDimensions>
+						<width unit="mm">191</width>
+						<height unit="mm">65</height>
+					</patchDimensions>
+					<note>Der Mindestwert der Blatt-Breite beträgt 189 mm. Der Mindestwert der
+						Blatt-Höhe beträgt 62 mm.</note>
+					<patchType>glue</patchType>
+					<note>angeklebt am linken Rand</note>
+					<patchPaperType>Konzeptpapier</patchPaperType>
+					<patchPaperColour>graugelblich</patchPaperColour>
+					<patchChainLines unit="mm">26</patchChainLines>
+					<patchPaperMill>Stützerbach</patchPaperMill>
+					<patchWatermarkID>none</patchWatermarkID>
+					<patchCountermarkID>none</patchCountermarkID>
+				</metadata>
+				<patchSurface/>
+				<patchSurface/>
+			</patch>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 8 -->
+		<metadata>
+			<watermarkID>"H" über "Stuetzerbach"</watermarkID>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0023.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0024.xml"/>
+				<!-- <docTranscript uri="0025.xml"/> deleatur -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 9 -->
+		<metadata>
+			<watermarkID>none</watermarkID>
+			<countermarkID>Stern über "N 1"</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0026.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<!-- <docTranscript uri="0027.xml"/> deleatur -->
+				<docTranscript uri="0028.xml"/>
+			</metadata>
+			<patch>
+				<metadata>
+					<patchDimensions>
+						<width unit="mm">195</width>
+						<height unit="mm">59</height>
+					</patchDimensions>
+					<note>Der Mindestwert der Blatt-Breite beträgt 194 mm. Der Mindestwert der
+						Blatt-Höhe beträgt 56 mm.</note>
+					<patchType>glue</patchType>
+					<note>angeklebt am linken Rand</note>
+					<patchPaperType>Konzeptpapier</patchPaperType>
+					<patchPaperColour>graugelblich</patchPaperColour>
+					<patchChainLines unit="mm">26</patchChainLines>
+					<patchPaperMill>Stützerbach</patchPaperMill>
+					<patchWatermarkID>none</patchWatermarkID>
+					<patchCountermarkID>none</patchCountermarkID>
+				</metadata>
+				<patchSurface/>
+				<patchSurface/>
+			</patch>
+
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 10 (Zettel 1 "Hier tritt") -->
+		<metadata>
+			<dimensions>
+				<width unit="mm">102</width>
+				<height unit="mm">92</height>
+			</dimensions>
+			<note>Der Mindestwert der Blatt-Breite beträgt 100 mm. Der Mindestwert der Blatt-Höhe
+				beträgt 91 mm.</note>
+			<format>none</format>
+			<leafCondition>Fleck auf der Rückseite</leafCondition>
+			<watermarkID>none</watermarkID>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0029_u.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 11 (Zettel 2 "welcher den") -->
+		<metadata>
+			<dimensions>
+				<width unit="mm">203</width>
+				<height unit="mm">93</height>
+			</dimensions>
+			<note>Der Mindestwert der Blatt-Höhe beträgt 92 mm.</note>
+			<format>none</format>
+			<leafCondition>Vergilbung des rechten Randes</leafCondition>
+			<watermarkID>none</watermarkID>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0029_o.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript/>
+				<!-- leer -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<disjunctLeaf>
+		<!-- Blatt 12 (mit Skizze) -->
+		<metadata>
+			<leafCondition>unterhalb des mittigen Falzes weiterer Querfalz vorhanden</leafCondition>
+			<watermarkID>"H" über "Stuetzerbach"</watermarkID>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<page>
+			<metadata>
+				<docTranscript uri="0032.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0030.xml"/>
+				<!-- <docTranscript uri="0031.xml"/> deleatur -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:datierung>"17. Decbr. 1826."</f:datierung>     
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p>VS: Schuchardt schw. Tinte Konzeptbruchstück ("Einem jeden, der sich einigermaßen
+					um die Theorie der Dichtung überhaupt, besonders aber der Tragödie bekümmert
+					hat, wird sich einer Stelle des Aristoteles erinnern, welche den Auslegern viel
+					Noth machte, ohne daß sie sich über ihre Bedeutung völlig hätten verständigen
+					können. In der nähern Bezeichnung der Tragödie nämlich scheint der große Mann
+					von ihr zu verlangen, daß sie durch Darstellung Mitleid und Furcht erregender
+					Hand"); vgl. WA I,41.2,247 (`Nachlese zu Aristoteles Poetik');</p>
+				<p>RS: John br. Tinte, Korr. G rote Tinte, mit Einfügungszeichen an entsprechende
+					Stelle verwiesen]</p>
+				<p>[RS:]</p>
+				<p>[ Nun aber da der Verstand im Zwiespalt ver-</p>
+				<p>190 zweifelt sollen auch die Sinne sich nicht mehr trauen.</p>
+				<p>Empusa tritt hervor</p>
+				<p>die dem heutigen Fest zu ehren einen Eselskopf <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_38.JPG" width="31" height="9" align="middle"/>
+				</p>
+				<p> aufgesetzt hat, und ,<sup>[T]</sup> sich immer umgestaltend,<sup>[T]</sup>
+				</p>
+				<p>zwar die übrigen entschiedenen Gebilde nicht</p>
+				<p>zur Verwandlung aber doch zu unsteter</p>
+				<p>195 Ungeduld aufregt.</p>
+				<p>Nun erscheinen unzählbar vermehrt</p>
+				<p>Sphynxe ]<sub>B</sub>
+				</p>
+				<p>erscheinen</p>
+				<p>Nun aber vermehren sich Sphynxe, Greifen und</p>
+				<p>Ameisen, sich gleichsam aus sich selbst entwickelnd.</p>
+				<p>200 Hin und her schwärmen übrigens und rennen die</p>
+				<p>sämtlichen Ungethüme des Alterthums, Chimären, Tra-</p>
+				<p>gelaphen, Gryllen, dazwischen vielköpfige Schlan-</p>
+				<p>gen in Unzahl. Harpyen flattern und schwanken</p>
+				<p>fledermausartig in unsichern Kreisen; der Drache</p>
+				<p>205 Python selbst erscheint im Plural und die stym-</p>
+				<p>phalischen Raubvögel, scharf geschnabelt mit Schwimm-</p>
+				<p>füßen schnurren einzeln pfeilschnell hintereinan-</p>
+				<p>der vorbey. Auf einmal jedoch über allen schwebt</p>
+				<p>wolkenartig ein singender und klingender Zug</p>
+				<p>210 von Syrenen, sie stürzen in den Peneus und baden</p>
+				<p>rauschend und pfeifend, dann baumen sie auf im</p>
+				<p>Gehölze zunächst des Flusses, singen die lieblichsten Lieder. ]<sub>B</sub>
+				</p>
+				<p> t<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_40.JPG" width="42" height="9" align="middle"/> i H P123C </p>
+				<p>[Blatt 4, RS:]</p>
+				<p>[ des Flusses, singen die lieblichsten Lieder aller-</p>
+				<p>
+					<i>
+						<sub>n</sub>
+					</i>
+				</p>
+				<p>erst nur Entschuldigung der Nereiden und</p>
+				<p>215 Tritonen, welche durch ihre Conformation,</p>
+				<p>ohngeachtet der Nähe des Meeres, diesem</p>
+				<p>gehindert werden <i>Dann aber</i>
+				</p>
+				<p>Feste beyzuwohnen. Dagegen laden sie</p>
+				<p>die ganze Gesellschaft aufs dringendste</p>
+				<p>sich in den mannigfaltigen Meeren und</p>
+				<p>
+					<i>der Nachbarschaft</i> ins</p>
+				<p>220 Golfen, auch Inseln und Küsten sich gesamt</p>
+				<p>zu ergötzen; ein Theil der Menge folgt</p>
+				<p>der lockenden Einladung und stürzt meerwärts.</p>
+				<p>Unsere Reisenden aber, an solchen</p>
+				<p>Geisterspuk mehr oder weniger gewöhnt,</p>
+				<p>225 lassen das alles fast unbemerkt um sich</p>
+				<p>her summen. Das chemische Menschlein ,<sup>[B]</sup> an</p>
+				<p>der Erde hinschleichend ,<sup>[B]</sup> g klaubt aus dem Humus</p>
+				<p>eine Menge phosphorescirender Atome auf,</p>
+				<p>deren einige blaues, andere purpurnes</p>
+				<p>230 Feuer von sich strahlen. Er vertraut sie</p>
+				<p>gewissenhaft</p>
+				<p>fleißig Wagnern in die Phiole, welcher</p>
+				<p>
+					<sub>nd</sub> jedoch</p>
+				<p>zweifelt ob daraus künftig ein chemisch Weib-</p>
+				<p>lein zu bilden sey. Als aber Wagner um</p>
+				<p>sie näher zu betrachten sie stark schüttelt</p>
+				<p>235 erscheinen, zu Kohorten gedrängt, Pompejaner</p>
+				<p>und Cäsareaner, um zu legitimer Auf-</p>
+				<p>erstehung ,<sup>[B]</sup> sich die Bestandtheile ihrer Indivi-</p>
+				<p>stürmisch vielleicht</p>
+				<p>dualitäten wieder zuzueignen. Beynahe gelänge ]<sub>B</sub>
+				</p>
+				<p>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_41.JPG" width="55" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_42.JPG" width="47" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_43.JPG" width="24" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_44.JPG" width="46" height="8" align="middle"/>
+					<img src="./KUIV1_01.JPG" width="55" height="8" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV2_20.JPG" width="54" height="8" align="middle"/> Nachlaßstücke Zweiter Teil, Akt 2 </p>
+				<p> [Blatt 5, VS:]</p>
+				<p>
+					<i>5</i>
+				</p>
+				<p>[ es ihnen sich dieser ausgegeisterten Körper-</p>
+				<p>240 lichkeiten zu bemächtigen, doch nehmen die vier</p>
+				<p>Winde, welche diese Nacht unablässig gegen</p>
+				<p>einander wehen, den gegenwärtigen Beschütz</p>
+				<p>Besitzer in Schutz und die Gespenster lassen müssen</p>
+				<p>gefallen lassen von allen Seiten zu vernehmen:</p>
+				<p>sich einreden , daß die Bestandtheile ihres</p>
+				<p>245 römischen Großthums längst durch alle Lüfte</p>
+				<p>zerstoben, durch Millionen Bildungsfolgen</p>
+				<p>aufgenommen und verarbeitet worden.</p>
+				<p>Der Tummult wird dadurch nicht ge-</p>
+				<p>ringer, allein gewissermassen auf einen</p>
+				<p>250 Augenblick beschwichtigt, indem die Aufmerk-</p>
+				<p>zu <sub>er</sub>
+				</p>
+				<p>samkeit auf die Mitte der breit und weiten</p>
+				<p>Ebene gerichtet wird. Dort bebt die Erde</p>
+				<p>zuerst, bläht sich auf und ein Gebirgsreihen bildet sich</p>
+				<p>aufwärts bis abwärts bedrohlich sogar</p>
+				<p>von Scotusa bis an den Peneus scheint</p>
+				<p>den Fluß zu hemmen</p>
+				<p>255 sich abstufend zu bilden. Haupt und Schultern</p>
+				<p>des Enceladus wühlen sich hervor, der</p>
+				<p>
+					<sub>M</sub>
+				</p>
+				<p>nicht ermangelte, unter Leer und Land</p>
+				<p>heranschleichend, die wichtige Stunde zu</p>
+				<p>verherrlichen. Aus mehreren Klüften</p>
+				<p>260 lecken flüchtige Flamen; Naturphilosophen</p>
+				<p>ausbleiben</p>
+				<p>die bey dieser Gelegenheit auch nicht fehlen</p>
+				<p>konnten</p>
+				<p>sollten, Thales und Anaxagoras berathen</p>
+				<p>über das Phänomen heftig in Streit, jener ]<sub>B</sub>
+				</p>
+				<p> her <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_45.JPG" width="51" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_46.JPG" width="44" height="9" align="middle"/>
+					<sub>g</sub> H P123C [Blatt 5, RS:] </p>
+				<p>wie dem Feuchten</p>
+				<p>[ dem Wasser alles zuschreibend, dieser überall</p>
+				<p>265 geschmolzene, schmelzende Massen erblickend,</p>
+				<p>peroriren ihre Solos zu dem Chorg</p>
+				<p>machen Chorus im übrigen Gesause, beide</p>
+				<p>führen den Homer an und jeder ruft Ver-</p>
+				<p>gangenheit und Gegenwart zum Zeugen.</p>
+				<p>[oben aufgeklebter Zettel, Schuchardt :]</p>
+				<p>= Sündfluthen</p>
+				<p>[ Thales beruft sich vergebens auf Springfluthen und Diluvien</p>
+				<p>pathetisch didaktisch <sub>m</sub>Selbstbehagen;</p>
+				<p>270 mit sanfter wogender Stimme; Anaxagoras, wild wie das</p>
+				<p>Element das ihn beherrscht, führt eine leidenschaftlichere Sprache,</p>
+				<p>er weissagt einen Steinregen, der denn auch alsobald aus dem</p>
+				<p>Monde herunter fällt. Die Menge preist ihn als einen Halb-</p>
+				<p>gott, und sein Gegner muß sich zurückziehen nach dem Mee-</p>
+				<p>275 resufer zurückziehen. ]<sub>B</sub>
+				</p>
+				<p>Noch aber haben sich Gebirgsschluchten und</p>
+				<p>Gipfel nicht befestigt und bestätigt, so be-</p>
+				<p>sich</p>
+				<p>mächtigen schon aus weit umherklaffenden</p>
+				<p>Schlünden hervorwimmelnde Pygmäen</p>
+				<p>280 der Oberarme und Schultern des noch ge-</p>
+				<p>ge ten</p>
+				<p>beugt sich aufstemmenden Riesen und</p>
+				<p>bedienen sich deren als Tanz- und Tumel-</p>
+				<p>platz, inzwischen ein unzählbares Heere</p>
+				<p>Gipfelhaupt</p>
+				<p>von Kranichen, dessen Haupt und Haare,</p>
+				<p>285 als wären es undurchdringliche Wälder,</p>
+				<p>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_50.JPG" width="51" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_51.JPG" width="62" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_52.JPG" width="25" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV1_13.JPG" width="14" height="9" align="middle"/> Nachlaßstücke Zweiter Teil, Akt 2 </p>
+				<p>hen</p>
+				<p>kreischend umzieht und, vor Schluß des</p>
+				<p>allgemeinen Festes, ein ergötzliches Kampf-</p>
+				<p>spiel ankündigt en.</p>
+				<p>So vieles und noch mehr denke sich</p>
+				<p>wem es gelingt</p>
+				<p>290 wer kann als gleichzeitig wie es sich</p>
+				<p>ergiebt. Mephistopheles hat indessen mit</p>
+				<p>Enyo Bekanntschaft gemacht, deren Antike</p>
+				<p>Häßlichkeit ihm allen Respect einflößt, er</p>
+				<p>[unten aufgeklebter Zettel, Schuchardt :]</p>
+				<p>[ deren grandiose Häßlichkeit ihn beynahe aus der Fassung</p>
+				<p>295 gebracht und zu unhöflichen beleidigenden Interjectionen</p>
+				<p>aufgeschreckt hätte. Doch nimt er sich zusamen und in</p>
+				<p>Betracht ihrer hohen Ahnen und bedeutenden Einflusses</p>
+				<p>sucht er ihre Gunst zu erwerben. Er ]<sub>B</sub>
+				</p>
+				<p>versteht sich mit ihr und schließt ein Bünd-</p>
+				<p>300 niß ab, dessen offenkundige Bedingungen ]<sub>B</sub>
+				</p>
+				<p>[Blatt 6, VS:]</p>
+				<p>
+					<i>6</i>
+				</p>
+				<p>[ nicht viel heißen wollen, die geheimen aber</p>
+				<p>desto merkwürdiger und folgereicher</p>
+				<p>sind. Faust an seinem Theile ist an den</p>
+				<p>Chiron getreten, der als benachbarter Gebirgs-</p>
+				<p>305 bewohner seine gewöhnliche Runde macht;.</p>
+				<p> H P123C <sub>E</sub>
+				</p>
+				<p>ein ernst pädagogisches Gespräch mit diesem</p>
+				<p>Urhofmeister wird, wo nicht unterbrochen</p>
+				<p>doch gestört durch einen Kreis von Lamien,</p>
+				<p>die sich zwischen Chiron und Faust unablässig</p>
+				<p>durch <sub>R</sub>
+				</p>
+				<p>310 bewegen; reizendes aller Art, blond, braun,</p>
+				<p>groß, klein, zierlich und stark von Gliedern,</p>
+				<p>jedes spricht oder singt, schreitet oder tanzt,</p>
+				<p>eilt oder gestikulirt, so daß wenn Faust</p>
+				<p>nicht das höchste Gebild der Schönheit in sich</p>
+				<p>315 selbst aufgenommen hätte er nothwendig</p>
+				<p>
+					<sub>e</sub> müßte</p>
+				<p>verführt worden war. Auch Chiron indessen,</p>
+				<p>der Alte unerschütterliche, will dem neuen</p>
+				<p>ig <i>
+						<sub>B</sub>
+					</i> die Maximen</p>
+				<p>sinnlichen bekannten klar machen wornach</p>
+				<p>er seine schätzbaren Helden gebildet, da</p>
+				<p>320 denn die Argonauten hererzählt werden</p>
+				<p>und Achill den Schluß macht. Wenn aber</p>
+				<p>der Pädagog auf das Resultat seiner</p>
+				<p>Bemühungen gelangen will; so ergiebt sich</p>
+				<p>wenig Erfreuliches; denn sie leben und</p>
+				<p>325 handeln gerade fort als wenn sie nicht</p>
+				<p>erzogen wären. ]<sub>B</sub>
+				</p>
+				<p>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_53.JPG" width="39" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_54.JPG" width="58" height="9" align="middle"/> . . . Nachlaßstücke Zweiter Teil, Akt 2 </p>
+				<p>[Blatt 6, RS:]</p>
+				<p>[ Als nun Chiron das Begehren und die Ab-</p>
+				<p>sicht von Faust erfährt, erfreut er sich doch auch</p>
+				<p>wieder einmal einen Mann wieder zu sehen</p>
+				<p>330 der das Unmögliche verlange, wie er denn im-</p>
+				<p>mer an seinen Zöglingen dergleichen gebilligt.</p>
+				<p>
+					<i>
+						<sub>m</sub>
+					</i>
+				</p>
+				<p>Zugleich bietet er den modernen Helden Förder-</p>
+				<p>ung und Leitung an, trägt ihn auf breitem Rü-</p>
+				<p>
+					<i>hinüber herüber</i>
+				</p>
+				<p>cken kreuzweis durch allen Fuhrthen und Kiese</p>
+				<p>335 des Peneus, läßt Larissa zu rechten und zeigt</p>
+				<p>seinem Reuter nur hie und da die Stelle</p>
+				<p>wo der unglückliche König von Macedonien</p>
+				<p>der</p>
+				<p>Perseus auf seiner bänglichen Flucht wenige</p>
+				<p>Minuten verschnaufte. So gelangen sie ab-</p>
+				<p>340 wärts bis an den Fuß des Olympus; hier</p>
+				<p>stoßen sie auf eine lange Prozession von</p>
+				<p>Sibyllen, ab an Zahl weit mehr als zwölfe.</p>
+				<p>Chiron schildert die ersten Vorüberziehenden</p>
+				<p>als alte Bekannte und empfiehlt seinen</p>
+				<p>345 Schützling der sinnigen ,<sup>[B]</sup> wohldenkenden Tochter</p>
+				<p>des Tiresias ,<sup>[B]</sup> Manto.</p>
+				<p>
+					<i>
+						<sub>m</sub>
+					</i>
+				</p>
+				<p>Diese eröffnet ihn daß der Weg zum</p>
+				<p>Orkus sich so eben aufthuen werde ,<sup>[B]</sup> gegen</p>
+				<p>die Stunde wo ehmals ,<sup>[B]</sup> um so viele große</p>
+				<p>350 Seelen hinabzulassen ,<sup>[B]</sup> der Berg klaffen müssen.</p>
+				<p>Es ereignet sich wirklich und, von dem horosko-</p>
+				<p>pischen Augenblick begünstigt steigen sie sämtlich ]<sub>B</sub>
+				</p>
+				<p>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_55.JPG" width="53" height="9" align="middle"/> st <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/UBOG1_03.JPG" width="9" height="8" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/UBOG1_04.JPG" width="6" height="6" align="middle"/> H P123C [Blatt 7, VS:] </p>
+				<p>
+					<i>7.</i>
+				</p>
+				<p>[ schweigend hinunter. Auf einmal deckt Manto ihren</p>
+				<p>Beschützten mit dem Schleyer und drängt ihn vom</p>
+				<p>355 Wege ab gegen die Felsenwände, so daß er</p>
+				<p>zu ersticken und zu vergehen fürchtet. Dem</p>
+				<p>bald darauf wieder enthüllten erklärt sie</p>
+				<p>Gorgonen</p>
+				<p>diese Vorsicht, das Medusenhaupt nämlich sey</p>
+				<p>ihnen die Schlucht herauf entgegen gezogen ,<sup>[B]</sup>
+				</p>
+				<p>360 seit Jahrhunderten immer größer und brei-</p>
+				<p>gern von diesem der Festebene</p>
+				<p>ter werdend; Proserpina halte es zurück</p>
+				<p>weil die</p>
+				<p>versamelten Gespenster und Ungethüme durch</p>
+				<p>gebracht sich</p>
+				<p>sein Erscheinen aus aller Fassung bringend und</p>
+				<p>alsobald Manto</p>
+				<p>zerstreuten. Sie selbst als hochbegabte den</p>
+				<p>365 wagte nicht es anzuschauen, hätte Faust dar-</p>
+				<p>auf geblickt so wär er gleich vernichtet</p>
+				<p>worden, so daß weder von Leib noch Geist</p>
+				<p>im Universum jemals wieder etwas von</p>
+				<p>ihm wäre zu finden gewesen. Sie gelangen</p>
+				<p>zu dem</p>
+				<p>370 endlich in die unabsehbaren, von Gestalt um</p>
+				<p>Gestalt überdrängten Hoflager der Proser-</p>
+				<p>pina; hier giebt es zu gränzenlosen Inciden-</p>
+				<p>bis</p>
+				<p>zien Gelegenheit, so wie der präsentirte Faust</p>
+				<p>als zweyter Orpheus gut aufgenomen, seine</p>
+				<p>375 Bitte aber doch et einigermassen etwas selt-</p>
+				<p>sam gefunden wird. Die Rede der Manto</p>
+				<p>als Vertreterin, muß bedeutend seyn, sie ]<sub>B</sub>
+				</p>
+				<p>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_56.JPG" width="85" height="10" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_57.JPG" width="47" height="12" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_58.JPG" width="29" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_59.JPG" width="17" height="7" align="middle"/> Nachlaßstücke Zweiter Teil, Akt 2 </p>
+				<p>[Blatt 7, RS:]</p>
+				<p>[ beruft sich zuerst auf die Kraft der Beyspiele ,<sup>[B]</sup>
+				</p>
+				<p>führt die Begünstigung des Protesilaus, der Alceste</p>
+				<p>380 und Euridice umständlich vor. Hat doch Helena</p>
+				<p>selbst schon einmal die Erlaubniß gehabt ins Leben</p>
+				<p>zurückzukehren, um sich mit dem frühgeliebten Achill</p>
+				<p>zu verbinden <i>!</i>
+					<sup>[B]</sup> und zwar unter Bedingung einbe-</p>
+				<p>schränkten Wohnens und bleibens auf der Insel</p>
+				<p>Gang</p>
+				<p>385 Leuce. Von dem übrigen Lauf und Fluß der</p>
+				<p>Rede dürfen wir nichts verrathen, am we-</p>
+				<p>nigsten von der Perroration, durch welche die</p>
+				<p>die Königin</p>
+				<p>Königin bis zu Thränen gerührte, ihr Jawort</p>
+				<p>ertheilt und die Bittenden an die drey Richter</p>
+				<p>in</p>
+				<p>390 verweist, deren ehrenes Gedächtniß sich alles ein-</p>
+				<p>[3 Zeilen am Rand quer:]</p>
+				<p>senckt was in dem Lethestrome</p>
+				<p>zu ihren Füßen vorüberrollend zu</p>
+				<p>verschwinden scheint.</p>
+				<p>Hier wird nun bestimmt daß Helena</p>
+				<p>[aufgeklebter Zettel, Schuchardt :]</p>
+				<p>395 Hier findet sich nun, daß Helenen das vorige mal die Rück-</p>
+				<p>kehr ins Leben vergönnt worden, aber unter der Bedingung</p>
+				<p>eingeschränkten Wohnens und Bleibens auf der Insel Leuce.</p>
+				<p>Nun soll sie ebenmäßig</p>
+				<p> ..... <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_60.JPG" width="42" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV1_14.JPG" width="22" height="11" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/UBOG1_05.JPG" width="10" height="9" align="middle"/> H P123C </p>
+				<p> auf den Boden von Sparta zurückkehren solle,</p>
+				<p>400 um ,<sup>[B]</sup> als wahrhaft lebendig ,<sup>[B]</sup> dort in einem
+					vor-</p>
+				<p>gebildeten Hause des Menelas aufzutreten ,<sup>[B]</sup>
+				</p>
+				<p>wo denn dem neuen Werber überlassen bleibe</p>
+				<p>inwiefern er auf ihren beweglichen Geist und</p>
+				<p>empfänglichen Sinn einwirken und sich ihre Gunst er-</p>
+				<p>405 werben könne. ]<sub>B</sub>
+				</p>
+				<p>[eingelegter Streifen Konzeptpapier, Schuchardt :]</p>
+				<p>Hier tritt nun das angekündigte Zwi-</p>
+				<p>schenspiel ein, zwar mit dem Gange</p>
+				<p>der Haupthandlung genugsam ver-</p>
+				<p>bunden, aus Ursachen aber, die sich</p>
+				<p>410 in der Folge entwickeln werden,</p>
+				<p>als isolirt für diesmal mitgetheilt.</p>
+				<p>sollte freylich</p>
+				<p>[ Dieses kurze Schema wäre mit allen Vor-</p>
+				<p>ge</p>
+				<p>theilen der Dicht- und Redekunst auszuführen und</p>
+				<p>ge</p>
+				<p>auszuschmücken, wie es aber da liegt, diene es</p>
+				<p>te</p>
+				<p>415 einsweilen die Ancedenzien bekannt zu machen</p>
+				<p>welche der angekündigten Helena, einem klassisch-</p>
+				<p>romantischen-phantasmagorischen Zwischenspiel zu</p>
+				<p>als vorausgehend</p>
+				<p>Faust genau gekannt und gründlich überdacht wer-</p>
+				<p>den sollen.</p>
+				<p>dem Publicum übergeben werden,</p>
+				<p>420</p>
+				<p>W. d. 17. Decbr. 1826. ]<sub>B</sub>
+				</p>
+				<p>t</p>
+				<p> t <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_61.JPG" width="10" height="12" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_62.JPG" width="86" height="9" align="middle"/> te Nachlaßstücke Zweiter Teil, Akt 2 </p>
+				<p> [Vorstufen zu verschiedenen Teilen der Antecedenzien in der Fassung P123C sind
+					auf drei weiteren Blättern überliefert:</p>
+				<p>Als loser Streifen 203 x 92 mm grauen Konzeptpapiers findet sich folgende Vorform
+					zu dem eingeklebten Schuchardtschen Zettel auf S. 3, RS: ]</p>
+				<p>[zu Z. 132141] [ welcher den Benediktinern beypflichtend den Eintritt</p>
+				<p>jener großen Weltbegebenheit gerade zu dieser</p>
+				<p>Stunde nicht will gelten lassen. Man entgegnet</p>
+				<p>ihm</p>
+				<p>Hierüber komt er mit Mephistopheles in Streit, worin auch</p>
+				<p>die übrigen ihm beystimmen; man behauptet nämlich, der</p>
+				<p>Teufel würde sich nicht auf Mönche berufen. Da er aber hart</p>
+				<p>näckig auf diesem Rechte besteht, so würde der Streit sich</p>
+				<p>verlieren</p>
+				<p>in's Weite ziehen, wenn das chemisch Mänleins nicht eine andre</p>
+				<p>tiefen =mythischen</p>
+				<p>Probe seines historischen Naturells ablegte und versicherte, ]<sub>B</sub>
+				</p>
+				<p>[Vorstufe zu dem auf Blatt 4, VS eingelegten Blatt Johns:</p>
+				<p>Graues Folioblatt, Konzeptpapier; WZ: `H' über `Stuetzerbach';</p>
+				<p>VS: Schuchardt Konzept ("An Herrn Professor und Bibliothekar Dr. Göttling. Jena.
+					Da der wegen in Gotha erstandenen Bücher gleich von Anfang und so auch in der
+					Folge einigermaßen zweideutigen Angelegenheit Großherzogl. Oberaufsicht nur auf
+					Ersuchen der Jenaischen Academie gehandelt hat, so möchte gegenwärtig, da man
+					von jener Seite die Sache auf sich beruhen zu lassen denkt, diesseits auch nur
+					in gleichem Sinn das Weitere abzuwarten seyn. Indessen behält man sich vor, der
+					Sache weiter nachzudenken und auf jeden Umstand aufmerksam zu seyn, welcher sie
+					wieder ins Gleis und vielleicht zu einem glücklichen Abschluß führen
+					könnte.");</p>
+				<p>RS: Skizze eines Grabmals(?), darunter griech. [etwa "piesman"], quer dazu G
+					Bleientwurf]</p>
+				<p>[RS:]</p>
+				<p>[zu Z. 189197] [ <i>Nun aber da der Verstand im Zwiespalt</i>
+				</p>
+				<p>
+					<i>verzweifelt solle</i> ]<sub>B</sub>
+				</p>
+				<p>[ <i>Nun aber da der Verstand schon mit</i>
+				</p>
+				<p>
+					<i>sich selbst in Zwiespalt stand gerieth</i>
+				</p>
+				<p>
+					<i>sollen auch die Sinne sich nicht mehr</i>
+				</p>
+				<p> d f <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_63.JPG" width="29" height="9" align="middle"/> H P123C </p>
+				<p>
+					<i>trauen. Als Empuse hereintritt [xxx]</i>
+				</p>
+				<p>
+					<i>u die dem heutigen Feste zu Ehren</i>
+				</p>
+				<p>
+					<i>ihren Eselskopf aufgesetzt hat,</i>
+				</p>
+				<p>
+					<i>immer zwar</i>
+				</p>
+				<p>
+					<i>u sich umgestalte[nd] die übrigen Gebilde</i>
+				</p>
+				<p>
+					<i>zwar nicht zur Verwandlung aber</i>
+				</p>
+				<p>
+					<i>doch in Unruhe versetzt hat unsteter</i>
+				</p>
+				<p>
+					<i>zu Ungeduld</i>
+				</p>
+				<p>
+					<i>Bewegung aufregt</i>
+				</p>
+				<p>
+					<i>2 3 1</i>
+				</p>
+				<p>
+					<i>Nun unzählb[ar] vermehrt erscheinen alsbald</i>
+				</p>
+				<p>
+					<i>nachdem</i>
+				</p>
+				<p>
+					<i>Nun aber der Verstand schon in unauf</i>
+				</p>
+				<p>
+					<i>lassigen Zwiespalt gerieth</i> ]<sub>B</sub>
+				</p>
+				<p>[Erste Version von Blatt 4, RS, auf das die neue aufgeklebt wurde, da die
+					Korrekturen so zahlreich wurden, daß sie auf dem alten Blatt nicht mehr
+					übersichtlich anzubringen waren:]</p>
+				<p>
+					<i>4</i>
+				</p>
+				<p>nehmen, wobey Mephistopheles seine Glossen</p>
+				<p>keineswegs verbergen kann.</p>
+				<p>Faust hat sich ins Gespräch mit einer auf den</p>
+				<p>Hinterfüßen ruhenden</p>
+				<p>Sphynx eingelassen wo die wichtigsten Fragen</p>
+				<p>durch gleich räthselhafte Antworten ins Un</p>
+				<p>endliche gespielt werden. Ein daneben in</p>
+				<p>so</p>
+				<p>gleicher Stellung aufpassender Greif, einer</p>
+				<p>
+					<i>das Mindeste</i>
+				</p>
+				<p>der Goldhüthenden, spricht mit ein, ohne des</p>
+				<p>halb aufzuklären. Eine kolossale, gleichfalls</p>
+				<p>goldhüthende Ameise, welche sich hinzu gesellt,</p>
+				<p>
+					<sub>v</sub>
+				</p>
+				<p>macht die Unterhaltung noch Verwirrter.</p>
+				<p>g <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_69.JPG" width="59" height="9" align="middle"/>
+				</p>
+				<p>Nun aber vermehren sich P Sphynxe,</p>
+				<p>sey</p>
+				<p>Greife, Ameisen und was sonst noch, sich gleich</p>
+				<p>sam aus sich selbst entwickelnd;. hin und her</p>
+				<p>schwärmen ferner die übrigen Ungethüme</p>
+				<p>Tragelaphen, Gryllen, dazwischen</p>
+				<p>des Alterthums, Chimären, vielköpfige Schlan=</p>
+				<p>schweben u. schwancken schwingen sich,</p>
+				<p>gen in Unzahl; Harpyen schweben fleder</p>
+				<p>fleder vorüber in K unsichern Kreisen</p>
+				<p>mausartig umher, der Drache Python selbst</p>
+				<p>erscheint im Plural und die stymphalischen</p>
+				<p>einzeln hintereinander vorbey</p>
+				<p>Vögel schnurren pfeilschnell hin und wieder.</p>
+				<p>Auf einmal jedoch über allen schwebt,</p>
+				<p>wolkenartig, ein singender und klingender</p>
+				<p>Zug von Sirenen; sie stürzen sich in den</p>
+				<p>Peneus, und baden sich rauschend und pfeifend;</p>
+				<p>sie</p>
+				<p>dann baumen sie auf in dem Gehölze zunächst</p>
+				<p>[am rechten Rand:]</p>
+				<p>
+					<i>Raubvögel mit Schwimmfüßen</i>
+				</p>
+				<p>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_70.JPG" width="25" height="9" align="middle"/>
+					<sub>H</sub>
+				</p>
+				<p>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_71.JPG" width="106" height="11" align="middle"/>
+					<img src="./KUIV1_01.JPG" width="71" height="11" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_72.JPG" width="37" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_73.JPG" width="113" height="9" align="middle"/>
+					<img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_74.JPG" width="30" height="9" align="middle"/> H P123B/C </p>
+				<p> Die beiden Versionen dieser ausführlichen Fassung der für `Kunst und Alterthum'
+					vorgesehenen `Ankündigung der Helena' entstanden im Dezember 1826. Sowohl die
+					etwas kürzere Fassung vom 15. Dezember 1826 als auch das umfangreiche Manuskript
+					vom 17. Dezember sind von der Hand Johns niedergeschrieben und mit zahlreichen
+					Korrekturen und Ergänzungen Goethes, zum Teil auch Schuchardts versehen. Dieser
+					von Goethe als `Antecedenzien' oder `Einleitung zur Helena' bezeichnete
+					ausführliche Bericht über die Vorgeschichte des abgeschlossenen `Helena'-Akts
+					wird in diesen Dezembertagen offenbar im Zusammenhang mit Goethes
+					Revisionsarbeiten für seine Zeitschrift `Kunst und Alterthum' niedergeschrieben.
+					Über die Beziehung zu dem ebenfalls in diesem Dezember entstehenden Aufsatz
+					`Nachlese zu Aristoteles Poetik' (Konzeptbruchstücke dieser Arbeit sind auf der
+					Rückseite eines Ergänzungsblatts zu P123C überliefert, vgl. hier S. 441) vgl.
+					Schillemeit (Produktive Interpretation. Goethes `Nachlese zu Aristoteles Poetik'
+					im entstehungsgeschichtlichen Kontext).</p>
+				<p>Vom 15. bis zum 21. verzeichnet das Tagebuch fast täglich Beschäftigung mit den
+					`Antecedenzien der Helena'; am 21. 12. 1826 bespricht Goethe sich mit Eckermann
+					über die "Einleitung zur Helena". (Vgl. WA III,10,282-284.)</p>
+				<p>In diesen Tagen ist Humboldt zu Besuch in Weimar, auch ihm gibt Goethe die
+					`Helena' und ihre `Antecedenzien' zu lesen. Am 29. 12. 1826 verzeichnet das
+					Tagebuch: "Ingleichen las er [Humboldt] die Antecedenzien zu Helena, und war
+					auch der Meynung, daß sie gegenwärtig nicht gedruckt werden sollten." (WA
+					III,10,286) Schon bald nach ihrer Fertigstellung fällt also die Entscheidung,
+					diese `Einleitung' zunächst zurückzuhalten; tatsächlich wurde im folgenden
+					Frühjahr im ersten Heft des 6. Bandes von `Kunst und Alterthum' dann auch nur
+					eine wieder radikal verkürzte Version gedruckt:</p>
+				<p>Helena. Zwischenspiel zu Faust.</p>
+				<p>Fausts Charakter, auf der Höhe, wohin die neue Ausbildung aus dem alten rohen
+					Volksmährchen denselben hervorgehoben hat, stellt einen Mann dar, welcher, in
+					den allgemeinen Erdeschranken sich ungeduldig und unbehaglich fühlend, den
+					Besitz des höchsten Wissens, den Genuß der schönsten Güter für unzulänglich
+					achtet, seine Sehnsucht auch nur im mindesten zu befriedigen, einen Geist,
+					welcher deßhalb, nach allen Seiten hin sich wendend, immer unglücklicher
+					zurückkehrt.</p>
+				<p>Diese Gesinnung ist dem modernen Wesen so analog, daß mehrere gute Köpfe die
+					Lösung einer solchen Aufgabe zu unternehmen sich gedrungen fühlten. Die Art, wie
+					ich mich dabei benommen, hat sich Beifall erworben; vorzügliche Männer haben
+					darüber gedacht und meinen Text commentirt, welches ich dankbar anerkannte.
+					Darüber aber mußte ich mich wundern, daß diejenigen, welche eine Fortsetzung und
+					Ergänzung meines Fragments unternahmen, nicht auf den so nahe liegenden Gedanken
+					gekommen sind, es müsse die Bearbeitung eines zweiten Theils sich nothwendig aus
+					der bisherigen kümmerlichen Sphäre ganz erheben und einen solchen Mann in
+					höheren Regionen durch würdigere Verhältnisse durchführen.</p>
+				<p>Wie ich nun von meiner Seite dieses angegriffen, lag im Stillen vor mir, von Zeit
+					zu Zeit mich zu einiger Fortarbeit anregend; wobei ich mein Geheimniß vor allen
+					und jeden sorgfältig verwahrte, immer in Hoffnung, das Werk einem gewünschten
+					Abschluß entgegenzuführen. Jetzt aber darf ich nicht zurückhalten und bei
+					Herausgabe meiner sämmtlichen Bestrebungen kein Geheimniß mehr vor dem Publicum
+					verbergen, vielmehr fühle ich mich verpflichtet, alles mein Nachlaßstücke
+					Zweiter Teil, Akt 2</p>
+				<p>Bemühen, wenn auch fragmentarisch, nach und nach vorzulegen.</p>
+				<p>Deßhalb entschließ' ich mich zuvörderst, oben benanntes, in den zweiten Theil des
+					Faust einzupassendes, in sich abgeschlossenes kleineres Drama sogleich bei der
+					ersten Sendung mitzutheilen.</p>
+				<p>Noch ist die große Kluft zwischen dem bekannten jammervollen Abschluß des ersten
+					Theils und dem Eintritt einer griechischen Heldenfrau nicht überbrückt; man
+					genehmige jedoch vorläufig Nachstehendes mit Freundlichkeit.</p>
+				<p>Die alte Legende sagt nämlich, und das Puppenspiel verfehlt nicht, die Scene
+					vorzuführen, daß Faust in seinem herrischen Übermuth durch Mephistopheles den
+					Besitz der schönen Helena von Griechenland verlangt und dieser ihm nach einigem
+					Widerstreben willfahrt habe. Ein solches bedeutendes Motiv in unserer Ausführung
+					nicht zu versäumen, war uns Pflicht, und wie wir uns derselben zu entledigen
+					gesucht, wird aus dem Zwischenspiel hervorgehen. Was aber zu einer solchen
+					Behandlung die nähere Veranlassung gegeben, und wie nach mannichfaltigen
+					Hindernissen den bekannten magischen Gesellen geglückt, die eigentliche Helena
+					persönlich aus dem Orcus in's Leben heraufzuführen, bleibe vor der Hand noch
+					unausgesprochen. Gegenwärtig ist genug, wenn man zugibt, daß die wahre Helena
+					auf antik-tragischem Kothurn vor ihrer Urwohnung zu Sparta auftreten könne.
+					Sodann aber bittet man, die Art und Weise zu beobachten, wie Faust es
+					unternehmen dürfe, sich um die Gunst der weltberühmten königlichen Schönheit zu
+					bewerben. (WA I,41.2,290292)</p>
+				<p>Ganz im Gegensatz zu den zurückgehaltenen ausführlichen Berichten vom Dezember
+					beschränkt sich diese veröffentlichte `Ankündigung' der `Helena' auf die
+					Bestimmung ihrer Position innerhalb des Zweiten Teils, alle inhaltlichen Angaben
+					zur Vorgeschichte der `Helena' bleiben "vor der Hand noch unausgesprochen".</p>
+				<p>Im Unterschied zu den ersten Andeutungen einer `Klassischen Walpurgisnacht' in
+					P123A enthalten P123B und C einen ausführlichen Bericht dieses Ereignisses.
+					Wesentliche Züge des hier Vorgestellten sind in der ausgeführten Fassung
+					erhalten.</p>
+				<p>Während der Entwurf vom Juni (hier S. 412-415) noch ganz ohne den Homunculus
+					auskommt, wird diese Figur in P123B und C schon ausführlich beschrieben. Das
+					Experiment Wagners gelingt, und Homunculus, der seinen Glaskolben hier sofort
+					nach seiner Entstehung sprengt, nimmt gemeinsam mit Wagner an der Fahrt nach
+					Thessalien teil. Allerdings bleibt die Rolle des chemischen Menschleins in
+					diesem Entwurf episodisch, wesentliche Elemente der späteren
+					Homunculus-Konzeption fehlen noch. Vgl. dazu Hertz, der feststellt, daß die
+					Motive aus P123B "in allen entscheidenden Punkten im Gegensatz zur fertigen
+					Dichtung" stehen (Hertz, Natur und Geist, S. 126ff.). Zu P123 vgl. auch die
+					Darstellung Höflers, der die Homunculus-Episode in P123 als geplante Karikatur
+					A. W. Schlegels deutet. Die Veränderungen des Plans in der Ausführung führt
+					Höfler auf Goethes Anliegen zurück, die Satire zu `verrätseln', damit niemand
+					errate, worauf sein Spott sich eigentlich beziehe. (Otto Höfler, Homunculus _
+					eine Satire auf A. W. Schlegel, S. 17.)</p>
+				<p>Im Vergleich mit den Schemata vom November (hier S. 417-420) sind die im Dezember
+					ausgearbeiteten Berichte über die Geschehnisse der `Klassischen Walpurgisnacht'
+					wesentlich ausführlicher und detailreicher durchgeführt. Eine Reihe wichtiger
+					Motive des späteren 2. Aktes sind hier zum ersten Mal genannt (so z. B die
+					Verbindung des Erdbebenmotivs mit der Auseinandersetzung zwischen Thales und</p>
+				<p> H P123B/C</p>
+				<p> Anaxagoras, vgl. P123B, Z. 105-111, hier S. 428, und P123C, Z. 260-268, hier S.
+					444f.). Das in P99B am linken Rand (hier S. 419) nachträglich zugefügte
+					Stichwort "Centauren" in der Reihe der antiken Ungeheuer wird hier zum
+					Chiron-Motiv weiterentwickelt. </p>
+				<p>Eine große Zahl der in den `Antecedenzien' bereits bis ins einzelne ausgeführten
+					Motive wird bei der Ausführung der `Klassischen Walpurgisnacht' dann wieder
+					fallengelassen: "Das Schwierige indessen war, sich bei so großer Fülle mäßig zu
+					halten, und alle solche Figuren abzulehnen, die nicht durchaus zu meiner
+					Intention paßten. So habe ich z. B. von dem Minotaurus, den Harpyen, und einigen
+					andern Ungeheuern, keinen Gebrauch gemacht." (Goethe zu Eckermann 21. 2.
+					1831.)</p>
+				<p>Ein Vergleich der beiden ausführlichen Fassungen vom Dezember macht deutlich, daß
+					in diesen wenigen Tagen keine wesentlichen Konzeptionsveränderungen vorgenommen
+					wurden. Die zweite Fassung arbeitet die vorgenommenen Korrekturen und
+					Ergänzungen ein, führt zahlreiche Motive detaillierter aus, wie die Ergänzung
+					der Ungeheuer um die Ameisen und die Empuse (Z. 186ff., Z. 191ff.) und die
+					Erweiterung der Erdbebenszene durch den herabfallenden Meteor (Z. 272) sowie
+					einige wenige Motive neu ein: In der ersten Version fehlen unter anderem noch
+					der Gedanke des Meerfestes und die in diesem Zusammenhang eingeführten Figuren
+					der Sirenen, Nereiden und Tritonen. Da diese auf H P99B in einem Randzusatz
+					eingeführt werden (hier S. 419), läßt sich vermuten, daß Goethe dieses Blatt
+					noch im Dezember benutzte und ergänzte: zumindest ein Teil der Randbemerkungen
+					ist offensichtlich erst während der Arbeit an P123 im Dezember 1826
+					entstanden.</p>
+				<p>Schließlich wird in der Fassung P123C die Szene mit Chiron durch den Auftritt der
+					Lamien ergänzt, die, anders als in der Ausführung (V. 7752-7790), hier Faust zu
+					verführen suchen _ "als Pendant zu jener jungen Hexe, mit der Faust in der
+					Walpurgisnacht des Brockens tanzt" (Reinhardt, Klassische Walpurgisnacht, S.
+					109). Der Abstieg in die Unterwelt wird um das Motiv der Begegnung mit dem
+					Gorgonenhaupt bereichert (vgl. P123C, Z. 358-369, hier S. 449).</p>
+				<p>Der folgende Zeilenkommentar orientiert sich an der Zeilenzählung der letzten,
+					ausführlichsten Fassung der `Antecedenzien' (P123C).</p>
+				<p>Z. 7 Erdeschranken] wohl von Goethe geprägtes Kompositum, das die Bedingtheit
+					irdischen menschlichen Daseins bezeichnet (vgl. auch WA I,3,44 und WA
+					I,6,236).</p>
+				<p>Z. 23f. Fortsetzung und Ergänzung] Zu den verschiedenen Versuchen, Goethes
+					`Faust. Der Tragödie Erster Teil' weiterzudichten, vgl. mein Kapitel zur
+					Wirkungsgeschichte, hier S. 40f., Anm. 7.</p>
+				<p>Z. 42-46: Das "abgeschlossene kleinere Drama", die `Helena', hat Goethe dann
+					tatsächlich im folgenden Jahr im 4. Band der `Ausgabe letzter Hand'
+					veröffentlicht.</p>
+				<p>Z. 56 Puppenspiel] Nach der Vorgabe des alten `Volksbuches' spielte in den
+					zahlreichen Bearbeitungen des `Faust'-Stoffs für das Puppentheater die Gestalt
+					der `schönen Helena' eine wichtige Rolle _ indem der Protagonist ihr verfällt,
+					gehört er endgültig der Hölle.</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 2</p>
+				<p>Z. 72 Geistererscheinung] Die auch in P63 (Z. 64f., hier S. 269) skizzierte
+					Geistererscheinung gehört zu den alten Konzeptionen des `Faust'-Plans (vgl. auch
+					P65, hier S. 186).</p>
+				<p>Z. 73 Sie] Schreiberfehler für "sie".</p>
+				<p>Z. 74 Idole] Trugbilder.</p>
+				<p>Z. 75-87: Die hier ausgeführte Szene der Begutachtung der beiden antiken
+					Gestalten durch die Hofgesellschaft gehört auch zu den alten Konzeptionen (vgl.
+					P63, Z. 81-88, hier S. 270); im übrigen sind vom späteren 1. Akt in der
+					vorliegenden `Einleitung zur Helena' nur die Umrisse entworfen.</p>
+				<p>Z. 94 Träume] Der in P99B, Z. 2 (hier S. 419) noch vorgesehene große Monolog
+					zwischen den Wahnerscheinungen der beiden Frauengestalten ist hier bereits
+					aufgegeben; anstatt "sich vor den Augen des Zuschauers sichtbar umständlich" zu
+					begeben, werden im ausgeführten Text Fausts Träume von Homunculus berichtet (V.
+					6903-6920).</p>
+				<p>Z. 103f. früheren probaten Mittels] Mephisto bezieht sich offenbar auf seine aus
+					dem ersten Teil des `Faust' bekannten Versuche, Faust vom Schicksal Gretchens
+					abzulenken.</p>
+				<p>Z. 112 seinen] Schreiberfehler für "seinem".</p>
+				<p>Z. 113 gloriirend] prahlend, sich selbst rühmend.</p>
+				<p>Z. 114f.: Wagner fabriziert das "chemisch Menschlein" noch ganz ohne Hilfe des
+					Mephistopheles.</p>
+				<p>Z. 130 pharsalische Schlacht] Schlacht bei Pharsalos, in der 48 v. Chr. Pompeius
+					Magnus von Caesar geschlagen wurde. Vgl. Lukan, `Pharsalia'.</p>
+				<p>Z. 132f. nach Angabe der Benedictiner] bezieht sich nach Düntzer (Klassische
+					Walpurgisnacht, S. 84) auf ihr berühmtes "und für die historische Chronologie
+					lange Zeit maßgebendes" Werk `L'art de vérifier les dates'.</p>
+				<p>Z. 143: Die von Goethe in dieser Zeile zunächst vorgenommenen
+					Bleistiftkorrekturen sind nicht wie hier dargestellt durch Streichung bzw.
+					Unterpunktung wieder rückgängig gemacht, sondern durch Überkleben mit dem eine
+					Ergänzung (Z. 132-141) bietenden Papierstreifen.</p>
+				<p>Z. 158 Eilmantel] vgl. V. 6983-6986.</p>
+				<p>Z. 168 Erichto] Thessalische Zauberin, die nach der Darstellung von Lukan
+					(`Pharsalia' VI, 507ff.) von Sextus Pompeius über den Ausgang der Schlacht gegen
+					Cäsar befragt wird. Vgl. V. 7005ff.</p>
+				<p>Z. 169 Erichtonius] Bereits in P99B, Z. 19, eingeführte Figur: Sagenhafter König
+					von Athen, wie Wagners künstlicher Homunkulus "kein volliger Mensch, sondern ein
+					Knabe mit einem Paar Drachenfüßen": seinen Vater Vulkan verstand man als
+					Verkörperung der "Kunst", seine Mutter Minerva als die der "Natur, der jene oft
+					Gewalt anzuthun suche", aber doch nur "etwas hervorbringe, das von oben her,
+					oder von außen gar gut, von unten oder innen aber oft eben so häßlich und elend,
+					als Erichthonius, bewandt sey" (Hederich, S. 1030f. u. 1033). Über seine
+					Entstehung</p>
+				<p> H P123B/C</p>
+				<p> vgl. den ausführlichen Bericht bei Hederich, auf den Goethe bereits in einem
+					Brief vom 25. 10. 1797 an Schiller aufmerksam gemacht hatte: "Wie nun Neptun der
+					Minerva nicht gut war, so stiftete er den Vulcan an, sich dieselbe zur Gemahlinn
+					auszubitten, weil er wußte, daß ihr dadurch ein besonderer Verdruß geschehen
+					würde. Vulcan that solches. Es stellete aber Jupiter der Minerva dabey frey,
+					sich dessen zu erwehren, so gut sie könnte, welches sie denn auch dergestalt
+					that, daß sein Samen darüber auf die Erde fiel, woraus denn Erichthonius
+					entstund. [...] Noch andere melden, Minerva sey eines Males, da Venus nicht beym
+					Vulcan gewesen, zu ihm gekommen, sich einige Waffen machen zu lassen. Hier habe
+					er sich denn ihrer mit Gewalt bemächtigen wollen, sie ihn aber mit Unwillen
+					zurück gestoßen, jedoch sey sie dabey von ihm besudelt worden; welches sie denn
+					traurig mit Wolle abgewischt, und auf die Erde geworfen, sich auch mit der
+					Flucht eiligst davon gemacht. Immittelst brachte die Erde den Erichthonius
+					daraus hervor. [...] Minerva that ihn also in ein Körbchen, oder Kästchen
+					[...]." (S. 1030f.) Während Erichthonius bei der Überarbeitung des Schemas vom
+					6. Februar 1830 schließlich gestrichen wurde (vgl. P125, Z. 11, hier S. 508),
+					werden die schon auf P99B angedeuteten "etymologischen Spielereien" (eine
+					ausführliche Diskussion der Namens- ethymologie fand Goethe ebenfalls bei
+					Hederich) später in anderem Zusammenhang realisiert (vgl. V. 7093ff.). </p>
+				<p>Z. 180 Sphynx] Im ausgeführten Text wird das hier skizzierte Gespräch mit den
+					Sphinxen nicht von Faust, sondern von Mephisto geführt (vgl. V. 7112ff.). Faust
+					trifft erst später auf diese rätselhaft-weisen Ungeheuer der Antike (vgl. V.
+					7195ff.).</p>
+				<p>Z. 184 Greif] Auch die Greife unterhalten sich im ausgeführten Text mit
+					Mephistopheles (V. 7093ff.).</p>
+				<p>Z. 186 kolossale, gleichfalls goldscharrende Ameise] Vgl. V. 7104-7107.</p>
+				<p>Z. 191 Empusa] gespenstische Gestalt der Antike, die im ausgeführten Text
+					gemeinsam mit den Lamien auftritt (vgl. V. 7732ff., besonders V. 7744-7747).</p>
+				<p>Z. 193 entschiedenen] Die WA-Lesung "verschiedenen" wurde schon im Nachtragsband
+					I,53,533 korrigiert.</p>
+				<p>Z. 201 Chimären] Die "feuerspeiende Chimäre mit dem Antlitz des Löwen, dem Leib
+					der Ziege und dem Schweif des Drachen" gehört (wie auch die Graien, die Sphinxe
+					und die Lernäische Schlange) zu den Ungeheuern, "die von dem Phorkys und der
+					schönen Ceto abstammen" (Moritz, Götterlehre, S. 59 u. 171); in der Ausführung
+					hat Goethe sie fallengelassen. (Zum Einfluß der `Götterlehre' von Karl Philipp
+					Moritz auf Akt 2 und 3 des `Faust Zweiter Teil' vgl. Alden, Der griechische
+					Mythos im `Faust II'.)</p>
+				<p>Z. 201f. Tragelaphen] Mischwesen aus Bock und Hirsch der altgriechischen
+					Fabelwelt; ebenfalls in der Ausführung fallengelassen.</p>
+				<p>Z. 202 Gryllen] Mit den Pygmäen (vgl. V. 7606-7643) verwandte zwergenhafte
+					Figuren mit übergroßen Köpfen und zu kurzen Gliedmaßen. In den endgültigen Text
+					nicht aufgenommen.</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 2</p>
+				<p>Z. 202f. vielköpfige Schlangen] Zu den Ungeheuern, die der Verbindung des Phorkys
+					mit der schönen Ceto entstammen, gehört auch die vielköpfige Hydra aus dem
+					Sumpfe von Lerna bei Argos, die lernäische Schlange (Moritz, Götterlehre, S.
+					179). Vgl. P124, Z. 20, und P125, Z. 37, hier S. 491 u. 509; im endgültigen Text
+					V. 7227.</p>
+				<p>Z. 203 Harpyen] "Sie hatten Gesichter wie Jungfern, aber Hände mit großen krummen
+					Klauen [...]. Sie werden mit unter die Furien gerechnet, wiewohl sie davon ganz
+					unterschieden sind. [...] Sie wohneten nach einigen mit in dem Eingange der
+					Hölle", einige halten sie auch "für einerley mit den Stymphaliden" (Hederich, S.
+					1196f.). Auch auf die Harpyien hat Goethe in der Ausführung der `Klassischen
+					Walpurgisnacht' verzichtet.</p>
+				<p>Z. 205 Python] Der Drache Python bewachte das Heiligtum von Delphi, bevor er von
+					Apollo getötet wurde. (Moritz, Götterlehre, S. 151.) Schon in den Plänen für die
+					nordische Walpurgisnacht spielt er eine Rolle (vgl. P50, Z. 138, hier S. 146);
+					in der Ausführung fehlt auch er.</p>
+				<p>Z. 205f. stymphalische Raubvögel] "Eine Art gräßlicher Vögel hielt sich an dem
+					Stymphalischen See in Arkadien auf. Die Einbildungskraft der Dichter malt ihr
+					Bild auf das fürchterlichste aus; sie hatten eherne Klauen und Schnäbel, mit
+					denen sie verwunden und töten und jede Waffenrüstung durchbohren konten [...]"
+					(Moritz, Götterlehre, S. 181). Vgl. auch das Schema P124, Z. 19 (hier S. 491),
+					sowie das Entwurfsblatt II H11 (WA I,15.2,46) vom Beginn des Jahres 1830; hier
+					sind die Stymphaliden offensichtlich noch als sprechende Gestalten vorgesehen.
+					Im ausgeführten Text wird von ihnen nur noch berichtet (vgl. V. 7220).</p>
+				<p>Z. 210 Sirenen] Die im endgültigen Text wichtigen Sirenen (V. 7152ff., wieder V.
+					7495ff. u. 8034ff.) fehlen in P123B noch; zuerst als Randnotiz auf H P99 (hier
+					S. 419) ergänzt.</p>
+				<p>Z. 211 baumen sie auf] fliegen sie auf die Bäume.</p>
+				<p>Z. 214f. Nereiden und Tritonen] Beide in P123B noch nicht genannt, auf H P99B
+					(hier S. 419) am Rand ergänzt und in den endgültigen Text übernommen (V.
+					8044ff.).</p>
+				<p>Z. 215 Conformation] Art der körperlichen Bildung.</p>
+				<p>Z. 235f. Pompejaner und Cäsareaner] Die pharsalische Schlacht, in der 48 v. Chr.
+					Pompeius Magnus von Caesar geschlagen wurde, forderte zahlreiche Opfer vor allem
+					unter den Anhängern des Pompeius.</p>
+				<p>Z. 252 bebt die Erde] Dieses Motiv hat Goethe im Zusammenhang mit der
+					Erdbebenszene bereits im Frühjahr 1826 für die `Klassische Walpurgisnacht'
+					vorgesehen. Vgl. H P140 und III H7, hier S. 408f. u. 404.</p>
+				<p>Z. 254 von Scotusa bis an den Peneus] Diese Beschreibung der Gegend des Erdbebens
+					(P123B, Z. 99, hier S. 428: "Gegend bey Skotusa") wird im Zusammenhang mit der
+					Seismos-Szene noch in den Entwürfen aus dem Frühjahr 1830 verwendet. Vgl. II H42
+					und II H49, hier S. 518. Scotusa war in dem Jahrhundert vor der Schlacht von
+					Pharsalos eine bedeutende Stadt Thessaliens und Sitz eines alten Heiligtums.</p>
+				<p> H P123B/C</p>
+				<p> Z. 256 Enceladus] Einer der Giganten, die die Erde gebar, um die Schmach der
+					Titanen im verlorenen Götterkrieg zu rächen. Von diesen heißt es bei Moritz:
+					"[...] sie schleuderten Eichen und Felsenstücke mit jugendlicher Kraft gen
+					Himmel und achteten Jupiters Blitze nicht." (Moritz, Götterlehre, S. 19.) Nach
+					Vergil (Aen. III,578) wurde der durch Jupiters Blitz halbverbrannte Leib des
+					Enceladus unter den Ätna verbannt. Dieser speie "Klippen, zerrissenes
+					Bergeingeweide" und "flüssige Felsbrocken" würgend hervor; "sooft der Erschöpfte
+					sich [unter ihm] wälze, wanke und dröhne ganz Trinakrien dumpf". Im endgültigen
+					Text durch Seismos ersetzt (V. 7519ff.). Die Beschreibung der berstenden Erde,
+					die "Haupt und Schultern des Enceladus sehen läßt", erinnert an Raffaels
+					Darstellung der Befreiung Pauli, die Goethe in Rom kennengelernt hatte. Der
+					Bezug auf die Bildvorlage kommt in der hier vorliegenden Fassung der
+					Vorankündigung wesentlich deutlicher zum Ausdruck als im ausgeführten Text. </p>
+				<p>Z. 262 Thales und Anaxagoras] Vgl. V. 7851ff.</p>
+				<p>Z. 266 peroriren] nachdrücklich vortragen.</p>
+				<p>Z. 269 Diluvien] Überschwemmungen.</p>
+				<p>Z. 279 Pygmäen] Vgl. V. 7606ff., V. 7875, V. 7936.</p>
+				<p>Z. 283: Die anschauliche Schilderung erinnert Erich Schmidt an die Statue des Nil
+					im Vatikan (vgl. Storck, Goethes Faust und die bildende Kunst, S. 89) _ ein kom-
+					mentierender Hinweis, der in der Forschungsliteratur auch schon für eine
+					Anmerkung Goethes gehalten worden ist. Vgl. Düntzer, Klassische Walpurgisnacht,
+					S. 88.</p>
+				<p>Z. 284 Kraniche] Vgl. V. 7660ff.</p>
+				<p>Z. 284f.: Hier verweist Erich Schmidt auf Gulliver.</p>
+				<p>Z. 292 Enyo] Vgl. P99B, Z. 20, hier S. 419. Im endgültigen Text tritt die Gruppe
+					der drei Phorkyaden an die Stelle der Enyo.</p>
+				<p>Z. 303f. an den Chiron] Die WA-Lesung "zum Chiron" wurde von Hecker korrigiert.
+					Zur Gestalt des Chiron vgl. V. 7331ff.</p>
+				<p>Z. 308 Lamien] "Man giebt solche für Gespenster aus, die nach Menschenfleische
+					und Blute sehr begierig gewesen und daher junge Leute durch allerhand Reizungen
+					an sich zu locken gesuchet. Zu dem Ende nahmen sie denn wohl die Gestalt schöner
+					junger Frauenspersonen an, die den Vorbeygehenden ihren weißen Busen sehen
+					ließen. [...] Ferner werden sie für gar besondere Gespenster gehalten, welche
+					sich bald in diese, bald wieder in eine andere Gestalt verwandeln, und den
+					Menschen also schaden." (Hederich, S. 1424.) Im Gegensatz zum endgültigen Text
+					(vgl. V. 7696ff.) werden die Lamien (die nach Auskunft des Hederich auch Empusen
+					genannt wurden) hier noch als Versuchung Fausts eingeführt; in der ausgeführten
+					Fassung treffen sie (gemeinsam mit der Empuse) auf Mephistopheles. Vgl. die
+					Wandlung im Einsatz dieses Motivs in den Schemata von 1830 (P124, P125, hier S.
+					490f. u. 508ff.).</p>
+				<p>Z. 320 Argonauten] Vgl. V. 7339f.</p>
+				<p>Z. 330 der das Unmögliche verlange] Vgl. V. 7488.</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 2</p>
+				<p>Z. 334f.: Larissa ist eine Stadt in der Ebene Thessaliens am Ufer des Peneus.
+					Chiron reitet mit Faust durch die Furten des Peneus in Richtung Olymp, läßt
+					Larissa dabei zur Rechten liegen.</p>
+				<p>Z. 337f. König von Macedonien Perseus] Im Jahre 168 v. Chr. unterlag bei Pydna
+					nördlich des Peneios und des Olymp der makedonische König Perseus den römischen
+					Truppen und floh nach Samothrace. Vgl. auch V. 7465-7470.</p>
+				<p>Z. 358 Gorgonenhaupt] Die Gorgonen sind Schwestern der Graien (Phorkyaden), eine
+					von ihnen, Medusa, wurde von Perseus enthauptet. Der Anblick des schrecklichen
+					Hauptes hatte versteinernde Wirkung: "Dies Haupt, vom Körper abgesondert, macht
+					in seinen großen Zügen gleichsam für sich ein Ganzes aus und stellt sich wie
+					eine furchtbare Erscheinung dar; _ so fürchtet Ulysses in der Unterwelt, als
+					sich die Schatten scharenweise zu ihm drängen, daß Proserpina endlich das Haupt
+					der Gorgo ihm entgegensenden möchte, und eilte, dem tödlichen Anblick zu
+					entfliehen." (Moritz, Götterlehre, S. 99; vgl. Odyssee XI, 634f.) Manto
+					übernimmt hier die Rolle des Vergil, der in Dantes `Divina Commedia' (9. Gesang
+					des Inferno, V. 55-60) Dantes Augen bedeckt, wenn ihnen am Eingang zur Unterwelt
+					das den Sehenden vesteinernde Haupt der Medusa erscheint (vgl. Witkowski,
+					S.431).</p>
+				<p>Z. 372f. Incidenzien] Zwischenfälle, Nebenhandlungen.</p>
+				<p>Z. 374 zweyter Orpheus] Durch das "mächtige Saitenspiel" des Orpheus, "der durch
+					seinen Gesang und durch die Töne seiner Leier die Wildheit der Tiere des Waldes
+					zähmte und Bäume und Felsen sich bewegen ließ [...] ließ selbst der Orkus sich
+					bewegen, ihm seine Gattin Eurydike zurückzugeben" (Moritz, Götterlehre, S.
+					157).</p>
+				<p>Z. 379f. Protesilaus, der Alceste und Euridice] Der vor Troja gefallene
+					Protesilaus war auf Bitten seiner Gemahlin für kurze Zeit noch einmal aus dem
+					Reich der Toten freigegeben worden, Alceste wurde ihrem Gatten Admetus aus dem
+					Orkus zurückgegeben und Eurydike Orpheus (der sie durch vorzeitiges Umdrehen
+					jedoch wieder verlor). Vgl. den Kommentar zu P99B, Z. 34f. hier S. 422.</p>
+				<p>Z. 381 Helena] WA und Hecker lesen "Helena selbst" und nehmen damit die (sehr
+					schwache) Bleistiftstreichung des "selbst" nicht zur Kenntnis.</p>
+				<p>Z. 382 Achill] Die Sage erzählt, daß Helena "nach ihrem Tode den Achilles in der
+					Insel Leuce geheurathet, und mit ihm den Euphorion gezeuget" habe. (Hederich, S.
+					1222.) Vgl. auch P99A und B, hier S. 417-420.</p>
+				<p>Z. 387 Peroration] nachdrückliche Rede.</p>
+				<p>Z. 391 Lethestrome] einer der höllischen Flüsse der griechischen Unterwelt,
+					dessen Wasser die Kraft hatte, alles vergessen zu lassen (Hederich, S. 1458).
+					Vgl. V. 4629.</p>
+				<p>Z. 398 ebenmäßig] auf eben diese Weise _ "unter der Bedingung eingeschränkten
+					Wohnens und Bleibens auf dem Boden von Sparta".</p>
+				<p>Z. 400f. vorgebildeten] Hier: vorgespiegelten, `phantasmagorischen'.</p>
+				<p>Z. 415 Antecedenzien] Vorleben, frühere Lebensumstände.</p>
+				<p>Z. 419 sollte] WA und Hecker korrigieren zu "sollten".</p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

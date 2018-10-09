@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-W_333/">
+   <revisionDesc>
+      <change when="2013-01-31" who="henzel">encoded</change>
+      <change when="2013-03-08" who="bruening">WA-Sigle, Inventar-Nachweis geändert (Sp. 800 zu vernachlässigen).</change>
+      <change when="2013-03-26" who="bruening">Hinweis zur Datierung aus dem Wiki übernommen.</change>
+      <change when="2013-10-30" who="henzel">uri textTranscript nachgetragen</change>
+      <change when="2013-10-30" who="henzel">uri docTranscript nachgetragen</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note><!-- Gedichte, Rhein und Main -->auf Blatt mit "Den 15. August 1815 - Den 16. August" (Nr. 91 von Rhein und Main), faust://bibliography/wa_I_4, S. 68, Abschrift Eckermanns mit Tinte. Das Blatt gehörte ursprünglich zur Druckvorlage für Bd. 4 der Ausgabe letzter Hand. – Datierung des Konzepts zum Faust: nach dem 14. 3. 1826.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.78a</idno>
+      <idno type="gsa_1">GSA 25/IV,5,5b</idno>
+      <idno type="gsa_2">GSA 25/W 333</idno>
+      <idno type="gsa_ident">349639</idno>
+      <idno type="wa_faust">2 III H.78a</idno>
+      <idno type="wa_gedichte">H.327</idno>
+      <textTranscript uri="GSA_25-W_333.xml"/>
+      <numberingList>
+         <numbering>vermutlich eigenhändige Foliierung mit Bleistift</numbering>
+         <!-- TODO Numerierung spezifizieren -->
+      </numberingList>
+      <dimensions>
+         <width unit="mm">169</width>
+         <height unit="mm">122</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 120 mm.</note>
+      <format>none</format>
+      <note>Abschnitt eines Quartblatts</note>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>Herzoglich-sächsisches Wappen</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S. 44</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 567</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 138</reference>
+         <reference type="description" uri="faust://bibliography/inventare_2_1">Sp. 117</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_5_2">S. 43–45</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 138</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata/>
+      <page>
+         <metadata>
+            <!-- VS Gedicht -->
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- RS 180° gedreht Faust' - Faust' II, 3. Akt, Vers 9962-9969<br>
+               Incipit: "Nun eilig Mädch[en]! Sind wir doch" -->
+            <docTranscript uri="0001.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390501/">
+   <revisionDesc>
+      <change when="2012-12-06" who="bruening">encoded</change>
+      <change when="2013-10-18" who="henzel ritter">FL Sigle korrigiert</change>
+      <change when="2013-10-24" who="ritter">Fischer-Lamberg Sigle aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Ähnelt einem Blatt der Slg. Kippenberg (KK 123) mit demselben Inzipit. – Bei der
+         Beschriftung der Rückseite mglw. in Quart gefaltet; entsprechende Faltungsspuren.
+         Konzept zS zu Vers 8707–8727 (ohne
+         Vers 8714) mit dem Inzipit: Ach sie
+         standen noch, Ilions . . . = früheres Kon-
+         zept im Vgl. mit 2 III H.7 (GSA 25/W 1583);
+         dabei: metrische Schemata zS zu grie-
+         chischen Versen . – Zeichnung egh(?):
+         Skizze geometrischer Figuren(?)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.2a:4</idno>
+      <idno type="gsa_1">GSA 25/XVIII,1,2c:5</idno>
+      <idno type="gsa_2">GSA 25/W 1574</idno>
+      <idno type="gsa_ident">390501</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 III H.2a,5</idno>
+      <classification>Arbeitsmundum</classification>
+      <dimensions>
+         <width unit="mm">192</width>
+         <height unit="mm">324</height>
+      </dimensions>
+      <note>Ungleichmäßig beschnitten.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Drei_Buchstaben_weitlaeufig</watermarkID>
+      <textTranscript uri="390501.xml"/>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 83</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 83f., 90</reference>
+      </references>
+      
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= früheres Konzept im Vgl. mit H.7 (25/XVIII,1,7:2)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>metrische Schemata zu griechischen Versen, zS; Zeichnung: Skizze geometrischer Figuren (?), egh(?)</f:dabei_vermerk>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390501</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 8707-8727 (8714 fehlt/fehlen)
+Ach sie standen noch, Ilions ...
+WA: -
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>zS</f:schrift>
+      <f:signatur>XVIII,1,2c:5</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,2c:5</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Ach sie standen noch, Ilions</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>-</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>zS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>8714</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8707-8727</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>metrische Schemata zu griechischen Versen, zS; Zeichnung: Skizze geometrischer
+               Figuren (?), egh(?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit H.7 (25/XVIII,1,7:2)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1224</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3060</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

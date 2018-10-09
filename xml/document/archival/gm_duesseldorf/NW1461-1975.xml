@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gm_duesseldorf/NW1461-1975/">
+   <revisionDesc>
+      <change when="2012-10-02" who="bruening"/>
+      <change when="2013-09-11" who="bruening">encoded</change>
+      <change when="2013-09-11" who="bruening">Identität mit GSA 25/XVII,6,7.</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Halbiertes Folioblatt; in einem Abstand von 45 mm vom linken Rand der Vorderseite
+         senkrecht gebrochen.</note>
+      <repository>gm_duesseldorf</repository>
+      <idno type="faustedition">2 I H.24c</idno>
+      <idno type="gm_duesseldorf">NW 1461/1975</idno>
+      <idno type="gsa_1">GSA 25/XVII,6,7a</idno>
+      <note>Unter der Signatur GSA 25/XVII,6,7 werden im Goethe- und Schillerarchiv zwei ältere
+         Photographien desselben Blatts aufbewahrt.</note>
+      <idno type="wa_faust">2 I H.k</idno>
+      <textTranscript uri="NW1461-1975.xml"/>
+      <classification>Konzept</classification>
+      <history>Zuerst in faust://bibliography/wa_I_15_2, S. 13 als Teil der „Sammlung Mertens
+         Hannover“ verzeichnet. Die Aufschrift eines beiliegenden Umschlags gibt Auskunft über die
+         frühere und spätere Provenienz: „1856 von Bertram geschenkt an Dr. Mertens. Am 6. Dez. 1932
+         im Goethejahr geschenkt an Hans Schauer von seinen Freunden Mathilde und Gustav Schulze.“
+         Der „Oberstudiendirektor Dr. H. Schauer, Magdeburg“ wird als Besitzer auch auf dem Bogen
+         genannt, auf dem die beiden Photographien des GSA geklebt sind. Aus diesen Angaben ergibt
+         sich als Besitzerfolge: Bertram – Mertens (seit 1856, mindestens bis zur Bearbeitung durch
+         Erich Schmidt) – Mathilde und Gustav Schulze – Hans Schauer (seit 1932) – Goethe-Museum
+         Düsseldorf (seit 1975).</history>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">147</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 13</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 195</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

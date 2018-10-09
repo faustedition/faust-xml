@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+    xml:base="faust://xml/transcript/privatbesitz/anonym/">
+    <revisionDesc>
+        <change when="2015-06-08" who="henzel">Datei angelegt</change>
+        <change when="2015-06-08" who="henzel">encoded</change>
+        <change when="2015-06-08" who="henzel">minimal headnote</change>
+        <change when="2015-06-10" who="henzel">xml:base</change>
+        <change when="2016-01-28" who="koehler">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 4.</headNote>
+        <note>Beschnittenes Einzelblatt, befindet sich in Privatbesitz in den Vereinigten Staaten.
+            Zettel, 1 beschriebene Seite. – Vs.: Zu ‚Faust II‘, Akt 4 (eigenhändig, Tinte)</note>
+        <repository>privatbesitz</repository>
+        <idno type="faustedition">2 IV H.7a</idno>
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="anonym.xml"/>
+        <classification>Mundum</classification>
+        <history/>
+        <!-- Das Papier wurde wohl in den 1940er Jahren veräußert. (Zwischenstationen und Herkunft nicht geklärt) -->
+        <condition>einige Löcher im Papier, Tintenfraß</condition>
+        <!-- das Papier wurde laminiert, dieser Vorgang wurde rückgängig gemacht -->
+        <dimensions>
+            <width unit="mm">196</width>
+            <height unit="mm">71</height>
+        </dimensions>
+        <note>Der Mindestwert der Blatt-Höhe beträgt 69 mm.</note>
+        <format>none</format>
+        <paperType>Konzeptpapier</paperType>
+        <paperColour>grau</paperColour>
+        <note>vermutlich Stützerbacher Papier</note>
+        <watermarkID>none</watermarkID>
+        <countermarkID>none</countermarkID>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="0001.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0002.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

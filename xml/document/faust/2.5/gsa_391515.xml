@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391515/">
+<revisionDesc>
+   <change when="2012-12-03" who="henzel">imported</change>
+   <change when="2012-12-03" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>dabei: eigenhändige, fast verlöschte Zeile</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.19</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,20</idno>
+      <idno type="gsa_2">GSA 25/W 1717</idno>
+      <idno type="gsa_ident">391515</idno>
+      <idno type="wa_faust">2 V H.19</idno>
+      <textTranscript uri="391515.xml"/>
+      <classification>Konzept</classification>
+      <condition>fleckig, an den Rändern vergilbt, Tintenfleck auf der Vorderseite</condition>
+      <dimensions>
+         <width unit="mm">166</width>
+         <height unit="mm">201</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskante rechts</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graugrünlich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>Sächsisches Rautenkranzwappen</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 141</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 141</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 142</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

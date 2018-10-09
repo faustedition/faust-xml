@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!--and now:--><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[628]&lt;E&gt;</title>
+                <author>T031</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2018-07-05</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="doxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+
+            <change when="2018-07-05" who="krause">angelegt</change>
+            <change when="2018-10-04" who="krause">überarbeitet, markiert</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="628"/>
+            <div type="conversation"><p><num type="biedermann-2">[2092.]</num> <date when="1823-04-13">April 13</date>. <persName>Soret</persName>.</p>
+            <p><milestone unit="testimony" spanTo="#bie3_5147_end" xml:id="bie3_5147"/>Soirée en tête-à-tête avec Goethe. la conversation roule essentiellement sur la
+                littérature, sur Lord Byron, sur Sardanapal, Werner etc. puis <rs>sur Faust</rs> dont il
+                parle souvent et volontiers; il voudrait qu’on essayât de le traduire en Français du
+                tems de Marot. Il le considère comme la source où Byron a puisé l’idée de Manfred.
+                Goethe trouve des progrès dramatiques dans les deux dernieres tragédies; il y est
+                moins terrible et moins mysantrope. — Nous avons parlé du poème sur lequel a été
+                composé la flûte enchantée; poème auquel Goethe a fait une continuation qu’il n’a
+                point encore publiée, n’ayant pas trouvé de musicien capable à son avis de traiter
+                ce sujet. Il trouve la première partie remplie d’invraisemblances et de niaiseries
+                mais féconde en contrastes et attribue à son auteur une grande entente dans l’art
+                d’amener des effets théâtraux.</p>
+            <p>Enfin à propos de correspondance Goethe me dit qu’en 1806 il avait eu l’idée
+                d’envoyer à tous ses amis une liste imprimée de tous ses correspondans mais qu’il y
+                avait renoncé dans la crainte qu’on ne prit ces listes renfermées dans toutes ses
+                lettres pour des indications d’affiliations politiques.<anchor xml:id="bie3_5147_end"/></p></div>
+        </body>
+    </text>
+</TEI>

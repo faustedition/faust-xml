@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-W_273/">
+   <revisionDesc>
+      <change when="2013-01-31" who="henzel">encoded</change>
+      <change when="2013-10-30" who="henzel">uri textTranscript nachgetragen</change>
+      <change when="2013-10-30" who="henzel">uri docTranscript nachgetragen</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2016-01-28" who="koehler">Brief WA-Nr. statt URI</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Konzept Riemers mit Tinte zu Regieanweisung zu Vers 8812ff.; auf Blatt mit Vers
+         1682-1689 der "Zahmen Xenien. VI", s. faust://bibliography/wa_I_3, S. 357 (eigenhändige
+         Verse Goethes mit Rötel und Bleistift, dabei: eigenhändiges Briefkonzept Goethes mit
+         Bleistift: an S. T. v. Soemmerring, 15. 4. 1827 (WA-Nr. 42120), faust://bibliography/wa_IV_42, S. 141, Z. 9-13</note>
+      <!-- GSA-DB zählt Z. 7-16 -->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.12a</idno>
+      <idno type="gsa_1">GSA 25/III,10,17a</idno>
+      <idno type="gsa_2">GSA 25/W 273</idno>
+      <idno type="gsa_ident">349580</idno>
+      <idno type="wa_gedichte">none</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="GSA_25-W_273.xml"/>
+      <condition>Blatt wurde offensichtlich nach der Beschriftung im Oktavformat aufbewahrt, davon
+         zeugen auch Abdruckspuren des Rötels</condition>
+      <dimensions>
+         <width unit="mm">163</width>
+         <height unit="mm">204</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/inventare_2_1">Sp. 100</reference>
+         <!-- TODO references ergaenzen -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <!-- VS Gedicht -->
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- RS Faust und Brief -->
+            <docTranscript uri="0001.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

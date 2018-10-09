@@ -1,0 +1,5083 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:f="http://www.faustedition.net/ns"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+   xml:base="faust://xml/transcript/gsa/391098/">
+   <revisionDesc>
+      <change when="2013-02-04" who="bruening">Angefangen, die Lagenstruktur aus dem
+         Restaurationsbericht zu übernehmen (1. Akt, bis Bl. 23).</change>
+      <change when="2013-02-06" who="henzel">Lagenstruktur ohne patches für Akt 4 und 5
+         erstellt</change>
+      <change when="2013-02-05" who="bruening">Weitergeführt, Bl. 24 bis 81; auch die Wasserzeichen
+         von Bl. 1 bis 81 durchgesehen.</change>
+      <change when="2013-02-06" who="bruening">über die vertauschten Lagen 15 und 16</change>
+      <change when="2013-02-06" who="henzel">Akt 4 und 5: patches komplett; dimensions, stabMarks,
+         leafCondition und Ueberpruefung der Lagenstruktur</change>
+      <change when="2013-02-06" who="bruening">Weitergeführt von Bl. 82 bis Bl. 109. Auch die
+         Wzz.</change>
+      <change when="2013-02-07" who="bruening">Weitergeführt von Bl. 110 bis Bl. 140. Auch die Wzz.
+         Foliierungen und Paginierungen der ersten drei Akte.</change>
+      <change when="2013-02-07" who="henzel">Akt 4 und 5: Wz/Gz und Muehle, paperColour</change>
+      <change when="2014-09-04" who="henzel">docTranscript 377</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+      <change when="2017-04-03" who="bruening">15. und 16. Lage getauscht (Rücksprache mit SH).</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Gebundenes Konvolut, 188 Blätter nebst Einband. – ‚Faust II‘.</headNote>
+      <note>216 Blatt <!-- Reinschrift zum gesamten zweiten Teil mit Korrekturen egh, Riemer, Eckermann, Göttling
+         Titel der Handschrift: "Faust. Zweyter Theil 1831." [auf äußerer Umschlagseite]
+         Signatur Kräuter: Eigen Poetisches 38 [Eta]
+         
+         fol. 1 Titel der Handschrift: "Faust. Der Tragödie zweyter Theil in fünf Acten (1831)"
+         fol. 2-52: 1. Akt (John), 62 Bl
+         fol. 53-98: 2. Akt (John), 53 Bl
+         fol. 99-141: 3. Akt (Schuchardt), 45 Bl
+         fol. 142-164: 4. Akt (John), 26 Bl
+         fol. 165-187: 5. Akt (John), 29 Bl
+      -->
+         <!-- todo ausführlicheren Text: Charakterisierung, Prinzipien der Untersuchung (Gebrauch des Restaurationsberichts etc.) --></note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 H</idno>
+      <idno type="gsa_1">GSA 25/XIX,3</idno>
+      <idno type="gsa_2">GSA 25/W 1804</idno>
+      <idno type="gsa_ident">391098</idno>
+      <idno type="wa_faust">2 H</idno>
+      <idno type="fischer_lamberg">2 R</idno>
+      <idno type="kraeuter">Eigen Poetisches 38.epsilon</idno>
+      <textTranscript uri="391098.xml"/>
+      <classification>Mundum</classification>
+      <binding>Diarium mit drei Pergamentriemchen</binding>
+      <numberingList>
+         <numbering name="Archivarische_Foliierung">Archivarische Foliierung
+            (Erich Schmidt) mit Blaustift (1–188).</numbering>
+         <numbering name="Egh_Paginierung_Bl_5r-13r">Eigenhändige Paginierung
+            mit Bleistift von S. 1 (Bl. 5r d. archiv. Fol.) bis 17 (Bl. 13r).
+            Damit übergehend in eine</numbering>
+         <numbering name="Egh_Foliierung_Bl_13-35II">eigenhändige Foliierung mit
+            Bleistift von Bl. (= S.) 17 (Bl. 13 d. archiv. Fol.) bis Bl. 40
+            (35.II). Diese erfährt zahlreiche Veränderungen, die an Ort und
+            Stelle beschrieben werden.</numbering>
+         <!-- todo weitere Foliierungen im ersten Akt -->
+         <numbering name="Egh_Foliierung_Bl_64-98">Eigenhändige Foliierung mit
+            Bleistift, umfassend die gesamte Klassische Walpurgisnacht (Bll.
+            64–98 d. archiv. Fol.)<!--; jetzt durch die restauratorische
+            Vertauschung der 15. und 16. Lage in Unordnung (vgl. zum
+            Erhaltungszustand)-->.</numbering>
+         <numbering name="Zeitgenoess_Paginierung_Bl_99-140">Zeitgenössische
+            Paginierung mit Bleistift, umfassend den gesamten Dritten Akt. Von
+            S. 1 (Bl. 99r) bis 64 (Bl. 140v).</numbering>
+         <numbering name="Zeitgenoess_Foliierung_Bl_120-125">Zeitgenössische
+            Paginierung mit Bleistift, unvermittelt einsetzend mit 23 (Bl. 120)
+            und fortlaufend bis 28 (Bl. 125).</numbering>
+      </numberingList>
+      <condition>Restauriert.<!-- Beim Zusammenfügen des Diariums ist die Reihenfolge der 15. und 16.
+         Heftlage verkehrt worden, so dass die jetzige Blattfolge von der ursprünglichen abweicht,
+         die durch Erich Schmidts Foliierung mit Blaustift und auch durch die Angaben zum
+         Restaurierungsobjekt (S. 3) gesichert ist. Infolgedessen ist die ursprünglich 16. Lage
+         (Bll. 67–70) jetzt als 15., die ursprünglich 15. (Bll. 64–66) hingegen als 16. zu liegen
+         gekommen.--></condition>
+      <format>2</format>
+      <bindingMaterial>Faden, Klebstoff, Siegellack</bindingMaterial>
+      <note>beim Klebstoff handelt es sich um pflanzliche Leime (Tragant)</note>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <!-- wieso ist grünlich die Grundfarbe? -->
+      <!-- schien mir so -GB -->
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <note>Bei den zahlreichen Einzelblättern wird meistenteils auf die Angabe darüber verzichtet,
+         ob das Blatt das Zeichen oder Gegenzeichen trägt. Es wird aber stets darauf hingewiesen,
+         wenn es ein anderes als die hier genannten beiden Zeichen trägt.</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 6-7</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            9-17</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 56-59</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 25-55</reference>
+         <reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach S. 736, Abb.
+            19 u. Abb. 20</reference>
+         <!-- Teilfaksimile -->
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 18, 24,
+            82</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 56-59</reference>
+         <!-- TODO ABR -->
+      </references>
+   </metadata>
+   <!-- besondere Vermerke im Restautierungsbericht zu Blättern mit Aufklebungen oder condition-Merkmalen
+Bl. 14 / Bl. 25 RS / Bl. 26 / Bl. 57a / Bl. 58 und 58 a / Bl. 61 und 61a / Bl. 81 RS / Bl. 107-108 / Bl. 129 / Bl. 154a / Bl. 168a / Bl. 172 und 174 RS / Bl. 177 RS-->
+   <!-- 43 Lagen -->
+   <!-- Vorderdeckel -->
+   <disjunctLeaf type="binding">
+      <metadata>
+         <dimensions>
+            <width unit="mm">211</width>
+            <height unit="mm">342</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0001.xml"/>
+         </metadata>
+      </page>
+      <!-- Vorderer Innendeckel -->
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <!-- Lage 1 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <leaf>
+         <page>
+            <!-- Bl. 1 (Titelblatt) -->
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- Rückseite Titelblatt -->
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Erster Akt -->
+      <sheet>
+         <!-- Bl. 2 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0005.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0006.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 3 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0007.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0008.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 4 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0009.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0010.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 2. Lage (Bl. 5–13) -->
+   <!-- Bl. 5 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>An Bl. 11 geklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0011.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0012.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 6 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>An das folgende Dbl. geklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0013.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0014.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 7 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0015.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0016.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 8 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0017.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0018.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 9 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0019.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0020.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 10 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0021.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0022.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 11 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0023.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0024.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 12 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0025.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0026.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Bl. 13 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>An das vorherhergehende Dbl. geklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0027.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0028.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 3. Lage (Bl. 14 bis 17) -->
+   <!-- Bl. 14 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>An das folgende Dbl. geklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0029.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0030.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 14a -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0031.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0032.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <leafCondition>Bl. 15v und 16r vergilbt.</leafCondition>
+         </metadata>
+         <!-- Bl. 15 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0033.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0034.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 16 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0035.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0036.xml"/>
+               </metadata>
+               <!-- Zettel 16a -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">188</width>
+                        <height unit="mm">105</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>grünlich</patchPaperColour>
+                     <patchWatermarkID>none</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface>
+                     <metadata>
+                        <note>Oben rechts egh. mit Bleistift paginiert (24). Oben mittig „Laffen und
+                           Paraſiten“.</note>
+                     </metadata>
+                  </patchSurface>
+               </patch>
+               <!-- Zettel 16b -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">188</width>
+                        <height unit="mm">210</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>grünlich</patchPaperColour>
+                     <patchWatermarkID>Rautenkranzwappen_ueber_Stuetzerbach</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 17 -->
+      <leaf>
+         <page>
+            <metadata>
+               <note>Zur ursprünglichen Klebung mit Siegellack findet sich kein passendes
+                  Gegenstück.</note>
+               <docTranscript uri="0037a.xml"/>
+            </metadata>
+            <!-- Zettel 17a -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">192</width>
+                     <height unit="mm">140</height>
+                  </patchDimensions>
+                  <patchType>pin</patchType>
+                  <note>Die Stecknadel wurde nach der Digitalisierung entfernt, so dass der Zettel
+                     jetzt lose beiliegt.</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>grünlich</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0038.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 4. Lage (Bl. 18–21) -->
+   <!-- Bl. 18 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem folgenden Ebl. zusammen an das folgende Dbl. geheftet.</note>
+         <dimensions>
+            <width unit="mm">178</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0039.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0040.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 19 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem vorhergehenden Ebl. an das folgende Dbl. geheftet.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0041.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0042.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <!-- Bl. 20 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0043.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0044.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 21 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0045a.xml"/>
+            </metadata>
+            <!-- Zettel 21a -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">192</width>
+                     <height unit="mm">190</height>
+                  </patchDimensions>
+                  <patchType>pin</patchType>
+                  <note>Die Stecknadel wurde nach der Digitalisierung entfernt, so dass der Zettel
+                     jetzt lose beiliegt.</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>grünlich</patchPaperColour>
+                  <patchCountermarkID>GH_ueber_N3</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface>
+                  <metadata>
+                     <note>Niederschrift von V. 5931–5943. 5931–5935 wurde durch durch H.36 (Ansatz) 
+                        und H.41a ersetzt, das folgende durch H S. 72.</note>
+                  </metadata>
+               </patchSurface>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0046.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 5. Lage (Bl. 22–25) -->
+   <!-- Bl. 22 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit Bl. 25 zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0047a.xml"/>
+         </metadata>
+         <!-- Streifen -->
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">41</width>
+                  <height unit="mm">11</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchWatermarkID>none</patchWatermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0048.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 23 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem folgenden Ebl. zusammengeklebt und an die äußeren Blätter der Lage
+            geheftet.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0049.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0050.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 24 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem vorhergehenden Ebl. zusammengeklebt und an die äußeren Blätter der Lage
+            geheftet.</note>
+         <dimensions>
+            <width unit="mm">190</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0051.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0052.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 25 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit Bl. 22 zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0053.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0054a.xml"/>
+         </metadata>
+         <!-- Zettel Bl. 25a -->
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">180</width>
+                  <height unit="mm">70</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchWatermarkID>none</patchWatermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+   </disjunctLeaf>
+   <!-- 6. Lage (Bl. 26–29) -->
+   <!-- Bl. 26 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem folgenden Ebl. an das folgende Dbl. geklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0055a.xml"/>
+         </metadata>
+         <!-- Streifen „Machte sich …“ -->
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">106</width>
+                  <height unit="mm">9</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchWatermarkID>none</patchWatermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+         <!-- Streifen Knabe -->
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">54</width>
+                  <height unit="mm">10</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchWatermarkID>none</patchWatermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0056.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 27 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0057.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0058.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 28 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0059.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0060.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 29 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0061.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 29a -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">195</width>
+                     <height unit="mm">54</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>grünlich</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0062.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 7. Lage (Bl. 30–35) -->
+   <sheet>
+      <metadata>
+         <note>Ersatz für die aus faust://document/faustedition/2_H herausgetrennte Lage
+            faust://document/wa_faust/2_I_H.32. Die Goethesche Foliierung setzt hier wie dort mit 33
+            ein. Nach der Aussonderung von faust://document/wa_faust/2_I_H.32 wurde eine Lage aus
+            drei Dpbll. angelegt, zu der das Dpbl. 35/36 der Goethschen Foliierung (Bl. 33/34 d.
+            arch. Fol.) noch nicht gehörte. Als Blattfolge der neuen Lage ergab sich gemäß der
+            teilweise ausgewischten Goetheschen Foliierung zunächst die folgende: Bl. 33 (30 d.
+            archiv. Fol.), Bl. 34 (31), 35 (32), das abgeschnittene Bl. 36 (später Bl. 38 d. Goeth.
+            Fol.), Bl. 37 (Fol.-Ziffer ausradiert, später Bl. 39 der Goeth. Fol., Bl. 35 d. archiv.
+            Fol.), Bl. 38 (Fol.-Ziffer ausradiert, später Bl. 40 der Goeth. Fol., nachträglich als
+            Bl. 35.II in d. archiv. Fol. einbegriffen). Dann wurden vermutlich die ausgewischten
+            Dispositionsnotizen auf Bl. 33v, 37r und 37v der zu dieser Zeit gültigen Zählung
+            niedergeschrieben. Im Zuge der Mundierung der in faust://document/wa_faust/2_I_H.32
+            bereits vorliegenden Partien durch John wurde dann das Dpbl. 35/36 (33/34) eingelegt,
+            das abgeschnitte Bl. 36 in 38 umfoliiert und die Zählung der folgenden Bll. entsprechend
+            in 39 und 40 geändert. Wohl weil die ausgeführte Fassung kürzer ausfiel als
+            zwischenzeitlich erwartet, wurde schließlich das Bl. 38 abgeschnitten. Auf diesem Blatt
+            stand wahrscheinlich die schon in faust://document/wa_faust/2_I_H.32 vorhandene Partie
+            „Der Bart des Gaffers fällt hinein […] Ein ganzer Menschenklump verbrennt“. Die Partie
+            wurde überarbeitet und fand in der geänderten Form neben dem neu Entstandenen auf dem
+            zusätzlich eingelegten Dbl. Raum. Das Bl. 36 war damit ersetzt und wurde abgeschnitten.
+            Die Zählung wurde nicht erneut angepasst, sondern offenbar aufgegeben.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+         <watermarkID>Doppeladler_mit_GH</watermarkID>
+         <countermarkID>Stuetzerbach_ueber_No_4</countermarkID>
+      </metadata>
+      <!-- Bl. 30 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0063.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0064.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 31 -->
+         <leaf>
+            <metadata>
+               <leafCondition>Rückseitig vergilbt.</leafCondition>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0065.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0066.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 32 -->
+         <disjunctLeaf>
+            <metadata>
+               <note>Um das folgende Dbl. gehängt. Bildete ursprünglich vermutlich ein Dbl. mit dem
+                  jetzt fehlenden Bl. 35, dann 37 der Goetheschen Foliierung, von dem zwischen den
+                  Bll. 34 und 35 der archivarischen Foliierung im Falz noch ein Streifen sichtbar
+                  ist.</note>
+               <leafCondition>Vorderseitig vergilbt.</leafCondition>
+               <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0067.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0068.xml"/>
+               </metadata>
+            </page>
+         </disjunctLeaf>
+         <sheet>
+            <metadata>
+               <note>Dieses Dbl. wurde nachträglich eingelegt.</note>
+            </metadata>
+            <!-- Bl. 33 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0069.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0070.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 34 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0071.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0072.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 35 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0073.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0074.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 35.II -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0075.xml"/>
+               <!-- Bis auf Foliierungen und die frühere Paginierung leer. -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0076.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 8. Lage (Bl. 36–39) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 36 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0077.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0078.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 37 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0079.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0080.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 38 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0081.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0082.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 39 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0083.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0084.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 9. Lage (Bl. 40–43) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 40 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0085.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0086.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 41 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0087.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0088.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 42 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0089.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0090.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 43 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0091.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0092.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 10. Lage (Bl. 43a–46) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 43a -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0093.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0094.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 44 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0095.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0096.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 45 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0097.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0098.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 46 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0099.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0100.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 11. Lage (Bl. 47–50) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 47 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0101.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0102.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 48 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0103.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0104.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 49 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0105.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0106.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 50 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0107.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0108.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 12. Lage (Bl. 51–52a) -->
+   <!-- Bl. 51 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>An das folgende Dbl. geklebt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0109.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0110.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 52 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0111.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0112.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 52a -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0113.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0114.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Zweiter Akt -->
+   <!-- 13. Lage (Bl. 53–58 [!]) -->
+   <!-- Bl. 53 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem Falz um die folgenden drei Dbl. gehängt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0115.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0116.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 54 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0117.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0118.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 55 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0119.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0120.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 56 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0121.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0122.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 57 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0123.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0124.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- im Bericht über die Restaurierung beginnt hier die 14. Lage-->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 57a -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0125.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0126.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 58 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0127a.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 58a -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">194</width>
+                     <height unit="mm">98</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>grünlich</patchPaperColour>
+                  <patchWatermarkID>n.s.</patchWatermarkID>
+                  <note>Nichtidentifiziertes Fragment am unteren Rand.</note>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0128.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 14. Lage (Bl. 59–63) -->
+   <!-- Bl. 59 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem Falz um die folgenden beiden Dbll. gehängt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0129.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0130.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 60 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0131.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0132.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 61 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0133a.xml"/>
+               </metadata>
+               <!-- Zettel Bl. 61a -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">200</width>
+                        <height unit="mm">110</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>grünlich</patchPaperColour>
+                     <patchWatermarkID>Rautenkranzwappen_ueber_Stuetzerbach</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0134.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 62 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0135.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0136.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 63 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0137.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0138.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 15. Lage (Bl. 64–66), versehentlich als 16. hinter die folgende eingeheftet (s.o.)  -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 64 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0147.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0148.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 65 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0149.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0150.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Bl. 66 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem Falz um das vorhergehende Dbl. gehängt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0151.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0152.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 16. Lage (Bl. 67–70), versehentlich als 15. vor die vorherige eingeheftet -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 67 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0139.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0140.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 68 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0141.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0142.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 69 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0143.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0144.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 70 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0145.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0146.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 17. Lage (Bl. 71–76) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 71 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0153.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0154.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 72 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0155.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0156.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 73 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0157.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0158.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 74 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0159.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0160.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 75 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0161.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0162.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 76 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0163a.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 76a -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">132</width>
+                     <height unit="mm">27</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>grünlich</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0164.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 18. Lage -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 77 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0165.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0166.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 78 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0167.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0168.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 79 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0169.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0170.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 80 -->
+      <disjunctLeaf>
+         <metadata>
+            <note>An das äußere Dbl. der Lage geklebt.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0171.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0172.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <!-- Bl. 81 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0173.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0174.xml"/>
+            </metadata>
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">68</width>
+                     <height unit="mm">9</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Velinpapier</patchPaperType>
+                  <patchPaperColour>gelblich</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 19. Lage -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 82 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0175.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0176.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 83 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0177a.xml"/>
+               </metadata>
+               <!-- Zettel Bl. 83a -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">197</width>
+                        <height unit="mm">85</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>grünlich</patchPaperColour>
+                     <patchWatermarkID>n.s.</patchWatermarkID>
+                     <note>Nicht identifiziertes Fragment.</note>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0178.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 84 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0179.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0180.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 85 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0181.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0182.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 20. Lage (Bl. 86–89) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 86 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0183.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0184.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 87 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0185.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0186.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 88 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0187.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0188.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 89 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0189.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0190.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 21. Lage (Bl. 90–95) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 90 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0191.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0192.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 91 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0193.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0194a.xml"/>
+               </metadata>
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">105</width>
+                        <height unit="mm">29</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Velinpapier</patchPaperType>
+                     <patchPaperColour>gelblich</patchPaperColour>
+                     <patchWatermarkID>none</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 92 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0195.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0196.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 93 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0197.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0198.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 94 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0199.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0200.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 95 -->
+      <leaf>
+         <metadata>
+            <leafCondition>Rückseitig vergilbt.</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0201.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0202.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 22. Lage (Bl. 96–98) -->
+   <!-- Bl. 96 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem Falz um das folgenden Dbl. gehängt.</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+         <leafCondition>Vorderseitig vergilbt.</leafCondition>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0203.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0204.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">333</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 97 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0205.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0206.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 98 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0207.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0208.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Dritter Akt -->
+   <!-- 23. Lage (Bl. 99–100) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 99 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0209.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0210.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 100 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0211.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0212.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 24. Lage (Bl. 101–109) -->
+   <!-- Bl. 101 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Um den Falz der folgenden Dbll. gehängt. Mit einem ca. 23 mm breiten Streifen
+            verstärkt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0213.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0214.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 102 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0215.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0216.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 103 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0217.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0218.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 104 -->
+         <leaf>
+            <metadata>
+               <note>Das Gegenzeichen ist beinahe unkenntlich.</note>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0219.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0220.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 105 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0221.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0222.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 106 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0223.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0224.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <bindingMaterial>none</bindingMaterial>
+         </metadata>
+         <!-- Bl. 107 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0225.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0226.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 108 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0227.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0228.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 109 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0229.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0230.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 25. Lage (Bl. 110–114) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 110 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0231.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0232.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 111 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0233.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0234.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 112 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0235.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0236.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 113 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0237.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0238.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Bl. 114 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>An die beiden vorhergehenden Dbll. geklebt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0239.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0240.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 26. Lage -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 115 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0241.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0242.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 116 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0243.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0244.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 27. Lage (Bl. 117–125) -->
+   <!-- Bl. 117 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>An die folgenden beiden Dbll. geklebt. Am Falz mit einem Streifen verstärkt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0245.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0246.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 118 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0247.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0248.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 119 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0249.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0250.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 120 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0251.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0252.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 121 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0253.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0254.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 122 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0255.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0256.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 123 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0257.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0258.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 124 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0259.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0260.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 125 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0261.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0262.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 28. Lage (Bl. 126–127) -->
+   <!-- Bl. 126 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem folgenden Ebl. zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0263a.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0264.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 127 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem vorherigen Ebl. zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0265.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0266.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 29. Lage (Bl. 128–130) -->
+   <!-- Bl. 128 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit den beiden folgenden Ebll. zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0267.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0268.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 129 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem vorhergehenden und dem folgenden Ebl. zusammengeklebt. Bildete ursprünglich
+            mit faust://document/wa_faust/2_III_H.62 ein Dbl.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0269.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0270.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 130 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit den beiden vorhergehenden Ebll. zusammengeklebt. Ersatz für das herausgetrennte
+            Bl. (faust://document/wa_faust/2_III_H.62), das mit dem vorherigen Bl. 129 ein Dbl.
+            bildete.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+         <paperColour>gelblich</paperColour>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0271.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0272.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 30. Lage (Bl. 131–133) -->
+   <!-- Bl. 131 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit den beiden folgenden Ebll. zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0273.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0274.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 132 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem vorhergehenden und dem folgenden Ebl. zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0275.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0276.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 133 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit den beiden vorherigen Ebll. zusammengeklebt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0277.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Am rechten Rand ist ein kleiner Streifen angeklebt.</note>
+            <docTranscript uri="0278.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 31. Lage (Bl. 134–137) -->
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 134 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0279.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0280.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 135 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0281.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0282.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 136 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0283.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0284.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 137 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0285.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0286.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 137a -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">189</width>
+                     <height unit="mm">98</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelblich</patchPaperColour>
+                  <patchWatermarkID>Rautenkranzwappen_ueber_Stuetzerbach</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 32. Lage (Bl. 138–140) -->
+   <!-- Bl. 138 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Um das folgende Dbl. gehängt.</note>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0287.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0288.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">316</height>
+         </dimensions>
+      </metadata>
+      <!-- Bl. 139 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0289.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0290.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 140 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0291.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0292.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 33 (Bl. 141-146) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbgrünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 141 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 146 -->
+      </metadata>
+      <!-- Bl. 141  -->
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">60</stabMark>
+               <stabMark unit="mm">73</stabMark>
+               <stabMark unit="mm">151</stabMark>
+               <stabMark unit="mm">170</stabMark>
+               <stabMark unit="mm">236</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+            <leafCondition>diese Doppelblatthälfte wurde in Kolumnen gebrochen; starke Vergilbungen
+               am unteren und rechten Rand, da die vorigen Lagen kleinere Maße haben; leicht
+               fleckig; archivarische Anfaserung des Blattes</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0293.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0294.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Vierter Akt -->
+      <sheet>
+         <metadata>
+            <paperColour>gelbgrünlich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 145 -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 142 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 142  -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">60</stabMark>
+                  <stabMark unit="mm">73</stabMark>
+                  <stabMark unit="mm">151</stabMark>
+                  <stabMark unit="mm">170</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">254</stabMark>
+               </stabMarks>
+               <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0295.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0296.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <metadata>
+               <paperColour>gelbgrünlich</paperColour>
+               <chainLines unit="mm">28</chainLines>
+               <paperMill>Stützerbach</paperMill>
+               <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+                  "Stuetzerbach"</watermarkID>
+               <!-- Bl. 144 -->
+               <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+               <!-- Bl. 143 -->
+            </metadata>
+            <leaf>
+               <!-- Bl. 143  -->
+               <metadata>
+                  <dimensions>
+                     <width unit="mm">202</width>
+                     <height unit="mm">330</height>
+                  </dimensions>
+                  <stabMarks>
+                     <stabMark unit="mm">60</stabMark>
+                     <stabMark unit="mm">73</stabMark>
+                     <stabMark unit="mm">151</stabMark>
+                     <stabMark unit="mm">170</stabMark>
+                     <stabMark unit="mm">236</stabMark>
+                     <stabMark unit="mm">254</stabMark>
+                  </stabMarks>
+               </metadata>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0297.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0298.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <leaf>
+               <!-- Bl. 144  -->
+               <metadata>
+                  <dimensions>
+                     <width unit="mm">202</width>
+                     <height unit="mm">330</height>
+                  </dimensions>
+                  <stabMarks>
+                     <stabMark unit="mm">60</stabMark>
+                     <stabMark unit="mm">73</stabMark>
+                     <stabMark unit="mm">151</stabMark>
+                     <stabMark unit="mm">170</stabMark>
+                     <stabMark unit="mm">236</stabMark>
+                     <stabMark unit="mm">254</stabMark>
+                  </stabMarks>
+               </metadata>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0299.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0300.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <leaf>
+            <!-- Bl. 145  -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">60</stabMark>
+                  <stabMark unit="mm">73</stabMark>
+                  <stabMark unit="mm">151</stabMark>
+                  <stabMark unit="mm">170</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">254</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0301.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0302.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 146  -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">60</stabMark>
+               <stabMark unit="mm">73</stabMark>
+               <stabMark unit="mm">151</stabMark>
+               <stabMark unit="mm">170</stabMark>
+               <stabMark unit="mm">236</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+            <leafCondition>Tintenfleck auf der Rückseite (überdeckt teilweise die Wörter
+               "Gelegenheit ist")</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0303.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0304.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 34 (Bl. 147-150) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbgrünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 147 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 150 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 147 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">60</stabMark>
+               <stabMark unit="mm">73</stabMark>
+               <stabMark unit="mm">151</stabMark>
+               <stabMark unit="mm">170</stabMark>
+               <stabMark unit="mm">236</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+            <leafCondition>Tintenfleck auf der Vorderseite (überdeckt teilweise das Wort
+               "vertrieben")</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0305.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0306.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>gelbgrünlich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 149 -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 148 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 148 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">60</stabMark>
+                  <stabMark unit="mm">73</stabMark>
+                  <stabMark unit="mm">151</stabMark>
+                  <stabMark unit="mm">170</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">254</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0307.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0308.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 149 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">60</stabMark>
+                  <stabMark unit="mm">73</stabMark>
+                  <stabMark unit="mm">151</stabMark>
+                  <stabMark unit="mm">170</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">254</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0309.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0310.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 150 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">60</stabMark>
+               <stabMark unit="mm">73</stabMark>
+               <stabMark unit="mm">151</stabMark>
+               <stabMark unit="mm">170</stabMark>
+               <stabMark unit="mm">236</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0311.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0312.xml"/>
+               <!-- <docTranscript uri="0312a.xml"/> deleatur -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 35 (Bl. 151-154) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbgrünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 151 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 154 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 151 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">56</stabMark>
+               <stabMark unit="mm">71</stabMark>
+               <stabMark unit="mm">147</stabMark>
+               <stabMark unit="mm">167</stabMark>
+               <stabMark unit="mm">234</stabMark>
+               <stabMark unit="mm">257</stabMark>
+            </stabMarks>
+         </metadata>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0313.xml"/> deleatur - TODO klaeren wieso als deleatur hier angetragen? -->
+               <docTranscript uri="0313.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch 151a -->
+               <metadata>
+                  <note>am rechten Rand Risskante</note>
+                  <patchDimensions>
+                     <width unit="mm">196</width>
+                     <height unit="mm">73</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Höhe beträgt 71 mm.</note>
+                  <patchType>glue</patchType>
+                  <note>Anklebung am linken Rand</note>
+                  <patchPaperType>Velinpapier</patchPaperType>
+                  <patchPaperColour>gelbbräunlich</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0314.xml"/>
+               <!-- <docTranscript uri="0314a.xml"/> deleatur  -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>gelbgrünlich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 152 -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 153 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 152 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">56</stabMark>
+                  <stabMark unit="mm">71</stabMark>
+                  <stabMark unit="mm">147</stabMark>
+                  <stabMark unit="mm">167</stabMark>
+                  <stabMark unit="mm">234</stabMark>
+                  <stabMark unit="mm">257</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0315.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0316.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 153 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">56</stabMark>
+                  <stabMark unit="mm">71</stabMark>
+                  <stabMark unit="mm">147</stabMark>
+                  <stabMark unit="mm">167</stabMark>
+                  <stabMark unit="mm">234</stabMark>
+                  <stabMark unit="mm">257</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0317.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0318.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 154 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">56</stabMark>
+               <stabMark unit="mm">71</stabMark>
+               <stabMark unit="mm">147</stabMark>
+               <stabMark unit="mm">167</stabMark>
+               <stabMark unit="mm">234</stabMark>
+               <stabMark unit="mm">257</stabMark>
+            </stabMarks>
+            <leafCondition>Anklebung auf der Rückseite wurde nach der Beschriftung in der Mitte quer
+               gefaltet</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0319.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0320.xml"/> deleatur -->
+               <docTranscript uri="0320a.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch 154a -->
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">188</width>
+                     <height unit="mm">88</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Höhe beträgt 86 mm.</note>
+                  <patchType>glue</patchType>
+                  <note>Anklebung am linken Rand</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelbbräunlich</patchPaperColour>
+                  <patchChainLines unit="mm">26</patchChainLines>
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 36 (Bl. 155-158) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbgrünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 158 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 155 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 155 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">59</stabMark>
+               <stabMark unit="mm">72</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">239</stabMark>
+               <stabMark unit="mm">257</stabMark>
+            </stabMarks>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0321.xml"/>
+               <!-- <docTranscript uri="0321a.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0322.xml"/>
+               <!-- <docTranscript uri="0322a.xml"/> deleatur -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>gelbgrünlich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 156 -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 157 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 156 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">59</stabMark>
+                  <stabMark unit="mm">72</stabMark>
+                  <stabMark unit="mm">150</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">239</stabMark>
+                  <stabMark unit="mm">257</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0323.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0324.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 157 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">59</stabMark>
+                  <stabMark unit="mm">72</stabMark>
+                  <stabMark unit="mm">150</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">239</stabMark>
+                  <stabMark unit="mm">257</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0325.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0326.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 158 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">59</stabMark>
+               <stabMark unit="mm">72</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">239</stabMark>
+               <stabMark unit="mm">257</stabMark>
+            </stabMarks>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0327.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0328.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 37 (Bl. 159-162) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbgrünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 159 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 162 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 159 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">59</stabMark>
+               <stabMark unit="mm">72</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">171</stabMark>
+               <stabMark unit="mm">237</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+            <leafCondition>Vergilbung des rechten Blattrands im unteren Bereich</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0329.xml"/>
+               <!-- <docTranscript uri="0329a.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0330.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>gelbgrünlich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 161 -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 160 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 160 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">59</stabMark>
+                  <stabMark unit="mm">72</stabMark>
+                  <stabMark unit="mm">150</stabMark>
+                  <stabMark unit="mm">171</stabMark>
+                  <stabMark unit="mm">237</stabMark>
+                  <stabMark unit="mm">254</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0331.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0332.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 161 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">59</stabMark>
+                  <stabMark unit="mm">72</stabMark>
+                  <stabMark unit="mm">150</stabMark>
+                  <stabMark unit="mm">171</stabMark>
+                  <stabMark unit="mm">237</stabMark>
+                  <stabMark unit="mm">254</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0333.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0334.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 162 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">59</stabMark>
+               <stabMark unit="mm">72</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">171</stabMark>
+               <stabMark unit="mm">237</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+            <leafCondition>brauner Fleck am unteren Blattrand</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0335.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0336.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 38 (Bl. 163-164) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbgrünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 163 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 164  -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 163 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">199</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">59</stabMark>
+               <stabMark unit="mm">72</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">171</stabMark>
+               <stabMark unit="mm">237</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+            <note>ungefähre Werte, da Blatt tief eingebunden</note>
+         </metadata>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0337.xml"/> deleatur -->
+               <!-- <docTranscript uri="0337a.xml"/> deleatur -->
+               <docTranscript uri="0337b.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch 163a -->
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">181</width>
+                     <height unit="mm">48</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Höhe beträgt 47 mm.</note>
+                  <patchType>glue</patchType>
+                  <note>Anklebung am linken Rand</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelbbräunlich</patchPaperColour>
+                  <patchChainLines unit="mm">26</patchChainLines>
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0338.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- Bl. 164 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">199</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">59</stabMark>
+               <stabMark unit="mm">72</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">171</stabMark>
+               <stabMark unit="mm">237</stabMark>
+               <stabMark unit="mm">254</stabMark>
+            </stabMarks>
+            <note>ungefähre Werte, da Blatt tief eingebunden</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0339.xml"/>
+               <!-- <docTranscript uri="0339a.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0340.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Fünfter Akt, Lage 39 (Bl. 165-168) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbbräunlich</paperColour>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>none</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <leaf>
+         <!-- Bl. 165 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">336</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">58</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">149</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">238</stabMark>
+               <stabMark unit="mm">256</stabMark>
+            </stabMarks>
+            <leafCondition>Vergilbung des unteren Rands, da vorangehende Blätter kürzer
+               sind</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0341.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0342.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>gelbbräunlich</paperColour>
+            <chainLines unit="mm">27</chainLines>
+            <watermarkID>none</watermarkID>
+            <countermarkID>none</countermarkID>
+         </metadata>
+         <leaf>
+            <!-- Bl. 166 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">201</width>
+                  <height unit="mm">336</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">58</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">149</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">238</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0343.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0344.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 167 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">201</width>
+                  <height unit="mm">336</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">58</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">149</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">238</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0345.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0346.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 168 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">336</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">58</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">149</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">238</stabMark>
+               <stabMark unit="mm">256</stabMark>
+            </stabMarks>
+            <leafCondition>sowohl auf Blatt 168 als auch auf der Rückseite des angeklebten Streifens
+               im oberen Bereich Klebespuren</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0347.xml"/> deleatur -->
+               <docTranscript uri="0347a.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch 168a -->
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">195</width>
+                     <height unit="mm">98</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Höhe beträgt 96 mm.</note>
+                  <patchType>glue</patchType>
+                  <note>Anfklebung war ursprünglich am oberen Rand angeklebt, wurde archivarisch
+                     abgelöst und am linken Rand angeklebt</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelbgrünlich</patchPaperColour>
+                  <patchChainLines unit="mm">28</patchChainLines>
+                  <patchPaperMill>Stützerbach</patchPaperMill>
+                  <patchWatermarkID>herzoglich-sächsisches Wappen mit Krone über
+                     "Stuetzerbach"</patchWatermarkID>
+                  <note>angeschnittenes Wasserzeichen</note>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0348.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 40 (Bl. 169-172) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbbräunlich</paperColour>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>none</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <leaf>
+         <!-- Bl. 169 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">336</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">58</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">149</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">238</stabMark>
+               <stabMark unit="mm">256</stabMark>
+            </stabMarks>
+            <note>ungefähre Werte, da Blatt tief eingebunden</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0349.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0350.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>gelbbräunlich</paperColour>
+            <chainLines unit="mm">27</chainLines>
+            <watermarkID>none</watermarkID>
+            <countermarkID>none</countermarkID>
+         </metadata>
+         <leaf>
+            <!-- Bl. 170 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">201</width>
+                  <height unit="mm">336</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">58</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">149</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">238</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+               <note>ungefähre Werte, da Blatt tief eingebunden</note>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0351.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0352.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 171 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">201</width>
+                  <height unit="mm">336</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">58</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">149</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">238</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+               <note>ungefähre Werte, da Blatt tief eingebunden</note>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0353.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0354.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 172 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">336</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">58</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">149</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">238</stabMark>
+               <stabMark unit="mm">256</stabMark>
+            </stabMarks>
+            <note>ungefähre Werte, da Blatt tief eingebunden</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0355.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0356.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 41 (Bl. 173-176) - ist keine Lage, da zwei Doppelblätter aneinandergeklebt wurden -->
+   <sheet>
+      <metadata>
+         <note>das Doppelblatt mit den Folioblättern 173 und 174 wurde mithilfe eines
+            Papierstreifens an das Doppelblatt mit den Folioblättern 175 und 176 angeklebt</note>
+         <paperColour>grünlich</paperColour>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 173 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 174 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 173 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">54</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">147</stabMark>
+               <stabMark unit="mm">172</stabMark>
+               <stabMark unit="mm">232</stabMark>
+               <stabMark unit="mm">246</stabMark>
+            </stabMarks>
+            <leafCondition>archivarische Anfaserung des Blattes; Anklebung auf der Rückseite wurde
+               bei der Aufbewahrung zweimal (versehentlich) geknickt</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0357.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0358.xml"/> deleatur -->
+               <docTranscript uri="0358a.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch auf 173verso -->
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">84</width>
+                     <height unit="mm">8</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <note>Anklebung am linken Rand</note>
+                  <patchPaperType>Velinpapier</patchPaperType>
+                  <patchPaperColour>bräunlich</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- Bl. 174 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">54</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">147</stabMark>
+               <stabMark unit="mm">172</stabMark>
+               <stabMark unit="mm">232</stabMark>
+               <stabMark unit="mm">246</stabMark>
+            </stabMarks>
+            <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0359.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0360.xml"/> deleatur -->
+               <docTranscript uri="0360a.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch 1 (oben) auf 174verso, "Fackeln" -->
+               <metadata>
+                  <note>ursprüngliche Überklebung wurde archivarisch in Anklebung geändert</note>
+                  <patchDimensions>
+                     <width unit="mm">70</width>
+                     <height unit="mm">11</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <note>Anklebung am linken Rand (archivarisch mit Papierstreifen angeklebt)</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchChainLines unit="mm">n.s.</patchChainLines>
+                  <!-- Steglinien nicht zu erkennen -->
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+            <patch>
+               <!-- patch 2 (unten) auf 174verso, "Aus Ligamenten" -->
+               <metadata>
+                  <note>Ein Teil der ursprünglichen Überklebung, die archivarisch in eine Anklebung
+                     geändert wurde, fehlt offenbar. Darauf weisen Spuren einer Klebung (Fehlen von
+                     Papier) oberhalb des folgenden Wortes "und" hin.</note>
+                  <!-- Ehrenzeller -->
+                  <patchDimensions>
+                     <width unit="mm">71</width>
+                     <height unit="mm">11</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Breite beträgt 70 mm.</note>
+                  <patchType>glue</patchType>
+                  <note>Anklebung am linken Rand (archivarisch mit Papierstreifen angeklebt)</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchChainLines unit="mm">n.s.</patchChainLines>
+                  <!-- Steglinien nicht zu erkennen -->
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface>
+                  <metadata>
+                     <note>Tinte scheint durch</note>
+                  </metadata>
+               </patchSurface>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <metadata>
+         <paperColour>gelbbräunlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 176 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 175 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 175 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <stabMarks/>
+            <!-- keine Stichlöcher vorhanden, da an voriges Doppelblatt angeklebt -->
+            <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0361.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0362.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- Bl. 176 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0363.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0364.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 42 (Bl. 177-180) -->
+   <sheet>
+      <metadata>
+         <paperColour>grünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 177 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 180 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 177 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">51</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">175</stabMark>
+               <stabMark unit="mm">234</stabMark>
+               <stabMark unit="mm">253</stabMark>
+            </stabMarks>
+            <leafCondition>Aufklebung auf der Rückseite wurde archivarisch teilweise abgelöst</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0365.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0366.xml"/> deleatur -->
+               <docTranscript uri="0366a.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch auf 177verso -->
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">98</width>
+                     <height unit="mm">14</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Breite beträgt 91 mm.</note>
+                  <patchType>glue</patchType>
+                  <note>archivarische Anklebung am linken Rand</note>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelbbräunlich</patchPaperColour>
+                  <patchChainLines unit="mm">26</patchChainLines>
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>grünlich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 179 -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 178 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 178 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">333</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">51</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">150</stabMark>
+                  <stabMark unit="mm">175</stabMark>
+                  <stabMark unit="mm">234</stabMark>
+                  <stabMark unit="mm">253</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0367.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0368.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 179 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">333</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">51</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">150</stabMark>
+                  <stabMark unit="mm">175</stabMark>
+                  <stabMark unit="mm">234</stabMark>
+                  <stabMark unit="mm">253</stabMark>
+               </stabMarks>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0369.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0370.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 180 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">51</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">175</stabMark>
+               <stabMark unit="mm">234</stabMark>
+               <stabMark unit="mm">253</stabMark>
+            </stabMarks>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0371.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0372.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage 43 (Bl. 181-188) -->
+   <sheet>
+      <metadata>
+         <paperColour>gelbgrünlich</paperColour>
+         <chainLines unit="mm">28</chainLines>
+         <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+            "Stuetzerbach"</watermarkID>
+         <!-- Bl. 181 -->
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- Bl. 188 -->
+      </metadata>
+      <leaf>
+         <!-- Bl. 181 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">54</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">153</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">236</stabMark>
+               <stabMark unit="mm">256</stabMark>
+            </stabMarks>
+            <note>ungefähre Werte, da Blatt tief eingebunden</note>
+            <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0373.xml"/>
+               <!-- <docTranscript uri="0373a.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0374.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <paperColour>gelbgrünlich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 185  -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 182 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 182 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">54</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">153</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+               <note>ungefähre Werte, da Blatt tief eingebunden</note>
+               <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0375.xml"/>
+                  <!-- <docTranscript uri="0375a.xml"/> deleatur -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0376.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <metadata>
+               <paperColour>gelbgrünlich</paperColour>
+               <chainLines unit="mm">28</chainLines>
+               <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+                  "Stuetzerbach"</watermarkID>
+               <!-- Bl. 183 -->
+               <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+               <!-- Bl. 184 -->
+            </metadata>
+            <leaf>
+               <!-- Bl. 183 -->
+               <metadata>
+                  <dimensions>
+                     <width unit="mm">202</width>
+                     <height unit="mm">330</height>
+                  </dimensions>
+                  <stabMarks>
+                     <stabMark unit="mm">54</stabMark>
+                     <stabMark unit="mm">74</stabMark>
+                     <stabMark unit="mm">153</stabMark>
+                     <stabMark unit="mm">173</stabMark>
+                     <stabMark unit="mm">236</stabMark>
+                     <stabMark unit="mm">256</stabMark>
+                  </stabMarks>
+                  <note>ungefähre Werte, da Blatt tief eingebunden</note>
+               </metadata>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0377.xml"/>
+                  </metadata>
+                  <patch>
+                     <!-- patch 183a -->
+                     <metadata>
+                        <patchDimensions>
+                           <width unit="mm">147</width>
+                           <height unit="mm">42</height>
+                        </patchDimensions>
+                        <patchType>glue</patchType>
+                        <note>Anklebung am linken Rand</note>
+                        <patchPaperType>Schreibpapier</patchPaperType>
+                        <patchPaperColour>gelbgrünlich</patchPaperColour>
+                        <patchChainLines unit="mm">26</patchChainLines>
+                        <patchWatermarkID>none</patchWatermarkID>
+                        <patchCountermarkID>none</patchCountermarkID>
+                     </metadata>
+                     <patchSurface/>
+                     <patchSurface/>
+                  </patch>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0378.xml"/>
+                     <!-- <docTranscript uri="0378a.xml"/> deleatur -->
+                  </metadata>
+               </page>
+            </leaf>
+            <leaf>
+               <!-- Bl. 184 -->
+               <metadata>
+                  <dimensions>
+                     <width unit="mm">202</width>
+                     <height unit="mm">330</height>
+                  </dimensions>
+                  <stabMarks>
+                     <stabMark unit="mm">54</stabMark>
+                     <stabMark unit="mm">74</stabMark>
+                     <stabMark unit="mm">153</stabMark>
+                     <stabMark unit="mm">173</stabMark>
+                     <stabMark unit="mm">236</stabMark>
+                     <stabMark unit="mm">256</stabMark>
+                  </stabMarks>
+                  <note>ungefähre Werte, da Blatt tief eingebunden</note>
+               </metadata>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0379.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0380.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <leaf>
+            <!-- Bl. 185 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">54</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">153</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+               <note>ungefähre Werte, da Blatt tief eingebunden</note>
+               <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0381.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0382.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <sheet>
+         <metadata>
+            <paperColour>gelblich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <watermarkID>herzogliches-sächsisches Wappen mit Krone über
+               "Stuetzerbach"</watermarkID>
+            <!-- Bl. 186 -->
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- Bl. 187 -->
+         </metadata>
+         <leaf>
+            <!-- Bl. 186 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">54</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">153</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+               <note>ungefähre Werte, da Blatt tief eingebunden</note>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0383.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0384.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 187 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm">54</stabMark>
+                  <stabMark unit="mm">74</stabMark>
+                  <stabMark unit="mm">153</stabMark>
+                  <stabMark unit="mm">173</stabMark>
+                  <stabMark unit="mm">236</stabMark>
+                  <stabMark unit="mm">256</stabMark>
+               </stabMarks>
+               <note>ungefähre Werte, da Blatt tief eingebunden</note>
+               <leafCondition>Rückseite stark fleckig</leafCondition>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0385.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0386.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 188 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">54</stabMark>
+               <stabMark unit="mm">74</stabMark>
+               <stabMark unit="mm">153</stabMark>
+               <stabMark unit="mm">173</stabMark>
+               <stabMark unit="mm">236</stabMark>
+               <stabMark unit="mm">256</stabMark>
+            </stabMarks>
+            <note>ungefähre Werte, da Blatt tief eingebunden</note>
+            <leafCondition>archivarische Anfaserung des Blattes</leafCondition>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0387.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0388.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Hinterdeckel -->
+   <disjunctLeaf type="binding">
+      <metadata>
+         <dimensions>
+            <width unit="mm">211</width>
+            <height unit="mm">342</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0389.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0390.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions"
+      xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>187</f:blatt>
+      <f:druckort>WA I 15.1, 1-337</f:druckort>
+      <f:ident>391098</f:ident>
+      <f:kurztitel>Reinschrift zu Faust. Zweiter Theil
+WA: H; vgl. I 15.2,6-7
+Reinschrift zum gesamten zweiten Teil mit Korrekturen egh, Riemer, Eckermann, Göttling
+Titel der Handschrift: "Faust. Zweyter Theil 1831." [auf äußerer Umschlagseite]
+Signatur Kräuter: Eigen Poetisches 38 [Eta]
+
+fol. 1 Titel der Handschrift: "Faust. Der Tragödie zweyter Theil in fünf Acten (1831)"
+fol. 2-52: 1. Akt  (John)
+fol. 53-98: 2. Akt (John)
+fol. 99-141: 3. Akt (Schuchardt)
+fol. 142-164: 4. Akt (John)
+fol. 165-187: 5. Akt (John)
+</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John, Schuchardt</f:schrift>
+      <f:signatur>XIX,3</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor
+               Überlieferungsform)</f:key>
+            <f:value>Titel</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,3*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit
+               Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Faust. Der Tragödie zweyter Theil in fünf Acten
+               (1831)"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="77">Grundsignatur oder Verweissignatur</f:key>
+            <f:value>25/XIX,3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Jahreszahl nachträglich von Eckermann</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3366</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor
+               Überlieferungsform)</f:key>
+            <f:value>1. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,3*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit
+               Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 2-52</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh; Riemer; Eckermann; Göttling</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Eckermann, Johann Peter; John, Johann August Friedrich;
+               Riemer, Friedrich Wilhelm; Göttling, Karl Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="77">Grundsignatur oder Verweissignatur</f:key>
+            <f:value>25/XIX,3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3437</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor
+               Überlieferungsform)</f:key>
+            <f:value>3. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,3*d</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit
+               Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 99-141</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Schuchardt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh; Eckermann; Riemer; Göttling</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Schuchardt, Johann Christian; Eckermann, Johann Peter;
+               Riemer, Friedrich Wilhelm; Göttling, Karl Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="77">Grundsignatur oder Verweissignatur</f:key>
+            <f:value>25/XIX,3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3450</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit
+               Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Faust. Zweyter Theil 1831." [auf äußerer
+               Umschlagseite]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,6-7</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>H</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="60">Agenda</f:key>
+            <f:value>Original für die Benutzung gesperrt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>187</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="88">Kräuters Repertorium</f:key>
+            <f:value>Eigen Poetisches 38 [Eta]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Reinschrift zum gesamten 2. Teil</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1427</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4047</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor
+               Überlieferungsform)</f:key>
+            <f:value>2. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,3*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit
+               Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 53-98</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh; Riemer; Eckermann; Göttling</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Eckermann, Johann Peter; John, Johann August Friedrich;
+               Riemer, Friedrich Wilhelm; Göttling, Karl Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="77">Grundsignatur oder Verweissignatur</f:key>
+            <f:value>25/XIX,3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4164</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor
+               Überlieferungsform)</f:key>
+            <f:value>4. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,3*e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit
+               Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 142-164</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh; Eckermann; Riemer; Göttling</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Eckermann, Johann Peter; John, Johann August Friedrich;
+               Riemer, Friedrich Wilhelm; Göttling, Karl Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="77">Grundsignatur oder Verweissignatur</f:key>
+            <f:value>25/XIX,3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4165</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor
+               Überlieferungsform)</f:key>
+            <f:value>5. Akt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,3*f</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit
+               Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 165-187</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh; Riemer; Eckermann; Göttling</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Eckermann, Johann Peter; John, Johann August Friedrich;
+               Riemer, Friedrich Wilhelm; Göttling, Karl Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="77">Grundsignatur oder Verweissignatur</f:key>
+            <f:value>25/XIX,3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4166</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/agad_warszawa/PL_1_354_13-16-24/">
+   <revisionDesc>
+      <change when="2013-04-28" who="bruening">Nachweise etc.</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-03-17" who="henzel">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zusatzszene zu ‚Faust‘-Libretto, ‚Zwey Teufelchen‘.</headNote>
+      <note>Beilage zu Brief von Goethe an Pius Alexander Wolff vom 23. September 1821 (vgl. faust://bibliography/steiniger2005, S. 320). Der Brief selbst ist verschollen, das Konzept liegt unter GSA 29/26, Bl. 218 (ebd., S. 321).</note>
+      <repository>agad_warszawa</repository>
+      <subRepository>Familienarchiv Radziwill</subRepository>
+      <idno type="faustedition">T 3 H.2</idno>
+      <idno type="agad_warszawa">AR dz. XIII pudło 16 teka 24<!--Familienarchiv Radziwill, Teil XIII, Kasten 16, Mappe 24--></idno>
+      <idno type="gsa_1">GSA 25/XVII,1,10b</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="PL_1_354_13-16-24_22-24.xml"/>
+      <classification>Mundum</classification><!-- Abschrift -->
+      <history>Zu den möglichen Gründen dafür, dass neben der Riemerschen auch diese Johnsche Abschrift heute im Familienarchiv Radziwill liegt, vgl. faust://bibliography/steiniger2005, S. 321.</history>
+      <condition>mittig quer gefaltet und hochkant aufbewahrt, Blatt war einst ein weiteres Mal gefaltet (am mittigen senkrechten Falz erkennbar), Ränder vergilbt und gewellt, auf Rückseite leichter brauner Fleck erkennbar</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>n.s.</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grün</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <watermarkID>Sächsisches Rautenkranzwappen</watermarkID><!-- auf pag. 25 -->
+      <countermarkID>JH N3</countermarkID><!-- auf pag. 23 -->
+      <references>
+         <reference type="description" uri="faust://bibliography/steiniger2005">S. 320f.</reference>
+         <reference type="essay" uri="faust://bibliography/steiniger2005">S. 321</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <!-- S. 22 -->
+         <page>
+            <metadata>
+               <references>
+                  <reference type="facsimile" uri="faust://bibliography/steiniger2005">S. 324</reference>
+               </references>
+               <docTranscript uri="0022.xml"/>
+            </metadata>
+         </page>
+         <!-- S. 23 -->
+         <page>
+            <metadata>
+               <docTranscript uri="0023.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- S. 24 -->
+         <page>
+            <metadata>
+               <docTranscript uri="0024.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

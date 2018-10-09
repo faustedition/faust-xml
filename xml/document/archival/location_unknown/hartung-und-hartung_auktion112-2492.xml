@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/location_unknown/hartung-und-hartung_auktion112-2492/">
+    <revisionDesc>
+        <change when="2012-09-24" who="bruening">encoded</change>
+        <change when="2015-01-28" who="koehler">minimal headnote</change>
+        <change when="2015-05-04" who="henzel">URI in reference aktualisiert</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+        <note>Fragment. Gegenstück: faust://document/wa_faust/2_III_H.6 (oberer Teil).</note>
+        <repository>location_unknown</repository>
+        <idno type="faustedition">2 III H.23a*</idno>
+        <idno type="gsa_1">GSA 25/XVIII,3,34a</idno>
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="hartung-und-hartung_auktion112-2492.xml"/>
+        <classification>Konzept</classification>
+        <format>none</format>
+        <references>
+            <reference type="description" uri="faust://bibliography/hartung_und_hartung_112">S. 589, Nr. 2492</reference>
+            <reference type="text" uri="faust://bibliography/hartung_und_hartung_112">S. 589</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <references>
+                    <reference type="facsimile" uri="faust://bibliography/hartung_und_hartung_112">S. 589</reference>
+                </references>
+                <docTranscript uri="01.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <note>Exzerpte.</note>
+                <references>
+                    <reference type="facsimile" uri="faust://bibliography/hartung_und_hartung_112">S. 590</reference>
+                </references>
+                <docTranscript uri="02.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

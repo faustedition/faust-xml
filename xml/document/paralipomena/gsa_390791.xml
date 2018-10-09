@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390791/">
+   <revisionDesc>
+      <change when="2012-11-27" who="henzel">imported</change>
+      <change when="2012-11-27" who="henzel">encoded</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf zu ‚Faust II‘, Akt 1.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P68 Var</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,3:3</idno>
+      <idno type="gsa_2">GSA 25/W 1744</idno>
+      <idno type="gsa_ident">390791</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P68 Var</idno>
+      <!-- P68 (Teilüberlieferung zu V. 21f. -->
+      <textTranscript uri="390791.xml"/>
+      <classification>Konzept</classification>
+      <condition>Tintenfraß, am linken Rand gewellt</condition>
+      <dimensions>
+         <width unit="mm">160</width>
+         <height unit="mm">99</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 95 mm.</note>
+      <format>none</format>
+      <note>Streifen</note>
+      <paperType>Schreibpapier</paperType><!-- sehr dünn -->
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">23</chainLines>
+      <watermarkID>Rautenkranzoval</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <!-- in WA nicht gedruckte Variante zu P68, Vers 21f. -->
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 185</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 185</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 185</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Die Flüchtigkeit der vorliegenden Notiz macht wahrscheinlich, daß es sich hier um einen Entwurf zu H P68, Z. 25f. handelt (vgl. hier S. 184). </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

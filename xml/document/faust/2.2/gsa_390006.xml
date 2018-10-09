@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390006/">
+   <revisionDesc>
+      <change when="2012-12-06" who="henzel">imported</change>
+      <change when="2012-12-07" who="henzel">encoded</change>
+      <change when="2013-08-29" who="bruening">Sigle</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.23</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,25</idno>
+      <idno type="gsa_2">GSA 25/W 1513</idno>
+      <idno type="gsa_ident">390006</idno>
+      <idno type="wa_faust">2 II H.23</idno>
+      <note>Vgl. die Beschreibung faust://bibliography/wa_I_15_2, S. 38, und die Wiedergabe ebd., S. 47f. Die 
+         Sigle entspricht der entstehungsgeschichtlich früheren Stellung im Vergleich zu faust://document/wa_faust/2_II_H.24. 
+         Die mit Bleistift eingetragene Sigle auf der hier beschriebenen Handschrift faust://document/wa_faust/2_II_H.23 
+         lautet aber fälschlich „H.24“. Dieses Versehen hat fortgewirkt, indem die Handschrift bei 
+         faust://bibliography/fischer-lamberg1955, S. 39 und faust://bibliography/bohnenkamp1994, S. 506 als „H.24“ bezeichnet 
+         wird, und spiegelt sich auch in der archivischen Lagerungsfolge wider.</note>
+      <!--      <idno type="fischer_lamberg">2 II H.24</idno> -->
+      <!--<idno type="gsa_findbuch">2 II H.24</idno>-->
+      <!--<idno type="bohnenkamp">2 II H.24</idno>-->
+      <textTranscript uri="390006.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <!-- ABR: Reinschrift -->
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">336</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 333 mm.</note>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graubräunlich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 506</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 47f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 506</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 657</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 507</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>im Findbuch, bei Fischer-Lamberg und Bohnenkamp als H.24 beschrieben; zur Entstehung vgl. Bohnenkamp, S.506, = späteres Konzept im Vgl. mit II H.22 (25/XVII,7,23*a), Vorlage für II H.24 (25/XVII,7,24*a), = Vorlage für II H.24 (25/XVII,7,24), </f:bemerkung>   
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Auf mehreren Handschriften ist der Entwurf eines Gesprächs zwischen Mephisto und den Sphinxen überliefert, das in dieser Form nicht in den endgültigen Text aufgenommen wurde. Bei der auf II H24 als eigenhändige Reinschrift überlieferten Fassung, die schon von Strehlke (S. 90) und wieder von Hecker als Paralipomenon (Nr. 166) aufgenommen wurde, handelt es sich um eine Kombination und Überarbeitung der Bleistiftentwürfe auf II H45 (Z. 10-18, unvollständig wiedergegeben in WA I,15.2,55) und II H22 einerseits, um die Vorstufe zur Schreiberreinschrift II H23 (vgl. Fischer-Lamberg, S. 39, WA verwechselt wiederholt H23 und H24) andererseits. Für den Entwurf auf II H45 läßt sich die Entstehungszeit auf die Tage zwischen dem 25. 1. 1830 und dem 29. 1. 1830 eingrenzen (vgl. Fischer-Lamberg S. 41f.); diese Datierung liefert für II H24 zumindest einen terminus post quem. Da die Untersuchungen von II H45 jedoch auch gezeigt haben, daß die dort befindlichen `Faust'-Verse bis zum 29.
+               1. 1830 nicht nur niedergeschrieben, sondern bereits als erledigt gestrichen und also auch schon abgeschrieben waren (vgl. Fischer-Lamberg, S. 42), läßt sich dieses Datum auch für II H24 als terminus ante quem wahrscheinlich machen. </p>
+            <p>Das ganze Blatt steht in engem Zusammenhang mit dem Schema P124: handelt es sich bei den Versen auf der Vorderseite um die `Ausführung' zu den dort als erledigt gestrichenen Stichpunkten "Ameisen", "Greife" (der unter der Tintenniederschrift befindliche Bleistifteintrag "Pygmaen" nennt das im Schema folgende Stichwort, vgl. P124, Z. 29-31, hier S. 491), so läßt sich der hier wiedergegebene Entwurf auf das auf H P124 ebenfalls als erledigt gekennzeichnete Schemastichwort "Mephist. von Lamien zurückkehrend" beziehen (P124, Z. 36f.). Gut zu beobachten ist hier, in welcher Weise Goethe seine Entwürfe bei der Erstellung der endgültigen Fassung als `Steinbruch' behandelte: den ersten Teil des hier skizzierten Gesprächs setzt er später bei der Verabschiedung von Mephisto und den Sphinxen ein, indem er Mephistos Frage, die dieser ursprünglich bei der Rückkehr zu den Sphynxen äußern sollte ("Ihr seyd noch hier?") in eine abschiednehmende Wendung verwandelt: "Ihr bleibt doch hier?
+               daß ich euch wiederfinde." (V. 7239) Der Schlußteil dagegen (Z. 15-18), hier ursprünglich als Bericht Mephistos über seine Erlebnisse mit den Lamien gegenüber den Sphynxen entworfen, wird im endgültigen Text als Selbstgespräch Mephistos zum Abschluß der Lamienszene. Die beide Partien ursprünglich verbindenden Verse (Z. 10-14) werden ersatzlos gestrichen _ in der endgültigen Version trifft Mephisto nicht noch einmal auf die Sphynxe; zwischen seinen Abschied von diesen und sein Abenteuer mit den Lamien ist dort die Begegnung zwischen Faust und Chiron (V. 7249-7494) sowie die Erdbebenszene (V. 7495-7675) getreten. Die Umarbeitung der vorliegenden Textpassage ist auf dem hier nicht wiedergegebenen Blatt II H23 dokumentiert: in dieser Schreiberabschrift von II H24 hat Goethe die beschriebenen Korrekturen eigenhändig durchgeführt. </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vgl. mit II H.40 (25/XVII,8,5); Vorlage für II H.41 (25/XVII,8,6)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vgl. mit II H.22 (25/XVII,7,23*a), Vorlage für II H.24 (25/XVII,7,24*a)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Vorlage für II H.24 (25/XVII,7,24*b)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

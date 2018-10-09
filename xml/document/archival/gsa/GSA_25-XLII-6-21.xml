@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-XLII-6-21/">
+   <revisionDesc>
+      <change when="2013-01-29" who="bruening">angelegt</change>
+      <change when="2013-01-31" who="bruening">encoded</change>
+      <change when="2013-10-30" who="henzel">uri textTranscript nachgetragen</change>
+      <change when="2013-10-30" who="henzel">uri docTranscript nachgetragen</change>
+      <change when="2014-01-28" who="henzel">description in text geaendert</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+      <change when="2015-04-23" who="bruening">gsa_2 nach Auskunft von J. Gruß</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.0c</idno>
+      <idno type="gsa_1">GSA 25/XLII,6,21</idno>
+      <idno type="gsa_2">GSA 25/W 3548</idno>
+      <idno type="gsa_ident">5384</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="wa_mur">H.311</idno>
+      <!--<idno type="hecker">N H.311</idno>-->
+      <textTranscript uri="GSA_25-XLII-6-21.xml"/>
+      <!--entsprechung für <textTranscript uri="389949.xml"/>-->
+      <numberingList>
+         <numbering name="Bezifferung">Rückseitig von vermutlich späterer Hand mit Bleistift beziffert (7?).</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">95</width>
+         <height unit="mm">160</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_42_2">S. 518</reference>
+         <reference type="text" uri="faust://bibliography/wa_II_13">S. 445</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <note>Zuerst beschriftet mit einem nicht identifizierten Prosabruchstück.</note>
+            <!-- Konzept egh zur Regieanweisung nach Vers 4665<br>
+               Incipit: "Ungeheures Getöse" -->
+            <docTranscript uri="0002.xml"/>
+            <references>
+               <reference type="text" uri="faust://bibliography/wa_I_42_2">S. 518</reference>
+            </references>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>In der WA als Paralipomenon 409 zu faust://bibliography/wa_II_11 und von Hecker als Nr. 1364 der Maximen und Reflexionen gedruckt (vgl. die beiden Drucknachweise zu dieser Seite).</note>
+            <docTranscript uri="0001.xml"/>
+            <references>
+               <reference type="text" uri="faust://bibliography/wa_II_13">S. 445</reference>
+               <reference type="text" uri="faust://bibliography/hecker1907">S. 282, Nr. 1364</reference>
+            </references>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

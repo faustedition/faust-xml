@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391529/">
+	<revisionDesc>
+		<change when="2012-11-27" who="henzel">imported</change>
+		<change when="2012-11-27" who="henzel">encoded</change>
+		<change when="2014-08-21" who="bruening">ſſ und ß</change>
+		<change when="2015-03-10" who="pravida">minimal headnote</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Konvolut, 6 Blätter nebst Umschlag. – Prosaaufzeichnung zu ‚Faust II‘.</headNote>
+		<note>Diktatniederschrift; Umschlagaufschrift vermutlich von Erich Schmidt mit Tinte. Für die Unterscheidung zwischen ſſ und ß wurden von Kräuter ausgefertigte Briefe Goethes im FDH zum Vergleich hinzugezogen<!-- Austausch Vorländer und DP am 14.8.2014 -->. Die sich daraus ergebenden Abweichungen von der Wiedergabe in AA DuW und bei Bohnenkamp sind als systematische nicht im einzelnen verzeichnet.</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P63</idno>
+		<idno type="gsa_1">GSA 25/XIX,1,1</idno>
+		<idno type="gsa_2">GSA 25/W 1740</idno>
+		<idno type="gsa_ident">391529</idno>
+		<idno type="wa_faust">none</idno>
+		<idno type="aa_duw">H.158</idno>
+		<!-- aa_duw Paralip 135 -->
+		<idno type="bohnenkamp">H P63</idno>
+		<!-- P63 -->
+		<idno type="hecker">70</idno>
+		<textTranscript uri="391529.xml"/>
+		<classification>Schema</classification>
+		<binding>blauer Umschlag aus dünnem Papier, vermutlich von Erich Schmidt, im Quartformat, am Falz unten eingerissen, Risskante am oberen Rand</binding>
+		<numberingList>
+			<numbering>Archivarische Foliierung mit Bleistift</numbering>
+		</numberingList>
+		<condition>fleckig, am linken und rechten Rand jeweils ursprünglich längs gefaltet (zur Begrenzung der Schrift), je zwei Einstichlöcher in der oberen linken Ecke</condition>
+		<format>4</format>
+		<edges>cut</edges>
+		<paperType>Schreibpapier</paperType>
+		<paperColour>graugrünlich</paperColour>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 173</reference>
+			<reference type="description" uri="faust://bibliography/aa_duw_2">S. 169f.</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 266</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 173-177</reference>
+			<reference type="text" uri="faust://bibliography/witkowski1936">S. 533-535</reference>
+			<reference type="text" uri="faust://bibliography/aa_duw_2">S. 610-612</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 266-274</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 593-596</reference>
+			<reference type="essay" uri="faust://bibliography/schmidt1888b">S. 1f.</reference>
+			<reference type="essay" uri="faust://bibliography/aa_duw_2">S. 170</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 274-278</reference>
+		</references>
+		<note>Der Text wird auch wiedergegeben in: faust://bibliography/graef1922, S. 505-508 Alt, Goethes Werke, Bd. 10, S. 350-352.</note>
+	</metadata>
+	<sheet>
+		<metadata>
+			<dimensions>
+				<width unit="mm">170</width>
+				<height unit="mm">212</height>
+			</dimensions>
+			<note>Der Mindestwert der Blatt-Höhe beträgt 200 mm.</note>
+		</metadata>
+		<!-- Umschlag = Bl 1 -->
+		<leaf>
+			<page>
+				<metadata>
+					<docTranscript uri="0002.xml"/>
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript/>
+					<!-- leer -->
+				</metadata>
+			</page>
+		</leaf>
+		<!-- Bl. 2 -->
+		<disjunctLeaf>
+			<metadata>
+				<leafCondition>Klebespuren am oberen linken und rechten Rand</leafCondition>
+				<dimensions>
+					<width unit="mm">165</width>
+					<height unit="mm">203</height>
+				</dimensions>
+				<chainLines unit="mm">25</chainLines>
+				<paperMill>n.s.</paperMill>
+				<watermarkID>verschlungenes "JGH"</watermarkID>
+				<note>angeschnittenes Wasserzeichen</note>
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<page>
+				<metadata>
+					<docTranscript uri="0003.xml"/>
+					<!-- <docTranscript uri="0004.xml"/> deleatur -->
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript uri="0005.xml"/>
+				</metadata>
+			</page>
+		</disjunctLeaf>
+		<!-- Bl. 3 -->
+		<disjunctLeaf>
+			<metadata>
+				<dimensions>
+					<width unit="mm">165</width>
+					<height unit="mm">203</height>
+				</dimensions>
+				<chainLines unit="mm">26</chainLines>
+				<paperMill>n.s.</paperMill>
+				<watermarkID>verschlungenes "JGH"</watermarkID>
+				<note>angeschnittenes Wasserzeichen</note>
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<page>
+				<metadata>
+					<docTranscript uri="0006.xml"/>
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript uri="0007.xml"/>
+				</metadata>
+			</page>
+		</disjunctLeaf>
+		<!-- Bl. 4 -->
+		<disjunctLeaf>
+			<metadata>
+				<dimensions>
+					<width unit="mm">165</width>
+					<height unit="mm">203</height>
+				</dimensions>
+				<chainLines unit="mm">25</chainLines>
+				<paperMill>n.s.</paperMill>
+				<watermarkID>ovales Rautenkranzwappen mit Krone</watermarkID>
+				<note>angeschnittenes Wasserzeichen</note>
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<page>
+				<metadata>
+					<docTranscript uri="0008.xml"/>
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript uri="0009.xml"/>
+				</metadata>
+			</page>
+		</disjunctLeaf>
+		<!-- Bl. 5 -->
+		<disjunctLeaf>
+			<metadata>
+				<dimensions>
+					<width unit="mm">165</width>
+					<height unit="mm">203</height>
+				</dimensions>
+				<chainLines unit="mm">25</chainLines>
+				<paperMill>n.s.</paperMill>
+				<watermarkID>ovales Rautenkranzwappen mit Krone</watermarkID>
+				<note>angeschnittenes Wasserzeichen</note>
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<page>
+				<metadata>
+					<docTranscript uri="0010.xml"/>
+					<!-- <docTranscript uri="0011.xml"/> deleatur -->
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript uri="0012.xml"/>
+					<!-- <docTranscript uri="0013.xml"/> deleatur -->
+				</metadata>
+			</page>
+		</disjunctLeaf>
+		<!-- Bl. 6 -->
+		<disjunctLeaf>
+			<metadata>
+				<dimensions>
+					<width unit="mm">162</width>
+					<height unit="mm">200</height>
+				</dimensions>
+				<chainLines unit="mm">25</chainLines>
+				<paperMill>n.s.</paperMill>
+				<watermarkID>Wappen über "N 3"</watermarkID>
+				<note>angeschnittenes Wasserzeichen</note>
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<page>
+				<metadata>
+					<docTranscript uri="0014.xml"/>
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript uri="0015.xml"/>
+					<!-- <docTranscript uri="0016.xml"/> deleatur -->
+				</metadata>
+			</page>
+		</disjunctLeaf>
+		<!-- Bl. 7 -->
+		<disjunctLeaf>
+			<metadata>
+				<dimensions>
+					<width unit="mm">162</width>
+					<height unit="mm">200</height>
+				</dimensions>
+				<chainLines unit="mm">25</chainLines>
+				<paperMill>n.s.</paperMill>
+				<watermarkID>Rautenkranzwappen</watermarkID>
+				<!-- ABR: ovales Rautenkranzwappen mit Krone wie 4 und 5 -->
+				<note>angeschnittenes Wasserzeichen</note>
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<page>
+				<metadata>
+					<docTranscript uri="0017.xml"/>
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript uri="0018.xml"/>
+				</metadata>
+			</page>
+		</disjunctLeaf>
+		<leaf>
+			<page>
+				<metadata>
+					<docTranscript/>
+					<!-- leer -->
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript/>
+					<!-- leer -->
+				</metadata>
+			</page>
+		</leaf>
+	</sheet>
+
+
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Diktatniederschrift; Bericht für "Dichtung und Wahrheit"; WA zu: Paralipomena. Älteste Phase; zur Datierung vgl. Bohnenkamp, S.274</f:bemerkung>
+      <f:dabei_vermerk>Umschlag mit der Aufschrift Erich Schmidt(?): "Kräuter scr. Ältester Plan des 2. Theils 1824 1816 für 'Dichtung u. Wahrheit' skizziert. J. Eckermann", 1 Bl</f:dabei_vermerk>
+      <f:datierung>Ende 1816 (?)</f:datierung>  
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p> Dieses Manuskript enthält eine Inhaltsangabe der geplanten Fortsetzung des Zweiten Teils des `Faust'. Es handelt sich um eine Diktatniederschrift, wie aus einem Hörfehler _ der Schreiber versteht "Paares" statt "Paris" (vgl. Z. 113) _ und verschiedenen Sofortkorrekturen hervorgeht. Sie entstand wahrscheinlich im Zusammenhang mit Goethes Arbeit am 4. Teil von `Dichtung und Wahrheit' Ende des Jahres 1816. Der am 16. 12. 1816 verzeichnete Tagebucheintrag: "Meine Biographie: Schema des 2. Theils von Faust [...]. Fausts 2. Theil die Papiere durchgesehen [...]. Obiges fortgesetzt" (WA III,5,295) wurde zuerst von Julius Wahle auf das vorliegende Manuskript H P63 bezogen (WA III,5,402); für eine Entstehung in dieser Zeit spricht auch das damals häufig verwendete Quartformat der Handschrift sowie die Tatsache, daß die Handschrift von Kräuter geschrieben ist, "von dem nur aus dem Jahre 1816 Handschriften zur Biographie überliefert sind." (Scheibe, AA 12.2, S. 169.)</p>
+				<p>Der Bericht über den alten `Faust'-Plan war für das 18. Buch von `Dichtung und Wahrheit' vorgesehen: nach dem Gesamtschema des 4. Teils der Autobiographie, das ebenfalls im Dezember 1816 entstanden und von der Hand Kräuters überliefert ist (Dichtung und Wahrheit P132, vgl. AA 12.2, S. 163-165 u. 591-596), sollte er vor den Berichten über zwei weitere geplante Stücke aus dem "geheimen Archiv" "wunderlicher Productionen" (Dichtung und Wahrheit P132, Z. 4-6, AA 12.2, S. 591), vor `Hanswursts Hochzeit' und dem `Ewigen Juden', seinen Platz finden. Es handelt sich HP63</p>
+				<p> hier also eigentlich um ein `Paralipomenon' zu Goethes Autobiographie und nicht zum `Faust'; entsprechend ist es auch in Band 12.2. der Akademie-Ausgabe als P135, in Bd. I,14 der Frankfurter Ausgabe als P92 zu `Dichtung und Wahrheit' abgedruckt. </p>
+				<p>Als Goethe diesen Bericht diktierte, hatte er die Hoffnung auf eine Vollendung des `Faust' wohl aufgegeben und wollte die Umrisse seines alten Planes wenigstens in seiner Autobiographie mitteilen, wie er es ähnlich mit anderen unvollendeten Werken tatsächlich gehandhabt hat. Eckermann, dem Goethe im August 1824 "die Anfänge einer Fortsetzung von Wahrheit und Dichtung, ein auf Quartblättern geschriebenes Heft" zur Durchsicht übergibt (vgl. Tagebuch vom 4. 8. 1824; WA III,9,252), notiert zu dem dritten Buch, "welches den Plan zu einer Fortsetzung des Faust" enthält: "Ob nun dieser Plan zu Faust mitzuteilen oder zurückzuhalten sein wird, dieser Zweifel dürfte sich dann beseitigen lassen, wenn man die bereits fertigen Bruchstücke zur Prüfung vor Augen hat, und erst darüber klar ist, ob man überall die Hoffnung einer Fortsetzung des Faust aufgeben muß oder nicht." (Eckermann, 10. 8. 1824.) Noch im September 1831 allerdings verzeichnet ein Schema des 18. Buchs auch die
+					Aufnahme von `Faust'. Vgl. AA 12.2, S. 246 und S. 653f.</p>
+				<p>Für den Versuch einer Rekonstruktion älterer, bei der späteren Ausführung stark veränderter `Faust'-Pläne Goethes bietet P63 reiches Material. Bedacht werden muß jedoch, daß dieser Bericht über die ältesten vorweimarischen `Faust'-Pläne mehr als vierzig Jahre nach deren Entstehen niedergeschrieben wurde: "Wie sehr Goethe hier [...] auch bemüht war, seinen alten Plan zu erzählen und ihn von späteren Intentionen frei zu halten, es war, wenn er bei der Reconstruction lediglich seinem Gedächtnis folgte, nicht zu vermeiden, dass er früheres und späteres mischte." Ausgehend von dieser Feststellung versucht Pniower, Früheres von Späterem zu unterscheiden und kommt zu dem Schluß, daß "die Helena, deren Conception in der Frankfurter Zeit durch viele Zeugnisse erwiesen ist, im wesentlichen so skizziert ist, wie sie sich der junge Goethe dachte, dass hingegen der Anfang der Skizze, die Überleitung vom Schluss des ersten Teiles zur Helena, sowie das Ende: Fausts Kampf mit den
+					Mönchen usw. auf Intentionen der späteren Zeit beruhen." (Pniower, S. 119.)</p>
+				<p>Daß vor allem der Entwurf der `Helena' in P63 der "jugendlichen Konzeption" entspreche, hat besonders Niejahr betont. (Niejahr, Goethes `Helena', S. 81ff.)</p>
+				<p>Versuche einer Rekonstruktion der alten Pläne aus dem Bericht von 1816, die zwangsläufig eher hypothetischen als nachweisbaren Charakter besitzen, unternahmen unter anderem Alfred Walheim (Studien zum Urfaust) und Hermann Schneider (Urfaust? Eine Studie). Letzterer konstruiert, gestützt auf P63, den alten Plan eines Magusdramas, in dem Weltfahrt, Kaiserhof und vor allem die `Helena'-Handlung der Überlieferung gemäß als zentrale Themen angenommen werden. Walheim stellt in seiner Untersuchung der Goetheschen "Urmotive" eine Verbindung zwischen P63 und P21 (hier S. 103) her, indem er das dort erwähnte `alte Schloß auf dem Hügel' mit dem `alten Schloß' des P63 (Z. 110), wo Helena erscheinen sollte, identifiziert: "Auf die Szene `Landstraße' sollte somit, wenn wir den Straßburger Faustplan zugrunde legen,</p>
+				<p> Zusatztexte für die Bühne</p>
+				<p> Bericht für `Dichtung und Wahrheit'</p>
+				<p>nicht die Gretchentragödie folgen, für die die Puppenspielfabel keine Anregung bot, sondern die Zusammenkunft Fausts und <i>Helenas</i> auf dem Alten Schloß." (Walheim, Studien zum Urfaust [I], S. 7.) P63 wird "als glaubwürdige Wiedergabe der Gestalt des `Faust' in der vorweimarischen Zeit" bewertet (Walheim, Studien zum Urfaust [II], S. 29).</p>
+				<p>Die entgegengesetzte Auffassung, daß das Diktat für `Dichtung und Wahrheit "mit seinen `dichterischen Seltsamkeiten' ohne Zweifel mehr den damaligen als den Frankfurter Absichten Goethes" entsprach (Burger, Motiv, Konzeption, Idee, S. 32f.), wird von zahlreichen Forschern geteilt. (Vgl. Roethe, Entstehung des Urfaust; Witkowski, S. 426, Petsch, S. 714f., u. a.) Tatsächlich ähnelt der hier entwickelte Plan einer Fortsetzung in wichtigen Punkten dem `Faust', wie er Goethe offensichtlich noch bei der Wiederaufnahme der `Faust'-Arbeit im Jahre 1825 vorschwebte und der im wesentlichen an den Plänen der Jahrhundertwende orientiert ist. Vgl. meine Kapitel zu den Entstehungsgeschichten vor allem des 1., 3. und 5. Akts.</p>
+				<p>Wenn also im Tagebuch vom 16. 12. 1816 die Rede davon ist, daß Goethe für den Bericht über die geplante Fortsetzung die alten Papiere vornahm, werden unter diesen Papieren auch diejenigen der Jahrhundertwende gewesen sein. Wieviel mehr damals erhalten war, als uns heute überliefert ist, ist wohl nicht mehr zu klären.</p>
+				<p>Als eine "Probe" aus Goethes "Walpurgissack" gibt Johannes Falk einen in mancher Hinsicht abweichenden Bericht über den Anfang des alten `Faust'-Plans, der in zahlreichen `Paralipomena'-Editionen als eigenes `Paralipomenon' aufgeführt wird _ "einen selbständigen Wert in dem Sinne, dass sie eine andere Conception oder eine geänderte Intention voraussetze, kann seine Mitteilung [jedoch] nicht beanspruchen." (Pniower, S. 120.) Ob dieser Darstellung Gesprächsäußerungen Goethes zugrundeliegen (wie Pniower annimmt), ob Falk das Manuskript von 1816 kannte oder ob er eine weitere unbekannte schriftliche Quelle zur Verfügung hatte (wie Strehlke in seinem Kommentar zu den `Paralipomena', S. 49f., vermutet), ist ungeklärt. Auch eine genaue Datierung dieses zuerst 1832 veröffentlichten Berichts war bisher nicht möglich.</p>
+				<p>Falk berichtet von einer "in dem gedruckten `Faust' unterdrückte[n] Scene":</p>
+				<p>Es wird nämlich dem Faust, weil er die ganze Welt kennen lernen will, vom Mephistopheles unter Anderm auch der Antrag gemacht, beim Kaiser um eine Audienz nachzusuchen. Es ist gerade Krönungszeit. Faust und Mephistopheles kommen glücklich nach Frankfurt. Nun sollen sie gemeldet werden. Faust will nicht daran, weil er nicht weiß, was er dem Kaiser sagen, oder wovon er sich mit ihm unterhalten soll. Mephistopheles aber heißt ihn gutes Muthes seyn; er wolle ihm schon zu gehöriger Zeit an die Hand gehn, ihn, wo die Unterhaltung stocke, unterstützen und, im Fall es gar nicht fort wolle, mit dem Gespräche zugleich auch seine Person übernehmen, sodaß der Kaiser gar nicht inne zu werden brauche, mit wem er eigentlich gesprochen oder nicht gesprochen habe. So läßt sich denn Faust zuletzt den Vorschlag gefallen. Beide gehen ins Audienzzimmer und werden auch wirklich vorgelassen. Faust seinerseits, um sich dieser Gnade werth zu machen, nimmt Alles, was irgend von Geist und
+					Kenntniß in seinem Kopfe ist, zusammen und spricht von den erhabensten Gegenständen. Sein Feuer indessen wärmt nur ihn; den Kaiser selbst läßt es kalt. Er gähnt einmal über das andere und steht sogar auf dem Punkte, die ganze Unterhaltung abzubrechen. Dies wird Mephistophiles noch zur rechten Zeit</p>
+				<p> gewahr und kommt dem armen Faust versprochnermaßen zu Hülfe. Er nimmt zu dem Ende dessen Gestalt an und steht mit Mantel, Koller und Kragen, den Degen an seiner Seite, leibhaftig wie Faust vor dem Kaiser da. Nun setzt er das Gespräch genau da fort, wo Faust geendigt hatte; nur mit einem ganz andern und weit glänzendern Erfolge. Er raisonnirt nämlich, schwadronirt und radotirt so links und rechts, so kreuz und quer, so in die Welt hinein und aus der Welt heraus, daß der Kaiser vor Erstaunen ganz außer sich geräth und die umstehenden Herren von seinem Hofe versichert, das sei ein grundgelehrter Mann, dem möchte er wol tage- und wochenlang zuhören, ohne jemals müde zu werden. Anfangs sei es ihm freilich nicht recht von Statten gegangen, aber nach diesem, und wie er gehörig in Fluß gekommen, da lasse sich kaum etwas Prächtigeres denken, als die Art, wie er Alles so kurz, und doch zugleich so zierlich und gründlich vortrage. Er als Kaiser müsse bekennen, einen solchen
+					Schatz von Gedanken, Menschenkenntniß und tiefen Erfahrungen nie in einer Person, selbst nicht bei den weisesten von seinen Räthen, vereinigt gefunden zu haben. Ob der Kaiser mit diesem Lobe zugleich den Vorschlag verbindet, daß Faust-Mephistopheles in seine Dienste treten, oder die Stelle eines dirigirenden Ministers annehmen soll, ist mir unbekannt. Wahrscheinlich aber hat Faust einen solchen Antrag aus guten Gründen abgelehnt. (Falk, Goethe dargestellt, S. 94ff.) </p>
+				<p>Z. 1 jenen] Die vorausgehende Seite ist nicht überliefert; Erich Schmidt versucht folgende Rekonstruktion des fehlenden Beginns: "Das damals beredete dichterische Vorhaben sei liegen geblieben; nach so langer Zeit habe er beschlossen die Leser seiner Lebensgeschichte" (WA I,15.2,173).</p>
+				<p>Z. 4-30: Der alte Plan weicht in verschiedenen Punkten erheblich von der später ausgeführten Fassung ab. So haben nicht nur die Geisterchöre ihren Charakter in der endgültigen Fassung deutlich verändert (vgl. V. 4613-4678 und dazu hier S. 281f.), sondern auch der Schauplatz ist später ein anderer: während der endgültige Text Fausts Erwachen in eine Gebirgslandschaft versetzt, spielt die Szene hier in einem geschlossenen Raum (Fausts Studierstube?). Im Gegensatz zur ausgeführten Fassung werden in diesem alten Plan ein bestimmter Ort, ein bestimmter Kaiser und ein bestimmtes historisches Ereignis genannt. Die in der Ausführung fehlende `Motivierung' des Erscheinens Fausts am Hofe des Kaisers ist hier noch vorgesehen. Vgl. dazu das Schema P100 aus der Phase der Wiederaufnahme der Arbeit am `Faust' seit 1825, das in zahlreichen Punkten noch eng an den mit P63 dokumentierten älteren Plan anschließt (hier S. 291f.). Auch im folgenden nennt P63 eine Reihe märchenhafter
+					Motive, die in der Ausführung fallengelassen oder erheblich abgewandelt wurden.</p>
+				<p>Z. 31f. sein Mantel beschleunigt die Reise] Vgl. das Motiv des Zaubermantels in `Faust I' (V. 1122 und V. 2065-2070.) und hier auch Z. 47.</p>
+				<p>Z. 35-42: Fausts Bestreben ohne "Gaukeley und Verblendung" auszukommen, führt in dem vorliegenden alten Plan schließlich bis zur `Entlassung' Mephistos. Vgl. Z. 160 und den entsprechenden Kommentar.</p>
+				<p>Z. 59-78: Auch in der ausgeführten Fassung unterhält Mephistopheles das Hofpublikum mit seinen Wunderkuren, während Faust die Erscheinung der Helena `vorbereitet' (V. 6307-6376) _ an den `Gang zu den Müttern' allerdings ist hier noch nicht gedacht. (Vgl. mein Kapitel zur Entstehungsgeschichte des 1. Akts, hier S. 289f.)</p>
+				<p> Zusatztexte für die Bühne</p>
+				<p> Bericht für `Dichtung und Wahrheit'</p>
+				<p>Z. 84-88: Wie die Szene, in der Mephistopheles als Wunderheiler das höfische Publikum unterhält, so ist auch die hier skizzierte Episode in der endgültigen Dichtung ausgeführt worden (V. 6453-6540). Gerade diese komischen `Einlagen' gehören also zum alten Bestand.</p>
+				<p>Z. 89-94.: Vgl. P65, hier S. 186-189.</p>
+				<p>Z. 94-96: Das Motiv der Ohnmacht ist schon erfunden; der Zusammenhang mit dem Versuch Fausts, Helena zu erlangen, fehlt noch.</p>
+				<p>Z. 98 Doppeltseyn] die Doppelerscheinung Faust und Mephisto-als-Faust. (Vgl. den Ausdruck "Faust-Mephistopheles" in dem Bericht Falks, hier S. 277.)</p>
+				<p>Z. 110-117: Schauplatz der Begegnung mit Helena ist nicht Griechenland, sondern ein mittelalterliches Schloß; Helena allerdings glaubt sich in Sparta.</p>
+				<p>Z. 114f.: Das Motiv des magischen Rings ist in der Ausführung aufgegeben, findet sich jedoch in den Vorarbeiten aus den Jahren 1825/26 noch wieder (vgl. P164, Z. 28f., hier S. 600f., und P165, Z. 28, hier S. 593ff.).</p>
+				<p>Z. 117-120: Vgl. P52 (auf H P10, hier S. 121, u. auf III H12, hier S. 570).</p>
+				<p>Z. 151f. Lust zum Besitz] Vgl. P179, Z. 40, hier S. 674.</p>
+				<p>Z. 160 entläßt den Mephistophles] Vgl. V. 11403-11407 und die Vorarbeiten (V H4, hier S. 762f., sowie die hier nicht aufgenommenen V H3 und V H5). Noch in diesen Entwürfen von 1825 scheint Goethe zunächst von einer vollzogenen Verabschiedung des Mephistopheles, einer Abwendung Fausts von der Magie ausgegangen zu sein.</p>
+				<p>Z. 163-169: Der Verzicht auf eine Darstellung, "wie es weiter ergangen", in Verbindung mit dem Hinweis auf die "zerstreut gearbeiteten Stellen dieses zweiten Theils" ist nicht unbedingt ein Hinweis darauf, daß Goethe zum Zeitpunkt der Abfassung dieses Berichts über den Fortgang und Abschluß der `Faust'-Dichtung sich noch im Unklaren war (wie etwa Strehlke annimmt, ebd., S. 133) _ sondern kann im Gegenteil geradezu als Indiz dafür gewertet werden, daß für diesen Teil schon Vorarbeiten und Materialien in so beträchtlicher Menge vorlagen, daß Goethe annahm, zumindest diesen Abschluß noch auszuführen. (Vgl. dazu mein Kapitel zur Entstehungsgeschichte des 5. Akts, hier S. 745.)</p>
+				<p>Z. 170-174: Wie der Beginn fehlt auch die Fortsetzung des Manuskripts; die den Bericht über den alten `Faust'-Plan mit der Autobiographie verbindenden Passagen sind nicht überliefert. Erich Schmidt ergänzt "Unterhaltung" (WA I,15.2,176).</p>
+				<p> Zweiter Teil, Akt 1</p>
+				<p>
+					<i>Zur Entstehungsgeschichte</i>
+				</p>
+				<p>Forschungsstand</p>
+				<p>Eine ausführliche Darstellung der Entstehungsgeschichte aufgrund der eingehenden Untersuchung der überlieferten handschriftlichen Zeugnisse, wie sie für die Akte 2, 3 und 5 vorliegt,<sup>1</sup> steht für den 1. Akt (wie für den 4. Akt) noch aus. Einen ersten Überblick anhand der Tagebucheintragungen und einiger datierbarer Handschriften bietet immerhin Heinrich Düntzers Studie über die Entstehung der beiden ersten Akte von `Faust II' aus dem Jahr 1891, die auch die `Paralipomena' heranzieht.<sup>2</sup> Düntzer unternimmt die Rekonstruktion der Entstehung des 1. Aktes und der ersten Szenen des 2. Aktes allerdings ohne eigene Sichtung der Handschriften; er stützt sich im wesentlichen auf die Angaben des Lesartenapparates der WA, den er zugleich kritisiert.<sup>3</sup>
+				</p>
+				<p>Spätere Arbeiten zu diesem Bereich beschränken sich entweder auf die Untersuchung bestimmter Teile des ersten Aktes<sup>4</sup> oder behandeln die entstehungsgeschichtlichen Fragen aus dem Blickwinkel einer übergeordneten Problemstellung: So beschäftigt sich zum Beispiel Katharina Mommsen mit der Entstehungsgeschichte des 1. Aktes im Zusammenhang ihrer quellenkritischen Arbeiten,<sup>5</sup> Wilhelm Emrich zieht zur Unterstützung seiner `Faust'-Deutung die Vorstufen und `Paralipomena' auch des 1Vgl. meinen jeweiligen Überblick zur Entstehungsgeschichte, hier S. 389ff., 532ff. u. 738ff.</p>
+				<p>2Düntzer, Entstehung der ersten Akte.</p>
+				<p>3Vgl. Düntzer, Entstehung der ersten Akte, S. 246: "[...] nur mit der allergrößten Mühe arbeitet man sich durch den von ihm [Erich Schmidt] geschaffenen Urwald [die `Lesarten' zum Zweiten Teil], wenn man sich klare Einsicht in die hier vorliegenden Thatsachen verschaffen will, um ein Bild der wunderbaren Entstehung der Dichtung zu gewinnen." Düntzers grundsätzlich kritisch gestimmter Kommentar zu den Angaben der WA ist zuweilen sehr nützlich, gelegentlich aber auch völlig spekulativ und irreführend.</p>
+				<p>4Zur Entstehung der Elfenchöre vgl. die Untersuchung Wolfgang Schadewaldts. Zu einzelnen Aspekten der Entstehungsgeschichte der `Mummenschanz' vgl. Lieselotte Blumenthal, Goethes letztes Gedicht? Der Zauberer fordert leidenschaftlich wild... und Inge Jensen, Zum Chor der Gärtnerinnen in der Mummenschanz-Szene von Faust II.</p>
+				<p>5Vgl. die Kapitel `Saal des Thrones. Die Behandlung des Schatzheber-Motivs' und `Mummenschanz und Lustgarten' (Anfang) in Katharina Mommsens Untersuchung der Einflüsse arabischer Märchen auf Goethes Werk. (Mommsen, Goethe und 1001 Nacht, S. 187-231.)</p>
+				<p> Zweiter Teil, Akt 1 1. Aktes heran: im Mittelpunkt seiner Überlegungen zum 1. Akt steht die These, daß sich Goethes alte Vorstellungen über Fausts Auftreten am Hofe, ausgehend von der inzwischen vollendeten `Helena', veränderten. Im neu konzipierten 1. Akt geht es Emrich zufolge nun um Fausts innerliche Steigerung zum Künstler; die Ersetzung Euphorions durch den `Knaben Lenker' und des Dichters durch den Magier nimmt Goethe nach Emrich nur "aus äußeren Rücksichten auf das Publikum" vor.<sup>6</sup>
+				</p>
+				<p>Voraussetzung für eine entstehungsgeschichtliche Anordnung der Handschriften mit den `Paralipomena' ist die möglichst genaue Kenntnis der Textgenese; dafür bedarf es einer Sichtung und, soweit möglich, der chronologischen Einordnung <i>aller</i> aus der Arbeit am 1. Akt überlieferten Handschriften. Im Rahmen dieser sämtliche `Paralipomena zum Faust' einbeziehenden Arbeit ist die ausführliche Dokumentation aller Handschriften zum 1. Akt jedoch weder angebracht noch möglich; ihre gründliche Sichtung bildet aber die Grundlage des von mir auch für diesen Akt unternommenen Versuchs einer an den Überlieferungsträgern orientierten chronologischen Anordnung der `Paralipomena'. Die aus der Arbeit am 1. Akt überlieferten Handschriften erlauben jedoch keine lückenlose Rekonstruktion der Genese dieses Akts: nur ein Teil der während dieser Arbeit entstandenen Handschriften ist überliefert, und nur wenige Papiere stellen Anhaltspunkte für eine sichere Datierung zur Verfügung. Bei
+					der Anordnung der ausgewählten Nachlaßstücke zum 1. Akt wurde aus diesem Grund nach dem Prinzip der relativen Chronologie verfahren, also das entstehungsgeschichtliche Verhältnis der Blätter untereinander zugrundegelegt. Ausgehend von den überlieferten Handschriften ergibt sich auf diese Weise eine Einteilung der Nachlaßstücke in drei große Gruppen: 1) Vorarbeiten und Entwürfe zum ersten Teil der `Mummenschanz' (bis V.5605), 2) Vorarbeiten zum Schluß der `Mummenschanz' im Zusammenhang mit dem Arbeitsmundum I H32 (hier S. 361ff.) und 3) Nachlaßstücke zu den folgenden Szenen des ersten Aktes. Da Goethe jedoch durchaus nicht konsequent `von vorne nach hinten' gearbeitet hat, verstößt diese Anordnung zwangsläufig gegen die `absolute Chronologie': noch im Dezember entworfene Verse zum Beginn der `Mummenschanz' (wie etwa die Gärtnerverse) stehen auf diese Weise vor den ersten Arbeiten am Schluß der `Mummenschanz', die wahrscheinlich bereits in den November fallen.</p>
+				<p>Frühe Pläne</p>
+				<p>Erste Entwürfe zu Motiven und Szenen, die Goethe später im 1. Akt des Zweiten Teils realisierte, sind bereits aus der dritten Arbeitsphase am `Faust', aus den Jahren um die Jahrhundertwende, überliefert. Es handelt sich durchweg um Notizen und Entwürfe zu der schon früh geplanten Szene am Hof des Kaisers. Über die Einführung Fausts 6Emrich, Symbolik, S. 159 (zu Akt 1 vgl. S. 156-267). </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> in diese neue Welt, über die dabei von Mephisto zu spielende Rolle und auch über die geplanten Geistererscheinungen, die zur Unterhaltung des Kaisers von Faust oder Mephisto beschworen werden sollten, hat Goethe sich bereits früh Gedanken gemacht; überliefert sind uns im wesentlichen einige Splitter auf verschiedenen Sammelblättern, Fragmente einer Szene zwischen Faust und Mephisto und ein Entwurf in Prosa zur geplanten Geisterbeschwörung.<sup>7</sup> Der 1816 für `Dichtung und Wahrheit' diktierte Bericht über den geplanten zweiten Teil des `Faust' (hier S. 266-274) weist wichtige Elemente des späteren ersten Aktes schon auf, viele noch in abweichender Fassung, andere fehlen noch ganz: Faust wird von Mephisto zu einer Reise nach Augsburg beredet, wo Kaiser Maximilian Reichstag hält. Ohne "Gaukeley und Verblendung", wie Faust zunächst fordert, ist dort nichts zu gewinnen; Mephistopheles aber, in Fausts Gestalt, ist als wundertätiger Hofmedicus sehr erfolgreich. Auf
+					dem "magischen Theater" erscheinen schließlich auch die Gestalten von Paris und Helena und geben Anlaß zu heiterer Szene. Die Wahl einer dritten Erscheinung führt dann zu Tumult, der ohnmächtige Faust wird entdeckt, und Mephisto verschwindet...<sup>8</sup>
+				</p>
+				<p>Wiederaufnahme 1827-29</p>
+				<p>Wenn Goethe die Arbeit am `Faust' schließlich im Jahre 1825 wieder aufnimmt, beschäftigt er sich, soweit wir wissen, zunächst mit dem geplanten Schluß und dann mit der `Helena'.<sup>9</sup> Schon während der Arbeit an der `Helena' beginnt er jedoch, sich auch über ihre `Voraussetzungen' Gedanken zu machen: im Sommer 1826 entsteht die erste Fassung einer Ankündigung der Helena, im Winter darauf die ersten Schemata zum 2. Akt sowie die ausführlichen Versionen der `Antecedenzien'.<sup>10</sup> Wann genau in den folgenden Monaten das erste Schema zum 1. Akt (P100, hier S. 291f.) niedergeschrieben wurde, ist nicht sicher zu sagen; auf jeden Fall muß es vor den Elfenchören der Eingangsszene entstanden sein (vgl. Kommentar, hier S. 293).</p>
+				<p>Anhand der auffallenden Nähe zu zwei Gedichten aus den `Chinesisch-deutschen Jahres- und Tageszeiten' hat Wolfgang Schadewaldt für die `Elfenchöre' eine Entstehung im Sommer 1827 sehr wahrscheinlich gemacht. An den `Chinesisch-deutschen Jahres- und Tageszeiten' hat Goethe laut Tagebuch Mitte Mai 1827 gearbeitet _ "und 7Vgl. die Kommentare zu P65-P121a, hier S. 186-200.</p>
+				<p>8Vgl. P63, hier S. 266-274.</p>
+				<p>9Vgl. meine Kapitel zur Entstehungsgeschichte zu Akt 3 (hier S. 532-537) und Akt 5 (hier S. 738-749).</p>
+				<p>10Vgl. P123A, hier S. 412-415, P99A und 99B, hier S. 417-420, sowie die ausführlichen Fassungen der Antecedenzien (P123B und C), hier S. 424-454. </p>
+				<p> Zweiter Teil, Akt 1</p>
+				<p> nicht allzulange danach wieder müssen wir die Elfenszenen entstanden denken".<sup>11</sup> Die Konzeption der `Chinesisch-deutschen Jahres- und Tageszeiten' ist für Schadewaldt der `auslösende Faktor' für die Umgestaltung der Geisterchöre zu Beginn des Zweiten Teils, die noch in P100 als "Geister des Ruhms der großen That" (P100, Z. 1ff., hier S. 291) vorgesehen waren. </p>
+				<p>Für den Terzinenmonolog Fausts, dessen handschriftliche Überlieferung keinerlei Anhaltspunkte für eine Datierung seiner Entstehung bietet<sup>12</sup> und über dessen Entstehung in der Forschung sehr verschiedene Ansichten vertreten wurden, gilt dagegen schon der 6. Mai 1827 als terminus ante quem.<sup>13</sup> Nach dem Zeugnis der Tagebücher war Goethe im Mai 1827 vor allem mit der Planung und mit schematisierenden Vorarbeiten beschäftigt: "Ich bedachte den zweyten Theil von Faust, und regulirte die vorliegenden ausgeführten Theile."<sup>14</sup> Erst Ende Juli setzte die anhaltende Arbeit am 11Schadewaldt, Elfenszene, S. 261. Drei Tage nach dem die "chinesischen Jahreszeiten" betreffenden Eintrag vom 15. 5. verzeichnet das Tagebuch: "Ich griff das Hauptgeschäft an". (WA III,11,58) Vgl. auch die Formulierung aus einem in diesen Tagen geschriebenen Brief an Zelter, in dem Goethe mitteilt, "daß ich, durch guter Geister fördernde Theilnahme, mich wieder an Faust
+					begeben habe" (24. 5. 1827; WA IV,42,190). Da Schadewaldt die von Pniower vorgeschlagene Datierung von P100 auf den 27. 5. 1827 jedoch für "schwer erschütterbar" hält, gilt ihm dieses Datum auch als terminus post quem für die Elfenchöre. Hält man diese Datierung jedoch nicht für gesichert (vgl. den Kommentar zu P100, hier S. 292f.), so ist die Entstehung der Elfenchöre auch schon in der zweiten Maihälfte denkbar. Die Datierung der Elfenszene auf Frühsommer 1827 widerspricht der von Gräf vorgeschlagenen Datierung eines undatierten Eckermann-Fragments auf den 12. März 1826, in dem berichtet wird, daß Goethe den Anfang des Zweiten Teils Eckermann vorlegt. Aus diesem Grund schließt Schadewaldt dann auch: "Das Eckermann- Fragment ist [...] nicht vor Ende Mai 1827, wahrscheinlich ebenfalls in die Mitte des Sommers zu datieren." (Schadewaldt, Elfenszene, S. 260.)</p>
+				<p>12Neben H ist keine weitere handschriftliche Fassung dieser Verse überliefert.</p>
+				<p>13Vgl. das Gespräch mit Eckermann vom 6.5.1827, dessen Zuverlässigkeit jedoch auch schon in Frage gestellt wurde (vgl. Düntzer, Entstehung der ersten Akte, S. 261). Vielleicht läßt sich auch schon der 11.1.1827 als terminus ante quem ansehen, an dem das Tagebuch verzeichnet: "die Terzinen vorgelegt". Es könnte sich hier jedoch auch um die Terzinen auf Schillers Schädel handeln, die im September 1826 gedichtet sind. Vgl. Gräf, S.378. Zur Entstehung des Terzinen-Monologs vgl. Pniower, S. 195f.: "Eckermann spricht von diesem Monolog Fausts so, als sei er kurz nach Goethes dritter Schweizerreise im Jahre 1797 verfasst." Unter Bezugnahme auf diesen Bericht Eckermanns wurde die Ansicht vertreten, daß die Terzinen bereits 1798 entstanden seien; gestützt auf stilistische Argumente und das Erscheinungsdatum der Dante-Übersetzung von Streckfuß (182426) plädiert jedoch neben anderen Pniower für eine Entstehung "frühestens im Anfang des Jahres 1825", wahrscheinlich aber im
+					Frühjahr 1826. Vgl. dazu aber Schadewaldt, Elfenszene, S. 492, der mit Bezug auf Goethes Besuch des Rheinfalls von Schaffhausen im September 1797 und die Anfrage bei Schiller über die Versart der Terzinen vom 21.2.1798 zumindest die Konzeption des Monologs, wenn nicht gar einen ersten Entwurf wieder in dieser frühen Zeit der Wiederaufnahme der Arbeit am `Faust' ansetzt.</p>
+				<p>1424. 5. 1827; WA III,11,61. Der Brief an Zelter von diesem Tag (WA IV,42,190) legt einen Bezug auf den 4. Akt nahe (vgl. dazu mein Kapitel zur Entstehungsgeschichte des 4. Akts, hier S.660). Vgl. auch die Tagebucheintragungen vom 22. und vom 27. 5. 1827. Am 25. Mai schreibt Zur Entstehungsgeschichte</p>
+				<p> 1. Akt ein _ gefördert durch den Anfang des Monats gefaßten Entschluß, einen größeren Teil dieser `Faust'-Fortsetzung in Bd. 12 der Ausgabe letzter Hand im Anschluß an den Ersten Teil zu veröffentlichen.<sup>15</sup>
+				</p>
+				<p>Saal des Thrones (P101)</p>
+				<p>Eindeutige Hinweise auf die genaue Entstehungszeit der Szene `Saal des Thrones' (V.4728-5064) fehlen.<sup>16</sup> Am 5. Juli vermerkt das Tagebuch jedoch die Beschäftigung mit einem Werk, das bei der Arbeit an dieser Szene als Quelle für realistische Details diente.<sup>17</sup> Bis Ende September ist die Arbeit daran abgeschlossen; am 1. Oktober heißt es im Tagebuch: "Dr Eckermann, demselben die zweyte Scene vorgelesen und das Ganze besprochen."<sup>18</sup>
+				</p>
+				<p>Mummenschanz (P102-I H32)</p>
+				<p>Die Arbeit an der `Mummenschanz' (V. 5065-5986), einer Szene, die schließlich über 900 Verse umfassen sollte, die aber in P100 (hier S. 291f.) noch gar nicht vorgesehen war und auch in P101 (hier S. 294) nur angedeutet wird, erstreckt sich vom Sommer Goethe an Esenbeck: "Ich bin in meinen Garten im Thale gezogen und genieße schon gute Frucht von dieser Absonderung. Es liegen so manche Dinge die ich selbst werth achten muß, weil sie sich aus einer Zeit herschreiben die nicht wieder kommt, lange Jahre vor mir da, und bedürfen eigentlich nur einer gewissen genialen Redaction. Vollständige Plane, schematisch aufgestellt, einzelnes ausgearbeitet! und es kommt nur auf einen reinen genialen Entschluß an, so ist es als eine Art von Ganzem brauchbar und gewiß manchem angenehm." (WA IV,42,197) Offensichtlich hat Goethe die alten `Faust'-Papiere vor sich liegen, als er in diesem Frühjahr nun an die Ausarbeitung des 1.Akts geht.</p>
+				<p>15Vgl. Schadewaldt, Elfenszene, S. 491. Kanzler Müller berichtet von einem Gespräch mit Goethe am 16. Juli 1827, daß sich dieser "bei voller Muße und Abtrennung von der Welt [...] noch jetzt [getraue], den Faust in drei Monaten zu beenden." Kanzler Friedrich von Müller, Unterhaltungen mit Goethe, S. 160.</p>
+				<p>16Zu dieser Szene sind nur zwei Handschriften überliefert, von denen keine einen Anhaltspunkt für die Datierung zur Verfügung stellt. Eine kalligraphische Abschrift der Verse 5061-5064 (I H1) wird im GSA aufbewahrt, eine eigenhändige Arbeitsniederschrift der Verse 4772-4811 mit überarbeitenden Korrekturen (I Ha) befindet sich in der Bibliotheca Bodmeriana in Genf-Cologny.</p>
+				<p>17"Mit meinem Sohn über Herrn von Schweinichen und dessen Herrn, den Fürsten von Liegnitz." (WA III,11,80) Goethe bezieht sich hier auf die Autobiographie Hans von Schweinichens (Lieben Lust und Leben der Deutschen des sechzehnten Jahrhunderts, in den Begebenheiten des Schlesischen Ritters Hans von Schweinichen, von ihm selbst aufgezeichnet. Hg. von Büsching. 18201823).</p>
+				<p>18WA III,11,118. Vgl. auch Eckermanns Bericht von dieser Lesung. (Eckermann, 1. 10. 1827.) Am 13. Oktober liest Goethe die Szene dann auch Zelter vor (WA III,11,124). </p>
+				<p> Zweiter Teil, Akt 1</p>
+				<p> 1827 bis in das neue Jahr hinein. Für den Druck im 12. Band der Ausgabe letzter Hand schickt Goethe am 25. Januar die "Rolle mit dem 2. Theil von Faust Anfang"<sup>19</sup> an Reichel nach Augsburg, am 15. Februar folgen die ersten Verse der Szene `Lustgarten' (V.5987-6036): "Zu <i>Fausts</i> zweytem Theile sende noch einiges mit der gestern abgegangenen fahrenden Post, welches denn als Abschnitt für dießmal gelten mag."<sup>20</sup>
+				</p>
+				<p>Die handschriftlichen Zeugnisse zeigen im Fall der `Mummenschanz' besonders deutlich, daß Goethe nicht `der Reihe nach' gearbeitet hat. Die vorhandenen Entwürfe bieten oft ein buntes Durcheinander unterschiedlicher Ansätze, die spätere Abfolge der Verse ist in den Entwürfen nur in kleinen und kleinsten Zusammenhängen schon vorgegeben: erst in den Zwischenmunda ordnen sich die verstreut gearbeiteten Entwürfe zu einer planvollen Abfolge. Während sein Schreiber schon an der Erstellung des endgültigen Mundums arbeitete, war Goethe noch mit dem Auffüllen von verbliebenen Lücken beschäftigt.<sup>21</sup> Die überlieferten Handschriften zeigen, daß Goethe bei der Arbeit an dieser Szene die Schemata zum Teil erst nachträglich anfertigte, um die vorhandenen fragmentarischen Entwürfe in eine Ordnung zu bringen. Wie an den überlieferten handschriftlichen Zeugen der Entstehung abzulesen ist, folgt der Dichter bei der Ausführung über weite Strecken durchaus nicht einem zu Beginn
+					entworfenen `Grundriß', sondern verfährt sprunghaft: er wechselt vom Schema zur Ausführung und von der Ausführung wieder zum Schema; ebenso wie er an verschiedenen Szenen und Szenenteilen gleichzeitig bzw. abwechselnd arbeitet.</p>
+				<p> 19WA III,11,170, vgl. auch an Reichel 24. 1. 1828 (WA IV,51,544).</p>
+				<p>20WA IV,43,279f.</p>
+				<p>21Vgl. Goethe an Reichel, 29. 12. 1827: "[...] gerade in den drey ersten Scenen, die ich mittheile, finden sich Lücken, die sich nicht durch den guten Willen ausfüllen lassen, welches nur zur glücklichsten Stunde gelingt" (WA IV,43,214). Vgl. hierzu auch Inge Jensen, Chor der Gärtnerinnen, S.170f.: "Während John schon mit der Herstellung der Druckvorlage beauftragt war, arbeitete Goethe noch am Text der ersten Szenen, das heißt, er bemühte sich um Auffüllung der vorhandenen Lücken und schloß damit auch die Carnevalszene ab." Vgl. auch WA III,11,147 u. 152f. sowie mein Kapitel zur Arbeitsweise. Neben den Zwischenmunda wurde früh schon an einem weiteren Mundum gearbeitet, das später mit den Munda der anderen Akte zur Haupthandschrift H vereinigt wurde. Im Bereich des 1. Aktes weist auch H Spuren des in I H32 (hier S. 361ff.) sowie in zahlreichen weiteren Arbeitsmunda zu beobachtenden Verfahrens auf, die zunächst leeren Seiten mit Bleistiftnotizen für die Aufnahme der
+					Reinschrift (Abschrift oder Diktat) vorzubereiten: für den 1. Akt hat Goethe ein frühes Mundum in die Haupthandschrift aufgenommen, das ebenfalls nicht `der Reihe nach angefertigt', sondern sprunghaft und `stückchenweise' entstanden ist. Auf den eigenhändigen Nachtrag der beiden spät entstandenen Gärtnerstrophen in einer zunächst offengebliebenen Lücke hat schon Inge Jensen hingewiesen. (Jensen, Chor der Gärtnerinnen, S. 176.) Die von Fischer-Lamberg im einzelnen verzeichneten zahlreichen Bleistiftstichworte, die sich im Bereich des 1. Aktes im Hauptmundum H finden (vgl. Fischer-Lamberg, S. 9-15), stimmen auffallend mit verschiedenen Stichworten aus den Schemata P102 (hier S. 297f.) und P104-106 (hier S. 331-335 u. 343) überein. (Vgl. auch Landeck, S. 56.) </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> Der Beginn der Arbeit am `Karneval' läßt sich im Hinblick auf Goethes erneute Lektüre einer Sammlung florentinischer `Trionfi' auf einen Zeitpunkt nach dem 11.8. 1827 datieren.<sup>22</sup> Das deutlich den Einfluß Grazzinis verratende Schema P102 (hier S. 297f.) und wahrscheinlich auch einige Versentwürfe (vgl. P108b, hier S. 304; P108c, hier S. 305; P110a, hier S. 306f.) sind schon in der Zeit bis zum 10. Oktober entstanden, als Goethe das entliehene Werk zurückgab.<sup>23</sup> Andererseits wissen wir, daß Goethe gerade an den wahrscheinlich ebenfalls schon früh begonnenen Versen der Gärtner und Gärtnerinnen (V. 5088-5119, 5158-5177) noch bis Ende Dezember arbeitete,<sup>24</sup> die dazwischenliegenden Verse 5136-5157 dagegen wurden schon Anfang Dezember auf Sendeblätter abgeschrieben.<sup>25</sup>
+				</p>
+				<p>Da die auf die Arbeit am `Faust' bezogenen Eintragungen im Tagebuch aus dieser Zeit meist ganz allgemein bleiben,<sup>26</sup> läßt sich nicht viel mehr daran ablesen, als daß Goethe etwa seit Mitte Juli ohne größere Unterbrechungen daran arbeitete.</p>
+				<p>Neben zahlreichen Einzelblättern sind vor allem zwei umfangreichere Zwischenmunda aus der Arbeit dieser Monate überliefert. Die eigenhändige Reinschrift I H17 bietet die Verse der Parzen und der Furien in fast vollständiger Form, es fehlen noch die Verse des Herolds, der den Elefanten ankündigt sowie die Verse der Furcht. Vorhanden sind dagegen schon die Verse der Hoffnung, noch nicht vorhanden wiederum 22Am 11.8.1827 hat Goethe die beiden Bände einer von dem florentinischen Dichter und Apotheker Antonio Francesco Grazzini herausgegebenen Sammlung florentinischer Maskenzüge (Tutti i trionfi, carri, mascherate o Canti carnascialeschi andati per Firenze dal tempo del [...] Lorenzo de' Medici fino all'anno 1559. [...] In Cosmopoli 1750) entliehen. (Vgl. Keudell, Nr. 1855.) Goethes Tagebuch verzeichnet an diesem Tage: "Canti Carnascialeschi nach langer Zeit wieder angesehen. Herrlichstes Denkmal der florentinischen Epoche und Lorenz Medicis." (WA III,11,96) Vgl. auch den
+					Kommentar zu P102, hier S. 299-303.</p>
+				<p>23Vgl. Keudell, Nr. 1855.</p>
+				<p>24Vgl. die detaillierte Darstellung der Entstehungsgeschichte der Gärtnerinnenchöre (5088-5107) bei Inge Jensen. In ihrer Untersuchung `Zum Chor der Gärtnerinnen' zeigt Jensen, daß Goethe in einer ersten Phase für Gärtner und Gärtnerinnen nur je zwei Strophen vorgesehen hatte; diese von John schon in die Haupthandschrift eingetragene Fassung des Karnevalbeginns wurde später von einer erweiterten Fassung überklebt. Aufschlußreich ist, daß sich auf dieser Seite der Haupthandschrift auch das mit Bleistift eingetragene Stichwort `Vogelsteller' findet (vgl. P102, hier S. 297): die frühen Entwürfe entstanden offensichtlich noch in enger Anlehnung an P102, sehr wahrscheinlich schon im Oktober 1827. Die Überarbeitung der Gärtnerinnenchöre setzt nach dem Zeugnis der überlieferten Handschriften erst im Dezember 1827 ein; noch Ende Dezember oder sogar Anfang Januar ist Goethe mit der Vollendung dieser Szene beschäftigt.</p>
+				<p>25Vgl. I H9 (datiert auf den 8. 12. 1828) und die Tagebucheintragungen vom 8. und 9. 12. 1828 (WA III,11,146f.).</p>
+				<p>26Vgl. z. B.: "Am Hauptgeschäft gearbeitet" (26. 8. 1827; WA III,11,101); "Das Hauptgeschäft gefördert" (29. 9. 1827; WA III,11,117); "Fortgefahren am Hauptgeschäft" (13. 10. 1827; WA III,11,124); "Einiges zu Faust" (22. 12. 1827; WA III,11,152). Auch eine Briefäußerung an Zelter gibt keinen genaueren Aufschluß, woran Goethe gerade arbeitet: "Ich fahre fort an Faust zu schreiben, wie es die beste Stunde gibt" (6. 11. 1827; WA IV,43,149). </p>
+				<p> Zweiter Teil, Akt 1</p>
+				<p> die Verse der Klugheit und die Episode des Zoilo-Thersites, deren Entstehung Katharina Mommsen erst in der zweiten Dezemberhälfte vermutet.<sup>27</sup> Auf die Verse der Hoffnung folgt in I H17 die Ankündigung des Wagens durch den Herold, dann der Auftritt des Knaben Lenker.<sup>28</sup> Eine der zu diesem Zwischenmundum überlieferten Vorarbeiten bietet einen Anhaltspunkt für die Datierung;<sup>29</sup> anhand dieses Blattes (I H22) läßt sich für I H17 der 2. 10. 1827 als terminus post quem ermitteln. </p>
+				<p>Bei dem zweiten größeren Mundum zur `Mummenschanz', das den Schluß der Szene enthält, handelt es sich um ein typisches Arbeitsmundum.<sup>30</sup> Eine Reihe der überlieferten Handschriften läßt sich als Vorarbeiten zu diesem Zwischenmundum bestimmen, an dem wohl über einen längeren Zeitraum gearbeitet wurde.<sup>31</sup>
+				</p>
+				<p>Verschiedene Zeugnisse belegen, daß Goethe im Herbst 1827 intensiv mit der Arbeit am `Faust' beschäftigt war. Nicolovius, der Anfang November 1827 bei Goethe war, berichtet: "Goethe dichtet fortwährend an dem zweiten Teile seines Faustes",<sup>32</sup> am 8.11. verzeichnet das Tagebuch: "Abends mit letzterem [Eckermann] das Carneval im Faust'".<sup>33</sup> Nur 10 Tage später vertraut Goethe ihm wiederum "das Neuste vom Faust".<sup>34</sup> Am 23. 11. heißt es: "Einiges zum Carneval arrangirt",<sup>35</sup> und am 26. 11. wird wieder eine Besprechung mit Eckermann verzeichnet.<sup>36</sup> Im Dezember 1827 berichtet das Tagebuch gleichermaßen von Abschriften und neuen Arbeiten an der `Mummenschanz';<sup>37</sup> am 29. sendet Goethe "das fragliche wundersame Werk" an Riemer mit der Bitte, "es genau durchzugehen, die Interpunction zu berichtigen und allenfallsige Bemerkungen niederzuschreiben, vorzüglich aber Folgendes im Auge zu haben: Ich unterließ, wie Sie sehen,
+					in prosaischer Parenthese das, was geschieht und vorgeht, 27Vgl. Mommsen, 1001 Nacht, S. 206f.</p>
+				<p>28I H17 enthält die Verse 5317-5392, 5423-5440, 5494-5569, 5582-5587 und 5590-5605.</p>
+				<p>29Die Handschriften I H12, I H18 und I H21-24 lassen sich als Vorstufen zu dieser Reinschrift bestimmen; der Entwurf zu V. 5537-5559 (I H22) befindet sich auf der Rückseite eines Blattes, das zunächst für das Konzept eines Briefes an den Patriarchen von Venedig genutzt wurde. Anhand des Tagebuchs (WA III,11,119) läßt sich dieses Schreiben auf den 2. 10. 1827 datieren; dieses Datum kann sowohl für I H22 als auch für die auf I H22 folgende Reinschrift I H17 als terminus post quem angenommen werden.</p>
+				<p>30Vgl. den Kommentar zu I H32, hier S. 368.</p>
+				<p>31Wann es angelegt wurde, läßt sich nur vermuten: vor oder während der Arbeit an diesem Mundum entstanden die Handschriften I H10, I H29, I H31, I H33, I H34 (8. 12.), I H40, I H34a (ab 23. 12.), von denen hier nur einige in die Textdokumentation aufgenommen werden konnten. Vgl. hier S. 339-360.</p>
+				<p>32Gespräche III,2,240.</p>
+				<p>33WA III,11,134.</p>
+				<p>34Am 18. 11. 1827 heißt es: "Mit dem letzteren [Eckermann] allein geblieben, vertraute ihm das Neuste vom Faust." (WA III,11,138).</p>
+				<p>35WA III,11,140.</p>
+				<p>36"Gegen Abend Dr. Eckermann vom zweyten Theil zu Faust vorgelegt und besprochen." (WA III,11,141).</p>
+				<p>37Vgl. WA III,11,143-156. </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> auszusprechen und ließ vielmehr alles in dem dichterischen Flusse hinlaufen, anzeigen und andeuten, soviel mir zur Klarheit und Faßlichkeit nöthig schien".<sup>38</sup> Schon am 1. Januar 1828 berichtet das Tagebuch dann vom Abschluß der `Mummenschanz'.<sup>39</sup> Es folgen jedoch weitere Überarbeitungen und Ergänzungen. Am 15. Januar heißt es dann wieder: "Dem Abschluß der Arbeit an Faust näher gerückt durch einige Einschaltung [...]. Sodann den Abschluß des Carnevals in Fausts 2. Theil",<sup>40</sup> und 10 Tage später schickt Goethe den Beginn des 1. Akts bis zum Ende der `Mummenschanz' an Reichel nach Augsburg.<sup>41</sup> Am 15. Februar folgen dann auch die Anfangsverse der Szene `Lustgarten' (5987-6036).<sup>42</sup> Die aus der Arbeit an dieser Szene vorhandenen Handschriften lassen ihre Entstehung um die Jahreswende vermuten; abgeschlossen wurde die Szene jedoch erst bis zum 27. 12. 1829.<sup>43</sup>
+				</p>
+				<p>Bis zum September 1828 fehlen während der folgenden Monate in den Tagebüchern alle Hinweise auf eine Weiterarbeit am `Faust'. In einem Gespräch über Fragen der `Produktivität' äußert Goethe nach dem Bericht Eckermanns am 11. März:</p>
+				<p>Jetzt, am zweiten Teil meines Faust, kann ich nur in den frühen Stunden des Tages arbeiten, wo ich mich vom Schlaf erquickt und gestärkt fühle und die Fratzen des täglichen Lebens mich noch nicht verwirrt haben. Und doch, was ist es, das ich ausführe! Im allerglücklichsten Fall 38WA IV,43,219.</p>
+				<p>39"Fausts dritte Scene abgeschlossen. Übergang zu der vierten." (WA III,11,157).</p>
+				<p>40 WA III,11,165. Am 18. 1. 1828 verzeichnet das Tagebuch dann erneute Durchsicht des Entstandenen: "[Mit Riemer] die Faustischen Scenen nochmals durchgegangen." (WA III,11,166).</p>
+				<p>41Vgl. WA III,11,170 und WA IV,51,544. Am 24. 1. 1828 berichtet Goethe in einem Briefan Zelter: "Drey bis vier Scenen des <i>zweyten Theils von Faust</i> sind nach Augsburg abgegangen; möchtet ihr, wenn sie gedruckt erscheinen, in den Strömungen des Lebens diesen Darstellungen einige Augenblicke widmen können! Ich fahre fort an dieser Arbeit, denn ich möchte gar zu gern die zwey ersten Acte fertig bringen, damit Helena als dritter Act sich ganz ungezwungen anschlösse und, genugsam vorbereitet, nicht mehr phantasmagorisch und eingeschoben, sondern in ästhetisch-vernunftgemäßer Folge sich erweisen könnte. Was gelingen kann, müssen wir abwarten." (WA IV,43,262).</p>
+				<p>42WA IV,43,279.</p>
+				<p>43Von den überlieferten Blättern (I H38, I H43-46, I Hl, I Hm) lassen sich I H43 auf ein Datum nach dem 22. 12. 1827, I H45 auf Ende Dezember 1827 datieren. Einige kaum noch zu entziffernde, radierte Bleistiftspuren auf I Hm lassen sich vielleicht mit einem Tagebucheintrag vom 25. 12. 1827 in Verbindung bringen. Diese Handschrift aus dem Nachlaß Rudolf Brockhaus befindet sich heute in der Bibliotheca Bodmeriana in Genf-Cologny. Die datierbaren Blätter bieten jedoch alle Entwürfe nur bis zu Vers 6036; diesen Teil der Szene `Lustgarten' hatte Goethe im Februar 1828 bereits vollendet und zur Veröffentlichung in der Ausgabe letzter Hand vorgesehen. Die eigentliche Papiergeldszene aber fehlt hier noch. Das einzige Blatt, das Entwürfe zu diesem zweiten Teil der Szene `Lustgarten' aufweist (I H46), ist nicht zu datieren. Über die Entstehungszeit dieser Verse also wissen wir nichts Genaues, zum Abschluß der Szene im Dezember 1829 vgl. Eckermann, 27. 12. 1829. Die
+					Entstehungsgeschichte widerlegt die lange herrschende Auffassung, daß in der Papiergeldszene der Ausgangspunkt für die Mummenschanz zu finden sei: "Auch in allen Gesamtkonzeptionen, Skizzen und Inhaltsangaben fehlt aufschlußreicherweise gerade diese angeblich den Sinn des Flammenspiels erhellende Papiergeldszene." (Emrich, Symbolik, S. 223.) </p>
+				<p> Zweiter Teil, Akt 1</p>
+				<p> eine geschriebene Seite; in der Regel aber nur so viel, als man auf den Raum einer Handbreit schreiben könnte, und oft, bei unproduktiver Stimmung, noch weniger.<sup>44</sup>
+				</p>
+				<p>Am 14. Juni dieses Jahres stirbt Großherzog Carl August; Anfang Juli zieht Goethe sich nach Dornburg zurück und schreibt von dort an Zelter:</p>
+				<p>Meine nahe Hoffnung, euch zu Michael die Fortsetzung von Faust zu geben, wird mir denn auch durch diese Ereignisse vereitelt. [...] Der Anfang des zweyten Acts ist gelungen; wir wollen dieß ganz bescheiden aussprechen, weil wir ihn, wenn er nicht dastünde, nicht machen würden. Es kommt nun darauf an, den ersten Act zu schließen, der bis auf's letzte Detail erfunden ist und ohne dieses Unheil auch schon in behaglichen Reimen ausgeführt stünde. Das müssen wir denn auch der vorschwebenden Zeit überlassen.<sup>45</sup>
+				</p>
+				<p>Im Winter 1828, vor allem aber im Frühjahr 1829 bezeugt das Tagebuch Goethes Auseinandersetzung mit den Aufführungsplänen zu `Faust. Erster Teil.' Nach der Uraufführung vom 19. 1. 1829 in Braunschweig<sup>46</sup> wurde in den folgenden Monaten auch eine Weimarer Aufführung vorbereitet, die Ende August 1829 auf die Bühne gebracht wurde.<sup>47</sup> Die mit Goethes Rückkehr aus Dornburg im September 1828 wieder einsetzenden Tagebucheinträge über die Arbeit am `Hauptgeschäft' jedoch, die sowohl von Pniower als auch von Gräf für die Arbeit am `Faust' in Anspruch genommen werden, sind keineswegs mit Sicherheit auf diesen zu beziehen.<sup>48</sup> Mit auffallender Regelmäßigkeit findet sich vom 18. 9. 1828 bis zum 7. 2. des folgenden Jahres der Tagebucheintrag "am Hauptgeschäft". Wenn es sich hier jeweils um Arbeit am Zweiten Teil des `Faust' gehandelt hätte, müßte er in diesen Monaten um ein beträchtliches vorgerückt sein. Außer den Tagebucheintragungen zum
+					`Hauptgeschäft' gibt es in dieser Zeit jedoch keinerlei weitere Anhaltspunkte für Goethes Beschäftigung mit der Fortsetzung des `Faust II'; von den datierbaren Handschriften weist nicht eine einzige in diesen Zeitraum. Dagegen bezeugen Tagebücher und Nachlaßpapiere, daß Goethe in eben diesen Monaten intensiv mit der Umarbeitung der `Wanderjahre' für die Ausgabe letzter Hand beschäftigt war; zeitgleich mit dem Abschluß dieser Arbei 44Eckermann, 11. 3. 1828. Eckermanns Tagebuch bestätigt das Datum dieses wichtigen Gesprächs: "Dienstag, den 11. März, abends bei Goethe, interessantes Gespräch, Produktivität, Genie, Napoleon, Preußen."</p>
+				<p>45WA IV,44,226f.</p>
+				<p>46Vgl. Gräf, S. 474.</p>
+				<p>47Vgl. hier S. 265.</p>
+				<p>48Zu Goethes Gebrauch des Terminus `Hauptgeschäft' vgl. Curt Schmieden (Was bedeutet der Terminus `Hauptgeschäft' in Goethes Tagebüchern, S. 288f.), der eine Beziehung auf die Arbeit am `Faust' für unwahrscheinlich hält: "Vom 13. September 1828 an tritt das Wort `Hauptgeschäft' plötzlich wieder sehr oft, fast täglich auf: es ist die Zeit nach der Rückkehr von Dornburg, in welcher Goethe den Wilhelm Meister umgearbeitet hat." Vgl. dagegen aber Waltraud Hagen (Abermals zum Terminus `Hauptgeschäft' in Goethes Tagebüchern), die Schmiedens These, der Terminus `Hauptgeschäft' beziehe sich "immer auf die Ausgabe letzter Hand", überzeugend zurückweist. Keineswegs zwingend scheint mir jedoch ihre Ablehnung einer Beziehung dieses Ter- minus in den Tagebucheintragungen ab September 1828 auf die Arbeit an den `Wanderjahren': Zur Entstehungsgeschichte</p>
+				<p> ten im Februar 1829 hören auch die Tagebucheinträge über die Arbeit „am Hauptgeschäft" auf. Die nächsten handschriftlichen Zeugnisse der fortgesetzten Arbeit am `Faust' stammen erst aus dem August 1829, und Anfang September meldet das Tagebuch dann zum ersten Mal seit langer Zeit wieder "Einiges am Faust."<sup>49</sup> Der nach Abschluß des Beginns des 1. Aktes bereits im Januar 1828 in einem Brief an Zelter ausgesprochene Vorsatz "Ich fahre fort an dieser Arbeit, denn ich möchte gar zu gern die zwey ersten Acte fertig bringen, damit Helena als dritter Act sich ganz ungezwungen anschlösse [...]"<sup>50</sup> wird knapp zwei Jahre später fast unverändert wiederholt: </p>
+				<p>Mit dem alten Faust bin ich zeither in Connexion geblieben und habe, in der letzten Zeit [seit Ende August!], ihn und seine Gesellschaft besonders cultivirt. Meine einzige Sorge und Bemühung ist nun: die zwey ersten Acte fertig zu bringen damit sie sich an den dritten, welcher eigentlich das bekannte Drama, <i>Helena</i> betitelt, in sich faßt, klüglich und weislich anschließen mögen.<sup>51</sup>
+				</p>
+				<p>Finstere Galerie (V.6173-6306)</p>
+				<p>Hell erleuchtete Säle (V.6307-6376)</p>
+				<p>Rittersaal (V.6377-6566)</p>
+				<p>Aus der Arbeit an der Szene `Finstere Galerie' sind uns nur wenige Handschriften überliefert (I H47-50 sowie I Hn). I H49, I H50 und I H48 gehören zu den Vorarbeiten. Bei I H47 handelt es sich dagegen um das Mundum der Szene, niedergeschrieben zunächst noch ohne die Verse 6173-6182, 6231-6238 und 6267-6282, die nachträglich eingefügt wurden. Die einzige Handschrift zu dieser Szene, die einen äußeren Anhaltspunkt für die Datierung liefert, I Hn<sup>52</sup> (nach dem 3. 9. 1829), ist sicher vor diesem Mundum entstanden, für das so ebenfalls der terminus post quem 3. 9. 1829 gilt. Im Herbst 1829 ist Goethe also mit der Szene `Finstere Galerie' noch beschäftigt.</p>
+				<p>Die Tatsache, daß Goethe den Beginn der Arbeit am 13. September mit den Worten `Wieder- Angriff der Wanderjahre' (WA III,11,278) vermerkt, kann durchaus nicht als Beweis dafür herangezogen werden, daß Goethe diese Arbeit nie unter dem Stichwort `Hauptgeschäft' verzeichnete (vgl. Hagen, Hauptgeschäft, S.287). Weder Schmieden noch Hagen berücksichtigen die Überlegungen von Hertz, der schon 1924 zu dem Resultat gekommen ist, daß "an eine Arbeit [am Faust] nach dem 19. September [...] nicht zu denken [ist] [...]. Das Hauptgeschäft waren [...] in diesem Zeitraum ausschließlich die `Wanderjahre', nicht der `Faust'" (Hertz, Natur und Geist, S. 157).</p>
+				<p>49WA III,12,123.</p>
+				<p>50WA IV,43,262.</p>
+				<p>51An Zelter am 16. 12. 1829 (WA IV,46,183). Die Übereinstimmung der beiden Briefstellen hat schon Hertz herangezogen, um die Auffassung zu stützen, daß seit der Veröffentlichung der ersten Hälfte des ersten Aktes bis in die Herbstmonate 1829 die Arbeit am `Faust' keine wesentlichen Fortschritte machte. (Hertz, Natur und Geist, S. 158).</p>
+				<p>52I Hn enthält P121 und die Verse 6239-6246 auf der Rückseite einer Quittung vom 3. 9. 1829. Vgl. hier S. 348f.</p>
+				<p>Während für die Szene `Hell erleuchtete Säle' datierbare Handschriften fehlen, weisen die datierbaren Handschriften zur Szene `Rittersaal' ausnahmslos auf den August 1829.<sup>53</sup> Beide Szenen sind am 30. 12. dieses Jahres vollendet.<sup>54</sup> Die Szene `Finstere Galerie' dagegen beschäftigte Goethe noch bis zum 10. Januar des neuen Jahres. Mit der Vollendung dieser Szene ist im Januar 1830 die Arbeit am 1. Akt dann abgeschlossen.<sup>55</sup>
+				</p>
+				<p> 53Für I H59 gilt die Datierung auf einen Zeitpunkt ab dem 11. 8. 1829, für I H56 und I H57 ab 29. 8. 1829; und für I H60 ab 28./30. 8. 1829.</p>
+				<p>54Vgl. den Bericht Eckermanns vom 30. 12. 1829.</p>
+				<p>55Vgl. wiederum Eckermanns Bericht vom 30. 12. 1829: "Was aber Faust unternehmen muß um die Erscheinung [von Paris und Helena] möglich zu machen, ist noch nicht ganz vollendet, und ich lese es Ihnen das nächste Mal." In den folgenden Tagen hat Goethe die Szene vollendet; vom 10. Januar des neuen Jahres berichtet Eckermann: "Heute zum Nachtisch bereitete Goethe mir einen hohen Genuß, indem er mir die Szene vorlas, wo Faust zu den `Müttern' geht." </p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

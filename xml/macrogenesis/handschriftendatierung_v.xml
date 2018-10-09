@@ -1,0 +1,2486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+   <!--  / 25/XVIII,7,1 /  / V H1a (Findbuch), V H39 (Landeck) /  -->
+   <date notBefore="1831-04-25">
+      <comment>Bezug auf Tagebuch auf Hs. Konzept zu Tagebuchnotiz zum 24.4.1831. gehörte
+         ursprünglich mit 25/XVIII,8,2 und 25/XVIII,8,3 zu einem Blatt.</comment>
+      <source uri="faust://bibliography/landeck1981">S.85-86</source>
+      <item uri="faust://document/landeck/2_V_H.39"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,1a /  / (oS) /  -->
+   <!--  / 25/XVIII,7,2 /  / V H1 (V H.1I Landeck) /  -->
+   <date notAfter="1831-05-04">
+      <comment>Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <source uri="faust://bibliography/landeck1981">S.100-101</source>
+      <item uri="faust://document/landeck/2_V_H.1I"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1831-04-30" notAfter="1831-05-17">
+      <comment>April-Mai 1831</comment>
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <item uri="faust://document/wa/2_V_H.1"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://document/landeck/2_V_H.1I"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <comment>Textentwicklung (z.B. 11400)</comment>
+      <source uri="faust://self"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://document/wa/2_V_H.1"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.100-101</source>
+      <item uri="faust://document/landeck/2_V_H.1I"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,2 /  / V H1 (V H1.II Landeck) /  -->
+   <date to="1831-05-04" notAfter="1831-05-04">
+      <comment>. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <comment>April bis Anfang Mai 1831</comment>
+      <source uri="faust://bibliography/landeck1981">S.105-106</source>
+      <item uri="faust://document/landeck/2_V_H.1II"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.105-106</source>
+      <item uri="faust://document/wa/2_V_H.a"/>
+      <item uri="faust://document/landeck/2_V_H.1II"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.105-106</source>
+      <item uri="faust://document/landeck/2_V_H.1II"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,2 /  / V H1 (V H1.III Landeck) /  -->
+   <date to="1831-05-04" notAfter="1831-05-04">
+      <comment>. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <comment>April bis Anfang Mai 1831</comment>
+      <source uri="faust://bibliography/landeck1981">S.111</source>
+      <item uri="faust://document/landeck/2_V_H.1III"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://document/landeck/2_V_H.1III"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.111</source>
+      <item uri="faust://document/landeck/2_V_H.1III"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,3 /  / V H2 /  -->
+   <date notBefore="1825-03-13" notAfter="1825-03-16">
+      <comment>Tagebuch, 13.-16.03.1825. . .</comment>
+      <comment>Frühjahr 1825</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.785-786</source>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1826-03-12" notAfter="1826-04-19">
+      <source uri="faust://bibliography/landeck1981">S.80-81</source>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1826-03-12" notAfter="1826-04-18">
+      <source uri="faust://bibliography/hertz1932">S.248,263-265</source>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1826-03-14" notAfter="1826-04-27">
+      <comment>März-April 1826</comment>
+      <source uri="faust://bibliography/hohlfeld1955">S.285-286</source>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,4 /  / V H3alpha /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/wa_I_15_2">S.153-154</source>
+      <item uri="faust://document/wa/2_V_H.3alpha"/>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.3"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,4 /  / V H3 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-04-05">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.3"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763"/></source>
+      <source uri="faust://bibliography/landeck1981">S.114</source>
+      <source uri="faust://bibliography/bluhm1966">S.15</source>
+      <item uri="faust://document/wa/2_V_H.3"/>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/wa_I_15_2">S.153-154</source>
+      <source uri="faust://bibliography/bluhm1966">S.8-9</source>
+      <source uri="faust://bibliography/landeck1981">S.112-113</source>
+      <comment>Relative Chronologie. . .</comment>
+      <comment>1. und 2. Konzept nach Landeck, 1. und 3. nach WA</comment>
+      <item uri="faust://document/wa/2_V_H.3alpha"/>
+      <item uri="faust://document/wa/2_V_H.3"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bluhm1966">S.8-9</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.3"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bluhm1966">S.8</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/P194"/>
+      <item uri="faust://document/wa/2_V_H.3"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,5 /  / V H4 /  -->
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
+      <comment>Frühjahr 1825</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-19" notAfter="1825-03-04">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.123-124</source>
+      <item uri="faust://document/wa/2_V_H.9"/>
+      <item uri="faust://inscription/wa/2_V_H.4/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.123-124</source>
+      <item uri="faust://document/wa/2_V_H.10"/>
+      <item uri="faust://inscription/wa/2_V_H.4/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932 S.256).</comment>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.9"/>
+      <item uri="faust://document/wa/2_V_H.25"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.5"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.6"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,6 /  / V H5 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-04-05">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.5"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.5"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.5"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/duentzer1891b">S.362-363</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.5"/>
+      <item uri="faust://document/wa/2_V_H.6"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,7 /  / V H6 /  -->
+   <date type="normalized" notBefore="1825-02-25" notAfter="1825-04-05">
+      <comment>Bezug auf Brief auf Hs; Relative Chronologie. auf Vorderseite Briefabschrift Goethe
+         an Schiller, 25.04.1805 (John) vom 17.01.1825. zu IV H.6 gehört ferner
+         25/XVIII,5,7:1.</comment>
+      <source uri="faust://bibliography/hertz1932">S.256-258,248,263</source>
+      <item uri="faust://document/wa/2_V_H.6"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1825-02-25" notAfter="1825-04-05">
+      <comment>Bezug auf Brief auf Hs; Relative Chronologie. auf Vorderseite Briefabschrift Goethe
+         an Schiller, 25.04.1805 (John) vom 17.01.1825. zu IV H.6 gehört ferner
+         25/XVIII,5,7:1.</comment>
+      <comment>erstes Drittel 1825</comment>
+      <source uri="faust://bibliography/landeck1981">S.117-118</source>
+      <item uri="faust://document/wa/2_V_H.6"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/duentzer1891b">S.362-363</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Bezug auf Brief auf Hs; Relative Chronologie. auf Vorderseite Briefabschrift Goethe
+         an Schiller, 25.04.1805 (John) vom 17.01.1825. zu IV H.6 gehört ferner
+         25/XVIII,5,7:1.</comment>
+      <item uri="faust://document/wa/2_V_H.6"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/duentzer1891b">S.362-363</source>
+      <source uri="faust://bibliography/hertz1932">S.256-258</source>
+      <source uri="faust://bibliography/bluhm1966">S.15-18</source>
+      <source uri="faust://bibliography/landeck1981">S.117-118</source>
+      <comment>Bezug auf Brief auf Hs; Relative Chronologie. auf Vorderseite Briefabschrift Goethe
+         an Schiller, 25.04.1805 (John) vom 17.01.1825. zu IV H.6 gehört ferner
+         25/XVIII,5,7:1.</comment>
+      <item uri="faust://document/wa/2_V_H.5"/>
+      <item uri="faust://document/wa/2_V_H.6"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.117-118</source>
+      <comment>Bezug auf Brief auf Hs; Relative Chronologie. auf Vorderseite Briefabschrift Goethe
+         an Schiller, 25.04.1805 (John) vom 17.01.1825. zu IV H.6 gehört ferner
+         25/XVIII,5,7:1.</comment>
+      <item uri="faust://document/wa/2_V_H.6"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.117-118</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Bezug auf Brief auf Hs; Relative Chronologie. auf Vorderseite Briefabschrift Goethe
+         an Schiller, 25.04.1805 (John) vom 17.01.1825. zu IV H.6 gehört ferner
+         25/XVIII,5,7:1.</comment>
+      <item uri="faust://document/wa/2_V_H.3"/>
+      <item uri="faust://document/wa/2_V_H.6"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,8 /  / V H7 /  -->
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
+      <comment>Relative Chronologie. . .</comment>
+      <source uri="faust://bibliography/hertz1932">S.258,248,263</source>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-26">
+      <comment>Relative Chronologie. . .</comment>
+      <source uri="faust://bibliography/landeck1981">S.119</source>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/duentzer1891b">S.362-363</source>
+      <source uri="faust://bibliography/hertz1932">S.256-258</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . .</comment>
+      <source uri="faust://self"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <source uri="faust://self"/>
+      <source uri="faust://bibliography/landeck1981">S.119</source>
+      <source uri="faust://bibliography/hertz1932">S.258</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.6"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <source uri="faust://bibliography/landeck1981">S.119</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.5"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,9 /  / V H8 /  -->
+   <date notBefore="1825-02-19" notAfter="1825-03-04">
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-26">
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <source uri="faust://bibliography/landeck1981">S.121</source>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.121</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://document/wa/2_V_H.3"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.121</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.121</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://document/wa/2_V_H.5"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.121</source>
+      <item uri="faust://document/wa/2_V_H.6"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.9"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.25"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,10 /  / V H9 /  -->
+   <date notBefore="1825-02-26" notAfter="1825-03-07">
+      <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
+         Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
+         (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
+         überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <comment>Februar oder März 1825</comment>
+      <source uri="faust://faust://bibliography/wa_I_15_2">S.147</source>
+      <item uri="faust://document/wa/2_V_H.9"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-19" notAfter="1825-03-04">
+      <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
+         Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
+         (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
+         überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <source uri="faust://bibliography/hertz1932">S.253-254,256</source>
+      <item uri="faust://document/wa/2_V_H.9"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-26" notAfter="1825-03-04">
+      <source uri="faust://bibliography/landeck1981">S.122</source>
+      <item uri="faust://document/wa/2_V_H.9"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.122</source>
+      <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
+         Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
+         (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
+         überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://document/wa/2_V_H.7"/>
+      <item uri="faust://document/wa/2_V_H.9"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.253-254,256</source>
+      <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
+         Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
+         (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
+         überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://document/wa/2_V_H.9"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.253-254,256</source>
+      <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
+         Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
+         (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
+         überein" (faust://bibliography/hertz1932">S.256).</comment>
+      <item uri="faust://document/wa/2_V_H.9"/>
+      <item uri="faust://document/wa/2_V_H.25"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,11 /  / V H10 /  -->
+   <date notBefore="1825-02-26" notAfter="1825-03-07">
+      <comment>Ende Februar, Anfang März 1825</comment>
+      <source uri="faust://bibliography/landeck1981">S.124</source>
+      <item uri="faust://document/wa/2_V_H.10"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>Relative Chronologie. . ursprünglich ein Bogen mit 25/XVIII,7,14; Zeichnung auf Vs:
+         CGZ VIB, N23.</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.10"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/landeck1981">S.123-124</source>
+      <comment>Relative Chronologie. . ursprünglich ein Bogen mit 25/XVIII,7,14; Zeichnung auf Vs:
+         CGZ VIB, N23.</comment>
+      <item uri="faust://document/wa/2_V_H.9"/>
+      <item uri="faust://document/wa/2_V_H.10"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie. . ursprünglich ein Bogen mit 25/XVIII,7,14; Zeichnung auf Vs:
+         CGZ VIB, N23.</comment>
+      <item uri="faust://document/wa/2_V_H.10"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,12 /  / V H11 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.11"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.125</source>
+      <comment>Relative Chronologie. . "Wie die Risskanten zeigen haben H11 und H 13 ursprünglich
+         zusammengehört" (faust://bibliography/landeck1981 S.125, A. 1).</comment>
+      <item uri="faust://document/wa/2_V_H.11/"/>
+      <item uri="faust://document/wa/2_V_H.12"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie. . "Wie die Risskanten zeigen haben H11 und H 13 ursprünglich
+         zusammengehört" (faust://bibliography/landeck1981 S.125, A. 1).</comment>
+      <item uri="faust://document/wa/2_V_H.11"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,13:1 /  / V H12 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>Relative Chronologie; Bezug auf Zeichnung auf Hs. . .</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.12"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-03-02" notAfter="1825-03-07">
+      <comment>Relative Chronologie; Bezug auf Zeichnung auf Hs. . .</comment>
+      <comment>Anfang März 1825</comment>
+      <source uri="faust://bibliography/landeck1981">S.126-127</source>
+      <item uri="faust://document/wa/2_V_H.12"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.126-127</source>
+      <comment>Relative Chronologie; Bezug auf Zeichnung auf Hs. . .</comment>
+      <item uri="faust://document/wa/2_V_H.11"/>
+      <item uri="faust://document/wa/2_V_H.12"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie; Bezug auf Zeichnung auf Hs. . .</comment>
+      <item uri="faust://document/wa/2_V_H.12"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,13:2 /  / V H12 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>Relative Chronologie. Zeichnung beziehbar auf Tgb 02.03.1825 oder 07.03.1825.
+         Zeichnung auf Bl. 2, Rs: CGZ Iva, 178.</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.12"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.126-127</source>
+      <comment>Relative Chronologie. Zeichnung beziehbar auf Tgb 02.03.1825 oder 07.03.1825.
+         Zeichnung auf Bl. 2, Rs: CGZ Iva, 178.</comment>
+      <item uri="faust://document/wa/2_V_H.11"/>
+      <item uri="faust://document/wa/2_V_H.12"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie. Zeichnung beziehbar auf Tgb 02.03.1825 oder 07.03.1825.
+         Zeichnung auf Bl. 2, Rs: CGZ Iva, 178.</comment>
+      <item uri="faust://document/wa/2_V_H.12"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,14 /  / V H13 (Vs) /  / 25/XVIII,7,14 /  / V H13 (Rs) -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>Relative Chronologie. Zeichnung beziehbar auf Tgb 02.03.1825 oder 07.03.1825.
+         Zeichnung auf Bl. 2, Rs: CGZ Iva, 178.</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.13/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-03-02" notAfter="1825-03-07">
+      <comment>in den ersten Märztagen</comment>
+      <source uri="faust://bibliography/landeck1981">S.128-129</source>
+      <item uri="faust://inscription/wa/2_V_H.13/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-03-31">
+      <source uri="faust://bohnenkamp">S. 748</source>
+      <comment>Szene Mitternacht im Frühjahr 1825 entstanden</comment>
+      <item uri="faust://document/wa/2_V_H.3"/>
+      <item uri="faust://document/wa/2_V_H.4"/>
+      <item uri="faust://document/wa/2_V_H.5"/>
+      <item uri="faust://document/wa/2_V_H.6"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+      <item uri="faust://document/wa/2_V_H.8"/>
+      <item uri="faust://document/wa/2_V_H.10"/>
+      <item uri="faust://document/wa/2_V_H.11"/>
+      <item uri="faust://document/wa/2_V_H.12"/>
+      <item uri="faust://document/wa/2_V_H.13"/>
+      <item uri="faust://document/wa/2_V_H.14"/>
+      <item uri="faust://document/wa/2_V_H.15"/>
+      <item uri="faust://document/wa/2_V_H.17"/>
+      <item uri="faust://document/wa/2_V_H.20"/>
+      <item uri="faust://document/wa/2_V_H.22"/>
+      <item uri="faust://document/wa/2_V_H.21"/>
+      <item uri="faust://document/wa/2_V_H.23"/>
+      <item uri="faust://document/wa/2_V_H.24"/>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.27"/>
+      <item uri="faust://document/wa/2_V_H.28"/>
+      <item uri="faust://document/wa/2_V_H.29"/>
+      <item uri="faust://document/wa/2_V_H.30"/>
+      <item uri="faust://document/wa/2_V_H.32"/>
+      <item uri="faust://document/wa/2_V_H.31"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </date>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.4"/>
+      <item uri="faust://document/faustedition/2_V_H.5"/>
+      <item uri="faust://document/faustedition/2_V_H.6"/>
+      <item uri="faust://document/faustedition/2_V_H.8"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.6"/>
+      <item uri="faust://document/faustedition/2_V_H.7"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.9"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.10"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.11"/>
+      <item uri="faust://document/faustedition/2_V_H.12:1"/>
+      <item uri="faust://document/faustedition/2_V_H.13"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.12:2"/>
+      <item uri="faust://document/faustedition/2_V_H.13"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.13"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.15"/>
+      <item uri="faust://document/faustedition/2_V_H.14"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.16"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/faustedition/2_V_H.18"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.129</source>
+      <item uri="faust://document/wa/2_V_H.3"/>
+      <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.5"/>
+      <item uri="faust://document/wa/2_V_H.6"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.7"/>
+      <item uri="faust://document/wa/2_V_H.9"/>
+      <item uri="faust://document/wa/2_V_H.10"/>
+      <item uri="faust://document/wa/2_V_H.11"/>
+      <item uri="faust://document/wa/2_V_H.12"/>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.13/i_r"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.128-131</source>
+      <comment>Relative Chronologie. . ursprünglich ein Bogen mit 25/XVIII,7,12.</comment>
+      <item uri="faust://inscription/wa/2_V_H.13/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <date notBefore="1825-03-14">
+      <comment>Bezug auf Notiz auf Hs. Notiz "Quednow" auf HS.ursprünglich ein Bogen mit
+         25/XVIII,7,12.</comment>
+      <source uri="faust://bibliography/landeck1981">S.131</source>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.131</source>
+      <comment>Bezug auf Notiz auf Hs. Notiz "Quednow" auf HS.ursprünglich ein Bogen mit
+         25/XVIII,7,12.</comment>
+      <item uri="faust://document/wa/2_V_H.15"/>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.131</source>
+      <comment>Bezug auf Notiz auf Hs. Notiz "Quednow" auf HS.ursprünglich ein Bogen mit
+         25/XVIII,7,12.</comment>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+      <item uri="faust://document/wa/2_V_H.14"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <comment>Bezug auf Notiz auf Hs. Notiz "Quednow" auf HS.ursprünglich ein Bogen mit
+         25/XVIII,7,12.</comment>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+      <item uri="faust://document/wa/2_V_H.14"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,15 /  / V H14 /  -->
+   <date type="normalized" notBefore="1825-02-27" notAfter="1825-03-14">
+      <comment>Relative Chronologie; Bezug auf Notiz auf Hs. Notiz zu "Kunst und Altertum" auf
+         Vs..</comment>
+      <source uri="faust://bibliography/hertz1932">S.255</source>
+      <item uri="faust://document/wa/2_V_H.14"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-03-14">
+      <comment>Relative Chronologie; Bezug auf Notiz auf Hs. Notiz zu "Kunst und Altertum" auf
+         Vs..</comment>
+      <source uri="faust://bibliography/landeck1981">S.133</source>
+      <item uri="faust://document/wa/2_V_H.14"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.133</source>
+      <comment>Relative Chronologie; Bezug auf Notiz auf Hs. Notiz zu "Kunst und Altertum" auf Vs.
+         .</comment>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+      <item uri="faust://document/wa/2_V_H.14"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,16 /  / V H15 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>Relative Chronologie. Zeichnung beziehbar auf Tgb 02.03.1825 oder 07.03.1825.
+         Zeichnung auf Bl. 2, Rs: CGZ Iva, 178.</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263,253</source>
+      <item uri="faust://document/wa/2_V_H.15"/>
+   </date>
+   <!-- geprüft -->
+   <date notAfter="1825-03-12">
+      <comment>Bezug auf Brief auf Hs. Auf der Rückseite Bibliotheksanfrage vom
+         12.03.1825..</comment>
+      <source uri="faust://bibliography/landeck1981">S.135</source>
+      <item uri="faust://document/wa/2_V_H.15"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.134</source>
+      <comment>Bezug auf Brief auf Hs. Auf der Rückseite Bibliotheksanfrage vom
+         12.03.1825..</comment>
+      <item uri="faust://document/wa/2_V_H.15"/>
+      <item uri="faust://inscription/wa/2_V_H.13/i_v"/>
+      </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,17:1 /  / V H16 /  -->
+   <date type="normalized" notBefore="1831-06-01" notAfter="1831-07-31">
+      <comment>Relative Chronologie. . Neufassung des Schlussmonologs.</comment>
+      <comment>Juni-Juli 1831</comment>
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <item uri="faust://document/wa/2_V_H.16"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1831-01-01" notAfter="1831-03-31">
+      <comment>Relative Chronologie. . Neufassung des Schlussmonologs.</comment>
+      <comment>erstes Drittel 1831</comment>
+      <source uri="faust://bibliography/landeck1981">S.136</source>
+      <item uri="faust://document/wa/2_V_H.16"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <source uri="faust://bibliography/landeck1981">S.136</source>
+      <comment>Relative Chronologie. . Neufassung des Schlussmonologs.</comment>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://document/wa/2_V_H.16"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.136</source>
+      <comment>Relative Chronologie. . Neufassung des Schlussmonologs.</comment>
+      <item uri="faust://document/wa/2_V_H.16"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,17:2 /  / (oS) /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/inventare_2_2">Sp.218</source>
+      <comment>Relative Chronologie. . Abschrift von V H16.</comment>
+      <item uri="faust://document/wa/2_V_H.16"/>
+      <item uri="faust://document/gsa_2/GSA_25-W_1714"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,18 /  / V H17 (Vs) /  / 25/XVIII,7,18 /  / V H17 (Rs) /  -->
+   <date type="normalized" notBefore="1825-02-22" notAfter="1825-03-04">
+      <comment>Bezug auf Brief auf Hs; Bezug auf Tgb. Konzept zu Briefan Beust vom 27.02.1825;
+         Tagebuch vom 26.03.1825. .</comment>
+      <source uri="faust://bibliography/hertz1932">S.254</source>
+      <item uri="faust://inscription/wa/2_V_H.17/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-03-26" notAfter="1825-03-26">
+      <comment>Bezug auf Brief auf Hs; Bezug auf Tgb. Konzept zu Briefan Beust vom 27.02.1825;
+         Tagebuch vom 26.03.1825. .</comment>
+      <comment>vor/am 26.02.1825</comment>
+      <source uri="faust://bibliography/landeck1981">S.137</source>
+      <item uri="faust://inscription/wa/2_V_H.17/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.137</source>
+      <comment>Bezug auf Brief auf Hs; Bezug auf Tgb. Konzept zu Briefan Beust vom 27.02.1825;
+         Tagebuch vom 26.03.1825. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.17/i_r"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,18 /  / V H17 (Rs) /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://inscription/wa/2_V_H.17/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-03-25" notAfter="1825-04-06">
+      <comment>Ende März, Anfang April</comment>
+      <source uri="faust://bibliography/landeck1981">S.140</source>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+      </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.140</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Entwurf-Reinschrift</comment>
+      <item uri="faust://document/faustedition/2_V_H.17/i_v"/>
+      <item uri="faust://document/faustedition/2_V_H.26a"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.140</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.26/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.140</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.140</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+      <item uri="faust://document/wa/2_V_H.b"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.140</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment></comment>
+      <item uri="faust://document/faustedition/2_V_H.17"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <!--  / 25/XVIII,7,19 /  / V H18 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.18"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.138</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.17/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+      <item uri="faust://document/wa/2_V_H.18"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,20 /  / V H19 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.19"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.142</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.20"/>
+      <item uri="faust://document/wa/2_V_H.19"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <source uri="faust://bibliography/landeck1981">S.142</source>
+      <comment>Relative Chronologie: 
+         „So muß angenommen werden, daß V H.25 bei der Abfassung von V H.19 bereits vorgelegen hat.“</comment>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.19"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.19"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.19"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,21 /  / V H20 /  -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/bohnenkamp1994">S.773</source>
+      <comment>"Da die ursprünglich zu einem Folioblatt gehörenden Stücke V H20 und V H22
+         erst nach der Beschriftung getrennt wurden"</comment>
+      <item uri="faust://document/wa/2_V_H.20"/>
+      <item uri="faust://document/wa/2_V_H.22"/>
+   </relation>
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.20"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.143-144</source>
+      <comment>Relative Chronologie. . ursprünglich ein Folioblatt mit V H.22
+         (25/XVIII,7,23).</comment>
+      <item uri="faust://document/wa/2_V_H.20"/>
+      <item uri="faust://document/wa/2_V_H.19"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie. . ursprünglich ein Folioblatt mit V H.22
+         (25/XVIII,7,23).</comment>
+      <item uri="faust://document/wa/2_V_H.20"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,22 /  / V H21 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.21"/>
+   </date>
+   <!-- geprüft -->
+   <date notAfter="1825-02-27">
+      <source uri="faust://bibliography/landeck1981">S.152</source>
+      <item uri="faust://document/wa/2_V_H.21"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.145-146</source>
+      <comment>Relative Chronologie. . ursprünglich ein Folioblatt mit V H.28
+         (25/XVIII,7,29).</comment>
+      <item uri="faust://document/wa/2_V_H.20"/>
+      <item uri="faust://document/wa/2_V_H.21"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.20"/>
+      <item uri="faust://document/faustedition/2_V_H.21"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.145-146</source>
+      <comment>Relative Chronologie. . ursprünglich ein Folioblatt mit V H.28
+         (25/XVIII,7,29).</comment>
+      <item uri="faust://document/wa/2_V_H.22"/>
+      <item uri="faust://document/wa/2_V_H.21"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.152</source>
+      <item uri="faust://document/wa/2_V_H.21"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.21"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <!--  / 25/XVIII,7,23 /  / V H22 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>Entstehungszeit des Szene "Grablegung", Februar bis April 1825 </comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.22"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>. Entstehungszeit des Szene "Grablegung", Februar bis April 1825. bildete
+         ursprünglich mit H.20 (25/XVIII,7,21) ein Folioblatt, das erst nach der Beschriftung
+         getrennt wurde.</comment>
+      <item uri="faust://document/wa/2_V_H.22"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.22"/>
+      <item uri="faust://document/faustedition/2_V_H.21"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Bleistift vor Tinte</comment>
+      <item uri="faust://document/faustedition/2_V_H.22"/>
+      <item uri="faust://document/faustedition/2_V_H.23"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.22"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment></comment>
+      <item uri="faust://document/faustedition/2_V_H.23"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+    <!--  / 25/XVIII,7,24 /  / V H23 /  -->
+   <date notBefore="1825-02-26" notAfter="1825-02-28">
+      <comment>Zeugnis. Tagebucheintrag Ende Februar 1825: Wiederaufnahme der Arbeiten am Faust.
+         Sammelblatt.</comment>
+      <comment>Ende Februar 1825 (unsicher)</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.760</source>
+      <item uri="faust://document/wa/2_V_H.23"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1825-02-01" notAfter="1825-02-10">
+      <comment>Zeugnis. Tagebucheintrag Ende Februar 1825: Wiederaufnahme der Arbeiten am Faust.
+         Sammelblatt.</comment>
+      <comment>Anfang Februar 1825</comment>
+      <source uri="faust://bibliography/landeck1981">S.175</source>
+      <item uri="faust://document/wa/2_V_H.23"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>frühes Entwurfsstadium der Szene "Grablegung"</comment>
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <item uri="faust://document/wa/2_V_H.23"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Zeugnis. Tagebucheintrag Ende Februar 1825: Wiederaufnahme der Arbeiten am Faust.
+         Sammelblatt.</comment>
+      <item uri="faust://document/wa/2_V_H.23"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,25 /  / V H24 (Vs) /  -->
+   <date notBefore="1825-02-10">
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <comment> nach 10./20. Februar 1825</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.765-766</source>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notAfter="1825-02-20">
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <comment> vor 10./20. Februar 1825</comment>
+      <source uri="faust://bibliography/landeck1981">S.153</source>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.254</source>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.152</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.24/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.153</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+      <item uri="faust://document/wa/2_V_H.22"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.153</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+      <item uri="faust://document/wa/2_V_H.32"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.254</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_v"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.254</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,25 /  / V H24 (Rs) /  -->
+   <date notAfter="1825-02-26">
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.766-767</source>
+      <item uri="faust://inscription/wa/2_V_H.24/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-27" notAfter="1825-02-27">
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <source uri="faust://bibliography/landeck1981">S.152</source>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date from="1825-02-25" to="1825-03-22">
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.152</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.24/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.152</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://document/wa/2_V_H.21"/>
+      <item uri="faust://inscription/wa/2_V_H.24/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte über Anstellung Schuchardts in der Weimarer
+         Bibliothek. .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_v"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,26 /  / V H25 /  -->
+   <date from="1825-02-19" to="1825-03-04">
+      <comment>Entstehung mit H9</comment>
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <item uri="faust://document/wa/2_V_H.25"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <comment>kurz vor</comment>
+      <source uri="faust://bibliography/landeck1981">S.155</source>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.19"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.25"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein"</comment>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/hertz1932">S.256</source>
+      <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
+         vollkommen überein"</comment>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.9"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,27 /  / V H26 (Vs) /  -->
+   <date notAfter="1825-04-06">
+      <comment>Relative Chronologie. . .</comment>
+      <source uri="faust://bibliography/landeck1981">S.156-157</source>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <comment>Relative Chronologie. . .</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.156-157</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.23"/>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.156-157</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.17/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.156-157</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+      <item uri="faust://document/wa/2_V_H.b"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/landeck1981">S.156-157</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/landeck1981">S.156-157</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.26/i_v"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,27 /  / V H26 (Rs) /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.254</source>
+      <item uri="faust://inscription/wa/2_V_H.26/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <date notAfter="1825-04-06">
+      <comment>Relative Chronologie. . .</comment>
+      <source uri="faust://bibliography/landeck1981">S.156-157</source>
+      <item uri="faust://inscription/wa/2_V_H.26/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.157</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.32"/>
+      <item uri="faust://inscription/wa/2_V_H.26/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.157</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.23"/>
+      <item uri="faust://inscription/wa/2_V_H.26/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.157</source>
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.26/i_r"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.157</source>
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.26/i_v"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,28 /  / V H27 /  -->
+   <date notBefore="1825-02-10">
+      <comment>Bezug auf Hs auf Hs. Entwurf zu "Versuch einer Witterungslehre 1825" auf Vs
+         (10.-17.02.1825, 27.02.1825). meteorologisches Fragment (LA I 11,253,33f).</comment>
+      <source uri="faust://bibliography/landeck1981">S.158</source>
+      <item uri="faust://document/wa/2_V_H.27"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-02-27">
+      <source uri="faust://bibliography/hertz1932">S.248,263,254</source>
+      <item uri="faust://document/wa/2_V_H.27"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.158</source>
+      <comment>Bezug auf Hs auf Hs. Entwurf zu "Versuch einer Witterungslehre 1825" auf Vs
+         (10.-17.02.1825, 27.02.1825). meteorologisches Fragment (LA I 11,253,33f).</comment>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.27"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.254</source>
+      <comment>Bezug auf Hs auf Hs. Entwurf zu "Versuch einer Witterungslehre 1825" auf Vs
+         (10.-17.02.1825, 27.02.1825). meteorologisches Fragment (LA I 11,253,33f).</comment>
+      <item uri="faust://document/wa/2_V_H.27"/>
+      <item uri="faust://document/wa/2_V_H.28"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.27"/>
+      <item uri="faust://document/faustedition/2_V_H.28"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Bezug auf Hs auf Hs. Entwurf zu "Versuch einer Witterungslehre 1825" auf Vs
+         (10.-17.02.1825, 27.02.1825). meteorologisches Fragment (LA I 11,253,33f).</comment>
+      <item uri="faust://document/wa/2_V_H.27"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.27"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <!--  / 25/XVIII,7,29 /  / V H28 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.254,248,263</source>
+      <item uri="faust://document/wa/2_V_H.28"/>
+   </date>
+   <!-- geprüft -->
+   <date type="normalized" notBefore="1825-02-22" notAfter="1825-03-04">
+      <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Staatsarchiv Hannover, um 27.2.1825.
+         bildete ursprünglich ein Folioblatt mit V H21.</comment>
+      <comment>um 27.2.1825, unsicher</comment>
+      <source uri="faust://bibliography/landeck1981">S.160</source>
+      <item uri="faust://document/wa/2_V_H.28"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.159-160</source>
+      <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Staatsarchiv Hannover, um 27.2.1825.
+         bildete ursprünglich ein Folioblatt mit V H21.</comment>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://document/wa/2_V_H.28"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.25"/>
+      <item uri="faust://document/faustedition/2_V_H.28"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.160</source>
+      <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Staatsarchiv Hannover, um 27.2.1825.
+         bildete ursprünglich ein Folioblatt mit V H21.</comment>
+      <comment>kurz nach</comment>
+      <item uri="faust://document/wa/2_V_H.27"/>
+      <item uri="faust://document/wa/2_V_H.28"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Staatsarchiv Hannover, um 27.2.1825.
+         bildete ursprünglich ein Folioblatt mit V H21.</comment>
+      <item uri="faust://document/wa/2_V_H.28"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Entwurf vor Abschrift</comment>
+      <item uri="faust://document/faustedition/2_V_H.28"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <!--  / 25/XVIII,7,30 /  / V H29 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://inscription/wa/2_V_H.29/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date from="1826-03-12" to="1826-04-18">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <item uri="faust://inscription/wa/2_V_H.29/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
+         denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
+         jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
+         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         Jahr 1826 (nach V H2).</comment>
+      <item uri="faust://document/wa/2_V_H.25"/>
+      <item uri="faust://inscription/wa/2_V_H.29/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <source uri="faust://bibliography/landeck1981">S.161-162</source>
+      <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
+         denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
+         jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
+         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         Jahr 1826 (nach V H2).</comment>
+      <comment>unmittelbar nach</comment>
+      <item uri="faust://document/wa/2_V_H.28"/>
+      <item uri="faust://inscription/wa/2_V_H.29/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <source uri="faust://bibliography/landeck1981">S.161-162</source>
+      <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
+         denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
+         jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
+         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         Jahr 1826 (nach V H2).</comment>
+      <comment>unmittelbar nach</comment>
+      <item uri="faust://document/wa/2_V_H.28"/>
+      <item uri="faust://inscription/wa/2_V_H.29/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
+         denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
+         jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
+         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         Jahr 1826 (nach V H2).</comment>
+      <comment>unmittelbar nach</comment>
+      <item uri="faust://document/wa/2_V_H.27"/>
+      <item uri="faust://inscription/wa/2_V_H.29/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
+         denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
+         jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
+         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         Jahr 1826 (nach V H2).</comment>
+      <comment>unmittelbar nach</comment>
+      <item uri="faust://document/wa/2_V_H.27"/>
+      <item uri="faust://inscription/wa/2_V_H.29/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <source uri="faust://bibliography/landeck1981">S.161-162</source>
+      <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
+         denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
+         jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
+         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         Jahr 1826 (nach V H2).</comment>
+      <item uri="faust://inscription/wa/2_V_H.29/i_v"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.258-260</source>
+      <source uri="faust://bibliography/landeck1981">S.161-162</source>
+      <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
+         denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
+         jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
+         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         Jahr 1826 (nach V H2).</comment>
+      <item uri="faust://inscription/wa/2_V_H.29/i_r"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,31 /  / V H30 /  -->
+   <date notAfter="1825-03-06">
+      <comment>Bezug auf Geschenkblatt. datiertes Geschenkblatt enthält Endfassung der in V H30
+         skizzierten Verse. Konzept zu Brief an F. Schlosser, 8.3.1825.</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.777</source>
+      <source uri="faust://bibliography/landeck1981">S.164</source>
+      <item uri="faust://document/wa/2_V_H.30"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.164-166</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.30"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.164-166</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_v"/>
+      <item uri="faust://document/wa/2_V_H.30"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.164-166</source>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+      <item uri="faust://document/wa/2_V_H.30"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/landeck1981">S.164-166</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.777</source>
+      <comment>Bezug auf Geschenkblatt. datiertes Geschenkblatt enthält Endfassung der in V H30
+         skizzierten Verse. Konzept zu Brief an F. Schlosser, 8.3.1825.</comment>
+      <item uri="faust://document/wa/2_V_H.30"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,32 /  / V H31 (Vs) /  -->
+   <date notBefore="1825-03-02" notAfter="1825-03-31">
+      <comment>März 1825</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.780</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-03-02" notAfter="1825-03-31">
+      <comment>März 1825</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.780</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-03-02" notAfter="1825-03-31">
+      <comment>März 1825</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.780</source>
+      <item uri="faust://inscription/wa/P230"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,262-263</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,262-263</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1826-04-10" notAfter="1826-04-10">
+      <comment>. Hertz bezieht Entstehung des Schlusschors auf Tagebucheintrag vom 10. April
+         1826..</comment>
+      <source uri="faust://bibliography/hertz1932">S.262-263,267-269 </source>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.167</source>
+      <item uri="faust://document/wa/2_V_H.32"/>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/landeck1981">S.167</source>
+      <comment>. ursprünglich Teil von V H2 (ersetzt durch Blatt k). .</comment>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/landeck1981">S.167</source>
+      <comment>. ursprünglich Teil von V H2 (ersetzt durch Blatt k). .</comment>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/landeck1981">S.167</source>
+      <comment>. ursprünglich Teil von V H2 (ersetzt durch Blatt k). .</comment>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+   </relation>
+   <!-- geprüft -->
+   <date notBefore="1826-03-14" notAfter="1826-04-27">
+      <comment>März/April 1826</comment>
+      <source uri="faust://bibliography/landeck1981">S.165,167</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1826-03-14" notAfter="1826-04-27">
+      <comment>März/April 1826</comment>
+      <source uri="faust://bibliography/landeck1981">S.165,167</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.168</source>
+      <comment>. . .</comment>
+      <item uri="faust://document/wa/2_V_H.30"/>
+      <item uri="faust://inscription/wa/2_V_H.31/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/landeck1981">S.165,167</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/landeck1981">S.165,167</source>
+      <item uri="faust://inscription/wa/2_V_H.31/i_v"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/landeck1981">S.165,167</source>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,33 /  / V H32 /  -->
+   <date notBefore="1825-02-25" notAfter="1825-03-22">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.32"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.170-171</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.24/i_r"/>
+      <item uri="faust://document/wa/2_V_H.32"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.170-171</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.32"/>
+      <item uri="faust://inscription/wa/2_V_H.31/i_r_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.170-171</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.32"/>
+      <item uri="faust://inscription/wa/2_V_H.31/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.170-171</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.32"/>
+      <item uri="faust://inscription/wa/P203/i_r_o"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/landeck1981">S.170-171</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_V_H.32"/>
+      <item uri="faust://document/wa/2_V_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Entwurf-Abschrift</comment>
+      <item uri="faust://document/faustedition/2_V_H.32"/>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <!--  / 25/XVIII,7,34 /  / V H33 /  -->
+   <date notBefore="1830-12-02" notAfter="1830-12-17">
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <comment>Anfang Dezember 1830</comment>
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1831-02-13">
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <item uri="faust://inscription/wa/2_V_H.33/i_3_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1831-02-13">
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <item uri="faust://inscription/wa/2_V_H.33/i_3_v"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.34"/>
+      <item uri="faust://document/landeck/2_V_H.33I"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.35"/>
+      <item uri="faust://document/landeck/2_V_H.33I"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.36"/>
+      <item uri="faust://document/landeck/2_V_H.33I"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.37"/>
+      <item uri="faust://document/landeck/2_V_H.33I"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.37"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_3_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.37"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_3_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_r"/>
+      <item uri="faust://document/wa/2_V_H.33I"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.33I"/>
+      <item uri="faust://inscription/wa/2_V_H.c/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.33I"/>
+      <item uri="faust://inscription/wa/2_V_H.c/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://document/wa/2_V_H.37"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_3_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1931">S.212</source>
+      <source uri="faust://bibliography/landeck1981">S.182-184</source>
+      <comment>Bezug auf Tgb; Relative Chronologie. an Eckermann gesandt und am 12.12.1830
+         zurückerhalten. ursprünglich gehörte 25/XVIII,7,36 zu Blatt 4 von 25/XVIII,7,34.</comment>
+      <item uri="faust://inscription/wa/2_V_H.33/i_3_r"/>
+      <item uri="faust://document/wa/2_V_H.36"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,34a /  / V H34 /  -->
+   <date notBefore="1830-12-01" notAfter="1830-12-17">
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/landeck1981">S.210</source>
+      <item uri="faust://document/wa/2_V_H.35"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.185</source>
+      <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Kräuter, 5.12.1830. Der Text ist vor oder
+         nach dem Brief entstanden (Landeck).</comment>
+      <item uri="faust://document/wa/2_V_H.34"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,35 /  / V H35 /  -->
+   <date type="normalized" from="1830-12-01" to="1830-12-10">
+      <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Kräuter, 5.12.1830. Der Text ist vor oder
+         nach dem Brief entstanden (Landeck).</comment>
+      <comment>um 05.12.1830</comment>
+      <source uri="faust://bibliography/hertz1931">S.211</source>
+      <source uri="faust://bibliography/landeck1981">S.185</source>
+      <item uri="faust://document/wa/2_V_H.34"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.187-188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://document/wa/2_V_H.35"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.187-188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://document/wa/2_V_H.35"/>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,36 /  / V H36 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.189</source>
+      <item uri="faust://document/wa/2_V_H.36"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,37 /  / V H37 /  -->
+   <date notBefore="1830-12-02" notAfter="1831-02-14">
+      <comment>Konzept zu Brief an Maria Pawlowna, 16.2.1831 (Konzept 14.02.1831); Tagebuch
+         13.02.1831</comment>
+      <comment>vor 14.02.1831; Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1931">S.212</source>
+      <item uri="faust://document/wa/2_V_H.37"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1831-02-13" notAfter="1831-02-13">
+      <comment>Zugehörigkeit zu genetischem Komplex; Bezug auf Brief auf Hs (Landeck). . .</comment>
+      <source uri="faust://bibliography/landeck1981">S.191</source>
+      <item uri="faust://document/wa/2_V_H.37"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,38 /  / V H38 /  -->
+   <date notBefore="1831-04-30" notAfter="1831-05-17">
+      <comment>Zugehörigkeit zu genetischem Komplex. . auf Paketumschlag für eine Sendung
+         Drucksachen mit Adresse Goethes.</comment>
+      <comment>Frühjahr 1831</comment>
+      <source uri="faust://bibliography/landeck1981">S.211</source>
+      <item uri="faust://document/wa/2_V_H.38"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.211</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . auf Paketumschlag für eine Sendung
+         Drucksachen mit Adresse Goethes.</comment>
+      <item uri="faust://document/wa/2_V_H.38"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,39 /  / V Hd /  -->
+   <date notAfter="1830-12-17">
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.793</source>
+      <item uri="faust://inscription/wa/2_V_H.d/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <date notAfter="1830-12-17">
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.793</source>
+      <item uri="faust://inscription/wa/2_V_H.d/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notAfter="1830-12-17">
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <source uri="faust://bibliography/landeck1981">S.198</source>
+      <item uri="faust://inscription/wa/2_V_H.d/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notAfter="1830-12-17">
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <source uri="faust://bibliography/landeck1981">S.198</source>
+      <item uri="faust://inscription/wa/2_V_H.d/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment></comment>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+      <item uri="faust://document/faustedition/2_V_H.37b"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.199</source>
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <item uri="faust://document/wa/2_V_H.e"/>
+      <item uri="faust://iscription/wa/2_V_H.d/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Entwurf-Reinschrift</comment>
+      <item uri="faust://document/faustedition/2_V_H.37b"/>
+      <item uri="faust://document/faustedition/2_V_H.37c"/>
+      </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Bleistift-Tinte</comment>
+      <item uri="faust://document/faustedition/2_V_H.37a"/>
+      <item uri="faust://document/faustedition/2_V_H.37c"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+      <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.198,188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.c/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.198,188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.c/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.198,188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.c/i_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.198,188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.c/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.198,188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_r"/>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.198,188</source>
+      <comment>Zugehörigkeit zu genetischem Komplex; Duktus. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_v"/>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,7,40 /  / V He /  -->
+   <date notBefore="1830-12-01" notAfter="1830-12-17">
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1932">S.263</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.790</source>
+      <item uri="faust://document/wa/2_V_H.e"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,1 / Beinecke Library, Yale / (oS) V Hi (Landeck) /  -->
+   <date notBefore="1831-04-30" notAfter="1831-05-17">
+      <comment>Bezug auf Tgb; Datierung auf Hs. Apr. 30.. .</comment>
+      <comment>April-Mai 1831</comment>
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <item uri="faust://document/landeck/2_V_H.i"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1831-04-06" notAfter="1831-04-30">
+      <comment>Bezug auf Tgb; Datierung auf Hs. Apr. 30.. .</comment>
+      <comment>zwischen 06.04. und 09.04.1831 (Entstehung), 30.04.1831 (Überarbeitung)</comment>
+      <source uri="faust://bibliography/landeck1981">S.88-89</source>
+      <item uri="faust://document/landeck/2_V_H.i"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.88-89</source>
+      <comment>Bezug auf Tgb; Datierung auf Hs. Apr. 30.. .</comment>
+      <item uri="faust://document/landeck/2_V_H.i"/>
+      <item uri="faust://document/landeck/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <comment>Bezug auf Tgb; Datierung auf Hs. Apr. 30.. .</comment>
+      <item uri="faust://document/wa/2_V_H.2"/>
+      <item uri="faust://document/landeck/2_V_H.i"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,2 / Düsseldorf, Goethe-Museum, Anton-und-Katharina-Kippenberg-Stiftung / (oS) V Hj  (Landeck) /  -->
+   <date notBefore="1831-03-25">
+      <comment>ab dem 25.03.1831</comment>
+      <source uri="faust://bibliography/landeck1981">S.91</source>
+      <item uri="faust://document/landeck/2_V_H.j"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.91</source>
+      <item uri="faust://document/landeck/2_V_H.i"/>
+      <item uri="faust://document/landeck/2_V_H.j"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.91</source>
+      <item uri="faust://document/wa/2_V_H.39"/>
+      <item uri="faust://document/landeck/2_V_H.j"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/landeck1981">S.91</source>
+      <item uri="faust://document/landeck/2_V_H.j"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,3 / Bibliotheca Bodmeriana, Cologny / (oS) V Hk (Landeck) /  -->
+   <!--  /  / Phialdelphia, Allison-Shelley Collection / (oS) V Hl (Landeck) /  -->
+   <!--  / 25/XVIII,8,4 / Sammlung Hirzel, B 497, Leipzig UB / V Ha /  -->
+   <date notBefore="1831-04-30" notAfter="1831-05-17">
+      <comment>Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <comment>April-Mai 1831</comment>
+      <source uri="faust://bibliography/hertz1932">S.262</source>
+      <item uri="faust://document/wa/2_V_H.a"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment>Textentwicklung</comment>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+      <item uri="faust://document/faustedition/2_V_H.1a"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <date notBefore="1830-02-12" notAfter="1831-05-17">
+      <comment>Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <comment>Ende 1830 bis Frühjahr 1831</comment>
+      <source uri="faust://bibliography/landeck1981">S.109-110</source>
+      <item uri="faust://document/wa/2_V_H.a"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.109-110</source>
+      <comment>Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <item uri="faust://document/wa/2_V_H.a"/>
+      <item uri="faust://document/landeck/2_V_H.1II"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.109-110</source>
+      <comment>Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <item uri="faust://document/wa/2_V_H.a"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,4a / ULB Bonn / V Hb /  -->
+   <date notAfter="1825-04-06">
+      <comment>Datierung auf Hs (kopiert). . V Hb ist eine Kopie einer vom 06.04.1825 datierten
+         Beilage zu einem Brief an Sulpiz Boisserée vom 07.04.1825.</comment>
+      <source uri="faust://bibliography/landeck1981">S.172</source>
+      <item uri="faust://document/wa/2_V_H.b"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-04-26" notAfter="1825-04-26">
+      <source uri="faust://self"/>
+      <comment>Datierte Handschrift</comment>
+      <item uri="faust://document/faustedition/2_V_H.26a"/>
+      </date>
+   <!-- Eintrag 2018-10-08 -->
+   <date notBefore="1825-02-19" notAfter="1825-04-03">
+      <comment>Datierung auf Hs (kopiert). . V Hb ist eine Kopie einer vom 06.04.1825 datierten
+         Beilage zu einem Brief an Sulpiz Boisserée vom 07.04.1825.</comment>
+      <source uri="faust://bibliography/hertz1932">S.248,252,263</source>
+      <item uri="faust://document/wa/2_V_H.b"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment></comment>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+      <item uri="faust://document/faustedition/2_H.26a"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <!--  / 25/XVIII,8,5 / Sammlung Geigy-Hagenbach, UB Basel / (oS) V Hl (Findbuch), V Hm (Landeck, Bohnenkamp) /  -->
+   <date notAfter="1825-03-19">
+      <comment>Datierung auf Hs. . Geschenkblatt, kein Entwurf.</comment>
+      <source uri="faust://bibliography/landeck1981">S.174</source>
+      <item uri="faust://document/landeck/2_V_H.m"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.174</source>
+      <comment>Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <item uri="faust://document/wa/2_V_H.30"/>
+      <item uri="faust://document/wa/2_H.m"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,6 / Bibliotheca Bodmeriana, Cologny / V Hc /  -->
+   <date notBefore="1830-12-02" notAfter="1830-12-17">
+      <comment>Bezug Gedichtentwurf Hs. Gedichtentwurf zu "An Frau Krafft in Cöln. Erwiderung" (WA I
+         5,1, 192) auf Rückseite der Hs. .</comment>
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1931">S.211 (mit Verweisen auf Loeper und Düntzer in
+         Anm.)</source>
+      <source uri="faust://bibliography/hertz1932">S.263,267</source>
+      <source uri="faust://bibliography/landeck1981">S.196</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.801</source>
+      <item uri="faust://inscription/wa/2_V_H.c/i_r"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,6 / Bibliotheca Bodmeriana, Cologny / V Hc /  -->
+   <date notBefore="1830-12-02" notAfter="1830-12-17">
+      <comment>Bezug Gedichtentwurf Hs. Gedichtentwurf zu "An Frau Krafft in Cöln. Erwiderung" (WA I
+         5,1, 192) auf Rückseite der Hs. .</comment>
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1931">S.211 (mit Verweisen auf Loeper und Düntzer in
+         Anm.)</source>
+      <source uri="faust://bibliography/hertz1932">S.263,267</source>
+      <source uri="faust://bibliography/landeck1981">S.196</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.801</source>
+      <item uri="faust://inscription/wa/2_V_H.c/i_v"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.196</source>
+      <comment>Bezug Gedichtentwurf Hs. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.c/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.c/i_v"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.196</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.c/i_r"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.196</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.c/i_v"/>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,6a / London (Großbritannien), Privatbesitz (letzte Information) / V Hc1 /  -->
+   <!--  /  / Bibliotheca Bodmeriana, Cologny / V Hf /  -->
+   <date notAfter="1830-12-17">
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <source uri="faust://bibliography/landeck1981">S.210</source>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1830-12-02" notAfter="1830-12-17">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.203-204,210</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://document/wa/2_V_H.e"/>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.203-204, 210</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.d/i_v"/>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.203-204,210</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://document/wa/2_V_H.35"/>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.203-204,210</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.203-204,210</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://document/wa/2_V_H.f"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,6b / Bibliotheca Bodmeriana, Cologny / (oS) /  -->
+   <!--  / 25/XVIII,8,7 / Bibliotheca Bodmeriana, Cologny / V Hg1 /  -->
+   <!-- Entstehungszeit: Entstehungszeit der Szene "Bergschluchten" zwischen 02.12.1830 und 17.12.1830 -->
+   <date notBefore="1830-12-02" notAfter="1830-12-17">
+      <comment>Stempel auf Hs. . auf Teil eines alten Briefumschlages adressiert an die
+         Oberaufsicht.</comment>
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1931">S.212</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.798</source>
+      <item uri="faust://document/wa/2_V_H.g"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.205</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.798</source>
+      <comment>Stempel auf Hs. . auf Teil eines alten Briefumschlages adressiert an die
+         Oberaufsicht.</comment>
+      <item uri="faust://document/landeck/2_V_H.gI"/>
+      <item uri="faust://document/landeck/2_V_H.gII"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,8,8 / Bibliotheca Bodmeriana, Cologny / V Hg2 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.206</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.798</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . nach faust://bibliography/landeck1981 S.206
+         ursprünglich möglicherweise als Teil von H gedacht.</comment>
+      <item uri="faust://document/landeck/2_V_H.gI"/>
+      <item uri="faust://document/landeck/2_V_H.gII"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.208</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . nach faust://bibliography/landeck1981 S.206
+         ursprünglich möglicherweise als Teil von H gedacht.</comment>
+      <item uri="faust://document/landeck/2_V_H.gII"/>
+      <item uri="faust://document/wa/2_V_H.h"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.206</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . nach faust://bibliography/landeck1981 S.206
+         ursprünglich möglicherweise als Teil von H gedacht.</comment>
+      <item uri="faust://document/landeck/2_V_H.gII"/>
+      <item uri="faust://document/wa/2_H"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  /  / verschollen, Photographie im GSA / V Hh /  -->
+   <date notBefore="1830-12-02" notAfter="1830-12-17">
+      <source uri="faust://bibliography/hertz1932">S.248,263</source>
+      <item uri="faust://document/wa/2_V_H.h"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://self"/>
+      <comment></comment>
+      <item uri="faust://document/faustedition/2_V_H.2"/>
+      <item uri="faust://document/faustedition/2_V_H.37g"/>
+   </relation>
+   <!-- Eintrag 2018-10-08 -->
+   <date notAfter="1830-12-17">
+      <source uri="faust://bibliography/landeck1981">S.209,210</source>
+      <item uri="faust://document/landeck/2_V_H.h"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.207-208,210</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://document/landeck/2_V_H.gII"/>
+      <item uri="faust://document/wa/2_V_H.h"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.210</source>
+      <comment>Zugehörigkeit zu genetischem Komplex. . .</comment>
+      <item uri="faust://inscription/wa/2_V_H.33/i_uebrige"/>
+      <item uri="faust://document/wa/2_V_H.h"/>
+   </relation>
+   <!-- geprüft -->
+   <date notBefore="1831-04-06" notAfter="1831-05-04">
+      <source uri="faust://bibliography/landeck1981">S. 94</source>
+      <comment>"Für die genaue Datierung ... kein Anhaltspunkt". "Arbeit an der 
+         Szene 'Offene Gegend' ... vom 6. April bis zum 4. Mai 1831"</comment>
+      <item uri="faust://document/faustedition/2_V_H.0f"/>
+      <!-- Landeck 2 V H.l wie Ludwig -->
+   </date>
+   <!--  / 25/XVIII,8,9 / Düsseldorf, Goethe-Museum, Anton-und-Katharina-Kippenberg-Stiftung / (oS)  V Hm (Findbuch); V Hn (Landeck) /  -->
+   <date notAfter="1830-12-17">
+      <source uri="faust://bibliography/landeck1981">S.209,210</source>
+      <item uri="faust://document/landeck/2_V_H.n"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.209,210</source>
+      <item uri="faust://document/landeck/2_V_H.gII"/>
+      <item uri="faust://document/landeck/2_V_H.n"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/landeck1981">S.210</source>
+      <item uri="faust://document/landeck/2_V_H.g33"/>
+      <item uri="faust://document/landeck/2_V_H.n"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,1,13 /  / H P96 /  -->
+   <date notBefore="1797-06-24" notAfter="1798-05-05">
+      <comment>Papier und Signatur auf Hs. . .</comment>
+      <comment>1797/1798</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.208</source>
+      <item uri="faust://document/bohnenkamp/H_P96"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,25 /  / H P194 /  -->
+   <date notBefore="1825-03-02" notAfter="1825-03-02">
+      <comment>Bezug auf Tgb. Tagebuch, 02.03.1825</comment>
+      <source uri="faust://bibliography/hertz1932">S.251</source>
+      <item uri="faust://document/wa/H_P194"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.757</source>
+      <source uri="faust://bibliography/hertz1932">S.251</source>
+      <comment>Bezug auf Tgb. Tagebuch, 02.03.1825 (Hertz). .</comment>
+      <item uri="faust://document/bohnenkamp/H_P195"/>
+      <item uri="faust://document/bohnenkamp/H_P194"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,26 /  / H P195 /  -->
+   <date from="1825-02-25" to="1825-02-26">
+      <comment>Bezug auf Tgb. Tagebuch, 25./26.-27.02.1825, 02.03.1825 (Hertz). Konzept zu "Dichtung
+         und Wahrheit" (P140 Scheibe, H172) und Schema zu "Annalen" auf RS.</comment>
+      <source uri="faust://bibliography/hertz1932">S.250-251,260-262</source>
+      <item uri="faust://document/wa/P195"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1825-02-24" notAfter="1825-02-25">
+      <comment>Bezug auf Tgb. Tagebuch, 25./26.-27.02.1825, 02.03.1825 (Hertz). Konzept zu "Dichtung
+         und Wahrheit" (P140 Scheibe, H172) und Schema zu "Annalen" auf RS.</comment>
+      <source uri="faust://document/scheibe1974">S.196-197</source>
+      <item uri="faust://document/wa/P195"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.757</source>
+      <source uri="faust://bibliography/hertz1932">S.250-251</source>
+      <comment>Bezug auf Tgb. Tagebuch, 25./26.-27.02.1825, 02.03.1825 (Hertz). Konzept zu "Dichtung
+         und Wahrheit" (P140 Scheibe, H172) und Schema zu "Annalen" auf RS.</comment>
+      <item uri="faust://document/bohnenkamp/H_P195"/>
+      <item uri="faust://document/bohnenkamp/H_P194"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,27 /  / H P196 /  -->
+   <date notBefore="1830-12-02" notAfter="1830-12-17">
+      <comment>Bezug auf Brief auf Hs. Briefkonzepte an Riemer und Gille vom 5. und 12.12.1830 auf
+         RS..</comment>
+      <comment>Dezember 1830</comment>
+      <source uri="faust://bibliography/hertz1931">S.211</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.795</source>
+      <item uri="faust://document/bohnenkamp/H_P196"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / Goethe-Varia N44 /  / H P197a /  -->
+   <date notBefore="1831-04-30" notAfter="1831-05-17">
+      <comment>Inhalt. . .</comment>
+      <comment>Frühjahr 1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.803</source>
+      <item uri="faust://document/bohnenkamp/H_P197a"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,28 /  / H P204 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.515</source>
+      <item uri="faust://document/bohnenkamp/H_P204"/>
+      <item uri="faust://document/wa/2_II_H.48"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,3*f /  /  /  -->
+   <date notBefore="1831-04-06" notAfter="1831-04-30">
+      <source uri="faust://bibliography/landeck1981">S.89</source>
+      <!-- Landeck, S. 89 nimmt eine Entstehung zwischen 1831-04-06 und 1831-04-09 und eine erneute Überarbeitung 1831-04-30 an  -->
+      <item uri="faust://document/landeck/2_V_H.i"/>
+   </date>
+   <!-- Eintrag 2018-10-08 -->
+</macrogenesis>

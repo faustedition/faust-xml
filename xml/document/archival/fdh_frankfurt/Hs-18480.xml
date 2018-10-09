@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/fdh_frankfurt/Hs-18480/">
+    <!-- bruening 2012-10-01 -->
+    <revisionDesc>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+        <repository>fdh_frankfurt</repository>
+        <idno type="faustedition">2 II H.13a</idno>
+        <idno type="fdh_frankfurt">FDH 18480</idno>
+        <idno type="gsa_1">25/XVII,7,19a</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="bohnenkamp">2 II H.18a</idno>
+        <textTranscript uri="Hs-18480.xml"/>
+        <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">62</height>
+        </dimensions>
+        <references>
+            <reference type="description" uri="faust://bibliography/gilbert1971">S. 22</reference>
+            <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 475</reference>
+            <reference type="description" uri="faust://bibliography/maisak2007">S. 54, Nr. 41</reference>
+            <reference type="text" uri="faust://bibliography/gilbert1971">S. 22</reference>
+            <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 475</reference>
+            <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 647</reference>
+            <reference type="text" uri="faust://bibliography/maisak2007">S. 54, Nr. 41</reference>
+            <reference type="facsimile" uri="faust://bibliography/gilbert1971">Abb. 9</reference>
+            <reference type="essay" uri="faust://bibliography/gilbert1971">passim</reference>
+            <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 476</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="Hs-18480_3.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <references>
+                    <reference type="facsimile" uri="faust://bibliography/maisak2007">S. 67, Nr. 41</reference>
+                </references>
+                <docTranscript uri="Hs-18480_4.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_10/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening"/>
+      <change when="2013-07-09" who="koehler">history</change>
+      <change when="2013-08-12" who="henzel">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>bb_cologny</repository>
+      <idno type="faustedition">2 IV H.22d</idno>
+      <idno type="bb_cologny">G-30.10</idno>
+      <idno type="gsa_1">GSA 25/XVIII,6,6</idno>
+      <idno type="wa_faust">2 IV H.f</idno>
+      <textTranscript uri="G-30_10.xml"/>
+      <classification>Mundum</classification><!-- Alexandrinermundum -->
+      <history>laut faust://bibliography/knopf2004 und faust://bibliography/knopf2006 1936 oder 1951 von Martin Bodmer aus dem Nachlass von Rudolf Brockhaus, Leipzig, erworben</history>
+      <numberingList>
+         <numbering>Eigenhändige Foliierung mit roter Tinte</numbering>
+         <numbering>Foliierung eines zeitgenössischen Schreibers mit Bleistift</numbering>
+      </numberingList>
+      <condition>leicht gefleckt am unteren Rand, leichter Knick im oberen Rand; Bleistiftspur unbekannter Herkunft und Funktion im unteren rechten Bereich der Vorderseite (eventuell großes 'E')</condition>
+      <dimensions>
+         <width unit="mm">331</width>
+         <height unit="mm">201</height>
+      </dimensions>
+      <note>Die Blattausrichtung erfolgte gemäß Beschriftungsverlauf. Der Mindestwert der Blatt-Breite beträgt 330 mm. Der Mindestwert der Blatt-Höhe beträgt 200 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType><!-- gutes, haltbares und doch feines/glattes Papier -->
+      <paperColour>beige</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>'JGH' über 'N 3.'</watermarkID><!-- auf Rückseite -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133</reference>
+         <reference type="essay" uri="faust://bibliography/knopf2006">S. 196</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

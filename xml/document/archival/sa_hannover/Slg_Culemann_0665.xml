@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/sa_hannover/Slg_Culemann_0665/">
+   <revisionDesc>
+      <change who="bruening" when="2012-09-07">Drucknachweise.</change>
+      <change who="henzel">encoded</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <repository>sa_hannover</repository>
+      <collection>Sammlung Culemann</collection>
+      <idno type="faustedition">2 I H.15a</idno>
+      <idno type="sa_hannover">Nr. 665 V.063</idno>
+      <idno type="gsa_1">GSA 25/XVII,6,4</idno>
+      <idno type="wa_faust">2 I H.h</idno>
+      <textTranscript uri="0665.xml"/>
+      <classification>Mundum</classification>
+      <!-- TODO pruefen -->
+      <history>Bestand ging vom Kestner Museum komplett auf Stadtarchiv Hannover über</history>
+      <!-- wann? TODO Culemann -->
+      <condition>Gebrauchsspuren (Papier etwas geknittert), Einstichlöcher am oberen rechten und linken Rand beider Blätter; auf der zweiten Bogenhälfte befindet sich auf der Rückseite ein Fleck im unteren rechten Viertel; mehrfache archivarische Beschriftung und Stempel ("K.M. S.C.K.V. 63."); nachträglich erfolgte wohl Faltung auf Oktavformat (erst auf Quart-, dann auf Oktavformat)</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">329</height>
+      </dimensions>
+      <format>2</format>
+      <note>Bogen im Folioformat</note>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gräulich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <note>Wasserzeichen befindet sich auf Blatt 2, Außenseite</note>
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      <note>Gegenzeichen befindet sich auf Blatt 1, Außenseite</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 13</reference>
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 3</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323, Nr. 7</reference>
+         <!-- Mit der irrigen Angabe „wie Nr. 6“, was sich auf 2 I H.g bezieht. -->
+         <reference type="description" uri="faust://bibliography/mlynek1982">S. 212</reference>
+         <reference type="description" uri="faust://bibliography/mlynek1989">S. 1280</reference>
+         <reference type="facsimile" uri="faust://bibliography/mlynek1982">S. 222</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="r.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="v.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

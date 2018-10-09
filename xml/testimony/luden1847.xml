@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-15" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="19" facs="luden1847_0019.jpg"/>
+            <div type="conversation">
+                <p><milestone unit="testimony" spanTo="#graef_1062a_end" xml:id="graef_1062a"/>„Aber
+                    ſagen’s mir doch, was haben’s denn geſchrieben?“ — Mancherlei, von Adam bis
+                    Napoleon, vom Ararat bis zum <rs>Blocksberg</rs>, von der Ceder bis zum
+                    Brombeerſtrauch. — „Es ſoll halter berühmt ſein.“ — Hm! leidlich.<anchor
+                        xml:id="graef_1062a_end"/> — „Schade, daß ich Nichts von Ihnen geleſen und
+                    auch früher Nichts von Ihnen gehört habe. Sind ſchon neue verbeſſerte Auflagen
+                    von Ihren Schriften erſchienen?“ — O ja, wohl auch. — „Und es werden wohl noch
+                    mehr erſcheinen?“ — Das wollen wir hoffen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

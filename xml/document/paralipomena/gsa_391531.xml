@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391531/">
+   <revisionDesc>
+      <change when="2012-11-23" who="henzel">imported</change>
+      <change when="2012-11-23" who="henzel">encoded</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf zu ‚Faust II‘, Akt 1.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P69</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,4</idno>
+      <idno type="gsa_2">GSA 25/W 1745</idno>
+      <idno type="gsa_ident">391531</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P69 -->
+      <idno type="bohnenkamp">H P69</idno>
+      <idno type="hecker">115</idno>
+      <textTranscript uri="391531.xml"/>
+      <classification>none</classification>
+      <!-- Reinschrift, Mundum auch in der Kürze? -->
+      <condition>Vergilbung am oberen Rand, leichter Tintenfraß</condition>
+      <dimensions>
+         <width unit="mm">172</width>
+         <height unit="mm">53</height>
+      </dimensions>
+      <format>none</format>
+      <!-- Streifen -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Remda</paperMill>
+      <watermarkID fragment="a_u_li">Rautenkranzoval über Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <!-- vgl. H P67 u. H P68 -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 181</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 192</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 181</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 192</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 569</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 192</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase; zur Datierung vgl. Bohnenkamp, S.192</f:bemerkung>
+      <f:datierung>1797/1798 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Im Hinblick auf Papier und Beschriftung stimmt dieses Blatt zu den Abschriften Geists im Zusammenhang mit der Neuordnung der Papiere 1797/98; verwendet wurde auch hier Wappenpapier der Papiermühle Remda, die Abschrift wurde von Geist mit schwarz-brauner Tinte in ordentlicher Schrift angefertigt. Obwohl es keine Signatur `ad x' aufweist, ist dieses Blatt also wohl zu den Arbeiten im Kontext der Neuordnung des Manuskripts zu rechnen. </p>
+            <p>Die Äußerung Mephistos steht in Zusammenhang mit dem Prosaentwurf P65; es scheint sich hier um die gereimte Fassung von P65, Z. 10-14. (hier S. 186) zu handeln. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

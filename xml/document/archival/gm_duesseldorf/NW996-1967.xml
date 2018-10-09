@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gm_duesseldorf/NW996-1967/">
+   <revisionDesc>
+      <change when="2012-10-02" who="bruening"/>
+      <change when="2013-09-11" who="bruening">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Rückseitig kaschiert, mit Goldschnitt an allen Rändern.</note>
+      <repository>gm_duesseldorf</repository>
+      <idno type="faustedition">2 I H.15c</idno>
+      <idno type="gm_duesseldorf">NW 996/1967</idno>
+      <idno type="gsa_1">GSA 25/XVII,6,4a</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="NW996-1967.xml"/>
+      <classification>none</classification>
+      <condition>Vergilbt.</condition>
+      <dimensions>
+         <width unit="mm">182</width>
+         <height unit="mm">113</height>
+      </dimensions>
+      <format>8</format>
+      <paperType>none</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">none</chainLines>
+      <watermarkID>none</watermarkID>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

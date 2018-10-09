@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390901/">
+<revisionDesc>
+   <change when="2012-11-28" who="henzel">imported</change>
+   <change when="2012-11-28" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">Brief WA-Nr.</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>auf Brief an Schiller, 25.4.1805, Abschrift John zu faust://bibliography/wa_IV_17 (WA-Nr. 05046) , S. 275, 1-8, in Zusammenhang mit der Veröffentlichung des Briefwechsels entstanden, Bruchstück, ursprünglich ein Blatt mit 25/W 677 (dort Fortsetzung)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.6</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,7</idno>
+      <idno type="gsa_2">GSA 25/W 1702</idno>
+      <idno type="gsa_ident">390901</idno>
+      <idno type="wa_faust">2 V H.6</idno>
+      <textTranscript uri="390901.xml"/>
+      <classification>Konzept</classification>
+      <condition>für die Briefabschrift auf der Vorderseite wurden am linken Rand zwei, am rechten Rand drei senkrechte Hilfslinien mit Bleistift gezogen; unterer rechter Rand der Rückseite stark vergilbt, direkt darüber zwei durch Nadeln verursachte Löcher</condition><!-- vermutlich durch eine Ausstellung -->
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">135</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 133 mm.</note>
+      <format>none</format><!-- Foliobreite wohl erhalten -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graugrünlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+     <paperMill>n.s.</paperMill>
+      <watermarkID>none</watermarkID>
+      <note>Hecker</note><!-- auf 25/W 677, Femmel-Katalog pag. 61, Nr. 82a -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 116</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 116</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 117f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/><!-- TODO Reihenfolge ggf. aktualisieren -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 5. Konzept im Vgl. mit H.5 (25/XVIII,7,6)</f:bemerkung>
+     </f:archiveDatabase>     
+   </f:metadataImport>
+</archivalDocument>

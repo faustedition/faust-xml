@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bj_krakow/Slg_Varnhagen_K19/">
+   <revisionDesc>
+      <change when="2013-09-06" who="ritter">aktualisiert</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-07-28" who="bruening">ABR eingearbeitet</change>
+      <change when="2015-07-28" who="bruening">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Längs gebrochen, Spuren einer Querfaltung. <!-- Längs gebrochen und quer gefaltet. Reihenfolge nicht sicher 
+         festzustellen. Querfaltung stärker ausgeprägt / Richtung nicht sicher festzustellen.  --> <!-- – 
+         Das Blatt ist in einen gefalteten Bogen eingelegt, der wie der Kasten mit U71 
+         beschriftet ist.--><!-- U71 (Sigle auf dem gefalteten Doppelbogen, der die Handschrift 
+            schützt, ebenso auf dem Kasten. Beides nach meinem Eindruck für die aktuelle 
+            Verwendung angelegt, keine Daueraufbewahrung und sicher nicht historisch) --></note>
+      <repository>bj_krakow</repository>
+      <idno type="faustedition">H P165</idno>
+      <idno type="bj_krakow">Sammlung Varnhagen, Kasten 71</idno>
+      <!-- laut Veröffentlichungsgenehmigung vom 28. Dezember 2009 und Auskunft Jaglarz am 25. Juni 2015, 
+         nicht aber Kasten 19 (wie GSA, ABR) -->
+      <idno type="gsa_1">GSA 25/XIX,2,13</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P165</idno>
+      <textTranscript uri="Slg_Varnhagen_K19.xml"/>
+      <classification>Schema</classification>
+      <!--<history>Keine Angaben zur Provenienz in Krakau für mich greifbar</history>-->
+      <!--<container>Keine historische Aufbewahrungsform.</container>-->
+      <!-- Keine Heftungsspuren -->
+      <numberingList>
+         <numbering name="zaehlung">Von fremder Hand mit Bleistift vorderseitig oben rechts mit 66,
+            rückseitig unten links (kopfstehend) mit 67
+            beziffert.<!-- Zahl 66 oben rechts sieht nach Foliierung aus. Ebenso auf der RS unten links auf dem Kopf stehend: 67 (beide Zahlen Bleistift) --></numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">205</width>
+         <!-- ABR Autopsie und Buch -->
+         <!-- am oberen Rand 2 mm schmaler -->
+         <height unit="mm">333</height>
+         <!-- ABR Autopsie -->
+         <!-- 332 Buch -->
+      </dimensions>
+      <!-- Blattmaße (auf Din A 4 angetragen)  -->
+      <!-- Höhe gleichmäßig, Breit oben geringfügig schmaler (ca 2 mm)  -->
+      <format>2</format>
+      <leafCondition>Mäßig vergilbt.</leafCondition>
+      <edges>cut</edges>
+      <!-- Rechts und unten gerade Blattkante (keine Ausfaserung, keine Schnittspuren), oben nicht ganz gerade. Linker Rand etwas ausgefranst, Risskante möglich. Das Papier ist aber links auch deutlich ‚gestaucht‘ (aus dem Herstellungsprozess), könnte also auch gut Schöpfkante sein. -->
+      <paperType>Konzeptpapier</paperType>
+      <!-- Grobes, festes  -->
+      <paperColour>grau</paperColour>
+      <!-- ursprünglich wohl grau -->
+      <!--<chainLines unit="">Grobes Papier mit starken Schwankungen (Wolkenbildung), Steglinien nicht deutlich / unterschiedlich deutlich.</chainLines>-->
+      <watermarkID>n.s.</watermarkID>
+      <!-- Wasserzeichen / Papier auf der Leuchtfolie: 
+      Symmetrieachse
+      Kein klares Wasserzeichen
+      Mit viel Phantasie könnte man eine Wappenkartusche in Querrichtung ausmachen, evt. sogar mit Schriftzügen links davon und darunter (siehe Abbildung). Wahrcheinlich: kein WZ, sondern zufällige Strukturen im groben Papier.
+      Mit Phantasie könnte man auch H über No 4 (oder N x) ausmachen; H dann etwa zwischen zwei Steglinien.  Beides sehr unsicher!
+      -->
+      <references>
+         <reference type="description" uri="faust://bibliography/loeper1883">S. 345f.</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 228</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 593</reference>
+         <reference type="text" uri="faust://bibliography/loeper1883">S. 345f.</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 228f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 593-595</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 685f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 595f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <note>Die beiden Rötelstreichungen wurden erst in Anschluss an die ersten drei Zeilen des 
+               Nachtrags auf der linken Spalte, aber wohl vor der weiteren Bleistiftergänzung vorgenommen. 
+               Diese erfolgte also wahrscheinlich nicht gleichzeitig mit der ersten Bleistiftergänzung, 
+               sondern später.</note>
+            <docTranscript uri="001.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

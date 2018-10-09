@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391510/">
+<revisionDesc>
+   <change when="2012-12-04" who="henzel">imported</change>
+   <change when="2012-12-04" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Eigenhändiges Konzept eines Briefs mit Bleistift an Karl Leopold Graf v. Beust, 27.2.1825 (zu WA IV 39,128,5-10); eigenhändige Schreibübungen(?) mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.17</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,18</idno>
+      <idno type="gsa_2">GSA 25/W 1715</idno>
+      <idno type="gsa_ident">391510</idno>
+      <idno type="wa_faust">2 V H.17</idno>
+      <textTranscript uri="391510.xml"/>
+      <classification>Sammelblatt</classification><!-- oder Konzept? -->
+      <condition>ursprünglich auf Queroktav gefaltet, am früheren Falz vergilbt, fleckig, Knickspuren</condition>
+      <dimensions>
+         <width unit="mm">167</width>
+         <height unit="mm">203</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 202 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskante links</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>hellbräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 137, 140</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 160</reference>
+         <reference type="text" uri="faust://bibliography/wahl1929">S. 30</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 137, 140</reference>
+         <reference type="facsimile" uri="faust://bibliography/wahl1929">S. 14</reference> <!-- obere Hälfte -->
+         <reference type="essay" uri="faust://bibliography/wahl1929">S. 29f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 137, 140</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf type="import">
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/><!-- sieht aus wie nach Brechung beschrieben -->
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Sammelblatt, skizzenhaft</f:bemerkung>
+      <f:datierung>26.2.1825 (?)</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

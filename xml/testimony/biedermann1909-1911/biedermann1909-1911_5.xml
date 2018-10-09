@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><!--and now:--><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>@&lt;E&gt;</title>
+                <author>T031</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2018-07-05</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="doxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            
+                <change when="2018-07-12" who="krause">angelegt</change>
+            <change when="2018-10-04" who="krause">überarbeitet, markiert</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter"><pb n="152"/>
+            <head type="biedermann-2">[2398a.]</head> <head><date when="1826-03-26">1826. März 26.</date> <persName>F. v. Matthiſſon</persName> an <persName>L. Schorn</persName>.</head>
+            <p><milestone unit="testimony" spanTo="#bie3_5813_end" xml:id="bie3_5813"/>In Weimar ward mir viel Erfreuliches. Goethe, bei dem die Rede viel von Dir war, nahm
+                mich freundlicher auf als je zuvor. Ich las ihm am Oſtermorgen ſeine herrliche
+                <rs>Schilderung des Oſtermorgens aus dem Fauſt</rs> vor. Er ſchien mit meinem Vortrage
+                zufrieden und ſagte: Sie haben geleſen, als wenn Sie es ſelbſt gemacht hätten.<anchor xml:id="bie3_5813_end"/></p></div>
+        </body>
+    </text>
+</TEI>

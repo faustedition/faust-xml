@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390775/">
+   <revisionDesc>
+      <change when="2012-12-12" who="bruening">encoded</change>
+      <change when="2014-01-02" who="henzel">note 1 in condition umgewandelt</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P176 Var</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,17:1</idno>
+      <idno type="gsa_2">GSA 25/W 1790</idno>
+      <idno type="gsa_ident">390775</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P176 Var</idno>
+      <textTranscript uri="390775.xml"/>
+      <classification>Konzept</classification>
+      <condition>Beide Streifen zeigen Spuren einer Längsfaltung.</condition>
+      <format>none</format>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <note>Das Papier der beiden Streifen mutet sehr ähnlich an.</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 233</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 622</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 235</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 622-624</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 694</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 625f.</reference>
+         <!-- <reference type="essay">Rudolf Steiner: Die Rätsel in Goethes "Faust" - esoterisch, Vortrag in Berlin am 12.03.1909</reference> -->
+      </references>
+   </metadata>
+   <!-- Querstreifen -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">345</width>
+            <height unit="mm">108</height>
+         </dimensions>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- dreieckiger Streifen -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Couvertfragment (faust://bibliography/wa_I_15_2, S. 233).</note>
+         <dimensions>
+            <width unit="mm">295</width>
+            <height unit="mm">94</height>
+         </dimensions>
+         <countermarkID>Schlaufe_wie_GH</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.625</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:datierung>bis zum Frühjahr 1826</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390775</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Paralipomenon 176
+Denn Liebespaaren zeigtet ihr euch stets ...
+WA: oS; vgl. I 15.2,233-235
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XIX,2,17:1</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XIX (2,17) (WA I,15.2,233235)</p>
+            <p>Entwurf</p>
+            <p>Erstdruck: Die Gegenwart Nr. 29 (1878), S. 41</p>
+            <p>3 Papierstücke:</p>
+            <p>Blatt 1: x , Streifen eines grünlichen Foliobogens, gerippt, Schnittkanten, gefaltet;
+               ohne WZ; VS: G Blei P176 Var; RS: G Blei Fortsetzung P176 Var;</p>
+            <p>Blatt 2: Ecke ( x ) eines grünlichen Folioblattes, gefaltet, gerippt; angeschnittenes
+               WZ: nicht identifiziert; VS: G Blei Fortsetzung P176 Var; RS: leer</p>
+            <p>Blatt 3 (von III Hf, hier S. 624f., nach der Beschriftung mit P176 abgetrennt):</p>
+            <p>204 x 7982 mm, Streifen eines grauen Folioblattes, Konzeptpapier, gerippt,
+               Schnittkanten; ohne WZ; VS: John br. Tinte P176 (Vers 16); RS leer;</p>
+         </metadaten>
+         <kommentar xmlns=""/>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,2,17:1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>bis zum Frühjahr 1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Denn Liebespaaren zeigtet ihr euch stets</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,233-235</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>oS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>176</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Bohnenkamp, S.625</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1415</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2692</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390848/">
+	<revisionDesc>
+		<change when="2012-11-28" who="bruening">encoded</change>
+		<change when="2014-11-13" who="pravida">headnote</change>
+		<change when="2015-02-04" who="koehler">minimal headnote</change>
+		<change when="2015-07-03" who="koehler">minimal headnote</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+		<note>Die Beschriftungsreihenfolge von Vorder- und Rückseite (hier nach
+			faust://bibliography/bohnenkamp1994, S. 387) ist unsicher, doch sind die verwischten
+			Zeilen älter (faust://bibliography/bohnenkamp1994, S. 387f.). Quer gebrochen.
+			Einzelblatt, 2 beschriebene Seiten. – Vs.: Versentwürfe zu ‚Faust II‘, Akt 1
+			(eigenhändig, Bleistift). Rs.: verwischte Bleistiftniederschrift, wahrscheinlich
+			Versentwürfe zu ‚Faust II‘ (eigenhändig, Bleistift).</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">2 I H.58</idno>
+		<idno type="gsa_1">GSA 25/XVII,5,30</idno>
+		<idno type="gsa_2">GSA 25/W 1483</idno>
+		<idno type="gsa_ident">390848</idno>
+		<idno type="wa_faust">2 I H.58</idno>
+		<textTranscript uri="390848.xml"/>
+		<classification>Konzept</classification>
+		<numberingList>
+			<numbering name="Bleistiftzählungen">Beiderseits eigenhändige Bleistiftbezifferung 4 und
+				6 (faust://bibliography/bohnenkamp1994, 387).</numbering>
+		</numberingList>
+		<dimensions>
+			<width unit="mm">202</width>
+			<height unit="mm">330</height>
+		</dimensions>
+		<format>2</format>
+		<edges>cut</edges>
+		<paperType>Konzeptpapier</paperType>
+		<paperColour>grau</paperColour>
+		<watermarkID>Stern_ueber_N1</watermarkID>
+		<note>Anders faust://bibliography/bohnenkamp1994, S. 387 (Stern über N).</note>
+		<references>
+			<f:reference type="description" uri="faust://bibliography/wa_I_15_2">S. 12</f:reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+				387</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 387</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 623</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 388</reference>
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0004.xml"/>
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.388, = früheres Konzept im Vgl. mit diesen Versen auf H.56 (25/XVII,5,28)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Numerierung "4" egh [oben rechts, Vorderseite]; nicht mehr lesbare, verwischte Bleientwürfe [Rückseite]; Numerierung "6" egh [Rückseite]</f:dabei_vermerk>
+      <f:datierung>Ende August 1829 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390848</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.58; vgl. I 15.2,12
+
+Vers(e): 6451-6460 (6457-6458 fehlt/fehlen)
+Da schweig ich nun ...
+Konzept
+
+Paralipomenon 122
+Man kleid ihn ritterlich ...
+Konzept
+Text der Handschrift zu WA: I 15.2,197</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,5,30</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<metadaten xmlns="">
+				<p>GSA XVII (5,30) (WA I,15.2,12 u. 197)</p>
+				<p>Entwürfe</p>
+				<p>Erstdruck: WA I,15.2,197 (P122)</p>
+				<p> x , graues Folioblatt, Konzeptpapier, gerippt, gefaltet; WZ: Stern über `N'
+					(Stuetzerbacher Sternpapier);</p>
+				<p>VS: G Blei P122, 6459 Var, 6460, 64536456 Var, unten auf der Seite 6451f. Var;
+					alles mit Blei als erledigt gestr., oben rechts "4" signiert;</p>
+				<p>RS: nicht mehr lesbare, verwischte Bleientwürfe, mit Blei signiert "6".</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p>Dieses Entwurfsblatt zur Szene `Rittersaal' bietet keine äußeren Anhaltspunkte
+					für die Datierung. Es läßt sich jedoch als Vorstufe des entsprechenden Blattes
+					aus I H56 (vgl. hier S. 477f.) bestimmen und also mit einiger Wahrscheinlichkeit
+					auf Ende August 1829 datieren. Die unter und zwischen den Zeilen erkennbaren
+					verlöschten Bleistiftspuren stehen umgekehrt zu dem späteren noch lesbaren
+					Entwurf.</p>
+				<p>Z. 1-3 <b>(P122)</b>: Wie der Entwurfskontext sehr deutlich macht, handelt es
+					sich hier um den Entwurf zur Äußerung einer Hofdame über die Erscheinung des
+					Paris, die den kritischen Bemerkungen der anwesenden Männer (vgl. P100, Z. 21,
+					hier S. 292) entgegenhält, daß der _ offensichtlich `ländlich' gekleidete _
+					"Scha[fs] Knecht" in ritterlichem Gewand alle Anwesenden ausstechen würde. Vgl.
+					V. 6461 der endgültigen Fassung.</p>
+				<p>
+					<i>Kommentar zu IH57, Seite 386:</i>
+				</p>
+				<p>Dieses Folioblatt gehörte ursprünglich mit I H56, Blatt 5 zu einem Bogen (vgl.
+					hier S. 477): die Rißkanten ergänzen sich. Das Briefkonzept auf der Vorderseite
+					des Folioblatts läßt sich auf den 29. 8. 1829 datieren (vgl. WA IV,46,64f. und
+					den Tagebucheintrag vom 29. 8. 1829; WA III,12,119). Da sich die
+					Beschriftungsreihenfolge des Blattes jedoch nicht mit Sicherheit bestimmen läßt,
+					kann dieses Datum für den auf der Rückseite befindlichen Entwurf zur Szene
+					`Rittersaal' nur als erster Anhaltspunkt dienen. Von besonderem Interesse ist
+					dieser frühe Bleistiftentwurf zu den Versen 6427-6438, da er anstelle des
+					"kühnen Magiers" der endgültigen Fassung Z. 16 den "Dichter" nennt. Vgl. das
+					Auftauchen des Dichters in den Entwürfen und Paralipomena zur `Mummenschanz':
+					P113 (hier S. 339f.), P106 (hier S. 343) und I H60 (hier S. 377).</p>
+				<p>Z. 18 das Schöne] Im endgültigen Text dafür: "das Wunderwürdige". Die Änderung
+					entspricht der Ersetzung des "Dichters" durch den "Magier" in V. 6436. </p>
+				<p> Zweiter Teil, Akt 2</p>
+				<p>Zur Entstehungsgeschichte</p>
+				<p>Forschungsstand</p>
+				<p>Die Entstehungsgeschichte des 2. Akts gehört zu den chronologisch bereits
+					ausführlich untersuchten Bereichen des Zweiten Teils. Auf der Grundlage der mit
+					Erscheinen des Bandes 15.2 der WA zur Verfügung stehenden Angaben zu den
+					Handschriften aus Goethes Nachlaß unternahm Heinrich Düntzer schon 1891 eine
+					solche Untersuchung der `Klassischen Walpurgisnacht'.<sup>1</sup> Schon bald
+					folgte seine Arbeit über die Entstehung des 1. Aktes und der beiden ersten
+					Szenen des 2. Aktes, die zu dem Ergebnis kommt, daß "die beiden ersten Auftritte
+					des zweiten Aktes vor dem Abschlusse des ersten bereits vollendet
+						waren".<sup>2</sup>
+				</p>
+				<p>Ausgehend von der Frage, warum die entstehungsgeschichtlich als Ursprung der
+					`Klassischen Walpurgisnacht' anzusehende Szene des `Descensus' (Fausts Abstieg
+					in den Hades) schließlich ganz gestrichen wurde, verfolgte dann Adolf Gerber in
+					einer Untersuchung von 1899 detailliert die Genese der `Klassischen
+						Walpurgisnacht',<sup>3</sup> da er den wichtigsten Grund für die Streichung
+					des Descensus in der seltsamen und einigermaßen unvorhergesehenen Entwicklung
+					der `Klassischen Walpurgisnacht' selbst vermutete. Er kommt zu dem Schluß, daß
+					die endgültige Komposition der `Klassischen Walpurgisnacht', im Gegensatz zu dem
+					1826 niedergeschriebenen, ausführlichen Plan (P123, hier S. 424462), für die
+					vorgesehene HadesSzene keinen Raum mehr gelassen habe. Warum diese Szene
+					schließlich auch nicht mehr als Prolog in den 3. Akt aufgenommen wurde, wie es
+					Goethe noch im Sommer 1830 plante (vgl. P157, hier S. 525f.), muß Gerber offen
+					lassen. In einem wenig später veröffentlichten Nachtrag<sup>4</sup> korrigierte
+					und präzisierte Gerber seine Ergebnisse, nachdem er 1Düntzer, Entstehung der
+					Klassischen Walpurgisnacht.</p>
+				<p>2Düntzer, Entstehung der ersten beiden Akte, S. 247.</p>
+				<p>3Gerber (WalpurgisNight) versucht anhand der Angaben in der WA eine
+					Rekonstruktion der Entstehungsgeschichte der `Klassischen Walpurgisnacht' (für
+					seine Datierungen verweist er jedoch nicht auf die offensichtlich aus der WA
+					gewonnenen Einsichten über die Handschriften, sie bleiben damit Behauptungen).
+					Er kommt dabei zu folgendem Ergebnis: V. 70807089, 71177139 entstanden nach dem
+					29. 8. 1829; V. 70907097, 71007111 nach dem 28. 11. 1829; V. 71527155, 75597565,
+					78437846 nach dem 26. 12. 1829; V. 71407148 nach dem 21. 1. 1830 (vielleicht
+					viel später, da sich auf diesem Blatt auch ein Szenar zu V. 6377 findet).</p>
+				<p>4Gerber, Additional remarks.</p>
+				<p> Zweiter Teil, Akt 2</p>
+				<p> Gelegenheit hatte, seine Schlußfolgerungen an den Handschriften in Weimar selbst
+					zu überprüfen.<sup>5</sup>
+				</p>
+				<p>Karl Kaderschafka untersucht in seinem Beitrag `Zur Entstehungsgeschichte der
+					klassischen Walpurgisnacht' aus dem Jahr 1913 "die mannigfaltigen Verschiebungen
+					im Plan" (S. 41) anhand der beiden großen Schemata (P124 und P125, hier S. 490-
+					492 u. S.508-510) und kommt zu dem Ergebnis, daß "Goethe auch in der
+					Walpurgisnacht, wenigstens teilweise, die einzelnen Szenen nicht in der von ihm
+					vorher festgesetzten Reihenfolge geschrieben hat" (S. 43).</p>
+				<p>Zu den Arbeiten über den 2. Akt, die für die Entstehungsgeschichte von Bedeutung
+					sind, gehören auch diejenigen von Gottfried Wilhelm Hertz.<sup>6</sup> Die von
+					ihm aufgestellte These, bei den Versen 84458487 handele es sich um einen
+					späteren Zusatz,<sup>7</sup> wurde 1955 von Renate FischerLamberg in ihrer
+					gründlichen Untersuchung der Handschriften zum 2. und 3. Akt aufgenommen und
+					korrigiert: Nach ihren Beobachtungen wurden nicht nur diese 40 Verse, sondern
+					der ganze Schlußteil der `Klassischen Walpurgisnacht' erst im Winter 1830
+					ergänzend angefügt.<sup>8</sup>
+				</p>
+				<p>Neben den genannten Arbeiten wird die Entstehungsgeschichte des 2. Akts in einem
+					großen Teil der Interpretationen und Kommentare zu diesem Akt berück 5Zunächst
+					hatte Gerber sich wie Düntzer nur auf die Angaben der WA gestützt. An den
+					Handschriften gelangt er zu einer Reihe von Ergebnissen, die manches von
+					FischerLamberg dann im einzelnen Dokumentierte schon vorausnehmen (so z. B. die
+					Datierung von II H63 und die Angaben zu I H56, I H60, II H14, II H9, II H15).
+					FischerLamberg hat Gerbers Arbeit jedoch offensichtlich nicht gekannt. Gerbers
+					Untersuchung ergibt, daß Goethe 1829 folgende Arbeiten an der `Klassischen
+					Walpurgisnacht' vorgenommen hat: Ende Nov./Anfang Dez.: "[...] he penned some of
+					the lines which deal with Mephistopheles and the Sphinxes, Mephistopheles and
+					the Griffins, and the impression of the ancient world on Faust." Ende Dez.: "he
+					sketched a few lines concerning the arrival of the Sirens, Seismos, Homunculus
+					and the Philosophers and the Telchines". Zusammenhängende Arbeit vermutet Gerber
+					erst nach der Vollendung der `Mütter'Szene, ab dem 11. 1. 1830 (Gerber,
+					Additional remarks, S. 215). Gerbers Arbeit demonstriert die eingeschränkte
+					Brauchbarkeit des WAApparats zur Lösung chronologischer Fragen: Erst die
+					Sichtung der Handschriften selbst führte zu wichtigen neuen Ergebnissen.</p>
+				<p>6Hertz, Der Schluß der klassischen Walpurgisnacht (1914), und Hertz,
+					Entstehungsgeschichte Faust II,2 (1925).</p>
+				<p>7Hertz, Der Schluß der klassischen Walpurgisnacht. Hertz weist auf die
+					Handschriften II H72 und II H69, die den zunächst geplanten Aktschluß enthalten,
+					die späteren Zusätze wurden nachträglich in die leeren Stellen gesetzt. Nach
+					seiner Überzeugung ist II H74 bis zum 22. 4. 1830 abgeschlossen, die Verse
+					83398444 entstehen zwischen dem 12. und 25. Juni 1830.</p>
+				<p>8Vgl. die Dissertation FischerLambergs (Untersuchungen zur Chronologie von Faust
+					II,2 und3) sowie ihren Aufsatz zur Entstehung der `Klassischen Walpurgisnacht'.
+					In ihrer Dissertation bietet FischerLamberg eine fundierte Rekonstruktion der
+					Genese des zweiten Akts, soweit sie anhand der überlieferten Handschriften
+					möglich wird. Nicht berücksichtigt sind in dieser Arbeit allerdings die
+					`Paralipomena' (FischerLamberg untersucht nur die von Erich Schmidt als Hx
+					bezeichneten Blätter), die bei dem Versuch einer Klärung der Genese ebenfalls
+					eine wichtige Rolle spielen. </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> sichtigt;<sup>9</sup> im Vordergrund steht die Geschichte ihrer Entstehung auch
+					in der einflußreichen Untersuchung über die `Klassische Walpurgisnacht' von
+						Reinhardt,<sup>10</sup> dem es um die Deutung des festgestellten
+					Konzeptionswandels geht. Die Streichung des projektierten Hadesganges sieht
+					Reinhardt im Zusammenhang mit einem "allgemeinen Stilwandel", "den das Ganze bei
+					der Ausführung durchlaufen hat." Der "rokokohaft galant[e]" und "barock
+					geziert[e]" Charakter des Entwurfs von 1826 (S. 108) ist in der Ausführung
+					verschwunden; anstatt des "irrfahrenden Faust" wird die "Metamorphose des
+					Homunculus" zum Mittelpunkt der neu entstandenen Komposition (S.110). Goethe
+					habe nicht "gelegentlich geändert", sondern "irgendwann, von einer plötzlichen
+					Idee erfüllt, das Ganze umgedacht" (S.120).<sup>11</sup>
+				</p>
+				<p>Um zu erkennen, "wie sich in Goethe selbst im Laufe der Zeit Idee, Form und
+					Inhalt dieses Aktes gebildet haben", will auch Emrich "die
+					Entwicklungsgeschichte des Textes genau" beachten.<sup>12</sup> Ihm geht es
+					dabei nicht um neue Erkenntnisse in bezug auf die Entstehungsgeschichte, sondern
+					um die Auswertung der Vorstufen (wie sie in der WA geboten werden) für seine
+					Deutung des Aktes, die sich im wesentlichen an die von Valentin und Hertz
+					vertretene Auffassung anschließt, daß die `Metamorphose' des Homunculus anstelle
+					des Descensus den Auftritt der Helena vorbereite; davon ausgehend interpretiert
+					Emrich die `Klassische Walpurgisnacht' in Übereinstimmung mit seiner
+					Generalthese von der Bedeutung der Kunst im `FaustII' als
+					"biologisch-geschichtliche Genesis der Schönheit".<sup>13</sup>
+				</p>
+				<p>Vorarbeiten (P63P123)</p>
+				<p>Während die Zusammenfassung des alten Plans für `Dichtung und Wahrheit' aus dem
+					Jahr 1816 (P63, hier S. 266ff.) noch keine Spuren des späteren 2. Aktes enthält,
+					ist er 10 Jahre später, Ende 1826, in den Schemata P99A und P99B (hier S.
+					417420) wie auch in der großen Inhaltsangabe vom Dezember 1826, den
+					`Antecedenzien der 9So verweist z. B. Katharina Mommsen auf Parallelen zwischen
+					der `Klassischen Walpurgisnacht' und verschiedenen Märchen aus 1001 Nacht, die
+					jeweils in den Entwürfen (P123, P124) deutlicher zu erkennen sind als in der
+					Ausführung (Mommsen, 1001 Nacht, S. 243f.): "Die Ausführung, erst nach einigen
+					Jahren unternommen, milderte vieles" (S. 251). Die Zeit der Hauptwirkung der
+					Märchen aus 1001 Nacht scheint 1825/26 zu liegen und beeinflußt hauptsächlich
+					die Ausführung des 2. Teils der `Helena' und die Planung der `Klassischen
+					Walpurgisnacht'. Hier wird das beliebte Erzählschema der Märchen der
+					Scheherazade, `der lange Weg', für Konzeption und Gestaltung der `Klassischen
+					Walpurgisnacht' genutzt (vgl. Mommsen, 1001 Nacht, S. 236).</p>
+				<p>10Reinhardt, Die Klassische Walpurgisnacht. Entstehung und Bedeutung (zuerst
+					1945).</p>
+				<p>11Die Nachlaßstücke dokumentieren in weiten Bereichen allerdings eher einen
+					allmählichen Wandel; eine plötzliche und grundlegende Änderung der Konzeption
+					läßt sich an ihnen nicht ablesen.</p>
+				<p>12Emrich, Symbolik, S. 268.</p>
+				<p>13Emrich, ebd. </p>
+				<p> Zweiter Teil, Akt 2</p>
+				<p> Helena' (P123B und C, hier S. 424462), dann nicht nur vorgesehen, sondern auch
+					schon in vielen Details geplant. Erste Ideen und Notizen zu diesem Akt entstehen
+					während der abschließenden Arbeiten an der `Helena'; sowohl ein Blatt mit frühen
+					Entwürfen zu dem geplanten Abstieg in den Hades (III H49, hier S. 399ff.) stammt
+					wahrscheinlich bereits aus dem Frühjahr 1826<sup>14</sup> als auch verschiedene
+					im Zusammenhang mit Goethes LukanLektüre im April 1826 für die `Klassische
+					Walpurgisnacht' notierte Textfragmente.<sup>15</sup> Im Juni 1826 diktiert
+					Goethe die erste knappe Fassung der `Ankündigung der Helena' (P123A, hier S.
+					412-415). </p>
+				<p>Die Anfänge des 2. Akts sind also in der Endphase der Arbeit am 3. Akt zu suchen.
+					Erst mit der Entscheidung, den `Helena'Akt nach Sparta zu verlegen, wird es
+					notwendig, Faust nach Griechenland zu führen und erst mit dem Entschluß, Faust
+					nach Griechenland zu führen, findet der `Helena'Akt selbst auch in Sparta statt.
+					Noch das 1825 neu angelegte Manuskript III H2 ist überschrieben mit `Helena im
+					Mittelalter'; erst das im Juni 1826 angefertigte Mundum HIII trägt dann den
+					Titel `klassisch-romantische Phantasmagorie', und erst in diesem Mundum heißt es
+					in der einleitenden Regieanweisung: "zu Sparta". Noch das erste aus der
+					Arbeitsphase von 1826 überlieferte Schema zur `Helena' nennt das alte Motiv des
+					Ringes, durch den Helena "die Körperlichkeit wieder gegeben" werden sollte (P63,
+					Z.114f., hier S. 271), anstatt der zuerst im Juni 1826 genannten Bedingung, "daß
+					sie [Helena] sich nirgends als auf dem eigentlichen Boden von Sparta des Lebens
+					wieder erfreuen solle" (P123A, hier S. 413).</p>
+				<p>Hochgewölbtes enges gotisches Zimmer (V. 65666818)</p>
+				<p>Die Arbeit an der 1. Szene des 2. Akts `Hochgewölbtes enges gotisches Zimmer'
+					beginnt im Herbst 1827; die datierbaren Handschriften bewegen sich in einem
+					Zeitraum von September bis November dieses Jahres.<sup>16</sup> Das früheste
+					Zeugnis ihres Abschlusses allerdings stammt erst aus dem Dezember 1829: "Heute
+					nach Tisch las Goethe mir die erste Szene vom zweiten Akt des
+						<i>Faust.</i>"<sup>17</sup> Der entsprechende Eintrag im Tagebuch Goethes
+					("Ich las etwas noch nicht Mitgetheiltes aus Faust")<sup>18</sup> läßt je 14Vgl.
+					Jost Schillemeit, Faust und der tragische Trimeter.</p>
+				<p>15Vgl. P140146 u. III H7, hier S. 404411. Am 4. 6. 1826 heißt es im Tagebuch:
+					"Abends Lucan 6. Buch" (WA III,10,181); vgl. auch die Tagebucheintragungen im
+					Frühjahr 1826, die auffälligerweise sowohl von Arbeit am `Faust' als auch an der
+					`Helena' berichten. Im Gegensatz zu Landecks Überlegungen fällt in diese Zeit
+					wohl keine Arbeit am 5. Akt; vgl. mein Kapitel zur Entstehungsgeschichte des 5.
+					Akts, hier S. 742ff.</p>
+				<p>16Alle "konkreten Daten, die für die Handschriften der 1. Szene des 2. Akts
+					ermittelt wurden", bewegen sich in der Zeit vom 12. 9. bis 17. 11. 1827
+					(FischerLamberg, S. 28).</p>
+				<p>17Eckermann, 6. 12. 1829.</p>
+				<p>18Vgl. WA III,12,163. Im Gegensatz dazu legt die Formulierung im Tagebuch vom
+					16.12. 1829 über den Vortrag der 2. Szene nahe, daß es sich hier um eine gerade
+					erst abgeschlossene Szene handelt. Vgl. hier S. 393. </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> doch nicht darauf schließen, daß die Szene erst kurz vor dieser Lesung
+					abgeschlossen wurde. Schon im Juli 1828 hatte Goethe in einem Brief an Zelter
+					berichtet: "Der Anfang des zweyten Acts ist gelungen",<sup>19</sup> und da die
+					handschriftlichen Zeugnisse zur ersten Szene ausnahmslos in den Herbst und
+					Winter 1827 verweisen, läßt sich vermuten, daß zumindest wesentliche Teile
+					damals schon entstanden sind.<sup>20</sup>
+				</p>
+				<p>Laboratorium (V. 68197004)</p>
+				<p>Diese zweite Szene wird im Dezember 1829 abgeschlossen; Goethe trägt sie
+					Eckermann am 16. 12. 1829 als das "neuste Poetische"<sup>21</sup> vor:</p>
+				<p>Heute nach Tisch las Goethe mir die zweite Szene des zweiten Akts von
+						<i>Faust,</i> wo Mephistopheles zu Wagner geht, der durch chemische Künste
+					einen Menschen zu machen im Begriff ist. Das Werk gelingt, der Homunkulus
+					erscheint in der Flasche, als leuchtendes Wesen, und ist sogleich tätig. Wagners
+					Fragen über unbegreifliche Dinge lehnt er ab, das Räsonieren ist nicht seine
+					Sache; er will <i>handeln,</i> und da ist ihm das Nächste unser Held Faust, der
+					in seinem paralysierten Zustande einer höheren Hülfe bedarf.<sup>22</sup>
+				</p>
+				<p>Nachrichten über den Beginn der Arbeit an der Szene `Laboratorium'
+						fehlen;<sup>23</sup> Entwürfe der an Wagner gerichteten Verse des Homunculus
+					auf einem Blatt aus der Arbeit an der `Mummenschanz' vom Dezember 1827 lassen
+					jedoch die Vermutung zu, daß erste Vorarbeiten schon zu Beginn des Jahres 1828
+						entstanden.<sup>24</sup>
+				</p>
+				<p>Klassische Walpurgisnacht (V. 70058487)</p>
+				<p>Die `Klassische Walpurgisnacht' entsteht in ihren Hauptteilen zwischen Ende 1829
+					und Juni 1830. Am 25. Juni 1830 berichtet Goethe seinem Sohn von ihrer Voll 19
+					WA IV,44,226.</p>
+				<p>20 Wie weit der schon gelungene `Anfang' im Sommer 1828 jedoch genau reichte,
+					läßt sich nicht mit Sicherheit sagen. Folgende Handschriften sind zur ersten
+					Szene des 2. Akts überliefert: II H1 (Eingangsverse Mephistos) nach dem 12. 9.
+					1827. — I H13 (Entwürfe zum Insektenchor und Mephistos Antwort) um den 12. 9.
+					1827, vgl. hier S. 463ff. — II H2a (P128) ohne Datierung. Der Bezug zum 2. Akt,
+					ja zum Faust ist ganz unsicher. Vgl. hier S. 469. — II H2b (P127) nach dem 29.9.
+					1827, vgl. hier S. 468. — II H2c (P129) nach dem 27. 9. 1827, vgl. hier S. 467.
+					— II H3 (Baccalaureus) nach dem 9. 11. 1827 bis 17. 11. 1827. — II H4
+					(Baccalaureus, P130) bis zum 18.9. 1827, vgl. hier S. 466.</p>
+				<p>21WA III,12,167.</p>
+				<p>22Bericht Eckermanns vom 16. 12. 1829.</p>
+				<p>23FischerLamberg zur 2. Szene: "Die Zeugnisse für die 2. Szene des 2. Akts sind
+					spärlich und lassen nur bedingt die Vermutung zu, daß diese Szene erst 1829
+					entstanden ist. Bestimmt ist sie aber in diesem Jahre vollendet worden, denn
+					Goethe liest sie Eckermann am 16. 12. 1829 [...] vor."(S.30.)</p>
+				<p>24I H37, vgl. hier S. 470. </p>
+				<p> Zweiter Teil, Akt 2</p>
+				<p> endung;<sup>25</sup> der völlige Abschluß fällt jedoch erst in den Dezember
+					1830. Am 4. Januar 1831 schreibt Goethe an Zelter: </p>
+				<p>Die zwey ersten Acte von Faust sind fertig. Die Exclamation des Cardinals von
+					Este, womit er den Ariost zu ehren glaubte, möchte wohl hier am Orte seyn.
+					Genug! Helena tritt zu Anfang des dritten Acts, nicht als Zwischenspielerin,
+					sondern als Heroine, ohne weiteres auf.<sup>26</sup>
+				</p>
+				<p>Pläne und erste Vorarbeiten zur `Klassischen Walpurgisnacht' stammen bereits aus
+					dem Jahr 1826,<sup>27</sup> der Beginn der kontinuierlichen Ausarbeitung setzt
+					wohl um die Jahreswende 1829/30 ein, noch bevor die Arbeit am 1. Akt endgültig
+					abgeschlossen ist.<sup>28</sup>
+				</p>
+				<p>Neben dem später in H integrierten Mundum der `Klassischen Walpurgisnacht' ist
+					eine weitere Reinschrift überliefert,<sup>29</sup> mit deren Niederschrift John
+					spätestens in der zweiten Februarhälfte begann.<sup>30</sup> Anfang März wird
+					neben diesem `Ersten Mundum'<sup>31</sup> auch schon "das zweyte reinere Mundum
+						gefördert",<sup>32</sup> bei dem es sich sehr wahrscheinlich bereits um die
+					letzte, in H überlieferte Reinschrift handelt.<sup>33</sup> Mit einigen
+						Unterbrechungen<sup>34</sup> wird die Arbeit dann bis in den April dieses
+					Jahres fortgesetzt. Anfang März heißt es in einem Brief an Zelter:</p>
+				<p> 25"Wenn Eckermann, bey soviel Lockungen und Verführungen, noch beysammen und ein
+					rückwärts blickender Mensch geblieben ist, so sag ihm: Die Walpurgisnacht sey
+					völlig abgeschlossen, und wegen des fernerhin und weiter Nöthigen sey die beste
+					Hoffnung." (WA IV,47,112; August von Goethe war mit Eckermann nach Italien
+					gereist.)</p>
+				<p>26WA IV,48,72. Zu dieser Briefstelle erläutert die HA, Briefe, Bd. 4, S. 651:
+					"Der Kardinal Ippolito d'Este, 15001572, Erzbischof von Mailand, der kein
+					Verständnis für die am Hofe von Ferrara gepflegte Dichtkunst besaß, soll den
+					Dichter des `Rasenden Roland' gefragt haben: `Meister Ludwig, woher habt Ihr nur
+					alle die Possen?'"</p>
+				<p>27Vgl. hier S. 391f.</p>
+				<p>28Unter der Signatur 25 XIX 1,21d wird im GSA ein Tagebuchblatt Eckermanns
+					aufbewahrt, das auf Januar 1830 zu beziehen ist und Auskunft gibt über das
+					Voranschreiten der Arbeiten am `Faust' (halbes Folioblatt, Velinpapier, mit
+					brauner Tinte beschriftet, mit Blei als erledigt gestrichen): "Tagebuch/
+						<u>Sonnta</u>g <u>d. 10.</u> J<u>anuar</u>/ Scene wo Faust zu den Müttern
+					geht./ <u>Sonnta</u>g <u>d. 17.</u> J<u>anuar</u>/ Mephistopheles bey den
+					Greifen und Sphinxen./ <u>Mittwoch d. 20.</u> J<u>anuar</u>/ Fernere Scene, wo
+					Faust nach der Helena fragt/ und der Berg entsteht." (Vgl. WA I,15.2,9). In den
+					`Gesprächen' berichtet Eckermann vom 10. 1. 1830: "Heute zum Nachtisch bereitete
+					Goethe mir einen hohen Genuß, indem er mir die Szene vorlas, wo Faust zu den
+					Müttern geht."</p>
+				<p>29II H74 enthält V.70058338 mit kleineren Lücken, noch ohne V.73957494 (Faust,
+					Chiron, Manto); vgl. hier S. 522.</p>
+				<p>30Die auf die Entstehung der `Klassischen Walpurgisnacht' bezüglichen
+					Tagebucheinträge Goethes verzeichnen kontinuierliche Arbeit in den Monaten
+					Januar und Februar (regelmäßig heißt es "Einiges Poetische"); seit Abschluß des
+					1. Akts Mitte Januar wird regelmäßige Mundierungstätigkeit erst wieder seit dem
+					21. Februar (WA III,12,200) verzeichnet.</p>
+				<p>31"Classische Walpurgisnacht erstes Mundum" ist dieses Konvolut (II H74)
+					überschrieben.</p>
+				<p>32Tagebuch vom 3. März 1830 (WA III,12,205).</p>
+				<p>33Vgl. Pniower, S. 248 und Gräf, S. 542.</p>
+				<p>34Vgl. Eckermanns Bericht vom 7. März 1830: "Um zwölf Uhr zu Goethe, den ich
+					heute besonders frisch und kräftig fand. Er eröffnete mir, daß er seine
+					klassische Walpurgisnacht habe zurücklegen müssen, um die letzte Lieferung [der
+					Ausgabe letzter Hand] fertig zumachen. `Hiebei Zur Entstehungsgeschichte</p>
+				<p> Seit acht Wochen beschäftige ich mich ununterbrochen mit einer Arbeit die mir
+					Freude macht und Euch auch Freude machen soll; dazu schöpf ich nun frischen
+					Athem und denke noch vor Ostern abzuschließen.<sup>35</sup>
+				</p>
+				<p>Am 21. des Monats ist dieser Zeitplan jedoch wohl schon aufgegeben; von diesem
+					Tag überliefert Eckermann folgende Äußerung Goethes:</p>
+				<p>In der Poesie jedoch lassen sich gewisse Dinge nicht zwingen, und man muß von
+					guten Stunden erwarten, was durch geistigen Willen nicht zu erreichen ist. So
+					lasse ich mir jetzt in meiner Walpurgisnacht Zeit, damit Alles die gehörige
+					Kraft und Anmut erhalten möge. Ich bin gut vorgerückt und hoffe es zu vollenden
+					bevor Sie gehen.</p>
+				<p>Gemeinsam mit Goethes Sohn August sollte Eckermann in diesem Frühjahr nach
+					Italien aufbrechen. Aber auch bis zum Tag der Abreise am 22. April 1830 war die
+					`Klassische Walpurgisnacht' noch nicht vollständig abgeschlossen; nach dem
+					Zeugnis der Tagebücher wurde die Arbeit nun zunächst unterbrochen, um erst am
+					12. Juni wieder aufgenommen zu werden.<sup>36</sup> Schon am 14. Juni aber
+					verzeichnet das Tagebuch dann einen zumindest vorläufigen Abschluß.<sup>37</sup>
+					Der Eintrag des folgenden Tages ("Neue Resolution wegen Faust")<sup>38</sup>
+					bezieht sich mit großer Wahrscheinlichkeit auf die (später wieder verworfene)
+					Entscheidung Goethes, den eigentlich für den 2. Akt vorgesehenen Abstieg Fausts
+					in den Hades als Prolog dem 3. Akt voranzustellen.<sup>39</sup>
+				</p>
+				<p>
+					<i>Pharsalische Felder (V. 70057248)</i>
+				</p>
+				<p>Wesentliche Teile dieser ersten Szene der `Klassischen Walpurgisnacht' entstehen
+					wahrscheinlich im Januar 1830;<sup>40</sup> laut Auskunft des Tagebuchblatts
+					liest Goethe Eckermann am 17.Januar 1830 die Szene "Mephistopheles bei den
+					Greifen und Sphinxen" aber, sagte er, bin ich klug gewesen, daß ich aufgehört
+					habe, wo ich noch in gutem Zuge war, und noch viel bereits Erfundenes zu sagen
+					hatte. Auf diese Weise läßt sich viel leichter wieder anknüpfen, als wenn ich so
+					lange fortgeschrieben hätte bis es stockte.'"</p>
+				<p>35WA IV,46,258.</p>
+				<p>36WA III,12,255.</p>
+				<p>37"Faust Hauptmotive abgeschlossen" (WA III,12,256). Spätestens an diesem Tag
+					(vielleicht, wie Hertz annimmt, bereits bis zum 22. April?) muß die Arbeit an II
+					H74, dem ersten Mundum zur `Klassischen Walpurgisnacht', abgeschlossen worden
+					sein. Sehr wahrscheinlich sind in diesen Junitagen die nun zunächst als
+					Schußverse geltenden V.83398346 entstanden, vor denen das Mundum II H74
+					abbricht.</p>
+				<p>38WA III,12,257. Da der bisher geplante noch fehlende Schluß der Klassischen
+					Walpurgisnacht mit dieser Entscheidung auf einen Prolog zum 3. Akt verschoben
+					wird, kann Goethe am 25.Juni 1830 Eckermann ausrichten lassen, die
+					"Walpurgisnacht sey völlig abgeschlossen" (WA IV,47,112).</p>
+				<p>39Vgl. das Schema P157 vom 18. Juni 1830, hier S. 525f.</p>
+				<p>40Vgl. FischerLamberg, S. 42f. Die Eingangsverse des 2. Akts (der Monolog der
+					Erichtho und die Ankunft der "Luftfahrer", V.70057079) sind jedoch vermutlich
+					erst später entstanden; die einzige überlieferte Einzelhandschrift (II H7:
+					V.70057043 _ eine nach dem Mundum II H74 wohl für H hergestellte Abschrift, vgl.
+					FischerLamberg, S. 31) gibt keinen Anhaltspunkt für die Entstehung dieser Verse.
+					Während die Stichworte des wahrscheinlich im Januar entstandenen Zweiter Teil,
+					Akt 2</p>
+				<p> (Vers 70807165)<sup>41</sup> vor, am 20. 1. 1830 die Szene "wo Faust nach der
+					Helena fragt und der Berg entsteht".<sup>42</sup>
+				</p>
+				<p>Vom 24. 1. 1830 berichtet Eckermann folgende Äußerung Goethes:</p>
+				<p>Faust ist jetzt mit dem Chiron zusammen und ich hoffe die Szene soll mir
+					gelingen. [V. 7330ff.] Wenn ich mich fleißig dazu halte, kann ich in ein paar
+					Monaten mit der Walpurgisnacht fertig sein.<sup>43</sup>
+				</p>
+				<p>
+					<i>Peneios (V. 72497494)</i>
+				</p>
+				<p>Diese Szene weist zwei deutlich voneinander geschiedene Entstehungsphasen auf. In
+					ihrer Untersuchung der Chronologie kommt FischerLamberg zu folgendem Ergebnis:
+					"Soweit es die ermittelten konkreten Daten erkennen lassen, ist der erste Teil
+					der Szene, V. 72497349, Ende Januar bis Ende März 1830 entstanden und in II H74
+					mundiert worden. Der zweite Teil, V.73957494 fehlt dagegen noch ganz in II H74
+					und weist mit den in den Handschriften überlieferten Daten auf die zweite Hälfte
+					des April 1830."<sup>44</sup> Diese Beobachtungen FischerLambergs lassen
+					vermuten, daß zumindest der letzte Teil dieser Szene (V. 74717494: das
+					Zusammentreffen mit Manto) im Zusammenhang mit der `neuen Resolution' vom 15. 6.
+					1830 (die Szene im Hades auf einen Prolog zum 3. Akt zu verschieben) erst Mitte
+					Juni 1830 entstanden ist.<sup>45</sup>
+				</p>
+				<p> Schemas P124 (hier S. 490-492) vom schließlich realisierten Beginn noch deutlich
+					abweichen, weist die Korrekturschicht von P125 (6. 2. 1830) deutliche
+					Übereinstimmungen mit dem Eingangsmonolog der Erichtho auf (vgl. hier S.
+					508).</p>
+				<p>41Vgl. das Tagebuchblatt Eckermanns, hier S. 394, Anm. 28. Pniower (S. 244) und
+					Gräf (S. 534) vermuteten hinter dieser Beschreibung die V.70807180;
+					FischerLamberg macht wahrscheinlich, daß II H8a als wesentliche Grundlage dieses
+					Vortrags diente, in dem V.71667180 noch fehlen, die auch im Mundum II H74 erst
+					nachträglich ergänzt wurden. Vgl. FischerLamberg, S. 31f. und 43.</p>
+				<p>42Vgl. das Tagebuchblatt Eckermanns, hier S. 394, Anm. 28. Diese Angabe
+					bezeichnet wahrscheinlich etwa V.71817201, 72147228 (`Pharsalische Felder') und
+					V.74957580 (`Am obern Peneios'). (Vgl. FischerLamberg, S. 43. Sie verweist auf
+					II H17 und II H20 als mögliche Vorlagen). Wie auch P124 (hier S. 490-492) deutet
+					Eckermanns Notiz darauf hin, daß die entsprechenden Szenen noch nicht die
+					endgültige Gestalt und Reihenfolge besaßen.</p>
+				<p>43Eckermann 24. 1. 1830. Die zwischen Fausts Frage nach der Helena und der
+					Entstehung des Berges liegende Szene (Faust am Peneus/Faust und Chiron) ist also
+					Mitte Januar noch nicht abgeschlossen; erst eine Randergänzung auf P124 weist
+					ihr ihren Platz zwischen `Mephisto bei den Sphynxen' und der folgenden
+					Erdbebenszene zu. Etwas über zwei Wochen später präzisiert Goethe den Termin des
+					geplanten Abschlusses nach Eckermanns Bericht: "Wir sprachen sodann über die
+					klassische Walpurgisnacht, und daß er dabei auf Dinge komme, die ihn selber
+					überraschen. Auch gehe der Gegenstand mehr auseinander als er gedacht. `Ich habe
+					jetzt etwas über die Hälfte, sagte er, aber ich will mich dazu halten und hoffe
+					bis Ostern fertig zu sein.'" (Eckermann 10. 2. 1830.)</p>
+				<p>44FischerLamberg, S. 47.</p>
+				<p>45Die entsprechenden Handschriften (II H34H36) werden von FischerLamberg (S.
+					4547) auf einen Zeitpunkt nach dem 23. 4. 1830 datiert _ Arbeit am `Faust'
+					verzeichnet das Tagebuch nach diesem Datum erst wieder am 12. Juni 1830. </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p>
+					<i>Am obern Peneios (V. 74958033)</i>
+				</p>
+				<p>Für diese Szene "läßt sich aus den Handschriften kein ganz klares Bild
+						gewinnen."<sup>46</sup> Für die Verse 7495 bis etwa 7800 weisen Indizien auf
+					Januar 1830. Die Szene zwischen Mephisto und den Phorkyaden ist auf dem Schema
+					vom 6. Februar (P125, hier S. 508-510) noch in einer deutlich von der
+					endgültigen Fassung abweichenden Version skizziert. Über den Abschluß der Arbeit
+					berichtet Goethe im Juni 1830.<sup>47</sup>
+				</p>
+				<p>
+					<i>Felsbuchten des Ägäischen Meers (V. 80348274)</i>
+				</p>
+				<p>Für diese Szene stellt FischerLamberg zusammenfassend fest, "daß die aus den
+					handschriftlichen Indizien gewonnenen Datierungen die Entstehung des [...]
+					ersten Teils der Szene `Felsbuchten des Ägäischen Meers' [V. 80348274] auf Ende
+					Februar und den März 1830 festlegen".<sup>48</sup> Nicht auszuschließen scheint
+					mir jedoch, daß erste Entwürfe zu V. 8034ff. bereits Ende Januar/Anfang Februar
+					1830 entstanden sind.<sup>49</sup>
+				</p>
+				<p>
+					<i>Abschluß der Klassischen Walpurgisnacht (V. 82758487)</i>
+				</p>
+				<p>Die Entstehung der letzten Teilszene der `Klassischen Walpurgisnacht' (`Telchinen
+					von Rhodos') schließlich</p>
+				<p>[...] zerfällt in drei Perioden. Erste Ansätze liegen wohl schon im März 1830,
+					wie II H60 zeigt. Dann scheint die Beschäftigung mit dieser Szene völlig zu
+					ruhen, um erst am 12. Juni wieder aufgenommen zu werden. In den nun folgenden
+					Tagen des Juni berichtet zwar das Tagebuch nur wenig über die Arbeit am Faust,
+					aber der erste vorläufige Abschluß der Klassischen Walpurgisnacht, von dem
+					Goethe seinem Sohn am 25. 6. 1830 nach Italien meldet, muß in dieser Zeit
+					gelungen sein, da auch die Datierung einiger hierher gehörender Blätter (II H66,
+					II H67) in diese Zeit weist.<sup>50</sup>
+				</p>
+				<p>Da in diesen Junitagen auch die Entscheidung fiel, den immer noch fehlenden
+					Abstieg Fausts in den Hades als Prolog dem 3. Akt voranzustellen,<sup>51</sup>
+					kann Goethe dem abwesenden Eckermann am 9. 8. 1830 melden, "daß die classische
+					Walpurgisnacht zu Stande gekommen, oder vielmehr in's Grenzenlose ausgelaufen
+						ist."<sup>52</sup> Der endgültige 46FischerLamberg, S. 53.</p>
+				<p>47Vgl. hier S. 393f.</p>
+				<p>48FischerLamberg, S. 58.</p>
+				<p>49Vgl. hier S. 498-502.</p>
+				<p>50FischerLamberg, S. 69. Diese Datierungen bleiben allerdings unsicher. Welche
+					Verse tatsächlich noch im Juni 1830 dem Vorhandenen hinzugefügt wurden, ist
+					zweifelhaft. Vielleicht sind in diesen Tagen zumindest die in II H74 noch
+					fehlenden V.83398346 entstanden, die nun zunächst als Szenenschluß gedacht
+					gewesen sein mögen.</p>
+				<p>51Vgl. auch den Kommentar zu P157, hier S. 527f.</p>
+				<p>52WA IV,47,171. Eine ähnliche Nachricht findet sich bereits in einem Brief
+					Goethes an seinen Sohn vom 25. 6. 1830, siehe oben.</p>
+				<p> Zweiter Teil, Akt 2 </p>
+				<p>Nachlaßstücke Zweiter Teil, Akt 2</p>
+				<p>Abschluß der Arbeit an der `Klassischen Walpurgisnacht' ist tatsächlich jedoch
+					erst im Winter zu verzeichnen: wie FischerLamberg gezeigt hat, entstehen die
+					Verse 8347-8487 im Dezember 1830.<sup>53</sup>
+				</p>
+				<p> 53FischerLamberg, S. 5869. (Vgl. auch ihren Aufsatz über den Schluß der
+					`Klassischen Walpurgisnacht'.) Zentrales Argument ist die Datierung der
+					Handschrift II H70 (V.83478457) anhand auf ihr überlieferter, nicht zum `Faust'
+					gehörender Konzepte auf einen Zeitpunkt nach dem 29.8. 1830. Das Tagebuch
+					verzeichnet bis zum 2.12. 1830 keine Arbeit am `Hauptgeschäft'; Anregungen, die
+					nach den Überlegungen von Hertz für die Gestaltung der Schlußszene wichtig
+					gewesen sind (naturwissenschaftliche Arbeiten zum Phänomen des Meeresleuchtens,
+					vgl. Hertz, Natur und Geist, S. 169177), fallen in den Oktober 1830: "In
+					teilweiser Übereinstimmung mit G.W. Hertz datieren wir daher die abschließenden
+					Arbeiten am zweiten Akt in die Zeit zwischen dem 2. und 17. Dezember 1830"
+					(FischerLamberg, Klassische Walpurgisnacht, S. 288). Aus dieser Datierung des
+					WalpurgisnachtFinales folgt, daß die Verse etwa gleichzeitig mit dem Schluß des
+					ganzen Zweiten Teils entstanden sind: den Bezügen zwischen der Szene
+					`Bergschluchten' und dem Meeresfest entsprechen also auch
+					entstehungsgeschichtliche Zusammenhänge. Anzumerken bleibt, daß die von
+					FischerLamberg geleistete, überzeugende Datierung des von John geschriebenen
+					Arbeitsmundums II H70 nicht ausschließt, daß erste Vorarbeiten zu diesen
+					abschließenden Szenen schon aus dem Sommer 1830 stammen: eigenhändige Entwürfe
+					zu den V.83598369 sowie V.83708378 finden sich auf der Rückseite eines
+					Theaterzettels vom 12. Juni 1830 (II H71) _ unter diesem Datum verzeichnet das
+					Tagebuch: "Beachtung von Faust wieder vorgenommen" (WA III,12,255). </p>
+				<p> IIIH49 (P158)</p>
+				<p>
+					<b>III H49 (P158)</b>
+				</p>
+			</kommentar>
+		</f:abrDissertation>
+		<f:inventoryDatabase>
+			<f:field>
+				<f:key n="08">Signatur</f:key>
+				<f:value>25/XVII,5,30*b</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="081">Bestandsbezeichnung</f:key>
+				<f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+				<f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11z">Druckstelle in der WA</f:key>
+				<f:value>I 15.1,8</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="14">vorgefundenes Inzipit</f:key>
+				<f:value>Man kleid ihn ritterlich</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="30">Schrift</f:key>
+				<f:value>egh</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="333">Überlieferungsform</f:key>
+				<f:value>Konzept</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="41p">Paralipomenon</f:key>
+				<f:value>122</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite,
+					Zeile) bzw. Paralipomena</f:key>
+				<f:value>I 15.2,197</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="xx0">Datensatznr.</f:key>
+				<f:value>2930</f:value>
+			</f:field>
+		</f:inventoryDatabase>
+		<f:inventoryDatabase>
+			<f:field>
+				<f:key n="08">Signatur</f:key>
+				<f:value>25/XVII,5,30*a</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="081">Bestandsbezeichnung</f:key>
+				<f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+				<f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11z">Druckstelle in der WA</f:key>
+				<f:value>I 15.1,8</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="14">vorgefundenes Inzipit</f:key>
+				<f:value>Da schweig ich nun</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="30">Schrift</f:key>
+				<f:value>egh</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="333">Überlieferungsform</f:key>
+				<f:value>Konzept</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="41f">fehlende Verse</f:key>
+				<f:value>6457-6458</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="41v">Verszahlen</f:key>
+				<f:value>6451-6460</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="91">Kommentar</f:key>
+				<f:value>= früheres K im Vgl. mit diesen Versen auf H.56 (25/XVII,5,28*a)</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="xx0">Datensatznr.</f:key>
+				<f:value>3810</f:value>
+			</f:field>
+		</f:inventoryDatabase>
+		<f:inventoryDatabase>
+			<f:field>
+				<f:key n="08">Signatur</f:key>
+				<f:value>25/XVII,5,30</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="081">Bestandsbezeichnung</f:key>
+				<f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="12e">ermittelte Datierung</f:key>
+				<f:value>Ende August 1829 (?)</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+				<f:value>I 15.2,12</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="25">Sigle</f:key>
+				<f:value>I H.58</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="80">Blattzahl</f:key>
+				<f:value>1</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="90">dabei-Vermerk</f:key>
+				<f:value>Numerierung "4" egh [oben rechts, Vorderseite]; nicht mehr lesbare,
+					verwischte Bleientwürfe [Rückseite]; Numerierung "6" egh [Rückseite]</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="91">Kommentar</f:key>
+				<f:value>zur Datierung vgl. Bohnenkamp, S.388</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="994">Filmnummer</f:key>
+				<f:value>1142</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="xx0">Datensatznr.</f:key>
+				<f:value>3901</f:value>
+			</f:field>
+			<f:paralipomenon>
+				<f:field>
+					<f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+					<f:value>25/XVII,5,30*b</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="21">WA-Abtlg. Bd. S.</f:key>
+					<f:value>I 15.2,12: H.58</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="26">Bohnenkamp-Sigle</f:key>
+					<f:value>I H 58</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="41b">Bohnenkamp-Seite</f:key>
+					<f:value>387</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="41h">Hecker-Nummer</f:key>
+					<f:value>149</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="42i">Bohnenkamp-Inzipit</f:key>
+					<f:value>Man kleid' ihn ritterlich</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="43">WA-Paralipomenon-Nummer</f:key>
+					<f:value>122</f:value>
+				</f:field>
+				<f:field>
+					<f:key n="xx0">Datensatznr.</f:key>
+					<f:value>9961</f:value>
+				</f:field>
+			</f:paralipomenon>
+		</f:inventoryDatabase>
+	</f:metadataImport>
+</archivalDocument>

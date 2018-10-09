@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390625/">
+   <revisionDesc>
+      <change when="2012-11-27" who="bruening">encoded</change>
+      <change when="2014-11-12" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Längs gebrochen. auf Brief von Wolfgang Maximilian v. Goethe an unbekannte Empfängerin:
+         „Liebe Nätern . . .“, Konzept Wolfgang Maximilian v. Goethe
+         Einzelblatt, 2 beschriebene Seiten. – Vs.: Briefentwurf (Wolfgang Maximilian von Goethe, Tinte), Rs.:  Versentwürfe zu ‚Faust II‘, Akt 1
+         (eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.55</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,27</idno>
+      <idno type="gsa_2">GSA 25/W 1480</idno>
+      <idno type="gsa_ident">390625</idno>
+      <idno type="wa_faust">2 I H.55</idno>
+      <textTranscript uri="390625.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">198</width>
+         <height unit="mm">326</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 12</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= späteres Konzept im Vgl. mit H.54 (25/XVII,5,26); Schrift kollationiert mit 37/XXXVII,8</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390625</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Vers(e): 6343-6355 (6353 fehlt/fehlen)
+Laßt mich hindurch! ...
+WA: I H.55; vgl. I 15.2,12
+Konzept
+auf Brief von Wolfgang Maximilian von Goethe an unbekannte Empfängerin: "Liebe Nätern...", Konzept Wolfgang Maximilian von Goethe</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,5,27</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,27</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Laßt mich hindurch!</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,12</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.55</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>6353</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6343-6355</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Goethe, Wolfgang Maximilian von; Unbekannte Empfänger</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vgl. mit H.54 (25/XVII,5,26); Schrift kollationiert mit
+               37/XXXVII,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Brief von Wolfgang Maximilian von Goethe an unbekannte Empfängerin: "Liebe
+               Nätern...", Konzept Wolfgang Maximilian von Goethe</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1139</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2439</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

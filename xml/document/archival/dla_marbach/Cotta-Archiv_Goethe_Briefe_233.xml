@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/dla_marbach/Cotta-Archiv_Goethe_Briefe_233/">
+   <revisionDesc>
+      <change when="2013-03-08" who="bruening koehler">Fischer-Lamberg.</change>
+      <change when="2014-02-17" who="bruening">Doppelblätter</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Doppelblätter. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <repository>dla_marbach</repository>
+      <subRepository>Cotta-Archiv</subRepository>
+      <idno type="faustedition">2 III H.75b</idno>
+      <idno type="dla_marbach">Cotta:Briefe Goethe, Nr. 233</idno>
+      <!-- gem. E-Mail von Fr. Slenzka am 12.1.2012 -->
+      <idno type="gsa_1">GSA 25/XVIII,4,7a</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 III H.75a</idno>
+      <textTranscript uri="Cotta-Archiv_Goethe_Briefe_233.xml"/>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            135</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 135</reference>
+      </references>
+      <!-- nicht gefunden in Kuhns Ausgabe des Goethe-Cottaschen Briefwechsels -->
+   </metadata>
+
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="01.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="02.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="03.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="04.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="05.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="06.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="07.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="08.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

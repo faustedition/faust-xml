@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390812/">
+<revisionDesc>
+   <change when="2012-12-05" who="henzel">imported</change>
+   <change when="2012-12-06" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">URI fuer Handschriftensigle</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Umschlag mit angeschnittener Beschriftung eines zeitgenössischen Schreibers mit Tinte; war ursprünglich am unteren Rand mit Par 161 (faust://document/fischer_lamberg/2_II_H.12a (GSA 25/XIX,2,10)) verbunden</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.12</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,13</idno>
+      <idno type="gsa_2">GSA 25/W 1501</idno>
+      <idno type="gsa_ident">390812</idno>
+      <idno type="wa_faust">2 II H.12</idno>
+      <textTranscript uri="390812.xml"/>
+      <classification>Konzept</classification>
+      <condition>weiße Flecken, Rotstiftspuren</condition>
+     <dimensions>
+        <width unit="mm">224</width>
+        <height unit="mm">122</height>
+     </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 221 mm. Der Mindestwert der Blatt-Höhe beträgt 111 mm.</note>
+      <format>none</format>
+     <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>n.s.<!-- TODO Mühle --></paperMill>
+      <watermarkID>WALDER</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 33</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 33f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>        
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= früheres Konzept im Vgl. mit II H.8 (25/XVII,7,9:1); = am oberen und unteren Rand beschnittenes Blatt;  [vgl. oben angeschnittene Buchstaben auf Par 161]</f:bemerkung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390071/">
+   <revisionDesc>
+      <change when="2012-11-14" who="henzel">imported</change>
+      <change when="2012-11-14" who="henzel">encoded</change>
+      <change when="2013-02-01" who="henzel">aktualisiert</change>
+      <change when="2013-10-29" who="henzel">Lagenstruktur aktualisiert</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Zettel. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Zwei Teile eines zertrennten Folioblattes; das obere linke Viertel fehlt.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.6:2</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,7:2</idno>
+      <idno type="gsa_2">GSA 25/W 1676</idno>
+      <idno type="gsa_ident">390071</idno>
+      <idno type="wa_faust">2 IV H.6</idno>
+      <textTranscript uri="390071.xml"/>
+      <classification>Konzept</classification>
+      <condition>Beide Blätter wurden vermutlich nach der Beschriftung im unteren Viertel waagerecht gebrochen.</condition>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <!-- linkes unteres Viertel -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">99</width>
+            <height unit="mm">162</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 97 mm.</note>
+         <format>8</format>
+         <!-- Längsformat -->
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002a.xml"/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- rechte Hälfte -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">103</width>
+            <height unit="mm">326</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 99 mm. Der Mindestwert der Blatt-Höhe beträgt 325 mm.</note>
+         <format>none</format>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

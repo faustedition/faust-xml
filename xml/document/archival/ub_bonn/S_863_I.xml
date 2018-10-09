@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_bonn/S_863_I/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Nachweise</change>
+      <change when="2012-09-28" who="bruening">Nachweise</change>
+      <change when="2012-10-02" who="bruening">Nachweise</change>
+      <change when="2013-11-21" who="henzel">Lagenstruktur</change>
+      <change when="2013-11-21" who="henzel">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-02-19" who="henzel">subRepository bearbeitet</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Kopie von unbekannter Hand eines verlorengegangenen eigenhändigen Blattes Goethes, das
+         einem Brief von ihm an Sulpiz Boisserée vom 7. April 1825 für Clémentine Cuvier beilag;
+         dabei: angeklebtes Schreiben Erich Schmidts vom 26. September 1888, das der Rücksendung des
+         Blattes aus Berlin beigegeben war</note>
+      <!-- TODO Verlinkung mit Entstehungszeugnis -->
+      <repository>ub_bonn</repository>
+      <subRepository>Nachlass Sulpiz Boisserée</subRepository>
+      <idno type="faustedition">2 V H.26a</idno>
+      <idno type="ub_bonn">S 863,I : XX,4</idno>
+      <idno type="gsa_1">GSA 25/XVIII,8,4a</idno>
+      <idno type="wa_faust">2 V H.b</idno>
+      <textTranscript uri="S_863_I.xml"/>
+      <classification>none</classification>
+      <note>Reinschrift</note>
+      <!-- Autograph als Geschenk -->
+      <history>Wie aus dem Brief Schmidts hervorgeht, wurde ihm die Abschrift zu Begutachtung
+         ausgeliehen, er sandte sie 1888 zurück nach Bonn. Eigenhändiges Original, das als
+         Autographschenkung für Clémentine Cuvier vorgesehen war, ist verschollen.</history>
+      <condition>Brief Erich Schmidts wurde an den linken Rand der Handschrift geklebt; auf der
+         Rückseite Stempel der Universitätsbibliothek Bonn; Papier an manchen Stellen ausgedünnt,
+         wenige Gebrauchsspuren (Knick unten links und Knitterspuren)</condition>
+      <dimensions>
+         <width unit="mm">118</width>
+         <height unit="mm">166</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 117 mm. Der Mindestwert der Blatt-Höhe beträgt
+         165 mm.</note>
+      <format>8</format>
+      <!-- Vermutung -->
+      <edges>cut</edges>
+      <note>Risskante oben und rechts</note>
+      <paperType>Maschinenpapier</paperType>
+      <!-- sehr fest und glatt -->
+      <paperColour>beige</paperColour>
+      <chainLines unit="mm">none</chainLines>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 172</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <reference type="text" uri="faust://bibliography/boisseree1862">Bd. 2, S. 381f.</reference>
+         <reference type="text" uri="faust://bibliography/duentzer1868">Tl. 2, S. 291</reference>
+         <reference type="text" uri="faust://bibliography/wa_IV_39">S. 178f.</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 172</reference>
+         <reference type="essay" uri="faust://bibliography/pniower1899">S. 146f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 172</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+         <patch>
+            <!-- Brief Erich Schmidts -->
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">135</width>
+                  <height unit="mm">117</height>
+               </patchDimensions>
+               <note>Der Mindestwert der Blatt-Breite beträgt 134 mm.</note>
+               <patchType>glue</patchType>
+               <patchPaperType>Maschinenpapier</patchPaperType>
+               <patchPaperColour>blau</patchPaperColour>
+               <note>mit aufgedruckter Bordüre</note>
+               <patchChainLines unit="mm">none</patchChainLines>
+               <patchWatermarkID>none</patchWatermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

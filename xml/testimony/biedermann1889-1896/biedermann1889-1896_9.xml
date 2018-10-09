@@ -1,0 +1,49 @@
+<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biedermann 1, Bd. 9</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2014-04-02" who="gorbunova">Ablegung der Entstehungszeugnisse, Fehlermeldungen korrigiert, Einfügen der Startseite</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="112"/>
+            <div type="conversation">
+                <head>
+                    <num type="biedermann-1">1561.</num></head> <milestone unit="page" type="startpage" n="112"/>
+                    
+                    <head><date>1809, Ende.(?)</date></head>
+                <head>Über »Die Wahlverwandtschaften«</head>
+                
+                <p rend="indentchar-m4n0">General v. Rühle erzählte mir [Varnhagen v. Ense], Goethe
+                    selbst habe ihm einmal gesagt: er habe die erste Anregung zu den
+                    ›Wahlverwandtschaften‹ durch Schelling erhalten, wie Kapp in seinem Buche
+                    [Friedrich Wilhelm Joseph v. Schelling – Ein Beitrag zur Geschichte des Tages von
+                    einem vieljährigen Beobachter] richtig bemerkt. In der Charlotte wollte man die
+                    Herzogin Luise erkennen, in dem Hauptmann den Freiherrn v. Müffling, jetzigen
+                    Gouverneur von Berlin, [1842] in Luciane einzelne Züge der Fräulein v.
+                    Reitzenstein, und so noch andere; in dem Maler einen jungen Künstler aus Kassel.
+                    <milestone unit="testimony" spanTo="#graef_1100_end" xml:id="graef_1100"/>Goethe sagte einmal zu Rühle: »Ich heidnisch? <rs>Nun ich habe doch Gretchen
+                    hinrichten und Ottilie verhungern lassen; ist das den Leuten nicht christlich
+                    genug?</rs> Was wollen sie noch Christlicheres?«<anchor xml:id="graef_1100_end"/></p>
+                <p rend="indentchar-m4n0"> Das erinnert an die empörte Antwort, die er Knebeln wegen
+                    der sittlichen Bedenken desselben gegen die ›Wahlverwandtschaften‹ gab: »Ich hab's
+                    auch nicht für Euch, ich hab's für die jungen Mädchen geschrieben.«</p>
+                <pb n="113"/>
+                <lb/>
+            </div>
+        </body>
+    </text>
+</TEI>

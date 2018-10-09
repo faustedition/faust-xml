@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_19/">
+   <revisionDesc>
+      <change when="2013-06-18" who="henzel">WA ergaenzt</change>
+      <change when="2013-07-30" who="ritter">aktualisiert</change>
+      <change when="2013-08-13" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+        <metadata>
+           <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+           <repository>bb_cologny</repository>
+           <idno type="faustedition">H P176a</idno>
+           <idno type="bb_cologny">G-30.19</idno>
+           <idno type="fischer_lamberg">2 III H.o</idno>
+           <idno type="bohnenkamp">H P176a</idno><!-- neue Zählung Paralipomenon 59 in WA -->
+            <textTranscript uri="G-30_19.xml"/>
+           <classification>Konzept</classification>
+           <history>Blatt mit Vermerk des Schreibers John "Gegen Ende des Jahres ergaben", von Goethe zu verschiedenen Entwürfen und Skizzen genutzt. Eine Seite mit Briefentwürfen und Prosaskizzen, andere Seite mit Faustversen aus dem Helenaakt beschrieben.
+              Gehört zum Bestand der Freiherrlich Maucler'schen Bibliothek auf Schloss Ober-Herrlingen bei Ulm. Nach Morris auf das Jahr 1825 datiert (Morris Goethe-Jahrb. 25, S. 65f.)</history>
+           <numberingList>
+              <numbering>Zeitgenössische oder archivarische Zählung mit Bleistift (arabische Ziffer)</numbering>
+              <numbering>Zeitgenössische oder archivarische Zählung mit Bleistift (arabische Ziffer und Buchstabe)</numbering>
+           </numberingList>
+           <condition>wohl vor der Beschriftung als Abrechnungszettel längs gefaltet; im unteren Bereich war das Blatt zudem noch quer gefaltet; Vergilbungen an den Falzen</condition>
+           <dimensions>
+              <width unit="mm">204</width>
+              <height unit="mm">190</height>
+           </dimensions>
+           <format>none</format><!-- beinahe Quart -->
+           <edges>cut</edges>
+           <paperType>Konzeptpapier</paperType>
+           <paperColour>grau</paperColour>
+           <chainLines unit="mm">27</chainLines>
+           <paperMill>Stützerbach</paperMill>
+           <watermarkID>'H' über 'N 1'</watermarkID><!-- auf Steglinie, auf Rückseite um 180° gedreht -->
+           <references>
+              <reference type="description" uri="faust://bibliography/ofterdinger1886">S. 275</reference><!-- Text ist aber aufgrund Verwischung nicht identifiziert worden --> 
+              <reference type="description" uri="faust://bibliography/morris1904">S. 65f.</reference>
+              <reference type="description" uri="faust://bibliography/wa_I_53">S. 371</reference>
+              <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 615</reference>
+              <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 147</reference>
+              <reference type="text" uri="faust://bibliography/morris1904">S. 65f.</reference>
+              <reference type="text" uri="faust://bibliography/wa_I_53">S. 371</reference>
+              <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 615</reference>
+              <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 692</reference>
+              <reference type="essay" uri="faust://bibliography/morris1904">S. 65f.</reference>
+              <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 615f.</reference>
+           </references>
+           <!-- WA I 53, 371: "176a in der Reihe der Faustparalipomena (15 II, 235). Von Goethes Hand auf einem Blatt mit Prosanotizen, aus dem Jahr 1825, in der Freiherrlich Maucler'schen Bibliothek auf Schloss Ober-Herrlingen bei Ulm (mitgetheilt von Morris Goethe-Jahrb. 25, 65)." -->
+        </metadata>    
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

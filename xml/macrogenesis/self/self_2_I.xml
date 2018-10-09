@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+  <!-- Cf. https://github.com/faustedition/xml/issues/600 -->
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>eigh. Reinschrift</comment>
+    <item uri="faust://document/faustedition/2_I_H.8"/>
+    <item uri="faust://document/faustedition/2_I_H.9"/>
+    <!--08-12-1827-->
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Abschrift John mit Korrektur Goethes</comment>
+    <item uri="faust://document/faustedition/2_I_H.9"/>
+    <item uri="faust://document/faustedition/2_I_H.9a"/>
+    <!--08-12-1827-->
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Abschrift John mit Korrektur Goethes</comment>
+    <item uri="faust://document/faustedition/2_I_H.9a"/>
+    <item uri="faust://document/faustedition/2_I_H.9b"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Album der Gräfin Caroline Egloffstein</comment>
+    <item uri="faust://document/faustedition/2_I_H.9b"/>
+    <item uri="faust://document/faustedition/2_I_H.9c_"/>
+    <!--Weihnachten 1827-->
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Brief von Karoline von Egloffstein an Henriette von Beaulieu-Marconnay</comment>
+    <item uri="faust://document/faustedition/2_I_H.9c_"/>
+    <item uri="faust://document/faustedition/2_I_H.9d"/>
+    <!--28.12.1827-->
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <item uri="faust://document/faustedition/2_I_H.9e_"/>
+    <item uri="faust://document/faustedition/2_I_H.9f"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <item uri="faust://document/faustedition/2_I_H.9e_"/>
+    <item uri="faust://document/faustedition/2_I_H.9g"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <item uri="faust://document/faustedition/2_I_H.9h"/>
+    <item uri="faust://document/faustedition/2_I_H.9i_"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Tintenentwurf</comment>
+    <item uri="faust://document/faustedition/2_I_H.9k"/>
+    <item uri="faust://document/faustedition/2_I_H.9l_"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <item uri="faust://document/faustedition/2_I_H.9m"/>
+    <item uri="faust://document/faustedition/2_I_H.9n_"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <item uri="faust://document/faustedition/2_I_H.9o_"/>
+    <item uri="faust://document/faustedition/2_I_H.9p_"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Tintenentwurf</comment>
+    <item uri="faust://document/faustedition/2_I_H.12_1"/>
+    <item uri="faust://document/faustedition/2_I_H.12a"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Tintenentwurf</comment>
+    <item uri="faust://document/faustedition/2_I_H.15"/>
+    <item uri="faust://document/faustedition/2_I_H.15a"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Tintenentwurf</comment>
+    <item uri="faust://document/faustedition/2_I_H.24b"/>
+    <item uri="faust://document/faustedition/2_I_H.24c"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Ausarbeitung</comment>
+    <item uri="faust://document/faustedition/2_I_H.43"/>
+    <item uri="faust://document/faustedition/2_I_H.43a"/>
+  </relation>
+  <date when="1827-12-08">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9"/>
+  </date>
+  <date when="1827-12-08">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9a"/>
+  </date>
+  <!--Weihnachten 1827-->
+  <date when="1827-12-25">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9c_"/>
+  </date>
+  <date when="1827-12-28">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Brief</comment>
+    <item uri="faust://document/faustedition/2_I_H.9d"/>
+  </date>
+  <!--"Weihnachten 1825"-->
+  <date when="1825-12-25">
+    <source uri="faust://self"/>
+    <item uri="faust://document/faustedition/2_I_H.9e_"/>
+  </date>
+  <!--Weihnachten 1825-->
+  <date when="1825-12-25">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9h"/>
+  </date>
+  <!--Weihnachten 1825-->
+  <date when="1825-12-25">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9i_"/>
+  </date>
+  <!--Weihnachten 1827-->
+  <date when="1827-12-25">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9m"/>
+  </date>
+  <!--Weihnachten 1827-->
+  <date when="1827-12-25">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9n_"/>
+  </date>
+  <!--Weihnachten 1827-->
+  <date when="1827-12-25">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9o_"/>
+  </date>
+  <!--Weihnachten 1827-->
+  <date when="1827-12-25">
+    <source uri="faust://self"/>
+    <comment>Datierung auf Hs</comment>
+    <item uri="faust://document/faustedition/2_I_H.9p_"/>
+  </date>  
+</macrogenesis>

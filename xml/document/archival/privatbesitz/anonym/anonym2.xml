@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+    xml:base="faust://xml/transcript/privatbesitz/anonym2/">
+    <revisionDesc>
+        <change when="2018-01-22" who="bruening">angelegt</change>
+        <change when="2018-01-25" who="bruening">Angaben von ABR übernommen</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+        <note>Halbiertes Folioblatt; obere Hälfte: faust://document/faustedition/2_III_H.35.</note>
+        <!-- Ältere (?) Fassung der letzten Verse von P174 -->
+        <!-- Jüngere Fassung (vgl. Schluss) von P175 -->
+        <!-- Faltungsspuren? Nein -->
+        <repository>privatbesitz</repository>
+        <idno type="faustedition">H P174</idno><!-- salvo meliore -->
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="anonym2.xml"/>
+        <classification>Konzept</classification>
+        <!--<history/>
+        <condition>Gut, geringfügig stockfleckig</condition>-->
+        <dimensions>
+            <width unit="mm">199</width><!-- 19,7-19.9 Breite -->
+            <height unit="mm">165</height><!-- 16,3 7 16,5 [7 vmtl. für /] -->
+        </dimensions>
+        <format>none</format>
+        <edges>cut</edges>
+        <!-- Risskante oben -->
+        <paperType>Schreibpapier</paperType>
+        <paperColour>grünlich</paperColour>
+        <watermarkID>Gekroentes_Rautenkranzwappen_wie_Fe_21</watermarkID>
+        <references>
+            <reference uri=""></reference>
+            <!-- https://github.com/faustedition/xml/issues/231 -->
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="01.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="02.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

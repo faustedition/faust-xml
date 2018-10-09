@@ -1,0 +1,121 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!--http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng--><!-- https://faustedition.uni-wuerzburg.de/xml/schema/tei_all_2-7-0.rng --><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc xmlns:f="http://www.faustedition.net/ns"><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition"/><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange ordered="false">
+                    <change xml:id="lay_1"/>
+                    <change xml:id="But-that" change="#lay_1"/>
+                </listChange>
+            </creation>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2015-01-12" who="bruening">angelegt</change>
+            <change when="2015-01-13" who="bruening">roh kodiert</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="14" type="textsegment" xml:id="sgm14">
+                <!-- ... -->
+                <pb n="5"/>
+                <p>Then, as he grew older, there was the genius legend to <lb/>
+                    <choice>
+                        <expan>which</expan>
+                        <abbr>wh-</abbr>
+                    </choice> I have already referred. Men of genius are <choice xml:id="d1e9091">
+                        <sic>gely</sic>
+                        <corr resp="#hwg">generally</corr>
+                    </choice> ill to <lb/> live with.. But there are certain qualifications to be
+                    noted – <lb/> These scenes were never indulged in before men. Fred <lb/>
+                    Maitland for example <del instant="true">abso</del> resolutely refused to
+                    believe in <lb/> them when Caroline Emilia (the Quaker Sister) <lb/>
+                    <del>gently</del> tried to insinuate that Leslie <del>sometimes</del> had a
+                    <lb/> temper. If Thoby had presented these books or George <add change="#lay_1" rendition="#add_left">being the most<lb/> typical of<lb/>
+                        <choice>
+                            <expan>Victorians</expan>
+                            <abbr>Vctns</abbr>
+                        </choice></add>
+                    <lb/> the explosion <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been suppressed. <del instant="true">It was then <lb/> the woman
+                        who excited these rages.</del>
+                    <del instant="true">Was it then the <lb/> woman who excited these rages?</del>
+                    <del instant="true">I</del> Why <del instant="true">w</del> had he <lb/> no
+                    shame in front of women? <del instant="true">Because, I suggest, <del instant="true">he</del>
+                        <lb/> the woman was to him a</del> Partly of course because the <lb/> woman
+                    was his slave<del instant="true">; but</del>. But that does not <lb/> explain
+                    the self dramatisation: the attitudinising; the <lb/> histrionic element; the
+                    breast beating; the groaning <add change="#lay_1" rendition="#add_left"><choice>
+                            <expan>which</expan>
+                            <abbr>wh.</abbr>
+                        </choice> played so large a part <lb/> so disgusting a <lb/> part in <lb/>
+                        <choice>
+                            <expan>these</expan>
+                            <abbr>thes</abbr>
+                        </choice>
+                        <lb/>
+                        <choice>
+                            <expan>scenes.</expan>
+                            <abbr>scn</abbr>
+                        </choice></add>. <lb/>
+                    <del instant="true">To explain that, <del instant="true">it is</del>
+                        <del instant="true">is it</del>
+                        <del instant="true">&amp; its</del>
+                        <del instant="true">&amp; the</del>
+                        <lb/>
+                        <del instant="true">it is</del> one must guess that the woman had</del> His <lb/>
+                    <del>absolute</del> dependence upon women perhaps explains <lb/> that. He needed
+                    always a woman to sympathise to <lb/> flatter. to console. <del instant="true">Why</del>
+                    <del>And</del> why? Because <lb/> he was conscious of <subst change="#lay_1">
+                        <del>some</del>
+                        <add rendition="#add_inter">his own</add>
+                    </subst> failure, as a philosopher, as a <lb/> writer<del instant="true">?</del>: <del instant="true">Thus</del>
+                    <del instant="true">&amp; this failure</del>
+                    <del instant="true">If you</del>
+                    <del instant="true">It was</del>
+                    <lb/>
+                    <add change="#But-that" rendition="#add_inter">But</add>
+                    <choice xml:id="d1e9296">
+                        <sic>His</sic>
+                        <corr resp="#hwg">his</corr>
+                    </choice> creed <del change="#But-that">however</del>, <del instant="true">that</del>
+                    <del>by which I mean</del>
+                    <add change="#lay_1" rendition="#add_left"><del>r</del> made him <lb/> ashamed
+                        to <lb/> confess <lb/> this need <lb/> of sympathy <lb/> to men.</add> the
+                    <lb/> attitude that his intellect made him, <del instant="true">ad</del>
+                    <lb/> adopt with men, <del instant="true">forbad</del> made him the most <lb/>
+                    modest, the most reasonable of men. <del instant="true">Thus to Fred <lb/>
+                        Maitland &amp; to Herbert Fisher he was <del>almost</del>
+                        <lb/> entirely without vanity without conceit. <del change="#lay_1" instant="true">All</del>
+                        <add change="#lay_1" rendition="#add_left">Thus </add>
+                        <lb/>
+                        <del instant="true">And</del>
+                        <del instant="true">But</del> The <del instant="true">attitude</del> public
+                        attitude <lb/></del>
+                    <subst change="#lay_1">
+                        <del>Then</del>
+                        <add rendition="#add_inter"><unclear reason="illegible" resp="#hwg"><del>I</del> think</unclear></add>
+                    </subst> Vanessa, on Wednesdays, was the recipient of <subst change="#lay_1">
+                        <del>many suppressions</del>
+                        <add change="#lay_1" rendition="#add_left"><del instant="true">all</del> much
+                            <lb/>discontent, <lb/>that he had <lb/> suppressed</add>
+                    </subst>; &amp; <del instant="true">t</del> her refusal to accept her <lb/> role, part slave,
+                    part angel of sympathy, <lb/> exacerbated him so that he was probably <lb/>
+                    unconcious of his own barbarous violence. <del>And</del>
+                    <lb/>
+                    <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been horrified had anyone said <del instant="true">to h</del> of
+                <pb/>
+                </p>
+                <!-- ... -->
+            </div>
+        </body>
+    </text>
+</TEI>

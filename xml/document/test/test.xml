@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+   xml:base="faust://xml/transcript/test/">
+   <revisionDesc>
+      <change when="2013-07-18" who="wissenbach">Erstellt</change>
+      <change when="2013-09-12" who="henzel">ergaenzt</change>
+      <change when="2014-03-31" who="henzel">Testhandschriften 24 und 25 hinzugefuegt</change>
+      <change when="2015-01-07" who="henzel">temporaere Erganzung Muenzer</change>
+      <change when="2015-06-24" who="henzel">Muenzer entfernt</change>
+   </revisionDesc>
+   <metadata>
+      <note>Eine "Testhandschrift", die alle Features enthält.</note>
+      <repository>fdh_frankfurt</repository>
+      <idno type="faustedition">Testhandschrift</idno>
+      <idno type="fdh_frankfurt">Testhandschrift</idno>
+      <textTranscript uri="test.xml"/>
+      <classification>Mundum</classification>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01b.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="04.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="05.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="06.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="07.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="08.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="09.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="10.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="11.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="12.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="13.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="14.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="15.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="16.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="17.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="18.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="19.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="20.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="21.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+    <disjunctLeaf>
+       <page>
+          <metadata>
+             <docTranscript uri="22.xml"/>
+          </metadata>
+       </page>
+       <page>
+          <metadata>
+             <docTranscript uri="23.xml"/>
+          </metadata>
+       </page>
+    </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="24.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="25.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="whitman-convert.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Virginia Woolf -->
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="A5-d-35.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="A5-d-36.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="A5-d-37.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="A5-d-38.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="A5-d-39.xml"/>
+         </metadata>
+      </page>
+      <page></page>
+   </disjunctLeaf>
+</archivalDocument>

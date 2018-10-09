@@ -1,0 +1,733 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">2 III H.23b</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/archival/gm_duesseldorf/KK123_02.xml--><msIdentifier><repository>Goethe-Museum Düsseldorf</repository><idno type="gm_duesseldorf">KK 123</idno></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="faust">
+                        <persName>Faust</persName>
+                    </person>
+                </listPerson>
+                <!-- TODO: List der Figuren -->
+            </particDesc>
+            <handNotes>
+                <handNote xml:id="g">Goethe (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="g_t">Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="g_t_lat">Goethe (ink - latin)</handNote>
+                <handNote xml:id="g_t_gr">Goethe (ink - greek)</handNote>
+                <handNote xml:id="g_tr">Goethe (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="g_tr_lat">Goethe (ink red/brown - latin)</handNote>
+                <handNote xml:id="g_tr_gr">Goethe (ink red/brown - greek)</handNote>
+                <handNote xml:id="g_bl">Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="g_bl_lat">Goethe (pencil - latin)</handNote>
+                <handNote xml:id="g_bl_gr">Goethe (pencil - greek)</handNote>
+                <handNote xml:id="g_ro">Goethe (ruddle - Schrift)</handNote>
+                <handNote xml:id="g_ro_lat">Goethe (ruddle - latin)</handNote>
+                <handNote xml:id="g_ro_gr">Goethe (ruddle - greek)</handNote>
+                <handNote xml:id="g_ko">Goethe (charcoal - Schrift)</handNote>
+                <handNote xml:id="g_ko_lat">Goethe (charcoal - latin)</handNote>
+                <handNote xml:id="g_ko_gr">Goethe (charcoal - greek)</handNote>
+                <handNote xml:id="g-o-ri_bl">Goethe oder Riemer (pencil – Schrift)</handNote>
+                <handNote xml:id="g-o-ri_bl_lat">Goethe oder Riemer (pencil – latin)</handNote>
+                <handNote xml:id="aj_t">Anna Jameson (ink - Schrift)</handNote>
+                <handNote xml:id="aj_t_lat">Anna Jameson (ink - latin)</handNote>
+                <handNote xml:id="ec_t">Eckermann (ink - Schrift)</handNote>
+                <handNote xml:id="ec_t_lat">Eckermann (ink - latin)</handNote>
+                <handNote xml:id="ec_t_gr">Eckermann (ink - greek)</handNote>
+                <handNote xml:id="ec_tr">Eckermann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ec_tr_lat">Eckermann (ink red/brown - latin)</handNote>
+                <handNote xml:id="ec_tr_gr">Eckermann (ink red/brown - greek)</handNote>
+                <handNote xml:id="ec_bl">Eckermann (pencil - Schrift)</handNote>
+                <handNote xml:id="ec_bl_lat">Eckermann (pencil - latin)</handNote>
+                <handNote xml:id="ec_bl_gr">Eckermann (pencil - greek)</handNote>
+                <handNote xml:id="f_t">Färber (ink - Schrift)</handNote>
+                <handNote xml:id="f_t_lat">Färber (ink - latin)</handNote>
+                <handNote xml:id="gt_t">Geist (ink - Schrift)</handNote>
+                <handNote xml:id="gt_t_lat">Geist (ink - latin)</handNote>
+                <handNote xml:id="gt_t_gr">Geist (ink - greek)</handNote>
+                <handNote xml:id="gt_tr">Geist (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gt_tr_lat">Geist (ink red/brown - latin)</handNote>
+                <handNote xml:id="gt_tr_gr">Geist (ink red/brown - greek)</handNote>
+                <handNote xml:id="gt_bl">Geist (pencil - Schrift)</handNote>
+                <handNote xml:id="gt_bl_lat">Geist (pencil - latin)</handNote>
+                <handNote xml:id="gt_bl_gr">Geist (pencil - greek)</handNote>
+                <handNote xml:id="gh_t">Goechhausen (ink - Schrift)</handNote>
+                <handNote xml:id="gh_t_lat">Goechhausen (ink - latin)</handNote>
+                <handNote xml:id="gh_t_gr">Goechhausen (ink - greek)</handNote>
+                <handNote xml:id="gh_tr">Goechhausen (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gh_tr_lat">Goechhausen (ink red/brown - latin)</handNote>
+                <handNote xml:id="gh_tr_gr">Goechhausen (ink red/brown - greek)</handNote>
+                <handNote xml:id="gh_bl">Goechhausen (pencil - Schrift)</handNote>
+                <handNote xml:id="gh_bl_lat">Goechhausen (pencil - latin)</handNote>
+                <handNote xml:id="gh_bl_gr">Goechhausen (pencil - greek)</handNote>
+                <handNote xml:id="go_t">Goettling (ink - Schrift)</handNote>
+                <handNote xml:id="go_t_lat">Goettling (ink - latin)</handNote>
+                <handNote xml:id="go_t_gr">Goettling (ink - greek)</handNote>
+                <handNote xml:id="go_tr">Goettling (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="go_tr_lat">Goettling (ink red/brown - latin)</handNote>
+                <handNote xml:id="go_tr_gr">Goettling (ink red/brown - greek)</handNote>
+                <handNote xml:id="go_bl">Goettling (pencil - Schrift)</handNote>
+                <handNote xml:id="go_bl_lat">Goettling (pencil - latin)</handNote>
+                <handNote xml:id="go_bl_gr">Goettling (pencil - greek)</handNote>
+                <handNote xml:id="hd_t">Herder (ink - Schrift)</handNote>
+                <handNote xml:id="hd_t_lat">Herder (ink - latin)</handNote>
+                <handNote xml:id="hd_tr">Herder (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="hd_tr_lat">Herder (ink red/brown - latin)</handNote>
+                <handNote xml:id="jo">John (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="jo_t">John (ink - Schrift)</handNote>
+                <handNote xml:id="jo_t_lat">John (ink - latin)</handNote>
+                <handNote xml:id="kr_t">Kräuter (ink - Schrift)</handNote>
+                <handNote xml:id="kr_t_lat">Kräuter (ink - latin)</handNote>
+                <handNote xml:id="kr_t_gr">Kräuter (ink - greek)</handNote>
+                <handNote xml:id="kr_tr">Kräuter (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="kr_tr_lat">Kräuter (ink red/brown - latin)</handNote>
+                <handNote xml:id="kr_tr_gr">Kräuter (ink red/brown - greek)</handNote>
+                <handNote xml:id="kr_bl">Kräuter (pencil - Schrift)</handNote>
+                <handNote xml:id="kr_bl_lat">Kräuter (pencil - latin)</handNote>
+                <handNote xml:id="kr_bl_gr">Kräuter (pencil - greek)</handNote>
+                <handNote xml:id="m_t">Müller (ink - Schrift)</handNote>
+                <handNote xml:id="m_t_lat">Müller (ink - latin)</handNote>
+                <handNote xml:id="m_t_gr">Müller (ink - greek)</handNote>
+                <handNote xml:id="m_tr">Müller (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="m_tr_lat">Müller (ink red/brown - latin)</handNote>
+                <handNote xml:id="m_tr_gr">Müller (ink red/brown - greek)</handNote>
+                <handNote xml:id="m_bl">Müller (pencil - Schrift)</handNote>
+                <handNote xml:id="m_bl_lat">Müller (pencil - latin)</handNote>
+                <handNote xml:id="m_bl_gr">Müller (pencil - greek)</handNote>
+                <handNote xml:id="ovg_t">Ottilie von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="ovg_t_lat">Ottilie von Goethe (ink - latin)</handNote>
+                <handNote xml:id="re_bl">Reichel (pencil - Schrift)</handNote>
+                <handNote xml:id="re_bl_lat">Reichel (pencil - latin)</handNote>
+                <handNote xml:id="re_ro">Reichel (ruddle - Schrift)</handNote>
+                <handNote xml:id="re_ro_lat">Reichel (ruddle - latin)</handNote>
+                <handNote xml:id="re_t">Reichel (ink - Schrift)</handNote>
+                <handNote xml:id="re_t_lat">Reichel (ink - latin)</handNote>
+                <handNote xml:id="ri">Riemer (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="ri_t">Riemer (ink - Schrift)</handNote>
+                <handNote xml:id="ri_t_lat">Riemer (ink - latin)</handNote>
+                <handNote xml:id="ri_t_gr">Riemer (ink - greek)</handNote>
+                <handNote xml:id="ri_tr">Riemer (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ri_tr_lat">Riemer (ink red/brown - latin)</handNote>
+                <handNote xml:id="ri_tr_gr">Riemer (ink red/brown - greek)</handNote>
+                <handNote xml:id="ri_bl">Riemer (pencil - Schrift)</handNote>
+                <handNote xml:id="ri_bl_lat">Riemer (pencil - latin)</handNote>
+                <handNote xml:id="ri_bl_gr">Riemer (pencil - greek)</handNote>
+                <handNote xml:id="ri_ro">Riemer (ruddle - Schrift)</handNote>
+                <handNote xml:id="ri_ro_lat">Riemer (ruddle - latin)</handNote>
+                <handNote xml:id="st_t">Schuchardt (ink - Schrift)</handNote>
+                <handNote xml:id="st_t_lat">Schuchardt (ink - latin)</handNote>
+                <handNote xml:id="st_t_gr">Schuchardt (ink - greek)</handNote>
+                <handNote xml:id="st_tr">Schuchardt (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="st_tr_lat">Schuchardt (ink red/brown - latin)</handNote>
+                <handNote xml:id="st_tr_gr">Schuchardt (ink red/brown - greek)</handNote>
+                <handNote xml:id="st_bl">Schuchardt (pencil - Schrift)</handNote>
+                <handNote xml:id="st_bl_lat">Schuchardt (pencil - latin)</handNote>
+                <handNote xml:id="st_bl_gr">Schuchardt (pencil - greek)</handNote>
+                <handNote xml:id="sd_t">Seidler (ink - Schrift)</handNote>
+                <handNote xml:id="sd_t_lat">Seidler (ink - latin)</handNote>
+                <handNote xml:id="so_t">Soret (ink - Schrift)</handNote>
+                <handNote xml:id="so_t_lat">Soret (ink - latin)</handNote>
+                <handNote xml:id="sp_t">Spiegel (ink - Schrift)</handNote>
+                <handNote xml:id="sp_t_lat">Spiegel (ink - latin)</handNote>
+                <handNote xml:id="sta_t">Stadelmann (ink - Schrift)</handNote>
+                <handNote xml:id="sta_t_lat">Stadelmann (ink - latin)</handNote>
+                <handNote xml:id="sta_t_gr">Stadelmann (ink - greek)</handNote>
+                <handNote xml:id="sta_tr">Stadelmann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sta_tr_lat">Stadelmann (ink red/brown - latin)</handNote>
+                <handNote xml:id="sta_tr_gr">Stadelmann (ink red/brown - greek)</handNote>
+                <handNote xml:id="sta_bl">Stadelmann (pencil - Schrift)</handNote>
+                <handNote xml:id="sta_bl_lat">Stadelmann (pencil - latin)</handNote>
+                <handNote xml:id="sta_bl_gr">Stadelmann (pencil - greek)</handNote>
+                <handNote xml:id="sti_t">Stieler (ink - Schrift)</handNote>
+                <handNote xml:id="sti_t_lat">Stieler (ink - latin</handNote>
+                <handNote xml:id="ve_t">Varnhagen von Ense (ink – Schrift)</handNote>
+                <handNote xml:id="v_t">Helene Vulpius (ink - Schrift)</handNote>
+                <handNote xml:id="v_t_lat">Helene Vulpius (ink - latin)</handNote>
+                <handNote xml:id="v_t_gr">Helene Vulpius (ink - greek)</handNote>
+                <handNote xml:id="v_tr">Helene Vulpius (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="v_tr_lat">Helene Vulpius (ink red/brown - latin)</handNote>
+                <handNote xml:id="v_tr_gr">Helene Vulpius (ink red/brown - greek)</handNote>
+                <handNote xml:id="v_bl">Helene Vulpius (pencil - Schrift)</handNote>
+                <handNote xml:id="v_bl_lat">Helene Vulpius (pencil - latin)</handNote>
+                <handNote xml:id="v_bl_gr">Helene Vulpius (pencil - greek)</handNote>
+                <handNote xml:id="we_t">Weller (ink - Schrift)</handNote>
+                <handNote xml:id="we_t_lat">Weller (ink - latin)</handNote>
+                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - Schrift)</handNote>
+                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - latin)</handNote>
+                <handNote xml:id="wo_t">Pius Alexander Wolff (ink - Schrift)</handNote>
+                <handNote xml:id="wo_t_lat">Pius Alexander Wolff (ink - latin)</handNote>
+                <handNote xml:id="wo_t_gr">Pius Alexander Wolff (ink - greek)</handNote>
+                <handNote xml:id="wo_tr">Pius Alexander Wolff (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="wo_tr_lat">Pius Alexander Wolff (ink red/brown - latin)</handNote>
+                <handNote xml:id="wo_tr_gr">Pius Alexander Wolff (ink red/brown - greek)</handNote>
+                <handNote xml:id="wo_bl">Pius Alexander Wolff (pencil - Schrift)</handNote>
+                <handNote xml:id="wo_bl_lat">Pius Alexander Wolff (pencil - latin)</handNote>
+                <handNote xml:id="wo_bl_gr">Pius Alexander Wolff (pencil - greek)</handNote>
+                <handNote xml:id="avg_t">August von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="avg_t_lat">August von Goethe (ink - latin)</handNote>
+                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink -
+                    Schrift)</handNote>
+                <handNote xml:id="wvg_t">Wolfgang von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="wvg_bl">Wolfgang von Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="sc">Schreiberhand (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="sc_bl">Schreiberhand (pencil - Schrift)</handNote>
+                <handNote xml:id="sc_bl_lat">Schreiberhand (pencil - latin)</handNote>
+                <handNote xml:id="sc_blau">Schreiberhand (blue pencil - Schrift)</handNote>
+                <handNote xml:id="sc_ro">Schreiberhand (ruddle - Schrift)</handNote>
+                <handNote xml:id="sc_ro_lat">Schreiberhand (ruddle - latin)</handNote>
+                <handNote xml:id="sc_t">Schreiberhand (ink - Schrift)</handNote>
+                <handNote xml:id="sc_t_lat">Schreiberhand (ink - latin)</handNote>
+                <handNote xml:id="sc_tr">Schreiberhand (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sc_tr_lat">Schreiberhand (ink red/brown - latin)</handNote>
+                <handNote xml:id="zs_t">Zeitgenössische Schrift (ink - Schrift)</handNote>
+                <handNote xml:id="zs_t_lat">Zeitgenössische Schrift (ink - latin)</handNote>
+                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown -
+                    latin)</handNote>
+                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown -
+                    greek)</handNote>
+                <handNote xml:id="zs_bl">Zeitgenössische Schrift (pencil - Schrift)</handNote>
+                <handNote xml:id="zs_bl_lat">Zeitgenössische Schrift (pencil - latin)</handNote>
+                <handNote xml:id="zs_bl_gr">Zeitgenössische Schrift (pencil - greek)</handNote>
+                <handNote xml:id="zs_ro">Zeitgenössische Schrift (ruddle - Schrift)</handNote>
+                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil -
+                    latin)</handNote>
+                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil -
+                    greek)</handNote>
+                <handNote xml:id="xx_t">Fremde Hand #1 (ink - Schrift)</handNote>
+                <handNote xml:id="xx_t_lat">Fremde Hand #1 (ink - latin)</handNote>
+                <handNote xml:id="xx_t_gr">Fremde Hand #1 (ink - greek)</handNote>
+                <handNote xml:id="xx_tr">Fremde Hand #1 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xx_tr_lat">Fremde Hand #1 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xx_tr_gr">Fremde Hand #1 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xx_bl">Fremde Hand #1 (pencil - Schrift)</handNote>
+                <handNote xml:id="xx_bl_lat">Fremde Hand #1 (pencil - latin)</handNote>
+                <handNote xml:id="xx_bl_gr">Fremde Hand #1 (pencil - greek)</handNote>
+                <handNote xml:id="xx_blau">Fremde Hand #1 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xx_blau_lat">Fremde Hand #1 (blue pencil - latin)</handNote>
+                <handNote xml:id="xx_blau_gr">Fremde Hand #1 (blue pencil - greek)</handNote>
+                <handNote xml:id="xx_ro">Fremde Hand #1 (ruddle - Schrift)</handNote>
+                <handNote xml:id="xx_ro_lat">Fremde Hand #1 (ruddle - latin)</handNote>
+                <handNote xml:id="xy_t">Fremde Hand #2 (ink - Schrift)</handNote>
+                <handNote xml:id="xy_t_lat">Fremde Hand #2 (ink - latin)</handNote>
+                <handNote xml:id="xy_t_gr">Fremde Hand #2 (ink - greek)</handNote>
+                <handNote xml:id="xy_tr">Fremde Hand #2 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xy_tr_lat">Fremde Hand #2 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xy_tr_gr">Fremde Hand #2 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xy_bl">Fremde Hand #2 (pencil - Schrift)</handNote>
+                <handNote xml:id="xy_bl_lat">Fremde Hand #2 (pencil - latin)</handNote>
+                <handNote xml:id="xy_bl_gr">Fremde Hand #2 (pencil - greek)</handNote>
+                <handNote xml:id="xy_blau">Fremde Hand #2 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xy_blau_lat">Fremde Hand #2 (blue pencil - latin)</handNote>
+                <handNote xml:id="xy_blau_gr">Fremde Hand #2 (blue pencil - greek)</handNote>
+                <handNote xml:id="xz_t">Fremde Hand #3 (ink - Schrift)</handNote>
+                <handNote xml:id="xz_t_lat">Fremde Hand #3 (ink - latin)</handNote>
+                <handNote xml:id="xz_t_gr">Fremde Hand #3 (ink - greek)</handNote>
+                <handNote xml:id="xz_tr">Fremde Hand #3 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xz_tr_lat">Fremde Hand #3 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xz_tr_gr">Fremde Hand #3 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xz_bl">Fremde Hand #3 (pencil - Schrift)</handNote>
+                <handNote xml:id="xz_bl_lat">Fremde Hand #3 (pencil - latin)</handNote>
+                <handNote xml:id="xz_bl_gr">Fremde Hand #3 (pencil - greek)</handNote>
+                <handNote xml:id="xz_blau">Fremde Hand #3 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xz_blau_lat">Fremde Hand #3 (blue pencil - latin)</handNote>
+                <handNote xml:id="xz_blau_gr">Fremde Hand #3 (blue pencil - greek)</handNote>
+            </handNotes>
+        </profileDesc>
+        <encodingDesc>
+            <charDecl>
+                <char xml:id="g_transp_1">
+                    <charName>TRANSPOSITION SIGN 1</charName>
+                    <desc>„Einweisungzeichen“ mit einem nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_2">
+                    <charName>TRANSPOSITION SIGN 2</charName>
+                    <desc>„Einweisungzeichen“ mit zwei nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_3">
+                    <charName>TRANSPOSITION SIGN 3</charName>
+                    <desc>Geschwungenes „Einweisungzeichen“.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_4">
+                    <charName>TRANSPOSITION SIGN 4</charName>
+                    <desc>Griechisches Kreuz (gleichschenklig und auf einer Spitze stehend).</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_5">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>Häkchen, ähnelt Einfügungslinie</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_6">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>rautenförmiges „Einweisungzeichen“</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_break">
+                    <charName>TEXT BREAK</charName>
+                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn
+                        eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt
+                        begann</desc>
+                    <mapping type="Unicode">[</mapping>
+                </char>
+                <char xml:id="parenthesis_left">
+                    <charName>LEFT PARENTHESIS</charName>
+                    <desc>In 18th century there were different ways to represent parentheses in
+                        handwritten documents. Then the token most often used (default symbol) was a
+                        vertical stroke combined with a colon. We want to be able to differentiate
+                        between this default representation, which we encode as normal parenthesis
+                        characters, and the very (same) characters, that are used today, and that
+                        also appear in documents of that time. Therefore we encode the contemporary
+                        representation of parantheses, if encountered in handwritten documents, as
+                        glyphs.</desc>
+                    <mapping type="Unicode">(</mapping>
+                </char>
+                <char xml:id="parenthesis_right">
+                    <charName>RIGHT PARENTHESIS</charName>
+                    <desc>See the description of LEFT PARANTHESIS.</desc>
+                    <mapping type="Unicode">)</mapping>
+                </char>
+                <char xml:id="truncation">
+                    <charName>TRUNCATION SIGN</charName>
+                    <desc>The suspension/truncation sign, in German known as
+                        “Abbrechungszeichen”.</desc>
+                    <mapping type="Unicode">.</mapping>
+                </char>
+            </charDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2012-04-16" who="bruening">angelegt</change>
+            <change when="2012-05-16" who="bruening">begonnen</change>
+            <change when="2012-05-21" who="bruening">weitergeführt</change>
+            <change when="2012-05-22" who="bruening">weitergeführt</change>
+            <change when="2012-05-23" who="bruening">weitergeführt</change>
+            <change when="2012-05-25" who="bruening">encoded</change>
+            <change when="2014-02-14" who="sievert">type="between" in rend="inbetween"
+                geaendert</change>
+            <change when="2014-05-23" who="moering">1x korrekturgelesen</change>
+            <change when="2014-05-28" who="henzel">Moerings Korrekturen eingetragen</change>
+            <change when="2015-07-08" who="kockel">text-bild-verlinkung problemfall</change>
+            <change when="2015-07-09" who="henzel">text-bild-verlinkung abgeschlossen</change>
+            <change when="2015-07-16" who="koehler">2x korrekturgelesen</change>
+            <change when="2015-07-16" who="henzel">Koehlers Korrekturen eingetragen</change>
+            <change when="2015-08-05" who="pravida">rm korrigiert</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="faust://facsimile/gm_duesseldorf/KK123_02/KK123_02_02"/>
+        <!--Text-image links-->
+        <graphic mimeType="image/svg+xml" url="faust://xml/image-text-links/697f3696-fc30-4ec5-ab5d-6799a05b5a1d.svg"/>
+    </facsimile>
+    <sourceDoc>
+        <surface>
+            <zone type="main" xml:id="Hauptzone">
+                <line xml:id="la"><handShift new="#xx_bl_lat"/>5.</line>
+                <space dim="vertical" quantity="2" unit="lines"/>
+                <line xml:id="Schweige"><handShift new="#ri_t_lat"/>Schw<anchor xml:id="Schwei"/>eig<anchor xml:id="ge"/>e Schw<anchor xml:id="Schwei2"/>eig<anchor xml:id="ge2"/>e</line>
+                <line f:left="#Schwei" type="inter" xml:id="lb"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#ge">⏑</seg>
+                    <seg f:left="#Schwei2">⎼</seg>
+                    <seg f:left="#ge2">⏑</seg></line>
+                <line xml:id="lc"><handShift new="#ri_t_lat"/>M<anchor xml:id="Miss"/>iſsbl<anchor xml:id="blic"/>ick<anchor xml:id="ken"/>end<anchor xml:id="de"/>e, m<anchor xml:id="miss"/>iſsr<anchor xml:id="re"/><f:overw>
+                        <f:under>en</f:under>
+                        <f:over>e</f:over>
+                    </f:overw>d<anchor xml:id="den"/>end<anchor xml:id="de2"/>e d<anchor xml:id="du"/>u<space dim="horizontal" quantity="3" unit="chars"/></line>
+                <line f:left="#Miss" type="inter" xml:id="ld"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#blic">⎼</seg>
+                    <seg f:left="#ken">⏑</seg>
+                    <seg f:left="#de">⏑</seg>
+                    <seg f:left="#miss">⎼</seg>
+                    <seg f:left="#re">⎼</seg>
+                    <seg f:left="#den">⏑</seg>
+                    <seg f:left="#de2">⏑</seg>
+                    <seg f:left="#du">⎼</seg></line>
+                <line xml:id="le"><handShift new="#ri_t_lat"/>Aus s<anchor xml:id="so"/>o
+                        gr<anchor xml:id="graess"/>äſsl<anchor xml:id="li1"/>ich<anchor xml:id="chen"/>en</line>
+                <line type="inter" xml:id="lf"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#so">⏑</seg>
+                    <seg f:left="#graess">⎼</seg>
+                    <seg f:left="#li1">⏑</seg>
+                    <seg f:left="#chen">⏑</seg></line>
+                <line xml:id="lg"><handShift new="#ri_t_lat"/>Einz<anchor xml:id="zah"/>ahn<anchor xml:id="ni"/>ig<anchor xml:id="gen"/>en L<anchor xml:id="Lip"/>ipp<anchor xml:id="pen"/>en</line>
+                <line type="inter" xml:id="lh"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#zah">⎼</seg>
+                    <seg f:left="#ni">⏑</seg>
+                    <seg f:left="#gen">⏑</seg>
+                    <seg f:left="#Lip">⎼</seg>
+                    <seg f:left="#pen">⏑</seg></line>
+                <line xml:id="li"><handShift new="#ri_t_lat"/>W<anchor xml:id="Was"/>as <anchor xml:id="ent"/>enth<anchor xml:id="haucht"/>aucht w<anchor xml:id="wohl"/>ohl</line>
+                <line f:left="#Was" type="inter" xml:id="lj">⎼ <seg f:left="#ent">⏑</seg>
+                    <seg f:left="#haucht">⎼</seg>
+                    <seg f:left="#wohl">⏑</seg>
+                </line>
+                <line xml:id="lk"><handShift new="#ri_t_lat"/>S<anchor xml:id="Sol"/>olch<anchor xml:id="chem"/>em f<anchor xml:id="furcht"/>urchtb<anchor xml:id="barn"/>ar’n</line>
+                <line f:left="#Sol" type="inter" xml:id="ll"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#chem">⏑</seg>
+                    <seg f:left="#furcht">⎼</seg>
+                    <seg f:left="#barn">⏑</seg></line>
+                <line xml:id="lm"><handShift new="#ri_t_lat"/>Gr<anchor xml:id="Greu"/>eu<anchor xml:id="el"/>elschl<anchor xml:id="schlund"/>und. <handShift new="#ri_bl_lat"/>Denn<!-- fixme S-Linie --></line>
+                <line f:left="#Greu" type="inter" xml:id="ln"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#el">⏑</seg>
+                    <seg f:left="#schlund">⎼</seg></line>
+                <space dim="vertical" quantity="1.5" unit="lines"/>
+                <line xml:id="lo"><handShift new="#ri_t_lat"/>D<anchor xml:id="Denn"/>enn
+                        d<anchor xml:id="der"/>er b<anchor xml:id="boes"/>ös<anchor xml:id="ar"/>art<anchor xml:id="ti"/>ig<anchor xml:id="ge3"/>e<!-- fixme S-Linie --></line>
+                <line f:left="#Denn" type="inter" xml:id="lp"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#der">⏑</seg>
+                    <seg f:left="#boes">⎼</seg>
+                    <seg f:left="#ar">⎼</seg>
+                    <seg f:left="#ti">⏑</seg>
+                    <seg f:left="#ge3">⏑</seg></line>
+                <line xml:id="lq"><handShift new="#ri_t_lat"/>W<anchor xml:id="Wohl"/>ohlth<anchor xml:id="thae"/>ät<anchor xml:id="tig"/>ig <anchor xml:id="er"/>erſch<anchor xml:id="schei"/>ein<anchor xml:id="nend"/>end</line>
+                <line f:left="#Wohl" type="inter" xml:id="lr"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#thae">⎼</seg>
+                    <seg f:left="#tig">⏑</seg>
+                    <seg f:left="#er">⏑</seg>
+                    <seg f:left="#schei">⎼</seg>
+                    <seg f:left="#nend">⏑</seg></line>
+                <line xml:id="ls"><handShift new="#ri_t_lat"/>W<anchor xml:id="Wolfs"/>olfsgr<anchor xml:id="grimm"/>im̄ <anchor xml:id="un"/>unt<anchor xml:id="ter"/>er</line>
+                <line f:left="#Wolfs" type="inter" xml:id="lt"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#grimm">⎼</seg>
+                    <seg f:left="#un">⎼</seg>
+                    <seg f:left="#ter">⏑</seg></line>
+                <line xml:id="lu"><handShift new="#ri_t_lat"/>Sch<anchor xml:id="Schaafs"/>aafsw<anchor xml:id="wol"/>oll<anchor xml:id="li2"/>ig<anchor xml:id="gem"/>em Vl<anchor xml:id="Vlies"/>ies</line>
+                <line f:left="#Schaafs" type="inter" xml:id="lv"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#wol">⎼</seg>
+                    <seg f:left="#li2">⏑</seg>
+                    <seg f:left="#gem">⏑</seg>
+                    <seg f:left="#Vlies">⎼</seg></line>
+                <line xml:id="lw"><handShift new="#ri_t_lat"/>Iſt m<anchor xml:id="mir"/>ir
+                        schr<anchor xml:id="schreck"/>eckl<anchor xml:id="li3"/>ich<anchor xml:id="cher"/>er</line>
+                <line type="inter" xml:id="lx"><handShift new="#ri_tr_lat"/>⏓ <seg f:left="#mir">⏑</seg>
+                    <seg f:left="#schreck">⎼</seg>
+                    <seg f:left="#li3">⏓</seg>
+                    <seg f:left="#cher">⏑</seg></line>
+                <line xml:id="ly"><handShift new="#ri_t_lat"/>Als d<anchor xml:id="des"/>es
+                        dr<anchor xml:id="drey"/>eyk<anchor xml:id="koep"/>öpf<anchor xml:id="fi"/>ig<anchor xml:id="gen2"/>en<!-- fixme S-Linie --></line>
+                <line type="inter" xml:id="lz">
+                    <handShift new="#ri_tr_lat"/>
+                    <f:overw>
+                        <f:under>⎼</f:under>
+                        <f:over>⏑</f:over>
+                    </f:overw>
+                    <seg f:left="#des">⏑</seg>
+                    <seg f:left="#drey">⎼</seg>
+                    <seg f:left="#koep">⎼</seg>
+                    <seg f:left="#fi">⏑</seg>
+                    <seg f:left="#gen2">⏑</seg>
+                </line>
+                <line xml:id="laa"><handShift new="#ri_t_lat"/>H<anchor xml:id="Hoel"/>öll<anchor xml:id="len"/>enh<anchor xml:id="hun"/>und<anchor xml:id="des2"/>es R<anchor xml:id="Ra"/>ach<anchor xml:id="chen2"/>en</line>
+                <line f:left="#Hoel" type="inter" xml:id="lab"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#len">⏑</seg>
+                    <seg f:left="#hun">⎼</seg>
+                    <seg f:left="#des2">⏑</seg>
+                    <seg f:left="#Ra">⎼</seg>
+                    <seg f:left="#chen2"><f:overw>
+                            <f:under>⎼</f:under>
+                            <f:over>⏑</f:over>
+                        </f:overw></seg></line>
+                <line xml:id="lac"><handShift new="#ri_t_lat"/><orig>Ae</orig>ngſtl<anchor xml:id="lich"/>ich s<anchor xml:id="sorg"/>orgs<anchor xml:id="sam"/>am</line>
+                <line type="inter" xml:id="lad"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#lich">⏓</seg>
+                    <seg f:left="#sorg">⎼</seg>
+                    <seg f:left="#sam">⏓</seg></line>
+                <line xml:id="lae"><handShift new="#ri_t_lat"/>L<anchor xml:id="Lau"/>auſch<anchor xml:id="schend"/>end st<anchor xml:id="ste"/>eh<anchor xml:id="hen"/>en w<anchor xml:id="wir"/>ir d<anchor xml:id="da"/>a.</line>
+                <line f:left="#Lau" type="inter" xml:id="laf"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#schend">⏑</seg>
+                    <seg f:left="#ste">⎼</seg>
+                    <seg f:left="#hen">⏑</seg>
+                    <seg f:left="#wir">⏑</seg>
+                    <seg f:left="#da">⎼</seg></line>
+                <line xml:id="lag"><handShift new="#ri_t_lat"/>W<anchor xml:id="Wie"/>ie?
+                        w<anchor xml:id="wo"/>o! br<anchor xml:id="brichts"/>icht’s h<anchor xml:id="her"/>erv<anchor xml:id="vor"/>or</line>
+                <line f:left="#Wie" type="inter" xml:id="lah"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#wo">⎼</seg>
+                    <seg f:left="#brichts">⎼</seg>
+                    <seg f:left="#her">⏑</seg>
+                    <seg f:left="#vor">⎼</seg></line>
+                <line xml:id="lai"><handShift new="#ri_t_lat"/>S<anchor xml:id="Sol2"/>olch<anchor xml:id="cher2"/>er <anchor xml:id="in"/>ingr<anchor xml:id="grim"/>imm<anchor xml:id="mi"/>ig<anchor xml:id="gen3"/>er T<anchor xml:id="Tuek"/>ück<anchor xml:id="ke"/>e</line>
+                <line f:left="#Sol2" type="inter" xml:id="laj"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#cher2">⏑</seg>
+                    <seg f:left="#in">⏑</seg>
+                    <seg f:left="#grim">⎼</seg>
+                    <seg f:left="#mi">⏑</seg>
+                    <seg f:left="#gen3">⏑</seg>
+                    <seg f:left="#Tuek">⎼</seg>
+                    <seg f:left="#ke">⏑</seg></line>
+                <line xml:id="lak"><handShift new="#ri_t_lat"/>T<anchor xml:id="Tief"/>iefv<anchor xml:id="ver"/>erh<anchor xml:id="halt"/>altn<anchor xml:id="nes"/>es</line>
+                <line f:left="#Tief" type="inter" xml:id="lal"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#ver">⏑</seg>
+                    <seg f:left="#halt">⎼</seg>
+                    <seg f:left="#nes">⏑</seg></line>
+                <line xml:id="lam"><handShift new="#ri_t_lat"/>Ung<anchor xml:id="ge4"/>ed<anchor xml:id="dul"/>ult<anchor xml:id="ti2"/>ig<anchor xml:id="ges"/>es <anchor xml:id="Un"/>Ung<anchor xml:id="ge5"/>e<seg rend="inbetween">ſ</seg>t<anchor xml:id="stuem"/>üm.</line>
+                <line type="inter" xml:id="lan"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#ge4">⏑</seg>
+                    <seg f:left="#dul">⎼</seg>
+                    <seg f:left="#ti2">⏑</seg>
+                    <seg f:left="#ges">⏑</seg>
+                    <seg f:left="#Un">⎼</seg>
+                    <seg f:left="#ge5">⏑</seg>
+                    <seg f:left="#stuem">⎼</seg></line>
+            </zone>
+            <zone f:right-left="#Schweige">
+                <line xml:id="lao" f:top-bottom="#Schweige"><handShift new="#ri_bl_lat"/>1<space dim="horizontal" quantity="2" unit="chars"/></line>
+                <line xml:id="lap" f:top-bottom="#lc">2</line>
+                <line xml:id="laq" f:top-bottom="#le">3</line>
+                <line xml:id="lar" f:top-bottom="#lg">4</line>
+                <line xml:id="las" f:top-bottom="#li">5</line>
+                <line xml:id="lat" f:bottom="#lk">6</line>
+                <line xml:id="lau" f:top-bottom="#lm">7</line>
+            </zone>
+            <zone f:left-right="#Hauptzone" xml:id="Ziffern">
+                <line xml:id="lav" f:top-bottom="#lbv"><handShift new="#ri_bl_lat"/>1<space dim="horizontal" quantity="2" unit="chars"/></line>
+                <line xml:id="law" f:bottom="#lbx">2</line>
+                <line xml:id="lax" f:bottom="#lbz">3</line>
+                <line xml:id="lay" f:top-bottom="#lcb">4</line>
+                <line xml:id="laz" f:top-bottom="#lcd">5</line>
+                <line xml:id="lba" f:bottom="#lcf">6</line>
+                <line xml:id="lbb" f:top-bottom="#lch">7</line>
+                <line xml:id="lbc" f:bottom="#lcj">1</line>
+                <line xml:id="lbd" f:bottom="#lcl">2</line>
+                <line xml:id="lbe" f:bottom="#lcn">3</line>
+                <line xml:id="lbf" f:bottom="#lcp">4.</line>
+                <line xml:id="lbg" f:bottom="#lcr">5</line>
+                <line xml:id="lbh" f:bottom="#lct">6</line>
+                <line type="inter" xml:id="lbi"/>
+                <line xml:id="lbj" f:top-bottom="#lcv">7</line>
+                <line xml:id="lbk" f:top-bottom="#lcx">8</line>
+                <line xml:id="lbl" f:top-bottom="#lcz">9</line>
+                <line xml:id="lbm" f:top-bottom="#ldb">10</line>
+                <line xml:id="lbn" f:bottom="#ldd">1</line>
+                <line xml:id="lbo" f:bottom="#ldg">2</line>
+                <line xml:id="lbp" f:top-bottom="#ldj">3</line>
+                <line xml:id="lbq" f:bottom="#ldl">4</line>
+                <line xml:id="lbr" f:top-bottom="#ldo">5</line>
+                <line xml:id="lbs" f:bottom="#ldq">6</line>
+                <!-- TODO am Original pruefen, ob hinter 6 ein Punkt steht -->
+                <line xml:id="lbt" f:top-bottom="#lds">7</line>
+                <line xml:id="lbu" f:top-bottom="#ldu">8.</line>
+            </zone>
+            <zone f:left-right="#Ziffern" f:top="#Ziffern">
+                <line xml:id="lbv"><handShift new="#ri_t_lat"/>Schw<anchor xml:id="Schwei3"/>eig<anchor xml:id="ge6"/>e Schw<anchor xml:id="Schwei4"/>eig<anchor xml:id="ge7"/>e</line>
+                <line f:left="#Schwei3" type="inter" xml:id="lbw"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#ge6">⏑</seg>
+                    <seg f:left="#Schwei4">⎼</seg>
+                    <seg f:left="#ge7">⏑</seg></line>
+                <line xml:id="lbx"><handShift new="#ri_t_lat"/>D<anchor xml:id="Dass"/>aſs
+                        d<anchor xml:id="der2"/>er K<anchor xml:id="Koe"/>ön<anchor xml:id="ni2"/>ig<anchor xml:id="ginn"/>inn S<anchor xml:id="See"/>eel<anchor xml:id="le2"/>e</line>
+                <line f:left="#Dass" type="inter" xml:id="lby"><handShift new="#ri_tr_lat"/>⏑
+                        <seg f:left="#der2">⏑</seg>
+                    <seg f:left="#Koe">⎼</seg>
+                    <seg f:left="#ni2">⏑</seg>
+                    <seg f:left="#ginn">⏑</seg>
+                    <seg f:left="#See">⎼</seg>
+                    <seg f:left="#le2">⏑</seg></line>
+                <line xml:id="lbz"><handShift new="#ri_t_lat"/>Sch<anchor xml:id="Schon"/>on
+                        z<anchor xml:id="zu"/>u <anchor xml:id="ent2"/>entfl<anchor xml:id="flie"/>ieh<anchor xml:id="hen2"/>en b<anchor xml:id="be"/>er<anchor xml:id="reit"/>eit</line>
+                <line f:left="#Schon" type="inter" xml:id="lca"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#zu">⏑</seg>
+                    <seg f:left="#ent2">⏑</seg>
+                    <seg f:left="#flie">⎼</seg>
+                    <seg f:left="#hen2">⏑</seg>
+                    <seg f:left="#be">⏑</seg>
+                    <seg f:left="#reit">⎼</seg></line>
+                <line xml:id="lcb"><handShift new="#ri_t_lat"/>S<anchor xml:id="Sich"/>ich
+                        n<anchor xml:id="noch"/>och h<anchor xml:id="hal"/>alt<anchor xml:id="te"/>e
+                        f<anchor xml:id="fest"/>eſth<anchor xml:id="hal2"/>alt<anchor xml:id="te2"/>e</line>
+                <line f:left="#Sich" type="inter" xml:id="lcc"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#noch">⏑</seg>
+                    <seg f:left="#hal">⎼</seg>
+                    <seg f:left="#te">⏑</seg>
+                    <seg f:left="#fest">⎼</seg>
+                    <seg f:left="#hal2">⎼</seg>
+                    <seg f:left="#te2">⏑</seg></line>
+                <line xml:id="lcd"><handShift new="#ri_t_lat"/>D<anchor xml:id="Die"/>ie G<anchor xml:id="Ge"/>eſt<anchor xml:id="stalt"/>alt <anchor xml:id="al"/>all<anchor xml:id="ler"/>er G<anchor xml:id="Ge2"/>eſt<anchor xml:id="stal"/>alt<anchor xml:id="ten"/>en</line>
+                <line f:left="#Die" type="inter" xml:id="lce"><handShift new="#ri_tr_lat"/>⏑ <seg f:left="#Ge">⏑</seg>
+                    <seg f:left="#stalt">⎼</seg>
+                    <seg f:left="#al">⎼</seg>
+                    <seg f:left="#ler">⏑</seg>
+                    <seg f:left="#Ge2">⏑</seg>
+                    <seg f:left="#stal">⎼</seg>
+                    <seg f:left="#ten">⏑</seg></line>
+                <line xml:id="lcf"><handShift new="#ri_t_lat"/>W<anchor xml:id="Wel"/>elch<anchor xml:id="che"/>e d<anchor xml:id="die"/>ie S<anchor xml:id="Son"/>onn<anchor xml:id="ne"/>e</line>
+                <line f:left="#Wel" type="inter" xml:id="lcg"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#che">⏑</seg>
+                    <seg f:left="#die">⏑</seg>
+                    <seg f:left="#Son">⎼</seg>
+                    <seg f:left="#ne">⏑</seg></line>
+                <line xml:id="lch"><handShift new="#ri_t_lat"/>J<anchor xml:id="Je"/>em<anchor xml:id="mals"/>als b<anchor xml:id="be2"/>eſch<anchor xml:id="schien"/>ien.</line>
+                <line f:left="#Je" type="inter" xml:id="lci"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#mals">⏑</seg>
+                    <seg f:left="#be2">⏑</seg>
+                    <seg f:left="#schien">⎼</seg></line>
+                <space dim="vertical" quantity="1.5" unit="lines"/>
+                <line xml:id="lcj"><handShift new="#ri_t_lat"/>D<anchor xml:id="Denn2"/>enn
+                        d<anchor xml:id="der3"/>er B<anchor xml:id="Boes"/>ös<anchor xml:id="ar2"/>art<anchor xml:id="ti3"/>ig<anchor xml:id="ge8"/>e w<anchor xml:id="wohl2"/>ohlth<anchor xml:id="thae2"/>ät<anchor xml:id="tig2"/>ig <anchor xml:id="er2"/>erſch<anchor xml:id="schei2"/>ein<anchor xml:id="nend2"/>end</line>
+                <line f:left="#Denn2" type="inter" xml:id="lck"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#der3">⏑</seg>
+                    <seg f:left="#Boes">⎼</seg>
+                    <seg f:left="#ar2">⎼</seg>
+                    <seg f:left="#ti3">⏑</seg>
+                    <seg f:left="#ge8">⏑</seg>
+                    <seg f:left="#wohl2">⎼</seg>
+                    <seg f:left="#thae2">⎼</seg>
+                    <seg f:left="#tig2">⏑</seg>
+                    <seg f:left="#er2">⏑</seg>
+                    <seg f:left="#schei2">⎼</seg>
+                    <seg f:left="#nend2">⏑</seg></line>
+                <line xml:id="lcl"><handShift new="#ri_t_lat"/>W<anchor xml:id="Wolfs2"/>olfsgr<anchor xml:id="grimm2"/>imm <anchor xml:id="un2"/>unt<anchor xml:id="ter2"/>er ſch<anchor xml:id="schaf"/>afw<anchor xml:id="wol2"/>oll<anchor xml:id="li4"/>ig<anchor xml:id="gem2"/>em Vl<anchor xml:id="Vlie"/>ieſs<handShift new="#ri_tr_lat"/>e</line>
+                <line f:left="#Wolfs2" type="inter" xml:id="lcm">⎼ <seg f:left="#grimm2">⎼</seg>
+                    <seg f:left="#un2">⎼</seg>
+                    <seg f:left="#ter2">⏑</seg>
+                    <seg f:left="#schaf">⎼</seg>
+                    <seg f:left="#wol2">⎼</seg>
+                    <seg f:left="#li4">⏑</seg>
+                    <seg f:left="#gem2">⏑</seg>
+                    <seg f:left="#Vlie">⎼</seg>
+                </line>
+                <line type="inter" xml:id="weit">
+                    <handShift new="#ri_t_lat"/>
+                    <f:ins f:at="#schrecklicher" f:orient="right">weit</f:ins>
+                </line>
+                <line xml:id="lcn"><handShift new="#ri_t_lat"/><mod rend="strikethrough">Iſt m<anchor xml:id="mir2"/>ir<anchor xml:id="mir3"/></mod>
+                    <anchor xml:id="schrecklicher"/>schr<anchor xml:id="schreck2"/>eckl<anchor xml:id="li5"/>ich<anchor xml:id="cher3"/>er <anchor xml:id="als"/>als
+                        <handShift new="#ri_tr_lat"/>des</line>
+                <line type="inter" xml:id="lco"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#mir2">⏑</seg>
+                    <seg f:left="#schreck2">⎼</seg>
+                    <seg f:left="#li5">⏑</seg>
+                    <seg f:left="#cher3">⏑</seg>
+                    <seg f:left="#als">⎼</seg></line>
+                <line xml:id="lcp"><handShift new="#ri_t_lat"/><mod rend="strikethrough" hand="#ri_tr_lat">d<anchor xml:id="des3"/>es</mod> dr<anchor xml:id="drey2"/>eyk<anchor xml:id="koep2"/>öpf<anchor xml:id="fi2"/>ig<anchor xml:id="gen4"/>en
+                        H<anchor xml:id="Hoel2"/>öll<anchor xml:id="len2"/>enh<anchor xml:id="hun2"/>und<anchor xml:id="des4"/>es R<anchor xml:id="Ra2"/>ach<anchor xml:id="chen3"/>en.</line>
+                <line f:left="#des3" type="inter" xml:id="lcq"><handShift new="#ri_tr_lat"/>⏑
+                        <seg f:left="#drey2">⎼</seg>
+                    <seg f:left="#koep2">⎼</seg>
+                    <seg f:left="#fi2">⏑</seg>
+                    <seg f:left="#gen4">⏑</seg>
+                    <seg f:left="#Hoel2">⎼</seg>
+                    <seg f:left="#len2">⏑</seg>
+                    <seg f:left="#hun2">⎼</seg>
+                    <seg f:left="#des4">⏑</seg>
+                    <seg f:left="#Ra2">⎼</seg>
+                    <seg f:left="#chen3">⏑</seg></line>
+                <line xml:id="lcr"><handShift new="#ri_t_lat"/><orig>Ae</orig>ngſtl<anchor xml:id="lich2"/>ich s<anchor xml:id="sorg2"/>orgs<anchor xml:id="sam2"/>am
+                        <handShift new="#ri_bl_lat"/>stehn</line>
+                <line type="inter" xml:id="lcs"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#lich2">⏑</seg>
+                    <seg f:left="#sorg2">⎼</seg>
+                    <seg f:left="#sam2">⏓</seg></line>
+                <line xml:id="lct"><handShift new="#ri_t_lat"/>St<anchor xml:id="Stehn"/>ehn<hi hand="#ri_bl_lat" rend="underline"/><!-- fixme <hi> um "Stehn" --> l<anchor xml:id="lau1"/>auſch<anchor xml:id="schend2"/>end w<anchor xml:id="wir2"/>ir
+                        d<anchor xml:id="da2"/>a</line>
+                <line f:left="#Stehn" type="inter" xml:id="lcu"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#lau1">⎼</seg>
+                    <seg f:left="#schend2">⏑</seg>
+                    <seg f:left="#wir2">⏑</seg>
+                    <seg f:left="#da2">⎼</seg></line>
+                <line xml:id="lcv"><handShift new="#ri_t_lat"/>W<anchor xml:id="Wie2"/>ie?
+                        w<anchor xml:id="wo2"/>o? br<anchor xml:id="brichts2"/>icht’s h<anchor xml:id="her2"/>erv<anchor xml:id="vor2"/>or</line>
+                <line f:left="#Wie2" type="inter" xml:id="lcw"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#wo2">⎼</seg>
+                    <seg f:left="#brichts2">⎼</seg>
+                    <seg f:left="#her2">⏑</seg>
+                    <seg f:left="#vor2">⎼</seg></line>
+                <line xml:id="lcx"><handShift new="#ri_t_lat"/>S<anchor xml:id="Solch"/>olch
+                        <anchor xml:id="in2"/>ingr<anchor xml:id="grim2"/>im̄<anchor xml:id="mi2"/>ig<anchor xml:id="ger"/>er T<anchor xml:id="Tuek2"/>ück<anchor xml:id="ke2"/>e</line>
+                <line f:left="#Solch" type="inter" xml:id="lcy"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#in2">⎼</seg>
+                    <seg f:left="#grim2">⎼</seg>
+                    <seg f:left="#mi2">⏑</seg>
+                    <seg f:left="#ger">⏑</seg>
+                    <seg f:left="#Tuek2">⎼</seg>
+                    <seg f:left="#ke2">⏑</seg></line>
+                <line xml:id="lcz"><handShift new="#ri_t_lat"/>T<anchor xml:id="Tief2"/>iefv<anchor xml:id="ver2"/>erh<anchor xml:id="halt2"/>altn<anchor xml:id="nes2"/>es</line>
+                <line f:left="#Tief2" type="inter" xml:id="lda"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#ver2">⏑</seg>
+                    <seg f:left="#halt2">⎼</seg>
+                    <seg f:left="#nes2">⏑</seg></line>
+                <line xml:id="ldb"><handShift new="#ri_t_lat"/>Ung<anchor xml:id="ge9"/>ed<anchor xml:id="dul2"/>uld<anchor xml:id="di"/>ig<anchor xml:id="ges2"/>es <anchor xml:id="Un2"/>Ung<anchor xml:id="ge10"/>eſt<anchor xml:id="stuem2"/>üm.</line>
+                <line type="inter" xml:id="ldc"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#ge9">⏑</seg>
+                    <seg f:left="#dul2">⎼</seg>
+                    <seg f:left="#di">⏑</seg>
+                    <seg f:left="#ges2">⏑</seg>
+                    <seg f:left="#Un2">⎼</seg>
+                    <seg f:left="#ge10">⏑</seg>
+                    <seg f:left="#stuem2">⎼</seg></line>
+                <space dim="vertical" quantity="1" unit="lines"/>
+                <line xml:id="ldd"><handShift new="#ri_t_lat"/>N<anchor xml:id="Nun"/>un d<anchor xml:id="denn"/>enn, ſt<anchor xml:id="statt"/>att b<anchor xml:id="be3"/>er<anchor xml:id="ru"/>uh<anchor xml:id="hi"/>ig<anchor xml:id="gen5"/>end<anchor xml:id="den2"/>en</line>
+                <line f:left="#Nun" type="inter" xml:id="lde"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#denn">⏓</seg>
+                    <seg f:left="#statt">⎼</seg>
+                    <seg f:left="#be3">⏑</seg>
+                    <seg f:left="#ru">⎼</seg>
+                    <seg f:left="#hi">⏑</seg>
+                    <seg f:left="#gen5">⏑</seg>
+                    <seg f:left="#den2">⎼</seg></line>
+                <line f:left="#hold" type="inter" xml:id="ldf"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#mil">⎼</seg>
+                    <seg f:left="#des5">⏑</seg>
+                    <seg f:left="#ten2">⏑</seg>
+                    <handShift new="#ri_t_lat"/><seg f:left="#ten3">e</seg>
+                    <handShift new="#ri_tr_lat"/><seg f:left="#Worts">⎼</seg></line>
+                <line xml:id="ldg"><handShift new="#ri_t_lat"/>h<anchor xml:id="hold"/>oldm<anchor xml:id="mil"/>ild<anchor xml:id="des5"/>eſt<anchor xml:id="ten2"/>en l<anchor xml:id="leth"/>eth’<anchor xml:id="ent3"/>entsch<anchor xml:id="schoepf"/>öpf<anchor xml:id="ten3"/>t<anchor xml:id="ten4"/>en W<anchor xml:id="Worts"/>orts</line>
+                <line f:left="#leth" type="inter" xml:id="ldh"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#ent3">⎼</seg>
+                    <seg f:left="#schoepf">⎼</seg>
+                    <seg f:left="#ten3"><f:overw>
+                            <f:under>⎼</f:under>
+                            <f:over>⏑</f:over>
+                        </f:overw></seg></line>
+                <line f:left="#st" type="inter" xml:id="ldi"><handShift new="#ri_t_lat"/>e</line>
+                <line xml:id="ldj"><handShift new="#ri_t_lat"/>R<anchor xml:id="Regst"/>eg<anchor xml:id="st"/>ſt d<anchor xml:id="du2"/>u <anchor xml:id="auf"/>auf <anchor xml:id="al2"/>all<anchor xml:id="ler2"/>er V<anchor xml:id="Ver"/>erg<anchor xml:id="gang"/>ang<anchor xml:id="en"/>enh<anchor xml:id="heit"/>eit</line>
+                <line f:left="#Regst" type="inter" xml:id="ldk"><handShift new="#ri_tr_lat"/>⎼
+                        <seg f:left="#du2">⏑</seg>
+                    <seg f:left="#auf">⎼</seg>
+                    <seg f:left="#al2">⎼</seg>
+                    <seg f:left="#ler2">⏑</seg>
+                    <seg f:left="#Ver">⏑</seg>
+                    <seg f:left="#gang">⎼</seg>
+                    <seg f:left="#en">⏑</seg>
+                    <seg f:left="#heit">⎼</seg></line>
+                <line xml:id="ldl"><handShift new="#ri_t_lat"/><retrace>B</retrace><anchor xml:id="Boe"/>öſ<anchor xml:id="ses"/>es m<anchor xml:id="mehr"/>ehr
+                        d<anchor xml:id="denn2"/>enn G<anchor xml:id="Gu"/>ut<anchor xml:id="tes"/>e<retrace>s</retrace></line>
+                <line f:left="#Boe" type="inter" xml:id="ldm"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#ses">⏑</seg>
+                    <seg f:left="#mehr">⎼</seg>
+                    <seg f:left="#denn2">⏑</seg>
+                    <seg f:left="#Gu">⎼</seg>
+                    <seg f:left="#tes">⏑</seg></line>
+                <line f:left="#st2" type="inter" xml:id="ldn"><handShift new="#ri_tr_lat"/>e</line>
+                <line xml:id="ldo"><handShift new="#ri_t_lat"/>Und z<anchor xml:id="zer"/>erſt<anchor xml:id="stoerst"/>ör<anchor xml:id="st2"/>ſt z<anchor xml:id="zu2"/>ugl<anchor xml:id="gleich"/>eich</line>
+                <line type="inter" xml:id="ldp"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#zer"><f:overw>
+                            <f:under>⎼</f:under>
+                            <f:over>⏑</f:over>
+                        </f:overw></seg>
+                    <seg f:left="#stoerst">⎼</seg>
+                    <seg f:left="#st2">⏑</seg>
+                    <seg f:left="#zu2">⏑</seg>
+                    <seg f:left="#gleich">⎼</seg></line>
+                <line xml:id="ldq"><handShift new="#ri_t_lat"/>M<anchor xml:id="Mit"/>it d<anchor xml:id="der4"/>er G<anchor xml:id="Ge3"/>eg<anchor xml:id="gen6"/>enw<anchor xml:id="wart"/>art</line>
+                <line f:left="#Mit" type="inter" xml:id="ldr"><handShift new="#ri_tr_lat"/>⎼⏑
+                        <seg f:left="#Ge3">⎼</seg>
+                    <seg f:left="#gen6">⏑</seg>
+                    <seg f:left="#wart">⎼</seg></line>
+                <line xml:id="lds"><handShift new="#ri_t_lat"/>H<anchor xml:id="Hei"/>eitern
+                        V<anchor xml:id="Ver2"/>ergn<anchor xml:id="gnue"/>üg<anchor xml:id="gung"/>ung<anchor xml:id="gen7"/>en</line>
+                <line f:left="#Hei" type="inter" xml:id="ldt"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#Ver2"><f:overw>
+                            <f:under>⎼</f:under>
+                            <f:over>⏑</f:over>
+                        </f:overw></seg>
+                    <seg f:left="#gnue">⎼</seg>
+                    <seg f:left="#gung">⏑</seg>
+                    <seg f:left="#gen7">⏓</seg></line>
+                <line xml:id="ldu"><handShift new="#ri_t_lat"/>J<anchor xml:id="Jeg"/>egl<anchor xml:id="li6"/>ich<anchor xml:id="che2"/>e H<anchor xml:id="Hoff"/>offn<anchor xml:id="nung"/>ung d<anchor xml:id="der5"/>er Z<anchor xml:id="Zu"/>uk<anchor xml:id="kunft"/>unft.</line>
+                <line f:left="#Jeg" type="inter" xml:id="ldv"><handShift new="#ri_tr_lat"/>⎼ <seg f:left="#li6">⏑</seg>
+                    <seg f:left="#che2">⏑</seg>
+                    <seg f:left="#Hoff">⎼</seg>
+                    <seg f:left="#nung"><f:overw>
+                            <f:under>⎼</f:under>
+                            <f:over>⏑</f:over>
+                        </f:overw></seg>
+                    <seg f:left="#der5">⏑</seg>
+                    <seg f:left="#Zu">⎼</seg><seg f:left="#kunft">⎼</seg></line>
+            </zone>
+            <zone f:right="#mir3" f:top="#weit">
+                <line xml:id="ldw" type="inter"><handShift new="#ri_t_lat"/>mir iſt er</line>
+            </zone>
+        </surface>
+    </sourceDoc>
+</TEI>

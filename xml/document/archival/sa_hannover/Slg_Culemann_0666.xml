@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/sa_hannover/Slg_Culemann_0666/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Drucknachweise</change>
+      <change when="2012-10-02" who="bruening">Drucknachweise</change>
+      <change when="2013-11-20" who="henzel">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-10-14" who="bruening">URIs korrigiert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Das Blatt bildet zusammen mit faust://document/wa_faust/2_IV_H.c , faust://document/wa_faust/2_IV_H.f , faust://document/wa_faust/2_IV_H.20 , faust://document/wa_faust/2_IV_H.1 und faust://document/wa_faust/2_IV_H.g das sogenannte "Alexandriner-Mundum".</note>
+      <repository>sa_hannover</repository>
+      <collection>Sammlung Culemann</collection>
+      <idno type="faustedition">2 IV H.22g</idno>
+      <idno type="sa_hannover">Nr. 666 V.064</idno>
+      <idno type="gsa_1">GSA 25/XVIII,6,8</idno>
+      <idno type="wa_faust">2 IV H.h</idno>
+      <textTranscript uri="0666.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <note>Teil eines Mundums</note>
+      <history>Bestand ging vom Kestner Museum komplett auf Stadtarchiv Hannover über</history>
+      <numberingList>
+         <numbering>Archivarische Zählung (wahrscheinlich Foliierung) mit Bleistift</numbering>
+         <numbering>Eigenhändige Zählung des Mundumteilstücks (Teil 5) mit roter Tinte</numbering>
+      </numberingList>
+      <condition>Gebrauchsspuren, v.a. an den Rändern, Knick in Ecke rechts unten; Aufteilung des Blattes in Kolumnen ist angedeutet, wurde aber nicht ausgeführt; unten links befindet sich ein Stempel; das Blatt wurde vielfach mit archivarischen Zusätzen beschriftet; auf der Rückseite scheint die Tinte punktuell durch; vereinzelt zwei rote Tintenflecke; im oberen linken Rand Einstichloch</condition>
+      <dimensions><!-- Ausrichtung des Blattes nach der Beschriftung -->
+         <width unit="mm">333</width>
+         <height unit="mm">204</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 203 mm.</note>
+      <format>2</format>
+      <note>im Querformat beschrieben</note>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>bräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+      <note>auf der Rückseite</note><!-- Höhe: ca. 47 mm -->
+      <references>
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 12</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr. 23</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133</reference>
+         <reference type="description" uri="faust://bibliography/mlynek1982">S. 212</reference>
+         <reference type="description" uri="faust://bibliography/mlynek1989">S. 1280</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 668, Anm. 77</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="r.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="v.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+   xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>WA IV, 19</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2014-11-12" who="sievert">Datei angelegt</change>
+         <change when="2014-11-12" who="sievert">Extraktion</change>
+         <change when="2018-06-28" who="krause">ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5104</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date from="1805-05-01" to="1805-06-14"/>
+            </head>
+            <p rend="indentchar-m4n0">Unterzeichneter hat die Absicht, seine Schriften neu
+               herauszugeben, und zwar sollte von keiner vollendeten Prachtausgabe, vielmehr von
+               einer saubern und geschmackvollen Handausgabe mit deutschen Lettern die Rede seyn.
+               Enthalten würde dieselbe alles was von meinen ästhetischen ist hinzugefügt.</p>
+            <p rend="indentchar-m4n0"> Zu vertheilen wären in zwölf Bände folgende Werke, ungefähr
+               folgender Maßen:</p>
+            <lb/>
+            <p rend="centered">
+               <pb n="14"/> I.</p>
+            <p rend="indentchar-m8n12">Vermischte Gedichte; <hi rend="italic">Einiges neue.</hi>
+            </p>
+            <lb/>
+            <p rend="centered">II.</p>
+            <p rend="indentchar-m8n12">Wilhelm Meister. Erster und zweyter Band.</p>
+            <lb/>
+            <p rend="centered">III.</p>
+            <p rend="indentchar-m8n12">Wilhelm Meister. Dritter und vierter Band.</p>
+            <lb/>
+            <p rend="centered">IV.</p>
+            <p rend="indentchar-m8n12">
+               <hi rend="italic">Die Laune des Verliebten.</hi>
+            </p>
+            <p rend="indentchar-m8n12"> Die Mitschuldigen.</p>
+            <p rend="indentchar-m8n12"> Die Geschwister.</p>
+            <p rend="indentchar-m8n12"> Mahomet.</p>
+            <p rend="indentchar-m8n12"> Tankred.</p>
+            <p rend="indentchar-m8n12">
+               <hi rend="italic">Elpenor. Fragment.</hi>
+            </p>
+            <lb/>
+            <p rend="centered">V.</p>
+            <p rend="indentchar-m8n12">Götz von Berlichingen.</p>
+            <p rend="indentchar-m8n12"> Egmont.</p>
+            <p rend="indentchar-m8n12"> Stella.</p>
+            <p rend="indentchar-m8n12"> Clavigo.</p>
+            <lb/>
+            <p rend="centered">VI.</p>
+            <p rend="indentchar-m8n12">Iphigenia.</p>
+            <p rend="indentchar-m8n12"> Tasso.</p>
+            <p rend="indentchar-m8n12"> Eugenie.</p>
+            <lb/>
+            <p rend="centered">VII.</p>
+            <p rend="indentchar-m8n12">Claudine.</p>
+            <p rend="indentchar-m8n12"> Erwin und Elmire.</p>
+            <p rend="indentchar-m8n12"> Jery und Bätely.</p>
+            <p rend="indentchar-m8n12"> Lila.</p>
+            <p rend="indentchar-m8n12">
+               <pb n="15"/> Scherz, List und Rache.</p>
+            <p rend="indentchar-m8n12">
+               <hi rend="italic">Zauberflöte. Zweyter Theil. Fragment.</hi>
+            </p>
+            <lb/>
+            <p rend="centered">VIII.</p>
+            <p rend="indentchar-m8n12">Kophta.</p>
+            <p rend="indentchar-m8n12"> Triumph der Empfindsamkeit.</p>
+            <p rend="indentchar-m8n12"> Vögel.</p>
+            <p rend="indentchar-m8n12"> Bürgergeneral.</p>
+            <p rend="indentchar-m8n12"> Was wir bringen.</p>
+            <lb/>
+            <p rend="centered">IX.</p>
+            <p rend="indentchar-m8n12">Reinecke Fuchs.</p>
+            <p rend="indentchar-m8n12"> Hermann und Dorothea } <hi rend="italic">Nach neueren</hi>
+            </p>
+            <p rend="indentchar-m8n12">
+               <hi rend="italic"> prosodischen</hi>
+            </p>
+            <p rend="indentchar-m8n12">
+               <hi rend="italic"> Überzeugungen</hi>
+            </p>
+            <p rend="indentchar-m8n12">
+               <hi rend="italic"> bearbeitet.</hi>
+            </p>
+            <p rend="indentchar-m8n12"> Achilleis. Erster Gesang.</p>
+            <lb/>
+            <p rend="centered"><milestone unit="testimony" xml:id="graef_1045"
+                  spanTo="#graef_1045_end"/>X.</p>
+            <p rend="indentchar-m8n12"><rs>Faust. Fragment, um die Hälfte vermehrt</rs>.</p>
+            <p rend="indentchar-m8n12"> Puppenspiel. Vermehrt.</p>
+            <p rend="indentchar-m8n12"> Andere analoge Gedichte, ältere und neuere.</p>
+            <lb/>
+            <p rend="centered">XI.</p>
+            <p rend="indentchar-m8n12">Werther.</p>
+            <p rend="indentchar-m8n12"> Kleine prosaische Schriften.</p>
+            <lb/>
+            <p rend="centered">XII.</p>
+            <p rend="indentchar-m8n12">Desgleichen.</p>
+            <p rend="indentchar-m4n0">Wie die Lieferungen einzutheilen und was sonst noch weiter zu
+               verabreden wäre, ist fernerer Überlegung anheimgegeben.</p>
+            <p rend="indentchar-m4n0"> Das neue ist roth unterstrichen.<anchor
+                  xml:id="graef_1045_end"/></p>
+            <p rend="indentchar-m4n0"> Weimar den 1. May 1805.</p>
+            <p rend="right">G.</p>
+            <pb n="16"/>
+            <lb/>
+            <p rend="indentchar-m4n0">Zu vorstehendem Promemoria, welches Herr Cotta schon kennt,
+               habe nur noch hinzuzufügen:</p>
+            <p rend="indentchar-m4n0"> Das Recht für diese Auflage würde auf fünf bis sechs Jahre
+               zugestehen.</p>
+            <p rend="indentchar-m4n0"> Ich wünschte dafür</p>
+            <p rend="centered">zehentausend Thaler</p>
+            <p>zu erhalten und zwar eintausend bei Übersendung des ersten Manuscripts, das übrige in
+               Drey auf einander folgenden Ostermessen als 1806, 1807, 1808 jedesmal 3000 rh.
+               sächsisch.</p>
+            <p rend="indentchar-m4n0">W. d. 14. Juni 1805.</p>
+            <p rend="right">J. W. v. Goethe.</p>
+            <lb/>
+            <p rend="indentchar-m4n0">Nur einen herzlichen Gruß und den Wunsch einer glücklichen
+               Nachhausekunft in jedem Sinne lege ich bey.</p>
+            <p rend="right">v. Goethe.</p>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5139</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date from="1805-08-12" to="1805-09-30"/>
+            </head>
+            <p rend="indentchar-m4n0">Mit der heutigen fahrenden Post ist Wilhelm Meister
+               abgegangen. Er wird, da wir zwey der bisherigen Bände nunmehr in einen Band
+               zusammennehmen, den zweyten und dritten Band der Werke ausmachen. Sie können nunmehr,
+               werthester Herr Cotta, den<pb n="65"/> Druck und das ganze Arrangement überlegen, ja
+               Sie schicken mir vielleicht eine Probe des Drucks und Papieres. Ich wünsche, daß das
+               Ganze heiter aussehen möge. Doch ist mir daran nicht so viel gelegen, als an der
+               Correctheit des Druckes, als worum ich inständigst bitte. Sie sehen, das Exemplar ist
+               mit großer Sorgfalt durchgegangen und corrigirt, und ich würde in Verzweiflung seyn,
+               wenn es wieder entstellt erscheinen sollte. Haben Sie ja die Güte, einem sorgfältigen
+               Mann die Revision höchlich anzuempfehlen, wobey ich ausdrücklich wünsche, daß man das
+               übersandte Exemplar genau abdrucke, nichts in der Rechtschreibung, Interpunction und
+               sonst verändre, ja sogar, wenn noch ein Fehler stehn geblieben wäre, denselben lieber
+               mit abzudrucken. Genug, ich wünsche und verlange weiter nichts als die genaueste
+               Copie des nun übersendeten Originals.</p>
+            <p rend="indentchar-m4n0"> Die kleineren Gedichte, welche den ersten Band ausmachen
+               sollen, sind alle wieder ins Manuscript geschrieben und sollen auch, wohlgeordnet,
+               ehstens ankommen. Ich denke doch, ungeachtet des Kriegswesens kann man diese Dinge
+               der Post anvertrauen.</p>
+            <p rend="indentchar-m4n0">
+               <milestone unit="testimony" xml:id="graef_1046" spanTo="#graef_1046_end"/>Was ich in
+               den vierten Band bringe, darüber bin ich mit mir selbst noch nicht einig. <rs>Ist es
+                  mir einigermaßen möglich; so tret ich gleich mit Faust hervor</rs>. Er und die übrigen
+               Holzschnittartigen Späße machen ein gutes Ganze und würden bey der ersten <pb n="66"
+               /> Lieferung gleich ein lebhafteres Interesse erregen. Bezeichnen Sie mir den letzten
+               Termin, wann Sie das Manuscript vom vierten Bande haben müssen, damit ich
+               einigermaßen meinen Überschlag machen kann.<anchor xml:id="graef_1046_end"/></p>
+            <p rend="indentchar-m4n0"> Sagen Sie mir doch auch ein Wort, wie es in Ihrer Gegend
+               steht und aussieht, und lassen mich gleich erfahren, wenn die Sendung von Wilhelm
+               Meister angekommen ist.</p>
+            <p rend="indentchar-m4n0"> Der ich recht wohl zu leben wünsche.</p>
+            <p rend="indentchar-m4n0"> W. d. 30. Sept. 1805.</p>
+            <p rend="right">Goethe.</p>
+            <lb/>
+            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#quz_I-870a_end"
+                  xml:id="quz_I-870a"/>Nach Herrn Cotta's Wunsch ist zu meiner Erklärung d. d.
+               Lauchstedt d. 12. Aug. 1805, und zwar was den fünften Punkt betrifft folgendes
+               hinzuzufügen. Da nach beyderseitiger Intention die letzte Lieferung 1808 erscheinen
+               soll, so sollen die auf Ostern gedachten Jahres zu bezahlenden letzten 3000 rh. an
+               diesen Termin dergestalt werden <rs>wenn das völlige Manuscript zu der Zeit in Herrn
+                  Cotta's Händen ist</rs>. Wo nicht; so bestimmt die Ablieferung des Manuscripts den
+               Termin der letzten Zahlung.</p>
+            <p rend="indentchar-m4n0"> Weimar d. 28. Sept. 1805.</p>
+            <p rend="right">Goethe.</p>
+            <lb/>
+            <p rend="indentchar-m4n0">Die Anzeige unsrer Ausgabe ist mit einiger Veränderung der
+               Expedition der JALZ. übergeben; wornach ich die fernere Verbreitung abzudrucken
+                  bitte.<anchor xml:id="quz_I-870a_end"/></p>
+            <pb n="67"/>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5149</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date when="1805-11-25"/>
+            </head>
+            <p rend="indentchar-m4n0">Die übersendete Probe des Drucks möchte wohl im Ganzen für
+               lesbar und annehmlich zu halten seyn, ob sie gleich nicht so modern und lustig aussieht,
+               als <pb n="76"/> wir es im nördlichen Deutschland gewohnt sind. Dabey will ich Ihnen
+               völlig überlassen, was Sie etwa durch neue Schrift und sonstige Einrichtung zum guten
+               Ansehen der Ausgabe weiterhin besorgen wollen.</p>
+            <p rend="indentchar-m4n0"> Weit mehr liegt mir am Herzen die Correctheit des Druckes.
+               Auf dem zurückgehenden Blatt sind schon ein paar Dinge zu bemerken, und ich muß
+               gestehen, daß mich das erste Stück der Schellingschen neuen Zeitschrift in Furcht und
+               Schrecken gesetzt hat, wo entstellende Druckfehler den Leser, der nicht sein Buch
+               corrigirt hat, oder es nicht durch Correcturen verderben will, äußerst irre
+               führen.</p>
+            <p rend="indentchar-m4n0"> Zwar sind Sie in Oberdeutschland nicht allein mit dem Übel
+               geplagt. Hinter Bartholdy's Reisen, in der Realschulbuchhandlung zu Berlin gedruckt,
+               stehen drey Blätter Druckfehler und man kann wohl sagen, daß dieser wackre Reisende
+               von der Nachlässigkeit des Correctors mehr gelitten hat, als von allen Türken,
+               Griechen und Arnauten zusammen.</p>
+            <p rend="indentchar-m4n0"> Selbst Cartone sind ein schlimmes Mittel. Öfter werden sie
+               auf ander Papier gedruckt und das eingeklebte wird immer, besonders aber beym Aufschlagen guter Exemplare, empfunden. Ich muß
+               Sie daher nochmals inständig bitten, da von unserer Seite nichts versäumt werden
+               soll, einem sorgfältigen Mann die Revision zu übergeben, der aber freylich nicht etwa
+               nach seiner Art wieder hinein zu corrigiren und interpungiren hat.</p>
+            <p rend="indentchar-m4n0">
+               <pb n="77"/> Möglich wird es denn doch auch in Ihrer Gegend correct zu seyn. Denn
+               seitdem die allgemeine Zeitung in Ulm gedruckt wird, lies't sie sich viel besser, da
+               vorher fremde Namen, technische und ähnliche Ausdrücke, meistens verdruckt waren,
+               worüber denn mancher böttigerische Spaß verloren ging. Verzeihen Sie, daß ich dieses
+               Umstands weitläuftig gedenke. Was kann mir aber mehr am Herzen liegen als dieses? Sie
+               werden an der Sorgfalt, womit Wilhelm Meister durchgegangen ist, unsern Ernst sehen,
+               etwas Reinliches zu liefern. Thun Sie das mögliche, mir jene schmerzlichen
+               Empfindungen zu ersparen.</p>
+            <p rend="indentchar-m4n0"> Der erste Band kann auch Anfang Decembers abgehen. Ich behalte ihn gern
+               noch bey mir, weil sich hier und da noch ein kleines Gedicht zum Einschalten findet.
+               Ich habe freylich diese Dinge von jeher mit zu weniger Sorgfalt behandelt.</p>
+            <p rend="indentchar-m4n0">
+               <milestone unit="testimony" xml:id="graef_1047" spanTo="#graef_1047_end"/><rs>Den
+                  Faust, dächt' ich, gäben wir ohne Holzschnitte und Bildwerk</rs>. Es ist so
+               schwer, daß etwas geleistet werde, was dem Sinne und dem Tone nach zu einem Gedicht
+               passt. Kupfer und Poesie parodiren sich gewöhnlich wechselsweise. Ich denke, der
+               Hexenmeister soll sich allein durchhelfen.<anchor xml:id="graef_1047_end"/></p>
+            <p rend="indentchar-m4n0"> Indessen an der Donau die wundersamsten Dinge geschehen,
+               füllt sich unser Thüringen mit Soldaten. Das incalculable der Zustände läßt Furcht
+               und Hoffnung in suspenso und jederman sucht nur über den Augenblick hinzukommen.
+               Sagen Sie mir manchmal <pb n="78"/> Ihre Ansicht, auf die ich immer viel Vertrauen
+               hegte.</p>
+            <p rend="indentchar-m4n0"> Das beste Lebewohl.</p>
+            <p rend="indentchar-m4n0"> Jena d. 25. Nov. 1805.</p>
+            <p rend="right">G.</p>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5176</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date when="1806-02-24"/>
+            </head>
+            <p rend="indentchar-m4n0">Mit der heutigen fahrenden Post wird der erste Band meiner
+               Werke an Sie, werthester Herr Cotta, abgehen. Die erste Hälfte desselben kommt in
+               Manuscript; bey der zweyten ist die Ungerische Ausgabe meiner kleineren Gedichte zum
+               Grunde gelegt. Es findet sich ein Verzeichniß des sämmtlichen Inhalts dabey, so daß
+               keine Unordnung oder Irrung möglich ist. Demungeachtet ersuche ich Sie, das Paket mit
+               einiger Aufmerksamkeit zu eröffnen, damit die verschiedenen Abtheilungen nicht durch
+               einander kommen.</p>
+            <p rend="indentchar-m4n0"> Die Gedichte der geschriebenen Abtheilungen folgen, wie sie
+               liegen, hinter einander; zwischen die gedruckten ist einiges einzuschalten, welches
+               im Manuscripte beyliegt <pb n="106"/> und sowohl nach dem Verzeichniß des Inhalts,
+               als nach den, im gedruckten Bändchen beygefügten Bemerkungen, eingeschaltet werden
+               kann.</p>
+            <p rend="indentchar-m4n0"> Es versteht sich von selbst, daß jedes Gedicht auf einer
+               neuen Seite anfängt. Wollte man bey kleinen, die unmittelbar auf einander folgen,
+               eine Ausnahme machen; so müßte es mit guter Überlegung geschehen.</p>
+            <p rend="indentchar-m4n0"> Die Ungerische Ausgabe kann im Allgemeinen hiebey als Muster
+               dienen.</p>
+            <p rend="indentchar-m4n0"> Ferner bitte, meinen Namen Goethe, und nicht Göthe drucken zu
+               lassen.</p>
+            <p rend="indentchar-m4n0"> Ist es Ihnen bequemer, und hoffen Sie dadurch die Correctheit
+               und übrige Anständigkeit des Druckes besser besorgen zu können; so habe ich gar
+               nichts dagegen, wenn Sie damit noch einige Monate zaudern, und sey Ihnen dieses ganz
+               überlassen. <milestone unit="testimony" xml:id="graef_1048" spanTo="#graef_1048_end"
+               />Der vierte Band der ersten Lieferung soll auch in wenigen Wochen fertig seyn; doch
+               laß ich ihn bey mir liegen, bis Sie ihn verlangen. <rs>Er wird den Faust enthalten,
+                  insofern dieser jetzt mittheilbar ist</rs>, dagegen aber auch der dünnste von den
+               vieren werden, wie der dritte der dickste. Bey einer solchen Reihe von Bänden, wo es
+               angenehm ist, das Gehörige beysammen zu haben, läßt sich's freylich so genau nicht
+                  einrichten.<anchor xml:id="graef_1048_end"/></p>
+            <p rend="indentchar-m4n0"> An den Damen-Calender will ich denken. Vielleicht bring' ich
+               wieder irgend so etwas zum Eingange wie vor dem Jahre. Das gute Glück muß es <pb
+                  n="107"/> aber herbeyführen: denn was alles noch vorräthig läge, paßt nicht in
+               diesen Kreis.</p>
+            <p rend="indentchar-m4n0"> Daß ich in der Zwischenzeit hundertmal an Sie gedacht habe,
+               können Sie leicht denken. Ließe sich's denn nicht einrichten, daß Sie, zur Messe
+               gehend, oder von der Messe kommend, sich nur so lange bey uns aufhielten, daß man in
+               einigen ruhigen Stunden manches durchsprechen könnte?</p>
+            <p rend="indentchar-m4n0"> Diesen Winter bin ich nicht von allem Übel verschont
+               geblieben; doch geht es mir viel besser, als vor einem Jahre.</p>
+            <p rend="indentchar-m4n0"> Von der Farbenlehre sind sechs Bogen gedruckt, drey des
+               ersten und drey des zweyten Theils. Unter einem Jahre, sehe ich wohl, bringe ich das
+               Werk nicht zusammen. Ich sage das voraus, damit es nicht etwa auf Ostern angekündigt
+               werde.</p>
+            <p rend="indentchar-m4n0"> Die dazu nöthigen Tafeln will ich nach und nach besorgen.
+               Proben derselben und einen Anschlag über das Ganze sollen Sie auf Jubilate
+               finden.</p>
+            <p rend="indentchar-m4n0"> Wenn es ohne Ihre Beschwerde geschehen kann; so bitte ich um die mir
+               fehlenden Nummern der allgemeinen Zeitung, ich möchte das interessante Blat gern
+               binden lassen.</p>
+            <p rend="indentchar-m4n0"> Herr Göschen hat an mich noch gar nichts gebracht, welches
+               doch das erste gewesen wäre. Irre ich nicht, so fühlt er daß ich ihm eine Frage zu
+               thun habe die sich nicht gut beantworten läßt.</p>
+            <p rend="indentchar-m4n0"> Und somit das beste Lebe wohl und die Versicherung<pb n="108"/>
+               meines aufrichtigsten Antheils an allem was Ihnen begegnet.</p>
+            <p rend="indentchar-m4n0"> Weimar d. 24. Febr. 1806.</p>
+            <p rend="right">Goethe.</p>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5194</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date when="1806-04-27"/>
+            </head>
+            <p rend="indentchar-m4n0">Erlauben Sie mir noch eine besondre Bitte bey dieser Sendung
+               hinzuzufügen. Ich habe seit einiger Zeit eine Sammlung sogenannter Autographen angelegt,
+                  <pb n="127"/> daß ich nemlich suche und wünsche, von bedeutenden Männern
+               der gegenwärtigen und vergangenen Zeit ein eigenhändig Geschriebenes zu erhalten und
+               zu besitzen; besonders in dem löblich pädagogischen Zweck, meinen Knaben durch diese
+               sinnlichen Zeugnisse auf bedeutende Männer der Gegenwart und Vergangenheit
+               aufmerksamer zu machen, als es die Jugend sonst wohl zu seyn pflegt.</p>
+            <p rend="indentchar-m4n0"> Sie könnten mir daher eine besondre Gefälligkeit erzeigen,
+               wenn Sie ein Stammbuch, es wäre gebunden oder in Blättern, dergleichen auf Academien
+               immer zu finden sind, anschafften und die würdigen Männer um sich her, in Stuttgart
+               und sonst in Schwaben, um die Einzeichnung eines freundlichen Wortes und ihrer Namens
+               Unterschrift, in meinem Namen ersuchten. Sonst war es hergebracht, daß Reisende
+               dergleichen Bücher mit sich herumführten; warum sollte man sich nicht auch
+               dergleichen aus der Ferne erbitten dürfen?</p>
+            <p rend="indentchar-m4n0"> Könnten Sie mir auch außerdem noch alte Stammbücher um einen
+               proportionirten Preis verschaffen; auch Briefe und was sich sonst für Denkmäler der
+               Handschriften gelehrter und bedeutender Männer voriger Zeiten vorfinden; so geschähe
+               mir ein besonderer Gefallen. Ein Blättchen von der Handschrift Herzog Carls würde ja
+               auch wohl irgend zu haben seyn.</p>
+            <p rend="indentchar-m4n0"> Verzeihung!</p>
+            <p rend="right">G.</p>
+            <p rend="indentchar-m4n0">
+               <pb n="128"/> Da sich mir nach eingezogener Erkundigung eine Gelegenheit darbietet
+               3000 rh allhier ohne Verlust ausgezahlt zu erhalten, gegen Assignationen in der
+               letzten Leipziger Meßwoche zahlbar; so ersuche Dieselben mich besprochnermassen damit
+               gefälligst zu versehen.</p>
+            <p rend="indentchar-m4n0">
+               <milestone unit="testimony" xml:id="graef_1061a" spanTo="#graef_1061a_end"/>Zugleich
+               wünschte zu erfahren ob ich das <rs>Manuscript zum 4. Bande nach Leipzig senden</rs>;
+               oder es hier behalten soll um es Ihnen bey Ihrer Rückreise zuzustellen; welches
+               letzte mir soviel lieber wäre, da es mir ausser der Sicherheit noch die Hoffnung
+               gewährte Sie wiederzusehen.<anchor xml:id="graef_1061a_end"/> Das beste wünschend</p>
+            <p rend="indentchar-m4n0">W. d. 27. Apr. 1806.</p>
+            <p rend="right">Goethe.</p>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5229</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date when="1806-08-18"/>
+            </head>
+            <p rend="right">Jena den 18. August 1806.</p>
+            <p rend="indentchar-m4n0">Mit der fahrenden Post geht der vierte Band meiner Werke an
+               Sie ab. Es fehlt daran nur noch Elpenor, ein Fragment, welches ich mit der reitenden
+               bald nachschicke. <milestone unit="testimony" xml:id="graef_1063"
+                  spanTo="#graef_1063_end"/>Es liegt auch in dem Pakete ein Verzeichniß der Stücke,
+               welche in die vier Bände der zweyten Lieferung kommen. <rs>Der vierte, worin Faust
+                  befindlich, ist schon in Ihren Händen</rs>. Die drey ersten <pb n="176"/> erhalten
+               Sie hoffentlich noch vor Michael, so daß, wenn Sie es räthlich finden, die acht Bände
+               hinter einander fortgedruckt werden können.</p>
+            <p rend="indentchar-m4n0"> Mit meinem Aufenthalt in Carlsbad habe ich Ursache zufrieden
+               zu seyn. Die Anfälle meines Übels sind ausgeblieben, im Ganzen scheint sich die Natur
+               wieder zu erholen und nach und nach ins Gleiche zu kommen.</p>
+            <p rend="indentchar-m4n0"> Von Ihnen und den Ihrigen wünsch' ich gleichfalls zu
+               vernehmen, daß Sie sich wohlbefinden.</p>
+            <p rend="indentchar-m4n0"> Ein dem Pakete beygelegtes Buch: Hübners Reimlexikon ist für
+               Herrn von Humboldt bestimmt. Möchten Sie wohl die Gefälligkeit haben, ihm solches mit
+               Gelegenheit zu übersenden.</p>
+            <p rend="indentchar-m4n0"> Die glückliche Ankunft des Pakets wünsche bald zu
+                  erfahren,<anchor xml:id="graef_1063_end"/> sowie auch wieder von Ihnen einige
+               Nachricht zu hören.</p>
+            <p rend="indentchar-m4n0"> Das beste wünschend und mich angelegentlich empfehlend</p>
+            <p rend="right">Goethe.</p>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5271</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date when="1806-10-24"/>
+            </head>
+            <p rend="indentchar-m4n0">Die Druckproben zum vierten Bande sind glücklich bey mir
+               angelangt und ich wüßte nichts weiter dabey zu erinnern. Auch mit dem übrigen, was
+               schon in Aushängebogen bey mir ist, kann man im Ganzen wohl zufrieden seyn, und
+               überhaupt wollen wir nur<pb n="218"/> Gott danken, daß wir soweit sind. In jener
+               unglücklichen Nacht waren meine Papiere meine größte Sorge, und mit Recht. Denn die
+               Plünderer sind in andern Häusern sehr übel damit umgegangen und haben alles wo nicht
+               zerrissen, doch umhergestreut. Ich werde nach dieser überstandenen Epoche um desto
+               mehr eilen, meine Manuscripte in Druck zu bringen. Die Tage des Zauderns sind vorbey,
+               die bequemen Stunden, in denen wir uns mit Hoffnung schmeichelten, unsre Versuche zu
+               vollenden, und was wir nur entworfen hatten, auszuführen.</p>
+            <p rend="indentchar-m4n0"> Mit der montägigen fahrenden Post geht nicht allein Elpenor
+               an Sie ab, sondern es folgt auch der 5. 6. u. 7. Theil meiner Werke. <milestone
+                  unit="testimony" xml:id="graef_1066" spanTo="#graef_1066_end"/>Der 8. ist schon in
+               Ihren Händen. Sie können deswegen, wenn es Ihre Convenienz ist, <rs>mit dem Druck
+                  sogleich fortfahren</rs><anchor xml:id="graef_1066_end"/>, ja ich denke, in
+               weniger Zeit das übrige dergestalt bereit zu halten, daß weiter kein Aufenthalt
+               eintreten soll.</p>
+            <p rend="indentchar-m4n0"> Sobald unsre guten Jenenser sich einigermaßen erholt haben,
+               soll auch an der Farbenlehre fortgedruckt werden, um so mehr, als wir diesen Winter
+               Ursache haben, uns im Stillen zu beschäftigen und wenig nach außen zu sehen.</p>
+            <p rend="indentchar-m4n0"> Meine Ideen über organische Bildung, besonders am
+               osteologischen Typus durchgeführt, wünsche ich auch noch diesen Winter drucken zu
+               lassen. D. Voigt der jüngere zu Jena wird Noten und Zusätze dazu <pb n="219"/>
+               liefern, um zu zeigen, wie brauchbar jener Leitfaden in der Erfahrung werden kann.
+               Ich sollte nicht denken, daß es viel über 12 Bogen geben könnte. Mögen Sie es in
+               Verlag nehmen, so dürften Sie nur an Frommann deshalb das nöthige besorgen. Mein Text
+               könnte immer gedruckt werden: denn Noten und Zusätze kommen ans Ende, und die
+               Einleitung, die ich dem ganzen vorsetzen will, läßt man zuletzt drucken. In dieser
+               will ich meine Ansichten überhaupt geben und ich denke, sie soll auch für das
+               allgemeine Publicum nicht ohne Interesse seyn.</p>
+            <p rend="indentchar-m4n0"> Leben Sie recht wohl und gedenken mein. Mit der montägigen
+               Abendpost berichte ich nochmals den Abgang des oben gemeldeten Pakets und bitte mir
+               nach dessen Ankunft, zu meiner Beruhigung, baldige Antwort aus.</p>
+            <p rend="indentchar-m4n0"> Ein herzliches Lebe wohl!</p>
+            <p rend="indentchar-m4n0"> W. d. 24. Octbr. 1806.</p>
+            <p rend="right">Goethe.</p>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5363</num>. <lb/>
+               <lb/>An <persName>Carl Friedrich Zelter</persName>
+               <date when="1807-05-07"/>
+            </head>
+            <p rend="indentchar-m4n0">Ihrer Briefe, die nach einander ankommen, erfreue ich mich gar
+               sehr und fahre fort, einiges zu erwiedern. Wie erwünscht wäre mir gewesen, Ihr
+               Oratorium mit anhören zu können: denn leider bin ich von Musik gar zu sehr
+               abgeschnitten, und das Bißchen Operette, ob wir gleich mitunter recht gute Stimmen
+               haben, wills doch auch nicht thun. Daher scheint auch in mir aller Sang und Klang
+               verschwunden, so wie alle Imagination, die sich auf Musik bezieht. Vielleicht führt
+               uns das gute Glück und ein vernünftiger Vorsatz bald wieder zusammen, und wir finden
+               uns im Stande etwas in Gesellschaft zu arbeiten.</p>
+            <p rend="indentchar-m4n0"> Daß Ihnen mein Elpenor Freude gemacht hat, ist mir höchst
+               angenehm und der Zweck dieser Blätter nun schon erreicht. Doch ist vielleicht bey dem
+               Beyfall, den Sie meinem Fragmente schenken, Ihre Neigung zu mir und meinem Wesen als
+               mitwirkend anzusehen: denn ich gestehe gern, daß ich diese Arbeit selbst nicht mehr
+               beurtheilen kann. Wenn etwas ins<pb n="323"/> Stocken geräth, so weiß man immer
+               nicht, ob die Schuld an uns oder an der Sache liegt. Gewöhnlich aber wirft man eine
+               Abneigung auf etwas, das man nicht vollenden kann, als auf ein Ding, das uns
+               widerstrebt und das wir nicht Herr werden können. Überhaupt habe ich bey Herausgabe
+               meiner Werke sehr lebhaft gefühlt, wie fremd mir diese Sachen geworden sind, ja daß ich fast kein Interesse mehr daran habe. Das geht
+               soweit, daß ich, ohne freundliche treu fortgesetzte Beyhülfe, diese zwölf Bändchen
+               gar nicht zusammengebracht hätte. Jetzt haben wir sie aber meist hinter uns und bis
+               Einen kommen sie diese Tage sämmtlich in Cotta's Hände. Da mag nun weiter aus uns
+               werden, was will, so wäre doch soviel gerettet. <milestone unit="testimony"
+                  xml:id="graef_1069" spanTo="#graef_1069_end"/>Ich freue mich zum Voraus auf den
+               Spaß, den Ihnen <rs>der fortgesetzte Faust</rs> machen wird. Es sind Dinge darin, die
+               Ihnen auch von musikalischer Seite interessant seyn werden.<anchor
+                  xml:id="graef_1069_end"/></p>
+            <p rend="indentchar-m4n0"> Können Sie mir das Verzeichniß der von Berlin weggeführten
+               Kunstschätze ertheilen, so geschieht mir ein Gefallen. Wenn man nur weiß, wo sie
+               aufbewahrt werden, so sind sie uns nicht verloren.</p>
+            <p rend="indentchar-m4n0"> Leben Sie recht wohl und schreiben mir noch einmal vor Pfingsten und dann lassen Sie nach Carlsbad von sich
+               hören.</p>
+            <p rend="indentchar-m4n0"> Weimar den 7. May 1807.</p>
+            <p rend="right">G.</p>
+            <pb n="324"/>
+            <lb/>
+         </div>
+         <pb n="401"/>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5410</num>. <lb/>
+               <lb/>An <persName>Adam Heinrich Müller</persName>
+               <date when="1807-08-28"/>
+            </head>
+            <p rend="right">Carlsbad, den 28. August 1807.</p>
+            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1069a"
+                  spanTo="#graef_1069a_end"/>Indem ich Ihnen, mein werthester Herr Müller, Ihre
+               Vorlesungen zurückschicke, möchte ich diese Hefte gern mit etwas Freundlichem und
+               etwas Bedeutendem begleiten. Das erste wird mir leicht, das zweyte im gegenwärtigen
+               Augenblicke schwer; doch können Sie ja selbst wissen, was ich Ihnen auf beyde Weise
+               zu sagen hätte. <rs>Der Schauspieler fühlt nicht lebhafter, daß er eines wohlwollenden
+               Zuschauers bedarf, als wenn er eben abtreten will, der Dichter, wenn das<pb n="402"/>
+               Stück zu Ende geht</rs>; und so will ich gern bekennen, daß es mich sehr freut, an Ihnen
+               einen wohlwollend Theilnehmenden zu wissen und zu hinterlassen. Die Welt thut ihr
+               Möglichstes, uns gegen Lob und Tadel gleichgültig zu machen; aber es gelingt ihr denn
+               doch nicht, und wir kehren, wenn wir günstige und zugleich im Ganzen mit unsern
+               Überzeugungen zusammentreffende Urtheile vernehmen, immer gar zu gern aus unserer
+               Resignation zum Genuß zurück.<anchor xml:id="graef_1069a_end"/></p>
+            <p rend="indentchar-m4n0"> Über Amphitryon habe ich Manches mit Herrn von Gentz
+               gesprochen; aber es ist durchaus schwer, genau das rechte Wort zu finden. Nach meiner
+               Einsicht scheiden sich Antikes und Modernes auf diesem Wege mehr, als daß sie sich
+               vereinigten. Wenn man die beyden entgegengesetzten Enden eines lebendigen Wesens
+               durch Contorsion zusammenbringt, so giebt das noch keine neue Art von Organisation;
+               es ist allenfalls nur ein wunderliches Symbol, wie die Schlange, die sich in den
+               Schwarz heißt.</p>
+            <p rend="indentchar-m4n0"> Der zerbrochene Krug hat außerordentliche Verdienste, und die
+               ganze Darstellung dringt sich mit gewaltsamer Gegenwart auf. Nur schade, daß das
+               Stück auch wieder dem unsichtbaren Theater angehört. Das Talent des Verfassers, so
+               lebendig er auch darzustellen vermag, neigt sich doch mehr gegen das Dialektische
+               hin; wie er es denn selbst in dieser stationären Proceßform auf das wunderbarste
+               manifestirt hat. Könnte er mit eben dem Naturell und <pb n="403"/> Geschick eine
+               wirklich dramatische Aufgabe lösen und eine Handlung vor unsern Augen und Sinnen
+               sich entfalten lassen, wie er hier eine vergangene sich nach und nach enthüllen läßt,
+               so würde es für das deutsche Theater ein großes Geschenk seyn. Das Manuscript will
+               ich mit nach Weimar nehmen, in Hoffnung Ihrer Erlaubniß, und sehen, ob etwa ein
+               Versuch der Vorstellung zu machen sey. Zum Richter Adam haben wir einen vollkommen
+               passenden Schauspieler, und auf diese Rolle kommt es vorzüglich an. Die andern sind
+               eher zu besetzen.</p>
+            <p rend="indentchar-m4n0"> Mögen Sie mir künftig von sich oder von Andern manchmal etwas
+               mittheilen, so soll es mir immer sehr angenehm seyn. Und nun noch einen Wunsch. Wenn
+               Sie Ihre Betrachtungen, was in der deutschen Literatur geschehen, geschlossen haben,
+               so wünschte ich, Sie bildeten uns auch eine Geschichte heraus, wie in der deutschen
+               Literatur gedacht und geurtheilt worden. Wir stehen jetzt auf einem Punkte, wo sich
+               das auch mit einer gewissen Freyheit übersehen läßt, und beydes hängt gar genau
+               zusammen, weil doch auch die Hervorbringenden wieder urtheilen, und dieses Urtheil
+               wieder ein Hervorbringen veranlaßt.</p>
+            <p rend="indentchar-m4n0"> Verzeihen Sie, wenn ich in einem Briefe verfahre, wie man es
+               im Gespräch eher thun darf, und füllen Sie die Lücken aus, die zwischen dem, was ich
+               gesagt habe, geblieben sind.</p>
+            <p rend="indentchar-m4n0"> Die Bekanntschaft des Herrn von Haza, der das<pb n="404"/>
+               Gegenwärtige mitzunehmen die Gefälligkeit hat, ist mir sehr angenehm gewesen. Ich
+               wünsche recht wohl zu leben und manchmal von Ihnen zu hören.</p>
+            <p rend="right">G.</p>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5412</num>. <lb/>
+               <lb/>An <persName>Johann Friedrich Cotta</persName>
+               <date when="1807-08-30"/>
+            </head>
+            <p rend="right">Carlsbad den 30. August 1807.</p>
+            <p rend="indentchar-m4n0">Indem ich im Begriff bin, nach Weimar zurückzukehren, so will
+               ich nur mit wenigem anzeigen, daß es mir die Zeit über ganz leidlich gegangen ist,
+               und daß ich von meiner Sommerkur für den Winter das beste hoffe.</p>
+            <p rend="indentchar-m4n0"> Daß Sie meinen Aufsatz über Hackert erhalten haben, ist mir
+               dadurch gewiß geworden, daß er, wie ich höre, in das Morgenblatt eingerückt ist: denn
+               eigentlich haben wir alles literarische Neue nur von Hörensagen, indem man hier, mehr
+               als sich denken läßt, von aller Communication dieser Art abgeschnitten ist.</p>
+            <p rend="indentchar-m4n0">
+               <milestone unit="testimony" xml:id="graef_1069b" spanTo="#graef_1069b_end"/>Ich
+               wünsche bey meiner Rückkunft bald von Ihnen zu hören und auch zu vernehmen, <rs>wie
+                  es mit der zweyten Lieferung meiner Werke steht</rs> und wann Sie solche
+               auszugeben gedenken.<anchor xml:id="graef_1069b_end"/></p>
+            <p rend="indentchar-m4n0"> Ich könnte Ihnen für das Morgenblatt einen kleinen Aufsatz
+               über Carlsbad und besonders über diesen Sommer schicken, wenn Sie
+               nicht von der allzeit fertigen Hand, welche auch dießmal hier den <pb n="406"/>
+               Sprudelbecher angefaßt hat, schon damit versehen worden. Doch stünde auch schon etwas
+               in Ihrem Blatte, so würde ich es ansehen und vielleicht ließ sich immer noch von
+               einer andern Seite die Sache fassen und etwas nicht unerfreuliches liefern. Von
+               manchem andern, was ich gethan und vorbereitet, schweige ich lieber und füge nur noch
+               den Wunsch hinzu, daß Sie sich recht wohl befinden mögen.</p>
+            <p rend="right">Goethe.</p>
+            <pb n="407"/>
+            <lb/>
+         </div>
+         <div type="letter">
+            <head>
+               <num type="wa-volume">19</num>/<num type="wa-letter">5470</num>. <lb/>
+               <lb/>An <persName>Carl Friedrich Zelter</persName>
+               <date when="1807-12-16"/>
+            </head>
+            <p rend="indentchar-m4n0">Erst konnte ich, mein Bester, von Ihnen nicht genug verlangen,
+               erbat mir bald dieses bald jenes, ich plagte Sie mit meinen Commissionen, da Sie ohnehin
+               genug zu thun haben; und da nun alles angekommen ist, Gesänge, Preiscourant,
+               Rübchen: so mache ich's wie die erhörten Beter und wende mich ohne weiteren Dank
+               von dem Geber zu den Gaben.</p>
+            <p rend="indentchar-m4n0"> Ich will das nicht entschuldigen, denn zu ein paar Zeilen an
+               einen Freund gäbe es immer Zeit; allein ich bin seit meiner Rückreise aus dem
+               Carlsbad so wunderlich von der Gegenwart geklemmt worden, als wenn ich für jene vier
+               Monate, die ich wie ein abgeschiedener Gymnosophist auf ungetrübter Bergeshöhe
+               zugebracht, wieder büßen sollte. Zwar ist mir nichts unangenehmes wiederfahren; doch
+               drängte sich so manches <pb n="475"/> Liebes und Unliebes heran, daß meine Kräfte,
+               weder physisch noch moralisch, recht ausreichen wollten.</p>
+            <p rend="indentchar-m4n0">
+               <milestone unit="testimony" xml:id="graef_1072a" spanTo="#graef_1072a_end"/>Endlich
+                  <rs>dachte ich auch die zweyte Sendung meiner Werke an Sie abgehen zu lassen</rs>;
+               sie ist aber bey mir selbst noch nicht angekommen, nicht einmal in vollständigen
+               Aushängebogen, sonst hätte ich die einstweilen geschickt, insofern sie etwas Neues
+                  enthalten.<anchor xml:id="graef_1072a_end"/></p>
+            <p rend="indentchar-m4n0"> Mein kleines Singechor, das freylich noch kaum über vier
+               Stimmen hinausgeht, bildet sich schon recht hübsch und wirkt auch schon auf das Theater zu.
+               Kurz vor meiner Abreise ist es durch eine junge weibliche Stimme, die man fast einen
+               Alt nennen könnte, sehr ausgeschmückt worden. Dürfte ich Sie gelegentlich um das
+               Schillersche Punschlied bitten. Es ist davon leider bey mir nur eine Stimme übrig;
+               die andern sind verschleppt.</p>
+            <p rend="indentchar-m4n0"> Werner, der Sohn des Thals, ist seit zwölf Tagen hier bey uns
+               in Jena. Seine Persönlichkeit interessirt uns und gefällt uns. Er liest von seinen
+               gedruckten und ungedruckten Arbeiten vor und so kommen wir über die seltsamen
+               Außenseiten dieser Erscheinungen in den Kern hinein, der wohlschmeckend und kräftig
+               ist.</p>
+            <p rend="indentchar-m4n0"> Soviel, mein liebster, für dießmal. Ich packe ein, um wieder
+               nach Weimar zu gehen. Hier ist es mir ganz gut geworden, und was Sie wohl nicht
+               rathen würden, ich bin ins Sonettenmachen hineingekommen. Davon schicke ich Ihnen
+               gelegentlich ein Dutzend, mit der einzigen Bedingung, daß sie Niemand sieht und <pb
+                  n="476"/> daß keine Abschrift genommen wird. Möchten Sie aber eins davon
+               componiren, so würde es mich recht glücklich machen. Ich mag gar zu gern meine
+               Productionen auf Ihrem Elemente schwimmen sehen. Sagen Sie mir bald wieder etwas,
+               wenn es auch nicht viel ist. Ein Freundeswort ist in diesen trüben und kurzen Tagen
+               doppelt erfreulich.</p>
+            <p rend="indentchar-m4n0"> Geheimerath Wolf hat uns mit einem trefflichen Hefte über das
+               Studium des Alterthums beschenkt, das einen großen Reichthum enthält und an alles
+               erinnert was wir wissen, und uns freundlich andeutet was wir weiter noch wissen und
+               wie wir das alles behandlen sollen. Ein nochmaliges Lebewohl.</p>
+            <p rend="indentchar-m4n0"> Jena den 16. December 1807.</p>
+            <p rend="right">G.</p>
+            <lb/>
+         </div>
+         
+         <!--Testimony gräf_1064, WA IV, 19, 505-->
+         <div>
+            <pb n="505"/>
+            <p>Die zwey ersten Lieferungen enthalten, wie folgt:</p>
+            <pb n="506"/>
+            
+            <table>
+               <head>Erste Lieferung.</head>
+               
+               <row>
+                  <cell/>
+                  <cell rend="centered">Erster Band.</cell>
+               </row>
+               
+               <row>
+                  <cell rend="left">früher abgeschickt.</cell>
+                  <cell>Vermischte Gedichte.</cell>
+               </row>
+               
+               <row>
+                  <cell/>
+                  <cell rend="centered">Zweyter Band.</cell>
+               </row>
+               
+               
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Wilhelm Meister. Erste Hälfte.</cell>
+               </row>
+               
+               <row>
+                  <cell/>
+                  <cell rend="centered"> Dritter Band. </cell>
+               </row>
+               
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Wilhelm Meister. Zweyte Hälfte.</cell>
+               </row>
+               
+               <row>
+                  <cell/>
+                  <cell>Vierter Band. </cell>
+               </row>
+               
+               <row>
+                  <cell>gegenwärtig abgeschickt.</cell>
+                  <cell>Laune des Verliebten.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Mitschuldigen.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Geschwister.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Mahomet.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Tankred</cell>
+               </row>
+               <row>
+                  <cell>folgt bald</cell>
+                  <cell>Elpenor</cell>
+               </row>
+            </table>
+            
+            <lb/>
+            <table>
+               <head rend="centered"> Zweyte Lieferung.</head>
+               
+               <row>
+                  <cell/>
+                  <cell>fünfter Band.</cell>
+               </row>
+               <row>
+                  <cell>vor Michael hoffentlich abzuschicken.</cell>
+                  <cell>Götz von Berlichingen.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Egmond.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Stella.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Clavigo.</cell>
+               </row>
+               
+               <row>
+                  <cell/>
+                  <cell> Sechster Band. </cell>
+                  
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Iphigenie.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Tasso.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Eugenie</cell>
+               </row>
+               
+               <row>
+                  <cell/>
+                  <cell> Siebenter Band.</cell>
+                  
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Claudine.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Erwin und Elmire.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Jery und Bäthely.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Lila</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Scherz, List und Rache</cell>
+               </row>
+               
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Zauberflöte zweyter Theil.</cell>
+               </row>
+               
+               <row>
+                  <cell/>
+                  <cell><milestone unit="testimony" spanTo="#graef_1064_end"
+                     xml:id="graef_1064"/> Achter Band.</cell>
+               </row>
+               
+               <row>
+                  <cell>Herrn Cotta in Weimar übergeben.</cell>
+                  <cell><rs>Faust.</rs></cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>Puppenspiel.</cell>
+               </row>
+               <row>
+                  <cell rend="centered"> " </cell>
+                  <cell>pp.</cell>
+               </row>
+               <anchor xml:id="graef_1064_end"/>
+               
+            </table>
+            <p rend="left">Jena d. 19. Aug. 1806.</p>
+            <signed rend="right">G.</signed>
+         </div>
+         
+         <!--Testimony gräf_1067, WA IV, 19, 513 -->
+         
+         <div>
+            <p rend="centered"><milestone unit="testimony" spanTo="#graef_1067_end"
+               xml:id="graef_1067"/>Achter Band.<lb/>
+               <rs>Faust und Zubehör.<lb/>
+                  <lb/>Ist schon in Herrn Cotta's Händen.</rs><anchor xml:id="graef_1067_end"
+                  /></p>
+            <milestone unit="section" rendition="#hr"/>
+            <p rend="centered">--------------------------------------------------</p>
+            
+            <p>Da man die vier Göschenschen Bände nicht zerreißen wollte; so folgen auch schon
+               durchgesehen für die dritte Lieferung:<lb/> Triumph der Empfindsamkeit<lb/> Die
+               Vögel.<lb/> Werther<lb/>
+            </p>
+            <p rend="left">Weimar den 26. October 1806.</p>
+         </div>
+         
+
+         <!--Testimony graef_1068-->
+         <div>
+            <head rend="center">[Nachgetragener Brief (Concept)] </head>
+            <p>Aus der Beylage werden Sie, mein werthester Herr Cotta, ersehen, was heute früh mit
+               der fahrenden Post abgegangen ist <pb n="512"/> Ich wünsche, daß diese Sendung
+               glücklich in Ihre Hände gelangen möge, und erbitte mir baldige Nachricht
+               deshalb.<lb/> Da wir uns von dem ersten Schrecken erholt, fährt jedes in seiner
+               gewohnten Arbeit fort und ich will es von meiner Seite nicht fehlen lassen. Sie hören
+               bald mehreres von mir.</p>
+            <lb/>
+            <p><milestone unit="testimony" spanTo="#graef_1068_end" xml:id="graef_1068"/>Zu der
+               abgegangenen Sendung mache ich nur noch die Bemerkung, daß, weil ich die vier
+               Göschenschen Bände nicht zerreißen wollte, einige Stücke, wie die Mitschuldigen, die
+               Geschwister, <rs>Faust und Zubehör</rs> usw.. noch einmal kommen. Diese gelten aber nicht;
+               sondern der Abdruck geschieht nach den Manuscripten, die schon in Ihren Händen
+                  sind.<anchor xml:id="graef_1068_end"/><lb/> Mögen Sie beygehendes in die Ulmer
+               Zeitung einrücken lassen, so erzeigen Sie mir einen Gefallen.<lb/> Haben Sie doch die
+               Güte nach München und an Orte, wo Sie sonst von meinen Freunden wissen, zu schreiben,
+               daß ich mich mit den Meinigen wohlbefinde.<lb/> Leben Sie recht wohl. Bey uns ist es
+               ziemlich ruhig, da der Strom eilig nordwärts abgeflossen.</p>
+            <p rend="left">Weimar den 27. October 1806.</p>
+            <p rend="center">G.</p>
+            <lb/>
+            <p rend="centered">[Beilage.]</p>
+            <lb/>
+            <lb/>
+            <lb/>
+            <p>Hierbey folgen:<lb/> Rest der ersten Lieferung<lb/> Elpenor. Ein Fragment zum vierten
+               Bande gehörig.<lb/>
+               <lb/>Zur zweyten Lieferung<lb/>
+               <lb/> Fünfter Band.<lb/> Götz von Berlichingen.<lb/> Egmont.<lb/> Stella.<lb/> Clavigo.<lb/>
+               <lb/> Sechster Band.<lb/> Iphigenie.<lb/> Tasso.<lb/> Eugenie.<lb/>
+               <lb/> Siebenter Band<lb/> Claudine.<lb/> Erwin und Elmire.<lb/>
+               <pb n="513"/> Jery und Bäthly.<lb/> Lila.<lb/> Die Fischerin.<lb/> Scherz, List und
+               Rache.<lb/> Zauberflöte.</p>
+            <lb/>
+         </div>
+      </body>
+   </text>
+</TEI>

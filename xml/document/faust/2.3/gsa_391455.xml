@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391455/">
+   <revisionDesc>
+      <change when="2012-12-05" who="bruening">encoded</change>
+      <change when="2014-01-23" who="henzel">docTranscript nachgetragen</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Vorstufe zu 2 III H.17 (GSA 25/W 1596);
+         Konzept egh zu Vers 8870–8881 (ohne
+         Vers 8878) mit dem Inzipit: Gedenke
+         nicht der Freuden! . . . = zweites Kon-
+         zept im Vgl. mit 2 III H.20 (GSA 25/W 1599);
+         dabei Notiz August v. Goethe: „Litho-
+         graphische Anstalt betreff. Zu heften“</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.21</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,9</idno>
+      <idno type="gsa_2">GSA 25/W 1600</idno>
+      <idno type="gsa_ident">391455</idno>
+      <idno type="wa_faust">2 III H.21</idno>
+      <textTranscript uri="391455.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">210</width>
+         <height unit="mm">300</height>
+      </dimensions>
+      <format>none</format>
+      <edges>uncut</edges>
+      <watermarkID>Achtzackiger_Stern</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 68</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 96</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 96</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Vorstufe zu H.17 (25/XVIII,2,5*a)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Notiz August v. Goethe: "Lithographische Anstalt betreff. Zu heften"</f:dabei_vermerk>
+      <f:datierung>1824/ Frühjahr 1825 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391455</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 8870-8881 (8878 fehlt/fehlen)
+Gedenke nicht der Freuden! ...
+WA: III H.21; vgl. I 15.2,68
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,9</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,9</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1824/ Frühjahr 1825 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1825</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Gedenke nicht der Freuden!</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,68</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.21</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>8878</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8870-8881</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Goethe, August von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Notiz August v. Goethe: "Lithographische Anstalt betreff. Zu heften"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Vorstufe zu H.17 (25/XVIII,2,5*a), = 2. K im Vgl. mit H.20
+               (25/XVIII,2,8*a)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1243</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3519</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

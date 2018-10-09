@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/sb_berlin/Nachl_Herder_XXXII-9/">
+   <revisionDesc>
+      <change when="2014-04-25" who="bruening">angelegt</change>
+      <change when="2014-04-25" who="bruening">Problem H.47</change>
+      <change when="2014-04-30" who="bruening">Suphan</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Gedicht aus ‚Faust‘, ‚Gretchens
+         Stube‘.</headNote>
+      <note>Weil die Abschrift des Gedichts in die Zeit vor der Erscheinung des
+         Fragments zurückreicht, gehört sie zu den aufzunehmenden Zeugen.</note>
+      <repository>sb_berlin</repository>
+      <idno type="faustedition">1 H.8</idno>
+      <idno type="sb_berlin">Nachl. Herder, K. XXXII, Nr. 9</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="wa_gedichte">H.47</idno>
+      <note>Die Angabe in faust://bibliography/inventare_2_1, Sp. 428, nach der sich die WA-Sigle
+         H.47 auf das Göchhausensche Liederbuch beziehe, ist irrig (vgl. zu GSA 24/15,1 u. 15,2). –
+         Goldschnitt<!-- an allen drei Rändern -->.</note>
+      <textTranscript uri="Nachl_Herder_XXXII-9.xml"/>
+      <classification>none</classification>
+      <numberingList>
+         <numbering name="Foliierung">Foliierung (21f.).</numbering>
+      </numberingList>
+      <condition>Fleckig.</condition>
+      <dimensions>
+         <width unit="mm">115</width>
+         <height unit="mm">188</height>
+      </dimensions>
+      <format>8</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>none</watermarkID>
+      <chainLines unit="mm">n.s.</chainLines>
+      <note>Der Steglinienabstand schwankt zwischen 24 und 27 mm.</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/suphan1876">S. 458</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 405</reference>
+         <reference type="description" uri="faust://bibliography/irmscher1979">S. 286</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_1">S. 405f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <!-- Bl. 21 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="01.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="02.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 22 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

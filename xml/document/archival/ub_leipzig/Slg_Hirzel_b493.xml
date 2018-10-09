@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_leipzig/Slg_Hirzel_b493/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Hs.-Nachweise</change>
+      <change when="2012-10-02" who="bruening">Hs.-Nachweise</change>
+      <change when="2013-11-21" who="henzel">encoded</change>
+      <change when="2014-02-12" who="bruening">Eibl</change>
+      <change when="2014-05-28" who="henzel">erneute Pruefung am Original</change>
+      <change when="2014-12-09" who="bruening">Blumenthal 1953</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-04-02" who="henzel">Nachtraege nach erneuter Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <repository>ub_leipzig</repository>
+      <collection>Sammlung Hirzel</collection>
+      <idno type="faustedition">2 III H.46b</idno>
+      <idno type="ub_leipzig">B 493</idno>
+      <idno type="gsa_1">GSA 25/XVIII,4,2</idno>
+      <idno type="wa_faust">2 III H.a</idno>
+      <idno type="wa_gedichte">H.346</idno>
+      <textTranscript uri="b493.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering>unten rechts auf der Pappe Zählung mit Bleistift (wohl archivarisch und zur Durchzählung der Handschriften innerhalb der Sammlung?)</numbering>
+      </numberingList>
+      <condition>Blatt wurde vermutlich nach der Beschriftung in Kolumnen gebrochen; an den Ecken mehrfache Knickspuren; Blatt wurde mit Klebestreifen auf Pappe geklebt, auf dieser Stempel der Universitätsbibliothek Leipzig, Klebestreifen beginnt sich zu lösen</condition>
+      <dimensions>
+         <width unit="mm">220</width>
+         <height unit="mm">222</height>
+      </dimensions>
+      <!-- 22x20,1 cm faust://bibliography/blumenthal1953 -->
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskante oben</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <note>ungefährer Wert</note>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>12zackiger Stern über "N 1"(?)</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/katalog_der_berliner_goethe-ausstellung1861">S. 22, Nr. 63<!-- Ein Quartblatt, auf beiden Seiten mit Bleistift beschrieben. Auf der einen Seite, Entwurf des Gedichtes: Der Bräutigam (Werke. Bd. 2. S. 88). Auf der andern Seite 4 Strophen des Lynceus aus dem 2. Theile des Faust. (Werke, Bd. 12, S. 195.)
+               Im Besitze des Herrn Sal. Hirzel in Leipzig. --></reference>
+         <reference type="description" uri="faust://bibliography/duentzer1868">Tl. 2, S. 194</reference>
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 6</reference>
+         <reference type="description" uri="faust://bibliography/hirzel1874">S. 235</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323, Nr. 11</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 71</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S. 76</reference>
+         <reference type="description" uri="faust://bibliography/fink1932">S. 50</reference>
+         <reference type="description" uri="faust://bibliography/blumenthal1953">S. 116f.</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 141</reference>
+         <reference type="description" uri="faust://bibliography/eibl1999">S. 280</reference>
+         <reference type="essay" uri="faust://bibliography/blumenthal1953">S. 116–120</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 141</reference>
+         <reference type="essay" uri="faust://bibliography/eibl1999">S. 280</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="a.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <references>
+               <reference type="text" uri="faust://bibliography/eibl1999">S. 250</reference>
+               <reference type="facsimile" uri="faust://bibliography/blumenthal1953">nach S. 112, Abb. 1</reference>
+               <reference type="facsimile" uri="faust://bibliography/eibl1999">S. 251</reference>
+            </references>
+            <docTranscript uri="b.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_leipzig/Slg_Hirzel_b494/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening"/>
+      <change when="2013-03-08" who="bruening koehler">Fischer-Lamberg-Sigle.</change>
+      <change when="2013-10-23" who="ritter">note Fischer-Lamberg ergänzt</change>
+      <change when="2013-11-21" who="henzel">encoded</change>
+      <change when="2014-05-28" who="henzel">erneute Pruefung am Original</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-04-02" who="henzel">Nachtraege nach erneuter Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>ursprünglich in 2 II H.74 eingeklebt, von Fischer-Lamberg als Bl.19r bezeichnet</note>
+      <repository>ub_leipzig</repository>
+      <collection>Sammlung Hirzel</collection>
+      <idno type="faustedition">2 II H.47a</idno>
+      <idno type="ub_leipzig">B 494</idno>
+      <idno type="gsa_1">GSA 25/XVII,6,9</idno>
+      <idno type="wa_faust">2 II H.c</idno>
+      <textTranscript uri="b494.xml"/>
+      <classification>none</classification>
+      <!-- Abschrift -->
+      <numberingList>
+         <numbering>Foliierung eines zeitgenössischen Schreibers (vielleicht sogar Goethes) mit Bleistift</numbering>
+         <numbering>unten rechts Zählung mit Bleistift (wohl archivarisch und zur Durchzählung der Handschriften innerhalb der Sammlung)</numbering>
+         <numbering>unten rechts auf der Pappe Zählung mit Bleistift (wohl archivarisch und zur Durchzählung der Handschriften innerhalb der Sammlung)</numbering>
+      </numberingList>
+      <condition>Blatt wurde am linken Rand mit Klebeband auf Pappe fixiert; Stempel der Universitätsbibliothek Leipzig; nach der Beschriftung wurde das Blatt zu Kolumnen gebrochen</condition>
+      <dimensions>
+         <width unit="mm">162</width>
+         <height unit="mm">75</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 74 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>weißgelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>Blumenornament am oberen und rechten Rand</watermarkID>
+      <note>angeschnittenes Wasserzeichen (Fragment)</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/hirzel1874">S. 235</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 5</reference>
+         <reference type="description" uri="faust://bibliography/fink1932">S. 50</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323, Nr. 10</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 22, 67</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="a.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="b.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

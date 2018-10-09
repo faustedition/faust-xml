@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-XIX-3_Filmnr_1427_360/">
+    <revisionDesc>
+        <change when="2013-04-04" who="bruening">Angelegt, Angaben für den Kopf aus dem Wiki
+            übernommen, Nachweise.</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+        <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+        <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+        <change when="2016-01-19" who="koehler">Schoene</change>
+        <change when="2016-09-23" who="bruening">encoded</change>
+        <change when="2018-07-09" who="bruening">2 H auskommentiert</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+        <note>Mikrofilm von 1960<!-- diese Angabe entspricht einer Notiz Gerhard Schmids; eine andere 
+            Angabe lautet: vom April 1961 (leicht abweichend faust://bibliography/schoene1999, Bd. 2,
+            S. 756)-->, bedeutsam wegen des im Falz liegenden Streifens, der die ursprüngliche Lesart
+            „Bändern, Sehnen“ wiederherstellt, vgl. faust://bibliography/wa_I_15_2, zu v. 11513:
+            „‚Aus – Sehnen‘ H.13 H.14 H.2 geklebt g [dies der verlorene Streifen] auf geklebtem g
+            ‚Aus Ligamenten‘ [dies der noch erhaltene Streifen] (darunter erste = letzte Fassung)
+            H“. Ulrich Landeck hat diesen Streifen offenbar nicht mehr in
+            faust://document/faustedition/2_H vorgefunden (vgl. faust://bibliography/landeck1981, S. 39;
+            faust://bibliography/ehrenzeller1995, S. 5), er muss also vor 1981 verlorengegangen
+            sein. Dass es mit der in früheren Editionen gedruckten Lesung „Aus Bändern, Sehnen“
+            seine Richtigkeit habe, vermutete Michelsen noch ohne die Kenntnis des Streifens und
+            seines Verlusts (faust://bibliography/michelsen2000, S.
+            200<!-- TODO nach Merkur zitieren -->). Den Bearbeitern der Münchner Ausgabe war die
+            Filmaufnahme des Zettels bekannt (faust://bibliography/ehrenzeller1995, S. 4f.),
+            entsprechend der Wortlaut faust://bibliography/ma_18_1, S. 333 (nicht kommentiert ebd.,
+            S. 644).<!-- "Ein Streifen ... wurde bei der Restaurierung der Handschrift nicht mehr 
+            vorgefunden." G. Schmidt auf Xerokopie des Mikrafilms, liegt dem Restaurationsbericht bei. --></note>
+        <repository>gsa</repository>
+        <idno type="faustedition">2 V H.14a*</idno>
+        <idno type="gsa_2">GSA 25/XIX,3, Filmnr. 1427</idno>
+        <!--<idno type="wa_faust">2 H</idno>-->
+        <textTranscript uri="GSA_25-XIX-3_Filmnr_1427_360.xml"/>
+        <classification>Mundum</classification>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 156</reference>
+            <reference type="description" uri="faust://bibliography/schoene2005">Bd. 2, S.
+                756</reference>
+            <reference type="essay" uri="faust://bibliography/ehrenzeller1995">S. 4f.</reference>
+            <reference type="essay" uri="faust://bibliography/schoene2005">Bd. 2, S. 756</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="360.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript/>
+                <!-- leer i.w.S., Rueckseite nicht beschrieben, aber auch keine Aufnahme vorhanden -->
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

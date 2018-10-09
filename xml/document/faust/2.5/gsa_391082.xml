@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391082/">
+<revisionDesc>
+	<change when="2012-11-27" who="henzel">imported</change>
+	<change when="2012-11-27" who="henzel">encoded</change>
+	<change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+	<metadata>
+		<headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+		<note>oben rechts "19" signiert (Annalen 1820); dabei: Paralipomenon CXIII der Naturwissenschaftlichen Schriften; eigenhändige Notizen mit Bleistift zu "Dichtung und Wahrheit", 17. Buch (H.172)</note><!-- TODO Siglen für DuW und Naturw. -->
+		<repository>gsa</repository>
+		<idno type="faustedition">H P195</idno>
+		<idno type="gsa_1">GSA 25/XIX,2,26</idno>
+		<idno type="gsa_2">GSA 25/W 1801</idno>
+		<idno type="gsa_ident">391082</idno>
+		<idno type="wa_faust">none</idno>
+		<!-- P195 -->
+		<idno type="bohnenkamp">H P195</idno>
+		<textTranscript uri="391082.xml"/>
+		<classification>Schema</classification>
+		<!-- ABR: SchemaEntwurf -->
+		<condition>am oberen Rand gewellt</condition>
+		<dimensions>
+			<width unit="mm">196</width>
+			<height unit="mm">326</height>
+		</dimensions>
+		<format>2</format>
+		<edges>cut</edges>
+		<paperType>Konzeptpapier</paperType>
+		<paperColour>dunkelgrau</paperColour>
+		<chainLines unit="mm">29</chainLines>
+		<paperMill>n.s.</paperMill>
+		<watermarkID>none</watermarkID>
+		<countermarkID>"No 1"</countermarkID>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 243</reference>
+			<reference type="description" uri="faust://bibliography/aa_duw_2">S. 196</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 243</reference>
+			<reference type="text" uri="faust://bibliography/wa_II_5_2">S. 389, 1-10</reference><!-- Naturwiss. -->
+			<reference type="essay" uri="faust://bibliography/aa_duw_2">S. 196f.</reference>
+		</references>
+		<references>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 752</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 752</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 731</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 753-755</reference>
+			<reference type="essay" uri="faust://bibliography/schillemeit1996">S. 365</reference><!-- DuW = VS sowie Datierung -->
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0004.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+				<!-- <docTranscript uri="0003.xml"/> deleatur -->
+			</metadata>
+		</page>
+	</disjunctLeaf>
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:dabei_vermerk>Naturwissenschaftliche Schriften - Par CXIII, WA II 5.2,389,1-10 Konzept John, Korrektur egh; "Dichtung und Wahrheit", 17. Buch, Schema egh = H.172 bei Scheibe, Siegfried, Akademieausgabe zu DuW Bd 2, S 196</f:dabei_vermerk>
+      <f:datierung>Febr. 1825 (?)</f:datierung>
+     </f:archiveDatabase>
+		<f:abrDissertation>
+			<metadaten xmlns="">
+				<p>VS: John schw.br. Tinte rechtsspaltig Konzept mit Korrekturen und Ergänzungen Goethes in schw. Tinte, mit Rötel als erledigt gestr., oben rechts "19" signiert (Annalen 1820);</p>
+				<p>RS: G Blei Notizen zu `Dichtung und Wahrheit' (vorwiegend lat. Schrift), mit Blei als erledigt<br/> gestr.; umgekehrt dazu G Blei zweispaltig P195, mit Blei als erledigt gestr.</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p> Dieser eigenhändige Entwurf zu einem Schema wurde sehr wahrscheinlich zu Beginn der Wiederaufnahme der Arbeit am `Faust' im Februar 1825 niedergeschrieben. Anhaltspunkte für die Datierung bieten die ebenfalls auf diesem Blatt befindlichen, nicht zum `Faust' gehörenden Entwürfe, die schon von G. W. Hertz für die Datierung des P195 herangezogen wurden. (Zur Entstehungsgeschichte von Faust II Akt 5, S. 260f.) </p>
+				<p>Bei der vor dem `Faust'-Schema auf dem Blatt eingetragenen Bleiskizze (das Schema P195 weicht diesem Entwurf aus) handelt es sich um ein Teilschema zum 17. Buch von `Dichtung und Wahrheit', das Goethe im Februar 1825 entworfen hat: "Grosse Vorzüge/ des alten Adels/ Stifter Kloster/ Churfürstenthum/ Erzbisth./ Bisthum/ bis herab zu/ gefürsteten Abten/ Adel geschäftig/ geschäftslos". (Vgl. Bd. 2, S. 621 der von Scheibe besorgten kritischen Edition von `Dichtung und Wahrheit' im Rahmen der Akademie-Ausgabe, die dieses Teilschema als P140 verzeichnet und auf Februar 1825 datiert.)</p>
+				<p>Für das vorliegende Blatt verweist Hertz auf den 25. 2. 1825, für den das Tagebuch sowohl Beschäftigung mit `Dichtung und Wahrheit' ("Vorarbeiten am vierten Theil durch ausführlichere Schemata") als auch mit `Faust' verzeichnet (WA III,10,22f.). In diesen Tagen hat Goethe mit der Wiederaufnahme der `Faust'-Arbeit gerade begonnen; seit vielen Jahren wird im Tagebuch erstmals wieder Arbeit an diesem Werk erwähnt: "An Faust einiges gedacht und geschrieben" und einen Tag später: "Betrachtungen über Faust. Die ältern Nacharbeitungen vorgenommen. Einiges zurechte gestellt." (26./27.2. 1825; WA III,10,23.) Auch die nächsten Tage melden Arbeit am `Faust'. Sehr wahrscheinlich ist das vorliegende Schema P195 also in diesen Tagen, vermutlich am 25. oder 26. Februar 1825 entstanden. (Vgl. Hertz, Entstehungsgeschichte Faust II Akt 5, S. 250.)</p>
+				<p>Bei dem Konzeptbruchstück auf der anderen Seite des Blattes handelt es sich um einen Entwurf des Berichts für die `Annalen von 1820', in dem es um Arbeiten fürdie `Paralipomena' zur Farbenlehre geht: "dem Triebe nicht widerstehen sie auszuziehen und was eigene Erfahrung was Nachdenken verlieh sogleich mit anzuschließen. Alle und jede Männer eigentlich von Fach werden, wenn Ihnen das Werk nicht schon zur Hand gekommen sein sollte, hierdurch angeregt seyn es zu lesen, und zu studieren andere begnügen sich allenfalls mit diesem Aus[zug] und finden sich wohl veranlaßt das jenige was sie selbst erfahren sich ordnungsgemäß zu vergegenwärtigen und, in sofern sie es bedeutend finden, zur allgemeinen Aufklärung freundlich mitzutheilen." (Vgl. WA II,5.2,387ff. und WA I,36,160.) Nach der Vermutung von Hertz wurde das Konzept von John am 13. 4. 1825 oder bald darauf, als Goethe die Arbeit am 5. Akt zunächst zugunsten der `Helena' beiseite legte, auf die Rückseite des vorerst
+					erledigten Blatts niedergeschrieben. (Vgl. WA III,15.2,249 und Hertz, Entstehungsgeschichte Faust II Akt 5, S. 261.) Nach Goethes üblichem Arbeitsverfahren ist allerdings die umgekehrte Beschriftungsreihenfolge wahrscheinlicher: ein zunächst für ein Schreiberkonzept genutztes Blatt wurde von Goethe erst nach Erledigung des betreffenden</p>
+				<p>Konzepts für Bleistiftskizzen weiterverwendet. Womöglich ist das vorliegende Konzeptbruchstück also schon vor dem 25. 2. 1825 als erledigt zu betrachten gewesen. (Vgl. Scheibe, Dichtung und Wahrheit Bd. 2, S. 196f.)</p>
+				<p>Handelt es sich bei dem vorliegenden Schema P195 also um einen der ersten Zeugen der wiederaufgenommenen Arbeit am `Faust', kann es nicht verwundern, daß die hier skizzierte Handlung im wesentlichen auf die alten Pläne zurückzugreifen scheint: das Schema beschränkt sich auf die Kernszenen des 5. Aktes, die auch um die Jahrhundertwende schon geplant gewesen sind. Im Mittelpunkt steht die Szene der Grablegung mit dem Streit der Satane und Engel um die Seele (vgl. P96, hier S. 208); zum Abschluß (Z. 31-35) ist hier noch ein im "Himmel" gehaltenes "Gericht uber Faust" vorgesehen, das _ wie es auch in P95, hier S. 750, deutlich wird _ nicht vom Herrn selbst, sondern von "Christus Mutter u Evangelisten u alle[n] Heiligen" gehalten werden soll. Noch keine Spur findet sich hier von der späteren Schlußszene `Bergschluchten'. Das Schema zeigt, daß Goethe den Plan eines abschließenden Gerichts im Himmel zur Zeit der Wiederaufnahme durchaus noch nicht aufgegeben hatte. (Vgl.
+					dagegen Grumach, Prolog und Epilog, S. 75, Anm. 33 und wieder BA, S. 942 sowie Henkel, Das Ärgernis Faust, S. 166.) Es dokumentiert offensichtlich den im Frühjahr 1825 gültigen Plan Goethes für die Ausarbeitung des letzten Akts, den er damals, bei der Wiederaufnahme des `Faust' nach fast 20 Jahren, anhand der alten "zerstreut gearbeiteten Stellen" (P63, Z. 166f., hier S. 274) entwickelte.</p>
+				<p>Z. 20 fliegen] Die Lesung der WA ("flammen") wurde im Nachtragsband (I,53,534) korrigiert.</p>
+				<p>Z. 26 schaaren] Weitz vermutet "schweben".</p>
+				<p>Z. 28f. Appellation] lat. `appellatio': Berufung. In der Gerichtssprache seit dem 15. Jahrhundert geläufig, im ausgehenden 19. Jahrhundert durch `Berufung einlegen' ersetzt. Im Kampf um die Seele haben die Engel gewonnen: vermutlich gegen diese Entscheidung will Mephisto vor dem geplanten Himmelsgericht Berufung einlegen. Konrad Burdach hat in diesem Zusammenhang auf das juristische Lehrbuch `Processus Sathanae contra Dominam Virginem coram iudice Jesu' hingewiesen, wo Satanas eine Klage erst um den Besitz, dann um die Verurteilung des Menschengeschlechts erhebt, Maria als deren Fürsprecherin, Christus als Richter erscheint und diese Gerichtsverhandlung in zwei Istanzen sich abspielt. (Burdach, Das religiöse Problem in Goethes Faust, S. 50ff.)</p>
+				<p>Z. 30 Da capo] `Von vorne', `Wiederholung'. Meint eine Rückkehr zum einleitenden `Prolog im Himmel' in Gestalt einer neuerlichen Szene im Himmel oder die Wiederaufnahme des Prozesses? Der von Düntzer vertretenen Auffassung (Die Entstehung der letzten Akte, S. 369), "Da Capo sollte wohl launig bezeichnen, daß er [Goethe] den Himmel sich noch einmal einmischen lasse", widerspricht Morris (Faustparalipomena, S. 228) mit der Deutung, "da capo" bedeute hier `neue Scene'. Hertz (Natur und Geist, S. 80) dagegen erläutert: "Da das Ende des Helden bereits</p>
+				<p> seit etwa fünfundzwanzig Jahren, wenn nicht auf dem Papier, so doch vor dem geistigen Auge seines Schöpfers feststand, beginnt das neue Schema unvermitttelt mit dem Stichwort "Leiche" und schlägt alsdann Merkpfähle ein für die einzelnen Abschnitte der Grablegung und des Kampfes der Engel mit den Teufeln um Fausts Seele. Der Kampf steht unter der Vorstellung eines Gottesgerichts: das Unterliegen der Höllenpartei gilt als Gottesurteil erster Instanz, gegen das die Berufung zulässig ist an ein himmlisches Reichsgericht. Dementsprechend schließt das Schema mit den Worten: " [...] Da capo (=Neue Verhandlung) [...]". </p>
+				<p>Z. 32 Christus Mutter] Der handschriftliche Befund spricht gegen die Lesung als Kompositum ("Christusmutter" _ als solches im GWB Bd. 2,1010 lemmatisiert); ob hier Christus und die Mutter Maria gemeint sind (so interpungiert Hecker) oder doch Christi Mutter (allerdings gegen Goethes Gewohnheit hier nicht lateinisch flektiert: "Christus' Mutter") zu lesen ist, läßt sich an der Handschrift nicht sicher entscheiden. Damit bleibt die Frage offen, ob Goethe bei der Wiederaufnahme der Arbeit am Schluß des `Faust' zunächst noch an der alten Konzeption festhielt, Christus als Richter auftreten zu lassen (vgl. P96, hier S. 208 und P95, hier S. 750) oder ob in diesem Schema bereits die gnadenreiche Gottesmutter _ seit dem Spätmittelalter gilt Maria als die höchste Fürsprecherin beim Jüngsten Gericht _ als oberste Instanz des abschließenden Gerichts gedacht ist. (So Morris, Mephisto [II], S. 172f.: "Gegenüber dem vorigen Plan finden wir das Motiv der Stellvertretung noch weiter
+					entwickelt: Dort sollte Christus statt des Herrn als Reichsverweser vom Throne herrschen, hier findet Mephisto die Jungfrau Maria als obersten Richter".)</p>
+				<p>Z. 35 Gericht über Faust] Das GWB (Bd. 2,1010) schlägt vor, hier nicht mit einen "ordentlichen Himmelsgerichtshof" zu rechnen, sondern in Betracht zu ziehen, daß der Ausdruck `Gericht' häufig einfach in der Bedeutung von `Urteil' verwendet wurde. Die Hypothese von einem ursprünglich geplanten Gericht über Faust stützt sich jedoch nicht nur auf diese Stelle, sondern zieht vor allem auch die Textbruchstücke aus der `Faust'-Arbeit vor der Jahrhundertwende heran (vgl. hier S. 739-741). Im vorliegenden Schema selbst wird die Vorstellung von einem himmlischen `Gerichtsverfahren' durch die Verwendung juristischer Terminologie ("Appellation") unterstützt.</p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

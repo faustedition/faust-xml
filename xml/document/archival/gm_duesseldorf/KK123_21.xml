@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+   xml:base="faust://xml/transcript/gm_duesseldorf/KK123_21/">
+   <revisionDesc>
+      <change when="2012-10-01" who="bruening"/>
+      <change when="2012-10-11" who="bruening"/>
+      <change when="2013-07-24" who="sievert">Metadaten kodiert</change>
+      <change when="2013-09-27" who="sievert">Metadaten kodiert</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+      <change when="2018-09-19" who="pravida">changed sigil in note "2_III_H.54b" to "2 III H.56a"</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Ursprünglich Folioblatt-Einheit mit faust://document/faustedition/2_III_H.56a.</note>
+      <repository>gm_duesseldorf</repository>
+      <collection>Sammlung Kippenberg</collection>
+      <idno type="faustedition">2 III H.49b</idno>
+      <idno type="gm_duesseldorf">KK 123</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,34</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="KK123_21.xml"/>
+      <dimensions>
+         <width unit="mm">93</width>
+         <height unit="mm">211</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Briefpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>none</watermarkID>
+      <countermarkID>J_Whatman_wie_Fe_Bl_212</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/kippenberg1913">S. 111, Nr.
+            1401</reference>
+         <!--<note>(Haupteintrag)</note>
+         <reference type="description" uri="faust://bibliography/kippenberg1913">S. 8, Nr.
+            63</reference>-->
+         <reference type="description" uri="faust://bibliography/kippenberg1928">Bd. 1, S. 165, Nr.
+            123</reference>
+         <!--<note>(Haupteintrag)</note>
+         <reference type="description" uri="faust://bibliography/kippenberg1928">Bd. 1, S. 14, Nr.
+            123</reference>-->
+         <reference type="essay" uri="faust://bibliography/kippenberg1913">S. 111, Nr.
+            1401</reference>
+         <reference type="essay" uri="faust://bibliography/kippenberg1928">Bd. 1, S. 165, Nr.
+            123</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

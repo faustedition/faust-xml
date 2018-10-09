@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390027/">
+   <revisionDesc>
+      <change when="2012-11-19" who="henzel">imported</change>
+      <change when="2012-11-19" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="pravida">minimal headnote</change>
+      <change when="2015-05-13" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Zettel. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>nachträglich in zwei Teile zerschnittenes Folioblatt</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.12</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,13</idno>
+      <idno type="gsa_2">GSA 25/W 1682</idno>
+      <idno type="gsa_ident">390027</idno>
+      <idno type="wa_faust">2 IV H.12</idno>
+      <!-- P183 -->
+      <!-- P191 -->
+      <idno type="hecker">215</idno>
+      <!-- P192 -->
+      <textTranscript uri="390027.xml"/>
+      <classification>Konzept</classification>
+      <!-- ABR: Reinschrift; P183 Schema -->
+      <condition>Tintenfraß</condition><!-- Tintenfraß auf Archivmappe vermerkt -->
+      <format>none</format>
+      <!-- beide Teile ursprünglich ein Folioblatt -->
+      <stabMarks>
+         <stabMark unit="mm">53</stabMark>
+         <stabMark unit="mm">75</stabMark>
+         <stabMark unit="mm">100</stabMark>
+         <stabMark unit="mm">141</stabMark>
+         <stabMark unit="mm">216</stabMark>
+         <stabMark unit="mm">229</stabMark>
+         <stabMark unit="mm">279</stabMark>
+         <stabMark unit="mm">289</stabMark>
+      </stabMarks>
+      <stabMarks>
+         <stabMark unit="mm">58</stabMark>
+         <stabMark unit="mm">81</stabMark>
+         <stabMark unit="mm">126</stabMark>
+         <stabMark unit="mm">135</stabMark>
+         <stabMark unit="mm">225</stabMark>
+         <stabMark unit="mm">261</stabMark>
+         <stabMark unit="mm">284</stabMark>
+      </stabMarks>
+      <!-- 2 mögliche Stichlöcherreichen, Zugehörigkeit der Löcher nicht immer deutlich; Messung der Stichlochabstände nur bei gesamtem Folioblatt sinnvoll -->
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"H" über "Stützerbach"</watermarkID>
+      <!-- Stuetzerbacher Sternpapier -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132,
+            241f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 717</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_1">S. 341<!-- P191 --></reference>
+         <!-- Textwiedergabe in 15.1! -->
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 239<!-- P183 --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 717-719</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 717f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 720</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">186</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">147</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Das nach der Beschriftung zerschnittene Folioblatt bietet keine äußeren Anhaltspunkte
+               für die Datierung, läßt sich jedoch nach dem Entwurf der `Ausforderung' auf IV H19
+               (hier S. 713f.) bzw. nach dem Schema P181/182 (hier S. 708ff.) einordnen: es wurde
+               zunächst für die Reinschrift von P191 und V. 10407-10422 genutzt, auf der Rückseite
+               folgt die Niederschrift des Schemas P183.</p>
+            <p>Die reimlosen Jamben des von Erich Schmidt als "Herausforderung des Gegenkaisers"
+               bezeichneten Fragments <b>P191</b> (WA I,15.1,341), wurden im endgültigen Text
+               gestrichen; die Funktion der Herausforderung übernehmen die Verse 10407ff. In der
+               endgültigen Fassung folgt auf V. 10422 die Regieanweisung: "Die Herolde werden
+               abgefertigt zu Herausforderung des Gegenkaisers". Die Betonung wird damit von der
+               Person des Gegenkaisers auf die des Kaisers verlagert; auf die in P191 zu
+               verzeichnende Wiederaufnahme des Rebellionsmotivs (der Volksaufstand wird verworfen,
+               der Anspruch eines Anderen auf den Thron als Herausforderung akzeptiert) wird
+               verzichtet.</p>
+            <p>Z. 2: Die WA-Lesung "Die Menge steht dem Kaiser mir entgegen" wurde im Nachtragsband
+               (I,53,533) korrgiert.</p>
+            <p>Z. 9: Die WA-Lesung "und spricht" wurde im Nachtragsband (I,53,533) korrigiert.</p>
+            <p>Das rückseitig notierte <b>P183</b> ist ein Schema zu V. 10345-10422 mit kurzen
+               Angaben zur "Schlacht", das sehr wahrscheinlich nach dem ausführlichen Schema
+               P181/182 entstanden ist: während dort noch von einem "Spion" die Rede war (P181/182,
+               Z. 44, hier S. 710), ist die Einführung der "Kundschafter" in P183 schon dicht am
+               endgültigen Text.</p>
+            <p>Z. 35 ObG.] Obergeneral.</p>
+            <p>Z. 48f. vorerst ablehnende Antwort an Faust] Sollte der Kaiser Fausts Hilfsangebot
+               zunächst abschlagen? Dieses Motiv wurde in die Ausführung nicht aufgenommen, der
+               Entwurf zu V. 10455ff. auf IV H11 (hier S. 721) setzt offensichtlich eine
+               Planänderung schon voraus und ist also wahrscheinlich nach P183 anzusetzen.</p>
+            <p>Z. 53 <b>(P192)</b>: Die eigenhändige Bleistiftnotiz am Rand des Blattes, die später
+               keine Verwendung fand und von Witkowski (S. 446) als Äußerung des Kaisers "mit Bezug
+               auf die Herausforderung des Gegenkaisers" gedeutet wird, läßt sich eher als auf den
+               Kaiser bezogener Kommentar Mephistos lesen (vgl. V. 10247).</p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>191</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vergleich mit diesen Versen auf H.19
+               (25/XVIII,5,20*e)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

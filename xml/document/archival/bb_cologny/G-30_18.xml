@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_18/">
+   <revisionDesc>
+      <change when="2013-08-13" who="henzel">encoded</change>
+      <change when="2013-10-18" who="ritter henzel">bohnenkamp-sigle ergaenzt</change>
+      <change when="2013-10-25" who="koehler">history</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2018-09-20" who="krause">idno landeck ergänzt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>bb_cologny</repository>
+      <idno type="faustedition">2 V H.37f</idno>
+      <idno type="bb_cologny">G-30.18</idno>
+      <idno type="gsa_1">GSA 25/XVIII,8,8</idno>
+      <idno type="wa_faust">2 V H.g</idno>
+      <idno type="bohnenkamp">2 V H.g2</idno>
+      <idno type="landeck">2 V H.gII</idno>
+      <textTranscript uri="G-30_18.xml"/>
+      <classification>none</classification>
+      <history>laut faust://bibliography/knopf2004 und faust://bibliography/knopf2006 1936 oder 1951 von Martin Bodmer aus dem Nachlass von Rudolf Brockhaus, Leipzig, erworben</history>
+      <numberingList>
+         <numbering>Zeitgenössische Zählung mit Bleistift in römischen Ziffern</numbering>
+      </numberingList>
+      <condition>am inneren Rand fleckig; Blatt wurde nach der Beschriftung auf Quartformat gefaltet</condition>
+      <dimensions>
+         <width unit="mm">205</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 203 mm.</note>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">143</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>beige</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Sächsisches Rautenkranzwappen mit Krone über 'Stuetzerbach'</watermarkID><!-- auf Rückseite -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 204</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 797</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 205f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 797</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 206</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 798</reference><!-- TODO BA Abdruck von V H.g1 und 2 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

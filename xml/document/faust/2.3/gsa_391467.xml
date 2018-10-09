@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391467/">
+   <revisionDesc>
+      <change when="2013-01-09" who="bruening">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Zuerst wohl als Quartdoppelblatt geschrieben und für die Niederschrift des
+         Faust-Entwurfs aufgefaltet. Danach ein Streifen abgetrennt. Spuren einer nochmaligen,
+         parallel zur ursprünglichen verlaufenen Faltung (offenbar nach der Abtrennung). Weitere
+         Knickspuren.
+         dabei: Gutachten (oder Brief) über das
+         großherzogliche lithographische Insti-
+         tut oD, 1. und 2. Konzept egh (auf
+         den Lithographen H. Müller bezüglich,
+         vgl. Fischer-Lamberg S. 107)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.41</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,30</idno>
+      <idno type="gsa_2">GSA 25/W 1621</idno>
+      <idno type="gsa_ident">391467</idno>
+      <idno type="wa_faust">2 III H.41</idno>
+      <textTranscript uri="391467.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">290</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <format>none</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <countermarkID>Leutenberg_wie_Fe_Bl_60o</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 69</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 106f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 107</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Bericht von Goethe an Großherzog Karl August von Sachsen-Weimar-Eisenach, oD, über "... eine im allgemeinen schon projectirte Ordnung wie es künftig hin mit dem Grosherzoglichen Lithographischen Institut gehalten werden solle ..." 1. und 2. Konzept egh</f:dabei_vermerk>
+      <f:datierung>ab dem 18. 11. 1824 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391467</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9139-9151
+So habe Dank und führe schnell ...
+WA: III H.41; vgl. I 15.2,69
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,30</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,30</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>ab dem 18. 11. 1824 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>So habe Dank und führe schnell</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,69</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.41</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9139-9151</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Müller, Heinrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Gutachten (oder Brief) über das großherzogliche lithographische Institut,
+               Incipit: "Da man den bey sein[er] Rückkunft eine im allgemeinen ..." oD, 1. und 2. K
+               egh, bezieht sich auf den Lithographen Müller, Heinrich, vgl. Fischer-Lamberg, S.
+               107</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1264</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3985</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

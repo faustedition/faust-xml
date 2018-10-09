@@ -1,0 +1,147 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition"/><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <revisionDesc>
+            <change when="2014-07-11" who="sievert">kodierung begonnen</change>
+            <change when="2014-07-22" who="sievert">encoded</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <lg>
+                    <l>I am <del>blac</del> a curse: a <subst>
+                            <del>black slave</del>
+                            <add>negro</add>
+                        </subst>
+                        <subst>
+                            <del>
+                                <subst>
+                                    <del>
+                                        <subst>
+                                            <del>spoke</del>
+                                            <add>felt</add>
+                                        </subst></del>
+                                    <add>thought</add>
+                                </subst>
+                            </del>
+                            <add>thinks</add>
+                        </subst> me </l>
+                    <l><del><subst>
+                                <del>H</del>
+                                <add>A</add>
+                            </subst> black</del>
+                        <add>
+                            <subst>
+                                <del>
+                                    <subst>
+                                        <del>You</del>
+                                        <add>He</add>
+                                    </subst>
+                                </del>
+                                <add>You</add>
+                            </subst>
+                            <subst>
+                                <del>could</del>
+                                <add>can</add>
+                            </subst> not speak for <subst>
+                                <del>yourself</del>
+                                <add>himself</add>
+                            </subst>, <subst>
+                                <del>slave</del>
+                                <add>negro</add>
+                            </subst>—I lend <subst>
+                                <del>you</del>
+                                <add>him</add>
+                            </subst> my own <subst>
+                                <del>mouth</del>
+                                <add>tongue</add>
+                            </subst>
+                        </add> I dart<del>ed</del><!-- ganzes Wort ersetzt!--> like a snake from <subst>
+                            <del>his</del>
+                            <add>your</add>
+                        </subst> mouth.</l>
+                </lg>
+                <lg>
+                    <l><del>I</del> My eyes are bloodsho <del f:revType="instant">o</del> t , they look down the river,</l>
+                    <l>A steamboat <subst>
+                            <del>carries off</del>
+                            <add>paddles away</add>
+                        </subst> my woman and children.—</l>
+                </lg>
+                <lg>
+                    <l>
+                        <del>Around my</del>
+                        <del>neck I am</del>
+                    </l>
+                    <l>
+                        <del>T</del>
+                        <subst>
+                            <del>The</del>
+                            <add>His</add>
+                        </subst>
+                        <subst>
+                            <del>i</del>
+                            <add>I</add>
+                        </subst>ron necklace and <del>the</del> red sores of <subst>
+                            <del>my</del>
+                            <add>the</add>
+                        </subst> shoulders </l>
+                    <l>I do not <subst>
+                            <del>feel</del>
+                            <add>mind</add>
+                        </subst>,</l>
+                    <l><del>The</del>
+                        <subst>
+                            <del>h</del>
+                            <add>H</add>
+                        </subst>opple <del>and ball</del> at <subst>
+                            <del>my</del>
+                            <add>the</add>
+                        </subst>
+                        <choice>
+                            <orig>ancles</orig>
+                            <reg>ankles</reg>
+                        </choice>
+                        <subst>
+                            <del>
+                                <subst>
+                                    <del>does</del>
+                                    <add>do</add>
+                                </subst>
+                            </del>
+                            <add>and tight cuffs at the wrists must</add>
+                        </subst> not</l>
+                    <l>detain me</l>
+                </lg>
+                <lg>
+                    <l>I <del>will</del> go down the river <subst>
+                            <del>my</del>
+                            <add>with</add>
+                        </subst>
+                        <add>the sight of</add> my bloodshot eyes,</l>
+                    <l>I <del><add>will</add></del> go <subst>
+                            <del>in</del>
+                            <add>to</add>
+                        </subst> the steamboat that paddles <add><subst>
+                                <del>aw</del>
+                                <add>off</add>
+                            </subst></add> my <subst>
+                            <del>wife</del>
+                            <add>woman</add>
+                        </subst> and child.</l>
+                </lg>
+                <lg>
+                    <l><del>A</del> I do not stop with my woman and children,</l>
+                    <l>I burst <del>down</del> the saloon doors, and crash on <supplied evidence="internal">a</supplied></l>
+                    <l>party of passengers.—</l>
+                    <l>But for them, I <del f:revType="instant">sh</del> too should have been on the steamboaBut for them, I <del f:revType="instant">sh</del> too should have been on the steamboa </l>
+                    <l>I should soon</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

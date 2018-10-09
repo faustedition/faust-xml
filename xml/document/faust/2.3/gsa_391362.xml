@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391362/">
+   <revisionDesc>
+      <change when="2012-11-13" who="henzel">imported</change>
+      <change when="2012-11-13" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2014-10-13" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+      <change when="2016-01-28" who="koehler">references Grumach</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Einzelblätter. – Versentwürfe zu ‚Faust‘.</headNote>
+      <note>Eigenhändige Rechnung (4 x 21 = 84, 2 x 84 = 168) mit Tinte auf der Vorderseite.
+         2 Einzelblätter, 3 beschriebene Seiten. - Seite 1: Titelaufschrift (Goethe, Tinte).
+         - Seite 2: Versentwürfe (Geist, Tinte; eigenhändig, Tinte und Bleistift). - Seite 3:
+         Versentwürfe ‚Faust‘ (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.10</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,7</idno>
+      <idno type="gsa_2">GSA 25/W 1381</idno>
+      <idno type="gsa_ident">391362</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P10</idno>
+      <!-- P10, Hecker-Nr. 6, Teilüberlieferung -->
+      <!-- P19, Hecker-Nr. 20 -->
+      <!-- P33, Hecker-Nr. 42 -->
+      <!-- P34, Hecker-Nr. 49 -->
+      <!-- P35, Hecker-Nr. 58 -->
+      <!-- P38, Hecker-Nr. 43 -->
+      <!-- P39, Hecker-Nr. 56 -->
+      <!-- P44, Hecker-Nr. 63 -->
+      <!-- P52 (Faust II, Akt 3 -->
+      <!-- P53, Hecker-Nr. 13 -->
+      <!-- (P97) -->
+      <textTranscript uri="391362.xml"/>
+      <classification>Konzept</classification>
+      <condition>Blätter waren auf Quart gefaltet sowie in Kolumnen; fleckig, sehr abgegriffen, an
+         den Falzen teils eingerissen</condition>
+      <dimensions>
+         <width unit="mm">211</width>
+         <height unit="mm">340</height>
+      </dimensions>
+      <format>2</format>
+      <!-- ABR: gefalteter Foliobogen (inzwischen zu 2 Blättern zerfallen), dagegen Prell: Blätter bildeten keine Einheit -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <!-- oder Briefpapier? sehr dünnes, aber nicht hochwertiges Papier, fühlt sich wachsig an -->
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S.
+            188<!-- P97 --></reference>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 253,
+            275<!-- P19 fehlerhaft als Par. Nr. 29 aufgeführt, P39 fehlerhaft als Par. Nr. 37 aufgeführt -->,
+            290<!-- P10 und P10 Teilüberlieferung --></reference>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S.
+            561<!-- P52 --></reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 120</reference>
+         <!-- TODO Erstdruck: Q, S. 178 (P10); Q, S. 179 (P33, P44), Q, S. 181 (P38) -->
+         <reference type="text" uri="faust://bibliography/wa_I_14">S.
+            289f.<!-- P10 und P10 Teilüberlieferung -->, 293<!-- P19 -->, 301<!-- P33, P34 -->,
+            302<!-- P35, P38, P39 -->, 303<!-- P44 -->, 311<!-- P52, P53 --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 120-122</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 548f.</reference>
+         <reference type="facsimile" uri="faust://bibliography/grumach1958">nach S. 48</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 123-127</reference>
+         <reference type="essay" uri="faust://bibliography/grumach1958">S. 46-54</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <watermarkID>none</watermarkID>
+         <countermarkID>G</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- Faust -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- Ich wäre nicht ... -->
+         </metadata>
+      </page>
+
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <watermarkID>Hirsch schreitend, nach rechts schauend</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- Das leben ist ... -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/1798 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> HP10 Sammelblatt wahrscheinlich aus der Zeit der Neuordnung der `Faust'-Handschriften in den Jahren 1797/98. Die verschiedenen Textfragmente auf den beschriebenen Innenseiten des
+               Foliobogens sind zum großen Teil wohl zwischen Juni 1797, dem Beginn der neuen Arbeitsphase, und dem 5. Mai des folgenden Jahres eingetragen worden, als Goethe den Abschluß der
+               Abschrift Schiller mitteilt (WA IV,13,136f.). Wiederum kann von dieser Datierung der Niederschrift nicht auf das Datum der Entstehung geschlossen werden _ ob diese Fragmente, wie
+               Grumach annimmt, zum großen Teil aus der Zeit vor 1797 stammen (Grumach, Vorarbeiten, S. 47), bleibt ebenfalls unsicher. Wie die unterschiedlichen Schreiber, Schreibmaterialien, die
+               unter- schiedliche Ausrichtung des Blattes und der uneinheitliche Duktus zeigen, sind die einzelnen Einträge nicht in einem Zuge niedergeschrieben worden. Grumach hält P10 und das als
+               einzige mit Blei eingetragene P35 für mögliche spätere Zusätze (vgl. Grumach, Vorarbeiten, S. 47ff.), nachweisen läßt sich das nicht. Naheliegend scheint dagegen, daß zumindest die in
+               umgekehrter Blattausrichtung eingetragenen P44, P34 und auch P35 zu einem Zeitpunkt aufgenommen wurden, als das Blatt in seiner ursprünglichen Funktion nicht mehr benötigt und die
+               übrigen Einträge von Goethe als erledigt angesehen wurden _ wahrscheinlich also nach Abschluß der Sammelarbeiten in den Jahren 1797/98. Von den kurzen Fragmenten sind nur drei von
+               Goethe als erledigt gestrichen worden _ alle drei hat Goethe `weiterverwendet' (vgl. Zeilenkommentar). </p>
+            <p>Z. 1f. <b>(P39)</b>: Links oben von Geist eingetragener Zweizeiler, vgl. auch H P27, hier S.161. Ob diese Verse schon zum Zeitpunkt ihres Eintrags auf H P10 für die satirischen Einlagen
+               der `Walpurgisnacht' vorgesehen waren, ist nicht sicher. Die von Morris (Walpurgisnacht, S. 76) im Zusammenhang mit P41 (auf H P20, hier S. 196) und P62 (auf H P9, hier S. 128)
+               angestellte Vermutung eines geplanten Auftritts Klopstocks in der `Walpurgisnacht' vor dem Thron des Satans (mit P39 als Verteidigungsrede Klopstocks) muß angesichts der auf drei
+               unterschiedlichen Sammelblättern überlieferten einzelnen Textsplitter zurückgewiesen werden.</p>
+            <p>Z. 3f. <b>(P33)</b>: Auf dem Weg zur Walpurgisnacht. Vgl. P50, Z. 140f. (hier S. 146), wo in entsprechender Wendung die Rückkehr von der Walpurgisnacht beschrieben wird: "Dem Ruß den
+               Hexen zu entgehen/ Muß unser Wimpel südwärts wehen". (Vgl. auch Scheibe, Walpurgisnacht, S. 58, Anm. 58.)</p>
+            <p>Z. 5-13 <b>(P44, P34, P35)</b>: Die Stellung auf dem Blatt macht wahrscheinlich, daß diese Einträge nicht in der gleichen Arbeitsphase wie die übrigen Einträge, sondern wahrscheinlich
+               nachträglich auf dem Sammelblatt niedergeschrieben wurden.</p>
+            <p>Z. 5-7 <b>(P44)</b>: Zum satirischen Teil der `Walpurgisnacht'? Die Motive dieses und eines weiteren Paralipomenons (P43 auf H P9, hier S. 128) hat Goethe viele Jahre später, im Januar
+               1827, für nachträglich eingefügte Verse des `Walpurgisnachtstraumes' verwendet (V. 4339-4342). (Vgl. Morris, Walpurgisnacht, S. 80.) Zur Entstehung dieser späten Intermezzoverse vgl.
+               Inge Jensen, Zu acht Versen aus dem Walpurgisnachtstraum.</p>
+            <p>Z. 8 <b>(P34)</b>: Die schon von Morris vorgenommene Korrektur der Lesung Schmidts ("Finger" statt "Figur") führt auf die richtige Spur: diese Notiz Goethes verweist auf den für die
+               Walpurgisnachtszene wichtigen Kupferstich von M. Herr, auf dem eine den Hexenreigen anführende Figur (der Satan) mit flammenden Fingern dargestellt ist. Vgl. dazu Morris,
+               Walpurgisnacht, S. 70. Zur Bedeutung dieses Kupferstichs für die geplante Walpurgisnacht vgl. auch Schöne, Walpurgisnacht, S.122-125.</p>
+            <p>Z. 9-13 <b>(P35)</b>: Die hier entworfene Beschreibung bezieht sich auf die Xenien (vgl. auch P40, hier S. 161), die im satirischen Teil auch der endgültigen Walpurgisnacht eine Rolle
+               spielen (vgl. V. 4303ff., dazu auch Morris, Walpurgisnacht, S. 78f.). Diese satirischen Distichen Goethes und Schillers werden hier als Insekten beschrieben: mit der Formulierung "Zwey
+               lange Beine keinen Leib" ist die Form des Distichons bezeichnet. Die letzten drei nur noch schwer zu erkennenden Bleistiftzeilen beziehen sich auf die Wirkung dieser bissigen Epigramme,
+               die zahlreiche Gegenreaktionen hervorriefen.</p>
+            <p>Z. 11 Kiken] mitteldeutsch für `stechen'.</p>
+            <p>Z. 14-23 (<b>P97 Var</b>): In einheitlichem Duktus. Die ersten drei Zeilen wurden später mit leichten Veränderungen in dem Schlußgedicht `Abkündigung' (P97) verwendet, das zwischen 1797
+               und 1800 entstand (vgl. hier S. 209).</p>
+            <p>Z. 14 episches Gedicht] Das Wesen der epischen Dichtkunst ist wichtiger Gegenstand des Gedankenaustauschs zwischen Goethe und Schiller in den Frühjahrsmonaten des Jahres 1797; darauf
+               bezogen heißt es im Sommer dieses Jahres in einem Brief Goethes an Schiller über die wieder aufgenommene Arbeit an der "barbarischen Composition" des `Faust': "Ich werde sorgen daß die
+               Theile anmuthig und unterhaltend sind und etwas denken lassen, bey dem Ganzen, das immer ein Fragment bleiben wird, mag mir die neue Theorie des epischen Gedichts zu statten kommen."
+               (WA IV,12,169f.)</p>
+            <p>Z. 17-20 <b>(P19)</b>: Diese Verse erinnern an P61 (hier S. 108) und P71-74 (vgl. hier S. 114f.), die mit der geplanten Kaiserhofszene in Verbindung stehen.</p>
+            <p>Z. 21-23 <b>(P52)</b>: Von Morris als Äußerung Helenas bestimmt (die damals also noch in Reimversen sprechen sollte): "In diesen Versen spricht Helena den Eindruck aus, den Faust und
+               sein Gefolge ihr machen." (Morris, Faustparalipomena, S. 168.) Gegen diese Auslegung wendet sich Witkowski (S. 439): es sei nicht anzunehmen, daß diese unedlen Verse in ihrer ersten
+               Gestalt der Helena in den Mund gelegt werden sollten. Im Hinblick auf den alten Plan, den Goethe in P63 skizziert, scheint Morris' Vorschlag jedoch durchaus überzeugend: "Es sind die
+               ältesten Verse der Helena, die uns erhalten sind, einer Helena freilich die noch ganz `Buhlteufel' und `Fratze' ist und die Verwandlung in die Heroine von 1800 noch nicht erfahren hat,
+               in deren Munde die `Schlucker' und die `spindelförmigen Gestalten' und der trotzig-freche Ton des Ganzen undenkbar wäre." (Grumach, Goethes Vorarbeiten zu den Helenaszenen, S. 58.) Vgl.
+               P63, Z. 117-126 (hier S. 271f.): "Sie [Helena] findet</p>
+            <p> alles einsam, sehnt sich nach Gesellschaft, besonders nach männlicher, die sie ihr lebelang nicht entbehren können. Faust tritt auf und steht als deutscher Ritter sehr wunderbar gegen
+               die antike Heldengestalt. Sie findet ihn abscheulich, allein da er zu schmeicheln weiß, so findet sie sich nach und nach in ihn, und er wird der Nachfolger so mancher Heroen und
+               Halbgötter." P52 findet sich in veränderter Form auf den Blättern H P167 (hier S. 544) und III H12 (hier S. 570) wieder. Dort sind es nicht mehr die Verse der Helena, sondern die eines
+               kommentierenden Dritten: nach dem Wandel des `Helena'-Konzepts inzwischen vorgesehen als spöttische Bemerkung Mephistos? Die veränderte Fassung dieses Paralipomenons wurde von Riemer
+               und Eckermann in der Quartausgabe unter den `Zahmen Xenien' veröffentlicht (Q I,1,132). </p>
+            <p>Z. 24f. <b>(P53)</b>: Diese einen bekannten biblischen Vergleich mit einer alten sprichwörtlichen Wendung kombinierenden Verse über die Vergänglichkeit ("Alles Fleisch ist hew/ und alle
+               seine Güte ist wie eine blume auff dem felde. Das hew verdorret/ die blume verwelcket [...] Aber das Wort unseres gottes bleibet ewiglich." Jesaia 40,6 u. ä. 1. Petr. 23; `Glück und
+               glas, wie bald bricht das', DWB 7,7662) lassen sich nicht zweifelsfrei zuordnen _ der Überlieferungskontext legt einen Zusammenhang mit der `Helena' oder der Walpurgisnachtsszene nahe,
+               möglicherweise handelt es sich hier jedoch um einen Einfall, den Goethe wie auch andere Bruchstücke auf diesem Sammelblatt noch keiner bestimmten Szene zugeordnet hatte.</p>
+            <p>Z. 26-28 <b>(P38)</b>: Satirische Verse der `Walpurgisnacht'? Vgl. auch H P27 (hier S. 161) Georg Lukács weist auf die wahrscheinlich intendierte Robespierre-Anspielung hin: "Dass hier
+               unter `Tugend' die Robespierrsche Phase der Revolution zu verstehen ist, bedarf wohl keines Kommentars." (Lukács, Fauststudien, S. 140.)</p>
+            <p>Z. 29-49 <b>(P10)</b>: Mit Zeile 29 beginnt ein deutlich erkennbarer neuer Schreibansatz auf dieser Seite des Sammelblattes. Der von Goethe `als erledigt' gestrichene Entwurf ist sehr
+               unterschiedlich gedeutet worden. In verkürzter Form schon in Q wiedergegeben und dem Mephistopheles zugewiesen, wurde er (Z. 35-49) von Erich Schmidt als P10 dann "Nach der Schülerscene
+               zu 2051ff." eingeordnet. Diese Zuordnung wurde zuerst von Max Morris in Frage gestellt, der für eine "harmlosere Persönlichkeit als Mephisto, mit dem doch nicht jeder lacht und der
+               keineswegs mit allen gleichgestimmt ist", plädiert. Aus den letzten beiden Zeilen (Z. 46f.) schließt er auf die Zugehörigkeit dieses Entwurfs zum `Vorspiel auf dem Theater'; als
+               Sprecher wäre in diesem Falle die `Lustige Person' einzusetzen. (Morris, Faustparalipomena, S. 159f.) In einem Nachtragsband von 1914 schließt sich die WA dieser Auffassung an
+               (I,53,532). Oskar Seidlin, der in seiner Studie über das `Vorspiel auf dem Theater' zu der Auffassung gelangt, daß es ursprünglich als Vorspiel zum zweiten Teil der `Zauberflöte'
+               geschrieben worden sei, nimmt die Verse des P10 infolgedessen als Verse Papagenos in Anspruch. (Seidlin, Ist das `Vorspiel auf dem Theater' ein Vorspiel zum `Faust'?) In einer Miszelle
+               von 1952/53 schlägt Momme Mommsen schließlich wiederum eine andere Zuordnung vor: Er sieht in den</p>
+            <p>Versen einen "Ansatz zu einer Exposition der Walpurgisnacht", die Goethe vorschwebte, als er das Schema P31 "Aufmunterung zu Walp. Nacht" niederschrieb, und beruft sich dafür auch auf
+               den Überlieferungskontext: das Paralipomenon befinde sich "auf einem Bogen mit einer ganzen Reihe von Walpurgisnachtskizzen aus dem Jahre 1800, und es darf ohne weiteres inhaltlich zu
+               diesen gezählt werden." (Mommsen, Zum Faustparalipomenon 10.) Ernst Grumach untersucht das Paralipomenon zum ersten Mal innerhalb seines handschriftlichen Kontexts und nimmt einen
+               Zusammenhang mit den Entwurfszeilen zu V. 3149-3152 an. Er kritisiert die Darbietung dieses Textes in der WA und stellt fest, daß die Unterschlagung des Kontextes die richtige
+               Einordnung des Paralipomenons bisher unmöglich gemacht habe. Er deutet das Fragment seinerseits als geplantes Streitgespräch zwischen Damen und Herren des Hofes (vgl. P107, hier S.
+               369), das der Beschwörung der Helena vorausgehen sollte _ entstanden vermutlich vor oder gleichzeitig mit dem `Helena'-Fragment aus dem Jahre 1800. (Grumach, Vorarbeiten.)</p>
+            <p>Siegfried Scheibe schlägt schließlich einige Modifikationen der von Grumach unternommenen Rekonstruktion der Niederschriftschichten dieses Entwurfs vor, bietet eine eigene Textfassung
+               und kommt, ohne einen neuen Vorschlag für die Zuordnung des Fragments zu geben, zu dem Schluß, daß die Zugehörigkeit des P10 weder zur `Aufmunterung zur Walpurgisnacht' noch zur
+               `Helena' als nachgewiesen betrachtet werden kann. Möglicherweise bestehe ein Zusammenhang mit den 1797 noch geplanten, bei der schnellen Ausführung von 1806 dann gestrichenen Entwürfen.
+               (Scheibe, Zum Faustparalipomenon 10.)</p>
+            <p>Die Deutung des Textbruchstücks ist nicht zuletzt abhängig von der Rekonstruktion der verschiedenen Phasen seiner Niederschrift: Grumach unterscheidet drei Phasen des vorliegenden
+               Entwurfs. Nach seiner Analyse der Handschrift wurden zunächst 4 durch deutliche Spatien voneinander getrennte Zweizeiler niedergeschrieben (Zeilen 29f., 31f., 33f., 39f.). Auf der
+               nächsten Stufe sei der erste Zweizeiler gestrichen, in veränderter Form hinter den vormals letzten Zweizeiler gesetzt und ein weiteres Zeilenpaar (Z. 46f.) sowie der Buchstabe "D" (als
+               Sprecherangabe auf Mitte) angefügt worden. Stufe 3 zeige dann die letzte Fassung: die hinzukommenden Zeilen (Z. 35-38 und Z. 43-45 u. 49) sind in einer kleineren Schrift mit steilerer
+               Buchstabenstellung zwischen den ursprünglichen Zeilen bzw. am Schluß hinzugefügt worden. Die verbliebenen beiden Verspaare wurden schließlich "durch je zwei kleine Doppelstriche
+               `ausgegrenzt' und in die Gartenszene übertragen". (Grumach, Vorarbeiten, S. 49f.)</p>
+            <p>Ausgehend vor allem von einer anderen Deutung eben dieser kleinen Doppelstriche kommt Scheibe zu modifizierten Ergebnissen. Scheibe verweist auf das bei Goethe übliche Verfahren, durch
+               Doppelstriche Umstellungen zu kennzeichnen (Scheibe, Zum Faustparalipomenon 10, S. 148), und nimmt an, daß die ersten beiden Zweizeiler so in der letzten Version als Rede der "Dame" an
+               den Schluß verwiesen sind. Außerdem differenziert er die Entstehungsphasen weiter und kommt zu 5 unter</p>
+            <p> schiedlichen Stufen: Er nimmt an, daß zunächst nur die ersten drei Zweizeiler (Z. 29f., 31f., 33f.) niedergeschrieben wurden (Stufe 1), dann die Korrekturen von Z. 29 und 32
+               vorgenommen wurden (Stufe 2). Unter Berufung auf den Reim identifiziert er als nächsten Schritt die Ergänzung des Entwurfs durch Z. 39-42 unter Einbeziehung und Umstellung des
+               ursprünglichen ersten Zweizeilers (Z. 29f. werden zu 41f.) in etwas veränderter Form sowie die Hinzufügung der Verse 46f. (Stufe3); es folgt die Erweiterung durch die zwischen die
+               Zeilen geschriebenen neuen Verse (Z. 35-38 und Z. 43-45) und die Umstellung der mit Doppelstrichen markierten ersten vier Zeilen an den Schluß des Entwurfs hinter das auf dieser Stufe
+               dazugefügte "D" (Stufe 4). Die letzte Korrektur besteht schließlich nach Scheibe in der Hinzufügung von Zeile 49, die durch ein entsprechendes Zeichen vor Zeile43 verwiesen wird. Damit
+               zusammenhängend wird gleichzeitig in Z. 43 "wirft aus" zu "liegt in" korrigiert. (Vgl. Scheibe, Zum Faustparalipomenon 10.) </p>
+            <p>Scheibes Überlegungen, die Grumachs Bestimmung dieses Entwurfs als eines Gesprächs am Hof vor der Helenabeschwörung in Frage stellen, sind abhängig von der Deutung der Doppelstriche.
+               Wie Schillemeit vorschlägt, lassen sich diese jedoch auch einfacher und _ im Gegensatz zu den Überlegungen Grumachs _ als Hinweis darauf deuten, daß Z. 31-34 doch als eigenes, nicht an
+               den vorangehenden Zweizeiler anschließendes Textstück gedacht war: in einer zweiten Arbeitsphase erfolgte mit Z. 39f. dann ein Neuansatz, der das erste der vier Verspaare (Z. 29f.)
+               neuformuliert und zugleich zu einem Vierzeiler erweitert.</p>
+            <p>Z. 32 Misogyn] Unter der Signatur Varia I,13 finden sich im GSA zwei Notizzettel von der Hand eines Schreibers zum Stichwort `Misogyn'. "Misogyn Ich mag mit Weibern nicht umgehn, es
+               giebt keine schlechtere Gesellschaft. Sie sagen einem was unerträgliches [Blatt 1: und hören auch von uns einmal etwas unerträgliches] und so bringt man sein [gestr. Blatt 1.: dummes]
+               schlepp leben zu. Unter Männern schlägt man sich doch hinter die Ohren, und mit der Fuchtel heraus. Da weiß man in kurzer Zeit woran man ist."</p>
+            <p>Z. 37: Gegen die in WA I,53,532 vorgeschlagene Textverbesserung: "So ist mir jeder erst [eingeschoben vor ungestr. `Herz']" bezieht sich die Korrektur "erst" auf Z. 39.</p>
+            <p>Z. 38: WA gibt gegen die Handschrift "Ich lache jeder lacht mit mir".</p>
+            <p>Z. 43: Grumach schlägt vor, das gestrichene Verb als "wirft aus" zu lesen; die Lesung wurde von Scheibe übernommen. Der graphische Befund ist nicht eindeutig, die fehlende Unterlänge
+               spricht jedoch eher gegen den Vorschlag Grumachs.</p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:value>P52 = Konzept egh zu anderer Fassung von Vers 229-230 von "Die schönen Frauen ..." WA I 5.1,100; früheres Konzept im Vgl. mit Paralipomenon 167 (25/XIX,2,15*c) und III H.12
+               (25/XVIII,1,12*c)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

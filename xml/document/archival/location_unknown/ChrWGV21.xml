@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/location_unknown/ChrWGV21/">
+    <revisionDesc>
+        <change when="2012-09-24" who="bruening">encoded</change>
+        <change when="2013-04-04" who="bruening">Überarbeitung des Abschnitts zur fraglichen Sigle.</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+        <change when="2015-03-03" who="pravida">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+        <repository>location_unknown</repository>
+        <idno type="faustedition">2 I H.9o*</idno>
+        <idno type="gsa_1">GSA 25/XVII,6,3,0</idno>
+        <idno type="wa_faust">none</idno>
+        <note>Wie Grünstein betont, ist das Blatt „in den bisherigen Ausgaben der Werke des Dichters nicht enthalten“ (faust://bibliography/gruenstein1908, S. 37). Bernhard Suphan habe ihm mitgeilt, dass es „auch ihm unbekannt und in den Papieren des Goethe- und Schiller-Archivs nicht nachweisbar“ sei (ebd.). Aus letzterem ergibt sich, dass das Blatt nicht mit der von Schmidt als faust://document/wa_faust/2_I_H.f siglierten Handschrift identisch sein kann (faust://bibliography/wa_I_15_2, S. 13).<!-- TODO Loeper: lässt wohl auf Abschrift schließen, H.f damit nicht mehr relevant, da hiermit das Original wieder erreichbar ist. --></note>
+        <textTranscript uri="ChrWGV21.xml"/>
+        <classification>n.s.</classification>
+        <references>
+            <reference type="facsimile" uri="faust://bibliography/gruenstein1908">S. 37</reference>
+            <reference type="essay" uri="faust://bibliography/gruenstein1908">S. 37</reference>
+            <reference type="essay" uri="faust://bibliography/anonym1908a">S. 16</reference>
+            <reference type="essay" uri="faust://bibliography/anonym1908b"/>
+        </references>
+        <history>„Nach einer liebenswürdigen Mitteilung der gegenwärtigen Besitzerin, Frau Geheimrat Emmy Merck in Darmstadt, ist das Blättchen im Nachlasse ihrer Verwandten, des Fräuleins Karoline Weyland, einer Kammerfrau von der Herzogin Luise von Weimar, gefunden, und bisher in der Familie aufbewahrt worden. Leider haben sich über die Persönlichkeit des Fräuleins Weyland keine näheren Daten finden lassen.“ (faust://bibliography/gruenstein1908, S. 37)</history>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="0037.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <!-- nicht vorhanden -->
+                <docTranscript/><!-- missing -->
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

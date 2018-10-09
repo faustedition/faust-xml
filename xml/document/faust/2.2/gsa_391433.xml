@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391433/">
+   <revisionDesc>
+      <change when="2013-01-07" who="henzel">imported</change>
+      <change when="2013-01-08" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Umschlag mit Adresse Goethes eines zeitgenössischen Schreibers mit Tinte; dabei: Zeichnung, vermutlich von Walther Wolfgang oder Wolfgang Maximilian v. Goethe, mit Bleistift: weibliche Figur und Schriftproben auf der Vorderseite sowie Ansätze (Beine) einer weiteren Figur auf der Rückseite</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.50</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,15</idno>
+      <idno type="gsa_2">GSA 25/W 1542</idno>
+      <idno type="gsa_ident">391433</idno>
+      <idno type="wa_faust">2 II H.50</idno>
+      <textTranscript uri="391433.xml"/>
+      <classification>Konzept</classification>
+      <condition>Blatt war ursprünglich mehrfach zu einem Umschlag gefaltet, am oberen und unteren Rand Reste eines roten Siegels; untere rechte Ecke ist auf beiden Seiten stark vergilbt, vergilbt ist auch obere linke Ecke auf der Vorderseite</condition>
+      <dimensions>
+         <width unit="mm">184</width>
+         <height unit="mm">184</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 180 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <note>links Risskante</note>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <watermarkID>D &amp; A Cowan</watermarkID>
+       <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 52</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 52</reference>
+      </references>      
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/><!-- Zeichnung und Adresse -->
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

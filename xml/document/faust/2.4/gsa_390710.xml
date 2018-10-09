@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390710/">
+<revisionDesc>
+   <change when="2012-11-21" who="henzel">imported</change>
+   <change when="2012-11-21" who="henzel">encoded</change>
+   <change when="2014-01-28" who="henzel">docTranscript nachgetragen</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P179</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,18</idno>
+      <idno type="gsa_2">GSA 25/W 1792</idno>
+      <idno type="gsa_ident">390710</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P179</idno>
+      <!-- P179 -->
+      <textTranscript uri="390710.xml"/>
+      <classification>Schema</classification>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N1"</watermarkID>
+      <note>Wasserzeichen auf jedem Blatt vorhanden</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 237f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 673</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 673f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 705-707</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 675f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">333</height>
+         </dimensions>
+         <leafCondition>in der Mitte längs gefaltet; rechter Rand verweist mit Knickspur auf frühere Einbindung in ein Konvolut; Blatt ist stärker ausgeblichen als das zweite</leafCondition>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">203</width>
+            <height unit="mm">330</height>
+         </dimensions>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0005.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">  
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> HP179 Bei diesen von Schmidt als P179 zusammengefaßten Entwürfen auf zwei Blättern handelt es sich um drei verschiedene Schemata oder Schemabruchstücke: </p>
+            <p>
+               <b>P179.1</b> Die Bleistiftskizze Goethes auf der Vorderseite ist ein früher Entwurf zum 4. Akt, den Goethe später modifizierte. Sichere Anhaltspunkte für eine Datierung fehlen. Im Gegensatz zu P179a werden schon Helena <i>und</i> Gretchen genannt. "Die drey Hauptfig." aus P179a werden jetzt als "Drey Bursche" bezeichnet.</p>
+            <p>
+               <b>P179.2</b> Eine erweiterte und modifizierte Version der letzten 5 Zeilen der Bleistiftskizze P179.1 von Goethes Hand mit Tinte auf einem neuen Blatt niedergeschrieben. Auch hier fehlen äußere Anhaltspunkte für die Datierung.</p>
+            <p>
+               <b>P179.3</b> Eine erweiterte, `umdiktierte' Reinschriftfassung von P179a, die in einem zweiten Arbeitsgang mit Ergänzungen und Korrekturen Goethes versehen ist, welche ihrerseits auf die Bleistiftfassung der Vorderseite (P179.1) zurückzugehen bzw. an sie anzuschließen scheinen: Die `Helena-Wolke' wird auch hier zur Erscheinung von Helena <i>und</i> Gretchen, ein "Dolmetsch" taucht "zum zweitenmale sprechend" auf: sollte er zum ersten Male den "Paralogus im Proscenium" sprechen?</p>
+            <p>Der später verworfene Plan, der beiden Schemata P179.1 und P179.2 zugrunde liegt, läßt sich aus den Stichworten nur in Umrissen erraten. Witkowski (S. 436) erläutert: "Der Gegenkaiser soll im Gegensatz zum Kaiser ein weiser Fürst sein. Mephistopheles hofft auch ihn zu betören und tritt als Sprecher einer Deputation, die ihm die Kaiserwürde anträgt, vor ihn hin; aber der weise Fürst lehnt ab und rät, den Mächtigsten, den Rechten zu wählen." Oder sollte Mephistopheles hier (wie im endgültigen Text V. 10130ff.) Faust versuchen, indem er ihn als den "rechten" bezeichnet (so Schmidt in JA 14,381f.)? Morris (Mephistopheles [II], S. 167 und Faustparalipomena, S. 210ff.) nimmt sogar an, daß ein alter Plan vorgesehen habe, Faust zum Kaiser zu machen _ ursprünglich sollte der noch in der ausgeführten Dichtung vorhandene Gegenkaiser eben Faust selbst sein. Kritisch dazu bemerkt Harnack: "Daß Faust selbst, wie Morris meint, als der <i>rechte</i> Kaiser von <i>Mephisto</i> empfohlen
+               würde, ist ein sonderbares Mißverständnis; der <i>weise Fürst</i> gibt die `Andeutung des rechten'." (Harnack, S. 582.) Mit Bezugnahme auf P179 vermutet Emrich als ursprünglichen Plan für den 4. Akt die Absicht, "den Kampf zwischen Kaiser und Gegenkaiser zu einer Auseinandersetzung zwischen `Weisheit' und `Torheit' der Regierungskunst überhaupt auszugestalten." (Emrich, Symbolik, S. 459.)</p>
+            <p>Z. 1 Paralogus] Ein wohl von Goethe gebildetes Wort zur Bezeichnung von `beiseite Gesprochenem', hier ein die Handlung erläuternder Kommentar. (Vgl. die Verwendung des Ausdrucks im Tagebuch vom 28. 3. 1817: "Paralogismen der Zuschauer"; WA III,6,27.) Düntzers ohne Kenntnis der Handschriften (!) vorgeschlagene Konjekturen: "Paralogus" zu "Prologus", "Thyrsus" zu "Küraß" (Düntzer, Entstehung der letzten Akte, S. 335) müssen zurückgewiesen werden.</p>
+            <p>Z. 2 Im Proscenium] Der die Handlung erläuternde Kommentar sollte vor dem eigentlichen Bühnenraum, zwischen Vorhang und Rampe, gesprochen werden.</p>
+            <p> Nachlaßstücke Zweiter Teil, Akt 4</p>
+            <p>Z. 11 u. 21 Weiser Fürst] Möglicherweise Anspielung auf Friedrich den Weisen, der nach dem Tode Maximilians die Kaiserwürde ablehnte. (Vgl. Morris, Faustparalipomena, S. 210f.)</p>
+            <p>Z. 11-13] WA liest "Weiser Fürst der sie auf dem Thron sehn wollte", Hecker gibt "Weiser Fürst, den sie auf den Thron setzen wollen". Die flüchtigen Bleistiftzüge lassen in der Frage, <i>wer</i> hier auf den Thron gesetzt werde soll, unterschiedliche Interpretationen durchaus zu: nach dem graphischen Befund zu urteilen, ist die Lesung "der" jedoch wahrscheinlicher.</p>
+            <p>Z. 24 Rath {den} Machtig] WA liest zunächst "Rath des Mephist zu Wahl", im Nachtragsband (I,53,534) wird diese Lesung korrgiert und ergänzt: "Rath den Mächtigsten zu wählen".</p>
+            <p>Z. 45 Chorgesang zur That auftretend] Wahrscheinlich Hörfehler des Schreibers für "zur That aufregend". Vgl. P179a, Z. 8, hier S. 670.</p>
+            <p>Z. 46-48: Gemeint ist hier das Lied der Krieger in `Pandora' (V. 900ff.; WA I,50,338f.). Strehlke (S. 121): "Für `Helena' muß Goethe etwas Aehnliches beabsichtigt haben, das indessen nicht zur Ausführung gekommen ist." Diese Vorstellung setzt voraus, daß das vorliegende Schema vor Abschluß der `Helena' entstanden ist, was nach Maßgabe von P179a (für das der 14. 4. 1828 als terminus post quem wahrscheinlich gemacht wurde, hier S. 671) als Vorform von P179 auszuschließen wäre. Witkowski verweist für den "Kriegerschritt" in der `Helena' auf V. 9446ff.</p>
+            <p>Z. 49 Die Masken] Von Schlaffer als "Allegorien der maschinellen Kraft" (Faust. Zweiter Teil, S. 131) gedeutet und auf die beginnende Industrialisierung bezogen. Näherliegend wohl doch die Auffassung, daß es hier um metallene Helme geht, deren Visiere die Gesichter decken, also Krieger in mittelalterlicher Rüstung gemeint sind.</p>
+            <p>Z. 50 Thy[r]sus] eine immer wieder bezweifelte Lesung; der handschriftliche Befund bietet jedoch keine überzeugende Alternative. Der Thyrsus, Zeichen der Teilnehmer des Dionysoskultes, wurde auf dem Zug des Dionysos nach Indien auch als Waffe verwendet: unter dem Fichtenapfel an der Spitze verbarg sich eine todbringende Lanzenspitze. (Diodorus Siculus 3,65,3; vgl. auch Moritz, Götterlehre, S. 141, und Faust V. 7777f.)</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

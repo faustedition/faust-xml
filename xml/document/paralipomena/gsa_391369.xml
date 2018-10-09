@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391369/">
+   <revisionDesc>
+      <change when="2012-11-12" who="bruening">encoded</change>
+      <change when="2014-10-15" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Vs.: Reinschrift eines Versentwurfs zu ‚Faust I‘ (Geist, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P26</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,16</idno>
+      <idno type="gsa_2">GSA 25/W 1390</idno>
+      <idno type="gsa_ident">391369</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P26</idno>
+      <textTranscript uri="391369.xml"/>
+      <classification>Mundum</classification>
+      <!-- Abschrift -->
+      <condition>Ränder leicht gebräunt.</condition>
+      <dimensions>
+         <width unit="mm">172</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 207 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <watermarkID fragment="a_u">Gekroentes_Rautenkranzwappen_in_Bogenmitte_2</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 295</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 133</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 296</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 133</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 551f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 134</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Erstdruck: Q, S.178</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Zuordnungsvermerk "ad 16./ e", egh [oben, rechts, Blei und Tinte]</f:dabei_vermerk>
+      <f:datierung>1797/1798</f:datierung>
+      <f:ident>391369</f:ident>
+      <f:kurztitel>Faust. Erster Theil
+Paralipomenon 26
+Der junge Herr ist freylich ...
+WA: oS; vgl. I 14,295-296
+Abschrift
+Text der Handschrift zu WA: I 14,296</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>Geist</f:schrift>
+      <f:signatur>XVII,2,16</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (2,16) (WA I,14,295f.)</p>
+            <p>Reinschrift</p>
+            <p>Erstdruck: Q, S. 178</p>
+            <p> x , gelbliches, halbes Folioblatt; angeschnittenes WZ: Rautenkranzoval über Stern
+               (Remdaer Wappenpapier);</p>
+            <p>VS: Geist schw.br. Tinte P26, oben rechts (von Goethe?) mit Blei "ad 16" signiert,
+               darunter "e" mit schw.br. Tinte;</p>
+            <p>RS: leer</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>Ein in Papier und Beschriftung typisches Blatt für die 1797/98 von Goethes Schreiber
+               Geist angefertigten Abschriften. Sie wurden von Geist mit schwarz-brauner Tinte in
+               ordentlicher Schrift auf Wappenpapier der Papiermühle Remda niedergeschrieben.</p>
+            <p>Die Signatur oben rechts, wahrscheinlich von der Hand Goethes, weist das vorliegende
+               Fragment dem Punkt 16 des `ausführlichen nach Nummern geordneten Schemas' des 1797/98
+               angelegten `Faust'-Plans zu; mit der Ergänzung "e" wird es innerhalb der mit dieser
+               Nummer bezeichneten Szene oder Szenenfolge an eine bestimmte, und zwar die 5. Stelle
+               verwiesen. Als folgende Szene war die Szene `Dom' vorgesehen: sie trägt die Signatur
+               "ad 16f.". Nicht "unmittelbar" also (wie in den Kommentaren von Petsch, Alt und
+               Harnack angegeben) folgt als Nr. 17 dann erst die Walpurgisnacht. Über die
+               vorausgehenden Bruchstücke innerhalb der Nr. 16, wie auch über die vorausgehenden
+               Nummern selbst, läßt sich nur spekulieren. Der vorliegende Fall zeigt, daß eine
+               Gleichsetzung einer Nummer mit einer Szene der Gestalt des bezifferten Schemas nicht
+               entspricht _ das Bruchstück P26 gehört sicher nicht in die Szene `Dom'. (Vgl.
+               Scheibe, Faustschema, S. 248.)</p>
+            <p>P26 wurde bereits in Q unter die Paralipomena aufgenommen und mit dem Zusatz `Straße'
+               versehen, der dann in zahlreichen Paralipomena-Editionen wieder auftaucht. Es handelt
+               sich offensichtlich um einen Monolog Mephistos, der über seinen Umgang mit Faust,
+               `dem jungen Herrn', redet. Vielleicht ist mit dem `allzudummen Streich' der tödliche
+               Kampf mit Gretchens Bruder Valentin gemeint (vgl. zu Z.12-14 den Schluß der Szene
+               `Trüber Tag. Feld'), mit den "neuen dummen Streichen" die Teilnahme an der
+               Walpurgisnacht. Vgl. die Einordnungsvorschläge der WA: "Zwischen Valentin- und
+               Blocksbergscene?" (WA I,14,295) oder der BA: "Vor der Szene: Nacht. Straße vor
+               Gretchens Türe" (S. 468). Vermutlich aber ist dieses Bruchstück älter als der
+               Walpurgisnachtsplan, so daß hier ursprünglich ganz allgemein noch zu entwickelnde
+               `neue dumme Streiche' gemeint waren. Vgl. hierzu auch Scheibe, der annimmt, daß P26
+               im Sommer 1797 aus alten Beständen von Geist kopiert wurde (Scheibe, Walpurgisnacht,
+               S. 53). Für eine frühe Entstehung des vorliegenden Bruchstücks spricht die
+               Verwandtschaft mit den Äußerungen Kilian Brustflecks in den Bruchstücken des
+               `mikrokosmischen Dramas Hanswursts Hochzeit' aus dem Jahr 1775 (WA I,38,45-52), auf
+               die bereits Loeper (Hempel, S. 156) verwiesen hat. Bemerkenswert auch die Bezeichung
+               "Wildfang" für Faust.</p>
+            <p>Ungeklärt ist, was P26 mit der Szene `Dom' derart verbindet, daß beide unter einer
+               Nummer des Schemas subsumiert wurden; offen bleibt auch die Frage, welche vier(!)
+               weiteren Szenen dieser Nummer zugerechnet werden sollten (16a-d). Hier wird deutlich,
+               wie wenig sinnvoll eine Diskussion um die genaue Einordnungin die Szenenfolge des
+                  <i>endgültigen</i> Dramas ist: als dieser Text verfaßt wurde, verfolgte Goethe
+               wahrscheinlich noch ganz andere `Faust'-Pläne als zum Zeitpunkt der Abschrift und
+               Neuordnung 1798, die sich bis zur endgültigen Gestaltung wiederum grundlegend
+               veränderten.</p>
+            <p>Z. 5 Gouverneur] hier: Erzieher.</p>
+            <p>Z. 7 afficirt] bewegt, reizt.</p>
+            <p> HDomSzene</p>
+            <p>
+               <b>H DomSzene</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,16</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1797/1798</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1797</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Der junge Herr ist freylich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 14,295-296</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>oS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Geist</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Abschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>26</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,296</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Geist, Johann Jakob Ludwig</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Zuordnungsvermerk "ad 16./ e", egh [oben, rechts, Blei und Tinte]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Erstdruck: Q, S.178</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1061</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3345</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,16</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,295-296</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P26</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>133</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>39</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Der junge Herr ist freylich</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>26</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10087</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

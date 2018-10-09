@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390094/">
+   <revisionDesc>
+      <change when="2012-11-28" who="bruening">encoded</change>
+      <change when="2014-01-27" who="henzel">docTranscript nachgetragen</change>
+      <change when="2014-11-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Blauer Umschlag. Er diente offenbar ursprünglich zur Aufbewahrung der „Geld- und
+         Rechnungssachen“ und wurde dann in umgekehrter Richtung gefaltet. Die Lage und der Abstand
+         der Stichlöcher passen genau zu dem Umschlag von faust://document/wa_faust/2_II_H.74. Er
+         diente also zur Aufbewahrung desselben Konvoluts. Das hintere Umschlagblatt ist so
+         gefaltet, dass sein Rand zur Verstärkung zur Verstärkung des Falzes diente (diese Technik
+         ist auch bei dem späteren Umschlag angenwendet).
+         Umschlag, 2 beschriebene Seiten. – S. 1: Aufschrift zu ‚Faust II‘, Akt 2 (John,
+         Tinte). S. 2: leer. S. 3: Aufschrift (unbekannter Schreiber, Tinte). S. 4: leer.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.6a</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,1</idno>
+      <idno type="gsa_2">GSA 25/W 1486</idno>
+      <idno type="gsa_ident">390094</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="390094.xml"/>
+      <classification>none</classification>
+      <dimensions>
+         <width unit="mm">208</width>
+         <height unit="mm">342</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>none</paperType>
+      <paperColour>blau</paperColour>
+      <watermarkID>none</watermarkID>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Leer.</note>
+               <docTranscript/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Leer.</note>
+               <docTranscript/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:dabei_vermerk>Aufschrift zS "Geld- und Rechnunssachen"</f:dabei_vermerk>
+      <f:druckort>WA I 15.1, 110-176</f:druckort>
+      <f:ident>390094</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Zweiter Act. Classische Walpurgisnacht
+WA: -
+Umschlag
+Titel der Handschrift: "Classische Walpurgis Nacht. Mundum"</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>zS</f:schrift>
+      <f:signatur>XVII,7,1</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor Überlieferungsform)</f:key>
+            <f:value>Umschlag</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Classische Walpurgis Nacht. Mundum"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>-</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>zS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Aufschrift zS "Geld- und Rechnunssachen"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1146</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2577</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

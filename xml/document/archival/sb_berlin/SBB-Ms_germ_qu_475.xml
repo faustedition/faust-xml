@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/sb_berlin/SBB-Ms_germ_qu_475/">
+    <revisionDesc>
+        <change when="2012-09-27" who="bruening">Übernahme aus den hs. Unterlagen begonnen.</change>
+        <change when="2012-10-02" who="bruening">encoded</change>
+        <change when="2013-06-05" who="bruening">Loeper, watermarkID.</change>
+        <change when="2013-07-12" who="henzel">Umschlag im GSA</change>
+        <change when="2015-03-10" who="pravida">minimal headnote</change>
+        <change when="2016-01-28" who="koehler">minimal headnote</change>
+        <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+        <change when="2018-09-19" who="pravida">Bibliographische Referenz geändert (schroeer1881_1)</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Gebundenes Konvolut, 4 Blätter nebst Einband. – ‚Faust I‘,
+            ‚Nacht‘  (Valentin-Szene).</headNote>
+        <note>Gebundenes Konvolut, Lage aus 2 Doppelblättern und Einband. – ‚Faust I‘,
+            ‚Nacht‘  (Valentin-Szene).</note>
+        <repository>sb_berlin</repository>
+        <idno type="faustedition">1 H.12</idno>
+        <idno type="sb_berlin">Ms. germ. qu. 475</idno>
+        <idno type="gsa_1">GSA 25/XVII,1,4</idno>
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="SBB-Ms_germ_qu_475.xml"/>
+        <classification>Mundum</classification>
+        <references>
+            <reference type="description" uri="faust://bibliography/katalog_der_berliner_goethe-ausstellung1861">S. 15, Nr.
+                7<!-- Scene aus dem ersten Theil des Faust: Nacht. Straße vor Gretchens Thüre. Valentin. “Wenn ich so saß bey e’m Gelag” u. s. w. Ganz von Goethes Hand. 5 Blättter 4to. (1800).
+                Im Besitze der Königl. Bibliothek zu Berlin.> --></reference>
+            <reference type="description" uri="faust://bibliography/loeper1870">Tl. 1, S. 167, Nr.
+                I. a)</reference>
+            <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 1, S. 209, Nr.
+                I. a)</reference>
+            <reference type="description" uri="faust://bibliography/loeper1881b">S. 456</reference>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 278</reference>
+            <reference type="description" uri="faust://bibliography/degering1926">S. 85</reference>
+            <reference type="description" uri="faust://bibliography/stolzenberg1975">S.
+                7f.</reference>
+            <reference type="text" uri="faust://bibliography/hansen1941">S. 25–35</reference>
+            <reference type="facsimile" uri="faust://bibliography/hansen1941"/>
+            <reference type="facsimile" uri="faust://bibliography/stolzenberg1975"/>
+            <reference type="essay" uri="faust://bibliography/schroeer1881_1">S. XLVII,
+                218</reference>
+            <!-- nach faust://bibliography/loeper1881b, S. 456 -->
+            <reference type="essay" uri="faust://bibliography/loeper1881b">S. 456</reference>
+            <reference type="essay" uri="faust://bibliography/wa_I_14">S. 278</reference>
+            <reference type="essay" uri="faust://bibliography/schmidt1894">S. LI</reference>
+            <reference type="essay" uri="faust://bibliography/hansen1941">S. 15f., 19</reference>
+            <reference type="essay" uri="faust://bibliography/scheibe1963">Sp. 1006</reference>
+            <reference type="essay" uri="faust://bibliography/scheibe1965">S. 16, 51</reference>
+            <reference type="essay" uri="faust://bibliography/stolzenberg1975">S. 3–5,
+                7–9</reference>
+        </references>
+        <note>Ein weiteres Faksimile der Handschrift liegt im GSA unter der Signatur GSA 25/XVII,1,4. Es stammt aus
+            der von Bernhard Suphan beschriebenen „Sammlung“, die Wilhelm II. dem Großherzog Carl
+            Alexander zum 80. Geburtstag schenkte: „Reproductionen sämmtlicher Goethehandschriften
+            der Königl. Bibliothek zu Berlin“ (faust://bibliography/suphan1907, S. XXII).</note>
+        <history>Vgl. faust://bibliography/loeper1881b; faust://bibliography/wa_I_14, S. 278;
+            faust://bibliography/schmidt1894, S. LI; faust://bibliography/wahl1929, S. 27;
+            faust://bibliography/hansen1941, S. 19; faust://bibliography/scheibe1963, Sp. 1006;
+            faust://bibliography/stolzenberg1975, S. 3–5. Dort vielfach auch der Hinweis auf den
+            ursprünglich zugehörigen Umschlag (faust://document/gsa_1/GSA_25-W_1362).</history>
+        <container>Vgl. schon faust://bibliography/loeper1881b, S. 456. Einband aus künstlich
+            genarbtem, dunkellilanem Ziegenleder (Maße s.u.), mit jeweils zwei vorderen und hinteren
+            Vorsatzblättern (vgl. faust://bibliography/stolzenberg1975, S. 8).</container>
+        <bindingMaterial>Knotenfadenheftung (faust://bibliography/stolzenberg1975, S.
+            8).</bindingMaterial>
+        <numberingList>
+            <numbering name="Foliierung_xx_t">Archivarische Foliierung, von derselben Hand wie auf Bl. 1 der Handschrift eingetragene Signatur (faust://bibliography/stolzenberg1975, S. 8).</numbering>
+        </numberingList>
+        <format>4</format>
+        <edges>cut</edges>
+    </metadata>
+    <disjunctLeaf type="binding">
+        <metadata>
+            <dimensions>
+                <width unit="mm">174</width>
+                <height unit="mm">208</height>
+            </dimensions>
+            <references>
+                <reference uri="faust://bibliography/stolzenberg1975">S. 8</reference>
+            </references>
+        </metadata>
+        <page>
+            <metadata>
+                <references>
+                    <reference type="essay" uri="faust://bibliography/loeper1881b">S. 456</reference>
+                </references>
+
+                <docTranscript uri="Vorderdeckel.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="Spiegel_v.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <!-- Fliegendes Blatt -->
+    <disjunctLeaf type="binding">
+        <metadata>
+            <dimensions>
+                <width unit="mm">169</width>
+                <height unit="mm">200</height>
+            </dimensions>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_5_r.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_1_v.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf type="binding">
+        <metadata>
+            <dimensions>
+                <width unit="mm">170</width>
+                <height unit="mm">201</height>
+            </dimensions>
+
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_6_r.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_2_v.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <!-- Lage -->
+    <sheet>
+        <metadata>
+            <leafCondition>Vergilbt, stockfleckig (vgl. faust://bibliography/stolzenberg1975, S.
+                8).</leafCondition>
+            <paperType>Konzeptpapier</paperType>
+            <paperColour>weiß</paperColour>
+            <chainLines unit="mm">24</chainLines>
+            <paperMill>Johann Gabriel Keyßner, Blankenburg (faust://bibliography/stolzenberg1975, S.
+                8).</paperMill>
+            <watermarkID>Krone_in_Rokokorahmen_Fe_Bl_11</watermarkID>
+        </metadata>
+        <!-- Bl. 1 -->
+        <leaf>
+            <metadata>
+                <dimensions>
+                    <width unit="mm">168</width>
+                    <height unit="mm">200</height>
+                </dimensions>
+            </metadata>
+            <page>
+                <metadata>
+                    <references>
+                        <reference uri="faust://bibliography/keller1985">Bd. 2, vor S.
+                            332</reference>
+                    </references>
+
+                    <docTranscript uri="001_r.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="001_v.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <sheet>
+            <metadata>
+                <countermarkID>Blanckenb</countermarkID>
+            </metadata>
+            <!-- Bl. 2 -->
+            <leaf>
+                <metadata>
+                    <dimensions>
+                        <width unit="mm">168</width>
+                        <height unit="mm">200</height>
+                    </dimensions>
+
+                </metadata>
+                <page>
+                    <metadata>
+                        <docTranscript uri="002_r.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="002_v.xml"/>
+                        <references>
+                            <reference type="facsimile" uri="faust://bibliography/schoene2005">Bd.
+                                1, nach S. 736, Abb. 12</reference>
+                        </references>
+                    </metadata>
+                </page>
+            </leaf>
+            <!-- Bl. 3 -->
+            <leaf>
+                <metadata>
+                    <dimensions>
+                        <width unit="mm">168</width>
+                        <height unit="mm">200</height>
+                    </dimensions>
+                </metadata>
+                <page>
+                    <metadata>
+                        <docTranscript uri="003_r.xml"/>
+                        <references>
+                            <reference type="facsimile" uri="faust://bibliography/duentzer1882b">Beilage zu Bg. 12</reference>
+                        </references>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="003_v.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+        </sheet>
+        <!-- Bl. 4 -->
+        <leaf>
+            <metadata>
+                <dimensions>
+                    <width unit="mm">168</width>
+                    <height unit="mm">200</height>
+                </dimensions>
+
+            </metadata>
+            <page>
+                <metadata>
+                    <docTranscript uri="004_r.xml"/>
+                    <references>
+                        <reference type="facsimile" uri="faust://bibliography/wahl1932">S. 147</reference>
+                    </references>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="004_v.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Bl. 5 -->
+    <disjunctLeaf>
+        <metadata>
+            <countermarkID>Blanckenb</countermarkID>
+            <dimensions>
+                <width unit="mm">168</width>
+                <height unit="mm">200</height>
+            </dimensions>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="005_r.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="005_v.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <!-- hinterer Vorsatz -->
+    <disjunctLeaf type="binding">
+        <metadata>
+            <dimensions>
+                <width unit="mm">196</width>
+                <height unit="mm">200</height>
+            </dimensions>
+
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_7_r.xml"/>
+
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_3_v.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+
+    <!-- hinteres fliegendes Blatt -->
+    <disjunctLeaf type="binding">
+        <metadata>
+            <dimensions>
+                <width unit="mm">168</width>
+                <height unit="mm">201</height>
+            </dimensions>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_8_r.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="Vorsatz_4_v.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <!-- Rückdeckel -->
+    <disjunctLeaf type="binding">
+        <metadata>
+            <dimensions>
+                <width unit="mm">174</width>
+                <height unit="mm">208</height>
+            </dimensions>
+            <references>
+                <reference uri="faust://bibliography/stolzenberg1975">S. 8</reference>
+            </references>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="Spiegel_r.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="Rueckdeckel.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+
+</archivalDocument>

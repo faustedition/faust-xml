@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390452/">
+   <revisionDesc>
+      <change when="2012-11-29" who="bruening">encoded</change>
+      <change when="2012-11-30" who="bruening">Über den möglichen Zusammenhang mit faust://document/fdh_frankfurt/FDH_29527 und faust://document/wa_faust/2_II_H.13.</change>
+      <change when="2014-11-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-02-23" who="koehler">URI fuer Handschriftensigle</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+      <change when="2016-01-28" who="koehler">Brief WA-Nr. statt URI</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Diente nach der Niederschrift der Zeilen zum Faust zur Überklebung einer gestrichenen
+         Passage in GSA 29/40, Bl. 158v (Briefe von Johann Wolfgang Goethe an Verschiedene,
+         Juli–Dezember 1827, 128 Blatt; Konzept zu WA-Nr. 43052). Der Streifen
+         wurde von Erich Schmidt herausgelöst und in die Faust-Überlieferung eingeordnet. Spuren der
+         Klebung sind noch sichtbar. Die auf der Rückseite sichtbare Erledigungsstreichung mit Rötel
+         gehört nicht zum Konzept (s. ebd.). Sie lässt also auf eine Beschriftung auf dem
+         abgetrennten Teil des Blatts schließen. Ein dazu passender Streifen ließ sich im näheren
+         Umfeld des Konzepts nicht finden. – Die Beschriftung, der fehlende Zusammenhang der
+         einzelnen, sämtlich als erledigt gestrichen Splitter sowie schließlich die Fragmentierung,
+         die auf die Beschriftung keine Rücksicht nimmt, erinnern an die beiden Stücke
+         faust://document/wa_faust/2_II_H.13 und faust://document/fdh_frankfurt/FDH_29527, die genau
+         zueinander passen. Mit dem Blatt, aus dem die letzteren beiden herausgeschnitten wurden,
+         ist stimmt das Papier der hier beschriebenen Hs. jedoch nicht überein. Dessen Faserstruktur
+         ist homogener und zugleich weniger transparent als die der beiden anderen Stücke
+         (verglichen anhand von faust://document/wa_faust/2_II_H.13). Auch würde sich, da die Stücke
+         nicht unmittelbar zueinander passen und ein verlorener Streifen dazwischen angenommen
+         werden müsste, zusammengesetzt ein mehr als folio-großes Blatt ergeben. Die eingangs
+         beschriebenen Ähnlichkeiten der Anlage lassen jedoch dieselbe Arbeitsweise erkennen und
+         vielleicht auf ungefähr dieselbe Arbeitsphase schließen.
+         Zettel, 2 beschriebene Seiten. – Vs.: Versentwürfe zu ‚Faust II‘, Akt 2
+         (eigenhändig, Tinte), Versentwürfe, möglicherweise zu ‚Faust II‘, Akt 1 oder 2 gehörig
+         (eigenhändig, Bleistift). Rs.: Notiz (unbekannte spätere Hand, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.4</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,5</idno>
+      <idno type="gsa_2">GSA 25/W 1492</idno>
+      <idno type="gsa_ident">390452</idno>
+      <idno type="wa_faust">2 II H.4</idno>
+      <textTranscript uri="390452.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">103</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            28</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 466</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 466</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 645</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 28</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 466</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.466</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Notiz sS "war aufgeklebt in Abgesandte Briefe 1827 fol. 158 Rücks." [= Brief an Chr. D. Rauch vom 18.9.1827]</f:dabei_vermerk>
+      <f:datierung>vor dem 18.9.1827</f:datierung>
+      <f:druckort>WA I 15.1, 90-100-</f:druckort>
+      <f:ident>390452</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Zweiter Act. Hochgewölbtes enges gothisches Zimmer
+WA: II H.4; vgl. I 15.2,37
+
+Vers(e): 6791-6792
+Wenn ich nicht will ...
+Konzept
+
+Paralipomenon 130
+Das hatt er dencken sollen ...
+Konzept
+Text der Handschrift zu WA: I 15.2,217</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,7,5</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (7,5) (WA I,15.2,37 u. 217)</p>
+            <p>Notizen</p>
+            <p>Erstdruck: WA I,15.2,217</p>
+            <p> x , abgeschnittenes Stück eines halben, grauen Foliobogens, Konzeptpapier, gerippt,
+               unten Schnittkante, fleckig; ohne WZ;</p>
+            <p>VS: G schw. Tinte 6791f. Var, mit schw. Tinte als erledigt gestr; G Blei P130, mit
+               br. Tinte als erledigt gestr.;</p>
+            <p>RS: Bleinotiz eines späteren Bearbeiters: "war aufgeklebt in/ Abgesandte Briefe 1827.
+               fol. 158 Rücks."</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Fischer-Lamberg stellt fest: "Da der Streifen zu Überklebung einer getilgten Stelle
+               von Abg[esandte]Br[iefe] 1827, 158 = an Rauch 18. 9. 1827 benutzt worden ist, so
+               müssen die auf ihm skizzierten Verse vor dem 18. 9. 1827 entstanden sein." (S.
+               28)</p>
+            <p>Eine sichere Zuordnung des in deutlich abweichendem Duktus niedergeschriebenen
+                  <b>P130</b> zu einer bestimmten `Faust'-Szene ist nicht möglich; die
+               Entstehungszeit (bis zum 18. 9. 1827) läßt sowohl eine Zuordnung zum 1. Akt als auch
+               zur Anfangsszene des 2. Akts möglich erscheinen (wofür Witkowski, S. 443, plädiert,
+               der aus dem Kontext schließt, es handle sich wohl um „eine ironische Erwiderung
+               Mephistos auf die Worte des Bakkalaureus 6791"). Morris (Faustparalipomena, S. 198)
+               dagegen rechnet sie zur `Klassischen Walpurgisnacht' und faßt sie als "Bemerkung
+               einer Sphinx zur anderen" auf, als Mephisto nach der Täuschung durch die Lamien zu
+               den Sphinxen zurückkehrt: "Der milden und weisen Art der Sphinxe entsprechen unsere
+               Verse vollkommen." P131 (hier S. 487) nimmt er dann entsprechend für die vorgesehene
+               Antwort Mephistos in Anspruch.</p>
+            <p>Tatsächlich läßt sich nicht einmal die Zugehörigkeit zum `Faust' mit Sicherheit
+               annehmen (Düntzer, Entstehung der ersten Akte, S. 311, hält die Einordnung Schmidts
+               für bedenklich); allein die Überlieferung des Zweizeilers auf einem Blatt mit Versen
+               zum `Faust' kann nicht als zweifelsfreies Indiz angesehen werden. </p>
+            <p>IIH2c (P129)</p>
+            <p>
+               <b>II H2c (P129)</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,5*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Das hatt er dencken sollen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>130</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 15.2,217</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2977</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,7,5*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,37: H.4</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>II H4</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>466</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>167</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Das hätt er dencken sollen</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>130</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10130</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,5</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>vor dem 18.9.1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18270918 (terminus ante quem)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,37</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>II H.4</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Rauch, Christian Daniel</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Notiz sS "war aufgeklebt in Abgesandte Briefe 1827 fol. 158 Rücks." [= Brief an
+               Chr. D. Rauch vom 18.9.1827]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Bohnenkamp, S.466</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1150</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3826</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,7,5*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,37: H.4</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>II H4</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>466</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>167</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Das hätt er dencken sollen</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>130</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10130</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,5*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,90-100</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wenn ich nicht will</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6791-6792</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3883</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

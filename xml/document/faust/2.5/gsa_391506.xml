@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391506/">
+<revisionDesc>
+   <change when="2012-11-29" who="henzel">imported</change>
+   <change when="2012-11-29" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>zwei Anfragen Goethes an die Bibliothek, eigenhändig mit Tinte und John mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.15</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,16</idno>
+      <idno type="gsa_2">GSA 25/W 1712</idno>
+      <idno type="gsa_ident">391506</idno>
+      <idno type="wa_faust">2 V H.15</idno>
+      <textTranscript uri="391506.xml"/>
+      <classification>Konzept</classification>
+      <condition>Tintenverwischung</condition>
+      <dimensions>
+         <width unit="mm">166</width>
+         <height unit="mm">100</height>
+      </dimensions>
+      <format>none</format>
+      <note>unterer Rand Risskante</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbgrünlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Stützerbach(?)</paperMill>
+      <watermarkID>vermutlich Teil einer Krone</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 134</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 134</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 134f.</reference>
+         <!-- TODO Landeck, S.135 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/><!-- Bibliotheksanfrage -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 1. Konzept im Vgl. mit V H.13 (25/XVIII,7,14*b); zur Datierung vgl. Landeck, S.135</f:bemerkung>
+      <f:dabei_vermerk>zwei Anfragen Goethes an die Bibliothek: 1. "Trierische Alterthümer, Name des Herausgebers? W. d. 12. März 1825" John, egh mit egh Unterschrift; Antwort zS: "Joh. Anton Ramboux" = "Malerische Ansichten der merkwürdigsten Alterthümer und vorzüglicher Naturanlagen im Moselthale bey Trier. Gezeichnet und lithographiert von Johann Anton Ramboux" München, o.J. &lt;erschienen in vier Heften zwischen 1824 und 1827&gt;;  2. "Was von Gedichten des Pays [René Le Pays] auf der Bibliothek wäre" egh mit egh Unterschrift</f:dabei_vermerk>
+      </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

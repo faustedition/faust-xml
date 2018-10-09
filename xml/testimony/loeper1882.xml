@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-06" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="420" facs="gjb_2_0420.jpg"/>
+            <div type="letter">
+                <p>Weimar, den 22. October 1804. <milestone unit="testimony"
+                    spanTo="#pniower_241_end" xml:id="pniower_241"/>Dass Goethe nie wieder etwas
+                    Poetisches schreiben wolle, glaube ich auch nicht, und zwar deswegen, weil er
+                    eben etwas wieder unter der Feder hat; seinen <rs>Faust</rs> wird er auch
+                    vollenden.<anchor xml:id="pniower_241_end"/> Noch etwas sollen Sie
+                    vielleicht bald erfahren. Wir dürfen jetzt noch nicht davon sprechen. In seinen
+                    Götz hat er eine sehr poetische Scene eingelegt u. a. die in gereimten Versen
+                    ist. Er spielte bis 11 Uhr. Nun wird er in zwei Hälften gegeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391430/">
+<revisionDesc>
+   <change when="2012-12-11" who="henzel">imported</change>
+   <change when="2012-12-11" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">WA-Nr. Brief</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Eigenhändige Aktensignaturen mit Tinte "Loc. XI/ No 16. Vol. IV"; eigenhändige Notizen mit Bleistift "Schelm - Narr/ Betrug - Irrthum", "Thimnath", [vgl. Brief an K. F. Zelter, 12.1.1830, WA IV 46,209,10-11 (WA-Nr. 46198)]; nicht bestimmter Text eigenhändig mit Bleistift: "daß dessen..."</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.38</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,3</idno>
+      <idno type="gsa_2">GSA 25/W 1530</idno>
+      <idno type="gsa_ident">391430</idno>
+      <idno type="wa_faust">2 II H.38</idno>
+      <textTranscript uri="391430.xml"/>
+      <classification>Konzept</classification>
+      <condition>Tintenfraß, fleckig, vergilbt</condition>
+      <dimensions>
+         <width unit="mm">317</width>
+         <height unit="mm">96</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 315 mm. Der Mindestwert der Blatt-Höhe beträgt 82 mm.</note>
+      <format>none</format>
+      <!-- zwei Ränder (links und oben) bilden uncut-Außenrand eines Foliobogens -->
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 48</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 48f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Eigenhändige Federprobe in Tinte („A“)</note>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>seit dem 12.1.1830</f:datierung>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>7566-7569</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit II H.18 (25/XVII,7,19*c)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>7550-7557</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit II H.18 (25/XVII,7,19*c)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

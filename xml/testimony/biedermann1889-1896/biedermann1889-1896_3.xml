@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biedermann 1, Bd. 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2014-04-02" who="gorbunova">Ablegung der Entstehungszeugnisse,
+                Fehlermeldungen korrigiert, Einfügen der Startseite</change>
+            <change when="2014-04-02" who="bruening">Markup korrigiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="4"/>
+            <div type="conversation">
+                <head>
+                    <num type="biedermann-1">525.</num></head>
+                
+                <head><date>1811, 3. Mai.</date></head>
+                <head>Mit <persName>Sulpiz Boisserée</persName></head>
+
+                <p rend="indentchar-m4n0">Ich komme eben von Goethe, der mich recht kalt und steif
+                    empfing; ich ließ mich nicht irre machen und war wieder gebunden und nicht
+                    unterthänig. Der alte Herr ließ mich eine Weile warten, dann kam er mit
+                    gepudertem Kopf, seine Ordensbänder am Rock; die Anrede war so steif vornehm,
+                    als möglich. Ich brachte ihm eine Menge Grüße; »recht schön!« sagte er. Wir
+                    kamen gleich auf die Zeichnungen, das Kupferstichwesen, die Schwierigkeiten, den
+                    Verlag mit Cotta und alle die äußern Dinge. »Ja, ja! schön! hem, hem!« Darauf
+                    kamen wir an das Werk selbst, an das Schicksal der alten Kunst und ihre
+                    Geschichte. Ich hatte mir einmal <pb n="5"/> vorgenommen, der Vornehmigkeit
+                    ebenso vornehm zu begegnen, sprach von der hohen Schönheit und Vortrefflichkeit
+                    der Kunst im Dom so kurz als möglich, verwies ihn darauf, daß er sich durch die
+                    Zeichnungen ja selbst davon überzeugt haben würde – er machte bei allem ein
+                    Gesicht, als wenn er mich fressen wollte. Erst als wir von der alten Malerei
+                    sprachen, thaute er etwas auf; bei dem Lob der neugriechischen Kunst lächelte
+                    er; er fragte nach Eick, bekannte, daß er noch nichts von ihm gesehen hatte,
+                    fragte nach den Malern zwischen ihm und Dürer und nach Dürer's Zeitgenossen in
+                    den Niederlanden; daß wir gerade so schöne Bilder hätten, weil überhaupt die
+                    Kunst in Niederland viel edler und gefälliger, als im übrigen Deutschland
+                    gewesen, leuchtete ihm ein. Ich war in allen Stücken so billig, wie Du [Melchior
+                    Boisserée] mich kennst, aber auch so bestimmt und frei wie möglich und ließ mich
+                    gar nicht irre machen durch seine Stummheit oder sein »Ja, ja! schön!
+                    merkwürdig!« Ich gab großmüthig meine Gedanken über den Gang der Malerei durch
+                    die Einwirkung von Eick zum besten, jedoch mit aller Vorsicht, zugleich aber
+                    ließ ich nicht undeutlich merken, daß man eben bei der noch ganz frischen
+                    Entdeckung, die wir das Glück gehabt zu machen, seine Gedanken noch nicht gerne
+                    ausspreche; ich gab sie auch nur in allgemeinen Zügen. Das ließ er sich alles
+                    sehr wohl und behaglich einlaufen. Endlich war von Reinhard die Rede; das
+                    Gespräch führte zu unserem gemeinschaftlichen <pb n="6"/> Besitz von
+                    Apollinarisberg, von seinen Verhältnissen zur Regierung, zu seiner Frau, sodaß
+                    ziemlich das Wesentlichste berührt wurde; das machte den alten Herrn
+                    freundlicher, das Lächeln wurde häufiger, er lud mich auf morgen zu Tisch,
+                    erinnerte mich noch zum Erbprinzen zu gehen; ich müßte den Herrschaften die
+                    Zeichnungen zeigen; er wolle alles schon einleiten.</p>
+                <p rend="indentchar-m4n0">
+                    <milestone unit="testimony" spanTo="#graef_1120_end" xml:id="graef_1120"/>Ich
+                    <rs>kündigte ihm Cornelius' Zeichnungen an</rs>; das gefiel ihm (ich schickte sie ihm
+                    nach Tisch); ich wollte ihm nur mit ein paar Worten sagen, daß sie in
+                    altdeutschem Stil seien, aber er wurde abgerufen: es kam ein anderer
+                        Besuch,<anchor xml:id="graef_1120_end"/> er gab mir einen oder zwei Finger,
+                    – recht weiß ich es nicht mehr – aber ich denke, wir werden es bald zur ganzen
+                    Hand bringen. Als ich durch's Vorzimmer ging, sah ich ein kleines, dünnes,
+                    schwarz gekleidetes Herrchen in seidenen Strümpfen mit ganz gebücktem Rücken zu
+                    ihm hineinwandeln.</p>
+            </div>
+            <div type="conversation">
+                <head>
+                    <num type="biedermann-1">526.</num></head>
+                <lb/>
+
+                <head><date>1811, 4. Mai.</date></head>
+                <head>Mit <persName>Sulpiz Boisserée</persName> u.a.</head>
+                <lb/>
+
+                <p rend="indentchar-m4n0">Mit dem alten Herrn geht mir's vortrefflich: bekam ich
+                    auch den ersten Tag nur einen Finger, den andern hatte ich schon den ganzen Arm.
+                    Vorgestern, <milestone unit="testimony" spanTo="#graef_1122_end"
+                        xml:id="graef_1122"/>als ich eintrat, hatte er die <rs>Zeichnungen von Cornelius</rs>
+                    vor sich. »Da sehen sie einmal, Meyer!« sagte er zu diesem, der auch hereinkam,
+                    »die alten Zeiten stehen<pb n="7"/> leibhaftig wieder auf.« Der alte kritliche
+                    Fuchs murmelte (ganz wie Tieck ihn nachmacht, ohne die geringste Übertreibung);
+                    er mußte der Arbeit Beifall geben, konnte aber den Tadel über das auch
+                    angenommene Fehlerhafte in der altdeutschen Zeichnung nicht verbeißen. Goethe
+                    gab das zu, ließ es aber als ganz unbedeutend liegen und lobte mehr, als ich
+                    erwartet hatte. Sogar der Blocksberg gefiel ihm; die Bewegung des Arms, wo Faust
+                    ihn der Gretchen bietet, und die Scene in Auerbachs Keller nannte er besonders
+                    gute Einfälle. Vor der Technik hatte Meyer alle Achtung, freute sich, daß der
+                    junge Mann sich so heraufgearbeitet habe. Ich gab zu verstehen, daß Cornelius
+                    sich über seinen Beifall doppelt freuen würde, weil er bei dem schlechten Licht,
+                    worin sich manche Nachahmer des Alten gesetzt, gefürchtet, diese Art allein
+                    würde ihm schon nachtheilig sein. Gäbe nun aber Goethe etwas dergleichen Lob, so
+                    wäre das umsomehr werth, weil man dabei von der höchsten Unbefangenheit
+                    überzeugt sei, und daher könne er auch mit um so besserem Nachdruck und Erfolg
+                    die wirklichen Fehler rügen.<anchor xml:id="graef_1122_end"/></p>
+                <p rend="indentchar-m4n0"> Bei Tisch kam die Rede auf allerlei: auf Lezay, auf
+                    Reinhard; sie haben der Prinzeß Stephanie ihre Zeichnungen gezeigt; Reinhard hat
+                    mir etwas davon verrathen. Ich fragte ihn nach dem »Diego« von Kettenburg; »das
+                    ist ein Schillerus redivivus,« antwortete er, »eine Stimme aus dem Grabe, ganz
+                    ohne Kraft und Mark.« Je weiter wir in's Essen und <pb n="8"/> Trinken kamen,
+                    desto mehr thaute er auf. Nach Tisch wurde auf dem Flügel gespielt; ein Baron
+                    Oliva von Wien, Kapellmeister, wenn ich recht gehört, trug einiges vor; es war
+                    das kleine höfliche Männchen von Tags zuvor. In dem Musiksaal hingen Runge's
+                    Arabesken, oder symbolische allegorische Darstellungen von Morgen, Mittag, Abend
+                    und Nacht. Goethe merkte, daß ich sie aufmerksam betrachtete, griff mich in den
+                    Arm und sagte: »Was! kennen Sie das noch nicht? Da sehen Sie einmal, was das für
+                    Zeug ist! Zum Rasendwerden! Schön und toll zugleich.« Ich antwortete: Ja, ganz
+                    wie die Beethovensche Musik, die der da spielt; wie unsere ganze Zeit.
+                    »Freilich,« sagte er, »das will alles umfassen und verliert sich darüber immer
+                    in's Elementarische, doch noch mit unendlichen Schönheiten im einzelnen. Da
+                    sehen Sie nur! was für Teufelszeug! und hier wieder, was da der Kerl für Anmuth
+                    und Herrlichkeit hervorgebracht! Aber der arme Teufel hat's auch nicht
+                    ausgehalten; er ist schon hin. Es ist nicht anders möglich: wer so auf der Kippe
+                    steht, muß sterben oder verrückt werden; da ist keine Gnade.« Ich schreibe Dir
+                    dieses Gespräch nur, um Dir die Vertraulichkeit und den Eifer des alten Herrn zu
+                    schildern; Du kannst denken, daß es viel mannigfaltiger war und sehr vieles
+                    dabei wechselseitig zur Rede kam ..... Nachher kamen wir auf die Philosophie,
+                    auf Deutschland, auf unsere Aussichten, auf deutsche Bildung zu sprechen. Er
+                    sagte: »Sie glauben <pb n="9"/> nicht: für uns Alte ist es zum Tollwerden, wenn
+                    wir da so um uns herum die Welt müssen vermodern und in die Elemente
+                    zurückkehren sehen, daß – weiß Gott wann? – ein Neues daraus erstehe.« Und doch,
+                    sagte ich, ist es noch der einzige Trost, daß wir Jungen, als Leichenträger,
+                    gleichsam das Bessere, was in der Pest noch übrig bleibt, die alten Schätze der
+                    Bildung, zu retten suchen und mit der Zeit, vielleicht erst in unsern Enkeln die
+                    Schulmeister und so auch die Herren der jungen Völker werden, die uns einst
+                    beherrschen sollen; alle anderen Hoffnungen und Bestrebungen sind leer. »Was Sie
+                    da aussprechen, das ist das Rechte,« sagte er, »aber die Dinge so anzusehen,
+                    dazu gehört Charakter; denn zur Resignation gehört Charakter.« – es ist
+                    natürlich nicht möglich, solche Gespräche in ihrer ganzen Folge wiederzugeben,
+                    zumal nicht in der Eile, in der ich schreiben muß.</p>
+            </div>
+            <pb n="12"/>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">529.</num></head>
+                
+                <head><date>1811, 8. Mai.</date></head>
+                <head>Mit <persName>Sulpiz Boisserée</persName></head>
+
+                <div>
+                    <head> a. </head>
+
+                    <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1126_end"
+                            xml:id="graef_1126"/>Am Mittwoch fand ich ihn Morgens im Garten; wir
+                        <rs>sprachen über Cornelius</rs>; er hatte ihm geschrieben und ihn recht gelobt, ihm
+                        aber zu verstehen gegeben, daß er bei altdeutschem Geist, Tracht u.s.w. mehr
+                        Freiheit in der Behandlung selber wünsche und hatte ihn an Dürer's Gebetbuch
+                        verwiesen. Er fragte, ob ich dem nicht Beifall gäbe? Du kannst denken, daß
+                        das ganz willig geschah, ich aber meinen Tadel über vieles andere von Dürer
+                        bündig hinzufügte.<anchor xml:id="graef_1126_end"/> Ich bemerkte ihm dabei:
+                        er würde wohl an meiner ganzen Denkart, so sehr ich mich auch in das
+                        deutsche Alterthum vertieft, eine redliche Unbefangenheit wahrgenommen
+                        haben, und da leugne ich denn recht viele Widerwärtigkeiten von unserm
+                        handfesten Meister Dürer durchaus nicht, und wir seien über das, wie über
+                        manches andere ähnlicher Art oft mit Schlegel uneins gewesen, der bei seinem
+                        regen, eifrigen Sinn für das Bessere gerade da, wo es vergraben und verkannt
+                        ist, nie der Sünde einer ungewöhnlichen Einseitigkeit entgehen könne.</p>
+                </div>
+                <div>
+                    <head>b.</head>
+
+                    <p rend="indentchar-m4n0">Nachmittags nach Tisch saßen wir allein; er lobte
+                        recht mit aller Wärme und allem Gewicht meine Arbeit.</p>
+                    <pb n="13"/>
+                    <p rend="indentchar-m4n0"> Ich hatte das erhebende Gefühl des Siegs einer
+                        großen, schönen Sache über die Vorurtheile eines der geistreichsten
+                        Menschen, mit dem ich in diesen Tagen recht eigentlich einen Kampf hatte
+                        bestehen müssen; ich hätte ihn gewiß nicht errungen, wäre ich nicht durch so
+                        genaue Bekanntschaft mit meinem Gegner, mit dessen Gesinnungen ich besonders
+                        durch Reinhard sehr vertraut war, gar trefflich vorbereitet gewesen. Ich
+                        gewann hauptsächlich dadurch, – was auch meiner eigenen innersten Neigung
+                        und Überzeugung am gemäßesten ist – daß ich rein die Sache wirken ließ und
+                        immer nur auf die Gelegenheit bedacht war, wann ich sie am besten wirken
+                        lassen konnte; er äußerte sich auch ganz demgemäß über das Werk. »Ja, was
+                        Teufel! man weiß da, woran man sich zu halten hat: die Gründlichkeit und
+                        Beharrlichkeit, womit die Sache bis in's Kleinste verfolgt ist, zeigt, daß
+                        es lediglich nur um die reine Wahrheit und nicht darum zu thun, zu wirken,
+                        um Aufsehen zu erregen.« Ich fühlte die uns im Leben so selten beschiedene
+                        Freude, einen der ersten Geister von einem Irrthum zurückkehren zu sehen,
+                        wodurch er an sich selber untreu geworden war; es konnte keinen
+                        wohlthätigern wahren Beifall für mich geben; ich sagte ihm, wie ich es
+                        erkenne, wie hoch ich den Beifall schätze, von ihm, der diese Kunst
+                        gewissermaßen ein für allemal abgefertigt gehabt, wie sehr mich eine so
+                        ernste, wahrhafte Erkenntniß meines Strebens in der Sache entschädige, für
+                        den oft schmerzhaften, nie aber <pb n="14"/> das Herz erfreuenden, leider
+                        unentbehrlichen Beifall der großen Welt, zumeist der Fürsten, die gewöhnlich
+                        jedem Hanswurst und Schauspieler denselben schenken.</p>
+                    <p rend="indentchar-m4n0"> Ich sprach, wie eben meine Stimmung mir es eingab;
+                        ich weiß nicht, wie ich die Worte setzte, sie mußten meine Bewegung
+                        kundgeben; denn der Alte wurde ganz gerührt davon, drückte mir die Hand und
+                        fiel mir um den Hals; das Wasser stand ihm in den Augen.</p>
+                </div>
+            </div>
+            <pb n="16"/>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">532.</num></head>
+                
+                <head><date>1811, 11. Mai.</date></head>
+                <head>Mit <persName>Sulpiz Boisserée am Hof</persName></head>
+
+                <p rend="indentchar-m4n0">Am Samstag hatten wir unsere große Ausstellung bei Hofe
+                    ..... Goethe in seiner Hofuniform half mir redlich zu dieser ganzen Einrichtung
+                    mit eigener Hand und war höchst glücklich, daß die Sache sich so gut machte. Wir
+                    waren kaum mit unseren Anstalten fertig, als die Herzogin hereintrat; sie hatte
+                    ein Frühstück zurichten, auch viele Personen dazu einladen lassen.</p>
+                <p rend="indentchar-m4n0">
+                    <pb n="17"/> Da kamen nach und nach die Großfürstin, mehrere Damen und einige
+                    Herren vom Hofe, worunter sich auch Wieland fand, dem ich vorgestellt wurde;
+                    dann später der Herzog mit dem Herzog von Coburg, der Erbprinz und der Prinz von
+                    Coburg, etwa 25 bis 30 Personen. Es war ein rechtes Glück, daß ich mich auf
+                    diesen Wirrwarr vorgesehen und die Zeichnungen vertheilt hatte; ich mußte
+                    unaufhörlich Red und Antwort geben, und Goethe half von seiner Seite da, wo ich
+                    nicht sein konnte, so gut, als er es vermochte; denn seine Würde machte ihn in
+                    dieser Umgebung etwas steif und vielleicht verlegen. Er nöthigte mich auch,
+                    meine neugriechischen Architekturzeichnungen und was ich sonst noch von
+                    Kupferstichen hatte, alles herauszukramen und gab den fürstlichen Personen immer
+                    kurze Winke, wie merkwürdig und wichtig das alles sei.</p>
+                <p rend="indentchar-m4n0"> – – – – – – – – – – – –</p>
+                <p rend="indentchar-m4n0">
+                    <milestone unit="testimony" spanTo="#graef_1127_end" xml:id="graef_1127"
+                    /><rs>Cornelius Zeichnungen</rs>, die den Beschluß gemacht, hatten allgemein gefallen;
+                    ich benutzte dies, um den Alten wegen einem öffentlichen Urtheil anzugehen,
+                    welches mir doch mit der Hauptzweck war, woraus Cornelius es angelegt. Ich ließ
+                    den alten Herrn das Gewicht seines Einflusses fühlen, und wie er dadurch den
+                    jungen Mann, der nach Italien gehen wolle, unterstützen könne. »Ja, warum
+                    nicht?« war die Antwort; »Zeigen Sie nun erst einmal die Blätter in Leipzig,
+                    vielleicht findet sich da ein Verleger, und ich will meinerseits auch gern etwas
+                    dafür thun.«<anchor xml:id="graef_1127_end"/> Ebenso bereitwillig <pb n="18"/>
+                    zeigte er sich, als ich nach Tisch von meiner eigenen Unternehmung sprach und
+                    ihm den zweideutigen Ruf in's Gedächtniß rief, worin er sich durch Unterdrückung
+                    seiner Rede über den Straßburger Münster [von 1773, die damals in Goethes Werke
+                    nicht aufgenommen war] gesetzt habe; es stehe ihm so gut an, daß er in seinem
+                    Alter für alles von Bedeutung, sei es auch seiner bisherigen Ansicht fremd, doch
+                    immer jugendlich empfänglich geblieben, und es habe ohne Unterschied aller Welt
+                    Freude gemacht, als das noch zuletzt so schön bei den Dürer'schen
+                    Randzeichnungen offenbar geworden. Das gefiel ihm; wir kamen in ein längeres
+                    Gespräch darüber, und er versprach alles. Einige Tage vorher hatte er mir schon
+                    einmal gesagt: bei den Durer'schen Zeichnungen habe er recht erfahren, daß es
+                    gut sei, wenn man alt würde, hätte er doch sonst den Dürer gar nicht eigentlich
+                    kennen gelernt.</p>
+                <p rend="indentchar-m4n0"> Die Anwendung auf die Baukunst sprach er nicht aus, aber
+                    er hat mir in jedem Stück nur zu sehr gezeigt, wie es ihm auch hier wieder lieb
+                    war, daß er alt geworden, weil er sonst das altdeutsche Bauwesen nie recht
+                    kennen gelernt hätte.</p>
+            </div>
+            <pb n="24"/>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">546.</num></head>
+                
+                <head><date when="1811-07-30">1811, 30. Juli.</date></head>
+                <head>Mit <persName>Charlotte von Schiller</persName></head>
+
+                <p rend="indentchar-m4n0">Obgleich der Brief nicht so schnell fort soll, so wird er
+                    doch geschrieben, weil des Meisters zärtlicher Gruß auf dem Papier stehen soll,
+                    und heute noch. <milestone unit="testimony" spanTo="#graef_1133_end"
+                        xml:id="graef_1133"/>Diesen Morgen kam er zu mir und war gar freundlich und
+                    mild und mittheilend. Er fragte nach Ihnen, <pb n="25"/> meine gnädigste Prinzeß
+                    [Caroline von Mecklenburg-Schwerin], recht theilnehmend; da sagte ich ihm, daß
+                    ich Ihnen etwas aus den Memoires [»Aus meinem Leben«] vertraut hätte. Da war er
+                    recht weich und sagte mit aller Tiefe und Güte seines Gemüths, ich sollte Ihnen
+                    von ihm viel Herzliches sagen. Ich sage es gerade so, wie er es gesagt hat. Ich
+                    habe neulich wieder den kleinen Kunstroman in den »Propyläen« gelesen:
+                    »Sammler«. So etwas Graziöses und Heiteres und Verständiges in dieser Art giebt
+                    es nicht wieder. Das sagte ich ihm; das freut ihn sehr, und ich fühlte, daß es
+                    ihn bewegte und freute. Caroline und ich sollen zu ihm kommen und die
+                    <rs>Zeichnungen aus dem »Faust« [von Nauwerk und Natzeburg]</rs> sehen, die, wie ich
+                    höre, meine allergnädigste Prinzeß Sich an eignen will.<anchor
+                        xml:id="graef_1133_end"/></p>
+            </div>
+            <pb n="129"/>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">610.</num></head>
+                
+                <head><date>1814, 29. Mai.</date></head>
+                <head>Bei <persName>Goethe in Berka</persName></head>
+
+                <p rend="indentchar-m4n0">Wir [F. v. Müller und Riemer] tafelten lange bei Goethe.
+                    Er schien mir sehr angegriffen durch den Gedanken an das bevorstehende Duell
+                    seines Sohnes. <milestone unit="testimony" spanTo="#graef_1153a_end"
+                        xml:id="graef_1153a"/>Seine Unzufriedenheit über <rs>der Frau von Staël Urtheile
+                    über seine Werke</rs> brach lebhaft hervor. Sie habe Mignon bloß als Episode
+                    beurtheilt, da doch das ganze Werk dieses Charakters wegen geschrieben sei.
+                    Meister müsse nothwendig so gährend, schwankend und biegsam erscheinen, damit
+                    die andern Charaktere sich an und um ihn entfalten könnten, weßhalb auch
+                    Schiller ihn mit Gil Blas verglichen habe. Er sei wie eine Bohnenstange, an dem
+                    sich der zarte Epheu hinaufranke. Die Staël habe alle seine, <rs>Goethes,
+                    Productionen abgerissen und isolirt betrachtet, ohne Ahnung ihres inneren
+                    Zusammenhangs, ihrer Genesis</rs>.<anchor xml:id="graef_1153a_end"/> Daher sei ihre
+                    Kritik über Schiller so viel besser, weil dessen allmähliche Ausbildung in der
+                    chronologischen Folge seiner Stücke klar vorliege.</p>
+                <pb n="130"/>
+                <p rend="indentchar-m4n0"> Riemer mußte den für Halle entworfenen Prolog und das
+                    Lobspiel auf Reil vorlesen. Auch von dem unternommenen Stück zu des Königs von
+                    Preußen Empfang in Berlin wurde gesprochen.</p>
+            </div>
+            <pb n="144"/>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">620.</num></head>
+                
+                <head><date>1814, zwischen 24. September und 9. October.</date></head>
+                <head>In Heidelberg</head>
+
+                <div>
+                    <head> a. </head>
+                    <p rend="indentchar-m4n0">Nun laß mich Dir [Dr. Schmitz] von Goethe erzählen;
+                        daß er volle vierzehn Tage bei uns [den Brüdern Boisserée] gewohnt hat,
+                        wirst Du wissen, daß wir aber durch diesen längern Umgang, der in jeder
+                        Hinsicht sehr lehrreich und erfreulich für uns war, sein ganzes Vertrauen
+                        erworben und ein sehr enges Verhältniß mit ihm geknüpft haben, weißt Du noch
+                        nicht. Es ist die Rede davon, über unsere Sammlung, über unser Bemühen um
+                        das altdeutsche Bauwesen, und über die Art und Weise, wie wir dazu gekommen,
+                        eine eigene kleine Schrift zu schreiben. »Ei der Teufel« (sagte er mir
+                        mehrmal), »die Welt weiß noch nicht, was Ihr habt, und was Ihr wollt, wir
+                        wollen's ihr sagen, und wir wollen ihr, weil sie es doch nun einmal nicht
+                        anders verlangt, die goldenen Äpfel in silbernen Schalen bringen; wenn ich
+                        nach Haus komme, mache ich ein Schema, das schicke ich Euch, damit Ihr Eure
+                        Bemerkungen dazu machen und sehen könnt, was für Materialien mir allenfalls
+                        noch abgehen, die schickt Ihr mir, die Redaction behalte ich, und es müßte
+                        seltsam zugehen, wenn wir nicht etwas recht Schönes zu Stande brächten; es
+                        ist schwer, so was zu schreiben, aber ich weiß den Weg ins Holz, laßt mich
+                        nur machen, um Ostern komme ich wieder,<pb n="145"/> dann bringe ich es mit,
+                        und ist's Euch recht, so lassen wir es bei Mohr und Zimmer drucken.«</p>
+                    <p rend="indentchar-m4n0"> Ich theile Dir hier nur das Resultat, und zwar recht
+                        in Bausch und Bogen mit; denn sonst hätte ich Dir so viel zu schreiben, daß
+                        ich nicht fertig würde, Du kannst Dir nun das Übrige ziemlich denken. Um
+                        recht zu begreifen, welchen gewaltigen Eindruck unsere Bilder auf den alten,
+                        rüstigen Freund gemacht haben, mußt Du wissen, daß er nie einen Johann van
+                        Eyck, und überhaupt außer Cranach und wenige Dürer keine altdeutschen Bilder
+                        gesehen hatte. »Ach Kinder,« rief er fast alle Tage aus, »was sind wir dumm,
+                        was sind wir dumm! wir bilden uns ein, unsere Großmutter sei nicht auch
+                        schön gewesen; das waren andere Kerle als wir, ja Schwernoth! die wollen wir
+                        gelten lassen, die wollen wir loben und abermals loben! Die verdienen, daß
+                        Fürsten und Kaiserinnen, daß alle Nationen kommen, und ihnen huldigen!« –
+                        Jeden Tag, nur einige, wo wir uns mit dem Bauwesen beschäftigten,
+                        ausgenommen, war er morgens um acht Uhr im Bildersaal und wich nicht von der
+                        Stelle, bis zur Mittagszeit, da wurde dann alles besprochen, und mußten wir
+                        ihm alles Geschichtliche und unsere Ansichten und Bemerkungen sagen, wogegen
+                        wir die seinigen hörten. Er war mit unsrer ruhigen, philosophisch-kritischen
+                        Betrachtung der Kunstgeschichte sehr zufrieden, und ich kann sagen, daß ich
+                        über den Gang der Kunstgeschichte recht viel von ihm gelernt habe. So wie
+                        wir jetzt mit einander stehen, <pb n="146"/> denke ich noch manches von dem
+                        alten Meister zu lernen, besonders im Schreiben; ich habe schon mit ihm
+                        darüber gesprochen, und ich werde ihm nächstens den Entwurf zu einer
+                        Abhandlung schicken, damit er mir seine Bemerkungen macht.</p>
+                </div>
+                <div>
+                    <head>b.</head>
+                    <p rend="indentchar-m4n0">Wie Goethe sich in die farbenprächtige und
+                        wahrheitsvolle Idealwelt dieser altdeutschen Bilder [der Boisserée'schen
+                        Sammlung], in die überraschende Ursprünglichkeit ihrer Gedanken hineinlebte
+                        und über die empfangenen Eindrücke sich äußerte, ist für den alten Herrn im
+                        hohen Grade charakteristisch. Er betrachtete die Bilder nicht wie sie eins
+                        neben dem andern an der Wand hingen, er ließ sich immer nur eins,
+                        abgesondert von den andern, auf die Staffelei stellen und studirte es, indem
+                        er es behaglich genoß und seine Schönheiten, unverkümmert durch fremdartige
+                        Eindrücke von außen, sei es der Bilder oder Menschenwelt, in sich aufnahm.
+                        Er verhielt sich dabei still, bis er des Gesehenen, seines Inhalts und
+                        seiner tieferen Beziehungen Herr zu sein glaubte, und fand er dann Anlaß,
+                        Personen, die er liebte und schätzte, gegenüber seinen Empfindungen Ausdruck
+                        zu geben, so geschah es in einer Weise, die alle Hörer zwang. – Es war vor
+                        dem Bilde der Anbetung der heiligen drei Könige [von Johann Schwarz?], das
+                        damals für einen Van Eyck galt, da sagte er: »Das ist lauter Wahrheit und
+                        Natur; man kann von der <pb n="147"/> Ruine zum Bilde und umgekehrt vom
+                        Bilde zur Schloßruine wandern und fände sich hier wie dort in gleich ernster
+                        Art angeregt und gehoben.« – »Da hat man nun,« äußerte er ein ander Mal,
+                        »auf seine alten Tage sich mühsam von der Jugend, welche das Alter zu
+                        stürzen kommt, seines eignen Bestehens wegen abgesperrt, und hat sich, um
+                        sich gleichmäßig zu erhalten, vor allen Eindrücken neuer und störender Art
+                        zu hüten gesucht, und nun tritt da mit einem Male vor mich hin eine ganz
+                        neue und bisher mir ganz unbekannte Welt von Farben und Gestalten, die mich
+                        aus dem alten Gleise meiner Anschauungen und Empfindungen herauszwingt –
+                        eine neue, ewige Jugend; und wollte ich auch hier etwas sagen, es würde
+                        diese oder jene Hand aus dem Bilde herausgreifen, um mir einen Schlag ins
+                        Gesicht zu versetzen, und der wäre mir wohl gebührend.« ..... – »Wie ganz
+                        anders muß zu Eyck's Zeit,« sagte er, »das Kunstleben und die Kunstliebe
+                        geblüht haben! Jetzt verschlingt der schlechte Luxus alles.« Und vor dem
+                        Bilde des Todes der Maria, das man für einen Jan Schoorel hielt, bemerkte er
+                        treffend: »aus dem schlägt uns die Wahrheit wie mit Fäusten entgegen!« – Die
+                        Bezeichnung »byzantinisch-niederrheinisch«, welche Goethe auf diese Bilder,
+                        namentlich das der heiligen Veronica anwandte, war nur eine unglückliche,
+                        keineswegs eine solche, wie man hat behaupten wollen, die ihn verhindert
+                        hätte, das Richtige zu erkennen; er nannte eben byzantinisch, was eine
+                        spätere, <pb n="148"/> kaum weisere Schulsprache mit »romantisch« glaubte
+                        benennen zu müssen, und mit den bestimmtesten Worten sprach er es ebenso
+                        mündlich aus, wie er es schriftlich im 1. Heft von »Kunst und Alterthum«
+                        wiederholt gethan hat, daß in diesen Kölnischen und andern niederrheinischen
+                        Bildern eine Kunstentwickelung von solcher Selbständigkeit und so sehr von
+                        ächt deutschem Sinn und Ursprung gegeben sei, daß wir nicht nöthig hätten,
+                        italienischen oder andern fremdländischen Einfluß anzunehmen. In jenen
+                        geweihten Augenblicken, wo er vor den Bildern saß, ließ Goethe sich nur
+                        ungern durch Besuche stören, denen er ein tieferes Interesse daran nicht
+                        zutraute, und wie schätzbar die Personen ihm sonst auch sein mochten, er
+                        suchte sich ihrer auf irgend eine zulässige Art zu entledigen. Wenige Tage
+                        nach seiner ersten Ankunft (es wird am 26. September gewesen sein), ließ
+                        Frau v. Humboldt sich bei den Boisserées melden, als eben Goethe in der
+                        Sammlung vor dem Bilde des heiligen Lukas, der die Madonna mit dem Kinde
+                        malt [von van Eyck], saß. »Es steht Ihnen eine Überraschung bevor,« sagte
+                        Bertram, als er zu Goethe ins Zimmer trat. »Eine Überraschung? Herr! Sie
+                        wissen, wie sehr ich die Überraschungen liebe. Wer ist es?« »Frau v.
+                        Humboldt!« »F-r-a-u v-o-n H-u-m-b-o-l-dt? Sie möge kommen!« Und dabei
+                        veränderte sich Goethes Gesicht von oben bis unten, indem es die
+                        langweiligste Grimasse annahm, Frau v. Humboldt öffnete die Thüre, und <pb
+                            n="149"/> die Arme ausbreitend rief sie: »Goethe!« Dieser erhob sich
+                        ruhig von seinem Sessel, bat sie, sich neben ihn zu setzen. »Wissen Sie, wie
+                        man Salmen fängt?« fragte er. »Nein!« erwiderte ganz verwundert über solchen
+                        Empfang Frau v. Humboldt. »Mit einem Wehr fängt man sie,« fuhr er fort.
+                        »Sehen Sie! solch ein Wehr haben diese Herren« (auf Boisserées zeigend) »mir
+                        gestellt, und sie haben mich gefangen. Ich bitte Sie: machen Sie sich
+                        schnell auf und davon, daß es Ihnen nicht geht, wie mir. Ich bin nun einmal
+                        gefangen und muß hier sitzen bleiben und anschauen, aber das wäre nichts für
+                        Sie. Machen Sie also, machen Sie, daß Sie fortkommen.« – Frau v. Humboldt,
+                        die nicht gekommen war, Bilder anzuschauen, sondern in dem großen Mann einen
+                        alten Bekannten zu begrüßen und mit ihm zu plaudern, sah sich wider ihren
+                        Willen gleichsam zur Thür hinausgeschoben und entfernte sich, worauf Goethe
+                        zu seinen Freunden sagte: »Nun kommen Sie! Jetzt soll uns nichts mehr
+                        stören.« Doch verschmähte es Goethe nicht, die Huldigung der geistreichen
+                        Frau bei gelegenerer Zeit anzunehmen, als er in den nächstfolgenden Tagen
+                        zweimal bei ihr in Abendgesellschaft erschien.</p>
+                    <p rend="indentchar-m4n0"> Wiederholt war Goethe auch im Hause bei Voß, dem
+                        Übersetzer des Homer, den er vor vielen hochschätzte. Die schlichte
+                        Gutmüthigkeit der Hausfrau des berühmten Professors gab Anlaß zu manchem
+                        launigen Scherz. Goethe folgte ihr überall hin willig, als sie ihn bei <pb
+                            n="150"/> seinem ersten Besuch an allen Orten und Enden ihres Hauses
+                        herumführte und ihm auch das unbedeutendste Winkelchen, zuletzt selbst den
+                        Gänsestall unter der Treppe zeigte. »Sie sind ja nun einmal ein Mann, der in
+                        allen Dingen Bescheid weiß,« sagte sie, als er das nächste Mal wiederkam,
+                        »und so mögen Sie denn auch einen Streit schlichten, der zwischen mir und
+                        meinem Mann über ein Stück Camelot entstanden ist.« »Nun, so bringen Sie das
+                        Zeug her!« rief Goethe. Sie brachte es, indem sie bemerkte: »Mein Mann will
+                        einen Schlafrock daraus haben und ich einen Vorhang für sein Büchergestell;
+                        ich halte das letztere für nöthiger, weil die Bücher durch den Staub zu
+                        Grunde gehn.« »Ei was!« erwiderte Goethe, »was zanken Sie sich darum!
+                        Theilen Sie das Stück und machen Sie Ihrem Mann statt des Rocks nur ein
+                        Camelotjäckle, und aus dem andern Stück können Sie ein Vorhängle für die
+                        Bücher machen.«</p>
+                    <p rend="indentchar-m4n0"> Bald darauf kam Voß zu den Boisserées, als sich
+                        gerade Goethe im Bildersaal befand. Man meldete diesem seine Ankunft. »Laßt
+                        ihn nur herein!« rief Goethe; »dem will ich sein Camelot anstreichen!« Als
+                        Voß eingetreten war, begann Goethe mit ihm angesichts der Bilder über den
+                        Unterschied der bildenden und dichtenden Kunst zu sprechen, wobei gar
+                        manches geistreiche und treffende Wort gewechselt wurde, und zwar soll, was
+                        Goethe bei dieser Gelegenheit über Wesen und Zweck der bildenden Kunst
+                        sagte, über alle Beschreibung <pb n="151"/> köstlich gewesen sein. Er
+                        erkannte halb im Scherz, halb im Ernst der bildenden Kunst den Vorzug zu,
+                        indem er fortfuhr: »Ich bin ein großer Freund von Homer, das wissen Sie, und
+                        von Ihnen kann ich ein Gleiches sagen. Wenn Sie nun heute damit zu mir
+                        kommen, so bin ich es auch zufrieden und höre es abermals an, wenn Sie aber
+                        das dritte Mal kommen, so sage ich: Laufen Sie zum Teufel! Schenkt man Ihnen
+                        aber einen ächten Raphael, oder auch nur eine gute Copie eines solchen, so
+                        hängen Sie das Bild gewiß dahin, wo Sie es alle Tage sehen können, und Sie
+                        werden es, sooft Sie davortreten, mit immer neuem Vergnügen betrachten. Das
+                        ist der Unterschied der Poesie und der bildenden Kunst, daß diese auf solche
+                        Weise immer neu, frisch und lebendig vor unsre Sinne tritt.« Voß wußte
+                        hierauf nichts zu antworten. »Wäre ich an seiner Stelle gewesen,« sagte
+                        Goethe, indem er dies erzählte, »ich würde schon gewußt haben, was ich
+                        antworten soll.«</p>
+                </div>
+                <div>
+                    <head>c.</head>
+                    <p rend="indentchar-m4n0">Bertram ..... wußte auch sonst wohl gar manches
+                        lustige Geschichtlein von Goethe ... zu erzählen, das dem Gedächtniß
+                        erhalten zu werden verdient ..... Jeden Abend, erzählte Bertram, ließ Goethe
+                        seinen Bedienten zu sich auf die Stube kommen, um Rechnung mit ihm
+                        abzuhalten über alle Ausgaben des Tags, die größten wie die kleinsten, und
+                        für den folgenden Tag <pb n="152"/> den vorläufigen Etat im Ausgabebuch
+                        festzustellen. Als Bertram über diese haushälterische, dem Materiellen
+                        zugewendete Sorgfalt des Dichters seine Verwunderung äußerte, sagte Goethe:
+                        »Wenn die Prosa abgethan ist, kann die Poesie um so lustiger gedeihen. Man
+                        muß sich das Unangenehme vom Halse schaffen, um angenehm leben zu können,
+                        und der Schlaf bekommt nur um so besser.«</p>
+                    <p rend="indentchar-m4n0"> – – – – – – – – – – – – – –</p>
+                    <p rend="indentchar-m4n0"> Aus den früheren Mittheilungen wissen wir, daß Goethe
+                        in Heidelberg allmorgendlich die Schloßruine besuchte. Dorthin wünschte er
+                        gleich am andern Tage nach seiner Ankunft [25. September] geführt zu werden,
+                        doch so, daß es kein Aufsehen errege, da man ihm, wie er vernommen, schon
+                        überall auflaure. Die Boisserées versprachen ihn durch den Thibaut'schen
+                        Garten dorthin zu bringen, was auch geschah. Sie begleiteten ihn ein Stück
+                        Weges hinauf und ließen ihn dann allein, wie es sein Wunsch war. Inzwischen
+                        hatte oben auf der Bank schon ein anderer Gast platzgenommen; dies war
+                        Schwarz, der Geheime Kirchenrath und Verfasser des bekannten Werkes über die
+                        Erziehungslehre, der zufälligerweise erfahren hatte, daß Goethe in
+                        Heidelberg sei und früh die Schloßruine besuchen wolle. Er war ihm auf diese
+                        Weise zuvorgekommen, und als Goethe erschien, redete er denselben auch
+                        sogleich an und pries sich glücklich, ihn endlich zu sehen und fragen zu
+                        können, was er denn eigentlich mit dem »Wilhelm Meister« <pb n="153"/>
+                        beabsichtigt habe; er habe ihn gewiß für ein Erziehungsinstitut geschrieben.
+                        Goethe, der dem unzeitigen Frager nicht ausweichen konnte, fügte sich in das
+                        Unvermeidliche, indem er erwiderte: »Das habe ich bisher selbst nicht
+                        gewußt, doch nun leuchtet es mir vollkommen ein; ja, ja! ich habe den
+                        ›Wilhelm Meister‹ für ein Erziehungsinstitut geschrieben, und ich bitte Sie,
+                        dies ja überall in der Welt bekannt zu machen.« – Schwarz war entzückt über
+                        die neue Entdeckung und lief sogleich in ganz Heidelberg umher, um seinen
+                        Bekannten mitzutheilen, daß Goethe nun wisse, warum er den »Wilhelm Meister«
+                        geschrieben habe.</p>
+                    <p rend="indentchar-m4n0"> Goethe pflegte in Heidelberg die Sonnenuntergänge von
+                        der Höhe einer Pfarrei herab zu beobachten und bei dieser Gelegenheit seinen
+                        Gefühlen im Anblick des erhabenen Naturschauspiels dem ihn begleitenden
+                        Freunde Sulpiz Boisserée gegenüber in der ergreifendsten Weise Ausdruck zu
+                        geben. Man wußte das in der Stadt. Als nun eines Abends Goethe wieder einmal
+                        mit seinem Freunde die Höhe hinanstieg, um die Sonne untergehen zu sehen,
+                        hatten ein paar Frauenzimmer, die ihn dabei zu belauschen wünschten, sich
+                        hinter das Gebüsch versteckt. Goethe bemerkte sie, that aber nicht, als ob
+                        dies der Fall sei, und als er oben angekommen war, begann er einen so
+                        abschreckenden Sermon über das Altwerden der Sonne, die anfange, fahl und
+                        bleich auszusehen, daß es nicht lange dauerte, und die Gestalten hinter dem
+                        Busch waren verschwunden. Nie <pb n="154"/> war, erzählte Sulpiz später
+                        seinen Bekannten, Goethe größer, seelenvoller in seinen Betrachtungen, als
+                        an diesem herrlichen Abende, nachdem die unberufenen Lauscherinnen sich
+                        entfernt hatten.</p>
+                    <p rend="indentchar-m4n0"> Wir wissen aus Goethes eignen Bekenntnissen, daß er
+                        jede Maske, auch die des liberalistischen Indifferentismus annehmen konnte,
+                        um sich dahinter gegen Pedantismus und Dünkel zu schützen. »Es kommt nur auf
+                        mich an,« sagte er eines Tags bei den Boisserées, »mit jeder Gesellschaft,
+                        wie sie auch sei, in guter Art fertig zu werden. Vermuthe ich in ihr
+                        einfältige und dumme Leute, so stelle ich mir vor, daß es lauter geistreiche
+                        seien, dann erhebe ich sie zu mir und zwinge sie, auch ihren Geist leuchten
+                        zu lassen; und umgekehrt, wenn ich zu jemandem komme, der sich einbildet,
+                        mehr zu sein und zu wissen, als die andern Menschenkinder, dann denke ich
+                        mir das Gegentheil und behandle ihn auch so, indem ich ihn beschäme und
+                        nöthige, seine Nase nicht mehr so hoch zu tragen.«</p>
+                    <p rend="indentchar-m4n0"> Goethe suchte alles, was in Leben und Dichtung ihm
+                        entgegentrat, möglichst unter dem ästhetischen Gesichtspunkt zu fassen.
+                        »Wenn etwas auch nicht schön ist,« pflegte er zu sagen, »so müssen wir doch
+                        soviel Phantasie haben, es schön zu finden.«</p>
+                    <p rend="indentchar-m4n0"> Zudringlichkeit und Hochmuth waren ihm so verhaßt,
+                        als Gespreiztheit und Ziererei. Als Frau v. Humboldt in geselligem Kreise
+                        ihn fragte, ob sie ihm nicht ihr Töchterlein vorführen dürfe, die gerade
+                        etwas <pb n="155"/> declamiren wollte, brummte er ein verdrießliches »Ja!«
+                        Die Kleine trat auf und declamirte mit vieler Selbstgefälligkeit Stücke aus
+                        der »Jungfrau von Orleans« und »Maria Stuart«. Goethe saß dabei, mürrischen
+                        Gesichts vor sich hinsehend, ohne ein Wort zu sagen. Als sie fort waren,
+                        rief er: »Welche Unverschämtheit! wäre dieser kleine Balg nicht werth, daß
+                        man ihm die Ruthe applicirte? Stellt sie sich so keck vor mich hin und
+                        declamirt mir diese Geschichten vor!«</p>
+                    <p rend="indentchar-m4n0"> Einst war Goethe zu Voß eingeladen. Als sie bei Tisch
+                        saßen, wird Voß herausgerufen, und führt verabredetermaßen einen jungen
+                        Dichter, Kunz mit Namen, der für Almanachs gearbeitet hatte, herein, stellt
+                        ihn vor und setzt ihn neben Goethe. Dieser Kunz war, ich weiß nicht mehr aus
+                        welchem kleinen Staate. Goethe ergriff das Wort und sagte: »Nun, Ihr Fürst
+                        ist ein strenger Herr: es soll schwer halten, dort einen Paß zu bekommen.
+                        Könnten Sie mir wohl einen solchen zeigen?« »O ja wohl! Sehr gern!« Und
+                        damit holte Kunz aus der Seitentasche seines Rockes den Paß. »Bitte, leihen
+                        Sie mir ihn bis morgen!« sprach Goethe; »es ist doch ein merkwürdiges Stück;
+                        das muß ich ein wenig sorgfältiger mir anschauen.« Wer war glücklicher, als
+                        der junge Dichter? Er sah sich schon bei Goethe, eingeladen von ihm und
+                        seines Schutzes theilhaftig. »Wissen Sie,« sagte Goethe später zu einigen
+                        seiner Gäste, die sich über diese Paßliebhaberei wunderten, »warum ich mir
+                        das Papier geben ließ? <pb n="156"/> Ich sah aus Kunz's andrer Rocktasche
+                        ein Packet Gedichte gucken, und lieber wollte ich den Paß lesen, als
+                        die.«</p>
+                    <p rend="indentchar-m4n0"> Goethe las sehr gut, aber selten vor; es war daher
+                        großer Jubel im Hause bei den Boisserées, als er ihnen ankündigte, daß er in
+                        der nächsten Abendgesellschaft etwas von sich vorlesen wolle. Melchior
+                        meldete dies Bertram mit dem Bedeuten, daß er dabei erscheinen müsse.
+                        Bertram antwortete: »Laßt mich nur machen!« und begab sich zu Goethe, indem
+                        er sagte: »Muß ich heut Abend erscheinen?« »Muß ich heut Abend erscheinen –
+                        was heißt das?« fragte dieser. »Ich muß Ihnen gestehen, Herr Geheimrath,«
+                        erwiderte Bertram, »daß Sie mir keinen größeren Possen spielen können, als
+                        wenn Sie etwas vorlesen: ich habe keine Ruhe dazu, es mit anzuhören.« »Gehen
+                        Sie ohne Gewissensbisse in pace!« antwortete Goethe, indem er die Arme zu
+                        einem Kreuze übereinander legte.</p>
+                    <p rend="indentchar-m4n0"> Der Professor des Civil- und Criminalrechts Christoph
+                        Reinhard Martin in Heidelberg hatte einen schönen Garten, wohin Goethe öfter
+                        kam, als er sich in jener Stadt aufhielt. Sie saßen beide im Gartenhause;
+                        Martin klagte, daß man die schönen hohen Waldbäume in der Nähe seines
+                        ländlichen Sitzes auf Befehl der Regierung habe abschlagen lassen und hielt
+                        letzterer gerade keine Lobrede. »Wie lange dauert es denn,« fragte Goethe,
+                        »bis die Bäume wieder herangewachsen sind?« »Ja, eben das ist's! Mindestens
+                        zwanzig <pb n="157"/> bis fünfundzwanzig Jahre,« antwortete Martin. »Nun!«
+                        sagte Goethe, »dann haben Sie ja noch lange Zeit, um sich wieder zu
+                        ärgern.«</p>
+                </div>
+                <div>
+                    <head>d.</head>
+                    <p rend="indentchar-m4n0">Du [Frh. v. Truchseß] forderst einen Jubelbrief über
+                        Goethe, aber den kann ich nun nicht mehr schreiben, da die Jubelperiode
+                        vorüber ist und der Jubelsenior fern. Das hätte unter seinen Augen geschehen
+                        müssen. Goethe ist volle vierzehn Tage bei uns gewesen und hat bei den
+                        Brüdern Boisserée, eigentlich wohl bei ihren Gemälden gewohnt. Sein erster
+                        Besuch war bei meinen Eltern, und er kam so freundlich und zutraulich wie in
+                        den ersten Jenaer Zeiten. Am folgenden Tage gingen die Schmausereien an, und
+                        wenn so was im Gang ist, hört es nicht auf. Auch wir Professoren nebst einem
+                        Anhange von Beamten, Ärzten u.s.w. gaben ihm einen gemeinschaftlichen
+                        Schmaus im Karlsberge. So hat ihn denn jeder nach Herzenslust sehn können;
+                        genossen haben ihn nur wenige; denn beim Essen und Trinken, besonders wo
+                        Gaffer herumstehn, ist Goethe ein Mann wie unsereins. Nur zweimal kam ich
+                        dazu, ein trauliches Wort mit ihm zu sprechen, und sah zu meiner Freude, daß
+                        er mir und meinem Treiben noch hold ist. Besonders herzlich war er gegen
+                        mich, als ich ihm am Tage vor seiner Abreise [also 8. October] einen
+                        Morgenbesuch machte. Wir sprachen viel über Calderon. Auch er ist entzückt
+                            <pb n="158"/> von Gries' Übersetzung; auch er bewundert mehr das
+                        wollüstige Farbenspiel, als die Charakteristik Calderon's, in der er weit
+                        unter Shakespeare stehe. In den Intriguenstücken sei er besonders Meister,
+                        und hier müsse der Deutsche noch recht bei ihm in die Schule gehn.</p>
+                    <p rend="indentchar-m4n0"> Daß die Heidelberger über Goethe entzückt sind,
+                        versteht sich. Alt und jung preist seine Leutseligkeit, und jeder verwahrt
+                        sorgfältig die ihm zugeworfenen Geistesbrocken, wenn sie auch noch so mager
+                        sind. Sogar mein College <milestone unit="testimony"
+                            spanTo="#graef_1155_end" xml:id="graef_1155"/>Moser, der aus einem
+                        deutschen Barbier ein lateinischer Professor der Medicin geworden, ist
+                        seines Gespräches gewürdigt. »Wir haben <rs>über den ›Faust‹ gesprochen</rs>,« sagte
+                        er mir.<anchor xml:id="graef_1155_end"/> »Und ich mit ihm über die
+                        Feldmäuse,« antwortete ich ganz ernsthaft. Ein anderer, ein Mann von
+                        Geschmack und ästhetischer Bildung, fing an über den Barbarismus zu
+                        radotiren, womit die Handschuchsheimer den schönen Heiligenberg
+                        niedergeholzt hätten. »Beruhigen Sie sich,« sagte Goethe; »in einigen Jahren
+                        ist er wieder grün, und dann hat Ihr Ärger volle 22 Jahre Ruhe; denn so
+                        lange muß er nach forstlichen Regeln schon grün bleiben.« Der Philister
+                        guckte Goethen an und schien an seinem Geschmacke ganz irre zu werden. – Daß
+                        Goethe sich mit manchen zu seiner Gemüthsergötzung unterhalten hat, ahndet
+                        mancher nicht. Andere dienten dazu, seinen Schatz von Menschenkenntniß zu
+                        erweitern, oder seine Phantasie mit irgend einer Personage für ein
+                        zukünftiges Fastnachtsspiel zu bereichern.</p>
+                </div>
+            </div>
+            <pb n="182"/>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">631.</num></head>
+                
+                <head><date when="1815-08-02">1815, 2. August.</date></head>
+                <head>Mit <persName>Sulpiz Boisserée</persName></head>
+
+                <p rend="indentchar-m4n0">Mittags kam ich [in Wiesbaden] zu Goethe; es war ein
+                    fröhlicher, herzlicher Empfang. Stein hatte ihn ersucht, an Hardenberg ein
+                    Memoire zu schreiben über die Kunst und die antiquarischen Angelegenheiten;
+                    darüber wollte er mich berathen. Er ging gleich darauf ein, daß es geradezu,
+                    ohne Steins Veranlassung zu erwähnen, geschehen müsse, um dem nächsten
+                    Parteiwesen zu entgehen. Ich erzählte ihm, wie er bei Hardenberg gut
+                    angeschrieben sei, nach den Äußerungen von Jordan, im Hauptquartier, über sein
+                    politisches Benehmen. Goethe ging gleich weiter, meinte, er könne ja das Memoire
+                    zugleich an Metternich schicken, er sei ihm ohnehin noch den Dank für den Orden
+                    schuldig. Hauptgrundsatz soll darin sein, daß die Kunstwerke und Alterthümer
+                    viel verbreitet würden, jede Stadt die ihrigen behalte und wieder bekomme, aber
+                    daß dabei geltend zu machen sei, daß ein Mittelpunkt gegeben werde, wovon aus
+                    über das Ganze gewacht würde. »Laßt Düsseldorf wieder etwas haben, wie es in
+                    seinen Sälen aufgestellt <pb n="183"/> war, wozu Alles in München? Laßt Köln,
+                    Bonn, ja Andernach etwas haben! Das ist schön und ein großes Beispiel, daß die
+                    Preußen den Petrus nach Köln zurückgeben. So stellt auch der Ingenieurgeneral
+                    Rauch alle römischen Alterthümer, die bei Köln gefunden werden, in seinem Hause
+                    auf, mit dem festen Willen, daß sie in Köln bleiben sollen.« Vom Domwerk,
+                        <milestone unit="testimony" spanTo="#graef_1161_end" xml:id="graef_1161"
+                    /><rs>von Cornelius, dessen Faust,</rs> von Ruscheweih sehr schön gestochen, er bekommen
+                    habe, soll gesprochen werden;<anchor xml:id="graef_1161_end"/> von Allem, was
+                    Einzelne gethan, und was nun zu erwarten, wenn die Unterstützung der Regierung
+                    zu Hülfe komme. »Gebt nur den Malern und Kunstbeflissenen zu leben und zu thun,
+                    so werden sich schon von selber Schüler bilden. Mit allen Zeichenschulen ist es
+                    doch nichts, es läuft am Ende nur auf Handwerk und Fabrik hinaus; ich weiß ja,
+                    wie es uns in Weimar geht; ich hüte mich wohl, das Jedem zu sagen, aber du
+                    lieber Gott, die Zeichenschule ist nur dazu da, daß die Leute die Kinder aus dem
+                    Hause kriegen, und für die Kinder ist sie nur da, daß sie daran vorbei gehen!
+                    Ich will sie auch wahrhaftig nicht daran hindern, ich weiß, was zu einer
+                    eigentlichen Kunstakademie gehört, aber das sind ganz andere Forderungen, als
+                    man machen kann.«</p>
+                <p rend="indentchar-m4n0"> Ich sprach ihm von einer deutschen Gesellschaft für
+                    Alterthum und Kunst, wo es auf's Sammeln ankomme, und das Bedürfniß der
+                    Gemeinschaft am natürlichsten sei, und wodurch am ersten dergleichen
+                    Zusammenwirken zu Stande zu bringen wäre. Aber freilich müßte es <pb n="184"/>
+                    geschehen, ohne alle äußere Anstalt von Seiten der Regierung; nur Freiheit und
+                    Begünstigung bedürfe man, es müsse sich von selbst machen, da sein, ehe davon
+                    gesprochen würde.</p>
+                <p rend="indentchar-m4n0"> Goethe ging auf Alles ein, erinnerte mich an das, was er
+                    von der englischen Gesellschaft der Naturforscher in der Farbenlehre erzählt hat
+                    u.s.w. Von der Farbenlehre waren wir auf den Magnetismus gekommen; ich hatte ihm
+                    von Schelver erzählt, von Neefs Bekanntschaft mit Major Meyer, und den Papieren
+                    der Frau v. N. »Er hasse dieses Treiben, weil die Menschen es zu weit führen,
+                    und doch sicherlich nie dahinter kommen, darum bekümmere er sich auch gar nicht
+                    darum, und wolle nichts davon wissen. Er ehre und erkenne die Erfahrung an,
+                    damit sei es aber auch abgethan. Es bedürfe, meinte er, fünfzig Jahre, ehe die
+                    Farbenlehre anerkannt werden könne, sie sei nur für die jungen, unbefangenen
+                    Menschen, mit den andern sei nichts anzufangen; die säßen bis an den Hals in
+                    ihrem System, und sei ihnen unbequem, sich einmal auch nur zum Versuch heraus zu
+                    bemühen. Darum sei er auch von Herzen grob gewesen; das gefalle doch wenigstens
+                    der Jugend, die dächte: Ei, der Alte weiß doch sonst auch Bescheid und kennt
+                    seinen Vortheil, er wird doch nicht ins Blaue hinein schelten und verrückt sein,
+                    sondern er muß einen Hinterhalt, Grund und Boden haben, wir wollen das doch
+                    näher betrachten und beleuchten. So kommen sie allmählich in die<pb n="185"/>
+                    Sache hinein; hätte ich es aber gelinder gemacht, so würden mich die jungen
+                    Kerls eben so wenig gehört und gelten gelassen haben. Ich habe mir meine
+                    Blockhäuser in die Physik hinein gebaut, so bei der Farbenlehre, so bei der
+                    Metamorphose der Pflanzen. Da kann mir keiner vorbei, ohne daß ich darauf
+                    schieße; um das Übrige bekümmere ich mich nicht. Jene Lehren habe ich auf
+                    Urphänomene gegründet, da bin ich schon zu Hause. Was hätte und müßte man alles
+                    herausfördern können, wenn man vierzig bis fünfzig Jahre alles was von außen
+                    herkömmt, bei Seite lassen könnte. Was möchte daraus geworden sein, wenn ich mit
+                    wenigen Freunden vor dreißig Jahren nach Amerika gegangen wäre und von Kant
+                    u.s.w. nichts gehört hätte? Was hat nicht der Winterl (in Pest) in der Chemie
+                    geleistet, weil er vierzig Jahre lang Lavoisier und alle neuen Entdeckungen und
+                    Fortschritte rein bei Seite gelassen. Erlebt hat er freilich die Anerkennung
+                    seines Verdienstes nicht, aber jetzt, da er acht Jahre todt ist, kömmt es
+                    allgemein dazu. Es ist eine große Entdeckung von ihm, daß es keine reine Säure,
+                    keine Base gebe, sondern daß man eines für das andere setzen könne. Die Chemie
+                    rückt jetzt mit großen, gewaltigen Schritten nach durch Berzelius, Strohmeier,
+                    Göttling, Döberreiner. Letzterer ein junger Mann in den Dreißigen, in Jena, hat
+                    Winterl in seinem Compendium große Ehre erwiesen; das will etwas sagen von einem
+                    jungen Mann in den Dreißigen, der kann es durchsetzen.«</p>
+                <p rend="indentchar-m4n0">
+                    <pb n="186"/> Dann kam er auf die verschiedene Begabung der Menschen; wie viele
+                    Talente und Genies bleiben durch Verhältnisse unentwickelt und zurückgehalten;
+                    wie viel Dummköpfe dagegen werden durch Verhältnisse, Erziehung und Künstelei in
+                    die Höhe auf Catheder u.s.w. gehoben.</p>
+                <p rend="indentchar-m4n0"> Ich meinte, die menschlichen Gaben seien fast in allen
+                    Zeiten gleich, aber die Zeiten seien ungleich, und die Menschen unter sich
+                    ungleich, und die Verhältnisse. Goethe sagte: ein alter Hofgärtner [J. H.
+                    Seidel] in Dresden habe von selbst die Metamorphose der Pflanzen gefunden, und
+                    habe ihm dann mit Freuden davon erzählt, wie er gemerkt, daß er auch etwas davon
+                    wisse.</p>
+                <p rend="indentchar-m4n0">
+                    <hi rend="italic">Goethe</hi>: Wunderliche Bedingtheit des Menschen auf seine
+                    Vorstellungsart, wie Kant sehr richtig mit Antinomie der Vorstellungsart
+                    ausdrückt; so muß es mir mit Gewalt abgenöthigt werden, wenn ich etwas für
+                    vulkanisch halten soll, ich kann nicht aus meinen Neptunismus heraus; das ist
+                    mir am auffallendsten gewesen am Laacher See und zu Mennig; sehen Sie, das hat
+                    mich so ruhig gelassen, daß ich, wie Abt Spangenberg, hätte sagen mögen: Wir
+                    wünschen der lieben Gemeinde unsere Ruhe und unsern Frieden! Da ist mir nun
+                    Alles so allmählich erschienen, das Loch mit seinen gelinden Hügeln und
+                    Buchenhainen; und warum sollte denn das Wasser nicht auch löcherige Steine
+                    machen können, wie die Bimssteine und die Mennigersteine? Daß das Gewässer, ehe
+                    es sich gesetzt, zuletzt noch einmal große Bewegung <pb n="187"/> gemacht, wie
+                    im ersten Anfang, warum das nicht? Es möchte dem Vulkanismus schwerer fallen,
+                    die Mennigersteine als Lava durchzuführen, und vollständig zu erklären, wie sie
+                    geflossen und dahin gekommen. Ja, wenn von Vulkanen die Rede, wie bei Nemi in
+                    Italien, da bin ich genöthigt, überzeugt und überwältigt, da glaube ich, und
+                    wenn ich einmal einen Vulkan anerkenne und vertheidige, dann will es auch was
+                    heißen; so in Böhmen, da habe ich bewiesen, wie ich mich eines Vulkans annehmen
+                    kann; aber hier hat Hamilton mehr gesehen, als zu sehen war, und dem hat dann
+                    der elende Deluc, der gar nichts davon versteht, nachgeschwatzt. Diese Antinomie
+                    der Vorstellungsart ist es nun, warum wir Menschen nie auf's Reine kommen können
+                    mit einem gewissen Maß von Wissen, sondern immer alte Wahrheiten und Irrthümer,
+                    auf eine neue Weise aussprechen; darum wir über viele Dinge uns nie ganz
+                    verständlich machen können, und ich daher oft zu mir sagen muß: darüber und
+                    darüber kann ich nur mit Gott reden, wie das in der Natur ist, und das; was geht
+                    es nun weiter die Welt an. Sie faßt entweder meine Vorstellungsart, oder nicht,
+                    und im letztern Falle hilft mir alle Menschheit nichts. Darum, über viele Dinge
+                    kann ich nur mit Gott reden.</p>
+                <p rend="indentchar-m4n0"> Dann kamen wir auf die Geschichte von Goethes Ring mit
+                    dem Serapiskopf, worunter die Zahl INI steht. Er hatte dem Ring lange
+                    nachgestellt, konnte<pb n="188"/> ihn lange nicht haben; im März war er unwohl,
+                    ein Freund kömmt: rathen Sie ein Ungeheueres! – »Der jüngste Tag.« – Nein. –
+                    »Napoleon ist entflohen.« – Ja! Den andern Tag kam der Ring. Felix omen:
+                    Napoleon interiit.</p>
+            </div>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">632.</num></head>
+                
+                <head><date when="1815-08-03">1815, 3. August.</date></head>
+                <head>Mit <persName>Sulpiz Boisserée</persName></head>
+
+                <p rend="indentchar-m4n0">Spaziergang von halb elf Uhr bis Mittag, mit Goethe, vor
+                    dem Kursaal, dann Essen daselbst. Nach Tisch spazierten wir am Teich, hinter dem
+                    Kursaal, lustige Leute segeln auf einem Boote.</p>
+                <p rend="indentchar-m4n0"> Es muß nun ein Schema entworfen werden über den
+                    Bericht.</p>
+                <p rend="indentchar-m4n0"> Die Gesellschaft kommt wieder zur Sprache, und daß ich
+                    ganz besonders seit vorigem Jahr meine Gedanken darauf gerichtet, und ihn in
+                    meinem Sinn zum Präsidenten gemacht habe. Gneisenau frug mich früher, warum ich
+                    mich immer zurückgehalten? Aus Mangel an Autorität und des wahren Augenblicks.
+                    Jetzt ist er da, die Sache macht sich ganz von selbst, es sind natürliche
+                    Forderungen. Übertreibungen einerseits, Armuth andererseits.</p>
+                <p rend="indentchar-m4n0"> Der ganze Rhein von Basel herunter muß ins Spiel gezogen
+                    werden, das Elsaß, das Straßburger Münster mit seinem erhaltenen Werk und seiner
+                    Dotation, dagegen der Kölner Dom ganz verarmt ist.</p>
+                <pb n="189"/>
+                <p rend="indentchar-m4n0"> Goethe will seine Werke neu herausgeben, in zwanzig
+                    Bänden. Zwei Bände Gedichte, statt einem. Er spricht über seine Arbeiten. Die
+                    italienische Reise; Einseitigkeit; sein Haß gegen das Deutsche; die gothische
+                    Architektur; gegen das Klima u.s.w. ist darin ausgesprochen. Er hat vollständige
+                    Tagebücher und alle Briefe von den Freunden zurückerhalten, damit einen
+                    vollkommenen Kalender mit Rechnungen, Trinkgelder etc. zu Stande gebracht.
+                    Sicilien wurde kurz vor ihm von Bartels, der es beschreiben wollte, und andern
+                    bereist; Riedesels Buch führte er mit sich, da hatte er nicht die geringste
+                    Berichtigung zu machen. Alles ist aus dem Leben, und der Eindruck des Lebens,
+                    was er in seinen Briefen niedergelegt hat; das macht sich nun einmal hübsch.
+                    Neapel ebenfalls, unendlich heiter. Rom immer mühselig, ernsthaft; dabei nimmt
+                    er die Anleitung von Winckelmanns Geschichte immer zur Richtschnur auf seinen
+                    Wegen.</p>
+                <p rend="indentchar-m4n0"> Die Reise ist meist ausgearbeitet, aber vorher muß noch
+                    der vierte Band von Dichtung und Wahrheit ausgeführt werden, wozu auch viel
+                    daliegt; dieser geht, bis der Verfasser nach Weimar kömmt.</p>
+                <p rend="indentchar-m4n0"> Seine neueste Arbeit ist der Divan. Aneignung des
+                    Orientalismus; Napoleon, unsere Zeit, bieten reichen Stoff dazu. Timur,
+                    Dschengis-Chan, Naturkräften ähnlich, in einem Menschen erscheinend. Die
+                    Freiheit der Form ist abgerissen, einzeln; und doch bringt er von den Alten mehr
+                    Bildung und Bildlichkeit mit. Das <pb n="190"/> ist gerade das Einzige, was den
+                    Orientalen abgeht, die Bilder. Goethe sagt: »In so weit sei er so eitel und
+                    übertrieben, zu sagen, daß er darüber stehe, und das Alte und Neue
+                    verbinde.«</p>
+                <p rend="indentchar-m4n0"> Er las mir eine sinnreiche Introduction, eine Exposition
+                    des ganzen Orientalismus und seines eigenen Verhaltens dazu vor. Dieß letztere
+                    zuerst anfangend, von dem Gegensatz der Zeit, und Trost suchend im Orient.
+                    Talismane, Amulete, Abraxas, Siegelring der Araber. Hafiz, der Korankundige,
+                    wurde zum Eigennamen des Dichters; Goethes Gedicht an ihn vergleicht sich mit
+                    ihm, weil er sich die Bibel angeeignet, wie das göttliche Angesicht sich auf das
+                    Tuch abgedrückt hat.</p>
+                <p rend="indentchar-m4n0"> Gedicht an Diez, Orientalist in Berlin, Herausgeber des
+                    Buchs Kabus, und einer Schrift über die Tulpen, von ihm mit Gold
+                    beschrieben.</p>
+                <p rend="indentchar-m4n0"> An alle Orientalisten sollen solche Lobgedichte
+                    folgen.</p>
+                <p rend="indentchar-m4n0"> Ich erzählte ihm von Palästina, vom Grab der Maria, von
+                    der Verehrung der Mohamedaner dafür. Hadrian ließ die Statuen von Adonis und
+                    Venus auf die Geburtsstätte Jesu stellen. Goethe bemerkte, bei den Mohamedanern
+                    sei Maria die heilige Frau im höhern Paradies; dort auch vier Thiere. Ich
+                    meinte, wohl in Bezug auf die vier Flüsse?</p>
+                <p rend="indentchar-m4n0"> Später klagte er über Unredlichkeit der Schlegel und
+                    Tiecks. »In den höchsten Dingen versiren und daneben Absichten haben und gemein
+                    sein, das ist<pb n="191"/> schändlich. Ach, und wenn Ihr nur wüßtet, wie es
+                    zugegangen. Wenn ich mit der italienischen Reise fertig bin, werde ich es ihnen
+                    einmal recht klar und grell aufdecken. Komme ich ja dann schon in die letzten
+                    achtziger Jahre und in den Anfang der neunziger, wo das ganze Treiben schon
+                    begann. Schiller war ein ganz Anderer, er war der letzte Edelmann, möchte man
+                    sagen, unter den deutschen Schriftstellern: sans tâche et sans reproche. Im
+                    Spinoza können wir es gleich nachschlagen, was es ist bei diesen Herren: es ist
+                    der Neid. Diesen und das Böse nennt er die Traurigkeit, und alles Liebe und Gute
+                    die Freude. Man müßte nur sagen mit allem Gleichmuth: wir sind betrübt über der
+                    Herren ihre Traurigkeit! Zu den Menschen habe ich immer eine wahre Wuth gehabt;
+                    im dritten Band findet sich davon schon der Anfang, aber im vierten wird es sich
+                    erst recht zeigen.«</p>
+                <p rend="indentchar-m4n0"> »Ich führe,« sagte Goethe weiter, »die Ethik von Spinoza
+                    immer bei mir; er hat die Mathematik in die Ethik gebracht, so ich in die
+                    Farbenlehre, das heißt: da steht nichts im Hintersatz, was nicht im Vordersatz
+                    schon begründet ist.«</p>
+                <p rend="indentchar-m4n0">
+                    <milestone unit="testimony" spanTo="#graef_1162_end" xml:id="graef_1162"/>Dann
+                    kommt er auf den <rs>Faust; der erste Theil ist geschlossen mit Gretchens Tod, nun
+                    muß es par ricochet noch einmal anfangen</rs>; das sei recht schwer, dazu habe jetzt
+                    der Maler eine andere Hand, einen andern Pinsel, was er jetzt zu produciren
+                    vermöchte, würde nicht mit dem Frühern zusammen gehen. Ich erwiderte: Er <pb
+                        n="192"/> dürfe sich keine Skrupel darüber machen, ein anderer vermöchte
+                    sich in einen andern zu versetzen, wie viel eher doch der Meister in seine
+                    frühern Werke. – <rs>Goethe: »ich gebe es gerne zu, Vieles ist auch schon fertig.</rs>« –
+                    Ich frage nach dem Ende. – Goethe: »das sage ich nicht, darf es nicht sagen,
+                    aber es ist auch schon fertig, und sehr gut und grandios gerathen, aus der
+                    besten Zeit.« – Ich denke mir, der Teufel behalte Unrecht. – Goethe: »Faust
+                    macht im Anfang dem Teufel eine Bedingung, woraus Alles folgt.« – Faust bringt
+                    mich dazu, wie ich von Napoleon denke und gedacht habe. Der Mensch, der Gewalt
+                    über sich selbst hat und behauptet, leistet das Schwerste und Größte. Das ist in
+                    den Geheimnissen so schön ausgesprochen.<anchor xml:id="graef_1162_end"/> Es war
+                    dann die Rede von den vielen Irrthümern in der Welt – und wieder von den
+                    glücklichen Blicken in der Wissenschaft – er sei überzeugt, es lasse sich Alles
+                    auf feste Principien bringen, wie die Mathematik.</p>
+                <p rend="indentchar-m4n0"> »Alles ist Metamorphose im Leben, bei den Pflanzen und
+                    bei den Thieren, bis zum Menschen und bei diesem auch. Je vollkommener, je
+                    weniger Fähigkeit aus einer Form in die andere überzugehen.« – »Ach Gott, es ist
+                    Alles so einfach und immer dasselbe, es ist wahrhaftig keine Kunst unser
+                    Herrgott zu sein, es gehört nur ein einziger Gedanke dazu, wenn die Schöpfung da
+                    ist. Was vorher war, geht mich nichts an. Aber so einfach und so leicht der
+                    Gedanke ist, so schwer lassen <pb n="193"/> es sich die Menschen werden, Alles
+                    zu zerstückeln. – Ich meine, wie sollte das Zerstückelte auch anders als wieder
+                    selbst zerstückeln? Die Thorheit der indischen Büßer, wie sie die Einsiedelei
+                    suchen, ist nur ein Beweis, wie die Menschen immer, wenn sie etwas von der
+                    Wahrheit gemerkt, dann gleich wieder den irrigen Weg dahin einschlagen, das ist
+                    nun so die Welt.«</p>
+                <p rend="indentchar-m4n0"> Das Gespräch fing eigentlich mit der Mineralogie an,
+                    wovon er mir Leonhards nächst erscheinendes Werk empfohlen.</p>
+                <p rend="indentchar-m4n0"> Die Geheimnisse, sagte Goethe, habe er zu groß
+                    angefangen, wie so Vieles. – Die zwölf Ritter sollten die zwölf Religionen sein,
+                    und alles sich nachher absichtlich durcheinander wirren, das Wirkliche als
+                    Mährchen und dieß umgekehrt, als die Wirklichkeit erscheinen.</p>
+                <p rend="indentchar-m4n0"> Nachmittags: Von der Eitelkeit, Freude am Dasein, am
+                    Nichtigen. Goethe: »Es ist kein so großes Übel als gemeinhin daraus gemacht
+                    wird; nicht so ernst zu nehmen, daß es erst wichtig wird, wie heut zu Tage
+                    geschieht.« – Er will in die Gesellschaft der verrückten Hofräthe aufgenommen
+                    werden. Er meint, der Spaß sei ganz allerliebst; das hätte Behrisch ganz ähnlich
+                    gesehen. Aber man müsse ihm ein gutes ob ins Diplom geben, ob varietatem
+                    scientiarum?</p>
+                <p rend="indentchar-m4n0"> [Die Aufnahme in Dr. Ehrmann's »Orden der verrückten
+                    Hofräthe« erfolgte unter Angabe des Grundes, der mit ob angeführt wurde; bei
+                    Goethe: ob orientalismum occidentalem.]</p>
+            </div>
+            <pb n="194"/>
+            <div type="conversation">
+
+                <head><num type="biedermann-1">633.</num></head>
+                
+                <head><date when="1815-08-04">1815, 4. August.</date></head>
+                <head>Mit <persName>Sulpiz Boisserée</persName></head>
+
+                <p rend="indentchar-m4n0">Heute habe ich den Bericht über deutsche Alterthümer,
+                    Kunst und Wissenschaft, am Rhein angefangen. Der Allgütige gebe sein Gedeihen zu
+                    dieser Arbeit! Goethe hat auch angefangen, und wie er sich ausdrückt: hat der
+                    heilige Geist ihm offenbart, daß wir die Entwürfe hier fertig machen, darum wir
+                    noch acht Tage hier bleiben müssen; in Frankfurt nähmen sie ihn in Anspruch und
+                    dann käme ich zu Willemer, so gebe es Wahlverwandtschaften. Wir besprachen die
+                    Verhältnisse der Frankfurter Freunde, das wurde ihm nun immer mehr und mehr
+                    recht. Er versicherte mich, Stein sei uns sehr gewogen und geneigt; er, Goethe,
+                    habe die größte und Haupttheilnahme für uns, in moralischer, artistischer,
+                    politischer, ökonomischer und aller Rücksichten. Er wisse es und fühle es recht
+                    vollkommen, was ich ihm sage, daß er durchaus von unserer Sammlung reden müsse,
+                    weil er sie gesehen, sonst urtheilten die Menschen, sein Schweigen sei ein
+                    Mißbilligen oder Nichtachten. Darum sei es so gut, daß sich alles mache, und
+                    sich zeige, wie alles reif sei; er las mir dieß alles vor. <milestone
+                        unit="testimony" spanTo="#graef_1163_end" xml:id="graef_1163"/>Nach Tisch
+                    besprach er die Fortsetzung des Divan, das Rosenöl; – »Behandelt die Weiber mit
+                    Nachsicht;« – Spiel in den Locken; Hans Adams Geburt; – der Tulbend; – Freude
+                    der Freigebigkeit. Versprechungen <pb n="195"/> des Liebhabers. Alle Pracht des
+                    Orients hat doch am Ende nichts Höheres wie die liebenden Herzen – Stolz der
+                    Armuth des Liebenden, und viele andere herrliche, prächtige und anmuthige Dinge.
+                    <rs>Ich sage Goethe, daß es mich an Faust erinnere, wegen der Großartigkeit</rs> und
+                    Kühnheit, und doch wieder in der Natürlichkeit und Einfachheit der Sache und in
+                    der Form und Sprache, was ihm dann ganz recht und lieb war.<anchor
+                        xml:id="graef_1163_end"/></p>
+                <p rend="indentchar-m4n0"> Morgens. Goethe: was er näher kennen möchte, wäre das
+                    Verhältniß und der Weg der neuen katholisch gewordenen Protestanten. – Ich
+                    meine, die Philosophie der Geschichte der Menschheit (Herder, Müller), die Zeit
+                    der Gegenwart, die welthistorische Richtung, haben es gethan. Stolberg ist der
+                    Heros unter ihnen. – Goethe: Ja, es sei die Fülle der Menschheit in ihm; das
+                    Gemüth des Großen, das Naturell; selbst das Kindermachen, die eigentliche Fülle
+                    des Menschlichen (ein Poet sei er gerade deswegen nie gewesen). – Ich: Aber nun
+                    sei von der andern Seite das Übel, daß er keine Kritik habe, die Tradition
+                    stützen wolle, durch Gelehrsamkeit und Historie. – Goethe: »Ei, das ist gegen
+                    alle Überlieferung, diese nimmt man entweder an, und dann gibt man von vorn
+                    herein etwas zu, oder man nimmt sie gar nicht an und ist ein rechter kritischer
+                    Philister. Auf jenem Mittelweg aber verdirbt man es mit allen; und es ist ein
+                    Beweis, daß er von dieser Seite noch nicht einmal mit sich fertig ist. Die
+                    Protestanten dagegen fühlen das Leere, und wollen <pb n="196"/> nun einen
+                    Mysticismus machen, da ja gerade der Mysticismus entstehen muß. Dummes, absurdes
+                    Volk, verstehen ja nicht einmal, wie denn die Messe geworden ist, und es ist
+                    gerade als könne man eine Messe machen! So der Schubart [Gotthelf Heinrich von
+                    Schubert], der erbärmliche, mit seinem hübschen Talent, hübschen aperçus, spielt
+                    nun mit dem Tode, sucht sein Heil in der Verwesung, da er freilich selbst schon
+                    halb verwest ist, das heißt, buchstäblich die Schwindsucht hat. Da möchte man
+                    des Teufels werden; es ist aber gut, ich lasse sie machen, es geht zu Grunde,
+                    und das ist recht.«</p>
+                <p rend="indentchar-m4n0"> Ich: und es ist ihnen mit dem Christenthum, wenn man's
+                    beim Licht betrachtet, doch nicht recht ernst, es läuft am Ende doch immer
+                    wieder auf alles und eines und eines und alles hinaus. Dagegen ich mir den
+                    Dualismus für unentbehrlich halte, daß dem Geist und Leib sein Recht widerfahre,
+                    und die Einheit als Ziel und Höchstes immer gefordert, verlangt werde! Wovon
+                    hier auf der Erde nicht die Rede sein kann, als wenn Gott selbst kömmt. Sie aber
+                    wollen dem Herrn Christus auf die Spur kommen und selbst Christusse machen.
+                    Goethe: »Ja, recht, das ist: sie selbst wollen ein kleiner Herr Christus sein;
+                    sie ließen den Leib als solchen gelten, würden ihn auch zu ehren wissen.« – Dieß
+                    Alles kam zur Sprache, bei Gelegenheit eines neuen dünnen Büchleins: über das
+                    Abendmahl, welches in Gießen erschienen, und das ihm der hier badende Verfasser
+                    gegeben.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

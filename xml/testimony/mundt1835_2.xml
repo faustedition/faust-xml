@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-15" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="300" facs="mundt1835_2_0300.jpg"/>
+            <div type="letter">
+                <head rend="centered"><num>41.</num></head>
+                <lg>
+                    <l><milestone unit="testimony" spanTo="#pniower_30_end" xml:id="pniower_30"
+                        />Nicht auf geglättetem grünen Papier, wo der zierliche Weichling,</l>
+                    <l>Wie auf ſmaragdener Au Blumen, die Worte pflanzt,</l>
+                    <l>Sondern auf weißem Grunde, wie ſolches den Frommen geziemet,</l>
+                    <l>Sag’ ich für Deinen Properz Dir den elegiſchten Dank.</l>
+                    <l><hi rend="letter-spaced">Morgen am Abend</hi> laſſen bei uns ſich hinter der
+                        Kirche</l>
+                    <l><rs>Fauſtus Teufel</rs> zur Lehr’ böſer Verruchter ſehn,</l>
+                    <l>Oder hören vielmehr; ſei auch von der heiligen Anzahl,</l>
+                    <l>Oder willt Du etwa ſelbſt Mephiſtopheles ſein?</l>
+                </lg>
+                <p>Ich bitte aber, es weiter Niemand zu ſagen, weil der Zauberer nur einen kleinen
+                    Kreis will.<anchor xml:id="pniower_30_end"/>
+                    <hi rend="antiqua">Vale,</hi> ein Wörtlein Antwort, ob es Ihnen recht iſt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

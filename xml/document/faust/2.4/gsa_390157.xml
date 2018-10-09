@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390157/">
+<revisionDesc>
+   <change when="2012-11-22" who="henzel">imported</change>
+   <change when="2012-11-22" who="henzel">encoded</change>
+   <change when="2013-07-30" who="ritter">aktualisiert</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Eigenhändige Numerierung "100" Goethes mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P190b</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,24:2</idno>
+      <idno type="gsa_2">GSA 25/W 1799</idno>
+      <idno type="gsa_ident">390157</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P190b</idno>
+      <!-- P190b -->
+      <textTranscript uri="390157.xml"/>
+      <classification>Notiz</classification>
+      <condition>Knitterspuren, Fleck in der oberen Hälfte</condition>
+      <dimensions>
+         <width unit="mm">157</width>
+         <height unit="mm">118</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 151 mm.</note>
+      <format>n.s.</format>
+      <note>Quart, jedoch fehlt am rechten Rand ein Stück</note>
+      <edges>cut</edges>
+      <note>links, rechts und oben Risskanten</note>
+      <paperType>Briefpapier</paperType><!-- sehr fein -->
+      <paperColour>hellgelb</paperColour>
+      <!-- ABR: weiß -->
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>Wappen mit Krone</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 704</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 704</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 713</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 704</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Für diese Bleinotiz von Goethes Hand läßt sich die Zugehörigkeit zum `Faust' nicht mit Sicherheit erweisen (die Paginierung des Blatts gibt keinen Anhaltspunkt); im Nachtragsband der WA wird auf V. 11039 verwiesen, auch Hecker ordnet P190b dem 4. Akt zu. Tatsächlich ließe sich P190b als eine frühe, noch 5-hebige Form des später in die Alexandriner-Szene aufgenommenen V. 11039 auffassen.</p>
+            <p>Bei einem weiteren Entwurfsblatt aus dem Jahr 1830, das in der WA als einzelnes Paralipomenon abgedruckt ist ("Wolkenmassen, Wolkenballen [...]"; WA I,5.2,416) und von Hecker als Nr. 246 in der Rubrik `Zweifelhaftes' unter die `Faust'-Paralipomena aufgenommen wurde, scheinen mir Anhaltspunkte für eine Zugehörigkeit zum `Faust' völlig zu fehlen. Die Beziehung wurde zuerst von Morris hergestellt, der auf die Verse 10571ff. und 10584ff., und für den Rhythmus auf 10640ff. verweist. (Morris, Der Abschluß der Gedichte in der WA, S. 390.) Die "naheliegende Annahme einer Skizze zu V. 9884f. wird durch das Datum unmöglich" (Witkowski, S. 447). </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>190.b; 62n</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

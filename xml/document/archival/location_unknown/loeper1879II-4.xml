@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/location_unknown/loeper1879II-3/">
+    <revisionDesc>
+        <change when="2012-09-26 " who="bruening">encoded</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+        <note>Loepers Beschreibung lautet: „V. 532–539. [=5144–5151] Acht Verse (s. Lesarten),
+            überschrieben Ausfoderung und datirt Weihnachten 1827 (faust://bibliography/loeper1879a, Tl.
+            2, S. 323). Die Bedeutung der Hs. liegt in der Variante „Wunderſeltſam“.</note>
+        <repository>location_unknown</repository>
+        <idno type="faustedition">2 I H.9n*</idno>
+        <idno type="wa_faust">2 I H.e</idno>
+        <textTranscript uri="loeper1879II-3.xml"/>
+        <classification>n.s.</classification>
+        <references>
+            <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323, Nr.
+                4</reference>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 13</reference>
+            <reference type="essay" uri="faust://bibliography/pniower1899">S. 148, 283</reference>
+            <reference type="essay" uri="faust://bibliography/witkowski1930">S. 307</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page/>
+        <page/>
+    </disjunctLeaf>
+</archivalDocument>

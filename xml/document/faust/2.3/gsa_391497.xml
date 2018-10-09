@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391497/">
+   <revisionDesc>
+      <change when="2013-01-23" who="bruening">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Längs gebrochen; Spuren einer Querfaltung.
+         dabei: Brief an J. Ch. Stark d. J., zwi-
+         schen 15. und 20. Mai 1826, WA IV 41,
+         32, Konzept egh . – Brief an A. Le Bret,
+         24. Mai 1826, Konzept egh zu WA IV 41,
+         42,3–8 . – Notizen egh zu Tagebuchein-
+         trägen für 26.(?), 28.(?) und 30. Septem-
+         ber 1825 WA III 10, 118,23–24, 119,5–6
+         bzw. 26, 120,7–9
+         auf Brief an das Ministerium der aus-
+         wärtigen Angelegenheiten in Kassel, 1.
+         November 1825 WA IV 40, 109–110
+         bzw. an J. I. Graf von Beroldingen (be-
+         stimmt für den König von Württem-
+         berg), 27. Oktober 1825 WA: – (Goethe-
+         Briefrepertorium: Nr 40107b+), Konzept
+         Schuchardt, Korrektur egh, 26. Septem-
+         ber 1825</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.78</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,30</idno>
+      <idno type="gsa_2">GSA 25/W 1664</idno>
+      <idno type="gsa_ident">391497</idno>
+      <idno type="wa_faust">2 III H.78</idno>
+      <textTranscript uri="391497.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">203</width>
+         <height unit="mm">331</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Achtzackiger_Stern</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 71</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 137f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 138</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Brief von Goethe an J. Ch. Stark d. J., zwischen 15. und 20.5.1826, WA IV 41,32, Konzept egh;  Brief von Goethe an A. Le Bret, 24.5.1826, Konzept egh zu WA IV 41,42,3-8;  Notizen egh zu Tagebucheinträgen für 26.(?), 28.(?) und 30.10.1825 WA III 10,118,23-24, 119,5-6 bzw. 26, 120,7-9</f:dabei_vermerk>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391497</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9958-9961
+Genug den Dichterling zu weihen ...
+WA: III H.78; vgl. I 15.2,71
+Konzept
+auf Brief von Goethe an das Ministerium der auswärtigen Angelegenheiten in Kassel, 1.11.1825 WA IV 40,109-110 bzw. an J. I. Graf von Beroldingen (bestimmt für den König von Württemberg), 27.10.1825 WA: - (Goethe-Briefrepertorium: Nr 40107b+), Konzept Schuchardt, Korrektur egh, 26.10.1825</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,30</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,30</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Genug den Dichterling zu weihen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,71</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.78</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9958-9961</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Stark (Starcke), Johann Christoph d.J.; Le Bret, Albrecht; Beroldingen, Joseph
+               Ignaz Graf von; Württemberg, Friedrich Wilhelm Karl Kronprinz von, seit 1816 König
+               als Wilhelm I.</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Brief an J. Ch. Stark d. J., zwischen 15. und 20.5.1826, WA IV 41,32, Konzept
+               egh; Brief von Goethe an A. Le Bret, 24.5.1826, Konzept egh zu WA IV 41,42,3-8;
+               Notizen egh zu Tagebucheinträgen für 26.(?), 28.(?) und 30.10.1825 WA III
+               10,118,23-24, 119,5-6 bzw. 26, 120,7-9</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Brief von Goethe an das Ministerium der auswärtigen Angelegenheiten in
+               Kassel, 1.11.1825 WA IV 40,109-110 bzw. an J. I. Graf von Beroldingen (bestimmt für
+               den König von Württemberg), 27.10.1825 WA: - (Goethe-Briefrepertorium: Nr 40107b+),
+               Konzept Schuchardt, Korrektur egh, 26.10.1825</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1304</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4107</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

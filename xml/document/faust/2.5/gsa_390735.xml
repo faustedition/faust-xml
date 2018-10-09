@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390735/">
+<revisionDesc>
+   <change when="2012-12-04" who="henzel">imported</change>
+   <change when="2012-12-04" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">URI fuer Handschriftensigle, bibliograph. Verweise</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Notiz Johns mit Tinte: "Vom 6n bis zum 30n Juny. 1822"; "So ist denn Tieck aus unsrer Mitten" faust://bibliography/wa_I_5_1, S. 189 eigenhändiges Konzept zu Vers 5-7, faust://document/wa_gedichte/H.882; vgl. faust://bibliography/wa_I_5_2, S. 289</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.29</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,30</idno>
+      <idno type="gsa_2">GSA 25/W 1727</idno>
+      <idno type="gsa_ident">390735</idno>
+      <idno type="wa_faust">2 V H.29</idno>
+      <idno type="wa_gedichte">H.882</idno>
+      <textTranscript uri="390735.xml"/>
+      <classification>Konzept</classification>
+      <condition>Knick in oberer linker Ecke, linker Rand vergilbt</condition>
+      <dimensions>
+         <width unit="mm">207</width>
+         <height unit="mm">164</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 206 mm.</note>
+      <format>4</format>
+      <stabMarks>
+         <stabMark unit="mm">34</stabMark>
+         <stabMark unit="mm">55</stabMark>
+         <stabMark unit="mm">79</stabMark>
+         <stabMark unit="mm">100</stabMark>
+      </stabMarks>
+      <note>Stichlöcher am linken Rand</note>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"N 1"</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 161</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 161</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 161f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/><!-- Faust -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:kurztitel>
+auf Brief an unbekannten Empfänger: "welche gefällige Bemühung jederzeit dankbarlichst zu erkennen..."  WA:-, Konzept egh zu zwei bis vier Zeilen
+</f:kurztitel>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

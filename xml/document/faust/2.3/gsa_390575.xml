@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390575/">
+   <revisionDesc>
+      <change when="2012-11-22" who="bruening">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-05-31" who="bruening">Ergänzende Bogenhälfte.</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Quer gebrochen. Ergänzende linke Bogenhälfte: faust://document/wa_faust/2_III_H.27. Das 2,76 cm vom oberen 
+         Rand entfernte Stichloch hat dort eine genaue
+         Entsprechung.
+         <!-- TODO Beschriftungsreihenfolge, Vorder- und Rückseite etc. -->
+      früheres Konzept im Vgl. mit 2 III H.2 (GSA 25/W 1568 und GSA 25/W 1569)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.49</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,38</idno>
+      <idno type="gsa_2">GSA 25/W 1629</idno>
+      <idno type="gsa_ident">390575</idno>
+      <idno type="wa_faust">2 III H.49</idno>
+      <textTranscript uri="390575.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">205<!-- 205-209 ABR (?) --></width>
+         <height unit="mm">335</height>
+      </dimensions>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">276</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>Weimar_ueber_H</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 70</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 567</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 113</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 399</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 399-401</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 624f.</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_15_2">S. 225</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 113</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 401-403</reference>
+      </references>
+   </metadata>
+   <!-- TODO Seitenreihenfolge -->
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Blatt gehörte ursprünglich mit H.27 (25/XVIII,2,15) zu einem Bogen; zur Datierung vgl. Bohnenkamp, S.402-403</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>März 1826 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390575</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.49; vgl. I 15.2,70; I 53,567
+
+Vers(e): 9385-9400 (9395 fehlt/fehlen)
+Wer verdacht es unsrer Herrscherin ...
+Konzept
+
+Vers(e): 9629-9644 (9643 fehlt/fehlen)
+Nennst du ein Wunder dieß ...
+Konzept
+
+Paralipomenon 158
+Das wohlgedachte glaub ich ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,38</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVIII (2,38) (WA I,15.2,70, 112, 122 u. 225)</p>
+            <p>Entwürfe</p>
+            <p>Erstdruck: WA I,15.2,225 (P158)</p>
+            <p> x , gelbliches Folioblatt, gefaltet, gerippt; angeschnittenes WZ: `WEIMAR' über `H'
+               (Papiermühle Oberweimar) (ergänzende Bogenhälfte zu III H27);</p>
+            <p>VS: G Blei 9393f. Var, 9396f. Var, 9399f. Var, 93859392 Var, mit Blei als erledigt
+               gestr.; umgekehrt G Blei P158 (Anfang);</p>
+            <p>RS: G Blei 96299642 Var, 9644 Var, mit Blei als erledigt gestr.; darunter umgekehrt G
+               Blei Fortsetzung P158, mit Blei als erledigt gestr.</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>
+               <i>. . . . .</i>
+               <i>
+                  <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV2_18.JPG" width="27" height="7" align="middle"/>
+               </i> Dieses Folioblatt, das ursprünglich mit III H27 (vgl. hier S. 670f.) zu einem
+               Bogen gehörte, wurde wahrscheinlich zunächst für die Niederschrift von Entwürfen zu
+               zwei Chorliedern der `Helena' genutzt (V. 9385ff. u. 9629ff.), die sich als
+               Vorarbeiten für Nachlaßstücke Zweiter Teil, Akt 2 </p>
+            <p>die Aufnahme dieser Chorlieder in das Mundum III H2 bestimmen lassen
+               (Fischer-Lamberg, S. 113). Da die Entwürfe zu dem Chorlied "Nennst du ein Wunder
+               dieß" (9629ff.) auf der zweiten Bogenhälfte (III H27) fortgesetzt werden, ist ihre
+               Entstehung vor der Trennung des Bogens wahrscheinlich. Da sie vor der Niederschrift
+               von P166a (hier S. 617ff.) entstanden sein müssen _ dort werden sie schon zitiert _
+               kann der 5.4. 1825 als terminus ante quem gelten. Zumindest die Entwürfe zu V.
+               9385-9400 sind wohl auch schon vor der Niederschrift von P164a (30. 3. bis 3.4. 1825,
+               vgl. hier S. 610) entstanden: dieses Schema setzt einen Entwurf des "Hymenaeon"
+               ebenfalls bereits voraus (Z. 21: "Chor. Nicht zu verdenk[en]"). Die Entstehung dieser
+               Entwürfe zu den Chorliedern läßt sich also Ende März/Anfang April 1825 vermuten.</p>
+            <p>Die sehr wahrscheinlich später entstandenen Verse des Entwurfs <b>P158</b> wurden in
+               der Forschung lange als "Worte Fausts an Manto vor der Eröffnung des Orkus" gedeutet:
+               "Manto hat Faust in Trimetern angeredet und dieser erwidert in ebensolchen
+               `langgeschwänzten Zeilen'. [...] Der antike tragische Vers wird auch von Manto
+               spöttisch genug behandelt." (Witkowski, S. 445.) Diese Deutung folgt der zuerst von
+               Erich Schmidt vorgeschlagenen Auflösung der Sprecherangabe "M" zu "Manto", die von
+               Hecker (und den ihm folgenden Ausgaben) ohne Kennzeichnung des Herausgebereingriffs
+               übernommen wurde.</p>
+            <p>Daß es sich bei der auf diese Weise bereits im Text des Paralipomenons
+               festgeschriebenen Deutung um eine Fehlinterpretation handelt, hat neuerdings Jost
+               Schillemeit gezeigt, der in einer Untersuchung dieses Entwurfs zu dem Ergebnis kommt,
+               daß als Fausts Sprechpartner hier nicht etwa M[anto], sondern M[ephisto] gemeint ist.
+               (Vgl. Schillemeit, Faust und der tragische Trimeter.) Ausgehend von der Feststellung,
+               daß der in diesem Entwurf herrschende ironisch-parodistische Ton in einem Dialog
+               zwischen Faust und Manto im Kontext der ausgeführten `Klassischen Walpurgisnacht'
+               kaum vorstellbar ist, untersucht Schillemeit die Entwicklungsgeschichte des
+               `Descensus'-Plans und stellt fest, daß der vorliegende Entwurf zu einer Zeit
+               entstanden sein muß, als die Einführung Mantos in die Geschehnisse der `Klassischen
+               Walpurgisnacht' noch gar nicht vorgesehen war, sondern als Begleiter Fausts beim
+               Abstieg in die Unterwelt noch an Mephistopheles gedacht war. Die schon im Juni
+               geplanten "dämonischen Sibyllen" (P123A, Z. 22, hier S. 413) werden erst in einer
+               ergänzenden Randnotiz des Schemas P99B (hier S. 419f.), also nach dem 9. 11. 1826 zu
+               "Manto des Tiresias Tochter" konkretisiert. (Vgl. Schillemeit, Trimeter, S. 43-46.)
+               "Wir greifen hier eine Entstehungsphase innerhalb des gesamten, komplizierten
+               Entstehungsprozesses des `Faust II', die man als Vorspiel zu den `Antecedentien' der
+               `Helena' bezeichnen könnte." Der antike Teil ist abgeschlossen, "der zweite Teil
+               dagegen, der den Auftritt Fausts, des modernen Helden, und seiner Begegnung mit
+               Helena bringen sollte", ist noch nicht geschrieben. "In dieser Situation also muß
+               Goethe, freilich nur vorübergehend, daran gedacht haben, Faust in der Szene mit
+               Helena in jambischen Trimetern sprechen zu lassen, und dabei auch, ebenfalls nur
+               vorübergehend, mit dem Gedanken gespielt haben, ihn das Sprechen in diesem
+               fremdartigen</p>
+            <p> IIIH49 (P158)</p>
+            <p> Versmaß üben und Mephisto dabei, auf seine Weise, die Rolle des philologischen
+               Mentors spielen zu lassen" (Schillemeit, Trimeter, S. 50). Schillemeit nimmt also an,
+               daß Goethe P158 "in (oder bald nach) dem Augenblick, als er, nach der langen
+               Unterbrechung vom April 1825 bis zum Frühjahr 1826, sich im März 1826 wieder der
+               `Helena'-Dichtung zuwandte", niedergeschrieben habe, wie es auch der
+               Überlieferungskontext nahelegt. "Und es spricht einiges dafür, daß entscheidend
+               mitbeteiligt dabei der Gedanke an den bevorstehenden und jetzt zu dichtenden Auftritt
+               Fausts war, zusammen mit der Frage, in welcher Redeform, in welchem Stil und in
+               welcher metrischen Form Faust sich dabei, in der neuen, ungewohnten, halb
+               mythologischen, halb geschichtlichen Umgebung, im Dialog mit der antiken Heroine,
+               ausdrücken sollte." (Schillemeit, Trimeter, S. 38f.) (Zur Entwicklung der Pläne zur
+               `Klassischen Walpurgisnacht' vgl. P123A, P99B, P99A, P123B und P123C, hier S.
+               412-462.) </p>
+            <p>Daß Goethe im Frühjahr 1826 bereits mit ersten Überlegungen und Vorarbeiten zur
+               Vorgeschichte der `Helena' beschäftigt war, bestätigen die ebenfalls in dieser Zeit
+               entstandenen Blätter III H7 und H P140 (vgl. hier S. 404f. u. S.408f.); eine "Neigung
+               zu parodistischer Reflexion auf Sprachliches und zu entsprechendem,
+               illusionszerstörendem Spiel der sprachlichen und poetischen Formen mit sich selbst"
+               verrät auch der wohl ebenfalls im Frühjahr 1826 entstandene Entwurf zu einer
+               ironisch-parodischen Zwischenrede des Mephisto-Phorkyas, das Paralipomenon 176.
+               (Schillemeit, Trimeter, S. 40. Zu P176 vgl. hier S. 622-626.)</p>
+            <p>Z. 20 langgeschwanzte Zeilen] zwölfsilbige reimlose Verse: der jambische Trimeter der
+               Helena.</p>
+            <p>Z. 23 noch andres babylonische] weitere (wie der Turmbau von Babel) vermessene
+               Unternehmungen.</p>
+            <p>Z. 44 M] Die in bisherigen `Faust'-Ausgaben zu M[anto] ergänzte Sprecherangabe muß
+               als M[ephisto] gelesen werden (s. o.).</p>
+            <p>Z. 45 aller altesten] Wohl die in P99A genannte, als "erste und älteste" (Zedler
+               Bd.37, S. 873) der Sibyllen geltende "Thessalische Ursybille", die Faust den Weg zu
+               Proserpina öffnen sollte und die erst später zu Manto konkretisiert wurde (vgl. P99B,
+               Z.29, hier S. 420). Vgl. Schillemeit, Faust und der tragische Trimeter, S.4750.</p>
+            <p>Z. 46: Erich Schmidt las hier "Die Lust giebt lange Weile die man zwingen (?) muß".
+               Witkowski, Alt und Petsch verändern zu "Die Lust giebt lange Qualen [?] die man
+               zwingen [?] muß", Hecker verbesserte die Lesung des letzten Wortes und kehrte im
+               übrigen zu Schmidts Vorschlag zurück ("Die Lust gibt lange Weile, die man genießt").
+               Für die jedoch unsichere (und unbefriedigende) Lesung "Weile" hat Weitz schließlich
+               wiederum "Qualen" eingesetzt ("Die Lust gibt lange Qualen [?], die man genießt") _
+               der handschriftliche Befund ist nicht eindeutig.</p>
+            <p>Z. 48 mit verblü[m]tem Wort] mit rhetorischem Schmuck versehene Rede.</p>
+            <p> Z. 51 sch{eu}] So Hecker. WA liest "schn[ell]". Nachlaßstücke Zweiter Teil, Akt
+               2</p>
+            <p>
+               <b>III H7 (P140-P142 Var)</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,38</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,70; I 53,567</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.49</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Blatt gehörte ursprünglich mit H.27 (25/XVIII,2,15) zu einem Bogen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1272</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2587</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVIII,2,38*c</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,70; I 53,567: H.49</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>III H 49</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>400</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>180</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Das wohlgedachte glaub ich</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>158</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9990</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,38*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Ende März/ Anfang April 1825 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1825</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wer verdacht es unsrer Herrscherin</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>9395</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9385-9400</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit III H.2 (25/XVIII,1,2a)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2698</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,38*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>März 1826 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Das wohlgedachte glaub ich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,225</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>158</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>WA zu: Paralipomena, 3. Akt, Vorspiel; zur Datierung vgl. Bohnenkamp,
+               S.402-403</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2701</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,38*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Ende März/ Anfang April 1825 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1825</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Nennst du ein Wunder dieß</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>9643</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9629-9644</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. mit III H.2 (25/XVIII,1,2b)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3148</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

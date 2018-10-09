@@ -1,0 +1,132 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc xmlns:f="http://www.faustedition.net/ns"><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">J.3-2</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/print/KuA_VI_1.xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <revisionDesc>
+            <change when="2012-12-19" who="grepect">1. Lfg.</change>
+            <change when="2014-10-21" who="bruening">Transkript mit dem von d.11 (Revisionsbogen) kollationiert.</change>
+            <change when="2014-10-21" who="bruening">1x korrekturgelesen</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <pb facs="KuA_IIIE43-5-1_0000-01.tif"/>
+            <pb facs="KuA_IIIE43-5-1_0000-02.tif"/>
+            <pb facs="KuA_IIIE43-5-1_0000-03.tif"/>
+            <pb facs="KuA_IIIE43-5-1_0000-04.tif"/>
+            <pb facs="KuA_IIIE43-5-1_0000-05.tif"/>
+            <titlePage>
+                <docTitle>
+                    <titlePart rend="centered big bold letter-spaced">Kunſt und
+                        Alterthum.</titlePart>
+                </docTitle>
+                <figure type="swelledRule"/>
+            </titlePage>
+            <pb facs="KuA_IIIE43-5-1_0000-06.tif"/>
+            <div type="half-title">
+                <p rend="hanging">Das erſte und letzte was vom Genie gefordert<lb/>wird iſt
+                    Wahrheitsliebe.</p>
+            </div>
+            <figure type="line"/>
+        </front>
+        <pb facs="KuA_IIIE43-5-1_0000-07.tif"/>
+        <group>
+            <text>
+                <front>
+                    <titlePage>
+                        <docTitle>
+                            <titlePart rend="centered">
+                                <hi rend="letter-spaced">Ueber</hi>
+                                <lb/>
+                                <hi rend="big bold">Kunſt und Alterthum.</hi>
+                            </titlePart>
+                        </docTitle>
+                        <byline rend="centered letter-spaced">
+                            <hi rend="small">Von</hi>
+                            <lb/>
+                            <docAuthor rend="big">Goethe.</docAuthor>
+                        </byline>
+                        <figure type="line"/>
+                        <titlePart rend="letter-spaced">Sechſten Bandes erſtes Heft.</titlePart>
+                        <figure type="swelledRule"/>
+                        <docImprint rend="centered letter-spaced">
+                            <pubPlace>Stuttgart,</pubPlace>
+                            <lb/>
+                            <publisher rend="small">in der Cotta’ſchen Buchhandlung.</publisher>
+                            <lb/>
+                            <figure type="line"/>
+                            <docDate>1827.</docDate>
+                        </docImprint>
+                    </titlePage>
+                    <pb facs="KuA_IIIE43-5-1_0000-08.tif"/>
+                    <div type="half-title">
+                        <p rend="hanging small">Wer gegen ſich ſelbſt und andere wahr iſt
+                            und<lb/>bleibt beſitzt die ſchönſte Eigenſchaft der<lb/>größten
+                            Talente.</p>
+                    </div>
+                    <figure type="line"/>
+                </front>
+                <body>
+                    <pb facs="KuA_IIIE43-5-1_0200.tif" n="200"/>
+                    <fw rend="centered" type="pageNum">200</fw>
+                    <head rend="centered big letter-spaced">Helena</head>
+                    <head rend="centered letter-spaced">Zwiſchenſpiel zu Fauſt.</head>
+                    <figure type="line"/>
+                    <p rend="firstLineIndented">Fauſts Charakter, auf der Höhe wohin die<lb/>neue
+                        Ausbildung aus dem alten rohen Volks­<lb break="no"/>mährchen denſelben
+                        hervorgehoben hat, ſtellt<lb/>einen Mann dar, welcher in den
+                        allgemeinen<lb/>Erdeſchranken ſich ungeduldig und unbehaglich<lb/>fühlend,
+                        den Beſitz des höchſten Wiſſens, den<lb/>Genuß der ſchönſten Güter für
+                        unzulänglich<lb/>achtet ſeine Sehnſucht auch nur im mindeſten<lb/>zu
+                        befriedigen, einen Geiſt welcher deßhalb<lb/>nach allen Seiten hin ſich
+                        wendend immer<lb/>unglücklicher zurückkehrt.</p>
+                    <p rend="firstLineIndented">Dieſe Geſinnung iſt dem modernen Weſen<lb/>ſo analog
+                        daß mehrere gute Köpfe die Lö­<lb break="no"/>ſung einer ſolchen Aufgabe zu
+                        unternehmen<lb/>ſich gedrungen fühlten. Die Art wie ich mich<pb facs="KuA_IIIE43-5-1_0201.tif" n="201"/><fw rend="centered" type="pageNum">201</fw>dabey benommen, hat ſich Beyfall
+                        erworben;<lb/>vorzügliche Männer haben darüber gedacht und<lb/>meinen Text
+                        commentirt, welches ich dankbar<lb/>anerkannte. Darüber aber mußte ich
+                        mich<lb/>wundern, daß diejenigen welche eine Fortſe­<lb break="no"/>tzung
+                        und Ergänzung meines Fragments un­<lb break="no"/>ternahmen, nicht auf den
+                        ſo nahe liegenden<lb/>Gedanken gekommen ſind, es müſſe die Bear­<lb break="no"/>beitung eines zweyten Theils ſich nothwendig<lb/>aus der
+                        bisherigen kümmerlichen Sphäre ganz<lb/>erheben und einen ſolchen Mann in
+                        höheren<lb/>Regionen, durch würdigere Verhältniſſe durch­<lb break="no"/>führen.</p>
+                    <p rend="firstLineIndented">Wie ich nun von meiner Seite dieſes an­<lb break="no"/>gegriffen, lag im Stillen vor mir, von Zeit<lb/>zu Zeit mich
+                        zu einiger Fortarbeit anregend;<lb/>wobey ich mein Geheimniß vor allen und
+                            je­<lb break="no"/>den ſorgfältig verwahrte, immer in Hoffnung<lb/>das
+                        Werk einem gewünſchten Abſchluß entge­<lb break="no"/>genzuführen. Jetzo
+                        aber darf ich nicht zurück­<lb break="no"/>halten und bey Herausgabe meiner
+                        ſämmtlichen<lb/>Beſtrebungen kein Geheimniß mehr vor dem<pb facs="KuA_IIIE43-5-1_0202.tif" n="202"/><fw rend="centered" type="pageNum">202</fw>Publicum verbergen, vielmehr fühle ich
+                        mich<lb/>verpflichtet, alles mein Bemühen, wenn auch<lb/>fragmentariſch,
+                        nach und nach vorzulegen.</p>
+                    <p rend="firstLineIndented">Deßhalb entſchließ’ ich mich zuvörderſt,
+                        oben<lb/>benanntes, in den zweyten Theil des Fauſts<lb/>einzupaſſendes, in
+                        ſich abgeſchloſſenes kleine­<lb break="no"/>res Drama ſogleich bey der
+                        erſten Sendung<lb/>mitzutheilen.</p>
+                    <p rend="firstLineIndented">Noch iſt die große Kluft zwiſchen dem<lb/>bekannten
+                        jammervollen Abſchluß des erſten<lb/>Theils und dem Eintritt einer
+                        griechiſchen<lb/>Heldenfrau nicht überbrückt; man genehmige<lb/>jedoch
+                        vorläufig Nachſtehendes mit Freundlich­<lb break="no"/>keit.</p>
+                    <p rend="firstLineIndented">Die alte Legende ſagt nämlich, und
+                        das<lb/>Puppenſpiel verfehlt nicht die Scene vorzu­<lb break="no"/>führen:
+                        daß Fauſt in ſeinem herriſchen Ueber­<lb break="no"/>muth durch
+                        Mephiſtopheles den Beſitz der ſchö­<lb break="no"/>nen Helena von
+                        Griechenland verlangt und die­<lb break="no"/>ſer ihm nach einigem
+                        Widerſtreben willfahrt<lb/>habe. Ein ſolches bedeutendes Motiv in un­<lb break="no"/>ſerer Ausführung nicht zu verſäumen war uns<pb facs="KuA_IIIE43-5-1_0203.tif" n="203"/><fw rend="centered" type="pageNum">203</fw>Pflicht, und wie wir uns derſelben zu entle­<lb break="no"/>digen geſucht wird aus dem Zwiſchenſpiel her­<lb break="no"/>vorgehen. Was aber zu einer ſolchen Behand­<lb break="no"/>lung die nähere
+                        Veranlaſſung gegeben und wie,<lb/>nach mannigfaltigen Hinderniſſen, den
+                            bekann­<lb break="no"/>ten magiſchen Geſellen geglückt, die eigent­<lb break="no"/>liche Helena perſönlich aus dem Orcus in’s<lb/>Leben
+                        heraufzuführen, bleibe vor der Hand<lb/>noch unausgeſprochen. Gegenwärtig
+                        iſt genug,<lb/>wenn man zugiebt, daß die wahre Helena
+                        auf<lb/>antik-tragiſchem Cothurn vor ihrer Urwoh­<lb break="no"/>nung zu
+                        Sparta auftreten könne. Sodann<lb/>aber bittet man die Art und Weiſe zu
+                            beob­<lb break="no"/>achten, wie Fauſt es unternehmen dürfe, ſich<lb/>um
+                        die Gunſt der weltberühmten königlichen<lb/>Schönheit zu bewerben.</p>
+
+                    <figure type="line"/>
+                    <pb facs="KuA_IIIE43-5-1_x-01.tif"/>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/dla_marbach/Cotta-Archiv_Goethe_23/">
+    <revisionDesc>
+        <change who="bruening">Angefangen, die in Marbach erhobenen Daten zu übernehmen.</change>
+        <change who="bruening" when="2012-10-19">Vorläufig abgeschlossen.</change>
+        <change when="2015-03-03" who="bruening">Wasserzeichen, docTranscript</change>
+        <change when="2015-03-10" who="pravida">minimal headnote</change>
+        <change when="2015-07-02" who="henzel">docTranscript-Fehler behoben</change>
+        <change when="2016-01-19" who="koehler">Schoene</change>
+        <change when="2016-09-23" who="bruening">encoded</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Konvolut, 33 Blätter. – Zu ‚Faust II‘, Akt 1.</headNote>
+        <note>33 Bll. Folio, davon 32 beschriebene, bestehend aus neun nebeinanderliegenden kleinen
+            Lagen. An der Korrektur der Druckvorlage nahm Göttling keinen Anteil, wie sich aus
+            Göttling an Goethe, 23. Dezember 1828 ergibt (faust://bibliography/quz_2, S.
+            576).</note>
+        <repository>dla_marbach</repository>
+        <subRepository>Cotta-Archiv</subRepository>
+        <idno type="faustedition">2 I H.0a</idno>
+        <idno type="dla_marbach">Cotta Manuskripte Goethe, Ausg. letzter Hand</idno>
+        <idno type="gsa_1">GSA 25/XVII,4,1a</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="fa">H.Co</idno>
+        <idno type="ma">CoDv</idno>
+        <textTranscript uri="Marbach_Deutsches_Literaturarchiv.xml"/>
+        <classification>Mundum</classification>
+        <numberingList>
+            <numbering name="Roetelfoliierung">Rötelfoliierung oben rechts von Schreiberhand (oder doch egh.?), durchgängig Bl. 1–32; letztes Bl. vacat und unfoliiert.</numbering>
+        </numberingList>
+        <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+        <countermarkID>GH_ueber_N3</countermarkID>
+        <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">330</height>
+        </dimensions>
+        <format>2</format>
+        <bindingMaterial>Doppelte Schnurbandheftung, in der Regel mit jeweils einer ca. 1 mm dicker
+            Schnur in der oberen und unteren Hälfte zu je zwei Stichlöchern.</bindingMaterial>
+        <edges>cut</edges>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_53">S. 567</reference>
+            <reference type="description" uri="faust://bibliography/ma_18_1">S. 632, 635</reference>
+            <reference type="text" uri="faust://bibliography/ma_18_1">S. 105–148</reference>
+            <reference type="essay" uri="faust://bibliography/vollmer1868">S. 1583</reference>
+            <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 9</reference>
+            <reference type="essay" uri="faust://bibliography/ma_18_1">S. 634–636</reference>
+            <reference type="essay" uri="faust://bibliography/schoene2005">Bd. 2, S. 90</reference>
+            <reference type="essay" uri="faust://bibliography/bell2003">S. 638</reference>
+        </references>
+    </metadata>
+    <!-- Lage I: 1–4 -->
+    <!-- Bl. 1 -->
+    <disjunctLeaf>
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+                <stabMark unit="mm">122</stabMark>
+                <stabMark unit="mm">223</stabMark>
+            </stabMarks>
+            <note>Abgetrennte Bogenhälfte von Blatt 4. Mit dem folgenden Doppelblatt (Bl. 2/3) durch
+                das Stichloch in der oberen Hälfte lose verbunden. Das untere Stichloch, das genau
+                den Blättern 2–4 passt, ist ausgerissen.</note>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="001.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="002.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <!-- Bl. 2/3 -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">202</width>
+                <height unit="mm">332</height>
+            </dimensions>
+            <stabMarks>
+                <stabMark unit="mm">73</stabMark>
+                <stabMark unit="mm">122</stabMark>
+                <stabMark unit="mm">221</stabMark>
+                <stabMark unit="mm">263</stabMark>
+            </stabMarks>
+
+
+            <note>Doppelt geheftet, die obere und untere Schnur zusätzlich durch eine im inneren
+                Falz liegende Verbindungsschnur miteinander verbunden.</note>
+        </metadata>
+        <!-- Bl. 2 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="003.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="004.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <!-- Bl. 3 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="005.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="006.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Bl. 4 -->
+    <disjunctLeaf>
+        <metadata>
+            <countermarkID>GH_ueber_N3</countermarkID>
+            <stabMarks>
+                <stabMark unit="mm">148</stabMark>
+                <stabMark unit="mm">266 </stabMark>
+            </stabMarks>
+            <note>Lose, beide Stichlöcher ausgerissen. Das untere passt genau zu den übrigen Löchern
+                der Lage.</note>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="007.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="008.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <!-- Lage II: 5–8 -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">205</width>
+                <height unit="mm">332</height>
+            </dimensions>
+            <stabMarks>
+                <stabMark unit="mm">95</stabMark>
+                <stabMark unit="mm">145</stabMark>
+                <stabMark unit="mm">193</stabMark>
+                <stabMark unit="mm">245</stabMark>
+            </stabMarks>
+            <note>Doppelt geheftet, die obere und untere Schnur zusätzlich durch eine im inneren
+                Falz liegende Verbindungsschnur miteinander verbunden.</note>
+
+
+        </metadata>
+        <!-- Bl. 5 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="009.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="010.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <sheet>
+            <!-- Bl. 6 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="011.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="012.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+            <!-- Bl. 7 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="013.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="014.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+        </sheet>
+        <!-- Bl. 8 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <!-- <docTranscript uri="015.xml"/> -->
+                    <docTranscript uri="II_008.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="016.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Lage III: 9 11 -->
+    <!-- Bl. 9 -->
+    <disjunctLeaf>
+        <metadata>
+            <dimensions>
+                <width unit="mm">206</width>
+                <height unit="mm">331</height>
+            </dimensions>
+            <stabMarks>
+                <stabMark unit="mm">74</stabMark>
+                <stabMark unit="mm">120</stabMark>
+                <stabMark unit="mm">225</stabMark>
+                <stabMark unit="mm">266</stabMark>
+            </stabMarks>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <note>Doppelt geheftet, die obere und untere Schnur zusätzlich durch eine im inneren
+                Falz liegende Verbindungsschnur miteinander verbunden. An der inneren Längskante
+                Reste der abgetrennten Bogenhälfte.</note>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="017.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="018.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <!-- Dbl. 10/11) -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">205</width>
+                <height unit="mm">331</height>
+            </dimensions>
+            <stabMarks>
+                <stabMark unit="mm">74</stabMark>
+                <stabMark unit="mm">120</stabMark>
+                <stabMark unit="mm">224</stabMark>
+                <stabMark unit="mm">266</stabMark>
+            </stabMarks>
+
+            <note>Doppelt geheftet, die obere und untere Schnur zusätzlich durch eine im inneren
+                Falz liegende Verbindungsschnur miteinander verbunden.</note>
+        </metadata>
+        <!-- Bl. 10 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="019.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="020.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <!-- Bl. 11 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="021.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="022.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Lage IV: 12–15 -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">202</width>
+                <height unit="mm">331</height>
+            </dimensions>
+
+            <bindingMaterial>none</bindingMaterial>
+            <stabMarks>
+                <stabMark unit="mm">87</stabMark>
+                <stabMark unit="mm">143</stabMark>
+                <stabMark unit="mm">195</stabMark>
+                <stabMark unit="mm">247</stabMark>
+            </stabMarks>
+        </metadata>
+        <!-- Bl. 12 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="023.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="024.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <sheet>
+            <metadata>
+                <dimensions>
+                    <width unit="mm">204</width>
+                    <height unit="mm">331</height>
+                </dimensions>
+
+                <stabMarks>
+                    <stabMark unit="mm">87</stabMark>
+                    <stabMark unit="mm">143</stabMark>
+                    <stabMark unit="mm">195</stabMark>
+                    <stabMark unit="mm">247</stabMark>
+                </stabMarks>
+            </metadata>
+            <!-- Bl. 13 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="025.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="026.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+            <!-- Bl. 14 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="027.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="028.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+        </sheet>
+        <!-- Bl. 15 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="029.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="S_15_RS.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Bl. 16/17 -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">203</width>
+                <height unit="mm">331 </height>
+            </dimensions>
+            <stabMarks>
+                <stabMark unit="mm">87</stabMark>
+                <stabMark unit="mm">120</stabMark>
+                <stabMark unit="mm">218</stabMark>
+                <stabMark unit="mm">267</stabMark>
+            </stabMarks>
+        </metadata>
+        <!-- Bl. 16 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="030.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="031.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <!-- Bl. 17 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="032.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="033.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Lage VI: 18–21 -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">203</width>
+                <height unit="mm">331</height>
+            </dimensions>
+            <bindingMaterial>none</bindingMaterial>
+            <stabMarks>
+                <stabMark unit="mm">90</stabMark>
+                <stabMark unit="mm">144</stabMark>
+                <stabMark unit="mm">194</stabMark>
+                <stabMark unit="mm">243</stabMark>
+            </stabMarks>
+
+        </metadata>
+        <!-- Bl. 18 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="034.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="035.xml"/>
+                </metadata>
+            </page>
+
+        </leaf>
+        <sheet>
+            <!-- Bl. 19 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="036.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="037.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+            <!-- Bl. 20 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="038.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="039.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+        </sheet>
+        <!-- Bl. 21 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="040.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="S21_RS.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Lage VII: 22–25 -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">203</width>
+                <height unit="mm">331</height>
+            </dimensions>
+            <bindingMaterial>none</bindingMaterial>
+            <stabMarks>
+                <stabMark unit="mm">73</stabMark>
+                <stabMark unit="mm">125</stabMark>
+                <stabMark unit="mm">210</stabMark>
+                <stabMark unit="mm">266</stabMark>
+            </stabMarks>
+
+
+        </metadata>
+        <!-- Bl. 22 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="041.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="042.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <sheet>
+            <metadata>
+                <dimensions>
+                    <width unit="mm">204</width>
+                    <height unit="mm">331</height>
+                </dimensions>
+                <bindingMaterial>none</bindingMaterial>
+                <stabMarks>
+                    <stabMark unit="mm">73</stabMark>
+                    <stabMark unit="mm">125</stabMark>
+                    <stabMark unit="mm">210</stabMark>
+                    <stabMark unit="mm">266</stabMark>
+                </stabMarks>
+
+            </metadata>
+            <!-- Bl. 23 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="043.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="II_024.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+            <!-- Bl. 24 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="045.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="046.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+        </sheet>
+        <!-- Bl. 25 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="047.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="048.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <!-- Lage VIII: 26–31 -->
+    <sheet>
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">332</height>
+            </dimensions>
+            <bindingMaterial>none</bindingMaterial>
+            <stabMarks>
+                <stabMark unit="mm">86</stabMark>
+                <stabMark unit="mm">144</stabMark>
+                <stabMark unit="mm">196</stabMark>
+                <stabMark unit="mm">246</stabMark>
+            </stabMarks>
+        </metadata>
+        <!-- Bl. 26 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="049.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="050.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <sheet>
+            <metadata>
+                <dimensions>
+                    <width unit="mm">202</width>
+                    <height unit="mm">332</height>
+                </dimensions>
+                <stabMarks>
+                    <stabMark unit="mm">86</stabMark>
+                    <stabMark unit="mm">143</stabMark>
+                    <stabMark unit="mm">195</stabMark>
+                    <stabMark unit="mm">246</stabMark>
+                </stabMarks>
+            </metadata>
+            <!-- Bl. 27 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="051.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="052.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+            <sheet>
+                <metadata>
+                    <dimensions>
+                        <width unit="mm">204</width>
+                        <height unit="mm">332</height>
+                    </dimensions>
+                    <stabMarks>
+                        <stabMark unit="mm">86</stabMark>
+                        <stabMark unit="mm">143</stabMark>
+                        <stabMark unit="mm">195</stabMark>
+                        <stabMark unit="mm">246</stabMark>
+                    </stabMarks>
+
+                </metadata>
+                <!-- Bl. 28 -->
+                <leaf>
+                    <page>
+                        <metadata>
+                            <docTranscript uri="053.xml"/>
+                        </metadata>
+                    </page>
+                    <page>
+                        <metadata>
+                            <docTranscript uri="054.xml"/>
+                        </metadata>
+                    </page>
+                </leaf>
+                <!-- Bl. 29 -->
+                <leaf>
+                    <page>
+                        <metadata>
+                            <docTranscript uri="055.xml"/>
+                        </metadata>
+                    </page>
+                    <page>
+                        <metadata>
+                            <docTranscript uri="056.xml"/>
+                        </metadata>
+                    </page>
+                </leaf>
+            </sheet>
+            <!-- Bl. 30 -->
+            <leaf>
+                <page>
+                    <metadata>
+                        <docTranscript uri="057.xml"/>
+                    </metadata>
+                </page>
+                <page>
+                    <metadata>
+                        <docTranscript uri="058.xml"/>
+                    </metadata>
+                </page>
+            </leaf>
+        </sheet>
+        <!-- Bl. 31 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="059.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="060.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+    <sheet>
+        <!-- Bl. 32 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <note>Die Pagination 32 mit Rötel evtl. nicht im selben Zug entstanden wie die
+                        Paginationen 1-31 (erkennbar an der Schreibung der „2“).</note>
+                    <docTranscript uri="061.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="062.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <!-- Bl. 33 -->
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="063.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="064.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+</archivalDocument>

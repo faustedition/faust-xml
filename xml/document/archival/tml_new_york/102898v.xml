@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/tml_new_york/102898v/">
+    <revisionDesc>
+        <change who="bruening">Von Joachim Seng erhobene Daten eingearbeitet.</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+        <change when="2015-01-28" who="koehler">format</change>
+        <change when="2016-09-23" who="bruening">encoded</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+        <repository>tml_new_york</repository>
+        <subRepository>Pierpont Morgan Library Dept. of Literary and Historical
+            Manuscripts</subRepository>
+        <idno type="faustedition">2 III H.81a</idno>
+        <idno type="tml_new_york">MA 6854</idno>
+        <idno type="tml_new_york">Misc Heineman MS MAH Goethe 1B</idno>
+        <idno type="gsa_1">GSA 25/XVIII,4,8</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="fischer_lamberg">2 III H.l</idno>
+        <textTranscript uri="102898v.xml"/>
+        <classification>Konzept</classification>
+        <history>Der Streifen wurde offenbar aus einem quer beschriebenen Folioblatt herausgetrennt
+            und gelangte in den Besitz von Michael Leopold Enk von der Burg (1788–1843), von dem
+            auch die Echtheitsbestätigung auf der Rückseite stammt. 1955 befand sich der Streifen in
+            der Heinemann Foundation (Fischer-Lamberg, S. 145).</history>
+        <condition>Der durch die Querfaltung des ursprünglichen Folioblatts entstandene
+            Faltungsbruch ist mit einem Gewebestreifen stabilisiert.</condition>
+        <dimensions>
+            <width unit="mm">329</width>
+            <height unit="mm">84</height>
+        </dimensions>
+        <format>none</format>
+        <references>
+            <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 145</reference>
+        </references>
+        <paperType>Schreibpapier</paperType>
+        <paperColour>grünbläulich</paperColour>
+        <watermarkID>none</watermarkID>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="0001.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0002.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

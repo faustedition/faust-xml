@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390259/">
+   <revisionDesc>
+      <change when="2012-11-07" who="henzel">imported</change>
+      <change when="2012-11-07" who="henzel">encoded</change>
+      <change when="2013-01-22" who="henzel">aktualisiert</change>
+      <change when="2014-10-10" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf zu ‚Faust I‘.</headNote>
+      <note>beschnittener Streifen
+         Zettel, 1 beschriebene Seite. – Vs.: Versentwurf (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P3</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,2</idno>
+      <idno type="gsa_2">GSA 25/W 1375</idno>
+      <idno type="gsa_ident">390259</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P3, Hecker-Nr. 9 -->
+      <!-- P4, Hecker-Nr. 7 -->
+      <!-- P4 jedoch eigene AE, hier nur Zeilen 3 und 4 -->
+      <idno type="bohnenkamp">H P3</idno>
+      <textTranscript uri="390259.xml"/>
+      <classification>Konzept</classification>
+      <condition>vergilbt</condition>
+      <dimensions>
+         <width unit="mm">170</width>
+         <height unit="mm">40</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <note>links Risskante</note>
+      <paperType>Konzeptpapier</paperType>
+      <!-- Papier ist ähnlich dem Blatt H P5 -->
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">n.s.</chainLines>
+      <note>nicht messbar, da nur eine Steglinie zu erkennen</note>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 288</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 215</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 288</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 215</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 575</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 216</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>in der Mitte Reste von Klebespuren</note>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>Aug./Sept. 1798</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Hier handelt es sich wahrscheinlich um Verse, die im Zusammenhang mit der Arbeit am
+               `Vorspiel' entstanden. Während die ältere Forschung die Entstehung des Vorspiels gern
+               in die Nähe der `Zueignung' rückte oder vage auf 1797 bis 1800 datierte (vgl. etwa
+               Gräf, S. 63), machen neuere Untersuchungen wahrscheinlich, daß das `Vorspiel' in der
+               zweiten Hälfte des Jahres 1798 (Momme Mommsen, Zur Entstehung und Datierung einiger
+               Faust-Szenen um 1800 [nämlich: Vorspiel, Prolog, Beschwörung, Vor dem Tor]), genauer
+               in der Zeit von Mitte August bis Mitte September 1798 entstanden ist (Schillemeit,
+               Vorspiel).</p>
+            <p>Die schon von Oskar Seidlin aufgeworfene Frage, ob das `Vorspiel' eigentlich für den
+               `Faust' geschrieben worden sei _ die Ansicht Seidlins, es handele sich um ein
+               `Vorspiel' zu der von Goethe geplanten Fortsetzung der `Zauberflöte', hat sich in der
+               Forschung nicht durchgesetzt _, wird von Schillemeit aufgegriffen und überzeugend
+               beantwortet: Ausgehend von Mommsens Argumenten für eine Datierung in der zweiten
+               Hälfte des Jahres 1798 macht Schillemeit wahrscheinlich, daß Goethe das `Vorspiel'
+               zunächst für die Wiedereröffnung des im Sommer 1798 umgebauten und `neu decorirten'
+               Weimarer Theaters geschrieben hat, die am 12. 10. 1798 stattfand. Am 14. 8. des
+               Jahres schreibt Goethe an Kirms zu der Frage, was zur Eröffnung des umgebauten
+               Theaters gegeben werden sollte: "Eine Art von Vorspiel und dialogirtem Prolog will
+               ich wohl machen und dann dächte ich, nähme man ein anständiges, nicht gar zu langes,
+               schon bekanntes Stück." (WA IV,13,250f.) Erst im September, wahrscheinlich während
+               eines Besuches von Schiller in Weimar, fällt die Entscheidung, neben dem geplanten
+               Kotzebue-Stück `Wallensteins Lager' zur Eröffnung aufzuführen. Vgl. auch die
+               Überlegungen zur produktiven `Stimmung' in einem Brief an Schiller vom 6.9.1798 (WA
+               IV,13,208f.), auf den schon Mommsen verwiesen hatte, sowie weitere Parallelen etwa im
+               einleitenden Aufsatz zur Kunstzeitschrift `Propyläen'. (Vgl. Schillemeit, Vorspiel,
+               S. 160f.)</p>
+            <p>Die Entstehung der in Duktus und Tinte einander ähnlichen Bruchstücke auf den
+               Blättern H P3, H P5 und H P5a läßt sich also auf den August/September 1798 festlegen.
+               Die beiden Zweizeiler auf H P3 waren wahrscheinlich für die `Lustige Person'
+               vorgesehen (vgl. Witkowski, S. 437). Das in P3 thematisierte Problem der `Einheit'
+               des "Stücks" kommt auch in P97 (hier S. 209) zum Ausdruck: "Es hat wohl seinen Anfang
+               und sein Ende./ Allein ein Ganzes ist es nicht." In einem Brief an Schiller vom 27.
+               6. 1797 bezeichnet Goethe den `Faust' als ein "Ganzes, das immer ein Fragment bleiben
+               wird" (WA IV,12,170).</p>
+            <p>Wann Goethe den Entschluß faßte, das für seinen ursprünglichen Zweck nicht
+               eingesetzte `Vorspiel' in den `Faust' aufzunehmen, ist nicht sicher _ zumindest ist
+               festzuhalten, daß es zum 1797/98 entwickelten Plan und Nummernschema noch nicht
+               gehört haben kann.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

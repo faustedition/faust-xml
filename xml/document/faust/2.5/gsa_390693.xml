@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390693/">
+   <revisionDesc>
+      <change when="2012-11-28" who="henzel">imported</change>
+      <change when="2012-11-28" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Zeichnung eines Grabmals, Corpus VI B Nr. N 23</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.10</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,11</idno>
+      <idno type="gsa_2">GSA 25/W 1706</idno>
+      <idno type="gsa_ident">390693</idno>
+      <idno type="wa_faust">2 V H.10</idno>
+      <textTranscript uri="390693.xml"/>
+      <classification>Konzept</classification>
+      <condition>am linken und unteren Rand vergilbt, Fleck unten rechts in der Ecke der Vorderseite</condition>
+      <dimensions>
+         <width unit="mm">168</width>
+         <height unit="mm">205</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 202 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskante oben</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graugrünlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>Rautenkranzwappen</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 123</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 123</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 123f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Landeck, S.124</f:bemerkung>
+     <f:dabei_vermerk>Zeichnung eines Grabmals, Corpus VI B Nr N 23</f:dabei_vermerk>
+     </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

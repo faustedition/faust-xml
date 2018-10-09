@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390400/">
+<revisionDesc>
+   <change when="2013-01-10" who="henzel">imported</change>
+   <change when="2013-01-10" who="henzel">encoded</change>
+   <change when="2015-02-04" who="koehler">minimal headnote</change>
+   <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.73</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,36</idno>
+      <idno type="gsa_2">GSA 25/W 1565</idno>
+      <idno type="gsa_ident">390400</idno>
+      <idno type="wa_faust">2 II H.73</idno>
+      <textTranscript uri="390400.xml"/>
+      <classification>Konzept</classification>
+      <condition>fleckig</condition>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">331</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 327 mm.</note>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">87</stabMark>
+         <stabMark unit="mm">141</stabMark>
+         <stabMark unit="mm">220</stabMark>
+         <stabMark unit="mm">277</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbgrünlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <watermarkID>Sächsisches Wappen mit Krone über "Stuetzerbach"</watermarkID>
+      <note>auf erster Bogenblatthälfte (Innenseite des Bogens)</note>
+      <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+      <note>auf zweiter Bogenblatthälfte (Innenseite des Bogens)</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 67</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 67</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">198</width>
+                     <height unit="mm">108</height>
+                  </patchDimensions>
+                  <note>Der Mindestwert der Blatt-Breite beträgt 187 mm. Der Mindestwert der Blatt-Höhe beträgt 103 mm.</note>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelbgrünlich</patchPaperColour>
+                  <patchChainLines unit="mm">28</patchChainLines>
+                  <patchPaperMill>Stützerbach</patchPaperMill>
+                  <patchWatermarkID>none</patchWatermarkID>
+                  <patchCountermarkID>none</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0003.xml"/> deleatur -->
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

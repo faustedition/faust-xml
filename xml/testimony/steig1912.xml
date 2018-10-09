@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2017-03-09" who="Krause">markiert</change></revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="305" facs="steig1912_0305.jpg"/>
+            <div type="text">
+                <p>Wie mag nun aber auch Engelhard in Kaſſel ſeinen Freunden über Weimar und Goethe
+                    berichtet haben! So konnte Wilhelm Grimm z. B. am 2. März 1809 Arnim vertrauen:
+                    „Ein junger Architekt, Engelhard, iſt kürzlich von Weimar gekommen und hat
+                    erzählt, daß <milestone unit="testimony" spanTo="#pniower_283_end" xml:id="pniower_283"/>Goethe jetzt <rs>an dem zweiten Teil des Fauſt arbeite</rs> und geſagt, es
+                    werde noch viel Spaß drin ſein<anchor xml:id="pniower_283_end"/>.“</p>
+            </div>
+        </body>
+    </text>
+</TEI>

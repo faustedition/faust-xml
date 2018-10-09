@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2017-03-09" who="Krause">markiert</change></revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="76" facs="schorn1911-1912_1_0076.jpg"/>
+            <div type="letter">
+                <p>Am 27. März 1827 ſchrieb der Kanzler v. Müller aus Weimar an Schorn:<anchor
+                        xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi></ref></p>
+                <p><milestone unit="testimony" spanTo="#bie3_5956_end" xml:id="bie3_5956"/><hi rend="small">Von Goethe kann ich Ihnen die allerbeſten Nachrichten
+                        hinſichtlich ſeines Wohlbefindens und heitrer Thätigkeit geben. Er hat
+                        dieſen Winter kräftiger als noch irgend einen frühern überſtanden, iſt ſogar
+                        faſt täglich Schlitten gefahren. Schon iſt der dritte Theil der erſten
+                        Lieferung ſeiner Werke angelangt, in welcher die unvergleichliche Carlsbader
+                        Elegie von 1823 ſich befindet, die beweiſen wird, daß Werther’s Jugendfeuer
+                        noch im 73 jährigen Greiſe ungeſchwächt glühen konnte. <rs>Im 4. Band wird die
+                        ſchöne Helena zum Fauſt merkwürdig genug hervortreten</rs>. Eine Vorrede zu der
+                        Ausgabe von Manzonis Dichtungen und ein neues Heft von Kunſt und Alterthum
+                        ſind ſchon unter der Preſſe und werden zur Oſtermeſſe ausgegeben. Vielfach
+                        haben ihn auch die Pläne zu Schiller’s Denkmal beſchäftigt und er hat den
+                        Ort auf unſerm neuen Gottesacker ſelbſt ausgeſucht, wohin es zu ſtehen
+                        kommen wird und wo auch ſeine eigne Aſche dereinſt neben der des Freundes in
+                        einem Sarkophag ruhen ſoll.</hi><anchor xml:id="bie3_5956_end"/></p>
+                <p><hi rend="small">Sie haben ſich unterdeſſen zu München faſt täglich noch mehr
+                        bereichert. Welche reiche Erwerbung machen Sie nun auch an Boiſſer<hi
+                            rend="antiqua">é</hi>e’s Sammlung. Faſt möchte man ſagen, es komme zu
+                        viel der Schätze an einem Orte zuſammen! Aber Ihnen perſönlich kann man
+                        doppelt dazu Glückwünſchen.</hi></p>
+            </div>
+            <div type="editorial">
+                <p><anchor xml:id="F1"/><ref target="#N1"><hi rend="sup">1</hi> Ungedruckt.</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

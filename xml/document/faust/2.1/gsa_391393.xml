@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391393/">
+   <revisionDesc>
+      <change when="2012-11-14" who="bruening">encoded</change>
+      <change when="2014-10-17" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Einzelblatt, 2 beschriebene Seiten. - Vs.: Brief an Goethe mit Gedichtreinschrift
+         (Müller, Tinte). Rs.: Versentwürfe zu ‚Faust II‘, Akt 1 (eigenhändig, Tinte und
+         Bleistift) </note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.7</idno>
+      <idno type="gsa_1">GSA 25/XVII,4,8</idno>
+      <idno type="gsa_2">GSA 25/W 1425</idno>
+      <idno type="gsa_ident">391393</idno>
+      <idno type="wa_faust">2 I H.7</idno>
+      <textTranscript uri="391393.xml"/>
+      <classification>Konzept</classification>
+      <condition>Tintenfraß.</condition>
+      <dimensions>
+         <width unit="mm">16</width>
+         <height unit="mm">202</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <watermarkID>Hollandia_und_Loewe</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 10</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>veränderte Anordnung der Verse; zur Datierung vgl. Jensen, Inge, Zum Chor der Gärtnerinnen..., in: Holtzhauer, H. (Hrsg.), Studien zur Goethezeit, Weimar 1968, S. 165-177</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Initiale "G" egh</f:dabei_vermerk>
+      <f:datierung>ab dem 8.12.1827</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>391393</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Vers(e): 5108-5119
+Laßt die reichen Körbe sehen ...
+WA: I H.7; vgl. I 15.2,10
+Konzept
+auf Brief von Müller, Friedrich an Goethe, oD [8.12.1827] mit der "Schluß-Stanze" eines Gedichts von F. v. Müller an König Ludwig I. von Bayern, unter dem Sammeltitel "Dem Könige die Muse" gedruckt in KuA VI 2 und FA I 22, 411,1-8</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,4,8</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>ab dem 8.12.1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271208 (terminus post quem)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Laßt die reichen Körbe sehen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,10</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.7</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5108-5119</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Bayern, Ludwig I. König von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Initiale "G" egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>veränderte Anordnung der Verse; zur Datierung vgl. Jensen, Inge, Zum Chor der
+               Gärtnerinnen..., in: Holtzhauer, H. (Hrsg.), Studien zur Goethezeit, Weimar 1968, S.
+               165-177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="951">KuA</f:key>
+            <f:value>VI 2 (1828)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="953">FA-Druckort von KuA</f:key>
+            <f:value>I 22,411,1-8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Brief von Müller, Friedrich an Goethe, oD [8.12.1827] mit der
+               "Schluß-Stanze" eines Gedichts von F. v. Müller an König Ludwig I. von Bayern, unter
+               dem Sammeltitel "Dem Könige die Muse" gedruckt in KuA VI 2 und FA I 22,
+               411,1-8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1088</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4031</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

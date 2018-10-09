@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390878/">
+<revisionDesc>
+   <change when="2012-11-22" who="henzel">imported</change>
+   <change when="2012-11-22" who="henzel">encoded</change>
+   <change when="2013-07-30" who="ritter">aktualisiert</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Konzept von Tagebucheintragungen vom 10. und 11.11.1831 Johns mit Tinte</note>
+      <!-- WA III 13,168,8-169,3 -->
+      <repository>gsa</repository>
+      <idno type="faustedition">H P190a</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,24:1</idno>
+      <idno type="gsa_2">GSA 25/W 1798</idno>
+      <idno type="gsa_ident">390878</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P190a</idno>
+      <!-- P190a -->
+      <textTranscript uri="390878.xml"/>
+      <classification>Konzept</classification>
+      <condition>ursprünglich mittig gefaltet, oben entlang des Falzes eingerissen</condition>
+      <dimensions>
+         <width unit="mm">166</width>
+         <height unit="mm">204</height>
+      </dimensions>
+     <format>4</format><!-- pruefen -->
+      <edges>cut</edges>
+      <note>rechts und links Schnittkante, oben Risskante</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach(?)</paperMill>
+      <watermarkID>Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 371</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 702</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 702</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 713</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 702</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata><!-- Tagebuchkonzept John 1 -->
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata><!-- Faust Goethe Blei = erste Niederschrift auf dem Blatt, Tagebuchkonzept John 2 -->
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S 702; dazu 4 Bl Kopie</f:bemerkung>
+      <f:datierung>1831 (?)</f:datierung>
+     </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Diese Bleistiftzeilen Goethes finden sich auf einem Blatt, das als erledigt gestrichene Tagebuchkonzepte von Schreiberhand zum 10. und 11. November 1831 trägt (WA III,13,168, Z. 8-169, Z. 3). Naheliegend scheint zunächst, daß Goethe die nicht als erledigt gestrichenen Bleistiftzeilen <i>nach</i> diesen Konzepten auf das Blatt gesetzt hat; die Anordnung des Tagebuchkonzepts macht jedoch bei genauerem Hinsehen sehr wahrscheinlich, daß der Vorgang hier unüblicherweise der umgekehrte gewesen ist: John beginnt den Tagebucheintrag auf der Rückseite des Blattes über die ganze Breite, erst beim Wenden stellt er fest, daß die andere Seite nicht frei ist und erst jetzt, den schon vorhandenen Goetheschen Entwurfszeilen ausweichend, führt er den Tagebucheintrag rechtsspaltig fort. Also ist es nicht nötig, die Niederschrift des Entwurfs P190a erst nach dem 11. 11. 1831 anzusetzen, eine Datierung, die _ mehrere Wochen nach der Vollendung des ganzen `Faust'-Manuskripts _ eine
+               Zugehörigkeit zum `Faust' nahezu ausschließen würde. </p>
+            <p>Für eine Zugehörigkeit zum `Faust' spricht die Nähe der 3. Zeile zu V. 10213. Ein sicherer Beleg ist das natürlich nicht: Goethe könnte die Wendung auch in weiteren Arbeiten wiederaufgenommen haben. Zur 1. Zeile vgl. auch P190, Z. 6 (hier S. 703). Wie durch die trennenden Striche betont wird, handelt es sich nicht um den Entwurf eines zusammenhängenden Verstextes: Goethe hat sich hier offensichtlich einzelne Verszeilen zur Weiterverwendung notiert. </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>190.a; 61n</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

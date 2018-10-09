@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390263/">
+   <revisionDesc>
+      <change when="2012-11-08" who="bruening">encoded</change>
+      <change when="2013-10-25" who="henzel">Lagenstruktur aktualisiert</change>
+      <change when="2014-10-09" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt (Umschlag). – Text für die Bühne.</headNote>
+      <note>Doppelblatt (Umschlag), 1 beschriebene Seite. – Seite 1: Titelaufschrift (Kräuter,
+         Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">T 0 H</idno>
+      <idno type="gsa_1">GSA 25/XVII,1,10:3</idno>
+      <idno type="gsa_2">GSA 25/W 1370</idno>
+      <idno type="gsa_ident">390263</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="kraeuter">Eigen Poetisches 38.epsilon</idno>
+      <textTranscript uri="390263.xml"/>
+      <classification>none</classification>
+      <note>Umschlag</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <watermarkID>Gekroentes_Oval_ueber_N3</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 317</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">173</width>
+               <height unit="mm">206</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">163</width>
+               <height unit="mm">206</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:druckort>WA I 14, 314-321</f:druckort>
+      <f:ident>390263</f:ident>
+      <f:kurztitel>Weimarische Inscenirungsversuche. Zum Radziwillschen Faust. Monodrama.
+WA: -
+Umschlag
+Titel der Handschrift: "Paralipomena" [Kräuter], "Zu Faust" [egh]
+Signatur Kräuter: Eigen Poetisches 38.epsilon</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>Kräuter; egh</f:schrift>
+      <f:signatur>XVII,1,10:3</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor Überlieferungsform)</f:key>
+            <f:value>Umschlag</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,1,10:3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Weimarische Inscenirungsversuche. Zum Radziwillschen Faust. Monodrama. WA I 14,
+               314-321</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 14,314</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Paralipomena" [Kräuter], "Zu Faust" [egh]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>-</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Kräuter; egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Kräuter, Friedrich Theodor David</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="88">Kräuters Repertorium</f:key>
+            <f:value>Eigen Poetisches 38.epsilon</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1044</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2976</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

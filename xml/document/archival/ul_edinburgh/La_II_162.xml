@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ul_edinburgh/La_II_162/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Antragen erster Informationen</change>
+      <change when="2013-06-25" who="gaskill">Uebermittlung der erhobenen Metadaten</change>
+      <change when="2013-07-12" who="henzel">Ergaenzungen der von Howard Gaskill erhobenen Daten</change>
+      <change when="2013-07-12" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-02-19" who="henzel">gsa_1 bearbeitet</change>
+   </revisionDesc>
+  <metadata>
+     <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+     <note>dabei: Auf der Rückseite befindet sich Goethes eigenhändige Unterschrift mit Datierung vom 20. April 1825 in Weimar, darüber Echtheitsbezeugung der Handschrift durch J. (James?) Stewart am 23. April 1825 ebenda. In der Archivmappe wird auch ein Brief Schillers aus dem Jahr 1791 aufbewahrt, in welchem er ein Angebot von Materialien zu Wallenstein ausschlägt.</note>
+      <repository>ul_edinburgh</repository>
+     <collection>David Laing Papers</collection>
+      <idno type="faustedition">2 III H.44a</idno>
+      <idno type="ul_edinburgh">La.II.162</idno>
+      <idno type="gsa_1">GSA 25/XVIII,4,1</idno>
+      <idno type="wa_faust">2 III H.α</idno>
+      <idno type="fischer_lamberg">2 III H.i</idno>
+      <textTranscript uri="La_II_162.xml"/>
+     <classification>none</classification><!-- Reinschrift -->
+     <history>David Laing war einer der führenden schottischen Sammler des 19. Jahrhunderts; seine Handschriftensammlung wurde 1878 der Universität Edinburgh vermacht. Wie Laing an die Handschrift gekommen ist, ließ sich leider nicht ermitteln. Eine wichtige Rolle dürfte jedoch J. (James?) Stewart spielen, der auf der Rückseite die Echtheit der Handschrift bezeugt hat. Stewart gehörte. Mit großer Wahrscheinlichkeit zählte Stewart zu Ottilies Bekannten und befand sich mind. Ende 1824 (zusammen mit weiteren Briten) in Weimar, s. hierzu Ottilies Tagebucheintrag vom 12. November 1824 in faust://bibliography/oettingen1913 auf S. 124f.</history>
+     <condition>Blatt in gut erhaltenem Zustand, auf der Vorderseite blauer Stempel mit der Aufschrift "Ex Bibl. Univ. Edinburgh"</condition>
+     <dimensions>
+        <width unit="mm">206</width>
+        <height unit="mm">120</height>
+     </dimensions>
+     <format>none</format>
+     <edges>cut</edges>
+     <paperType>Schreibpapier</paperType><!-- Vermutung, für Konzeptpapier zu dünn, für Briefpapier evt. zu dick, vgl. WZ -->
+     <paperColour>gelblich</paperColour>
+     <!-- chainLines ca. 25 mm -->
+     <paperMill>Stützerbach</paperMill>
+     <watermarkID>"N 4" über "Stuetzerbach"</watermarkID>
+     <!-- auf der Vorderseite, um 180° gedreht, Größe: ca. 60 mm -->
+     <references>
+        <reference type="description" uri="faust://bibliography/wa_I_53">S. 567</reference>
+        <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 144</reference>
+        <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 144f.</reference>
+     </references>
+  </metadata>
+  <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0018461d.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0018462d.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390778/">
+   <revisionDesc>
+      <change when="2012-11-12" who="henzel">imported</change>
+      <change when="2012-11-12" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2014-10-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Versentwurf zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Seite 1: Reinschrift zum Anfang der für ‚Faust
+         I‘ bestimmten Szene ‚Disputation‘ (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P12</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,9</idno>
+      <idno type="gsa_2">GSA 25/W 1383</idno>
+      <idno type="gsa_ident">390778</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P12, Hecker-Nr. 15 -->
+      <idno type="bohnenkamp">H P12</idno>
+      <textTranscript uri="390778.xml"/>
+      <classification>none</classification>
+      <!-- Bohnenkamp: Reinschrift -->
+      <!-- Bestandsverzeichnis GSA: Konzept -->
+      <condition>leicht fleckig</condition>
+      <dimensions>
+         <width unit="mm">171</width>
+         <height unit="mm">212</height>
+      </dimensions>
+      <note>Der Mindestwert für die Blatt-Höhe beträgt 210 mm.</note>
+      <format>4</format>
+      <note>aus Folioblatt gefaltet</note>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <note>Der Mindestwert für den Steglinienabstand beträgt 25 mm.</note>
+      <paperMill>Stützerbach(?)</paperMill>
+      <watermarkID>Sächsisches Wappen mit Kurhut gekrönt, zwischen Zweigen</watermarkID>
+      <countermarkID>none</countermarkID>
+      <!-- vgl. H P47) -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 291</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 236</reference>
+         <!-- TODO Erstdruck: Q, S.178 -->
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 291f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 236</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 579</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 237</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leerl -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1801 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Der zweite uns überlieferte Text, der offensichtlich mit der geplanten
+               Disputationsszene in Zusammenhang steht, ist die eigenhändige Reinschrift eines
+               Fragments dieser Szene. Sie ist wie P11 mit dunkler Tinte niedergeschrieben worden _
+               Art und Format des verwendeten Papiers entsprechen allerdings nicht dem für das
+               Schema gebrauchten. Äußere Anhaltspunkte für die Datierung liefert das Blatt nicht. </p>
+            <p>Bei dem vorliegenden Bruchstück handelt es sich um den Beginn der geplanten Szene:
+               Gestaltet wird die Situation am Eingang des Auditoriums, das Gedränge der Studenten,
+               deren eine Hälfte zum Mittagessen aus dem Hörsaal heraus, die andere Hälfte zur
+               folgenden Disputation in ihn hinein gelangen möchte; die Teilung der Studenten in
+               zwei Gruppen entspricht dem Halbchor des Schemas P11 (hier S. 226).</p>
+            <p>Andererseits fallen einige Unterschiede auf: wie im Schema erscheint auch hier der
+               "Fahrende Scholasticus" und ergreift das Wort, tritt jedoch früher auf, als im Schema
+               vorgesehen. Dagegen fehlen in dem Bruchstück der Ausführung die vom Schema
+               vorgesehenen Pedellen sowie der Rektor und Wagner. Eine weitere auffallende
+               Abweichung zwischen Schema und ausgeführtem Szenenbruchstück ist auch die Benennung
+               der akademischen Zöglinge: die "Studenten" des Schemas tauchen in der Ausführung als
+               "Schüler" wieder auf; ein Unterschied, der besondere Aufmerksamkeit deshalb verlangt,
+               weil er auch den Wechsel von der `Frühen Fassung' zum `Fragment' kennzeichnet. Die
+               Versgestalt des Bruchstückes entspricht dem `Faust'-Vers, der schon im Fragment
+               dominiert.</p>
+            <p>Als keineswegs sicher kann also gelten, daß Schema und Textbruchstück zusammen
+               entstanden sind; offen bleibt dabei auch, welchen der beiden Entwürfe Goethe zuerst
+               niedergeschrieben hat, da er die Schemata zu einer geplanten Szene durchaus nicht
+               immer vor jeder ausführenden Arbeit anlegte, sondern häufig auch als nachträglich
+               ordnendes Arbeitsmittel einsetzte. (Vgl. mein Kapitel zu Goethes Arbeitsweise, hier
+               S. 820-828.)</p>
+            <p>Z. 11 Convickt] meint hier den Speisesaal der Studenten (in Leipzig).</p>
+            <p>Z. 22 renomirt] studentensprachlich: "sich als ein Mensch aufführen, der weder
+               göttliche noch menschliche Rechte anerkennt und aller Welt zum Trotz lebt" (Göttinger
+               Glossar von 1813); "viel schreien und wenig leisten" (Studentensprache und
+               Studentenlied in Halle, S. 93).</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

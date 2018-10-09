@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390083/">
+<revisionDesc>
+   <change when="2012-12-04" who="henzel">imported</change>
+   <change when="2012-12-04" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">URI/bibliograph. Verweis</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Eigenhändiges Konzept mit Bleistift: Brief an J. F. H. Schlosser, 8.3.1825, faust://bibliography/wa_IV_51, S. 513;  eigenhändige Notiz mit Tinte: "Eng"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.30</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,31</idno>
+      <idno type="gsa_2">GSA 25/W 1728</idno>
+      <idno type="gsa_ident">390083</idno>
+      <idno type="wa_faust">2 V H.30</idno>
+      <textTranscript uri="390083.xml"/>
+      <classification>Konzept</classification>
+      <condition>Reste eines grünlichen Klebepunktes mit Druckspuren auf der gegenüberliegenden Blattseite; unterer Rand gewellt; Knickspuren; nach Erstbeschriftung auf Quart gefaltet, Quarthälfte mit Kleberest an den Rändern vergilbt</condition>
+      <dimensions>
+         <width unit="mm">212</width>
+         <height unit="mm">336</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <note>links Risskante</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>hellgelblich</paperColour>
+      <chainLines unit="mm">25</chainLines><!-- teils 26 mm -->
+      <watermarkID>Krone in Wappenkartouche mit Zierrand</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 163</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 776</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 162</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 163f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 776</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 727f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 164-166</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 777</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/><!-- "Faust" vor Briefentwurf, s. ABR S. 777 -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Unter dem Briefkonzept eine kleine egh. Federprobe.</note>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>vor dem 6.3.1825(?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> VH30 Die Vorderseite des Blattes enthält Entwürfe zu zwei Engelschören der Szene `Grablegung', für deren Entstehung der 6. 3. 1825 als terminus ante quem gilt: Ein auf den 6. 3. 1825 datiertes Geschenkblatt (Hm) enthält bereits die endgültige Fassung der auf V H30 skizzierten Verse 11745-11752, die zunächst in dieser Entwurfsfassung in das Mundum V H2 eingetragen wurden, und dann in einem nächsten Arbeitsgang mit der endgültigen _ auch auf dem Geschenkblatt Hm überlieferten _ Fassung überklebt zu werden. (Von dem in der Universitätsbibliothek Basel befindlichen Blatt Hm ist im GSA eine Kopie vorhanden; die Verse sind hier überschrieben "Geschlossener Geisterkreis".) Der auf der Rückseite des Blattes befindliche Briefentwurf vom 8.3. 1825 ist also nach den Faustversen niedergeschrieben worden, da für diese eine Entstehung kurz vor dem 6. 3. 1825 als wahrscheinlich gelten kann. </p>
+            <p>Landecks Überzeugung, daß das Entwurfsblatt V H30 ein Jahr nach seiner Entstehung noch einmal zur Überarbeitung vorgenommen und dann erst zur Erstellung des Mundums V H2 herangezogen wurde (Landeck, S. 165f.), widerspricht nicht nur der Tatsache, daß die endgültige Fassung bereits am 6. 3. 1825 auf dem genannten Geschenkblatt erreicht war, sondern beruht des weiteren auf zwei Indizien, die beide einer Überprüfung nicht standhalten (für die folgenden Angaben danke ich Jost Schillemeit): Entgegen Landecks Angaben handelt es sich bei dem zur `Absicherung seiner Datierung' herangezogenen Briefkonzept auf der Rückseite des Blattes nicht um den Entwurf einer Einladung an Voigt vom 11. 4. 1826, sondern um das Konzept eines Briefes an Fritz Schlosser, der die Zusendung einer Medaille mit Goethes Bildnis begleitete und auf den 8. 3. 1825 datiert ist ("Möge der in Effigie hier anlangende alte danckbare Freund wohl empfangen seyn so wie das weitere nächstens nach folgende"; vgl. WA
+               IV,51,513, Nr. 39112a und den Abgangsvermerk im Tagebuch vom 9.3. 1825, WA III,10,27). Der von Landeck des weiteren angeführte Tagebucheintrag vom 10. April 1826, den er _ ausdrücklich gegen die Wiedergabe in WA III,10,181 _ zitiert als "Einiges an Faust. ... Abends Abschrift der Strophen [statt "Strophe" in WA] von heute früh" und auf die Abschrift der Engelschöre von V H30 beziehen möchte, läßt im Originalmanuskript keinen Zweifel zu: die Wiedergabe in WA ist korrekt, Landecks Angabe falsch _ und eine Beziehung des Tagebucheintrags auf die Handschrift V H30 auszuschließen.</p>
+            <p>Z. 5-12: Entwurfszeilen für die Engelschöre, die im folgenden durch die Verse 11731-11734 ersetzt wurden. Als Notizen vermutlich zu einem weiteren Engelschor finden sich diese Zeilen wieder auf V H31 (hier S. 779) und V H2 (hier S. 783) _ dort jeweils im Anschluß an P203. Die Z. 5-8 aufgenommen bei Strehlke, S. 141, und wieder in BA, S. 663.</p>
+            <p>Z. 19 Liebe nur Liebenden] korrigiert aus "Liebe den Liebenden". Landeck gibt hier wohl versehentlich lediglich "Liebe".</p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= 1. K im Vgl. mit H.31 (25/XVIII,7,32*a)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="995">Referenz auf WA-Brief-Nr.</f:key>
+            <f:value>39112a</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

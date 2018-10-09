@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390299/">
+<revisionDesc>
+   <change when="2012-11-21" who="henzel">imported</change>
+   <change when="2012-11-21" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Hälfte eines ehemaligen Umschlags, 2 IV H.d ergänzende Bogenhälfte; auf Umschlag mit Adresse Goethes von Frédéric Jacques Soret und Siegelrest</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.19</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,20</idno>
+      <idno type="gsa_2">GSA 25/W 1690</idno>
+      <idno type="gsa_ident">390299</idno>
+      <idno type="wa_faust">2 IV H.19</idno>
+      <!-- P191 -->
+      <textTranscript uri="390299.xml"/>
+      <classification>Konzept</classification>
+      <condition>Abnutzungsspuren und Vergilbungen am unteren und rechten Rand auf der Vorderseite; auf der Rückseite Reste schwarzen Siegellacks; ursprünglich mehrfach gefaltet</condition>
+      <dimensions>
+         <width unit="mm">208</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 205 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <!-- Schnittkante oben -->
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <watermarkID>??? mit Rose und Nelke am Rand</watermarkID>
+      <!-- in den Ecken verschiedene Blumen -->
+      <!-- TODO Wasserzeichen ausfindig machen und Objekt (was stellt es dar? Handwerkerattribute? -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133, 241</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 713</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 140</reference><!-- Teilwiedergabe -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 713f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 716f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 714</reference>
+      </references>
+   </metadata>
+
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+  
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KUIV1_00.JPG" width="19" height="10" align="middle"/> Bei IV H19 handelt es sich um die eine Hälfte eines Foliobogens, der ursprünglich als Umschlag genutzt und von Frédéric Soret an Goethe gesendet wurde. Die andere Hälfte dieses Bogens (IV Hd) befindet sich heute in der Universitätsbibliothek Leipzig (Slg. Hirzel B 495). Die Beschriftung der Vorderseite (Adresse von der Hand Sorets) wurde vor, die der Rückseite wohl nach der Zertrennung des Bogens vorgenommen. Die Leipziger Hälfte des Foliobogens nutzte Goethe für flüchtige Bleistiftentwürfe zu den Versen 10768-10773, 10693-10698, 10711-10716, 10725f., 10737-10741, 10699-10702 und 10707-10709. Da im Sommer 1831 vierzehn Sendungen Sorets nach Weimar gingen, läßt sich eine genaue Datierung des Blattes anhand des Umschlags nicht gewinnen; zumindest die Leipziger Entwürfe aber gehen deutlich über das detaillierte Schema P181/182 (hier S. 708-711) hinaus. </p>
+            <p>Auf der hier dokumentierten Seite des Umschlags findet sich zunächst eine schon recht dicht an der endgültigen Fassung liegende Skizze zu V. 10512-10518, im selben Duktus fortfahrend Ansätze und Varianten zu V. 10525f., 10534, 10546: Verse der Figuren Raufebold, Habebald, Eilebeute und Haltefest, die teilweise schon von Strehlke (S. 129) unter die `Paralipomena', in der BA unter die `Skizzen und Varianten' (S. 661f.) aufgenommen worden sind.</p>
+            <p>Mit spitzerem Bleistift, jedoch ohne Veränderung im Duktus folgt ein Entwurf zur `Ausforderung des Gegenkaisers' <b>(P191 Var).</b> Damit läßt sich IV H19 als Vorstufe zu IV H12 (hier S. 717f.) bestimmen, anhand der Entwüfe zu V. 10512-10518 ebenso als Vorstufe zu IV H18 (hier S. 729f.) und dem Teilmundum IV H13 (hier S.732f.). </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vergleich mit IV H.12 (25/XVIII,5,13*c)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

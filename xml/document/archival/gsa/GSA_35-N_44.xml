@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_35-N_44/">
+   <revisionDesc>
+      <change when="2013-03-28" who="henzel">Datei angelegt und Referenzen von Charlotte Koehler ueberfuehrt</change>
+      <change when="2013-06-03" who="bruening">Bibliographische Verweise, Verweise auf Transkripte, Bogen.</change>
+      <change when="2013-09-24" who="bruening">encoded</change>
+      <change when="2013-10-07" who="henzel">Transkriptverweise nachgetragen</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Doppelblätter. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Zwei Umschläge, die von Wilhelm von Oettingen (vgl. faust://bibliography/fischer-lamberg1954, S. 344) wahrscheinlich wegen ihrer Zugehörigkeit zum „Faust“ zusammen abgelegt wurden.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P197a</idno>
+      <idno type="gsa_2">GSA 35/N 44</idno>
+      <idno type="gsa_ident">13198</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P197a</idno>
+      <textTranscript uri="GSA_35-N_44.xml"/>
+      <classification>none</classification>
+      <!-- Stichworte und Umschlag -->
+      <history>Die beiden Umschläge kamen 1954 aus dem Besitz des Goethe-Nationalmuseums ins GSA (faust://bibliography/fischer-lamberg1954, S. 344).</history>
+      <condition>Der erste Umschlag weist an der oberen äußeren, der zweite an der unteren äußeren Ecke Spuren von Schimmelbefall auf (vgl. auch faust://bibliography/bohnenkamp1994, S. 802).</condition>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>none</paperType>
+      <paperColour>blau</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1954">S. 344f.</reference>
+         <!-- beides -->
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 802</reference>
+         <!-- H P197a -->
+         <reference type="text" uri="faust://bibliography/fischer-lamberg1954">S. 344<!-- Umschlag -->f.<!-- H P197a --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 802</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 736</reference>
+         <!-- H P197a -->
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1954">S. 345</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 803</reference>
+         <!-- H P197a -->
+      </references>
+      <note>Kein Nachweis in faust://bibliography/inventare_2_2.</note>
+   </metadata>
+   <!-- Umschlag -->
+   <sheet>
+      <metadata>
+         <note>Die zweite Bogenhälfte war ursprünglich zur Verstärkung des Umschlagrückens zurückgefaltet.</note>
+         <dimensions>
+            <width unit="mm">208</width>
+            <height unit="mm">340</height>
+         </dimensions>
+         <countermarkID>Weimar_aehnlich_Fe_Bl_79</countermarkID>
+      </metadata>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0001.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0001a.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Quer Zählung mit Bleistift „44“ (wohl in Zsh. mit der Signatur); sonst leer.</note>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Zweiter Bogen -->
+   <sheet>
+      <metadata>
+         <note>Der Bogen muss in jüngerer Vergangenheit umgefaltet worden sein, denn die am Stempel des Goethe-Nationalmuseums erkennbare und auch von Fischer-Lamberg und Bohnenkamp als solche aufgefasste erste Bogenhälfte ist jetzt die zweite (faust://bibliography/fischer-lamberg1954, S. 345; faust://bibliography/bohnenkamp1994, S. 802f.).</note>
+         <dimensions>
+            <width unit="mm">206</width>
+            <height unit="mm">343</height>
+         </dimensions>
+         <watermarkID>CA</watermarkID>
+         <note>Anders faust://bibliography/bohnenkamp1994, S. 802.</note>
+         <countermarkID>Gehren</countermarkID>
+      </metadata>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0002a.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <note>Die Zählung der Aufschrift der vormals ersten, jetzt zweiten Bogenhälfte (s.o.) als Paralipomenon 197a geht auf Überlegungen Fischer-Lambergs zurück (faust://bibliography/fischer-lamberg1954, S. 345), ist aber erst von Bohnenkamp eingeführt worden (faust://bibliography/bohnenkamp1994, S. 802f.).</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

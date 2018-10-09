@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390772/">
+<revisionDesc>
+   <change when="2012-12-07" who="henzel">imported</change>
+   <change when="2012-12-07" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Eigenhändiger Szenentitel mit Tinte: "Buchten des Aegäischen Meeres"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.25</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,26</idno>
+      <idno type="gsa_2">GSA 25/W 1514</idno>
+      <idno type="gsa_ident">390772</idno>
+      <idno type="wa_faust">2 II H.25</idno>
+      <textTranscript uri="390772.xml"/>
+      <classification>Arbeitsmundum</classification><!-- ABR: Reinschrift/Schema -->
+      <dimensions>
+         <width unit="mm">196</width>
+         <height unit="mm">328</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 324 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"H" über "Stützerbach"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 503</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 48</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 503f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 656f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 40</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 505</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.505</f:bemerkung>
+      <f:datierung>nach dem 17.1.1830 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> IIH25 Reinschriftblatt von der Hand Johns, offenbar Diktat nach ersten Entwürfen. (Vgl. Z. 35 den Schreibfehler "Letha" statt "Leda".) Vorstufen sind auf II H13 (Z. 15-21, Z. 29-31, hier S. 496f.), II H17 (Z. 3-11 u. Z. 16-27, hier S. 498f.) und II H22 (VS) überliefert; der terminus post quem für II H13 (17. 1. 1830) kann also auch für II H25 geltend gemacht werden (vgl. Fischer-Lamberg, S. 40). Der Szenentitel entspricht schon dem Stichwort auf P125 (Z. 47: "Buchten des ägäischen Meers", hier S. 510) und geht damit über P124 (Z. 41: "Meeresgestade") hinaus; die vorgesehene Auftrittsreihenfolge scheint dagegen noch an der ersten Fassung von P124 (hier S. 491f.) orientiert. </p>
+            <p>Z. 1-10: Die in der endgültigen Fassung diese Szene eröffnenden Verse der Sirenen sind hier schon ausgeführt; das Spatium zwischen der Sprecherangabe und den Versen zeigt jedoch, daß Goethe zunächst noch eine später nicht realisierte Ergänzung plante. Vielleicht lassen sich P151 (hier S. 500) und der Beginn des Entwurfes auf II H22 (Z. 2-8, hier S. 502) als Ansätze dazu auffassen: die dort skizzierte Beschwörung des Mondes durch die Sirenen ("Halte still am Mittel Himmel") ist in der endgültigen Fassung in die Regieanweisusng vor dem Sirenengesang übergangen.</p>
+            <p>Z. 11 Kabiren] Während die folgenden beiden Verse in abgewandelter Form als Text der Sirenen in den `Faust' aufgenommen wurden, hat Goethe den hier dokumentierten Plan, die Kabiren selbst als Sprechende auftreten zu lassen, nicht realisiert.</p>
+            <p>Z. 26-29: Diese Stichworte zu einem geplanten einleitenden Szenar der Szene `Peneios' (V. 7249ff.), die auf dem vorliegenden Blatt durch Umzifferung vor die Verse der Nymphen (V. 7563ff., hier Z. 21-25) gestellt werden, sind später in die Verse des Peneios eingegangen (vgl. V. 7249-7252), die in der endgültigen Fassung die Szene eröffnen. Vgl. dazu die Randergänzungen auf P124, Z. 11f. und 14f. (hier S. 490).</p>
+            <p>Z. 30-37: "Bis auf die Schlußworte unausgeführte Skizze zum Auftreten Fausts 7271ff. Die Welt der Dämonen, die Faust bisher erblickt hat, liegt vor dem Zeitalter Helenas (vgl. 7197f.), das im Gegensatz zu jener Welt als fertig, gebildet erscheint." (Witkowski, S. 431.) Diese Schemastichworte wurden bereits von Strehlke (S. 83) unter die `Paralipomena' aufgenommen; einen ersten Entwuf bietet II H13 (hier S. 496). Die Überschrift "Faust am Peneus" entspricht der später in P125 integrierten Randergänzung auf P124 (Z. 14).</p>
+            <p>Z. 35f.: Vgl. V. 7275-7312. </p>
+           </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vgl. mit II H.22 (25/XVII,7,23*b); = früheres K zu II H.54 (25/XVII,8,19)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vgl. mit II H.13 (25/XVII,7,14*c)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vgl. mit II H.17 (25/XVII,7,18*b)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

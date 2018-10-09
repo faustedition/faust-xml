@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390569/">
+   <revisionDesc>
+      <change when="2012-12-06" who="bruening">encoded</change>
+      <change when="2013-10-18" who="henzel ritter">FL Sigle korrigiert</change>
+      <change when="2013-10-24" who="ritter">Fischer-Lamberg Sigle aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Die Bedeutung des von Schmidt stillschweigend ausgeschiedenen
+         (faust://bibliography/wa_I_15_2, S. 84 nämlich nicht erwähnten) Blatts ergibt sich aus der
+         egh. Aufschrift „Abgeschrieben“ am linken oberen Rand. Es bezeugt den von Schmidt
+         vermissten „Übergang“ (faust://bibliography/wa_I_15_2, S. 107) von „heiliger“ zu „heil’ger“ in
+         v. 9092 (hier: „heilger“ Ri aus „heiliger“). – Längs gebrochen.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.2a:2</idno>
+      <idno type="gsa_1">GSA 25/XVIII,1,2c:3</idno>
+      <idno type="gsa_2">GSA 25/W 1572</idno>
+      <idno type="gsa_ident">390569</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 III H.2a,3</idno>
+      <textTranscript uri="390569.xml"/>
+      <classification>Konzept</classification>
+      <condition>An den Rändern gebräunt, wellig und brüchig.</condition>
+      <dimensions>
+         <width unit="mm">207</width>
+         <height unit="mm">345</height>
+      </dimensions>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 83</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 83f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Notiz egh: "abgeschrieben" [oben links, Blei]</f:dabei_vermerk>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390569</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9088-9108
+Wie? aber wie? ...
+WA: -
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>Riemer</f:schrift>
+      <f:signatur>XVIII,1,2c:3</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,2c:3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wie? aber wie?</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>-</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Riemer</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9088-9108</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Riemer, Friedrich Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Notiz egh: "abgeschrieben" [oben links, Blei]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1224</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3538</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

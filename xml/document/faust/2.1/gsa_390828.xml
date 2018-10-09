@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390828/">
+	<revisionDesc>
+		<change when="2012-12-10" who="bruening">encoded</change>
+		<change when="2015-01-22" who="koehler">minimal headnote</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+		<note>Der Beweis, dass dieses Blatt einen Bogen mit faust://document/bohnenkamp/H_P106
+			bildete (s. zur Foliierung), lässt sich nicht führen. Die Risskanten passen nicht genau
+			zueinander, und auch die Faserstruktur wirkt ungleich. – Längs und quer
+			gebrochen.</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P105</idno>
+		<idno type="gsa_1">GSA 25/XIX,1,18:2</idno>
+		<idno type="gsa_2">GSA 25/W 1763</idno>
+		<idno type="gsa_ident">390828</idno>
+		<idno type="wa_faust">none</idno>
+		<idno type="bohnenkamp">H P105</idno>
+		<textTranscript uri="390828.xml"/>
+		<classification>Schema</classification>
+		<numberingList>
+			<numbering name="Bleistiftfoliierung">Archivarische Foliierung mit Bleistift
+				(rückseitig), wohl von der Hand Erich Schmidts und von der Annahme geleitet, dass
+				dieses Bl. mit faust://document/bohnenkamp/H_P106 zusammenhing.</numbering>
+		</numberingList>
+		<condition>Vergilbt.</condition>
+		<dimensions>
+			<width unit="mm">201</width>
+			<height unit="mm">330</height>
+		</dimensions>
+		<format>2</format>
+		<edges>cut</edges>
+		<paperType>Konzeptpapier</paperType>
+		<paperColour>grau</paperColour>
+		<countermarkID>H_ueber_Stuetzerbach</countermarkID>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 192</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 334</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 192f.</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 334f.</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 609f.</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 336</reference>
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0003.xml"/>
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.336</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>nach dem 7.11.1827 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390828</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Paralipomenon 105
+Knabe Zu Plutus ...
+WA: oS; vgl. I 15.2,192-193
+Schema</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XIX,1,18:2</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<metadaten xmlns="">
+				<p>GSA XIX (1,18) (WA I,15.2,192)</p>
+				<p>SchemaEntwurf</p>
+				<p>Erstdruck: WA I,15.2,192</p>
+				<p> x , graues Folioblatt, vergilbt, Konzeptpapier, in Kolumnen gebrochen, ehemals
+					als Umschlag gefaltet; WZ: `H' über `Stuetzerbach' (Stuetzerbacher
+					Sternpapier);</p>
+				<p>VS: Weller u. John Tinte Briefkonzept an Varnhagen vom 8. 11. 1827, mit
+					Bleikorrekturen Goethes, mit Blei als erledigt gestr.;</p>
+				<p>RS: G schw.br. Tinte rechtsspaltig P104, flüchtig, mit Zusätzen auf der linken
+					Blatthälfte</p>
+				<p>[ Das Würdige nicht zu be</p>
+				<p>schreib[e]n</p>
+				<p>Doch indireckt beschrieb[en]</p>
+				<p>5 Talar</p>
+				<p>Turban</p>
+				<p>Mondgesicht</p>
+				<p>Behagliches</p>
+				<p>Name.</p>
+				<p>10 Poesie</p>
+				<p>Schnippch[en] als Geschenck</p>
+				<p>Verwandlung derselb[en] ]<sub>B</sub>
+				</p>
+				<p>Plutus</p>
+				<p>Steigt ab.</p>
+				<p>15 [ Avaritia Geiz</p>
+				<p>weigerung ]<sub>B</sub>
+				</p>
+				<p>Drache[n] holen herab</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p> Für die Datierung dieses Schema-Entwurfs läßt sich anhand des Briefkonzepts auf
+					der Vorderseite (an Varnhagen vom 8. 11. 1827, vgl. WA IV,43,155) der 7. 11.
+					1827 als terminus post quem gewinnen (vgl. Tagebuch WA III,11,134). Das Schema
+					skizziert den zweiten Teil der `Mummenschanz' von V. 5562 bis zum Schluß der
+					Maskerade (Z. 29); es folgen Stichworte zur Forderung der Geisterbeschwörung
+					durch die Hofgesellschaft (Z. 30-33). Weder das Motiv des Papiergeldes noch der
+					Gang zu den Müttern wird angedeutet. </p>
+				<p>HP104</p>
+				<p> Der am linken Rand quer eingetragene Zusatz wurde mit derselben Tinte wie das
+					Schema niedergeschrieben, es handelt sich offensichtlich um die direkte
+					Fortsetzung des Schemas, für die auf der anderen Seite des Blattes aufgrund des
+					Briefkonzepts kein Platz war. Die übrigen Ergänzungen am linken Rand weisen eine
+					etwas dunklere Tinte auf; es handelt sich um nachträgliche Zusätze. Der letzte
+					Nachtrag (V. 5588f.) wurde dann mit Bleistift vorgenommen. Während der Beginn
+					des Schemas (Z. 1-7), der sich auch durch einen ruhigeren Duktus der Schrift von
+					der Fortsetzung unterscheidet, der Ausführung schon recht genau entspricht (V.
+					5562-5685) und wahrscheinlich aufgrund schon vorliegender Teilentwürfe
+					niedergeschrieben wurde (vgl. etwa I H24, hier S. 328-330), sind die
+					offensichtlich vorausplanenden Stichworte zum folgenden Geschehen noch sehr
+					allgemein. Wichtige Motive, wie das des brennenden Bartes, fehlen noch. Die
+					Striche zur Kennzeichnung des Erledigten machen ebenfalls deutlich, daß das
+					vorliegende Schema ab Z. 17 nicht mehr direkt `verwertet' wurde. In den
+					nachträglichen Zusätzen kündigt sich die in der endgültigen Fassung realisierte
+					Einbeziehung des Motivs des `Pfingstwunders' im Zusammenhang mit dem Knaben
+					Lenker an. </p>
+				<p>Emrich (Symbolik, S. 207) weist darauf hin, daß die einzigen ausgeführten Verse
+					in diesem Schema V. 5628f. sind und schließt auf ihre besondere Bedeutung für
+					Goethe: "Das Vater-Sohn-Verhältnis zwischen Faust und dem Knaben, das ja bereits
+					in der Euphorionzeugung faktisch vorgeformt war, ist also für Goethe selbst
+					ausschlaggebend gewesen." (Emrich, Symbolik, S. 207; zu P104 vgl. außerdem S.
+					211.)</p>
+				<p>Z. 2 lks. Flämmchen] Vgl. V. 5632-39.</p>
+				<p>Z. 2-4: Vgl. V. 5562.</p>
+				<p>Z. 5-8: Vgl. V. 5563-5566.</p>
+				<p>Z. 9 Name] Vgl. V. 5569ff.</p>
+				<p>Z. 10 Poesie] Vgl. V. 5573.</p>
+				<p>Z. 11f.: Vgl. V. 5582ff.</p>
+				<p>Z. 13f.: Plutus Steigt ab] Vgl. nach V. 5682.</p>
+				<p>Z. 15f.: Vgl. V. 5646ff.</p>
+				<p>Z. 17 Drache[n] holen herab] Vgl. V. 5684ff.</p>
+				<p>Z. 18: Knabe jagt fort] Vgl. nach V. 5708.</p>
+				<p>Z. 22 lks. Lorbe[e]rkranz] Vgl. V. 5620.</p>
+				<p>Z. 20-29: Die Ausführung bis zum Ende der "Masker[a]de" weicht von diesen
+					Stichworten noch deutlich ab.</p>
+				<p>Z. 30f.: Bezieht sich auf die Forderung der Hofgesellschaft nach
+					Geister-"Gestalt[en?]" und Fausts Versprechen, diese hervorzurufen (vgl. auch
+					P105, Z.48, hier S.335).</p>
+				<p>Z. 32 schwurig] Wohl: "schwürig". Für `schwierig' (DWB 15,2768). Meint: "Meph
+					widersetzt sich" (der Forderung nach Geistererscheinungen) (P105, Z. 50, hier
+					S.335).</p>
+				<p>Z. 34f.: Diese nach WA I,15.2,13 auch auf IHk überlieferten Verse hat E. Schmidt
+					dort irrtümlicherweise zu den Paralipomena gezählt und als Nr. 111 in seinen
+					Bestand aufgenommen (WA I,15.2,195).</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 1</p>
+				<p>
+					<b>H P105</b>
+				</p>
+			</kommentar>
+			<metadaten xmlns="">
+				<p>GSA XIX (1,18) (WA I,15.2,192f.)</p>
+				<p>SchemaEntwurf</p>
+				<p>Erstdruck: WA I,15.2,192f.</p>
+				<p>201 x 330mm, graues Folioblatt, vergilbtes Konzeptpapier, gerippt, gefaltet, in
+					Kolumnen gebrochen; WZ: `H' über `Stuetzerbach' (Stuetzerbacher
+					Sternpapier);</p>
+				<p>VS: G schw. Tinte rechtsspaltig P105, flüchtig, einzeln mit Tinte als erledigt
+					gestr.;</p>
+				<p>RS: G schw. Tinte rechtsspaltig Fortsetzung P105, flüchtig, mit Blei als erledigt
+					gestr.</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p>Das Blatt gibt keine äußeren Anhaltspunkte zur Datierung; der vorliegende
+					Schema-Entwurf, der das Geschehen von Vers 5612 bis zum Schluß der
+					`Mummenschanz' einschließlich der folgenden Forderung des Kaisers nach
+					"Geistererscheinungen" "zur Unterhalt[un]g" skizziert, ist jedoch sehr
+					wahrscheinlich nach P104, hier S. 331f., entstanden und also ebenfalls auf einen
+					Zeitpunkt nach dem 7. 11. 1827 zu datieren.</p>
+				<p>Wie in P104 fehlt auch in P105 noch jede Erwähnung sowohl des Papiergeld- als
+					auch des Müttermotivs. Z. 1-21 des Schemas lassen sich den ausgeführten Versen
+					recht genau zuordnen: die Schemastichworte nennen jeweils den Sprecher und ein
+					wesentliches Stichwort seiner folgenden Rede. Die Entsprechungen im
+					einzelnen:</p>
+				<p>Z. 1f.: V. 5612ff.; Z. 3f.: 5622ff.; Z. 5f.: 5630ff.; Z. 7f.: 5640ff.; Z. 9f.:
+					5646ff.; Z. 11f.: 5670ff.; Z. 13-17f.: 5675-5682; Z. 18-20: 5683-5688 (mit
+					geringen Abweichungen in der Reihenfolge); Z. 21: entspricht in der Ausführung
+					der Regieanweisung vor 5683; Z. 22f.: 5689ff. (hier setzt das Arbeitsmundum I
+					H32 ein!); Z. 24f.: 5697ff.</p>
+				<p>Mindestens bis Z. 12 scheinen Goethe bei der Niederschrift des Schemas die
+					entsprechenden Verse in Entwürfen schon vorgelegen zu haben; die Funktion des
+					Schemas ist hier also wohl eine nachträglich ordnende. Auch in diesem Schema ist
+					der charakteristische Unterschied in der Kennzeichung `als erledigt' zu
+					beobachten: während die Stichworte zu Beginn des Schemas einzeln durchgestrichen
+					sind, ist der in größeren Zügen vorausplanende Teil im Ganzen gestrichen.</p>
+				<p>Die zweite Hälfte des Schemas, die Zeilen 26-51, weisen noch deutliche
+					Abweichungen von der Ausführung auf: während das Motiv der herandrängenden Menge
+					und der Pantomime des Geizes noch fehlt und auch die Gnomen, Satyrn und Nymphen
+					noch nicht vorgesehen sind, ist im Gegensatz zu P104 die `flammende' Kiste, in
+					die die Maske des Kaisers hineinfällt, bevor sie davonfliegt, schon vorhanden.
+					Der später ausgeführte Brand wird auch in diesem Schema noch nicht erwähnt.</p>
+				<p>Morris hält P105 für eine nach P106, hier S. 343, entstandene Fassung, da er in
+					P106 (wie auch in P113, P117, I H60) "Spuren der merkwürdigen, gleich wieder
+					aufgegebenen Intention, die Lösung der Verwirrung und Scheinkatastrophe am
+					Schlusse der Mummenschanz durch den `Dichter' bewirken zu lassen", entdeckt
+					(Morris, Faustparalipomena, S. 188). Der genaue Vergleich legt jedoch das
+					umgekehrte Verhältnis nahe: aller Wahrscheinlichkeit nach liegt mit dem
+					detaillierteren P106 das spätere Schema vor. Spuren des Plans, den `Dichter'
+					auftreten zu lassen, finden sich auch auf einem Entwurfsblatt aus dem Jahre
+					1829. Dort sollte er offensichtlich nicht mehr nur die `Mummenschanz', sondern
+					den ganzen 1. Akt beschließen (vgl. I H60, Z. 22, hier S. 377).</p>
+				<p>Z. 40 entwast] Wohl Bildung Goethes aus `wasen' ("dampfen, dunst von sich geben"
+					DWB 27,2285) _ vgl. "enthüllt" an entsprechender Stelle in P106, Z. 21, hier S.
+					343.</p>
+				<p>Z. 41 Stücke] Erich Schmidt liest "Stände(?)"; Witkowski (S. 429) erläutert: "Die
+					`Stände' [...] sind die Hofleute, die als Mitglieder des vorausgegangenen
+					Reichstags so bezeichnet werden."</p>
+				<p>Z. 46 ajournirt] vertagt.</p>
+				<p>IH28(P112)</p>
+				<p>
+					<b>I H28 (P112)</b>
+				</p>
+			</kommentar>
+			<metadaten xmlns="">
+				<p>GSA XIX (1,18) (WA I,15.2,193)</p>
+				<p>SchemaEntwurf</p>
+				<p>Erstdruck: WA I,15.2,193</p>
+				<p>202 x 330mm, graues Folioblatt, vergilbtes Konzeptpapier, gerippt, gefaltet, in
+					Kolumnen gebrochen; WZ: Stern über `N 1' (Stuetzerbacher Sternpapier);</p>
+				<p>VS: G schw. Tinte rechtsspaltig P106, flüchtig, mit Sofortkorrekturen,
+					Ergänzungen auf der<br/> linken Hälfte mit Sofortkorrekturen;</p>
+				<p>RS: leer</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p>Dieser auf den 16. Dezember 1827 datierte Entwurf eines Schemas skizziert das
+					Geschehen von V. 5689 bis zum Schluß der `Mummenschanz'. Detaillierter als P104
+					(hier S. 331f.) oder P105 (hier S. 334f.) in der Beschreibung der Geschehnisse
+					nach dem Abschied des Knaben Lenker, scheint es sich um ein diese ergänzendes
+					Zusatzschema zu handeln. Während die erste Fassung des Schemas der
+					entsprechenden Partie in P105 noch nahesteht, weist die durch Sofortkorrekturen
+					und Ergänzungen hergestellte zweite Fassung schon auf die ausgeführte
+					Version.</p>
+				<p>Z. 9 grosthuisch] prahlerisch. Vgl. I H43, Z. 9 (hier S. 345).</p>
+				<p>Z. 17: Die Ergänzung "Ge[sicht]" (gegen WA: "Ge[fäß]") hat zuerst Düntzer
+					vorgeschlagen (Entstehung der ersten Akte, S. 287).</p>
+				<p>Z. 19 Der Dichter] Ein weiterer Hinweis auf den nicht realisierten Plan, in der
+					`Mummenschanz' einen "Dichter" auftreten zu lassen. Vgl. dazu P113 (hier S.
+					339f.), P117 (hier S. 371), ferner I H60 (hier S. 377). "Am Schlusse des
+					Paralipomenon 106 ändert Goethe diesen Plan; er streicht den Dichter und setzt
+					dafür Faust, der nun das Ganze `enthüllt' oder `entwast' [...]" (Morris,
+					Faustparalipomena, S. 190). Der von Morris aus dieser zutreffenden Beobachtung
+					gezogene Schluß auf eine Entstehung von P106 vor dem Schema P105, das den
+					Dichter nicht nennt, ist jedoch nicht zwingend, da das Auftreten des Dichters
+					durchaus auch ein vorübergehender Einfall gewesen sein kann, den Goethe in P105
+					noch nicht skizzierte.</p>
+				<p>Z. 24 den Faun] Gegen den WA-Vorschlag ("Faun?") setzte zuerst Witkowski (ebenso
+					dann Hecker) in Übereinstimmung mit der schließlich ausgeführten Fassung hier
+					"Pan" ein, um den Gegensatz zu "den Faunen" (Z. 25) plausibel zu machen. Der
+					handschriftliche Befund spricht jedoch deutlich gegen diese Lösung. Offen
+					bleibt, ob es sich an dieser Stelle um einen Schreibfehler oder um einen
+					ursprünglich abweichenden Plan handelt. Vielleicht läßt sich der hier
+					intendierte Gegensatz mit Blick auf P103, Z. 99 (hier S. 366) verstehen:
+					zunächst entzündet die aufflammende Kiste den "erste[n]" Faun, bevor dann auch
+					die anderen Faunen dem Feuer zu nahe kommen.</p>
+				<p>IH43 (P106 Var)</p>
+				<p>
+					<b>I H43 (P106 Var)</b>
+				</p>
+			</kommentar>
+			<metadaten xmlns="">
+				<p>GSA XIX (1,18) (WA I,15.2,193f.)</p>
+				<p>Schema (Abbildung hier S. 826)</p>
+				<p>Erstdruck: WA I,15.2,193f.</p>
+				<p>201 x 330 mm, graues Folioblatt, Konzeptpapier, gerippt, gefaltet, in Kolumnen
+					gebrochen; WZ: Stern über `N 1' (Stuetzerbacher Sternpapier);</p>
+				<p>VS: John schw. Tinte P107 (Zeile 1 u. 2); G schw. Tinte P107 (ab Zeile 3); links
+					Ergänzungen Goethes und Ergänzungszeichen im Text in Blei; alles mit Blei als
+					erledigt gestr.;</p>
+				<p>RS: leer</p>
+			</metadaten>
+			<kommentar xmlns="">
+				<p>Das Blatt gibt keine äußeren Anhaltspunkte für die Datierung; das von John
+					begonnene, dann von Goethe fortgesetzte Schema skizziert die geplante
+					Fortsetzung des ersten Aktes nach der `Mummenschanz'. Schon die überarbeitete
+					Fassung von P106 auf I H43 (hier S. 345f.) deutet diese Fortsetzung an: vgl. das
+					abgeschnittene Stichwort "Knieend pp" (Z. 27), das hier auf den die
+					`Mummenschanz' abschließenden Brand folgt. Ob das vorliegende Schema noch
+					während der abschließenden Arbeiten an der Mummenschanz im Dezember 1827 oder,
+					wie Düntzer vermutet, erst im Januar 1828 entstanden ist, läßt sich nicht
+					entscheiden. (Düntzer, Entstehung der ersten Akte, S. 297.)</p>
+				<p>Z. 2-10: entsprechen etwa V. 5987 bis 6036; die eigenhändige Bleistiftergänzung
+					am linken Rand nennt zentrale Stichworte des Dialogs zwischen dem Kaiser und
+					Mephistopheles.</p>
+				<p>Z. 12-19 rechts: entsprechen der schon in P104, Z. 29-32, und P105, Z. 47-51,
+					skizzierten Fortsetzung des 1. Akts (vgl. P104 und P105, hier S. 332 und S.
+					335), die so jedoch nicht ausgeführt wurde. Geplant war eine Szene, in der die
+					Hofgesellschaft den Wunsch nach einer Geisterbeschwörung äußert und Faust gegen
+					Mephistos Warnung diese zusagt. Sie fehlt in der endgültigen Fassung der
+					Dichtung; an ihrer Stelle steht die `Papiergeldszene', von der im Schema noch
+					keine Spur zu entdecken ist. `Hinter der Bühne' jedoch findet der ursprünglich
+					geplante Auftritt auch in der ausgeführten Fassung noch statt; zu Beginn der
+					Szene `Finstere Galerie' beziehen sich Faust und Mephisto auf das hier
+					Vorgefallene: Faust: "[...] Der Marschalk und der Kämmrer treibt mich nun./ Der
+					Kaiser will, es muß sogleich geschehn,/ Will Helena und Paris vor sich sehen;
+					[...]" Mephistopheles: "Unsinnig war's leichtsinnig zu versprechen." (V.
+					6182ff.)</p>
+				<p>Z. 14f. Streit zwischen Dame und Herr] Oder: "Dame[n] und Herr[n]"? Um die
+					gewünschte Geistererscheinung? Einen frühen Entwurf zu einem solchen
+					Streitgespräch vermutet Grumach (Aus Goethes Vorarbeiten zu den Helenaszenen) in
+					dem vielumrätselten P10 (hier S. 121f.).</p>
+				<p>Z. 18 assentirt] stimmt zu.</p>
+				<p>IH45 (P117, P118)</p>
+				<p>
+					<b>I H45 (P117, P118)</b>
+				</p>
+			</kommentar>
+		</f:abrDissertation>
+		<f:inventoryDatabase>
+			<f:field>
+				<f:key n="08">Signatur</f:key>
+				<f:value>25/XIX,1,18:2</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="081">Bestandsbezeichnung</f:key>
+				<f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+				<f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="11z">Druckstelle in der WA</f:key>
+				<f:value>I 15.1,8</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="12e">ermittelte Datierung</f:key>
+				<f:value>nach dem 7.11.1827 (?)</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="14">vorgefundenes Inzipit</f:key>
+				<f:value>Knabe Zu Plutus</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+				<f:value>I 15.2,192-193</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="25">Sigle</f:key>
+				<f:value>oS</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="30">Schrift</f:key>
+				<f:value>egh</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="333">Überlieferungsform</f:key>
+				<f:value>Schema</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="41p">Paralipomenon</f:key>
+				<f:value>105</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="80">Blattzahl</f:key>
+				<f:value>1</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="91">Kommentar</f:key>
+				<f:value>zur Datierung vgl. Bohnenkamp, S.336</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="994">Filmnummer</f:key>
+				<f:value>1392</f:value>
+			</f:field>
+			<f:field>
+				<f:key n="xx0">Datensatznr.</f:key>
+				<f:value>3869</f:value>
+			</f:field>
+		</f:inventoryDatabase>
+	</f:metadataImport>
+</archivalDocument>

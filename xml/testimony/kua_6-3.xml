@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-15" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="626" facs="kua_6-3_0626.jpg"/>
+            <div type="text">
+                <p>Als Goethe’s nächſte Freunde die Durchſicht ſeines reichen literariſchen
+                    Nachlaſſes begannen, fanden ſie gar bald, daß zu einem neuen Hefte von Kunſt und
+                    Alterthum bereits Bedeutendes theils völlig ausgearbeitet, theils vorbereitet
+                    war.</p>
+                <p><milestone unit="testimony" spanTo="#graef_1732_end" xml:id="graef_1732"/>Goethe
+                    hatte oftmals davon geſprochen, wie er mit dieſem dritten Hefte des ſechſten
+                    Bandes das ganze Unternehmen abzuſchließen beabſichtige und nur noch durch die
+                    ſich auferlegte unerläßliche <rs>Vollendung ſeines <hi rend="letter-spaced"
+                            >Fauſt</hi></rs> daran behindert werde.<anchor xml:id="graef_1732_end"
+                    /></p>
+            </div>
+        </body>
+    </text>
+</TEI>

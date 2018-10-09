@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391511/">
+   <revisionDesc>
+      <change when="2012-12-05" who="henzel">imported</change>
+      <change when="2012-12-05" who="henzel">encoded</change>
+      <change when="2015-02-23" who="koehler">URI fuer Handschriftensigle</change>
+      <!-- Zusatzblatt zur Provenienz eventuell entfernen -->
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2018-09-20" who="krause">idno+subidno landeck ergänzt</change>
+      <change when="2018-09-27" who="krause">subidno landeck entfernt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 4 Blätter. – Zu ‚Faust II‘, Akt  5.</headNote>
+      <note>Faszikel mit Zusatzblatt (Fortsetzung hiervon auf faust://document/wa_faust/2_V_H.36
+         (25/XVIII,7,36)); dazu Bemerkung Wolfgang Maximilian von Goethes über den Erwerb der
+         Handschrift von Alwina Göttling, 1878, 1 Dbl., 209 × 333
+         mm.<!--<sheet>
+            <!-\- Bl 5 und 6 zum Handschriftenerwerb -\->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">209</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <format>2</format>
+               <edges>cut</edges>
+               <leafCondition>Außenrand, insbesondere des ersten Blattes, stark vergilbt, am Bogenfalz
+                  stark eingerissen, am unteren Rand jeweils eingerissen, Tintenabdrücke auf der
+                  Rückseite</leafCondition>
+               <paperType>Maschinenpapier</paperType>
+               <paperColour>gelbbräunlich</paperColour>
+               <chainLines unit="mm">none</chainLines>
+               <watermarkID>none</watermarkID>
+               <countermarkID>none</countermarkID>
+            </metadata>
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0011.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript/>
+                     <!-\- leer -\->
+                  </metadata>
+               </page>
+            </leaf>
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript/>
+                     <!-\- leer -\->
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript/>
+                     <!-\- leer -\->
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>--></note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.33</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,34</idno>
+      <idno type="gsa_2">GSA 25/W 1731</idno>
+      <idno type="gsa_ident">391511</idno>
+      <idno type="wa_faust">2 V H.33</idno>
+      <idno type="landeck">2 V H.33</idno>
+      <textTranscript uri="391511.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <!-- Konzept? -->
+      <history>aus Besitz Göttling, Karl Wilhelm</history>
+      <!-- ersten 4 Blatt -->
+      <numberingList>
+         <numbering>Archivarische Zählung mit Blaustift auf Blatt 5 mit Bemerkung Wolfgang
+            Maximilian von Goethes</numbering>
+         <!-- TODO Zählung präzisieren, falls möglich -->
+      </numberingList>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <!-- TODO zur Datierung vgl. Landeck, S.183 -->
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 178</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 178-182</reference>
+         <reference type="facsimile" uri="faust://bibliography/wahl1929">S. 19-24</reference>
+         <reference type="essay" uri="faust://bibliography/wahl1929">S. 30</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 182-184</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">332</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Höhe beträgt 331 mm.</note>
+         <format>2</format>
+         <stabMarks>
+            <stabMark unit="mm">68</stabMark>
+            <stabMark unit="mm">79</stabMark>
+            <stabMark unit="mm">122</stabMark>
+            <stabMark unit="mm">165</stabMark>
+            <stabMark unit="mm">248</stabMark>
+            <stabMark unit="mm">261</stabMark>
+         </stabMarks>
+         <leafCondition>ursprünglich zweimal quer gefaltet (drei Falzspuren)</leafCondition>
+         <edges>cut</edges>
+         <paperType>Konzeptpapier</paperType>
+         <paperColour>graugelblich</paperColour>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>Stern über "N 1"</watermarkID>
+         <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      </metadata>
+      <leaf>
+         <!-- Bl 1 -->
+         <page>
+            <metadata>
+               <!-- Bergschluchten -->
+               <docTranscript uri="0010.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- lat. Lettern -->
+               <docTranscript uri="0007.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <disjunctLeaf>
+         <!-- angeklebtes Folioblatt = Bl 2 -->
+         <metadata>
+            <note>Das Blatt wurde an der Vorderseite des ersten Bogenblattes (Blatt 1) angeklebt und
+               in den Bogen eingeschlagen, sodass es im aufgeklappten Zustand neben der Vorderseite
+               des zweiten Bogenblattes (Blatt 3) zu stehen kommt, auf das es sich auch inhaltlich
+               bezieht.</note>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <note>Ohne Klebefalz beträgt der Wert der Blatt-Breite 191 mm.</note>
+            <format>2</format>
+            <bindingMaterial>Klebstoff</bindingMaterial>
+            <stabMarks>
+               <stabMark unit="mm">73</stabMark>
+               <stabMark unit="mm">78</stabMark>
+               <stabMark unit="mm">165</stabMark>
+               <stabMark unit="mm">245</stabMark>
+            </stabMarks>
+            <leafCondition>im unteren Viertel auf der Rückseite zwei rote Klebepunkte (eventuell von
+               einem Siegel herrührend)</leafCondition>
+            <edges>cut</edges>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>gelblich</paperColour>
+            <chainLines unit="mm">28</chainLines>
+            <paperMill>Stützerbach</paperMill>
+            <watermarkID>Sächsisches Wappen mit Krone über "Stuetzerbach"</watermarkID>
+            <countermarkID>none</countermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+               <!--  <docTranscript uri="0006.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <leaf>
+         <!-- Bl 3 -->
+         <metadata>
+            <leafCondition>am unteren Rand drei große Klebepunkte, die auf frühere An- oder
+               Aufklebung verweisen</leafCondition>
+         </metadata>
+         <page>
+            <!-- P.S. -->
+            <metadata>
+               <references>
+                  <reference type="facsimile" uri="faust://bibliography/fiedler2943">vor S. iv</reference>
+               </references>
+               <docTranscript uri="0008.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- Die vollendeteren Engel -->
+            <metadata>
+               <docTranscript uri="0009.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf>
+      <!-- Bl 4, Bruchstück -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">191</width>
+            <height unit="mm">154</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 191 mm.</note>
+         <format>none</format>
+         <leafCondition>starke Gebrauchsspuren (Vergilbungen, Verfärbungen, Flecke) auf der
+            Vorderseite; früherer Bruch des Blattes verläuft im unteren Bereich quer</leafCondition>
+         <paperType>Schreibpapier</paperType>
+         <paperColour>gelblich</paperColour>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>n.s.</paperMill>
+         <watermarkID>Krone mit Blumenornament</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- Engel mit Tinte -->
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>Anfang Dez. 1830 (?)</f:datierung>
+      <f:kurztitel>
+Vers(e): 11844-11980 (11902-11905 fehlt/fehlen)
+Waldung, sie schwebt heran ...
+Konzept
+
+Vers(e): 11895-11910 (11898-11905 fehlt/fehlen)
+Sag uns Guter wer wir sind ...
+Konzept
+Bruchstück
+
+Vers(e): 11922-11925
+Denn das ist der Geister ...
+Konzept
+Bruchstück</f:kurztitel>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

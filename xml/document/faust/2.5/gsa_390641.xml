@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390641/">
+   <revisionDesc>
+      <change when="2012-12-03" who="henzel">imported</change>
+      <change when="2012-12-03" who="henzel">encoded</change>
+      <change when="2014-11-11" who="henzel">la ergaenzt</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-02-23" who="koehler">URIs/bibliograph. Verweise</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Eigenhändige Berechnungen mit Bleistift; auf Konzept Johns zu faust://bibliography/wa_II_12, S. 90,1-2 und faust://bibliography/wa_II_12, S. 91,1-4, Bruchstück (Fortsetzung von GSA 26/LX,4f Bl 1)<!-- Druck in Leopoldina I 11,254,21-23 --></note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.27</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,28</idno>
+      <idno type="gsa_2">GSA 25/W 1725</idno>
+      <idno type="gsa_ident">390641</idno>
+      <idno type="wa_faust">2 V H.27</idno>
+      <!-- Leopoldina II 2, Versuch einer Witterungslehre 1825, Winderzeugung, H.2, S. 727f. -->  
+      <idno type="la_II_2_winderz">H.2</idno>
+      <textTranscript uri="390641.xml"/>
+      <classification>Konzept</classification>
+      <condition>ursprünglich in der Mitte längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">169</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 203 mm. Der Mindestwert der Blatt-Höhe beträgt 165 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskante unten</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach(?)</paperMill>
+      <watermarkID>Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note><!-- Leopoldina erwähnt kein Wz -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 158</reference>
+         <reference type="description" uri="faust://bibliography/la_II_2">S. 727</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 158</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 158</reference>
+         <!-- TODO zur Datierung vgl. Landeck, S.158 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>nach dem 10.2.1825 (?)</f:datierung>
+      <f:kurztitel>
+Versuch einer Witterungslehre. Wolkenbildung
+mittleren, Stratus auf niederen, Nimbus auf den niedrigsten Zustand ...
+Konzept
+Bruchstück
+Text der Handschrift zu WA: II 12,90,1ff. (vgl. auch WA II 12,188,4-6)
+
+Versuch einer Witterungslehre. Winderzeugung
+Winderzeugung ist gleichfalls im Bezug auf den Barometerstand zu achten ...
+Konzept
+Bruchstück
+Text der Handschrift zu WA: II 12,91,1-4
+</f:kurztitel>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres Konzept im Vgl. mit V H.28 (25/XVIII,7,29); enthält auch verlöschte Bleispuren; zur Datierung vgl. Landeck, S.158</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

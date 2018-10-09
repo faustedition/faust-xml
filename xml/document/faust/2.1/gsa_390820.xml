@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390820/">
+   <revisionDesc>
+      <change when="2012-12-11" who="bruening">encoded</change>
+      <change when="2013-07-30" who="ritter">aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Ursprünglich ein Bogen (faust://bibliography/bohnenkamp1994, S. 306), vielleicht erst
+         nach der Beschriftung, zur weiteren Verwendung der Verse des Poeten (Nr. III), getrennt.
+         Quer gebrochen.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P110a</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,20</idno>
+      <idno type="gsa_2">GSA 25/W 1767</idno>
+      <idno type="gsa_ident">390820</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P110a</idno>
+      <textTranscript uri="390820.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <history>aus Nachlass Müller (1906)</history>
+      <numberingList>
+         <numbering name="Bleistiftzählung">Archivarische Zählung der oberen und unteren
+            Blatthälften. faust://bibliography/bohnenkamp1994, S. 306 geht dagegen von einer
+            eigenhändigen Paginierung aus. Die Deutung der Zählung (ebd., S. 308) ist entsprechend
+            problematisch.</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 369</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 306</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 368f.</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 369</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 306-308</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 601f.</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_53">S. 369</reference>
+         <reference type="essay" uri="faust://bibliography/jokisch1922">S. 674–676</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 308f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <watermarkID>Stern_ueber_N1</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0005.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Arbeitsmundum; enthält auch nachträglich (?) eingetragene Seiten (?) Numerierungen, vgl. Bohnenkamp, S.306-308</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390820</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Paralipomenon 110.a; 55n
+Poeten. I Natur u Liebe. ...
+WA: oS; vgl. I 53,368-369
+Konzept
+aus Nachlaß Müller (1906)</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XIX,1,20</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XIX (1,20) (WA I,53,368)</p>
+            <p>Arbeitsmundum</p>
+            <p>Erstdruck: WA I,53,368 (1906 im Nachlaß des Kanzler v. Müller gefunden)</p>
+            <p> x , 2 graue Folioblätter (ursprünglich ein Bogen), gefaltet; gerippt, WZ: `H'
+               über<br/> `Stuetzerbach' / Stern über `N 1' (Stuetzerbacher Sternpapier);</p>
+            <p>Seite 1: G schw. Tinte P110a; G Blei paginiert;</p>
+            <p>Seite 2: G schw. Tinte Fortsetzung P110a;</p>
+            <p>Seite 3: G schw. Tinte Fortsetzung P110a;</p>
+            <p>Seite 4: G schw. Tinte Fortsetzung P110a über älterem Entwurf G Blei; G Blei
+               paginiert</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Das vorliegende Blatt, das erst 1906 im Nachlaß des Kanzlers von Müller gefunden
+               wurde, bietet keine äußeren Anhaltspunkte für die Datierung. Von den Versen des
+               Satirikers allerdings ist eine gleichlautende Fassung überliefert, die offensichtlich
+               als Geschenkblatt Verwendung finden sollte und auf August 1827 datiert ist. (Das
+               Blatt befindet sich im Goethemuseum Düsseldorf unter der Signatur NW 996.)</p>
+            <p>HP110a enthält die eigenhändige Niederschrift von Teilen einer geplanten
+               `Poetenszene' im Rahmen der `Mummenschanz'; auf Seite 4 liegt die Tintenschicht über
+               älteren, zum Teil nur unsicher zu entziffernden Bleistiftentwürfen zu dieser Szene.
+               (Vgl. Z. 35-37.) Die gegen die ursprüngliche Numerierung später eingetragenen
+               (Seiten?) Zahlen (Z. 1, 8, 34 u. 45) lassen auf eine nachträgliche Veränderung der
+               zunächst vorgesehenen Reihenfolge schließen. Das mehrfache `Umordnen' einzelner
+               Textbruchstücke läßt sich auf einer Reihe weiterer Handschriften ebenfalls
+               beobachten; es gehört zu den typischen Arbeitsverfahren Goethes.</p>
+            <p>Die vorliegende Handschrift vereinigt schon ausgeführte Passagen der geplanten Szene
+               in einer eigenhändigen Abschrift, die an weiter auszuarbeitenden Stellen Lücken </p>
+            <p>HP110a</p>
+            <p> läßt _ eine von Goethe häufig angewandte Methode, um die Ausführung zu befördern
+               (vgl. mein Kapitel zur Arbeitsweise, hier S. 834-838). </p>
+            <p>Nach diesem Entwurf sollten unter den Masken der `Mummenschanz' also ursprünglich
+               auch verschiedene Dichtertypen vertreten sein, wie sie schon in den florentinischen
+               Maskenzügen Grazzinis (S. 467) auftreten: "Questi, che voi vedete, allegri, e lieti,/
+               Compongon le Commedie:/ Quest'altri son Poeti/ Feroci in vista, che fanno Tragedie:/
+               Questi per altre vie/ Compongono Elegie;/ E pero' tanto macilenti, e mesti/ Son nel
+               sembiante; e Satiri son questi." (Diese, die Ihr seht, lustig und froh, komponieren
+               die Komödien: diese anderen sind Dichter wild von Angesicht, die machen Tragödien:
+               Diese komponieren mit anderen Mitteln Elegien und deshalb sind sie so abgezehrt und
+               traurig von Angesicht; und diese sind Satiriker.)</p>
+            <p>Im endgültigen Text ist die geplante `Dichterszene' dann auf zwei ausführliche
+               Regiebemerkungen (nach V. 5294 u. 5298) reduziert worden; nur die Verse des
+               Satirikers hat Goethe in das Drama aufgenommen. Diese finden sich im Mundum H auf
+               einer Seite, die oben die Bleistiftnotiz "Ritterdichter" trägt: diese
+               `Dispositionsnotiz' stammt also aus einer Phase, als Goethe den Auftritt
+               verschiedener Dichtertypen noch auszuführen beabsichtigte. Erst später wurden die
+               Verse des Satirikers an dieser Stelle in H eingesetzt.</p>
+            <p>Aus welchen Gründen Goethe diese Szene schließlich nicht ausführte, läßt sich nur
+               vermuten _ die Tatsache, daß er die "verschiedene[n] Poeten" (in allerdings
+               abgewandelter Form) wie auch die Gruppe der "Fischer und Vogelsteller" schließlich in
+               ausführlichen Regieanweisungen (die auf der Bühne Gelegenheit zu Improvisationen im
+               Stil der Commedia dell'arte geben) doch beibehält (vgl. die Szenare nach V. 5198 und
+               nach 5298), spricht gegen die unter anderem von Emrich vertretene These, er habe sich
+               von diesen Maskengruppen aus inhaltlichen Erwägungen getrennt. (Emrich, Symbolik, S.
+               173.) Gegen Ende des Jahres gerät Goethe mit der Fertigstellung der `Mummenschanz'
+               unter Zeitdruck, da er seinem Verleger die Fortsetzung des `Faust' für den 12. Band
+               seiner neuen Werkausgabe zugesagt hatte. Denkbar ist also durchaus, daß manche
+               ursprünglich geplante Episode der `Mummenschanz' dem Termindruck zum Opfer fiel (vgl.
+               auch die Gruppen der Fischer und Vogelsteller); die vorliegende Handschrift zeigt,
+               daß Goethe zumindest die Dichterszene nicht von Anfang an als improvisierte Szene
+               geplant hatte.</p>
+            <p>Z. 4 u. Z. 12 Natur und Liebe/ Ruhm u Leidenschaft] Während die verschiedenen
+               Dichtertypen bei Grazzini nach literarischen Gattungen unterschieden werden
+               (Komödien- und Tragödiendichter, Elegiker und Satiriker), gruppiert Goethe die
+               Dichter unter Gesichtspunkten des literarischen Stoffs. Vgl. dazu auch im endgültigen
+               Text das Szenar nach 5294 und 5298.</p>
+            <p>Z. 39 Hans Liederlich] ausschweifend-genußsüchtiger, leichtsinniger Mensch (vgl.
+               `Faust I', V. 2628 sowie das Nachlaß-Gedicht `Hans Liederlich und der Camerad', WA
+               I,4,169f.).</p>
+            <p> Nachlaßstücke Zweiter Teil, Akt 1</p>
+            <p>
+               <b>I H12</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XIX,1,20</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Poeten. I Natur u Liebe.</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 53,368-369</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>oS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>110.a; 55n</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Arbeitsmundum; enthält auch nachträglich (?) eingetragene Seiten (?)
+               Numerierungen, vgl. Bohnenkamp, S.306-308</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="993">Überlieferungsweg</f:key>
+            <f:value>aus Nachlaß Müller (1906)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1394</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3113</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390181/">
+<revisionDesc>
+   <change when="2012-12-06" who="henzel">imported</change>
+   <change when="2012-12-06" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.16</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,17</idno>
+      <idno type="gsa_2">GSA 25/W 1505</idno>
+      <idno type="gsa_ident">390181</idno>
+      <idno type="wa_faust">2 II H.16</idno>
+      <textTranscript uri="390181.xml"/>
+      <classification>Konzept</classification><!-- WA-DB: Sammelblatt -->
+      <condition>auf der Rückseite am unteren und rechten oberen Rand vergilbt</condition>
+      <dimensions>
+         <width unit="mm">198</width>
+         <height unit="mm">326</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 195 mm. Der Mindestwert der Blatt-Höhe beträgt 324 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37f.</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 35</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 35</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

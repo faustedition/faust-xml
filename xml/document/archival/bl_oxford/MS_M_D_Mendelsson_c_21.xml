@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bl_oxford/MS_M_D_Mendelsson_c_21/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Nachweise</change>
+      <change when="2013-11-21" who="henzel">idno an Schema angepasst</change>
+      <change when="2013-11-21" who="henzel">weitere Metadaten angetragen</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <!-- 16r bis 17v -->
+      <repository>bl_oxford</repository>
+      <idno type="faustedition">2 I H.12a</idno>
+      <idno type="bl_oxford">MS. M. Deneke Mendelssohn d. 8, <!--c.21,--> fols. 16r–17v</idno>
+      <idno type="gsa_1">GSA 25/XVII,6,3a</idno>
+      <note>weitere GSA-Signaturen zu den Aufnahmen sind GSA 25/XVII,6,4b und GSA
+         25/XVII,6,5a</note>
+      <idno type="wa_faust">2 I H.g</idno>
+      <textTranscript uri="MS_M_D_Mendelsson_c_21.xml"/>
+      <history>„Die Nummern 2 und 4 schenkte Goethe im Mai 1830 mit einer Widmung Felix
+         Mendelssohn-Bartholdy, deren Vergleichung uns durch die Güte des Herrn Professor Karl
+         Mendelssohn-Bartholdy zu Freiburg i. B. gestattet worden ist.“
+         (faust://bibliography/loeper1870, Tl. 2, S.
+         257f.)<!-- Keine Varianten verzeichnet (s. S. 261). --></history>
+      <numberingList>
+         <numbering>(wohl) archivarische Foliierung mit Bleistift</numbering>
+      </numberingList>
+      <condition>auf fol. 17r Laubblatt aufgeklebt, ebenda Stempel der Bodleian
+         Libraries</condition>
+      <format>2</format>
+      <edges>cut</edges>
+   </metadata>
+   <sheet>
+      <leaf>
+         <!-- Mutter und Tochter -->
+         <page>
+            <metadata>
+               <docTranscript uri="aff0001.xml"/>
+               <!-- 16r -->
+               <references>
+                  <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S.
+                     257f., Nr. 2</reference>
+                  <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323,
+                     Nr. 6</reference>
+               </references>
+            </metadata>
+         </page>
+         <!-- Klugheit -->
+         <page>
+            <metadata>
+               <docTranscript uri="aff0002.xml"/>
+               <!-- 16v -->
+               <references>
+                  <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S.
+                     257f. 4</reference>
+                  <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323,
+                     Nr. 8</reference>
+               </references>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- Furcht -->
+         <page>
+            <metadata>
+               <docTranscript uri="aff0003.xml"/>
+               <!-- 17r -->
+               <references>
+                  <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S.
+                     257f. 4</reference>
+                  <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323,
+                     Nr. 8</reference>
+               </references>
+            </metadata>
+         </page>
+         <!-- Herold -->
+         <page>
+            <metadata>
+               <docTranscript uri="aff0004.xml"/>
+               <!-- 17v -->
+               <references>
+                  <reference type="description" uri="faust://bibliography/wa_I_15_2">S.
+                     13</reference>
+                  <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S.
+                     257f. 4</reference>
+                  <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323,
+                     Nr. 8</reference>
+               </references>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

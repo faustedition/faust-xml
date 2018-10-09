@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+   xml:base="faust://xml/transcript/gsa/390821/">
+   <revisionDesc>
+      <change when="2013-01-10" who="henzel">imported</change>
+      <change when="2013-01-10" who="henzel">encoded</change>
+      <change when="2015-02-27" who="henzel">docTranscript leer nachgetragen</change>
+      <change when="2015-03-05" who="henzel">textTranscript entfernt</change>
+      <change when="2015-03-09" who="pravida">minimal headnote</change>
+      <change when="2017-01-12" who="bruening">textTranscript wieder eingefügt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt (Umschlag). – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>alter Umschlag; Aufschrift Friedrich Theodor David Kräuters mit Tinte sowie Notizen
+         Johann Peter Eckermanns mit Bleistift; dabei: Kopie einer Bemerkung Max Heckers "In diesem
+         Fascikel haben, wie der Umschlag angiebt, gelegen die Handschriften zu Helena,
+         Zwischenspiel zu Faust "Kunst und Alterthum" VI,1,200-203, welche ich im Apparat dazu, Bd.
+         41.II H, H.2, H.3, H.4 genannt habe. Ich habe dieselben sämmtlich unter die
+         Literaturaufsätze eingeordnet. 15. Febr. 1903. Max Hecker"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">R 3</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,21a</idno>
+      <idno type="gsa_2">GSA 25/W 1768</idno>
+      <idno type="gsa_ident">390821</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="kraeuter">Eigen Poetisches 65</idno>
+      <textTranscript uri="390821.xml"/>
+      <condition>fleckig</condition>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <!-- grob -->
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <watermarkID>H Y</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/aa_ls_6">S. 728</reference>
+         <reference type="text" uri="faust://bibliography/aa_ls_6">S. 728</reference>
+         <reference type="essay" uri="faust://bibliography/aa_ls_6">S. 728</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">208</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 205 mm. Der Mindestwert der Blatt-Höhe
+               beträgt 332 mm.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">207</width>
+               <height unit="mm">333</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Höhe beträgt 332 mm.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+               <!-- <docTranscript uri="0004.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions"
+      xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:dabei_vermerk>Aufschrift "Zu Eigen Literarischem G", Kräuter ["Literarischem" gestrichen]; Notiz "Nicht zu Benutzendes", Eckermann (?); Bemerkung "In diesem Fascikel haben, wie der Umschlag angiebt, gelegen die Handschriften zu Helena, Zwischenspiel zu Faust "Kunst und Alterthum" VI,1,200-203, welche ich im Apparat dazu, Bd. 41.II H, H.2, H.3, H.4 genannt habe. Ich habe dieselben sämmtlich unter die Literaturaufsätze eingeordnet. 15. Febr. 1903. Max Hecker", Hecker, auf beiliegender Kopie, 1 Bl</f:dabei_vermerk>      
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389765/">
+   <revisionDesc>
+      <change when="2012-11-07" who="henzel">imported</change>
+      <change when="2012-11-07" who="henzel">encoded</change>
+      <change when="2013-01-22" who="henzel">aktualisiert</change>
+      <change when="2014-06-11" who="henzel">Lagenstruktur aktualisiert</change>
+      <change when="2014-10-10" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Versentwürfe zu ‚Faust I‘.</headNote>
+      <note>Doppelblatt, 1 beschriebene Seite. – Seite 1: Versentwürfe zum ‚Vorspiel‘ zu ‚Faust I‘ (eigenhändig,
+         Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P5</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,4</idno>
+      <idno type="gsa_2">GSA 25/W 1377</idno>
+      <idno type="gsa_ident">389765</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P5, Hecker-Nr. 8 -->
+      <idno type="bohnenkamp">H P5</idno>
+      <textTranscript uri="389765.xml"/>
+      <classification>Konzept</classification>
+      <condition>leicht fleckig, war ursprünglich längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">209</width>
+         <height unit="mm">346</height>
+      </dimensions>
+      <format>4</format>
+      <note>gefaltetes Folioblatt</note>
+      <edges>cut</edges>
+      <!-- Papier ähnlich H P3 -->
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Geraberg</paperMill>
+      <watermarkID>Posthorn in Wappen über Lettern "FS"</watermarkID>
+      <!-- Postpapier, vgl. H P50, Blatt 7 -->
+      <references>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 218</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 288</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 218</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 575</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 218</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>Aug./Sept. 1798</f:datierung>      
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Dieses Blatt ähnelt in Papier und Beschriftung auffallend dem ebenfalls der Arbeit
+               am `Vorspiel' zuzuordnenden Blatt H P3 (vgl. hier S. 215). Die hier entworfenen Verse
+               lassen sich dem Direktor zuweisen (vgl. Witkowski, S. 437, und Hecker; so auch
+               Schillemeit, Vorspiel, S. 159). </p>
+            <p>Z. 3 reicht] verschrieben (vielleicht im Blick auf die letzte Zeile) für "reich".</p>
+            <p>Z. 4 Einhei[t]] Die in WA I,14,288 vorgeschlagene Lesung "Freiheit [?]" wurde bereits
+               von Gräf korrigiert. Erneute Thematisierung der _ dem Autor offensichtlich
+               problematischen _ "Einheit" des Stücks. Vgl. P97,9f. (hier S. 209) und P3 (hier
+               S.215).</p>
+            <p>Z. 6: Die in WA I,14 gebotene Lesung ("Wenn Poesie nicht recht nach Laune sie
+               verbinden") wurde im Nachtragsband I,53,534 korrigiert; einige Ausgaben (Propyläen,
+               Gräf, Witkowski bis zur 4. Auflage) geben irrtümlich: "Wenn Phantasie nicht reicht
+               mag Laune sie verbinden". </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

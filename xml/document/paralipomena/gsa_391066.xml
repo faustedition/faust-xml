@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391066/">
+   <revisionDesc>
+      <change when="2012-11-13" who="henzel">imported</change>
+      <change when="2012-11-13" who="henzel">encoded</change>
+      <change when="2013-01-21" who="henzel">aktualisiert</change>
+      <change when="2013-07-30" who="ritter">aktualisiert</change>
+      <change when="2014-10-16" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Versentwurf, möglicherweise zu ‚Faust I‘.</headNote>
+      <note>abgetrennter Streifen
+         Zettel, 1 beschriebene Seite. - Vs.: Versentwurf, möglicherweise
+         (vgl. faust://bibliography/bohnenkamp1994, S.158)
+         zu ‚Faust I‘ gehörig (eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P62a</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,26</idno>
+      <idno type="gsa_2">GSA 25/W 1400</idno>
+      <idno type="gsa_ident">391066</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P62a</idno>
+      <!-- P62/51, Hecker-Nr. 62 -->
+      <textTranscript uri="391066.xml"/>
+      <classification>Konzept</classification>
+      <condition>Tintenfleck auf der Vorderseite</condition>
+      <dimensions>
+         <width unit="mm">164</width>
+         <height unit="mm">100</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <!-- überflüssige Angabe? -->
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID fragment="yes">angeschnittenes Wasserzeichen</watermarkID>
+      <!-- Fragment a_u_li oder a_u_re (nicht erkennbar, da achsensymmetrisch) -->
+      <!-- Reste eines verschwommenen WZ - evt. Buchstaben -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference uri="faust://bibliography/wa_I_53" type="description">S. 367</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="description">S. 158</reference>
+         <reference uri="faust://bibliography/wa_I_53" type="text">S. 367</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="text">S. 158</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 559</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_53">S. 367, Nr. 51</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="essay">S. 158</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Der Bezug zum `Faust' scheint zumindest fraglich. Sichere Anhaltspunkte liegen weder
+               für die Datierung noch für die Einordnung dieses nachträglich aufgefundenen
+               Zweizeilers vor, der nach einer Vermutung Wahles (WA I,53,367) und dem Vorgang
+               Heckers in zahlreichen Ausgaben der `Walpurgisnacht' zugeordnet und zur Szene der
+               "Einzelnen Audienzen" und "Präsentationen" gerechnet wird. (Vgl. P31/48, Z. 47, hier
+               S. 176, und den Kommentar zu H P50, Z. 96f., hier S. 155.) </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

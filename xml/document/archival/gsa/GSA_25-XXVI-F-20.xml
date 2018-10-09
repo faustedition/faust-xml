@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-XXVI-F-20/">
+   <revisionDesc>
+      <change when="2013-01-29" who="bruening">angelegt und begonnen</change>
+      <change when="2013-01-30" who="bruening">encoded</change>
+      <change when="2014-06-25" who="henzel">docTranscript ergaenzt</change>
+      <change when="2014-06-30" who="henzel">xml:base nachgetragen</change>
+      <change when="2014-08-19" who="bruening">„Ergreifen des Moments“ Faust-Paralipomenon? (so Schmidt)</change>
+      <change when="2015-03-09" who="pravida">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+      <change when="2015-04-23" who="bruening">gsa_2 nach Auskunft von J. Gruß</change>
+      <change when="2015-07-02" who="henzel">textTranscript</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Konvolut, 16 Blätter. – Notizen (Bl. 6–7: Notiz zu ‚Faust‘).</headNote>
+      <note>Heft aus acht Doppelblättern italienischen Papiers, mit vier Stichen geheftet. In der WA größtenteils als Paralipomenon 26 zur Italienischen Reise (faust://bibliography/wa_I_32, S. 458–462), teils unter „Paralipomena I“ zur Morphologie aufgenommen (faust://bibliography/wa_II_7, S. 284–288), vgl. die Verzeichnung der Textwiedergaben. – Schmidt datiert das Heft ohne weitere Erklärung auf 1790 (faust://bibliography/wa_I_14,S. 292). Unter Berufung auf eine Mitteilung Erich Schmidts datiert Karl Weinhold das Heft auf die Rückreise aus Italien (faust://bibliography/wa_I_10, S. 429). Entsprechend Carl Schüddekopf in faust://bibliography/wa_I_21, S. 331 und Julius Wahle in faust://bibliography/wa_I_32, S. 458.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P13</idno>
+      <idno type="gsa_1">GSA 25/XXVI,F,20</idno>
+      <idno type="gsa_2">GSA 25/W 2491</idno>
+      <idno type="gsa_ident">390179</idno>
+      <note>Bei faust://bibliography/bohnenkamp1994, S. 112, ist als Signatur GSA XXVI, FU 26 angegeben.</note>
+      <idno type="wa_faust">none</idno>
+      <idno type="wa_tasso">H.3</idno>
+      <idno type="bohnenkamp">H P13</idno>
+      <textTranscript uri="GSA_25-XXVI-F-20.xml"/>
+      <!--todo entsprechung für <textTranscript uri="389949.xml"/>-->
+      <classification>Notiz</classification>
+      <numberingList>
+         <numbering name="Bleistiftfoliierung">Archivarische Foliierung mit Bleistift.</numbering>
+      </numberingList>
+      <condition>Nicht vergilbt (vgl. aber faust://bibliography/blumenthal1965, S. 71; faust://bibliography/bohnenkamp1994, S. 112), nur die erste Seite ist beschmutzt.</condition>
+      <dimensions>
+         <width unit="mm">99</width>
+         <height unit="mm">139</height>
+      </dimensions>
+      <format>8</format>
+      <bindingMaterial>Faden</bindingMaterial>
+      <edges>cut</edges>
+      <paperType>none</paperType>
+      <paperColour>weiß</paperColour>
+      <watermarkID>G_P</watermarkID>
+      <note>Sichtbar auf Bl. 2 und 4</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 292</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_10">S. 429</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_21">S. 331</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_32">S. 458</reference>
+         <reference type="description" uri="faust://bibliography/blumenthal1965">S. 71</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 112</reference>
+         <reference type="text" uri="faust://bibliography/wa_II_7">S. 284–288</reference>
+         <!-- 1892 -->
+         <reference type="text" uri="faust://bibliography/wa_II_13">S. 187f.</reference>
+         <!-- 1904 -->
+         <reference type="text" uri="faust://bibliography/wa_I_32">S. 459–462</reference>
+         <!-- 1906 -->
+         <reference type="text" uri="faust://bibliography/blumenthal1965">S. 15–44</reference>
+         <reference type="facsimile" uri="faust://bibliography/blumenthal1965">zw. S. 12 u. 13</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_14">S. 292</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_21">S. 331</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_32">S. 458–462</reference>
+         <reference type="essay" uri="faust://bibliography/blumenthal1965">S. 47–73, 81–126</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 112</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <!-- Bl. 1 -->
+      <leaf>
+         <page/>
+         <page/>
+      </leaf>
+      <sheet>
+         <!-- Bl. 2 -->
+         <leaf>
+            <page/>
+            <page/>
+         </leaf>
+         <sheet>
+            <!-- Bl. 3 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <references>
+                        <reference type="text" uri="faust://bibliography/wa_I_21">S. 331</reference>
+                     </references>
+                  </metadata>
+               </page>
+               <page/>
+            </leaf>
+            <sheet>
+               <!-- Bl. 4 -->
+               <leaf>
+                  <page/>
+                  <page/>
+               </leaf>
+               <sheet>
+                  <!-- Bl. 5 -->
+                  <leaf>
+                     <page/>
+                     <page/>
+                  </leaf>
+                  <sheet>
+                     <!-- Bl. 6 -->
+                     <leaf>
+                        <page/>
+                        <page>
+                           <metadata>
+                              <note>In der WA unter „Paralipomena CXXII“ zur Farbenlehre aufgenommen (faust://bibliography/wa_II_5_2, S. 440).</note>
+                              <references>
+                                 <reference type="text" uri="faust://bibliography/wa_II_5_2">S. 440</reference>
+                              </references>
+                           </metadata>
+                        </page>
+                     </leaf>
+                     <sheet>
+                        <!-- Bl. 7 -->
+                        <leaf>
+                           <page>
+                              <metadata>
+                                 <note>In der WA unter „Paralipomena CXXII“ zur Farbenlehre aufgenommen (faust://bibliography/wa_II_5_2, S. 440).</note>
+                                 <references>
+                                    <reference type="text" uri="faust://bibliography/wa_II_5_2">S. 440</reference>
+                                 </references>
+                              </metadata>
+                           </page>
+                           <page/>
+                        </leaf>
+                        <sheet>
+                           <!-- Bl. 8 -->
+                           <leaf>
+                              <page/>
+                              <page/>
+                           </leaf>
+                           <!-- Bl. 9 -->
+                           <leaf>
+                              <page/>
+                              <page/>
+                           </leaf>
+                        </sheet>
+                        <!-- Bl. 10 -->
+                        <leaf>
+                           <page/>
+                           <page/>
+                        </leaf>
+                     </sheet>
+                     <!-- Bl. 11 -->
+                     <leaf>
+                        <page/>
+                        <page/>
+                     </leaf>
+                  </sheet>
+                  <!-- Bl. 12 -->
+                  <leaf>
+                     <page/>
+                     <page/>
+                  </leaf>
+               </sheet>
+               <!-- Bl. 13 -->
+               <leaf>
+                  <page/>
+                  <page/>
+               </leaf>
+            </sheet>
+            <!-- Bl. 14 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="BL14r.xml"/>
+                     <references>
+                        <reference type="text" uri="faust://bibliography/wa_I_14">S. 292</reference>
+                        <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 112</reference>
+                        <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 546</reference>
+                     </references>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <references>
+                        <reference type="text" uri="faust://bibliography/wa_I_10">S. 429, 436</reference>
+                     </references>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 15 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <note>Erich Schmidt zog einen Zusammenhang des Notats „Ergreifen des Moments“ (faust://bibliography/wa_I_32, S. 461) mit Faust v. 2017 in Betracht (ebd., S. 462).</note>
+                  <references>
+                     <reference type="text" uri="faust://bibliography/wa_I_10">S. 429</reference>
+                     <reference type="text" uri="faust://bibliography/wa_I_32">S. 461</reference>
+                     <reference type="essay" uri="faust://bibliography/wa_I_10">S. 429</reference>
+                     <reference type="essay" uri="faust://bibliography/wa_I_32">S. 461f.</reference>
+                  </references>
+               </metadata>
+            </page>
+            <page/>
+         </leaf>
+      </sheet>
+      <!-- Bl. 16 -->
+      <leaf>
+         <page/>
+         <page/>
+      </leaf>
+   </sheet>
+</archivalDocument>

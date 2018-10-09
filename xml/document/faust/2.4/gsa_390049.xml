@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390049/">
+<revisionDesc>
+   <change>imported</change>
+   <change when="2012-11-21" who="henzel">encoded</change>
+   <change when="2013-07-30" who="ritter">aktualisiert</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Brief an Ernst Friedrich Bußler, 18.4.1828, Konzept Gottlieb Friedrich Krause zu WA IV 44,66,1-13, 14.4.1828</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P179a</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,19</idno>
+      <idno type="gsa_2">GSA 25/W 1793</idno>
+      <idno type="gsa_ident">390049</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P179a</idno>
+      <textTranscript uri="390049.xml"/>
+      <classification>Schema</classification>
+      <condition>in Kolumnen gebrochen, ursprünglich mehrfach längs und einmal quer gefaltet, Vergilbungen an den Rändern; zwei Stichlöcher im oberen rechten Blattbereich</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">334</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>none</watermarkID>
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 371</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 670</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 371</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 670</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 705</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_53">S. 371</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 671f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <!-- Briefkonzept -->
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- linksspaltig P179a -->
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

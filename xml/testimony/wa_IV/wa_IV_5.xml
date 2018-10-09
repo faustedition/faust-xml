@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>WA IV, 5</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2016-09-30" who="kockel">extrahiert</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="259"/>
+         <div type="letter" org="uniform" sample="complete" part="N">
+            <head>
+               <num type="wa-volume">5</num>/<num type="wa-letter">1402</num>. <lb/>
+               <lb/>An <persName instant="false" full="yes">Charlotte von Stein</persName>
+               <date when="1782-02-10" instant="false"/>
+            </head>
+            <p rend="indentchar-m4n0">Wie meine beste sich befindet mögt ich gerne wissen, es war
+               recht schade daß du gestern nicht beym Thee und Abendessen warst, es ging alles recht
+               gut. Herder sagte Wielanden einmal etwas unartiges und dieser erwiederte was grobes.
+               Ich will nur erleben wenn Wieland älter wird, wie es mit seinem Radotage werden kann,
+               denn er schwätzt alle Tage ärger in den Tag hinein. Der Herzog schmiss die schöne
+               Vestale um und es sprang ein Finger ab, die Herzoginn betrug sich gar himmlisch schön
+               dabey. Übrigens war <pb n="260"/> man vergnügt und gut, <milestone unit="testimony"
+                  spanTo="#graef_861_end" xml:id="graef_861"/><rs>mir raunte Mephistopheles einige
+               Anmerckungen Leise zu</rs>, und ich lies mir den Punsch schmecken.<anchor
+                  xml:id="graef_861_end"/> Adieu Beste sag mir wo du heut bist, ich bleibe bis gegen
+               Abend zu Hause meiner zu warten und aufzuräumen. d. 10. Febr. 82.</p>
+            <p rend="right">G.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

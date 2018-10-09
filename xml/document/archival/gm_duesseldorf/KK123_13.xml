@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gm_duesseldorf/KK123_13/">
+   <revisionDesc>
+      <change when="2012-10-01" who="bruening"/>
+      <change when="2012-10-11" who="bruening"/>
+      <change when="2013-07-24" who="Sievert">Metadaten kodiert</change>
+      <change when="2013-09-11" who="bruening">encoded</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <repository>gm_duesseldorf</repository>
+      <collection>Sammlung Kippenberg</collection>
+      <idno type="faustedition">2 III H.64d</idno>
+      <idno type="gm_duesseldorf">KK 123</idno>
+      <textTranscript uri="KK123_13.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <dimensions>
+         <width unit="mm">208</width>
+         <height unit="mm">334</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>ICKirchgeorg</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/kippenberg1913">S. 111, Nr.
+            1401</reference>
+         <!--<note>(Haupteintrag)</note>-->
+         <!--<reference type="description" uri="faust://bibliography/kippenberg1913">S. 8, Nr.
+            63</reference>-->
+         <reference type="description" uri="faust://bibliography/kippenberg1928">Bd. 1, S. 165, Nr.
+            123</reference>
+         <!--<note>(Haupteintrag)</note>-->
+         <!--<reference type="description" uri="faust://bibliography/kippenberg1928">Bd. 1, S. 14, Nr.
+            123</reference>-->
+         <reference type="essay" uri="faust://bibliography/kippenberg1913">S. 111, Nr.
+            1401</reference>
+         <reference type="essay" uri="faust://bibliography/kippenberg1928">Bd. 1, S. 165, Nr.
+            123</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="01.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="02.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="03.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="04.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

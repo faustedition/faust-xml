@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389892/">
+   <revisionDesc>
+      <change when="2012-11-14" who="bruening">encoded</change>
+      <change when="2014-10-17" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Abschrift Riemer; dabei: eigenhändige Notiz Goethes: „Feuriges Auges und Bu- sens“ vgl.
+         faust://bibliography/wa_I_13_2, S. 131, Anmerkung 4
+         Einzelblatt, 2 beschriebene Seiten. - Vs.: Reinschrift von Versen zu ‚Faust II‘, Akt 1 (eigenhändig, Tinte). Rs: Reinschrift von Versen zu ‚Faust II‘, Akt 1 (Riemer, Tinte); Versentwurf (eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.1</idno>
+      <idno type="gsa_1">GSA 25/XVII,4,2</idno>
+      <idno type="gsa_2">GSA 25/W 1419</idno>
+      <idno type="gsa_ident">389892</idno>
+      <idno type="wa_faust">2 I H.1</idno>
+      <textTranscript uri="389892.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering>Eigenhändige Folio-Nummer 35 mit Bleistift.</numbering>
+      </numberingList>
+      <condition>Rechte obere Ecke mglw. infolge von Lichteinfall vergraut.</condition>
+      <dimensions>
+         <width unit="mm">192</width>
+         <height unit="mm">165</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <f:reference type="description" uri="faust://bibliography/wa_I_15_2">S. 10</f:reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Notiz egh: "Feuriges Auges und Busens" vgl. I 13.2, 131, Anmerkung 4; Numerierung "35." egh (?) [Blei, über der Notiz]
+
+</f:dabei_vermerk>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>389892</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.1; vgl. I 15.2,10
+
+Vers(e): 5061-5064
+Wie sich Verdienst und Glück verketten ...
+Konzept
+
+Vers(e): 5144-5154
+Mögen bunte Phantasieen ...
+Abschrift
+Titel der Handschrift: "Ausforderung"; "Rosenknospen"</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh, Riemer</f:schrift>
+      <f:signatur>XVII,4,2</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,2*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wie sich Verdienst und Glück verketten</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5061-5064</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3325</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,10</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Notiz egh: "Feuriges Auges und Busens" vgl. I 13.2, 131, Anmerkung 4;
+               Numerierung "35." egh (?) [Blei, über der Notiz]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1082</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3723</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,2*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Ausforderung"; "Rosenknospen"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Mögen bunte Phantasieen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Riemer</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Abschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5144-5154</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Riemer, Friedrich Wilhelm</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3882</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

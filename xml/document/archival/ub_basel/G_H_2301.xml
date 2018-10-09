@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_basel/G_H_2301/">
+    <revisionDesc>
+        <change when="2012-09-21" who="bruening">encoded</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+        <repository>ub_basel</repository>
+        <collection>Sammlung Karl Geigy-Hagenbach</collection>
+        <idno type="faustedition">2 V H.31a</idno>
+        <idno type="ub_basel">Nr. 2301</idno>
+        <idno type="gsa_1">GSA 25/XVIII,8,5</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="landeck">2 V H.m</idno>
+        <references>
+            <reference type="description" uri="faust://bibliography/geigy-hagenbach1933">S.
+                327</reference>
+            <reference type="description" uri="faust://bibliography/landeck1981"> S. 173 </reference>
+            <reference type="text" uri="faust://bibliography/geigy-hagenbach1933">S. 327</reference>
+            <reference type="text" uri="faust://bibliography/landeck1981"> S. 173f.</reference>
+            <reference type="essay" uri="faust://bibliography/landeck1981"> S. 174</reference>
+            <reference type="essay" uri="faust://bibliography/bohnenkamp1994"> S. 777</reference>
+        </references>
+        <textTranscript uri="G_H_2301.xml"/>
+        <classification>n.s.</classification>
+        <history>Vgl. Landeck, S. 174.</history>
+        <paperType>Briefpapier</paperType>
+        <paperColour>gelb</paperColour>
+        <chainLines unit="mm">27</chainLines>
+        <watermarkID>n.s.</watermarkID>
+        <note>„Angeschnittes, nicht identifizierbares Wz“ (Landeck, S. 173); vielleicht „GH“?</note>
+        <dimensions>
+            <width unit="mm">101</width>
+            <height unit="mm">168</height>
+        </dimensions>
+        <format>8</format>
+        <leafCondition>Leicht stockfleckig.</leafCondition>
+        <edges>cut</edges>
+        <note>Brechung 124 mm vom oberen Rand.</note>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <references>
+                    <reference type="facsimile" uri="faust://bibliography/geigy-hagenbach1933"> Tfl. LV
+                    </reference>
+                </references>
+                <docTranscript uri="0001.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <note>Rückstände des Kartons, auf den das Blatt früher geklebt worden war.</note>
+                <docTranscript uri="0002.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

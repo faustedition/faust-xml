@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391198/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">Drucknachweise.</change>
+      <change when="2013-01-16" who="bruening">encoded</change>
+      <change when="2013-09-06" who="ritter">aktualisiert</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2018-09-29" who="pravida">changed sigil "2 III H.59a" to "2 III H.59b"</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Vorderseitig am linken Rand unten Spuren einer Klebung. – Gegenstück:
+         faust://document/bohnenkamp/H_P176.
+         Konzept egh zu Vers 9550–9564 und
+         9570–9573 = früheres Konzept
+         im Vgl. mit 2 III H.g (GSA 25/W 1642)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.59b</idno>
+      <idno type="gsa_2">GSA 25/W 1641</idno>
+      <idno type="gsa_ident">391198</idno>
+      <note>Als ältere Signaturen wurden auf einem älteren Archivumschlag (als Xerokopie beiliegend)
+         noch die Signaturen NZ:XXVII,45 sowie XVIII,3,10 vermerkt.</note>
+      <idno type="gsa_1">GSA 25/XVIII,3,9a</idno>
+      <idno type="wa_faust">2 III H.f</idno>
+      <textTranscript uri="391198.xml"/>
+      <classification>Konzept</classification>
+      <history>Laut faust://bibliography/sabell1879 „seit Jahren“ im „Goetzezimmer des Berliner
+         ‚Panoptikum‘ der Gebr. Castan (in der Kaisergalerie)“ ausgestellt.</history>
+      <condition>Insbesondere am Rand stark verbräunt. An der Faltungsspur links eingerissen. Der im
+         Vergleich zu anderen Stücken schlechte Erhaltungszustand geht laut einer Aufschrift auf dem
+         älteren Archivumschlag auf eine Aufbewahrung in einer Zellophanhülle zurück.</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">251</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <countermarkID>H_ueber_N1</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S.
+            XLV</reference>
+         <reference type="description" uri="faust://bibliography/sabell1879">S. 81</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 72</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 233f.</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            144</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 624</reference>
+         <reference type="essay" uri="faust://bibliography/weisstein1878"/>
+         <reference type="essay" uri="faust://bibliography/loeper1879a">Tl. 2, S. XLV</reference>
+         <reference type="essay" uri="faust://bibliography/sabell1879">S. 83</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 625f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <references>
+               <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324,
+                  Nr. 17</reference>
+               <reference type="text" uri="faust://bibliography/weisstein1878">S. 41</reference>
+               <reference type="text" uri="faust://bibliography/loeper1879a">Tl. 2, S.
+                  XLV</reference>
+               <reference type="text" uri="faust://bibliography/sabell1879">S. 88f.</reference>
+               <f:reference type="text" uri="faust://bibliography/wa_I_15_2">S. 234</f:reference>
+               <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 624f.</reference>
+               <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                  695</reference>
+            </references>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <references>
+               <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324,
+                  Nr. 16a</reference>
+            </references>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>Frühjahr 1826 (?), bis zum Frü</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391198</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.f; vgl. I 15.2,72
+
+Vers(e): 9550-9573 (9566-9569 fehlt/fehlen)
+Hier ist das Wohlbehagen ...
+Konzept egh
+
+Paralipomenon 176
+Genug ihr seht ihn ...
+Konzept John; Korrektur egh</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh, John</f:schrift>
+      <f:signatur>XVIII,3,9a</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,9a*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>bis zum Frühjahr 1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Genug ihr seht ihn</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,233-235</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>176</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Verse 7-24 von Paralip. 176 [Verse 1-6 auf Paralip. 176
+               (25/XIX,2,17:2)]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2638</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,9a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,72</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.f</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="60">Agenda</f:key>
+            <f:value>Original stark beschädigt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>bildete ursprünglich mit Paralip. 176 (25/XIX,2,17) ein Folioblatt, nach WA
+               Blatt ursprünglich in "Castans Panopticum Berlin"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>siehe Liste der Neuzugangsverfilmung 1975-1995, Goethe-Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2974</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVIII,3,9a*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,72: H.f</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>III Hf</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>624</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>196</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Genug ihr seht ihn (Denn Liebespaaren)</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>176</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10074</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,9a*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Frühjahr 1826 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Hier ist das Wohlbehagen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>9566-9569</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9550-9573</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Vers 9550 doppelt, zT stark verwischter Bleistiftentwurf, = früheres K im Vgl.
+               mit III H.g (25/XVIII,3,10)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3356</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

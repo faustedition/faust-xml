@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391116/">
+<revisionDesc>
+   <change when="2012-11-27" who="henzel">imported</change>
+   <change when="2012-11-27" who="henzel">encoded</change>
+   <change when="2015-02-05" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Prosaentwurf zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Vermutlich eigenhändige Numerierung mit Tinte auf der Rückseite des zweiten Folioblattes "20"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P65</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,2</idno>
+      <idno type="gsa_2">GSA 25/W 1741</idno>
+      <idno type="gsa_ident">391116</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P65</idno>
+      <!-- P65 -->
+      <idno type="hecker">114</idno>
+      <!-- P66 -->
+      <idno type="hecker">136</idno>
+      <textTranscript uri="391116.xml"/>
+      <classification>Sammelblatt</classification>
+      <condition>ursprünglich auf Quart gefaltet, Vergilbung der Ränder, am oberen und unteren Rand gewellt; Überklebung der eigenhändigen Numerierung mit einem Stück Papier</condition>
+      <dimensions>
+         <width unit="mm">206</width>
+         <height unit="mm">341</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 203 mm.</note>
+      <format>2</format>
+      <edges>uncut</edges>
+    <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>ovales Rautenkranzwappen mit Krone über "JGH"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <!-- TODO Erstdruck: Q, S. 180f. -->
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 177, 179</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 186</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 177-179</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 186-189</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 566-568</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 189-191</reference>
+      </references>
+   </metadata>
+<sheet>
+   <leaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!--  <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </leaf>
+   <leaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+            <!-- <docTranscript uri="0007.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0008.xml"/>
+         </metadata>
+      </page>
+   </leaf>
+</sheet>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase</f:bemerkung>
+      <f:datierung>zwischen 1775 und 1797/1798</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <img src="./KURV2_01.JPG" width="13" height="9" align="middle"/> Vermutlich wurde dieser Foliobogen zuerst mit dem flüchtigen und teilweise schwer zu entziffernden Prosaentwurf in Rötel beschrieben und erst später auf Quartformat zusammengefaltet und die dabei entstehende letzte Seite als Sammelblatt genutzt. Das von Geist hier eingetragene P66 ist mit "20." signiert und paßt auch inhaltlich zu den übrigen Fragmenten, die im Zusammenhang mit dem numerierten Faustschema mit der Signatur "ad 20" versehen wurden (P67, P68). Für diese letzte Seite ist also eine Beschriftung 1797/98 sehr wahrscheinlich; die Niederschrift des Prosaentwurfs P65 müßte entsprechend vorher entstanden sein. Die von Grumach favorisierte umgekehrte Beschriftungsreihenfolge hätte die Datierung des Dialogentwurfs P65 auf 1797/98 zur Folge. (Grumach, Goethes Vorarbeiten, S. 54.) Auch Düntzer, der P65 auf den Beginn der neunziger Jahre datiert (vgl. Düntzer, Entstehung der ersten Akte, S. 248f.),
+               diskutiert die Beschriftungsreihenfolge des vorliegenden Blattes und hält für wahrscheinlicher, daß der Entwurf Goethes nach den Reinschrifteinträgen des Schreibers Geist erfolgte, schließt jedoch die Möglichkeit des umgekehrten Vorgangs ("daß Goethe Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+            <p>die Verse gerade auf diesen Bogen übertragen ließ, um die Verbindung herzustellen, so wie er selbst noch den Phisicus-Satz auf die Außenseite übertrug") nicht völlig aus.</p>
+            <p>Da es sich bei dem Papier um Stützerbacher Konzeptpapier handelt, ist eine Entstehung vor 1775 auszuschließen (vgl. auch WA I,15.2,177); die sehr flüchtige Schrift gibt keine eindeutigen Hinweise. Daß sich unter den Papieren, die der Neuordnung von 1797/98 zuzuordnen sind, ein Blatt mit der versifizierten Fassung der Zeilen 25ff. befindet (H P69, hier S. 192), spricht für die Entstehung der Prosaskizze vor diesem Zeitpunkt. Aufgrund des `Shakespeare-Stils' plädiert Büchner für eine Entstehung bald nach 1775 (Goethes Angaben über die Entstehung des `Faust', bes. S. 38). Hertz (wie schon Otto Harnack, Ueber die Entstehung des `Faust', S. 67) rückt den `shakespearischen' Entwurf dagegen in die Nähe der Anfang der neunziger Jahre entstandenen Prosadramen Goethes (1791-95) und glaubt, seine Entstehung vor allem aufgrund seiner Verwandtschaft mit dem 1792/93 entstandenen Lustspielentwurf `Falstaff' (WA I,53,94-96) auf das Jahr 1793 datieren zu können. "Die beiden [aus diesem
+               Entwurf] erhaltenen Auftritte in Prosa sind mit ihrem Reichtum an Wortspielen und zugespitzten Gegensätzlichkeiten ganz in der Art Shakespeares gehalten und stellen sich dadurch unmittelbar neben unsere Faustszene mit ihrem shakespearischen Tone." (Hertz, Natur und Geist, S. 21.) Gegen diese Datierung spricht vor allem die Tatsache, daß es für die Jahre nach der Veröffentlichung des Fragments bis 1797 keinerlei Anzeichen für eine Arbeit Goethes am `Faust' gibt; Hertz entgegnet, daß es sich hier auch nicht um "eine planvoll zusammenhängende Arbeit, sondern wie die sehr eilige Niederschrift mit den großen Lücken beweist, die späterer Nacharbeit Raum lassen sollten, um nichts, als um einen flüchtigen Einfall, unter der Eingebung des Augenblicks rasch aufs Papier geworfen", handelt (Hertz, Natur und Geist, S. 22).</p>
+            <p>Die hier skizzierte Szene <b>(P65)</b> ist offensichtlich ein erster Prosaentwurf zu der Beschwörung der Geister durch Faust und Mephisto am Hof des Kaisers: neben den Erscheinungen von Paris und Helena wird in P63 eine `dritte' Geistererscheinung erwähnt: "Über die Wahl der dritten Erscheinung wird man nicht einig, die herangezogenen Geister werden unruhig; es erscheinen mehrere bedeutende zusammen. Es entstehen sonderbare Verhältnisse, bis endlich Theater und Phantome zugleich verschwin- den." (H P63, Z. 89-94, vgl. hier S. 270.)</p>
+            <p>Z. 1 Fortinbras] Nach der Vorgabe der `Faust'-Volksbücher und _ Puppenspiele vermutet Morris (Faustparalipomena, S. 172), der hier als "alter Fortinbras" angeredete Geist sei derjenige Alexanders des Großen _ andere Vermutungen (Witkowski [S. 427]: der König von Thule) sind noch weniger überzeugend. Unter anderem mit dem Hinweis auf P67 (hier S. 181) sucht Hertz wahrscheinlich zu machen, daß Goethe hier die Erscheinung Friedrichs II. geplant hatte, den Voltaire als `Marc-Aurèle d'Allemagne' bezeichnet hatte, und daß der Name der Shakespeare-Gestalt Fortinbras lediglich als Deckname dienen sollte. (Hertz, Natur und Geist, S. 16-20.)</p>
+            <p>Z. 10 M] Hier und im folgenden: Mephisto.</p>
+            <p> Z. 11f. Ew Ex] Abkürzung für `Eure Exzellenz'. </p>
+            <p>Z. 10-14: Vgl. P69 (hier S. 192), das als Ansatz einer Umarbeitung dieser Szene in Verse gelten kann.</p>
+            <p>Z. 14 unpraejudicirlich] unvorgreiflich.</p>
+            <p>Z. 17 du alter Schwan] Im Hinblick auf den "letzt[en] gesang" (`Schwanengesang') gewählte Anrede?</p>
+            <p>Z. 19 zu[vor]] WA: "sonst"; Hecker: "zuerst".</p>
+            <p>Z. 23 der Kayser schlaft] Büchner weist auf das Motiv des schlafenden Herrschers aus Wielands Roman "Der goldene Spiegel", das Goethe in seiner Besprechung des Romans (1772) ausdrücklich hervorhebt. (Fauststudien. Weimar 1908, S. 1.)</p>
+            <p>Z. 33 Meerkatzen] Besteht ein Zusammenhang mit der Hexenküche?</p>
+            <p>Z. 34 {immer reden}] Nach einem Vorschlag von Weitz ließe sich auch "innen reden" lesen.</p>
+            <p>Z. 36 {ketzerischer}] Die Lesung folgt einem Vorschlag Schillemeits. (Die von Erich Schmidt angebotene Lesung "Ertzvester" ist nach dem graphischen Befund wohl auszuschließen.)</p>
+            <p>Z. 37 B.] Für: Bischof (vgl. Z. 48 u. 49).</p>
+            <p>Z. 39f.: Bezug genommen wird hier auf die bekannte autobiographisch-philosophische Schrift des römischen Kaisers Mark Aurel `Gedanken über sich selbst'. Im Januar 1795 erschien in der `Neuen Deutschen Monatsschrift' eine Abhandlung mit dem Titel "Fragment einer Vergleichung Friedrichs des Zweyten mit Marc Aurel, besonders in Absicht ihrer Religiosität", die Goethe zur Kenntnis genommen hat. (Vgl. WA I,40,476.)</p>
+            <p>Z. 43 Glänzende Laster] Nach Morris (Faustparalipomena, S. 172) ein Zitat des heiligen Augustinus. (Vgl. auch Hölderlin, Hyperion II,114: "Die Tugenden der Alten sei'n nur glänzende Fehler".)</p>
+            <p>Z. 44 Gs] Die Abkürzung wurde von Riemer als "Gf" gelesen und als "Gefangene" aufgelöst; die richtige Lesung "Gs" interpretiert Hertz als Abkürzung für "Geister" (Hertz, Natur und Geist, S. 16), näherliegend ist die von Sarauw vorgeschlagene und von Hecker (ohne Kennzeichnung als solche!) übernommene Auflösung "Gesinnungen". (Sarauw, Faustchronologie, S. 83.)</p>
+            <p>Z. 46 K.] Wohl für: Kayser.</p>
+            <p>Z. 51 entgegnen] Die WA-Lesung ("umgehn") wurde von Hecker korrigiert.</p>
+            <p>Z. 65-70 <b>(P66)</b>: Auch diese beiden Bruchstücke gehören in den Zusammenhang des geplanten Auftritts der beiden Protagonisten am Hofe des Kaisers; die hier beschriebene Rolle als "Phisicus des Hofs" (Hofarzt) spielt Mephisto in der endgültigen Fassung des Zweiten Teils in der Szene `Hell erleuchtete Säle' (V. 6307-6376); die Deutung der Sterne ist in der Szene `Saal des Thrones' auf die Gestalt des Astrologen übergegangen (vgl. V. 4955-4970). Vgl. auch P70 (hier S. 114).</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

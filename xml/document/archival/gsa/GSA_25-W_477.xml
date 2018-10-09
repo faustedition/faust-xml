@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-W_477/">
+   <revisionDesc>
+      <change when="2013-01-29" who="sievert">encoded</change>
+      <change when="2013-01-31" who="henzel">ergaenzt</change>
+      <change when="2013-10-30" who="henzel">uri textTranscript nachgetragen</change>
+      <change when="2013-10-30" who="henzel">uri docTranscript nachgetragen</change>
+      <change when="2014-01-23" who="henzel">uri Inventarband aktualisiert</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>auf Nachtrag zu "Würdigungstabelle poetischer Productionen der letzten Zeit"
+         faust://bibliography/wa_I_41_2, Tafel zu S. 280, dabei: Gedicht "Das Kleinod, das
+         Vergißmeinnicht" faust://bibliography/wa_I_4, S. 294, eigenhändiges Konzept Goethes mit
+         Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.6a</idno>
+      <idno type="gsa_1">GSA 25/VI,2,3</idno>
+      <idno type="gsa_2">GSA 25/W 477</idno>
+      <idno type="gsa_ident">349780</idno>
+      <idno type="wa_gedichte">H.647</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="GSA_25-W_477.xml"/>
+      <classification>Sammelblatt</classification>
+      <numberingList>
+         <numbering>vermutlich eigenhändige Foliierung mit Bleistift</numbering>
+         <!-- TODO: nachprüfen! -->
+      </numberingList>
+      <condition>nach der Beschriftung auf oktav gefaltet, leicht fleckig</condition>
+      <dimensions>
+         <width unit="mm">165</width>
+         <height unit="mm">200</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 163 mm. Der Mindestwert der Blatt-Höhe beträgt
+         198 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>verschlungenes "JGH" über "N 3"</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S. 185f.</reference>
+         <reference type="description" uri="faust://bibliography/inventare_2_1">Sp. 159</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_5_2">S. 185</reference>
+         <!-- TODO eine Hs. hat auch Düntzer vorgelegen (Ausgabe in Kürschners Dt. Nat.lit. 3.II, 122) -->
+         <!-- TODO Erstdruck Q1, 200 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata/>
+      <page>
+         <metadata>
+            <!-- 1: Würdigungstabelle -->
+            <docTranscript uri="0001.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- Faust und H.647 -->
+            <!-- 'Faust' II, 1. Akt, Vers 5100-5103<br> 
+               Incipit: "... Schnitzeln"<br> -->
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390588/">
+   <revisionDesc>
+      <change when="2012-11-27" who="bruening">encoded</change>
+      <change when="2014-11-12" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt mit Aufklebungen und 2 Einzelblätter. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>WA I 15,2, S. 12 verzeichnet "3 Fol.".
+         Doppelblatt mit Aufklebungen und 2 Einzelblätter, 7 beschriebene Seiten. – S. 1-7:
+         Versentwürfe zu ‚Faust II‘, Akt 1 (John, Tinte; eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.47</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,18</idno>
+      <idno type="gsa_2">GSA 25/W 1470</idno>
+      <idno type="gsa_ident">390588</idno>
+      <idno type="wa_faust">2 I H.47</idno>
+      <textTranscript uri="390588.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <format>2</format>
+      <edges>cut</edges>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 12</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <paperType>Schreibpapier</paperType>
+         <paperColour>gelblich</paperColour>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">185</width>
+                     <height unit="mm">156</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelblich</patchPaperColour>
+                  <patchCountermarkID>GH_ueber_N3</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">193</width>
+                     <height unit="mm">124</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelblich</patchPaperColour>
+                  <patchCountermarkID>GH_ueber_N3</patchCountermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0007.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">198</width>
+            <height unit="mm">163</height>
+         </dimensions>
+         <format>4</format>
+         <paperType>Konzeptpapier</paperType>
+         <paperColour>grau</paperColour>
+         <watermarkID>Stern_wie_Stern_ueber_N1</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0008.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0009.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">187</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <paperType>Schreibpapier</paperType>
+         <paperColour>gelblich</paperColour>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0010.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.385</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>6</f:blatt>
+      <f:datierung>nach dem 3.9.1829</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390588</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Vers(e): 6173-6306
+Was ziehst du mich ...
+WA: I H.47; vgl. I 15.2,12
+Reinschrift</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John; egh</f:schrift>
+      <f:signatur>XVII,5,18</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,18</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>nach dem 3.9.1829</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18290903 (terminus post quem)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Was ziehst du mich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,12</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.47</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John; egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6173-6306</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>6</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Bohnenkamp, S.385</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1130</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3086</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

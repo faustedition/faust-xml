@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390621/">
+   <revisionDesc>
+      <change when="2012-11-06" who="henzel">imported</change>
+      <change when="2012-11-06" who="henzel">encoded</change>
+      <change when="2013-01-15" who="henzel">aktualisiert</change>
+      <change when="2013-03-02" who="bruening">WA-Sigle entfernt (keine Sigle im üblichen
+         Sinn).</change>
+      <change when="2013-09-06" who="ritter">aktualisiert</change>
+      <change when="2014-10-08" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Entwurf zu ‚Faust I‘.</headNote>
+      <note>Dabei: Gedicht "Wenn sichs in meinem Busen regt" (Gedicht-Paralipomenon 6).
+         Zettel, 2 beschriebene Seiten. – Vs.: Entwurf zu ‚Faust I‘, ‚Vorspiel auf dem
+         Theater‘ (eigenhändig, Tinte). Rs.: Gedichtentwurf.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.3</idno>
+      <idno type="gsa_1">GSA 25/XVII,1,1</idno>
+      <idno type="gsa_2">GSA 25/W 1360</idno>
+      <idno type="gsa_ident">390621</idno>
+      <idno type="wa_faust">1 0 2 H</idno>
+      <idno type="bohnenkamp">H P5a</idno>
+      <idno type="wa_gedichte">P6</idno>
+      <textTranscript uri="390621.xml"/>
+      <classification>Konzept</classification>
+      <condition>fleckig, rechts abgestoßene Kante</condition>
+      <dimensions>
+         <width unit="mm">172</width>
+         <height unit="mm">81</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 78 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <note>Schnittkante oben und unten, links Risskante</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>blau</paperColour>
+      <chainLines unit="mm">32</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>Wasserzeichenfragment, Teil eines Buchstabens im oberen linken Teil der
+         Vorderseite erkennbar, Breite des Buchstabens 7 mm, (Teil-)Höhe des Buchstabens 11
+         mm</watermarkID>
+      <!-- könnte I oder H usw. sein; Beschriftung erfolgte quer zur Blattstruktur -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference uri="faust://bibliography/wa_I_14" type="description">S. 255</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S. 358</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="description">S.
+            219f.</reference>
+         <reference uri="faust://bibliography/bohnenkamp1994" type="text">S. 219f.</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_5_2">S. 358.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 576</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_14">S. 255</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_5_2">S. 358</reference>
+         <reference type="essay" uri="faust://bibliography/burdach1926">S. 61</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 219f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <references>
+               <reference uri="faust://bibliography/wa_I_5_2" type="description">S. 358</reference>
+               <reference uri="faust://bibliography/wa_I_14" type="text">S. 255</reference>
+               <!-- Erstdruck -->
+               
+               <reference uri="faust://bibliography/wa_I_5_2" type="text">S. 358</reference>
+            </references>
+            
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>Aug./Sept. 1798 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Schon Burdach (Disputation, S. 61) hat auf die von Schmidt übersehene Zugehörigkeit
+               des Entwurfs P5a zum `Vorspiel' hingewiesen, die vor allem durch den
+               Überlieferungskontext nahegelegt wird. Duktus und Tinte des Entwurfs auf der
+               Rückseite (P5a) stimmen sowohl mit dem Entwurf der Vorspielverse 91-98 Var auf der
+               Vorderseite überein als auch mit den `Vorspiel'-Fragmenten auf H P3 und H P5 (hier
+               S.215 u. 218). Entsprechend läßt sich die vorliegende Niederschrift wahrscheinlich
+               ebenfalls auf August/September 1798 datieren. (Vgl. Kommentar zu H P3, hier S. 216.)
+               Die Verse von P5a könnten für die Figur des Dichters vorgesehen gewesen sein. (Vgl.
+               etwa V. 67-74.)</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

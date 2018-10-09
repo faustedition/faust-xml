@@ -1,0 +1,53 @@
+<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>WA I 40</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-08-31" who="krause">angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Gräf 865c, WA I, 40, 191 -->
+            <div>
+                <pb n="191"/>
+                
+                <head><milestone unit="testimony" spanTo="#graef_865c_end" xml:id="graef_865c"
+                />Goethe's Schriften.<lb/>Erster bis vierter Theil.</head>
+                
+                <p>Schon zu der Zeit, da ich den Entschluß faßte, meine sämmtlichen Schriften dem
+                    Publico vorzulegen, wünschte ich den vier letzten Bänden eine andre als die
+                    angezeigte Gestalt geben zu können.</p>
+                <lb/>
+                <lb/>
+                
+                <p>Die Möglichkeit, diesen Wunsch auszuführen, hat sich über mein Erwarten gezeigt,
+                    und ich darf jetzt hoffen, daß ich wenigstens <rs>keine ungeendigten Stücke,
+                        keine Fragmente</rs> dem Publico werde mittheilen dürfen.</p>
+                <lb/>
+                <lb/>
+                
+                <p>Ich werde die Muße, die mir gegönnt ist, zum Dienste derer anwenden, die an
+                    meinen Arbeiten einiges Gefallen haben können, und bitte nur dagegen um eine
+                    verlängerte Frist, deren Dauer ich zwar nicht bestimmen, wohl aber versichern
+                    kann, daß ich jeden freien Augenblick nutzen werde, um den fünften und sechsten
+                    Band auf's baldigste in die Hände des Publicums zu liefern.</p>
+                <lb/>
+                <lb/>
+                
+                <p rend="centered">von Goethe.<anchor xml:id="graef_865c_end"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

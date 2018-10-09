@@ -1,0 +1,45 @@
+<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>WA IV, 24</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2014-11-13" who="sievert">Datei angelegt</change>
+            <change when="2014-11-13" who="sievert">extrahiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body><div type="letter">
+            <head>
+                <num type="wa-volume">24</num>/<num type="wa-letter">6797</num>. <lb/>
+                <lb/>An <persName>Anton Heinrich Fürst Radziwill</persName>
+                <date when="1814-04-11"/>
+            </head>
+            <p rend="indentchar-m8n8">Durchlauchtigster Fürst,</p>
+            <p rend="indentchar-m8n8"> Gnädigster Herr,</p>
+            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1153" spanTo="#graef_1153_end"/>Ew.
+                Durchlaucht geruhen, gegenwärtige kleine Sendung gnädig aufzunehmen, in Erinnerung
+                jenes<pb n="220"/> häuslichen Cirkels, dem Sie so unvergeßliche Stunden
+                schenken wollen. Ich <rs>wünsche, daß die Scene des Gartenhäuschens, in ihrer
+                gegenwärtigen Form, der Musik mehr geeignet seyn möge</rs>, als sie es bisher in ihrem
+                Laconismus gewesen. Noch eine andere liegt bey, welche bestimmt ist der
+                Gartenscene vorauszugehen.</p>
+            <p rend="indentchar-m4n0"> Möge Ew. Durchlaucht hierdurch eine kleine Freude und in
+                jeder Hinsicht so viel Gutes gewährt seyn, als Sie andern zu verschaffen wissen.<anchor xml:id="graef_1153_end"/>
+                Mich zu Gnaden empfehlend.</p>
+            <p rend="indentchar-m4n0"> Weimar den 11. April 1814.</p>
+            <p rend="right">J.W.v. Goethe.</p>
+            <lb/>
+        </div></body>
+    </text>
+</TEI>

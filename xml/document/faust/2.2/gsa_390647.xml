@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390647/">
+   <revisionDesc>
+      <change when="2013-01-07" who="henzel">imported</change>
+      <change when="2013-01-08" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.44</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,9</idno>
+      <idno type="gsa_2">GSA 25/W 1536</idno>
+      <idno type="gsa_ident">390647</idno>
+      <idno type="wa_faust">2 II H.44</idno>
+      <textTranscript uri="390647.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <!-- Konzept? -->
+      <condition>Tintenfraß, Gebrauchsspuren (Knick) im oberen Bereich des Blattes; am oberen und
+         unteren Rand gewellt</condition>
+      <dimensions>
+         <width unit="mm">208</width>
+         <height unit="mm">341</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 206 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <note>Schnittkante links</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>none</watermarkID>
+      <countermarkID>"H" über "N 4"</countermarkID>
+      <!-- evt. auch als "H" über "N 1" lesbar -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            50</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 50</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Vermutlich eigenhändige geometrische (?) Skizze mit Bleistift auf der Rückseite.
+               Im Corpus der Goethezeichnungen nicht nachgewiesen
+               (faust://bibliography/inventare_2_2, Sp. 142).</note>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= späteres K im Vgl. zu H.43 (25/XVII,8,8)</f:bemerkung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

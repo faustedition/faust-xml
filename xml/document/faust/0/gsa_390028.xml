@@ -1,0 +1,790 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390028/">
+   <revisionDesc>
+      <change when="2012-10-02" who="bruening">Drucknachweise</change>
+      <change when="2013-01-31" who="bruening">angefangen</change>
+      <change when="2013-02-03" who="bruening">Konvolutstruktur</change>
+      <change when="2013-02-06" who="bruening">encoded</change>
+      <change when="2013-04-22" who="bruening">Druck- und Literaturnachweise</change>
+      <change when="2014-03-07" who="bruening">GSA 25/W 3081 nach Ritschel</change>
+      <change when="2014-05-15" who="bruening">GSA 25/W 3081 wieder entfernt, da noch nicht feststehend (S. Henke)</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 ergaenzt</change>
+      <change when="2015-04-22" who="bruening">Archivsignaturen gemäß Rücksprache mit SH nochmals angepasst</change>
+      <change when="2015-05-31" who="bruening">Göchhausensche Stiftung.</change>
+      <change when="2018-09-19" who="pravida">Signatur zu GSA 25/W 2890 korrigiert</change>
+      <change when="2018-09-27" who="bruening">Identnummer zu 390028 korrigiert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Gebundenes Konvolut, 47 Blätter. – ‚Urfaust‘.</headNote>
+      <note>Die größte äußerliche Ähnlichkeit hat der Urfaust mit den Bll. 488–494 im Nachlassband (Sign. GSA 24/25,1–5, vgl. faust://bibliography/schmidt1887, S. VII), dem das Manuskript entstammt (gleiche Blattmaße, gleiches Wz). – Von der Forschung wird nur das direkt auf die Handschrift bezügliche, nicht aber die entstehungsgeschichtliche Forschung zum ‚Urfaust‘ berücksichtigt, der durch sie ganz oder teilweise überliefert wird.</note>
+      <repository>gsa</repository>
+      <!--<idno type="gsa_1">GSA 24/I,2</idno>-->
+      <!-- drückt wahrscheinlich eher die ursprüngliche Zugehörigkeit aus -->
+      <idno type="faustedition">1 H.5</idno>
+      <idno type="gsa_1">GSA 25/XXXV,5</idno>
+      <idno type="gsa_2">GSA 25/W 2890</idno>
+      <idno type="gsa_ident">390028</idno>
+      <idno type="wa_faust">U</idno>
+      <textTranscript uri="390028.xml"/>
+      <classification>none</classification>
+      <!-- reinschriftliche Abschrift -->
+      <history>Aus dem Nachlass Luise von Göchhausens, im Januar 1887 zunächst für „einige Tage in Weimar“ 
+         (Schmidt in faust://bibliography/koegel1888, S. 52, Anm.), im Jahr 1894 dem Goethe- und Schiller-Archiv 
+         als Teil des gesamten Nachlasses übereignet (vgl. die Unterlagen in GSA 150/A 252). 
+         Zum Zeitpunkt der Übergabe war der Urfaust bereits ausgesondert.
+         Das Manuskript lag nicht in der „Kiste“, die am 10. Mai 1894 im Archiv einging (ebd., Bl. 9): 
+         „Derselbe befand sich extra, unter den Familienpapieren, so nahm ich an, daß ein anderes Exemplar sich 
+         in Ihren Händen bereits befinde und behielt ihn zurück. Mit Freuden kann ich ihn nun nachfolgen 
+         lassen“ (Göchhausen an Schmidt, 11. Mai 1894, ebd., Bl. 15)         
+         In der Aufstellung über die Göchhausensche Stiftung (ebd., Bl. 4) trägt der Urfaust die Nummer 2, das Sammelheft 
+         in Quarto die Nummer 5.                  
+         <!-- siehe auch Findbucheinleitung;  
+         in der Übergabeliste als zweites genannt. 
+         Der große Sammelband ist an fünfter Stelle genannt
+         --> (vgl. auch faust://bibliography/schmidt1894, S. IX).</history>
+      <numberingList>
+         <numbering name="Tintenfoliierung">Tintenfoliierung (durchlaufend von Bl. 518 bis 564), die
+            an diejenige im Nachlassband (Sign. GSA 24/25,1–5) anschließt, dem das Manuskript
+            entnommen wurde. Sie stammt also aus derselben Zeit wie der Band selbst, ist also
+            höchstwahrscheinlich postumen Ursprungs (der Untertitel auf dem Rückenschild lautet:
+            „Aus dem Nachlaß der Frl. L. v. G.“). Die Zählung beginnt dort als Paginierung, ab 336
+            wird sie als Foliierung fortgeführt.</numbering>
+         <numbering name="Bleistiftfoliierung">Archivarische Foliierung mit Bleistift in der linken
+            unteren Ecke, nach der Digitalisierung durchgeführt (1–47).</numbering>
+      </numberingList>
+      <condition>Restauriert (vgl. das Restaurierungsprotokoll Nr. 10/1993); Spuren von größeren Tintenfraßlöchern sind im Durchlicht noch erkennbar.</condition>
+      <dimensions>
+         <width unit="mm">189</width>
+         <height unit="mm">230</height>
+      </dimensions>
+      <note>Manuskriptstärke: 8 mm.</note>
+      <format>4</format>
+      <bindingMaterial>Bindfaden. Die Heftung, die im Zuge der Restaurierung wiederhergestellt wurde (vgl. das Restaurierungsprotokoll, Bl. 6f.), entspricht derjenigen im Nachlassband (Sign. GSA 24/25). Von ihr waren zum Zeitpunkt der Restaurierung offenbar nur noch die Einstiche vorhanden. An ihre Stelle war eine, zu Beginn der Restaurierung schadhafte, „Aktenstichheftung“ getreten (Restaurierungsprotokoll, Bl. 6). Die frühere wird als die „ursprüngliche Heftung“ aufgefasst (ebd.). Sie geht aber auf die Entstehung des Nachlassbandes, d.h. auf die Zeit nach Louise von Göchhausens Tod zurück (s.o.). Diese Heftung als die ursprüngliche aufzufassen heißt daher zu Lebzeiten Göchhausens ein ungebundenes Manuskript annehmen. Es muss aber davon ausgegangen werden, dass bereits Louise von Göchhausen selbst das Manuskript, wie andere Erinnerungsstücke, geheftet hatte. Und tatsächlich zeigen die äußerlich ähnlichsten Blätter im Nachlassband (Bll. 488–494) einige Einstichlöcher, die auf eine noch
+         frühere Heftung hindeuten (sichtbar zw. Bl. 492v und 493r). (Dass diese Einstichlöcher bei der Untersuchung nicht auffielen, ist angesichts des beschriebenen Erhaltungszustands gut vorstellbar. Die vielfältigen Verstärkungen mit Japan- und Japanseidenpapier sowie Reiskleister (Restaurierungsbericht, Bl. 4) dürften evtl. verbliebene Spuren restlos beseitigt haben. Eine nähere Einsicht in den Falz lässt die jetzige Heftung nicht mehr zu.) Die im Raustaurationsbericht als ursprünglich aufgefasste und wiederhergestellte Heftung hat also existiert, doch ist sie nicht die ursprüngliche.</bindingMaterial>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>hellgelblich</paperColour>
+      <watermarkID>Posthornschild_DetC_Blauw_Fe_Nr_16</watermarkID>
+      <countermarkID>DetC_Blauw</countermarkID>
+      <note>Das Gegenzeichen ist nur beim letzten Blatt (564) erkennbar; vgl. ergänzend GSA 24/25, Bl. 488/490).</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 252</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_39">S. 440</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 259–261, 262–271, 282–286</reference>
+         <reference type="text" uri="faust://bibliography/schmidt1887"/>
+         <reference type="text" uri="faust://bibliography/schmidt1894"/>
+         <reference type="text" uri="faust://bibliography/wa_I_39">S. 219–319</reference>
+         <reference type="text" uri="faust://bibliography/aa_faust_1"/>
+         <reference type="text" uri="faust://bibliography/aa_ergbd_3"/>
+         <reference type="text" uri="faust://bibliography/djg3_5">S. 272–350</reference>
+         <reference type="text" uri="faust://bibliography/keller1985"/>
+         <!-- braunschweiger1987 -->
+         <!-- schoene1994 -->
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 469-539</reference>
+         <reference type="facsimile" uri="faust://bibliography/aa_faust_1"/>
+         <reference type="essay" uri="faust://bibliography/schmidt1887">S. IXf., XXXVI–XXXVIII</reference>
+         <reference type="essay" uri="faust://bibliography/schmidt1894">S. XIf., LXXIII–LXXVI</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_39">S. 441–447.</reference>
+      </references>
+   </metadata>
+   <!-- 1. Lage -->
+   <sheet>
+      <!-- Bl. 518 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 519 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Bl. 520 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Von der vordere Hälfte des Dpbl. war vor der Restaurierung ein 8 mm breiter Falz übrig (Restaurierungsbericht, Bl. 2). Die Lücke in der Foliierung im Nachlassband lässt auf ein Bl. 517 schließen, das bei der postumen Foliierung noch vorhanden war und erst im Zusammenhang mit der Entnahme des Urfausts verlorenging. Dass dieses Blatt als „Titelblatt“ diente (Restaurierungsbericht, Bl. 2), bleibt allerdings Vermutung. Bei dem auf der Abbildung von Bl. 518r sichtbaren Streifen handelt es sich nicht um diesen Falz, sondern um einen Streifen zur Verstärkung des Gelenks des heutigen Schutzumschlags. Der Streifen hat allenfalls die zusätzliche kosmetische Funktion, an die frühere Existenz des Falzes zu erinnern. Über dessen Verbleib geht aus dem Restaurationsbericht nichts hervor.</note>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0007.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 2. Lage -->
+   <sheet>
+      <!-- Bl. 521 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0008.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0009.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 522 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0010.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0011.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 523 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0012.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0013.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 524 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0014.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0015.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 3. Lage -->
+   <sheet>
+      <!-- Bl. 525 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0016.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0017.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 526 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0018.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0019.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 527 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0020.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0021.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 528 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0022.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0023.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 4. Lage -->
+   <sheet>
+      <!-- Bl. 529 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0024.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0025.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 530 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0026.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0027.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 531 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0028.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0029.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 532 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0030.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0031.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 5. Lage -->
+   <sheet>
+      <!-- Bl. 533 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0032.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0033.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 534 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0034.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0035.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 535 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0036.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0037.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 536 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0038.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0039.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 6. Lage -->
+   <sheet>
+      <metadata>
+         <watermarkID>Posthornschild_DetC_Blauw_symmetrische_Dreipassmarke</watermarkID>
+         <countermarkID>DetC_Blauw</countermarkID>
+      </metadata>
+      <!-- Bl. 537 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0040.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0041.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <watermarkID>Posthornschild_DetC_Blauw_Fe_Nr_16</watermarkID>
+            <countermarkID>DetC_Blauw</countermarkID>
+         </metadata>
+         <!-- Bl. 538 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0042.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0043.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 539 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0044.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0045.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 540 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0046.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0047.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 7. Lage -->
+   <sheet>
+      <!-- Bl. 541 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0048.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0049.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <watermarkID>Posthornschild_DetC_Blauw_symmetrische_Dreipassmarke</watermarkID>
+            <countermarkID>DetC_Blauw</countermarkID>
+         </metadata>
+         <!-- Bl. 542 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0050.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0051.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 543 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0052.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0053.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 544 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0054.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0055.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 8. Lage -->
+   <sheet>
+      <!-- Bl. 545 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0056.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0057.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <watermarkID>Posthornschild_DetC_Blauw_symmetrische_Dreipassmarke</watermarkID>
+            <countermarkID>DetC_Blauw</countermarkID>
+         </metadata>
+         <!-- Bl. 546 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0058.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0059.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 547 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0060.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0061.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 548 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0062.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0063.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 9. Lage -->
+   <sheet>
+      <!-- Bl. 549 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0064.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0065.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 550 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0066.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0067.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 551 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0068.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0069.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 552 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0070.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0071.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 10. Lage -->
+   <sheet>
+      <!-- Bl. 553 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0072.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0073.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 554 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0074.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0075.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 555 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0076.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0077.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 556 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0078.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0079.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 11. Lage -->
+   <sheet>
+      <!-- Bl. 557 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0080.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0081.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 558 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0082.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0083.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 559 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0084.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0085.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 560 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0086.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0087.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 12. Lage -->
+   <sheet>
+      <!-- Bl. 561 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0088.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0089.xml"/>
+               <references>
+                  <reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach S. 736, Abb. 16</reference>
+               </references>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <watermarkID>Posthornschild_DetC_Blauw_symmetrische_Dreipassmarke</watermarkID>
+            <countermarkID>DetC_Blauw</countermarkID>
+         </metadata>
+         <!-- Bl. 562 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0090.xml"/>
+                  <references>
+                     <reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach S. 736, Abb. 17</reference>
+                  </references>
+
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0091.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 563 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0092.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0093.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 564 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0094.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0095.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

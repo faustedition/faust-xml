@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+  <!-- Cf. https://github.com/faustedition/xml/issues/600 -->
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>John</comment>
+    <item uri="faust://document/faustedition/2_V_H.15a"/>
+    <item uri="faust://document/faustedition/2_V_H.15b"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Abschrift, zS</comment>
+    <item uri="faust://document/faustedition/2_V_H.26"/>
+    <item uri="faust://document/faustedition/2_V_H.26a"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>John</comment>
+    <item uri="faust://document/faustedition/2_V_H.37e"/>
+    <item uri="faust://document/faustedition/2_V_H.37f"/>
+  </relation>
+  <relation name="temp-pre">
+    <source uri="faust://self"/>
+    <comment>Reihenfolge textuell begründet</comment>
+    <item uri="faust://document/faustedition/2_V_H.37f"/>
+    <item uri="faust://document/faustedition/2_V_H.37g"/>
+  </relation>
+</macrogenesis>

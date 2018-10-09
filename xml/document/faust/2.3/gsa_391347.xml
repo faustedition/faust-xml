@@ -1,0 +1,897 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391347/">
+   <revisionDesc>
+      <change when="2012-12-10" who="bruening">begonnen</change>
+      <change when="2012-12-11" who="bruening">weitergeführt</change>
+      <change when="2013-01-08" who="bruening">encoded</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>17 Einzelblätter nebst Umschlag. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Dabei: Xerokopie der Aufschrift des früheren archivarischen Umschlags. Bemerkung „Blatt 9 liegt aus“ (durchstrichenen) (s. zum Erhaltungszustand des Blatts). Darunter eine auf Dezember 1936 datierte Bemerkung Max Heckers zu Goethes Bearbeitung und zur entstehungsgeschichtlichen Einordnung: „NB! Wenn, wie Erich Schmidt will (W.A. 15<!-- sup -->II<!-- /sup -->,65), die Verse 8604–8609 und 8803ff <!-- hi rend=underline -->neu<!-- /hi --> sind (und dass sie zu anderer Zeit als das Vorangehende geschrieben sind, ist offensichtlich), so sind die darin enthaltenen Bleistiftkorrekturen noch jünger, mit ihnen aber auch die übrigen Bleistiftkorrekturen (Vers 8492, 8494, 8511, 8515, 8550, 8639 u.s.w.), die also alle der <!-- del -->ersten<!-- /del --> alten Fassung nicht angehören. Ich habe sie daher bei meiner Ausgabe der „Welt-Goethe-Ausgabe“ unberücksichtigt gelassen. Dezember 1936. Max Hecker“ (wiedergegeben auch bei faust://bibliography/bohnenkamp1994, S. 568). Reste von
+         Stichlöchern am linken Rand der ersten sieben Blätter (ca. 58, 123, 215 und 271 mm vom oberen Rand) lassen auf eine ursprüngliche Bindung und Lagenstruktur schließen. Die Bll. 1 und 2, 4 und 7 sowie 5 und 6 bildeten jeweils ein Doppelblatt, nur Bl. 3 bleibt vereinzelt, seine Stichlöcher (68 und 130 mm vom oberen Rand) passen auch nicht zu denen der übrigen Bll.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.1</idno>
+      <idno type="gsa_1">GSA 25/XVIII,1,1</idno>
+      <idno type="gsa_2">GSA 25/W 1567</idno>
+      <idno type="gsa_ident">391347</idno>
+      <idno type="wa_faust">2 III H.1</idno>
+      <textTranscript uri="391347.xml"/>
+      <classification>Mundum</classification>
+      <container>Späterer Umschlag, der heute beiliegt und, wie an der noch sichtbaren Breite des einstigen 
+         Umschlagrückens zu erkennen ist, wohl nur die alten Blätter umschloss.</container>
+      <numberingList>
+         <numbering name="Archivarische_Bleistiftfoliierung">Archivarische Foliierung des Umschlags
+            mit „1a“.</numbering>
+         <numbering name="Bleistiftfoliierung">Eigenhändige Foliierung mit Bleistift, rechts oben,
+            fortlaufend von 1 bis 17.</numbering>
+      </numberingList>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 65</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 71f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 554</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 72–81</reference>
+         <reference type="text" uri="faust://bibliography/alt_14">S. 323-331</reference>
+         <reference type="text" uri="faust://bibliography/graef1922">S. 537-544</reference>
+         <reference type="text" uri="faust://bibliography/witkowski1936">S. 499-507</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 554-567</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 671-679</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_15_2">S. 65</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 73-75</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 568f.</reference>
+      </references>
+   </metadata>
+   <!-- Umschlag -->
+   <sheet>
+      <metadata>
+         <paperType>Konzeptpapier</paperType>
+         <paperColour>grau</paperColour>
+         <paperMill>Stützerbach</paperMill>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>Achtzackiger_Stern</watermarkID>
+         <countermarkID>H_ueber_N1</countermarkID>
+      </metadata>
+      <!-- vorderes Umschlagbl. -->
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">206</width>
+               <height unit="mm">333</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <!-- hinteres Umschlagbl. -->
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">333</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Bl. 1 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Bildete ursprünglich mit Bl. 2 der egh. Zählung ein Doppelblatt.</note>
+         <dimensions>
+            <width unit="mm">240</width>
+            <height unit="mm">329</height>
+         </dimensions>
+         <leafCondition>Vorderseitig stark vergilbt.</leafCondition>
+         <paperColour>gelblich</paperColour>
+         <watermarkID>GS_in_Blattverzierung</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 2 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Bildete ursprünglich mit Bl. 1 der egh. Zählung ein Doppelblatt.</note>
+         <dimensions>
+            <width unit="mm">204</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <paperColour>gelblich</paperColour>
+         <watermarkID>Krone_in_Rokokorahmen</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0005.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 3 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Hat in der ursprünglichen Lagenstruktur kein Gegenstück.</note>
+         <dimensions>
+            <width unit="mm">204</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <paperType>Schreibpapier</paperType>
+         <paperColour>gelblich</paperColour>
+         <watermarkID>GS_in_Blattverzierung</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0007.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Die egh. niedergeschriebenen Verse 8557–8590 schlagen durch (Tintenfraß?).</note>
+            <docTranscript uri="0009.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 4 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Bildete ursprünglich mit Bl. 7 der egh. Zählung ein Doppelblatt.</note>
+         <dimensions>
+            <width unit="mm">207</width>
+            <height unit="mm">328</height>
+         </dimensions>
+         <paperColour>gelblich</paperColour>
+         <countermarkID>Krone_in_Rokokorahmen</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0010.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0011.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 5 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Bildete ursprünglich mit Bl. 6 der egh. Zählung ein Doppelblatt.</note>
+         <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">327</height>
+         </dimensions>
+         <paperColour>gelblich</paperColour>
+         <chainLines unit="mm">23</chainLines>
+         <countermarkID>Krone_in_Rokokorahmen</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0012.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0013.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 6 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Bildete ursprünglich mit Bl. 5 ein Doppelblatt.</note>
+         <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <paperColour>gelblich</paperColour>
+         <watermarkID>GS_in_Blattverzierung</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0014.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0015.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 7 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <paperColour>gelb</paperColour>
+         <watermarkID>GS_in_Blattverzierung</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0016.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0017.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 8 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">324</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0018.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0019.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 9 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Vorderseitig stark vergilbt. Offenbar ein Lichtschaden infolge der öffentlichen Ausstellung des Blatts (s. die obigen einführenden Bemerkungen).</note>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0020.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0022.xml"/>
+         </metadata>
+         <patch>
+            <metadata>
+               <note>An beiden Rändern sowie in mittig Klebesburen.</note>
+               <patchDimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">53</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchWatermarkID>none</patchWatermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 10 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0023.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0024.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 11 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0025.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0026.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. „ad 11“ -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0027.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 12 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0028.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0029.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 13 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">335</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0030.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0031.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 14 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0032.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0033.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 15 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <paperColour>grünlich</paperColour>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0034.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 16 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">334</height>
+         </dimensions>
+         <leafCondition>Oberer Rand leicht gewellt.</leafCondition>
+         <paperColour>grünlich</paperColour>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0035.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0036.xml"/>
+         </metadata>
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">200</width>
+                  <height unit="mm">88</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchWatermarkID>none</patchWatermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+   </disjunctLeaf>
+   <!-- Bl. 17 -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">153</height>
+         </dimensions>
+         <format>none</format>
+         <paperColour>grünlich</paperColour>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0037.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zT gedruckt WA I 15.2,72-81</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>20</f:blatt>
+      <f:dabei_vermerk>Bemerkung Max Hecker zu Korrekturen und zur Datierung der Verse, 1936, auf beiliegender Kopie, 1 Bl</f:dabei_vermerk>
+      <f:datierung>1800 und 1825</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391347</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.1; vgl. I 15.2,64
+Titel der Handschrift: "Helena im Mittelalter / Satyr-Drama, Episode zu Faust / Conzept"
+
+Vers(e): 8489-9164 (8516-8523, 8560-8568, 8591-8603, 8711, 8714, 8734, 9032-9036, 9039-9041, 9072-9073, 9097 fehlt/fehlen)
+Vom Strande komm ich ...
+Reinschrift und Konzept
+
+Vers(e): vor 8754 acht weitere Verse
+Stehe länger, länger! ...
+Reinschrift
+Text der Handschrift zu WA: I 15.2,79,209-80,216
+
+Vers(e): vor 8903 sechs weitere Verse
+Denn wäre das Künftige? ...
+Konzept
+Text der Handschrift zu WA: I 15.2,97</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>Geist, egh, John</f:schrift>
+      <f:signatur>XVIII,1,1</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVIII (1,1) (WA I,15.2,65 u. 7281)</p>
+            <p>Mundum</p>
+            <p>Erstdruck: WA I,15.2,7281</p>
+            <p>17 lose Folioblätter, ein halbes Folioblatt, von Goethe mit Blei numeriert; Blatt 17
+               gelblich; WZ: `G S' in Ornament mit Zierrand/Krone in Wappenkartouche mit Zierrand;
+               Blatt 816 mit Ergänzungsblatt zu Blatt 11 grünlich; WZ: Wappen mit `Stuetzerbach' /
+               verschlungenes `G H' über `N 3' (Stuetzerbacher Wappenpapier); Umschlag: grauer
+               Foliobogen, Konzeptpapier; WZ: Stern / `H' über `N 1' (Stuetzerbacher
+               Sternpapier);</p>
+            <p>Umschlag: G schw. Tinte Titel, mit Tintenkorrekturen und Bleiergänzung;</p>
+            <p>Blatt 1: Geist Tinte mit Korrekturen G Blei; VS: 84898505 Var; RS: 85068531 Var, ohne
+               8516-8523;</p>
+            <p>Blatt 2: Geist Tinte mit Ergänzungen G Tinte u. Korrekturen G Blei; VS: 85328550 Var;
+               RS: 85518577 Var, ohne 8560-8568;</p>
+            <p>Blatt 3: VS: Geist Tinte 85788586 Var; G br. Tinte 85878590; G schw. Tinte 86048609
+               Var; RS: John Tinte 86108637;</p>
+            <p>Blatt 4: Geist Tinte; VS: 86388654 Var; RS: 86558670 Var;</p>
+            <p>Blatt 5: Geist Tinte; VS: 86718688 Var; RS: 86898706 Var;</p>
+            <p>Blatt 6: Geist Tinte; VS: 87078727 Var; RS: 87288753 Var;</p>
+            <p>Blatt 7; VS: Geist Tinte Chorverse nach 8753, 87458778 Var; G Tinte 8778 Var; RS: G
+               Tinte 87798802 Var; G br.Tinte 88038806 Var;</p>
+            <p>Blatt 8, VS bis Blatt 9, RS: G Tinte 88078902;</p>
+            <p>Blatt 10: VS: G Tinte 89038908; John Tinte 89098916; RS: John Tinte 89178925;</p>
+            <p>Blatt 11: John Tinte 89268935, 8954; RS: 89548968;</p>
+            <p>Ergänzungsblatt zu Blatt 11: VS: John Tinte 89368953; RS: leer;</p>
+            <p>Blatt 12, VS bis Blatt 15, RS: John Tinte 89689087 Var;</p>
+            <p>Blatt 16: John Tinte; VS: 90889121; RS: 91229151;</p>
+            <p>Blatt 17: VS: John Tinte 91529164; RS: leer;</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>
+               <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV2_31.JPG" width="9" height="10" align="middle"/> Nachlaßstücke Zweiter Teil, Akt 3 Als III H1 hat
+               Erich Schmidt das im Jahr 1800 begonnene Manuskript der "Helena im Mittelalter"
+               bezeichnet, das Goethe 25 Jahre später wieder vornahm, um die unterbrochene Arbeit
+               fortzusetzen. Das Manuskript enthält noch 7 Blätter aus dem alten Bestand; die 1825
+               neu hinzugefügten Blätter sind sowohl an der Papiersorte (Stuetzerbacher
+               Wappenpapier) als auch anhand des Schreibers deutlich zu unterscheiden (John begann
+               erst 1814 für Goethe zu schreiben). Zu klären bleibt, welche Verse auf den alten
+               Blättern aus der neuen Zeit stammen: während die von Goethes Schreiber Geist
+               geschriebenen Passagen dieser Handschrift ohne Zweifel auf das Jahr 1800 zu datieren
+               sind, ist in bezug auf die eigenhändigen Einträge eine solche Sicherheit nicht zu
+               erreichen. In ihrer gründlichen Untersuchung des Manuskripts macht Fischer-Lamberg
+               wahrscheinlich, daß neben den Versen 8489-8515, 8524-8545, 8547-8559, 8569-8586 und
+               8638-8778, die von der Hand Geists überliefert sind, nur die eigenhändigen
+               Ergänzungen von V. 8546 und V. 8779-8802 aus der Arbeit von 1800 stammen, die
+               ebenfalls eigenhändigen Ergänzungen der V. 8587-8590 und 8604-8609 wie die von John
+               eingetragenen V. 8610-8637 jedoch der Phase von 1825 zuzuordnen sind, da die
+               überlieferten Vorstufen zeigen, daß alle drei Versgruppen <i>einer</i> Arbeitsschicht
+               angehören (vgl. Fischer-Lamberg, S. 71-75). Erich Schmidt dagegen hatte den Nachtrag
+               von V. 8587-8590 zum alten Bestand der `Helena' von 1800 gerechnet. </p>
+            <p>Dokumentiert wird hier nur das <i>alte</i> Manuskript (die ersten 7 Blätter des
+               Mundums), allerdings <i>mit</i> den Korrekturen und Ergänzungen, die 25 Jahre später
+               in dieses eingetragen wurden. Anders ist Hecker bei seiner Wiedergabe der `Helena
+               1800' verfahren; eine eigenhändige Notiz auf dem Manuskriptumschlag im GSA erläutert
+               "Wenn, wie Erich Schmidt will (WA 15.2,65), die Verse 8604-8609 und 8803ff.
+                  <i>neu</i> sind (und dass sie zu anderer Zeit als das Vorangehende geschrieben
+               sind, ist offensichtlich), so sind die darin enthaltenen Bleistiftkorrekturen noch
+               jünger, mit ihnen aber auch die übrigen Bleistiftkorrekturen (V. 8492, 8494, 8511,
+               8515, 8550, 8639 usw.), die also alle der alten Fassung nicht angehören. Ich habe sie
+               daher bei meiner Ausgabe der `Welt-Goethe-Ausgabe' unberücksichtigt gelassen.
+               Dezember 1936. Max Hecker".</p>
+            <p>Eine eingehende Untersuchung der 1825 vorgenommenen Korrekturen des alten
+               `Helena'-Fragments unternimmt Niejahr in seiner Untersuchung zur
+               Entstehungsgeschichte der `Helena' und stellt fest, "daß die getroffenen Änderungen
+               fast ausschließlich metrischer Natur sind", und "daß es sich dabei im Wesentlichen um
+               die Vermehrung der 3silbigen Versfüße" und das absichtliche Vermeiden von Synkopen
+               handelt: "Da wir es demnach mit einem bewußten Verfahren zu thun haben, so scheint es
+               zweifellos, daß Goethe hier ein bestimmtes Muster vorschwebte. War früher Äschylus
+               sein mittelbares Vorbild gewesen,so folgte [Goethe] jetzt, unter der Führung Riemers,
+               den Spuren des Euripides." (Niejahr, Helena, S. 100f.)</p>
+            <p>Aufschlußreich ist der Titel des alten Manuskripts, der noch 1825 bei der
+               Wiederaufnahme der Arbeit zunächst nur geringfügig abgewandelt übernommen wurde: Der
+               alte Plan versetzt nicht Faust nach Griechenland, sondern Helena ins (deutsche)
+               Mittel IIIH1</p>
+            <p> alter (vgl. dazu hier S. 540f.). Der Untertitel ("Satyrisches Drama" zuerst,
+               verändert zu "Satyr-Drama" und schließlich 1825 zu "Satyroma", vgl. III H2) zeigt,
+               daß Goethe die `Helena' zunächst "in einer gewissen Analogie zum griechischen
+               Satyrspiel konzipiert" hatte (Schillemeit, Satyrspiel, S. 307), als eine "Episode zu
+               Faust", in der die Elemente des Komischen und Burlesken dominieren sollten. Den
+               Beginn der Arbeit an der `Helena' markiert ein Brief an Schiller vom 12. 9. 1800:
+               "Nach verschiedenen Abentheuern bin ich erst heute früh wieder zu der jenaischen Ruhe
+               gelangt und habe gleich etwas versucht, aber nichts gethan. Glücklicherweise konnte
+               ich diese acht Tage die Situationen fest halten von denen Sie wissen, und meine
+                  <i>Helena</i> ist wirklich aufgetreten. Nun zieht mich aber das Schöne in der Lage
+               meiner Heldin so sehr an, daß es mich betrübt wenn ich es zunächst in eine Fratze
+               verwandeln soll. Wirklich fühle ich nicht geringe Lust eine ernsthafte Tragödie auf
+               das Angefangene zu gründen; allein ich werde mich hüten die Obliegenheiten zu
+               vermehren, deren kümmerliche Erfüllung ohnehin schon die Freude des Lebens wegzehrt."
+               (WA IV,15,102f.) Das Tagebuch bestätigt dieses Datum, hier heißt es: "Früh Helena."
+               (WA III,2,305) Fast täglich ist von nun an Arbeit an der `Helena' verzeichnet; am 23.
+               September schreibt Goethe wiederum an Schiller: "Meine Helena ist die Zeit auch etwas
+               vorwärts gerückt. Die Hauptmomente des Plans sind in Ordnung, und da ich in der
+               Hauptsache Ihre Beystimmung habe, so kann ich mit desto besserm Muthe an die
+               Ausführung gehen. Ich mag mich dießmal gern zusammenhalten und nicht in die Ferne
+               blicken; aber das sehe ich schon daß, von diesem Gipfel aus, sich erst die rechte
+               Aussicht über das Ganze zeigen wird." (WA IV,15,112) Auch in den folgenden Tagen
+               verzeichnet das Tagebuch Arbeit an der `Helena'. Als Goethe Anfang Oktober nach
+               Weimar zurückkehrt, schreibt er rückblickend an Schiller: "Ob ich gleich nicht gerade
+               das zu Stande gebracht was ich mir vorgesetzt, so habe ich doch meine Zeit gut
+               zugebracht und bin in manchem vorwärts gekommen." (An Schiller 3. 10. 1800; WA
+               IV,15,127.) </p>
+            <p>Ein wesentlicher Teil der `Helena im Mittelalter' wird in diesen Wochen in
+               Jenaentstanden sein; nur im November wird die Helena noch einmal erwähnt (WA
+               IV,15,146), dann wendet sich Goethe der Ausarbeitung der `Walpurgisnacht' zu, bevor
+               die Arbeit am `Faust' vorerst ins Stocken gerät. (Vgl. mein Kapitel zur
+               Entstehungsgeschichte bis zum Erscheinen des Ersten Teils, hier S. 99.)</p>
+            <p>Z. 98 Verlasset des Gesanges freudumgebnen Pfad] Im Gegensatz zum endgültigen Text
+               ist der Monolog Helenas in der Fassung von 1800 noch nicht von den Liedern des Chors
+               unterbrochen. Daß Goethe ein Eingangslied des Chors jedoch auch damals schon plante,
+               zeigt dieser Vers, mit dem die Chorführerin sich offenbar an den Chor wendet, dessen
+               "Gesang" hier allerdings noch fehlt. Vgl. auch den Kommentar zu HP84, Z. 8-12, hier
+               S. 542f.</p>
+            <p>Z.209-236: Vgl. III H9, hier S. 551f. </p>
+            <p> Nachlaßstücke Zweiter Teil, Akt 3</p>
+            <p>
+               <b>III H12 (P172, P52 Var)</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,1*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Stehe länger, länger!</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Geist</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>vor 8754 acht weitere Verse</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 15.2,79,209-80,216</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Geist, Johann Jakob Ludwig</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2565</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,1*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Denn wäre das Künftige?</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>vor 8903 sechs weitere Verse</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 15.2,97</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2748</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,1*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Vom Strande komm ich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Geist; egh; John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift und Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>8516-8523, 8560-8568, 8591-8603, 8711, 8714, 8734, 9032-9036, 9039-9041,
+               9072-9073, 9097</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8489-9164</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Geist, Johann Jakob Ludwig; John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zT gedruckt WA I 15.2,72-81</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3479</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Helena im Mittelalter / Satyr-Drama, Episode zu Faust / Conzept"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1800 und 1825</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1825; 1800</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 1-17</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,64</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30b">Schrift (Zusatzfeld für Indizierung)</f:key>
+            <f:value>M. Hecker</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Hecker, Max</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>20</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Bemerkung Max Hecker zu Korrekturen und zur Datierung der Verse, 1936, auf
+               beiliegender Kopie, 1 Bl</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Arbeitsmundum; in hellen Umschlag lose eingelegte 17 Foliobl und 1 halbes
+               Foliobl; Weiterbearbeitung in H.2 (25/XVIII,1,2a); enthält auch sechs weitere später
+               fortgelassene Verse zwischen Vers 8901 und 8903, vgl. Bohnenkamp, S 588; Schrift:
+               fol. 1-7.a Geist, John, Korr egh; fol. 7.b-10.a egh; 10.a-17 John, Korr egh; eine
+               Übersicht zur Aufteilung der Verse enthält Fischer-Lamberg, S 72; zur Datierung vgl.
+               Bohnenkamp, S 568</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1221</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4137</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

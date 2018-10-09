@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390640/">
+   <revisionDesc>
+      <change when="2012-11-14" who="henzel">imported</change>
+      <change when="2012-11-14" who="henzel">encoded</change>
+      <change when="2013-01-24" who="henzel">aktualisiert</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt (Umschlag). – Zu ‚Faust II‘, Akt  2 und Akt 5.</headNote>
+      <note>alter Umschlag mit Aufschriften Johns mit Tinte, Zusätze eigenhändig von Goethe mit
+         Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.6b</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,1:1</idno>
+      <idno type="gsa_2">GSA 25/W 1668</idno>
+      <idno type="gsa_ident">390640</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="390640.xml"/>
+      <classification>none</classification>
+      <note>Umschlag</note>
+      <condition>an den Rändern, insbesondere dem unteren, abgenutzt und ausgeblichen, leicht
+         fleckig; mit vielen Stichlöchern versehen; Papierreste eines ehemals im Umschlag
+         vorhandenen Konvoluts mit Bleistiftmarkierungen am oberen Rand sind noch
+         vorhanden, ebenso Fadenheftung</condition>
+      <dimensions>
+         <width unit="mm">209</width>
+         <height unit="mm">346</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 344 mm.</note>
+      <format>2</format>
+      <!-- 2 Folioblätter aus einem gesamten Bogen -->
+      <bindingMaterial>Faden</bindingMaterial>
+      <stabMarks>
+         <!-- Stichlöcher mit Fadenheftung -->
+         <stabMark unit="mm">55</stabMark>
+         <stabMark unit="mm">122</stabMark>
+         <stabMark unit="mm">206</stabMark>
+         <stabMark unit="mm">264</stabMark>
+      </stabMarks>
+      <stabMarks>
+         <!-- Stichlöcher im eingeklebten Papier-Falz -->
+         <stabMark unit="mm">81</stabMark>
+         <stabMark unit="mm">129</stabMark>
+         <stabMark unit="mm">205</stabMark>
+         <stabMark unit="mm">209</stabMark>
+         <stabMark unit="mm">250</stabMark>
+      </stabMarks>
+      <!-- weitere vorhandene Stichlöcher ggf. aufnehmen und mindestens mit Konvoluten der Akte 2, 4 und 5 vergleichen -> Rückschlüsse auf ehemaliges Gesamtkonvolut -->
+      <edges>uncut</edges>
+      <paperType>none</paperType>
+      <note>Karton</note>
+      <paperColour>blau</paperColour>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

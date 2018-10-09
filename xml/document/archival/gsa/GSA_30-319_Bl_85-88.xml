@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+   xml:base="faust://xml/transcript/gsa/GSA_30-319_Bl_85-88/">
+   <revisionDesc>
+      <change when="2013-01-31" who="bruening">angelegt</change>
+      <change when="2013-01-31" who="bruening">encoded</change>
+      <change when="2013-03-26" who="bruening">Fischer-Lamberg.</change>
+      <change when="2013-10-29" who="henzel">Transkriptverlinkung in Lagenstruktur</change>
+      <change when="2013-11-11" who="ritter">uri textTranscript ergänzt</change>
+      <change when="2013-11-14" who="henzel">note ergaenzt um Schreiberangaben</change>
+      <change when="2015-03-09" who="pravida">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">Ergaenzung gsa_1</change>
+      <change when="2015-07-02" who="henzel">textTranscript</change>
+      <change when="2016-01-28" who="koehler">minimal headnote</change>
+      <change when="2016-01-28" who="koehler">Brief WA-Nr. statt URI </change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Doppelblätter. – Brief und Versentwurf zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Goethe an Reichel, 18. März 1827 (WA-Nr. 42079), von Johns Hand mit
+         eigenhändigen Korrekturen Goethes. Zwei ineinandergelegte und eingeheftete Foliobl., mittig
+         sowie am Rand längs gebrochen. In einem Konvolut mit einem vorgebundenen Foliobl. blauen
+         Papiers, das den Titel trägt: „Acta Privata. / Die neue vollstaendige Ausgabe meiner
+         Schriften betr. / Vol. III. A. / Die aesthetisch-kritischen Verhandlungen wegen der Ausgabe
+         selbst betr.“ Weiter unten „1825“.
+         Lage aus 2 Doppelblättern</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.75a</idno>
+      <idno type="gsa_1">GSA Act.Priv. Vol. III A</idno>
+      <idno type="gsa_2">GSA 30/319, Bl. 106–109</idno>
+      <idno type="gsa_ident">12858</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 III H.75a</idno>
+      <textTranscript uri="GSA_30-319_Bl_85-88.xml"/>
+      <numberingList>
+         <numbering name="Zeitgenoessische_Foliierung">Zeitgenössische Foliierung mit Bleistift
+            (später eingekreist) von der Hand Johns, in anderen Teilen des Konvoluts auch mit
+            Tinte.</numbering>
+         <numbering name="Archivarische_Foliierung">Archivarische Foliierung mit Bleistift (nach
+            dieser richtet sich die obige Blattangabe im Anschluss an die Signatur).</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">332</height>
+      </dimensions>
+      <format>2</format>
+      <bindingMaterial>Faden</bindingMaterial>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Stern_ueber_N1</watermarkID>
+      <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            135</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="85r.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="85v.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <leaf>
+            <page>
+               <metadata>
+                  <!--<note>„Ein altes Wort … Und werfe pp.“</note>-->
+                  <docTranscript uri="86r.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="86v.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 108 (alt 87) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <note>Bis auf die Foliierung leer.</note>
+                  <docTranscript uri="87r.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <note>Leer.</note>
+                  <docTranscript uri="87v.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="88r.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="88v.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

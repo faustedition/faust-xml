@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_68-878_Mit_drey_Blumen_Straeussen/">
+   <revisionDesc>
+      <change when="2013-01-31" who="bruening">angelegt</change>
+      <change when="2013-01-31" who="bruening">encoded</change>
+      <change when="2013-03-27" who="bruening">Verweis auf Düsseldorfer Exemplar, Verweise.</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Von Goethes Versen für den Weimarschen Frauenverein scheinen mehrere gleichartige
+         Abschriften hergestellt worden zu sein, von denen das hier beschrieben Bl. ein Exemplar
+         darstellt. In der „Sammlung Goetheana“ des Goethe-Museums Düsseldorf hat sich ein weiteres
+         Exemplar erhalten. Am rechten und unteren Rand Zusätze von der Hand Müllers. „IV 176“ (o
+         li) bezieht sich auf faust://bibliography/wa_I_4. Dabei: spätere Abschrift (164 × 205 mm).
+         Dabei liegt jetzt eine erneute Abschrift der Verse wie auch der Zusätze Müllers. Die
+         Auskunft, dass es sich bei diesem Blatt höchstwahrscheinlich nicht um eine zeitgenössische
+         Abschrift handelt, gab am 31. Januar 2013 Sabine Schäfer mdl. – Eine unter derselben
+         Signatur aufbewahrte Müllersche Abschrift der Verse 4662–4665 („Säume nicht …“, 219 × 135
+         mm, Maschinenpapier) ist textkritisch ohne Belang.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.9g</idno>
+      <idno type="gsa_2">GSA 68/878</idno>
+      <idno type="gsa_ident">10789</idno>
+      <note>Nicht foliiert.</note>
+      <textTranscript uri="GSA_68-878_Mit_drey_Blumen_Straeussen.xml"/>
+      <condition>Stark vergilbt, am Rand eingerissen.</condition>
+      <dimensions>
+         <width unit="mm">219</width>
+         <height unit="mm">268</height>
+      </dimensions>
+      <format>n.s.</format>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>n.s.</watermarkID>
+      <note>J. Whatman</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/henke2008">S. 270</reference>
+         <reference type="text" uri="faust://bibliography/henke2008">S. 270</reference>
+         <reference type="essay" uri="faust://bibliography/henke2008">S. 270</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <!-- Titel auf der Hs.: Mit drey Blumen-Straeussen in den Weimarschen Frauen-Verein. Weihnachten, 1825 "Faust" II, 1. Akt, Vers 5128-5131 und 5132-5135
+            dabei: Bemerkung F. v. Müller
+         -->
+         <!-- Abschrift zS von Vers 5128-5153 mit Incipit: "Ceres Gaben"<br> wahrscheinlich mit vorigem Eintrag identisch (offensichtlich Zahlendreher in Versangabe)-->
+         <metadata>
+            <docTranscript uri="FA_50_0035.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,815 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391375/">
+	<revisionDesc>
+		<change when="2012-11-09" who="henzel">imported</change>
+		<change when="2012-11-12" who="henzel">encoded</change>
+		<change when="2013-01-21" who="henzel">aktualisiert</change>
+		<change when="2014-08-13" who="bruening">Schöne</change>
+		<change when="2014-10-16" who="pravida">headnote</change>
+		<change when="2015-03-12" who="koehler">Uri print/q</change>
+		<change when="2015-07-03" who="koehler">minimal headnote</change>
+	</revisionDesc>
+	<metadata>
+		<headNote>Heft, 8 Doppelblätter. – Versentwürfe zu ‚Faust I‘, Szene ‚Walpurgisnacht‘.</headNote>
+		<note>Eigenhändige Zuordnungsvermerke zu einem nicht überlieferten Nummernschema von 1797/98
+			mit Bleistift: "ad 17" und "ad 17.a."
+			Heft aus 8 Doppelblättern in 2 Lagen, 17 beschriebene Seiten. - Seiten 3, 7, 8, 9, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24: 
+			Versentwürfe und Notizen zur Szene  ‚Walpurgisnacht‘ in ‚Faust I‘ (eigenhändig, Tinte und Bleistift).</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P50</idno>
+		<idno type="gsa_1">GSA 25/XVII,2,24</idno>
+		<idno type="gsa_2">GSA 25/W 1398</idno>
+		<idno type="gsa_ident">391375</idno>
+		<idno type="wa_faust">none</idno>
+		<!-- P50, Hecker-Nr. 69 -->
+		<idno type="bohnenkamp">H P50</idno>
+		<textTranscript uri="391375.xml"/>
+		<classification>Arbeitsmundum</classification>
+		<!-- Reinschrift, Konzept, Schema -->
+		<numberingList>
+			<numbering>Eigenhändige Foliierung mit Bleistift</numbering>
+			<!-- foliiert sind nur die beschriebenen Blätter -->
+		</numberingList>
+		<condition>teils etwas fleckig, rechter Außenrand gewellt</condition>
+		<format>4</format>
+		<note>auf Quart gefaltete Folioblätter, ehemals geheftet</note>
+		<edges>cut</edges>
+		<paperType>Schreibpapier</paperType>
+		<paperColour>gelblich</paperColour>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_14">S. 305-306,
+				311</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+				139</reference>
+			<reference type="text" uri="faust://print/q_1_2">S. 179-180</reference>
+			<!-- Erstdruck: Q, S. 179f. -->
+			<reference type="text" uri="faust://bibliography/wa_I_14">S. 306-311</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 139-149</reference>
+			<reference type="text" uri="faust://bibliography/schoene1994">S. 552-559</reference>
+			<!-- TODO Angabe für 1999er Ausgabe nachtragen -->
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+				552-559</reference>
+			<reference type="facsimile" uri="faust://bibliography/schoene1994">Bd. 1, Abb.
+				50</reference>
+			<!-- Teilfaksimile -->
+			<reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach S. 736,
+				Abb. 14</reference>
+			<!-- Teilfaksimile -->
+			<reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach S. 736,
+				Abb. 15</reference>
+			<!-- Teilfaksimile -->
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 150-157</reference>
+		</references>
+	</metadata>
+	<sheet>
+		<!-- (von Scheibe als innerstes Blatt [Bl. 12/13] zur 2. Lage gezählt) -->
+		<metadata>
+			<dimensions>
+				<width unit="mm">172</width>
+				<height unit="mm">211</height>
+			</dimensions>
+			<stabMarks>
+				<stabMark unit="mm">35</stabMark>
+				<stabMark unit="mm">71</stabMark>
+				<stabMark unit="mm">101</stabMark>
+				<stabMark unit="mm">109</stabMark>
+				<stabMark unit="mm">152</stabMark>
+				<stabMark unit="mm">163</stabMark>
+			</stabMarks>
+			<chainLines unit="mm">25</chainLines>
+			<paperMill>Geraberg</paperMill>
+			<watermarkID>David mit Harfe in Wappen, mit vierblättigen Ornamenten verziert, über dem
+				Wappen siebenzackige Krone</watermarkID>
+			<note>Wasserzeichen auf Innenseite des Blattes</note>
+			<countermarkID>none</countermarkID>
+		</metadata>
+		<leaf>
+			<!-- Blatt 1 (Umschlagblatt) -->
+			<page>
+				<metadata>
+					<docTranscript/>
+					<!-- leer -->
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript/>
+					<!-- leer -->
+				</metadata>
+			</page>
+		</leaf>
+		<sheet>
+			<metadata>
+				<dimensions>
+					<width unit="mm">170</width>
+					<height unit="mm">208</height>
+				</dimensions>
+				<stabMarks>
+					<stabMark unit="mm">41</stabMark>
+					<stabMark unit="mm">102</stabMark>
+					<stabMark unit="mm">169</stabMark>
+				</stabMarks>
+				<chainLines unit="mm">26</chainLines>
+				<paperMill>Remda</paperMill>
+				<watermarkID>Rautenkranzoval mit Pflanzenornament über achtzackigem(?)
+					Stern</watermarkID>
+				<note>Wasserzeichen angeschnitten, am oberen Blattrand, Wasserzeichen auf Innenseite
+					des Blattes</note>
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<leaf>
+				<!-- Blatt 2 -->
+				<page>
+					<metadata>
+						<docTranscript uri="0002.xml"/>
+						<!-- <docTranscript uri="0003.xml"/> deleatur -->
+					</metadata>
+				</page>
+				<page>
+					<metadata>
+						<docTranscript/>
+						<!-- leer -->
+					</metadata>
+				</page>
+			</leaf>
+			<sheet>
+				<metadata>
+					<dimensions>
+						<width unit="mm">172</width>
+						<height unit="mm">208</height>
+					</dimensions>
+					<stabMarks>
+						<stabMark unit="mm">41</stabMark>
+						<stabMark unit="mm">102</stabMark>
+						<stabMark unit="mm">169</stabMark>
+					</stabMarks>
+					<chainLines unit="mm">24</chainLines>
+					<paperMill>Lehesten</paperMill>
+					<watermarkID>I L ABT</watermarkID>
+					<note>Wasserzeichen auf Außenseite des Blattes</note>
+					<!-- (Lehestener Sternpapier) -->
+					<countermarkID>none</countermarkID>
+				</metadata>
+				<leaf>
+					<!-- Blatt 3 -->
+					<page>
+						<metadata>
+							<docTranscript uri="0002a.xml"/>
+							<!-- Bis auf die Foliierung leer -->
+						</metadata>
+					</page>
+					<page>
+						<metadata>
+							<docTranscript/>
+							<!-- leer -->
+						</metadata>
+					</page>
+				</leaf>
+				<sheet>
+					<metadata>
+						<dimensions>
+							<width unit="mm">172</width>
+							<height unit="mm">211</height>
+						</dimensions>
+						<stabMarks>
+							<stabMark unit="mm">41</stabMark>
+							<stabMark unit="mm">102</stabMark>
+							<stabMark unit="mm">169</stabMark>
+						</stabMarks>
+						<chainLines unit="mm">25</chainLines>
+						<paperMill>Remda</paperMill>
+						<watermarkID>Rautenkranzoval mit Pflanzenornament und Krone über
+							achtzackigem Stern</watermarkID>
+						<note>Wasserzeichen auf Außenseite des Blattes, angeschnitten, am obern
+							Rand; anhand des Wasserzeichens ist zu erkennen, dass dieses Einzelblatt
+							mit dem folgenden einen Bogen bildete</note>
+						<!-- (Remdaer Wappenpapier) -->
+						<countermarkID>none</countermarkID>
+					</metadata>
+					<leaf>
+						<!-- Blatt 4 -->
+						<page>
+							<metadata>
+								<docTranscript uri="0004.xml"/>
+							</metadata>
+						</page>
+						<page>
+							<metadata>
+								<references>
+									<reference type="facsimile" uri="faust://bibliography/schoene1982">S. 156</reference>
+								</references>
+								<docTranscript uri="0005.xml"/>
+							</metadata>
+						</page>
+					</leaf>
+					<sheet>
+						<metadata>
+							<stabMarks>
+								<stabMark unit="mm">40</stabMark>
+								<stabMark unit="mm">101</stabMark>
+								<stabMark unit="mm">168</stabMark>
+							</stabMarks>
+							<chainLines unit="mm">25</chainLines>
+							<paperMill>Remda</paperMill>
+							<watermarkID>Rautenkranzoval mit Pflanzenornament und Krone über
+								achtzackigem Stern</watermarkID>
+							<note>Wasserzeichen auf Innenseite des Blattes, angeschnitten, am obern
+								Rand; anhand des Wasserzeichens ist zu erkennen, dass dieses
+								Einzelblatt mit dem vorigen einen Bogen bildete</note>
+							<countermarkID>none</countermarkID>
+						</metadata>
+						<leaf>
+							<!-- Blatt 5 -->
+							<page>
+								<metadata>
+									<references>
+										<reference type="facsimile" uri="faust://bibliography/schoene1982">S.
+											157</reference>
+									</references>
+									<docTranscript uri="0006.xml"/>
+								</metadata>
+							</page>
+							<page>
+								<metadata>
+									<docTranscript uri="0007.xml"/>
+								</metadata>
+							</page>
+						</leaf>
+						<leaf>
+							<!-- Blatt 6 -->
+							<page>
+								<metadata>
+									<docTranscript uri="0008.xml"/>
+								</metadata>
+							</page>
+							<page>
+								<metadata>
+									<docTranscript/>
+									<!-- leer -->
+								</metadata>
+							</page>
+						</leaf>
+					</sheet>
+					<leaf>
+						<!-- Blatt 7 -->
+						<page>
+							<metadata>
+								<docTranscript uri="0011.xml"/>
+								<!-- <docTranscript uri="0012.xml"/> deleatur -->
+							</metadata>
+						</page>
+						<page>
+							<metadata>
+								<docTranscript/>
+								<!-- leer -->
+							</metadata>
+						</page>
+					</leaf>
+				</sheet>
+				<leaf>
+					<!-- Blatt 8 -->
+					<page>
+						<metadata>
+							<docTranscript uri="0009.xml"/>
+						</metadata>
+					</page>
+					<page>
+						<metadata>
+							<docTranscript uri="0010.xml"/>
+						</metadata>
+					</page>
+				</leaf>
+			</sheet>
+			<leaf>
+				<!-- Blatt 9 -->
+				<page>
+					<metadata>
+						<docTranscript uri="0013.xml"/>
+					</metadata>
+				</page>
+				<page>
+					<metadata>
+						<docTranscript uri="0014.xml"/>
+						<!-- <docTranscript uri="0015.xml"/> deleatur -->
+					</metadata>
+				</page>
+			</leaf>
+		</sheet>
+		<sheet>
+			<metadata>
+				<stabMarks>
+					<stabMark unit="mm">41</stabMark>
+					<stabMark unit="mm">102</stabMark>
+					<stabMark unit="mm">169</stabMark>
+				</stabMarks>
+				<chainLines unit="mm">26</chainLines>
+				<paperMill>Geraberg</paperMill>
+				<!-- (Geraberger Postpapier) -->
+				<watermarkID>David mit Harfe in Wappen, mit vierblättigen Ornamenten verziert, über
+					dem Wappen siebenzackige Krone</watermarkID>
+				<!-- Innenseite: david schaut nach oben/rechts; Außenseite: David schaut nach unten/links, TODO richtige Richtung klären -->
+				<countermarkID>none</countermarkID>
+			</metadata>
+			<!-- Blatt 10 -->
+			<leaf>
+				<metadata>
+					<dimensions>
+						<width unit="mm">166</width>
+						<height unit="mm">211</height>
+					</dimensions>
+				</metadata>
+				<page>
+					<metadata>
+						<docTranscript uri="0016.xml"/>
+						<!-- <docTranscript uri="0017.xml"/> deleatur -->
+					</metadata>
+				</page>
+				<page>
+					<metadata>
+						<docTranscript uri="0018.xml"/>
+						<!-- <docTranscript uri="0019.xml"/> deleatur -->
+					</metadata>
+				</page>
+			</leaf>
+			<sheet>
+				<metadata>
+					<stabMarks>
+						<stabMark unit="mm">42</stabMark>
+						<stabMark unit="mm">103</stabMark>
+						<stabMark unit="mm">170</stabMark>
+					</stabMarks>
+					<chainLines unit="mm">25</chainLines>
+					<paperMill>Geraberg</paperMill>
+					<watermarkID>Posthorn in Wappen über Lettern "FS"</watermarkID>
+					<!-- (Geraberger Postpapier) -->
+					<countermarkID>none</countermarkID>
+				</metadata>
+				<leaf>
+					<!-- Blatt 11 -->
+					<metadata>
+						<dimensions>
+							<width unit="mm">166</width>
+							<height unit="mm">211</height>
+						</dimensions>
+					</metadata>
+					<page>
+						<metadata>
+							<docTranscript uri="0020.xml"/>
+						</metadata>
+					</page>
+					<page>
+						<metadata>
+							<docTranscript uri="0021.xml"/>
+							<!-- <docTranscript uri="0022.xml"/> deleatur -->
+						</metadata>
+					</page>
+				</leaf>
+				<sheet>
+					<metadata>
+						<dimensions>
+							<width unit="mm">172</width>
+							<height unit="mm">211</height>
+						</dimensions>
+						<note>Der Mindestwert der Blatt-Höhe beträgt 209 mm.</note>
+						<stabMarks>
+							<stabMark unit="mm">42</stabMark>
+							<stabMark unit="mm">96</stabMark>
+							<stabMark unit="mm">104</stabMark>
+							<stabMark unit="mm">170</stabMark>
+						</stabMarks>
+						<chainLines unit="mm">26</chainLines>
+						<paperMill>Geraberg</paperMill>
+						<watermarkID>David mit Harfe in Wappen</watermarkID>
+						<!-- Geraberger Postpapier -->
+						<countermarkID>none</countermarkID>
+					</metadata>
+					<leaf>
+						<!-- Blatt 12 -->
+						<page>
+							<metadata>
+								<docTranscript uri="0023.xml"/>
+								<!-- <docTranscript uri="0024.xml"/> deleatur -->
+							</metadata>
+						</page>
+						<page>
+							<metadata>
+								<docTranscript uri="0025.xml"/>
+								<!-- <docTranscript uri="0026.xml"/> deleatur -->
+							</metadata>
+						</page>
+					</leaf>
+					<leaf>
+						<!-- Blatt 13 -->
+						<page>
+							<metadata>
+								<docTranscript/>
+								<!-- leer -->
+							</metadata>
+						</page>
+						<page>
+							<metadata>
+								<docTranscript/>
+								<!-- leer -->
+							</metadata>
+						</page>
+					</leaf>
+				</sheet>
+				<leaf>
+					<!-- Blatt 14 -->
+					<metadata>
+						<dimensions>
+							<width unit="mm">164</width>
+							<height unit="mm">211</height>
+						</dimensions>
+					</metadata>
+					<page>
+						<metadata>
+							<docTranscript/>
+							<!-- leer -->
+						</metadata>
+					</page>
+					<page>
+						<metadata>
+							<docTranscript/>
+							<!-- leer -->
+						</metadata>
+					</page>
+				</leaf>
+			</sheet>
+			<leaf>
+				<!-- Blatt 15 -->
+				<metadata>
+					<dimensions>
+						<width unit="mm">164</width>
+						<height unit="mm">211</height>
+					</dimensions>
+				</metadata>
+				<page>
+					<metadata>
+						<docTranscript/>
+						<!-- leer -->
+					</metadata>
+				</page>
+				<page>
+					<metadata>
+						<docTranscript/>
+						<!-- leer -->
+					</metadata>
+				</page>
+			</leaf>
+		</sheet>
+		<leaf>
+			<!-- Blatt 16 (Umschlagblatt -->
+			<page>
+				<metadata>
+					<docTranscript/>
+					<!-- leer -->
+				</metadata>
+			</page>
+			<page>
+				<metadata>
+					<docTranscript/>
+					<!-- leer -->
+				</metadata>
+			</page>
+		</leaf>
+	</sheet>
+
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:datierung>zwischen 1797 und 1800 (?)</f:datierung>
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p>Bei diesem ehemals gehefteten Manuskript handelt es sich um ein als
+					Sammelhandschrift angelegtes Arbeitsmundum mit Einträgen sehr unterschiedlichen
+					Charakters: P50 weist Dispositionsnotizen (Z. 3-5, Z. 96f.), ausgeführte Verse
+					(Z. 8-95, 100-130, 132-135, 140-143, 175-190) sowie Stichworte zur geplanten
+					Fortsetzung auf (Z. 145-172 u. 191-208). Mindestens drei verschiedene
+					Niederschriftschichten lassen sich anhand der Schreibmaterialien unterscheiden:
+					eigenhändige Bleistiftnotizen stehen neben ebenfalls eigenhändigen
+					Reinschriftpassagen in dunkelbrauner und in hellbrauner Tinte. Auffallend sind
+					außerdem die zahlreichen großen Spatien dieser Sammelhandschrift. In
+					einheitlichem Duktus und ohne größere Spatien, also wahrscheinlich fortlaufend
+					eingetragen, wurden die Verse der `Satansmesse' (Z. 7-95 in dunkelbrauner Tinte)
+					sowie die Huldigung eines `Teufelanbeters' (Z. 100-130 in hellbrauner Tinte) und
+					der `Blutchor' (Z. 175-190 in dunkelbrauner Tinte). Während für `Satansmesse'
+					und `Huldigungsverse' aufgrund des unterschiedlichen Schreibmaterials
+					unterschiedliche Niederschriftsphasen als sehr wahrscheinlich gelten können,
+					läßt sich für die mit dunkelbrauner Tinte eingetragenen Passagen die
+					Zugehörigkeit zu <i>einer</i> Niederschriftschicht vermuten. Keine sicheren
+					Auskünfte gibt die Handschrift über die Reihenfolge der hellbraunen und
+					dunkelbraunen Eintragungen; ebensowenig läßt sich zuverlässig entscheiden, zu
+					welchem Zeitpunkt die verschiedenen, nicht notwendigerweise <i>einer</i>
+					Niederschriftphase angehörenden Bleistifteintragungen erfolgten. Siegfried
+					Scheibe, der als erster eine Auswertung der entstehungsgeschichtlichen Indizien
+					dieser Handschrift versuchte, gelangt zu der Annahme, daß die Bleistifteinträge
+					das vorliegende Mundum nachträglich in ein Schema verwandelten; zumindest aber
+					die Bleistiftnotizen auf den ersten Seiten (Z. 3-5, Z. 96f.) lassen sich auch
+					als für Goethes Arbeitsweise typische `Dispositionsnotizen' auffassen, die
+					jeweils als erstes in ein anzulegendes Mundum eingetragen wurden. (Vgl. mein
+					Kapitel zur Arbeitsweise, hier S. 834-838.)</p>
+				<p>Neben einer durchgehenden Paginierung weist die Handschrift eigenhändig
+					eingetragene Signaturen auf, die sich auf das Nummernschema von 1797/98 beziehen
+					und damit einen Anhaltspunkt für die Entstehungszeit des Manuskripts bieten.
+					Offensichtlich wurde das Heft im Zusammenhang mit der Arbeit am `Faust' seit
+					1797 angelegt. Mit der Positionsnummer "17" war in diesem Plan also die
+					`Walpurgisnacht' gekennzeichnet, der die `Domszene' ("ad 16f") vorausgehen
+					sollte.</p>
+				<p>Der mit dieser Sammelhandschrift H P50 sowie dem Schema P31/48 (auf dem
+					Sammelblatt H P22, hier S. 175f.) und einigen weiteren Textsplittern
+					dokumentierte, in die kanonisierte Fassung der Szene nicht aufgenommene Plan zur
+					`Walpurgisnacht' hat schon bald nach der Veröffentlichung der Nachlaßstücke das
+					Interesse der `Faust'- Interpreten gefunden. Veröffentlicht wurde er zunächst
+					fragmentarisch in Q, (fast) vollständig in der WA, völlig unzensiert zuerst bei
+					Witkowski (Walpurgisnacht). Verschiedene Versuche, den ursprünglichen Plan
+					Goethes und die Entstehungsgeschichte aus den überlieferten Bruchstücken zu
+					rekonstruieren, führten trotz unterschiedlicher Ergebnisse im einzelnen zunächst
+					zu der Auffassung, daß P50 aus dem in P31/48 skizzierten Plan entwickelt worden
+					sei, der dann zugunsten der endgültigen</p>
+				<p> Walpurgisnacht-Fassung aufgegeben wurde. (Vgl. die Untersuchungen zur
+					Walpurgisnacht von Witkowski, Morris und Petsch.) </p>
+				<p>In seiner 1965 vorgelegten erneuten Untersuchung der Entstehungsgeschichte der
+					`Walpurgisnacht', in der neben den beiden zentralen Paralipomena-Handschriften
+					vor allem auch die Reinschrift der endgültigen Walpurgisnachtszene herangezogen
+					wird, versucht Scheibe, die Entstehungsgeschichte aufgrund einer genauen
+					Betrachtung der überlieferten Papiere zu klären. Der Hauptteil des
+					Reinschrift-Manuskripts läßt sich anhand eigenhändiger Datierungen Goethes auf
+					1800/1801 festlegen; für die Hauptschichten von P50 nimmt Scheibe aufgrund der
+					Beziehung auf das Nummernschema eine Entstehung zwischen Juni 1797 und Herbst
+					1800 an. (Scheibe, Walpurgisnacht, S. 33-35.)</p>
+				<p>Vermutungen über die Beschriftungsreihenfolge der Sammelhandschrift führen
+					Scheibe zu der Annahme, daß P50 "im Jahre 1797 als Texthandschrift innerhalb des
+					Faustmanuskriptes angelegt" worden sein könnte, "worauf vielleicht bald die
+					Eintragung der mit dunkelbrauner Tinte geschriebenen Texte erfolgte. Später
+					(aber noch vor 1800), wäre die Satanszeremonie [hellbraune Tinte] eingefügt
+					worden, ab 1800 dann die Schematisierung des Schlusses" (Scheibe,
+					Walpurgisnacht, S. 35). Scheibe betont den Funktionswandel der überlieferten
+					Handschrift: ein zunächst als Texthandschrift angelegtes Heft wurde nach
+					Scheibes Vermutungen später _ nach Aufgabe des Nummernschemas, also frühestens
+					1800 _ in ein Schema verwandelt.</p>
+				<p>Von der Datierung der Niederschrift schließt Scheibe schließlich auch auf den
+					Zeitpunkt der Entstehung: "Ferner können die mit Tinte geschriebenen Partien der
+					Handschrift nach Sommer 97 datiert werden. Sie können nicht aus älterer Zeit
+					stammen, denn wenn sie damals schon vorgelegen hätten, wären sie sicher vom
+					Schreiber Geist, der die Abschrift herstellte, in die Handschrift eingetragen
+					worden." (Scheibe, Walpurgisnacht, S. 35.)</p>
+				<p>Bisherigen Annahmen widersprechend vermutet Scheibe, daß die ausgeführten Verse
+					von P50 vor dem Schema P31/48 entstanden sind; dieses weist keine `ad-x'-
+					Signatur mehr auf und scheint die Verse der Satanspredigt als bereits ausgeführt
+					vorauszusetzen. P31/48, das von Scheibe nach 1800/1801 datiert wird, stehe nicht
+					im Widerspruch zu P50, sondern ergänze die dort beschriebenen Vorgänge. (Vgl.
+					Kommentar zu P31/48, hier S. 176ff.)</p>
+				<p>Kritische Überlegungen zu Scheibes entstehungsgeschichtlichem
+					Rekonstruktionsversuch finden sich bei Albrecht Schöne: Scheibes auf
+					"Handschriften-Indizien gegründete Thesen zur Genese der `Walpurgisnacht'"
+					erweisen sich "bei genauerem Zusehen häufig als ebenso spekulativ wie alle
+					früheren Versuche. Sie beruhen in der Regel auf Mutmaßungen von
+					unterschiedlicher Überzeugungskraft, die ihrerseits dann Voraussetzungen bilden
+					für weitere Annahmen, welche schließlich als anscheinend zuverlässige (in
+					Wahrheit weitgehend haltlose) Endergebnisse dargestellt werden." Schließlich
+					erlaube "die Feststellung, wann bestimmte Partien der jeweils einzigen
+					überlieferten Niederschrift vermutlich aufgezeichnet wurden, keineswegs [...]
+					zureichend</p>
+				<p>sichere Schlüsse auf den Zeitpunkt, zu dem sie frühstens entstanden sein könnten
+					oder gar konzipiert worden sind." (Schöne, Walpurgisnacht, S. 196.)</p>
+				<p>Überzeugt, daß "die Entstehungsgeschichte der `Walpurgisnacht'-Szene [...] nie
+					mehr `eindeutig geklärt' werden" könne (Schöne, S. 196), zieht Schöne für seine
+					Rekonstruktion und Deutung der ursprünglich geplanten Szene anstelle
+					unzuverlässiger entstehungsgeschichtlicher Indizien das der geplanten Szene
+					zugrundeliegende Modell, den Satanskult des Ketzer- und Hexensabbats, heran:
+					"Denn der den Ketzern und Hexen zugeschriebene Satanskult und das von ihnen
+					überlieferte Sabbatritual strukturieren auch den dramatischen Prozeß, den die
+					unterdrückten `Gedichte' zur Walpurgisnacht bruchstückweise markieren." (S. 198)
+					Mit einer Vielzahl von Schriften über "Zauberei und Aberglauben, Gespenster- und
+					Geistererscheinungen, Teufels- und Dämonenwesen, Hexenprozesse und
+					Ketzerverfolgungen" hat Goethe sich beschäftigt; diese Quellen gelte es
+					`freizulegen', um der unterdrückten Szene näherzukommen: "Denn was Goethe
+					hinterlassen hat mit diesen unterdrückten Texten, ist nicht weniger als eine in
+					das `Faust'-Drama integrierte poetische Summe des Ketzer- und Hexenwesens."
+					(Schöne, S. 125.)</p>
+				<p>Ausgehend von der in den Quellen geschilderten ritualisierten Abfolge des
+					Satanskults ordnet Schöne die "Trümmerstücke der alten Walpurgisnacht-Szene"
+					neu: den Auftakt bilden die Satanshuldigungen (Audienzen), es folgt die
+					Satanspredigt, an die Sabbatrunde (Hexentanz) und Sexualorgie anschließen.</p>
+				<p>Ohne den Anspruch, die "tatsächlich geplante" Abfolge zwingend bewiesen zu haben
+					(Schöne, S. 200), läßt Schöne die abweichende Reihenfolge der "keineswegs
+					lückenlos und in einem Zuge niedergeschriebenen" Sammelhandschrift H P50 nicht
+					als Gegenargument gelten (Schöne, S. 198). Tatsächlich kann die Anordnung der
+					Texte in einem Arbeitsmundum noch nicht als sicheres Indiz für die geplante
+					Reihenfolge aufgefaßt werden (vgl. Arbeitsmunda zum Zweiten Teil); das Schema
+					P31/48 aber zeigt, daß Goethe zumindest zeitweise eine vom überlieferten Ritual
+					abweichende Reihenfolge geplant hatte.</p>
+				<p>Warum hat Goethe in der kanonisierten Fassung des `Faust' auf diesen, aus den
+					Nachlaßstücken rekonstruierten "gewaltigen Plan" verzichtet? Auf die Frage nach
+					seinen Gründen wurden sehr unterschiedliche Antworten gegeben. (Zu den
+					verschiedenen Versuchen der Forschung, den Verzicht auf die Satansmesse zu
+					erklären, vgl. Schöne, Walpurgisnacht, S. 201-204.)</p>
+				<p>In der Überzeugung, daß "die jetzige Fassung der Walpurgisnacht in künstlerischer
+					Beziehung schon ihrem Plane nach weit über dem ersten Entwurfe" steht (Valentin,
+					Walpurgisnacht, S. 115), wurden immer wieder `innere' Gründe geltend gemacht:
+					Goethe habe aus inhaltlichen oder kompositorischen Gründen auf die Aufnahme der
+					`Satansszenen' verzichten müssen. Fausts Streben nach "droben" (V. 4037), so z.
+					B. Buchwald, widerspreche "der Absicht Mephistos, der, wie er sich von Anfang an
+					vorgenommen hatte, ihn selbst im Bösen nicht zum Gipfel gelangen und seinem
+					Wissensdrang folgen lassen will. Vielmehr führt er ihn abseits [...]" (Reinhard
+					Buchwald,</p>
+				<p> Führer durch Goethes Faustdichtung, S. 144); ähnlich erläutert Rickert Mephistos
+					ablehnende Reaktion auf Fausts Wunsch, der eigentlichen Satansmesse beizuwohnen:
+					"Solche Absichten passen Mephistopheles wenig in seinen Kram [...]. Er fürchtet
+					nicht ohne Grund, beim Nachdenken könnten Skrupel und Zweifel in Faust
+					erwachen." (Heinrich Rickert, Goethes Faust, S. 269.) Kompositorische Gründe
+					führt z. B. Valentin ins Feld: "Wie die Paralipomena zeigen, hatte Goethe
+					ursprünglich einen viel weiter gehenden Plan der Ausführung gefaßt [...]. Aber
+					die Walpurgisnacht ist keine Episode für sich: sie ist eine Scene innerhalb
+					einer selbständigen Episode, der Gretchentragödie. Ihr Heranwachsen zur
+					Selbständigkeit ist ein künstlerischer Fehler, weil hierdurch Motive
+					mithereingezogen werden, die für die Haupthandlung keinerlei Bedeutung haben,
+					die die Haupthandlung in ihrem Fortgange hemmen, aber nicht so, daß durch dies
+					Hemmen eine Förderung, sondern ein Aufenthalt, ein Ablenken des Interesses von
+					der Hauptsache stattfindet [...]. Ich muß es daher als einen Akt künstlerischer
+					Weisheit betrachten, daß Goethe die Selbstbeherrschung hatte, dieses dankbare
+					Motiv nicht auszuführen, sondern dem straffen einheitlichen Gange der Handlung
+					zu Liebe zu opfern." (Valentin, Walpurgisnacht, S. 105f.) </p>
+				<p>Häufig wurde auch das Argument geltend gemacht, daß der Auftritt des Satans
+					schwer mit den Voraussetzungen des `Prologs im Himmel' zu vereinbaren gewesen
+					wäre (vgl. etwa Staiger, Goethe 2, S. 358), daß eine Satansszene als
+					ebenbürtiger Gegenpol zum `Prolog im Himmel' Goethes Grundüberzeugungen
+					widersprochen hätte.</p>
+				<p>Von anderer Seite wurde die "dramatische, geistige und künstlerische
+					Überlegenheit der Ausführung gegenüber dem Entwurf" (Resenhöfft,
+					Existenzerhellung des Hexentums, S. 114) jedoch in Frage gestellt: "Jene überaus
+					drastische Darstellung eines grotesken Cynismus und schrankenloser Sinnlichkeit
+					scheute sich Goethe zuletzt der Dichtung zuzuführen. Indem aber so die
+					Gestaltung von Satans höllischem Reich, die im Gegensatz zu der im `Prolog im
+					Himmel' geschilderten Herrlichkeit des Herren gedacht war, fortfiel, war der
+					ganzen Szene das Herz ausgebrochen, ihr der Mittelpunkt genommen. [...] Kurz,
+					was die endgültige Redaktion bietet, ist nur der Trümmerhaufen eines mit
+					verschwenderischer Genialität entworfenen Planes." (Pniower, Artikel
+					`Walpurgisnacht' im Goethe-Handbuch von Julius Zeitler, S. 521.)</p>
+				<p>Albrecht Schöne verweist auf das für Goethe zentrale Prinzip der Polarität, das
+					sich auch in Goethes naturwissenschaftlichem Hauptwerk, der `Farbenlehre',
+					manifestiert, an der er ebenfalls um die Jahrhundertwende arbeitete: "Eben
+					diesem Sprach- und Denkmuster der dualistischen Formel, die Goethes
+					`Farbenlehre' bestimmt, entspricht der Plan einer `Faust'-Dichtung, deren
+					dogmatische Tiefenstruktur vom `Prolog im Himmel' einerseits und den
+					unterdrückten Satansszenen andererseits zur Erscheinung gebracht worden wäre."
+					(Schöne, Walpurgisnacht, S. 209.) Die zu Goethes Polaritätsbegriff gehörende
+					`Steigerung' ist schon um die Jahrhundertwende in der geplanten Schlußszene des
+					Dramas, dem `Gericht im Himmel', zu finden.</p>
+				<p>Ausgehend von "Brüchen in der Abfolge des Geschehens wie auch in der Zeichnung
+					der Charaktere" (Scheibe, Walpurgisnacht, S. 8) kommt Scheibe zu dem Schluß:</p>
+				<p>"Gerade bei der `Walpurgisnacht' zeigt es sich, daß sich die Szene gradlinig und
+					konsequent entwickelt hat, daß der eindeutige Plan bis 1801 im wesentlichen
+					unverändert geblieben ist, daß Goethe ihn erst unter Terminschwierigkeiten,
+					unter Zeitdruck, auf das unbedingt Nötige verkürzte." (Scheibe, Walpurgisnacht,
+					S. 52.)</p>
+				<p>Vor allem aber wurde für Goethes Verzicht auf die geplante Szene die "Rücksicht
+					auf die Empfindlichkeit seiner Leser" (MA, S. 1036) geltend gemacht: "Dieser
+					große Entwurf", so vermutete schon Witkowski, "blieb unausgeführt, einmal, weil
+					eine allzu lange Unterbrechung der Gretchenszenen vermieden werden sollte, vor
+					allem aber wegen der Scheu, die großartige Darstellung tiefster Verworfenheit in
+					ihrem krassen Gegensatz zur geltenden Moral den Lesern darzubieten. Im Anfang
+					sind ein paar nachträgliche Korrekturen Goethes der Beweis, daß er zu mildern
+					versuchte; aber er hat bald die Unmöglichkeit erkannt." (Witkowski, S. 426.) Die
+					Dominanz wirkungsästhetischer Gesichtspunkte bei der Entscheidung Goethes gegen
+					die Satansszenen wird auch von Schöne betont: "Goethe, heißt das, mußte sich
+					offenbar genötigt fühlen zu einer Selbstzensur, welche die `soziale Kontrolle'
+					der Leser oder Zuschauer antizipiert [...]" (Schöne, Walpurgisnacht, S.
+					210).</p>
+				<p>Z. 7-95: Nach Duktus und Tinte zu urteilen in einem Zuge niedergeschrieben.</p>
+				<p>Z. 8ff.: Der satanische Gegengott usurpiert die Rolle, die Christus "auf dem
+					stuhl seiner herrlichkeit" einnimmt beim Jüngsten Gericht: "Und werden vor ihm
+					alle völcker versammlet werden. Und er wird sie von einander scheiden, gleich
+					als ein hirte die schaafe von den böcken scheidet. Und wird die schaafe zu
+					seiner rechten stellen, und die böcke zur lincken." (Matthäus 25,31ff.). (Vgl.
+					schon Düntzer, Erläuterungen, S. 381, Anm. 2 und Witkowski, Walpurgisnacht, S.
+					59.) Während es aber im biblischen Hirtengleichnis um die Scheidung der Seligen
+					von den Verdammten geht, so hier um die bloße Trennung von Männern und Frauen
+					(für die _ auf ihre tierhafte Geschlechtlichkeit zurückgeführt _ überall in der
+					von Goethe benutzten Hexenliteratur "Böcke" und "Ziegen" stehen). Vgl. Schöne,
+					Walpurgisnacht, S. 158ff.</p>
+				<p>Z. 10f. arR: Die am Rand notierten Bleistiftstichworte hat Witkowski (S.420) als
+					schnell wieder aufgegebene Versuche Goethes gedeutet, im Hinblick auf das
+					Publikum die Drastik der Satansrede zu mildern. In einem Notizbuch Goethes (GSA
+					64) findet sich ein der Jahrhundertwende zuzuordnender Eintrag von Goethes Hand:
+					"fechten für bettlen".</p>
+				<p>Z. 16-24: Liturgischer Satanspreis der Sabbatgemeinde, der "in lauter
+					gottslästerlichen Worten bestehet/laut derselben diß Truden-Geschmeiß den
+					Beelzebub/für einen Schöpffer/Geber/Stiffter/und Erhalter aller Dinge/bekennet"
+					(Erasmus Francisici, Neu-polirter Geschicht- Kunst- und Sitten-Spiegel, S. 138).
+					"[...] der Missionsbefehl `gehet hin, und lehret alle völcker' (Mt 28,10) und
+					die Zusage Christi: `Wer mein wort höret [...], der hat das ewige leben' (Joh
+					5,24) werden hier adaptiert, um eben das, womit Faust doch dem Herrn dient
+					[...], in Satansdienst zu verkehren [...]" (Schöne, Walpurgisnacht, S. 160).</p>
+				<p> Z. 32 glücklich wer] Die in Zeile 56 wörtlich wiederholte Phrase nimmt die
+					Seligpreisungsformel der Bergpredigt auf (Matthäus 5,3ff.). </p>
+				<p>Z. 60 und stutze die Ohren] und spitze die Ohren. Vgl. DWB 20,767.</p>
+				<p>Z. 63 mir es] Die Lesung in WA I,14 ("es mir") wurde im Nachtragsband (I,53,533)
+					korrigiert.</p>
+				<p>Z. 82 Nein, liebes] Die Lesung der WA ("Mein liebes") bereits von Hecker
+					korrigiert.</p>
+				<p>Z. 91 Besmen] alte Form von "Besen" (DWB 1,1614f.).</p>
+				<p>Z. 96f.: Bei diesen Bleistiftstichworten handelt es sich offensichtlich um
+					Dispositionsnotizen für eine geplante Szene: Goethe hat hier Raum gelassen für
+					weitere, noch auszuführende Satansaudienzen. In diesen Zusammenhang wurde
+					verschiedentlich der isoliert überlieferte Zweizeiler P62a gestellt, dessen
+					Zugehörigkeit zum `Faust' jedoch ganz unsicher bleibt. Vgl. hier S. 158.</p>
+				<p>Z. 100-130: Nach Duktus und Tinte zu urteilen in einem Zuge niedergeschrieben.
+					Die Audienz des Demokraten ist zunächst als allgemeine Satire auf das Kriechen
+					der französischen Republikaner vor Napoleon gedeutet worden (Witkowski,
+					Walpurgisnacht, S.60); die mit X bezeichnete Person wurde dann von Morris als
+					Johann Friedrich Reichardt identifiziert, der in zahlreichen Xenien als
+					Freiheitsapostel, Demokrat, Tyrannenhasser und Schmeichler verspottet wird.
+					(Morris, Walpurgisnacht, S. 74.)</p>
+				<p>Z. 111 den hintern Theil zu küssen] Der Kuß auf des Satans Hinterteil gehörte zum
+					festen Bestandteil des Rituals der Satansmesse, der unter anderem in der von
+					Goethe benutzten Schrift `Magica, Daß ist: wunderbarliche Historien Von
+					Gespensten vnd mancherley Erscheinungen der Geister' von Henning Groß
+					beschrieben wird: "wann sie nun jhre versamlung hielten so wehre in solchem
+					Conuent jhrer eine vnzehliche mänge beysamen/ die beten erstlich einen Bock an/
+					vnd küsseten jhm den Hintern". (Bl. 148<sup>r</sup>f) Dieser den
+					Kreuzverehrungskuß bei der Karfreitagsliteratur pervertierende analsexuelle
+					`Homagialkuß' verstand sich als Widerruf der christlichen Erlösung. Zugleich
+					zielt die Huldigung, die der neue `Vasall' des Satans vollzieht, zeitsatirisch
+					auf den fürstlichen `Tyrannen', diesen Satan auf dem Thron, und auf den
+					masochistischen Untertan, der in opportunistischer Unterwerfungsbereitschaft die
+					aus Frankreich importierten Freiheitsparolen verabschiedet. Goethe zu Eckermann,
+					21. 2. 1831: "Die alte Walpurgisnacht [im Unterschied zur `republikanischen' des
+					Zweiten Teils] ist monarchisch". Vgl. dazu Schöne, Walpurgisnacht, S. 147f. u.
+					151-155.</p>
+				<p>Z. 113 unverworrn] WA: unverloren, bereits von Hecker korrigiert.</p>
+				<p>Z. 133 Die Saat ist gelb die Stoppel grün] Verkehrung der beim Anflug des
+					Hexenchores gesungenen Verse (vgl. V. 3957).</p>
+				<p>Z. 137f.: "Wie der Drache Python von der Erde widerwillig erzeugt wurde [vgl.
+					Ovid, Metamorphosen I,434ff.], so sollen auch die Hexen, als Ausgeburten des
+					bösen Princips, nicht im Plane der göttlichen Weltordnung mit einbegriffen
+					sein." (Witkowski, Walpurgisnacht, S. 60.)</p>
+				<p>Z. 140f.: Vgl. P33 auf H P10, hier S. 120.</p>
+				<p>Z. 140 den Hexen] WA: "der Hexen". Von Hecker korrigiert.</p>
+				<p>Z. 143: Riemer und Eckermann lassen in ihrer Ausgabe der `Paralipomena' hier
+					einen Vierzeiler folgen, zu dem sich unter den Faustpapieren jedoch keine
+					Handschrift erhalten hat: "Warmes Lüftchen weh' heran,/ Wehe uns entgegen,/ Denn
+					du hast uns wohlgethan/ Auf den Jugend-Wegen." (Vgl. WA I,14,309 und WA
+					I,5.2,357). Erich Schmidt hält die Verse für ein "abgerissenes Lyricum"; eine
+					Zugehörigkeit zur `Walpurgisnacht' wie zum `Faust' überhaupt ist
+					unwahrscheinlich.</p>
+				<p>Z. 149 Nachtmahre] werden "bey den Holländern und Niedersachsen der Alp genennet"
+					(Zedler, Bd. 23,281). Von diesem wird "erzählt, dasz er bei nächtlicher weile in
+					den wohnungen der menschen erscheine, die schlafenden, träumenden reite und
+					drücke" (DWB 1,245), wobei der Alp sein Opfer durch Überwerfen eines Halfters in
+					ein Pferd verwandelt (Handwörterbuch des deutschen Aberglaubens Bd. 1, S. 293).
+					Bei Praetorius erscheint der `Mahr' dann auch selbst als Pferd, als
+					`Nachthengst' (Anthropodemus, S. 35).</p>
+				<p>Z. 154 Schmeichel Gesänge] WA: "Schmeichelgesang", bereits von Hecker korrigiert.
+					(Entsprechend dann Z. 157.) Morris bezieht diese Stichworte auf den Wortlaut der
+					Wette ("Kannst du mich schmeichelnd je belügen [...]") und deutet die geplante
+					Szene als mißlingenden Versuch Mephistos, Faust zu verführen. (Morris,
+					Walpurgisnacht, S. 89.)</p>
+				<p>Z. 166-171: Zusammenhang mit der Szene `Nacht. Offen Feld' (die schon in der
+					Handschrift der Göchhausen enthalten ist, im Fragment aber weggelassen
+					wurde)?</p>
+				<p>Z. 170 Falsche Richtung] Witkowski vermutet, daß die beiden Reiter vielleicht "in
+					den Zug der heimziehenden Hexen hineingerissen werden" und so statt nach Süden
+					nach Osten und damit zur Stätte des Hochgerichts gelangen. (Witkowski,
+					Walpurgisnacht, S. 63.)</p>
+				<p>Z. 172 Hochgerichts erscheinung] offensichtlich Dispositionsnotiz! Der
+					freigelassene Raum deutet auf Goethes Absicht, die geplante Szene hier
+					einzufügen. Als `Hochgericht' wird sowohl die Institution einer Gerichtsbarkeit
+					über Kapitalverbrechen, der öffentliche Schauprozeß als auch die Gerichtsstätte
+					selbst bezeichnet. Der "gemauerte richtplatz unter dem galgen" (DWB 14,11) wurde
+					auch `Rabenstein' genannt (vgl. Campe 3, 731); eine Bezeichnung, die in der
+					kurzen, an die Stichworte des P50, Z. 166-172 erinnernden Szene `Nacht'
+					gebraucht wird (V. 4399), die als "Rest- oder Ersatzstück der ursprünglich
+					geplanten `Hochgerichtserscheinung' in die Druckfassung" eingegangen ist.
+					(Schöne, Walpurgisnacht, S. 182, Anm. 181.)</p>
+				<p>Z. 177 Die grau und schwarze Brüderschafft] Anspielung auf die Mönchsorden, von
+					denen die Franziskaner und Dominikaner bei der Inquisition am tätigsten und
+					blutgierigsten waren. Die Franziskaner trugen graue Kutten, wogegen die
+					Dominikaner, wie die Karthäuser, weiße Kleidung mit schwarzem Mantel hatten.
+					(Vgl. Düntzer, Erläuterungen, S. 383, Anm. 2 und Schöne, Walpurgisnacht, S.
+					184ff.)</p>
+				<p> Z. 193 G.] WA ergänzt "G[esang?]"; Schöne liest es als Kürzel für "Gretchen"
+					(Walpurgisnacht, S. 183). </p>
+				<p>Z. 195: Die Korrektur der Paginierung von "10" zu "11" könnte ein Hinweis darauf
+					sein, daß Blatt 7 nachträglich ergänzend eingefügt wurde. Zum Zeitpunkt der
+					Heftung des kleinen Konvoluts gehörte dieses Blatt jedoch schon dazu.</p>
+				<p>Z. 196 Auf glühndem Boden] Morris weist auf Miltons Gedicht `Das verlorene
+					Paradies', das Goethe Ende Juli 1799 in der Übersetzung Zachariäs las. Vgl.
+					Milton, erster Gesang, Satans Heerlager: "So ging er [Satan]/ Schwer gestützet
+					darauf, um über den glühenden Boden/ Seine wankenden Schritte zu leiten."
+					(Morris, Walpurgisnacht, S. 85.)</p>
+				<p>Z. 197 das Idol] Trugbild. Wohl Erscheinung Gretchens (vgl. V. 4190).</p>
+				<p>Z. 206 Kielkröpfen] Vgl. Praetorius, Anthropodemus, S. 439: "Es sind aber Kiel-
+					K[r]öpffe solche Kinder/ die der Teuffel selbst in der Hexen Leibe formiret/ und
+					sie solche läst gebehren/ in welche er sich selbst setzet/ und an statt der
+					Seelen durch sie redet/ ihren Leib beweget". Durch das "Geschwäz von
+					Kielkröpfen" sollte Faust offenbar das Schicksal Gretchens erfahren.</p>
+				<p>Z. 208 FaustMeph.] Wahrscheinlich "Hinweis auf den unmittelbaren Anschluß der
+					Szene `Trüber Tag, Feld'" (Petsch, S. 380), die in der Niederschrift des
+					Fräuleins v. Göchhausen noch mit "Faust, Mephistopheles" überschrieben ist.</p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

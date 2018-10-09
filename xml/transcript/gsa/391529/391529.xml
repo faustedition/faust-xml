@@ -1,0 +1,484 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">H P63</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/paralipomena/gsa_391529.xml--><msIdentifier><repository>Goethe- und Schiller-Archiv, Weimar</repository><idno type="gsa_1">GSA 25/XIX,1,1</idno><altIdentifier><idno type="gsa_2">GSA 25/W 1740</idno></altIdentifier><altIdentifier><idno type="gsa_ident">391529</idno></altIdentifier></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <profileDesc>
+            <creation>
+                <listChange>
+                    <change xml:id="verband_1"/>
+                    <change xml:id="verband_2"/>
+                </listChange>
+            </creation>
+            <handNotes>
+                <handNote xml:id="g">Goethe (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="g_t">Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="g_t_lat">Goethe (ink - latin)</handNote>
+                <handNote xml:id="g_t_gr">Goethe (ink - greek)</handNote>
+                <handNote xml:id="g_tr">Goethe (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="g_tr_lat">Goethe (ink red/brown - latin)</handNote>
+                <handNote xml:id="g_tr_gr">Goethe (ink red/brown - greek)</handNote>
+                <handNote xml:id="g_bl">Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="g_bl_lat">Goethe (pencil - latin)</handNote>
+                <handNote xml:id="g_bl_gr">Goethe (pencil - greek)</handNote>
+                <handNote xml:id="g_ro">Goethe (ruddle - Schrift)</handNote>
+                <handNote xml:id="g_ro_lat">Goethe (ruddle - latin)</handNote>
+                <handNote xml:id="g_ro_gr">Goethe (ruddle - greek)</handNote>
+                <handNote xml:id="g_ko">Goethe (charcoal - Schrift)</handNote>
+                <handNote xml:id="g_ko_lat">Goethe (charcoal - latin)</handNote>
+                <handNote xml:id="g_ko_gr">Goethe (charcoal - greek)</handNote>
+                <handNote xml:id="g-o-ri_bl">Goethe oder Riemer (pencil – Schrift)</handNote>
+                <handNote xml:id="g-o-ri_bl_lat">Goethe oder Riemer (pencil – latin)</handNote>
+                <handNote xml:id="aj_t">Anna Jameson (ink - Schrift)</handNote>
+                <handNote xml:id="aj_t_lat">Anna Jameson (ink - latin)</handNote>
+                <handNote xml:id="ec_t">Eckermann (ink - Schrift)</handNote>
+                <handNote xml:id="ec_t_lat">Eckermann (ink - latin)</handNote>
+                <handNote xml:id="ec_t_gr">Eckermann (ink - greek)</handNote>
+                <handNote xml:id="ec_tr">Eckermann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ec_tr_lat">Eckermann (ink red/brown - latin)</handNote>
+                <handNote xml:id="ec_tr_gr">Eckermann (ink red/brown - greek)</handNote>
+                <handNote xml:id="ec_bl">Eckermann (pencil - Schrift)</handNote>
+                <handNote xml:id="ec_bl_lat">Eckermann (pencil - latin)</handNote>
+                <handNote xml:id="ec_bl_gr">Eckermann (pencil - greek)</handNote>
+                <handNote xml:id="f_t">Färber (ink - Schrift)</handNote>
+                <handNote xml:id="f_t_lat">Färber (ink - latin)</handNote>
+                <handNote xml:id="gt_t">Geist (ink - Schrift)</handNote>
+                <handNote xml:id="gt_t_lat">Geist (ink - latin)</handNote>
+                <handNote xml:id="gt_t_gr">Geist (ink - greek)</handNote>
+                <handNote xml:id="gt_tr">Geist (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gt_tr_lat">Geist (ink red/brown - latin)</handNote>
+                <handNote xml:id="gt_tr_gr">Geist (ink red/brown - greek)</handNote>
+                <handNote xml:id="gt_bl">Geist (pencil - Schrift)</handNote>
+                <handNote xml:id="gt_bl_lat">Geist (pencil - latin)</handNote>
+                <handNote xml:id="gt_bl_gr">Geist (pencil - greek)</handNote>
+                <handNote xml:id="gh_t">Goechhausen (ink - Schrift)</handNote>
+                <handNote xml:id="gh_t_lat">Goechhausen (ink - latin)</handNote>
+                <handNote xml:id="gh_t_gr">Goechhausen (ink - greek)</handNote>
+                <handNote xml:id="gh_tr">Goechhausen (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="gh_tr_lat">Goechhausen (ink red/brown - latin)</handNote>
+                <handNote xml:id="gh_tr_gr">Goechhausen (ink red/brown - greek)</handNote>
+                <handNote xml:id="gh_bl">Goechhausen (pencil - Schrift)</handNote>
+                <handNote xml:id="gh_bl_lat">Goechhausen (pencil - latin)</handNote>
+                <handNote xml:id="gh_bl_gr">Goechhausen (pencil - greek)</handNote>
+                <handNote xml:id="go_t">Goettling (ink - Schrift)</handNote>
+                <handNote xml:id="go_t_lat">Goettling (ink - latin)</handNote>
+                <handNote xml:id="go_t_gr">Goettling (ink - greek)</handNote>
+                <handNote xml:id="go_tr">Goettling (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="go_tr_lat">Goettling (ink red/brown - latin)</handNote>
+                <handNote xml:id="go_tr_gr">Goettling (ink red/brown - greek)</handNote>
+                <handNote xml:id="go_bl">Goettling (pencil - Schrift)</handNote>
+                <handNote xml:id="go_bl_lat">Goettling (pencil - latin)</handNote>
+                <handNote xml:id="go_bl_gr">Goettling (pencil - greek)</handNote>
+                <handNote xml:id="hd_t">Herder (ink - Schrift)</handNote>
+                <handNote xml:id="hd_t_lat">Herder (ink - latin)</handNote>
+                <handNote xml:id="hd_tr">Herder (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="hd_tr_lat">Herder (ink red/brown - latin)</handNote>
+                <handNote xml:id="jo">John (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="jo_t">John (ink - Schrift)</handNote>
+                <handNote xml:id="jo_t_lat">John (ink - latin)</handNote>
+                <handNote xml:id="kr_t">Kräuter (ink - Schrift)</handNote>
+                <handNote xml:id="kr_t_lat">Kräuter (ink - latin)</handNote>
+                <handNote xml:id="kr_t_gr">Kräuter (ink - greek)</handNote>
+                <handNote xml:id="kr_tr">Kräuter (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="kr_tr_lat">Kräuter (ink red/brown - latin)</handNote>
+                <handNote xml:id="kr_tr_gr">Kräuter (ink red/brown - greek)</handNote>
+                <handNote xml:id="kr_bl">Kräuter (pencil - Schrift)</handNote>
+                <handNote xml:id="kr_bl_lat">Kräuter (pencil - latin)</handNote>
+                <handNote xml:id="kr_bl_gr">Kräuter (pencil - greek)</handNote>
+                <handNote xml:id="m_t">Müller (ink - Schrift)</handNote>
+                <handNote xml:id="m_t_lat">Müller (ink - latin)</handNote>
+                <handNote xml:id="m_t_gr">Müller (ink - greek)</handNote>
+                <handNote xml:id="m_tr">Müller (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="m_tr_lat">Müller (ink red/brown - latin)</handNote>
+                <handNote xml:id="m_tr_gr">Müller (ink red/brown - greek)</handNote>
+                <handNote xml:id="m_bl">Müller (pencil - Schrift)</handNote>
+                <handNote xml:id="m_bl_lat">Müller (pencil - latin)</handNote>
+                <handNote xml:id="m_bl_gr">Müller (pencil - greek)</handNote>
+                <handNote xml:id="ovg_t">Ottilie von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="ovg_t_lat">Ottilie von Goethe (ink - latin)</handNote>
+                <handNote xml:id="re_bl">Reichel (pencil - Schrift)</handNote>
+                <handNote xml:id="re_bl_lat">Reichel (pencil - latin)</handNote>
+                <handNote xml:id="re_ro">Reichel (ruddle - Schrift)</handNote>
+                <handNote xml:id="re_ro_lat">Reichel (ruddle - latin)</handNote>
+                <handNote xml:id="re_t">Reichel (ink - Schrift)</handNote>
+                <handNote xml:id="re_t_lat">Reichel (ink - latin)</handNote>
+                <handNote xml:id="ri">Riemer (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="ri_t">Riemer (ink - Schrift)</handNote>
+                <handNote xml:id="ri_t_lat">Riemer (ink - latin)</handNote>
+                <handNote xml:id="ri_t_gr">Riemer (ink - greek)</handNote>
+                <handNote xml:id="ri_tr">Riemer (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="ri_tr_lat">Riemer (ink red/brown - latin)</handNote>
+                <handNote xml:id="ri_tr_gr">Riemer (ink red/brown - greek)</handNote>
+                <handNote xml:id="ri_bl">Riemer (pencil - Schrift)</handNote>
+                <handNote xml:id="ri_bl_lat">Riemer (pencil - latin)</handNote>
+                <handNote xml:id="ri_bl_gr">Riemer (pencil - greek)</handNote>
+                <handNote xml:id="ri_ro">Riemer (ruddle - Schrift)</handNote>
+                <handNote xml:id="ri_ro_lat">Riemer (ruddle - latin)</handNote>
+                <handNote xml:id="st_t">Schuchardt (ink - Schrift)</handNote>
+                <handNote xml:id="st_t_lat">Schuchardt (ink - latin)</handNote>
+                <handNote xml:id="st_t_gr">Schuchardt (ink - greek)</handNote>
+                <handNote xml:id="st_tr">Schuchardt (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="st_tr_lat">Schuchardt (ink red/brown - latin)</handNote>
+                <handNote xml:id="st_tr_gr">Schuchardt (ink red/brown - greek)</handNote>
+                <handNote xml:id="st_bl">Schuchardt (pencil - Schrift)</handNote>
+                <handNote xml:id="st_bl_lat">Schuchardt (pencil - latin)</handNote>
+                <handNote xml:id="st_bl_gr">Schuchardt (pencil - greek)</handNote>
+                <handNote xml:id="sd_t">Seidler (ink - Schrift)</handNote>
+                <handNote xml:id="sd_t_lat">Seidler (ink - latin)</handNote>
+                <handNote xml:id="so_t">Soret (ink - Schrift)</handNote>
+                <handNote xml:id="so_t_lat">Soret (ink - latin)</handNote>
+                <handNote xml:id="sp_t">Spiegel (ink - Schrift)</handNote>
+                <handNote xml:id="sp_t_lat">Spiegel (ink - latin)</handNote>
+                <handNote xml:id="sta_t">Stadelmann (ink - Schrift)</handNote>
+                <handNote xml:id="sta_t_lat">Stadelmann (ink - latin)</handNote>
+                <handNote xml:id="sta_t_gr">Stadelmann (ink - greek)</handNote>
+                <handNote xml:id="sta_tr">Stadelmann (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sta_tr_lat">Stadelmann (ink red/brown - latin)</handNote>
+                <handNote xml:id="sta_tr_gr">Stadelmann (ink red/brown - greek)</handNote>
+                <handNote xml:id="sta_bl">Stadelmann (pencil - Schrift)</handNote>
+                <handNote xml:id="sta_bl_lat">Stadelmann (pencil - latin)</handNote>
+                <handNote xml:id="sta_bl_gr">Stadelmann (pencil - greek)</handNote>
+                <handNote xml:id="sti_t">Stieler (ink - Schrift)</handNote>
+                <handNote xml:id="sti_t_lat">Stieler (ink - latin</handNote>
+                <handNote xml:id="ve_t">Varnhagen von Ense (ink – Schrift)</handNote>
+                <handNote xml:id="v_t">Helene Vulpius (ink - Schrift)</handNote>
+                <handNote xml:id="v_t_lat">Helene Vulpius (ink - latin)</handNote>
+                <handNote xml:id="v_t_gr">Helene Vulpius (ink - greek)</handNote>
+                <handNote xml:id="v_tr">Helene Vulpius (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="v_tr_lat">Helene Vulpius (ink red/brown - latin)</handNote>
+                <handNote xml:id="v_tr_gr">Helene Vulpius (ink red/brown - greek)</handNote>
+                <handNote xml:id="v_bl">Helene Vulpius (pencil - Schrift)</handNote>
+                <handNote xml:id="v_bl_lat">Helene Vulpius (pencil - latin)</handNote>
+                <handNote xml:id="v_bl_gr">Helene Vulpius (pencil - greek)</handNote>
+                <handNote xml:id="we_t">Weller (ink - Schrift)</handNote>
+                <handNote xml:id="we_t_lat">Weller (ink - latin)</handNote>
+                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - Schrift)</handNote>
+                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - latin)</handNote>
+                <handNote xml:id="wo_t">Pius Alexander Wolff (ink - Schrift)</handNote>
+                <handNote xml:id="wo_t_lat">Pius Alexander Wolff (ink - latin)</handNote>
+                <handNote xml:id="wo_t_gr">Pius Alexander Wolff (ink - greek)</handNote>
+                <handNote xml:id="wo_tr">Pius Alexander Wolff (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="wo_tr_lat">Pius Alexander Wolff (ink red/brown - latin)</handNote>
+                <handNote xml:id="wo_tr_gr">Pius Alexander Wolff (ink red/brown - greek)</handNote>
+                <handNote xml:id="wo_bl">Pius Alexander Wolff (pencil - Schrift)</handNote>
+                <handNote xml:id="wo_bl_lat">Pius Alexander Wolff (pencil - latin)</handNote>
+                <handNote xml:id="wo_bl_gr">Pius Alexander Wolff (pencil - greek)</handNote>
+                <handNote xml:id="avg_t">August von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="avg_t_lat">August von Goethe (ink - latin)</handNote>
+                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink -
+                    Schrift)</handNote>
+                <handNote xml:id="wvg_t">Wolfgang von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="wvg_bl">Wolfgang von Goethe (pencil - Schrift)</handNote>
+                <handNote xml:id="sc">Schreiberhand (ohne Schreibmaterial)</handNote>
+                <handNote xml:id="sc_bl">Schreiberhand (pencil - Schrift)</handNote>
+                <handNote xml:id="sc_bl_lat">Schreiberhand (pencil - latin)</handNote>
+                <handNote xml:id="sc_blau">Schreiberhand (blue pencil - Schrift)</handNote>
+                <handNote xml:id="sc_ro">Schreiberhand (ruddle - Schrift)</handNote>
+                <handNote xml:id="sc_ro_lat">Schreiberhand (ruddle - latin)</handNote>
+                <handNote xml:id="sc_t">Schreiberhand (ink - Schrift)</handNote>
+                <handNote xml:id="sc_t_lat">Schreiberhand (ink - latin)</handNote>
+                <handNote xml:id="sc_tr">Schreiberhand (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="sc_tr_lat">Schreiberhand (ink red/brown - latin)</handNote>
+                <handNote xml:id="zs_t">Zeitgenössische Schrift (ink - Schrift)</handNote>
+                <handNote xml:id="zs_t_lat">Zeitgenössische Schrift (ink - latin)</handNote>
+                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown -
+                    latin)</handNote>
+                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown -
+                    greek)</handNote>
+                <handNote xml:id="zs_bl">Zeitgenössische Schrift (pencil - Schrift)</handNote>
+                <handNote xml:id="zs_bl_lat">Zeitgenössische Schrift (pencil - latin)</handNote>
+                <handNote xml:id="zs_bl_gr">Zeitgenössische Schrift (pencil - greek)</handNote>
+                <handNote xml:id="zs_ro">Zeitgenössische Schrift (ruddle - Schrift)</handNote>
+                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil -
+                    latin)</handNote>
+                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil -
+                    greek)</handNote>
+                <handNote xml:id="xx_t">Fremde Hand #1 (ink - Schrift)</handNote>
+                <handNote xml:id="xx_t_lat">Fremde Hand #1 (ink - latin)</handNote>
+                <handNote xml:id="xx_t_gr">Fremde Hand #1 (ink - greek)</handNote>
+                <handNote xml:id="xx_tr">Fremde Hand #1 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xx_tr_lat">Fremde Hand #1 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xx_tr_gr">Fremde Hand #1 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xx_bl">Fremde Hand #1 (pencil - Schrift)</handNote>
+                <handNote xml:id="xx_bl_lat">Fremde Hand #1 (pencil - latin)</handNote>
+                <handNote xml:id="xx_bl_gr">Fremde Hand #1 (pencil - greek)</handNote>
+                <handNote xml:id="xx_blau">Fremde Hand #1 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xx_blau_lat">Fremde Hand #1 (blue pencil - latin)</handNote>
+                <handNote xml:id="xx_blau_gr">Fremde Hand #1 (blue pencil - greek)</handNote>
+                <handNote xml:id="xx_ro">Fremde Hand #1 (ruddle - Schrift)</handNote>
+                <handNote xml:id="xx_ro_lat">Fremde Hand #1 (ruddle - latin)</handNote>
+                <handNote xml:id="xy_t">Fremde Hand #2 (ink - Schrift)</handNote>
+                <handNote xml:id="xy_t_lat">Fremde Hand #2 (ink - latin)</handNote>
+                <handNote xml:id="xy_t_gr">Fremde Hand #2 (ink - greek)</handNote>
+                <handNote xml:id="xy_tr">Fremde Hand #2 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xy_tr_lat">Fremde Hand #2 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xy_tr_gr">Fremde Hand #2 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xy_bl">Fremde Hand #2 (pencil - Schrift)</handNote>
+                <handNote xml:id="xy_bl_lat">Fremde Hand #2 (pencil - latin)</handNote>
+                <handNote xml:id="xy_bl_gr">Fremde Hand #2 (pencil - greek)</handNote>
+                <handNote xml:id="xy_blau">Fremde Hand #2 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xy_blau_lat">Fremde Hand #2 (blue pencil - latin)</handNote>
+                <handNote xml:id="xy_blau_gr">Fremde Hand #2 (blue pencil - greek)</handNote>
+                <handNote xml:id="xz_t">Fremde Hand #3 (ink - Schrift)</handNote>
+                <handNote xml:id="xz_t_lat">Fremde Hand #3 (ink - latin)</handNote>
+                <handNote xml:id="xz_t_gr">Fremde Hand #3 (ink - greek)</handNote>
+                <handNote xml:id="xz_tr">Fremde Hand #3 (ink red/brown - Schrift)</handNote>
+                <handNote xml:id="xz_tr_lat">Fremde Hand #3 (ink red/brown - latin)</handNote>
+                <handNote xml:id="xz_tr_gr">Fremde Hand #3 (ink red/brown - greek)</handNote>
+                <handNote xml:id="xz_bl">Fremde Hand #3 (pencil - Schrift)</handNote>
+                <handNote xml:id="xz_bl_lat">Fremde Hand #3 (pencil - latin)</handNote>
+                <handNote xml:id="xz_bl_gr">Fremde Hand #3 (pencil - greek)</handNote>
+                <handNote xml:id="xz_blau">Fremde Hand #3 (blue pencil - Schrift)</handNote>
+                <handNote xml:id="xz_blau_lat">Fremde Hand #3 (blue pencil - latin)</handNote>
+                <handNote xml:id="xz_blau_gr">Fremde Hand #3 (blue pencil - greek)</handNote>
+            </handNotes>
+        </profileDesc>
+        <encodingDesc>
+            <charDecl>
+                <char xml:id="g_transp_1">
+                    <charName>TRANSPOSITION SIGN 1</charName>
+                    <desc>„Einweisungzeichen“ mit einem nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_2">
+                    <charName>TRANSPOSITION SIGN 2</charName>
+                    <desc>„Einweisungzeichen“ mit zwei nach rechts weisendem Querbalken.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_3">
+                    <charName>TRANSPOSITION SIGN 3</charName>
+                    <desc>Geschwungenes „Einweisungzeichen“.</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_4">
+                    <charName>TRANSPOSITION SIGN 4</charName>
+                    <desc>Griechisches Kreuz (gleichschenklig und auf einer Spitze stehend).</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_5">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>Häkchen, ähnelt Einfügungslinie</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_transp_6">
+                    <charName>TRANSPOSITION SIGN 5</charName>
+                    <desc>rautenförmiges „Einweisungzeichen“</desc>
+                    <mapping type="Unicode"/>
+                </char>
+                <char xml:id="g_break">
+                    <charName>TEXT BREAK</charName>
+                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn
+                        eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt
+                        begann</desc>
+                    <mapping type="Unicode">[</mapping>
+                </char>
+                <char xml:id="parenthesis_left">
+                    <charName>LEFT PARENTHESIS</charName>
+                    <desc>In 18th century there were different ways to represent parentheses in
+                        handwritten documents. Then the token most often used (default symbol) was a
+                        vertical stroke combined with a colon. We want to be able to differentiate
+                        between this default representation, which we encode as normal parenthesis
+                        characters, and the very (same) characters, that are used today, and that
+                        also appear in documents of that time. Therefore we encode the contemporary
+                        representation of parantheses, if encountered in handwritten documents, as
+                        glyphs.</desc>
+                    <mapping type="Unicode">(</mapping>
+                </char>
+                <char xml:id="parenthesis_right">
+                    <charName>RIGHT PARENTHESIS</charName>
+                    <desc>See the description of LEFT PARANTHESIS.</desc>
+                    <mapping type="Unicode">)</mapping>
+                </char>
+                <char xml:id="truncation">
+                    <charName>TRUNCATION SIGN</charName>
+                    <desc>The suspension/truncation sign, in German known as
+                        “Abbrechungszeichen”.</desc>
+                    <mapping type="Unicode">.</mapping>
+                </char>
+            </charDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2011-04-21" who="pravida">encoded</change>
+            <change when="2014-01-03" who="ruether">Kodierung Paralipomena</change>
+            <change when="2014-12-01" who="ritter">Verszählung Paralipomena</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <milestone unit="paralipomenon" n="p63" f:relatedLines="4613-4678,1122,2065-2070,6307-6376,6453-6540,11403-11407" spanTo="#p63_end"/>
+            <pb n="03"/>
+            <p><s>jenen früher theilnehmenden Freunden gleich zu achten und hier den Plan kürzlich
+                    vorzutragen.</s></p>
+            <p><s>Zu Beginn des zweiten <subst f:revType="late">
+                        <del>Aktes</del>
+                        <add>Theiles</add>
+                    </subst> findet man Fauſt ſchlafend.</s>
+                <s>Er iſt umgeben von Geiſter Chören die ihm <subst f:revType="late">
+                        <del>mit</del>
+                        <add>in</add>
+                    </subst> ſichtlichen Symbolen und anmuthigen Geſängen die Freuden der Ehre, des
+                    Ruhms, der Macht und Herrſchaft vorſpiegeln.</s>
+                <s>Sie verhüllen <add f:revType="instant-or-soon">in</add> ſchmeichelnde Worte und
+                    Melodien ihre eigentlich ironiſchen Anträge.</s>
+                <s>Er wacht auf, fühlt ſich geſtärkt, verſchwunden alle vorhergehende
+                        Abhängigkeit<del f:revType="late">,</del> von Sinnlichkeit <pb n="05"/> und
+                        Leidenſchaft<add f:revType="late">,</add> der Geiſt<add f:revType="late">,</add> gereinigt und friſch<add f:revType="late">,</add> nach dem Höchſten
+                    ſtrebend.</s></p>
+            <p><s>Mephiſtophles tritt zu ihm ein und macht ihm eine luſtige aufregende Beſchreibung
+                    von dem Reichstage zu Augsburg, welchen Kaiſer Maximilian dahin zuſam̄en berufen
+                    hat, indem er annimmt, da<subst f:revType="instant-or-soon">
+                        <del>s</del>
+                        <add>ß</add>
+                    </subst> alles vor dem Fenſter, drunten auf dem Platze, vorgeht, wo Fauſt jedoch
+                    nichts ſehen kann.</s>
+                <s>Endlich will Mephiſtophles an einem Fenſter des Stadthauſes den Kaiſer ſehen, mit
+                    einem Fürſten ſprechend, und verſichert Fauſten, daß nach ihm gefragt worden,
+                        <pb n="06"/> wo er ſich befinde und ob man ihn nicht einmal an Hof ſchaffen
+                    könne.</s>
+                <s>Fauſt läßt ſich bereden und ſein Mantel be- ſchleunigt die Reiſe.</s>
+                <s>In Augsburg landen ſie an einer einſamen Halle, Mephistophles geht aus zu
+                    ſpioniren.</s>
+                <s>Fauſt verfällt indeß in ſeine früheren abſtruſen Speculationen und Forderungen an
+                    ſich ſelbſt und als jener zurückkehrt, macht Fauſt die wunderbare
+                        Bedingung<subst f:revType="late">
+                        <del>,</del>
+                        <add>;</add>
+                    </subst> Mephistophles dürfe nicht <del f:revType="instant">auf</del> in den
+                    Saal, ſondern müße auf der Schwelle bleiben, <subst f:revType="late">
+                        <del>und</del>
+                        <add>ferner</add>
+                    </subst> daß in des Kaiſers Gegenwart nichts von Gaukeley und Verblendung
+                    vorkom̄en ſolle.</s>
+                <pb n="07"/>
+                <s>Mephistophles giebt nach.</s>
+                <s>Wir werden in einen großen Saal verſetzt, wo der Kaiſer, eben von Tafel
+                    aufſtehend, mit einem Fürſten ins Fenſter tritt<del f:revType="instant-or-soon">,</del> und geſteht, daß er ſich Fauſtens Mantel wünſche um in Tyrol zu
+                    jagen und morgen zur Sitzung wieder zurück zu ſeyn.</s>
+                <s>Fauſt wird angemeldet und gnädig aufgenom̄en.</s>
+                <s>Die Fragen des Kaiſers beziehen ſich alle auf irdiſche Hinderniße, wie ſie durch
+                    Zauberey zu beſeitigen.</s>
+                <s>Fauſts Antworten deuten auf höhere Forderungen und höhere Mittel.</s>
+                <s>Der Kaiſer versteht ihn nicht, der Hofmann <pb n="08"/> noch weniger.</s>
+                <s>Das Geſpräch verwirrt ſich<add f:revType="late">,</add> ſtockt und Fauſt,
+                    verlegen, ſieht ſich nach Mephistophles um, welcher ſogleich hinter ihn tritt
+                    und in ſeinem Namen antwortet.</s>
+                <s>Nun belebt ſich das Geſpräch, mehrere Perſonen treten näher und jedermann iſt
+                    zufrieden mit dem wundervollen Gaſt.</s>
+                <s>Der Kaiſer verlangt Erſcheinungen, ſie werden zugeſagt.</s>
+                <s>Fauſt entfernt ſich der Vorbereitungen wegen.</s>
+                <s>In dem Augenblick nim̄t Mephistophles Fauſts Geſtalt an, Frauen und Fräuleins zu
+                    unterhalten und wird <add f:revType="late">zuletzt</add> für einen <add f:revType="late">ganz</add> unſchätzbaren Mann gehalten, da er durch
+                    leichte <pb n="09"/> Berührung eine Handwarze, durch einen etwas derbern Tritt
+                    ſeines vermum̄ten Pferdefußes ein Hühner Auge curirt<add f:revType="late">,</add> und ein blondes Fräulein verſchmäht nicht ihr Geſichtchen durch
+                    ſeine hagern und ſpitzen Finger <subst f:revType="late">
+                        <del>berühren</del>
+                        <add>betupfen</add>
+                    </subst> zu laſſen<add f:revType="late">,</add> indem der Taſchenſpiegel ihr
+                    ſogleich, da<subst f:revType="late">
+                        <del>s</del>
+                        <add>ß</add>
+                    </subst> eine <add f:revType="soon">Som̄erſproße</add> nach der andern
+                    verſchwinde, tröſtlich zuſagt.</s>
+                <s>Der Abend kommt heran, ein magiſches Theater erbaut ſich von ſelbſt.</s>
+                <s>Es erſcheint die Geſtalt der Helena.</s>
+                <s>Die Bemerkungen der Damen über dieſe Schönheit der Schön- heiten beleben die
+                    übrigens fürchterliche Scene.</s>
+                <s>Paris tritt hervor und dieſem <pb n="10"/> ergehts von Seiten der Männer, wie
+                    es jener von <del f:revType="instant">ſ</del>Seiten der Frauen ergangen.</s>
+                <s>Der verkappte Fauſt giebt beiden Theilen recht und es <subst f:revType="late">
+                        <del>belebt</del>
+                        <add>entwickelt</add>
+                    </subst> ſich eine ſehr heitere Scene.</s></p>
+            <p><s>Über die Wahl <subst f:revType="late" change="#verband_1">
+                        <del>des</del>
+                        <add>der</add>
+                    </subst> dritten <add f:revType="late" change="#verband_1">Erſcheinung</add>
+                    wird man nicht einig, die herangezogenen Geiſter werden unruhig; es erſcheinen
+                    mehrere bedeutende zuſammen.</s>
+                <s>Es entſtehen ſonderbare Verhältniße, <del f:revType="instant">die ſam</del> bis
+                    endlich Theater und Phantome zugleich verſchwinden.</s>
+                <s><del f:revType="instant">F</del> Der wirkliche Fauſt, von drei Lampen beleuchtet,
+                    liegt im Hintergrunde <add f:revType="late">ohnmächtig</add>, Mephistophles
+                    macht ſich aus dem Staube, man ahndet etwas von dem <subst f:revType="late" change="#verband_2">
+                        <del>doppelt ſeyn</del>
+                        <add>Doppeltſeyn</add>
+                    </subst>, niemand<add f:revType="late">en</add> iſt wohl bey der Sache zu
+                    Muthe.</s></p>
+            <pb n="12"/>
+            <p><s>Mephiſtophles als er wieder auf Fauſten trifft, findet dieſen in dem
+                    leidenſchaftlichſten Zuſtande.</s>
+                <s>Er hat ſich in Helena verliebt und verlangt nun daß der Tauſendkünſtler ſie
+                    herbey ſchaffen und ihm in die Arme liefern ſolle.</s>
+                <s>Es finden ſich Schwierigkeiten. Helena gehört dem Orkus und kann durch
+                    Zauberkünſte wohl herausgelockt aber nicht feſtgehalten werden.</s>
+                <s>Fauſt ſteht nicht ab, Mephiſtophles unternim̄ts.</s>
+                <s>Unendliche Sehnſucht Fauſt’s nach der <del f:revType="instant">E</del> einmal
+                    erkannten <add f:revType="late">höchſten </add> Schönheit.</s>
+                <s>Ein altes Schloß, deſſen Beſitzer in Paleſtina Krieg führt, der Caſtellan aber
+                    ein Zauberer iſt, ſoll der Wohnſitz des neuen <subst f:revType="late" f:correction="true">
+                        <del>Paares</del>
+                        <add>Paris</add>
+                    </subst> werden.</s>
+                <s>Helena <pb n="14"/> erſcheint<add f:revType="late">:</add> durch einen magiſchen
+                    Ring iſt ihr die Körperlichkeit wieder gegeben.</s>
+                <s>Sie glaubt ſo eben von Troja zu kommen und in Sparta einzutreffen.</s>
+                <s>Sie findet alles einſam, ſehnt ſich nach Geſellſchaft, beſonders nach männlicher,
+                    die ſie ihr lebelang nicht entbehren können.</s>
+                <s>Fauſt tritt auf und ſteht als deutſcher Ritter ſehr wunderbar gegen die antike
+                    Heldengeſtalt.</s>
+                <s>Sie findet ihn abſcheulich, allein da er zu ſchmeicheln weiß, ſo findet ſie ſich
+                    nach und nach in ihn, und er wird der Nachfolger ſo mancher Heroen und
+                    Halbgötter.</s>
+                <s>Ein Sohn entſpringt aus dieſer Verbindung, der, ſobald er auf die Welt kommt<add f:revType="late">,</add> tanzt, ſingt und mit <pb n="15"/>
+                    <subst f:revType="instant">
+                        <del>f</del>
+                        <add>F</add>
+                    </subst>echterſtreichen die Luft theilt.</s>
+                <s>Nun muß man wißen daß das Schloß mit einer Zaubergränze umzogen iſt, innerhalb
+                    welcher allein dieſe Halbwirklichkeiten gedeihen können.</s>
+                <s>Der im̄er zunehmende Knabe macht <subst f:revType="late">
+                        <del>den Eltern</del>
+                        <add>der Mutter</add>
+                    </subst> viel Freude.</s>
+                <add f:revType="late"><gap reason="notTransmitted"/></add>
+                <s>Es iſt ihm alles erlaubt, nur verboten über einen gewißen Bach zu gehen.</s>
+                <s>Eines Feſttags aber hört er drüben Muſik und ſieht die Landleute und Soldaten
+                    tanzen.</s>
+                <s>Er überſchreitet die Linie, miſcht ſich unter ſie und kriegt Händel, verwundet
+                    viele wird aber zuletzt durch ein geweihtes Schwerdt erſchlagen.</s>
+                <s>Der Zauberer Caſtellan rettet den Leichnam.</s>
+                <s>Die <subst f:revType="late">
+                        <del>Eltern ſind</del>
+                        <add>Mutter iſt</add>
+                    </subst> un<pb n="17" break="no"/>tröſtlich und indem Helena in Verzweiflung die
+                    Hände ringt, ſtreift ſie den Ring ab und fällt Fauſt in die Arme der aber nur
+                    ihr leeres Kleid umfaßt.</s>
+                <s>Mutter und Sohn ſind verſchwunden.</s>
+                <s>Mephiſtophles der bisher unter der Geſtalt einer alten Schaffnerin von allem
+                    Zeuge geweſen, ſucht ſeinen Freund zu tröſten und <add f:revType="late">ihm</add> Luſt zum Beſitz einzuflöſen.</s>
+                <s>Der Schloßherr iſt in Paleſtina umgekommen, Mönche wollen ſich der Güter
+                        bemächtigen<del f:revType="instant">. I</del>, ihre Seegenſprüche heben den
+                    Zauberkreis auf.</s>
+                <s>Mephiſtophles räth zur phyſiſchen Gewalt und ſtellt Fauſten drei Helfershelfer,
+                    mit Namen<handShift new="#g_t"/>: <handShift new="#kr_t"/>Raufebold, Habebald,
+                        Haltefeſt<handShift new="#g_t"/>.</s><pb n="18"/>
+                <s>Fauſt glaubt ſich nun genug ausgeſtattet und entläßt den Mephiſtophles und
+                    Caſtellan, führt Krieg mit den Mönchen, rächt den Tod ſeines Sohnes und gewinnt große Güter.</s>
+                <s>Indeſſen altert er, und wie es weiter ergangen wird ſich zeigen, wenn wir künftig
+                    die Fragmente, oder vielmehr die zerſtreut gearbeiteten Stellen dieſes zweiten
+                    Theils zuſammen räumen und dadurch einiges retten was den Leſern intereſſant
+                    ſeyn wird.</s></p>
+            <p><s>Dergleichen dichteriſche Seltſamkeiten, theils erzählt als Plan und Vorſatz,
+                    theils ſtellenweis fertig vorgeleſen, gaben denn freilich eine ſehr geiſtreiche
+                    und anregende</s></p>
+            <anchor xml:id="p63_end"/>
+        </body>
+    </text>
+</TEI>

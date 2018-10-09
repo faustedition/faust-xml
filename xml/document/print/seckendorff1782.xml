@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+        <change when="2015-12-14" who="bruening">Faustedition-Sigle</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">J.1</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="wa_gedichte">J</idno>
+        <idno type="hagen_nr">566</idno>
+        <headNote>Volks- und andere Lieder von Siegmund Freyherrn von Seckendorff, 1782</headNote>
+        <bibl>Volks- und andere Lieder, mit Begleitung des Forte piano, <!-- Piano, (Hagen) --> In Musik gesetzt von Siegmund Freyherrn von 
+            Seckendorff. Dritte Sammlung. Dessau, auf Kosten der Verlags-Kasse, und zu finden in der Buchhandlung der 
+        Gelehrten. 1782. 32 S.<!-- S. 32 ohne pagina --><!-- 25 S. (BSB) --><!-- todo Format --></bibl>
+        <note>S. 6–9: Der König von Thule.</note>
+        <copies>
+            <referenceCopy>
+                <repository>gsa</repository>
+                <idno type="gsa_2">GSA 32/1420</idno>
+            <idno type="gsa_ident">64540</idno>
+            </referenceCopy>
+            <furtherCopy>
+                <repository>bsb_muenchen</repository>
+                <idno type="bsb_muenchen">4 Mus.pr. 37674-1/3</idno>
+                <!-- urn:nbn:de:bvb:12-bsb00082449-8 -->
+                <!-- http://bildsuche.digitale-sammlungen.de/index.html?c=viewer&l=de&bandnummer=bsb00082449&pimage=00001&v=&nav= -->
+            </furtherCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_1">S. 405</reference>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 272f.</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 267</reference>
+            <reference type="text" uri="faust://bibliography/wa_I_1">S. 405f.</reference>
+            <reference type="essay" uri="faust://bibliography/hagen1983">S. 267</reference>
+        </references>
+        <textTranscript uri="seckendorff1782.xml"/>
+    </metadata>
+</print>

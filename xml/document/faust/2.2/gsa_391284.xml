@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391284/">
+   <revisionDesc>
+      <change when="2012-12-07" who="henzel">imported</change>
+      <change when="2012-12-07" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-02-23" who="koehler">URIs fuer Handschriftensiglen, bibliograph. Verweise</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>bildete ursprünglich ein Folioblatt mit faust://document/wa_faust/2_II_H.27; Tag- und Jahreshefte, 1808, faust://bibliography/wa_I_36, S. 36,8-9
+         und faust://bibliography/wa_I_36, S. 37,11-14 Konzept John [vgl. faust_//document/wa_faust/2_II_H.27 (25/XVII,7,28:2]</note>
+      <!-- TODO URIs -->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.45</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,10</idno>
+      <idno type="gsa_2">GSA 25/W 1537</idno>
+      <idno type="gsa_ident">391284</idno>
+      <idno type="wa_faust">2 II H.45</idno>
+      <textTranscript uri="391284.xml"/>
+      <classification>Konzept</classification>
+      <condition>ursprünglich längs gefaltet</condition>
+      <!-- nicht mittig -->
+      <dimensions>
+         <width unit="mm">218</width>
+         <height unit="mm">175</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 215 mm. Der Mindestwert der Blatt-Höhe beträgt
+         173 mm.</note>
+      <format>none</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>none</paperMill>
+      <!-- oberer oder unterer Teil eines Bogens -->
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 41,
+            50</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 40-42</reference>
+         <!-- TODO Fischer-Lamberg, S 42 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Fischer-Lamberg, S 42</f:bemerkung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

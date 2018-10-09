@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390594/">
+   <!-- HIER WEITER -->
+   <revisionDesc>
+      <change when="2012-11-28" who="henzel">imported</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-02-23" who="koehler">WA-Nr. Briefe</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Eigenhändiger Prosaspruch (Maximen und Reflexionen 1250) mit Bleistift; eigenhändiges Konzept eines Briefes an Riemer, 5.12.1830 mit Bleistift, faust://bibliography/wa_IV_48, 29,1-6 (WA-Nr. 48022); eigenhändiges Konzept eines Briefes an Johann Friedrich Gille, 12.12.1830 mit Bleistift, faust://bibliography/wa_IV_48, 39,9-21 (WA-Nr. 48033).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P196</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,27</idno>
+      <idno type="gsa_2">GSA 25/W 1802</idno>
+      <idno type="gsa_ident">390594</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- <f:uri xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">faust://document/wa/2_V_</f:uri> -->
+      <idno type="bohnenkamp">H P196</idno>
+      <!-- P196 -->
+      <!-- Hecker 113 -->
+      <idno type="wa_mur">H.267</idno>
+      <!-- Hecker-Nr. für wa_mur 1250 -->
+      <textTranscript uri="390594.xml"/>
+      <classification>Schema</classification>
+      <!-- ABR: Schema-Entwurf -->
+      <condition>am oberen Rand gewellt, ursprünglich auf Quartformat gefaltet; untere rechte Ecke war geknickt</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach(?)</paperMill>
+      <watermarkID>Stern (über "N 1"?)</watermarkID>
+      <note>schwer erkennbares Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 244</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_42_2">S. 375</reference>
+         <!-- H.267 -->
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 794</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 244</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 794f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 734</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 795</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- Briefkonzepte, auch Erich Schmidt legt sie als Rückseite fest -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:dabei_vermerk>Brief an Riemer, 5.12.1830, WA IV 48,29,1-6 Konzept egh; Brief an Johann Friedrich Gille, 12.12.1830, WA IV 48,39,9-21 Konzept egh</f:dabei_vermerk>
+      <f:datierung>Dez. 1830</f:datierung>
+      </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Dieser Schemaentwurf zur Szene `Bergschluchten' ist der Arbeitsphase vom Dezember
+               1830 zuzuordnen; die auf der Rückseite befindlichen Briefkonzepte lassen sich auf den
+               5. bzw. den 12. Dezember 1830 datieren. (Es handelt sich um Konzepte zu den Schreiben
+               an Riemer vom 5. 12. 1830, vgl. WA IV,48,29, Z. 1-5 und an Gille vom 12. 12. 1830,
+               vgl. WA IV,48,39, Z. 9-18.) Der auf der Vorderseite unter dem Schemaentwurf in
+               umgekehrter Ausrichtung notierte Spruch: "Die Natur bekümmert sich nicht um
+               Irrthümer, sie selbst machts immer recht, und fragt nicht was daraus erfolgen könne"
+               (Maximen und Reflexionen 1250) läßt sich ebenfalls dem Dezember 1830 zuordnen (vgl.
+               Hertz, Natur u. Geist, S. 211). Da die Beschriftungsreihenfolge nicht eindeutig zu
+               klären ist, können diese Daten jedoch nur als ungefähre Anhaltspunkte für das
+               `Faust'-Schema gewertet werden.</p>
+            <p>
+               <b>P196</b> besteht aus zwei Schemaentwürfen zu den letzten Versen des `Faust': Z.
+               110 notieren die zunächst für die abschließende Szene vorgesehenen Sprecher; die nach
+               dem Querstrich folgenden Zeilen (Z. 11-23) bieten noch einmal die nun vollständige
+               (um "Maria Egyptiaca" ergänzte) Liste der Sprecher von V. 12032-12111. Während "Maria
+               Magdalena" (Z. 2) als "Magna Peccatrix" (Z. 12) und "Die Samariterin" (Z.3) als
+               "Mulier Samaritana" (Z. 14) in der zweiten Liste bereits unter ihren lateinischen
+               Bezeichnungen zu finden sind, wird "Gretchen" (Z. 5 u. 18) erst in der Reinschrift H
+               als "Una Poenitentum" bzw. "Die eine Büßerin" auftreten. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

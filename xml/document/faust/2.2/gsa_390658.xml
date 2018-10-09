@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390658/">
+   <revisionDesc>
+      <change when="2013-01-09" who="henzel">imported</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>gehörte ursprünglich mit faust://document/wa_faust/2_II_H.68 zu einem Folioblatt; auf
+         Teil eines nicht bestimmten amtlichen Schriftstücks; dabei: vermutlich eigenhändige
+         Zeichnung (Bruchstück Corpus) eines Grundrisses oder einer geometrischen Skizze mit
+         Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.67</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,30</idno>
+      <idno type="gsa_2">GSA 25/W 1559</idno>
+      <idno type="gsa_ident">390658</idno>
+      <idno type="wa_faust">2 II H.67</idno>
+      <textTranscript uri="390658.xml"/>
+      <classification>Konzept</classification>
+      <condition>Vergilbung am unteren Rand der Rückseite</condition>
+      <dimensions>
+         <width unit="mm">222</width>
+         <height unit="mm">172</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 221 mm. Der Mindestwert der Blatt-Höhe beträgt
+         171 mm.</note>
+      <format>n.s.</format>
+      <!-- WA: Quart -->
+      <edges>uncut</edges>
+      <note>Schnittkante unten</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">29</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            59</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 59f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <!-- amtliches Schriftstück -->
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

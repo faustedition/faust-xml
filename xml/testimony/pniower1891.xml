@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2017-02-16" who="Krause">markiert</change></revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="334" facs="pniower1891_0334.jpg"/>
+            <div type="letter">
+                <!-- Hier fehlt: "Sein Faust ist aber ein Werk, das mit der grössten Treue der Natur abgestohlen ist, und die Stella wie Clavigo sind aufrichtig Nichts weiter als Nebenstunden." Vgl. Pniower Nr. 27-->
+                <p>Im Januar 1776 schreibt Merck über die letzten in Frankfurt entstandenen Partien
+                    des Faust an Nicolai: ‘<!--<milestone unit="testimony" spanTo="#pniower_27_end" xml:id="pniower_27"/>-->Ich erstaune, so oft ich Ein <rs>neu Stück zu Fausten</rs> zu
+                    sehen bekomme, wie der Kerl zusehends wächst, und Dinge macht, die ohne den
+                    grossen Glauben an sich selbst, und <hi rend="letter-spaced">den damit
+                        verbundenen Muthwillen</hi> ohnmöglich wären.’<!--<anchor xml:id="pniower_27_end"/>--> Liegt es nicht nahe, bei dem
+                    Muthwillen an Mephistos Ausführungen über die Logik, im besonderen über die
+                    Medicin zu denken?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

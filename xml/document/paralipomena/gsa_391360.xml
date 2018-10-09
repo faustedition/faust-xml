@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391360/">
+   <revisionDesc>
+      <change when="2012-11-12" who="henzel">imported</change>
+      <change when="2012-11-12" who="henzel">encoded</change>
+      <change when="2013-01-22" who="henzel">aktualisiert</change>
+      <change when="2014-10-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. - Versentwurf zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Abschrift eines Versentwurfs zu ‚Faust I‘
+         (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P9a</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,6:2</idno>
+      <idno type="gsa_2">GSA 25/W 1380</idno>
+      <idno type="gsa_ident">391360</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="391360.xml"/>
+      <classification>none</classification>
+      <!-- Reinschrift, aber zu klein für Mundum -->
+      <condition>längs des Blattes war ein Knick</condition>
+      <!-- eventuell vom Papieraufhängen oder im Bündel wurde zusammengedrückt -->
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">166</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 165 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>angeschnittenes WZ</watermarkID>
+      <!-- vermutlich Buchstabe mit Zahl oder zwei Buchstaben (M oder W oder N) -->
+      <references>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 129</reference>
+         <!-- Bohnenkamp erwähnt die Handschrift lediglich -->
+         <!-- TODO Erstdruck: Q, S.178 (P9) -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Z. 5-8 <b>(P9)</b>: Diese schon in Q unter den Faustparalipomena gedruckten Verse
+               werden seitdem meist Mephistopheles im Dialog mit Faust "nach der Schülerscene"
+               zugeordnet. Zusätzlich zu dem hier wiedergegebenen Sammelblatt sind sie auf einem _
+               eigenhändig in lateinischer Schrift beschriebenen _ Einzelblatt überliefert (GSA XVI
+               2,6), das vermutlich als Geschenkblatt vorgesehen war.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

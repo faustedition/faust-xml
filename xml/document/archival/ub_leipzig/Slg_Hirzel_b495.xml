@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_leipzig/Slg_Hirzel_b495/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening"/>
+      <change when="2013-10-07" who="henzel">Lagenstruktur</change>
+      <change when="2013-11-21" who="henzel">encoded</change>
+      <change when="2014-05-28" who="henzel">erneute Pruefung am Original</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-04-02" who="henzel">Nachtraege nach erneuter Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>ursprünglich Briefumschlag; Blatt gehört zu demselben Bogen wie faust://document/wa_faust/2_IV_H.19 (faust://bibliography/bohnenkamp1994 Bohnenkamp, S. 714).</note>
+      <repository>ub_leipzig</repository>
+      <collection>Sammlung Hirzel</collection>
+      <idno type="faustedition">2 IV H.22a</idno>
+      <idno type="ub_leipzig">B 495</idno>
+      <idno type="gsa_1">GSA 25/XVIII,6,4</idno>
+      <idno type="wa_faust">2 IV H.d</idno>
+      <textTranscript uri="b495.xml"/>
+      <classification>none</classification>
+      <!-- Entwurf -->
+      <numberingList>
+         <numbering>unten rechts auf der Pappe Zählung mit Bleistift (wohl archivarisch und zur Durchzählung der Handschriften innerhalb der Sammlung?)</numbering>
+      </numberingList>
+      <condition>Blatt war ein Briefumschlag, Faltspuren sind noch zu erkennen; auf der oberen Seite (eigentliche Rückseite) Stempel der Universitätsbibliothek Leipzig; auf der unteren Seite (eigentliche Vorderseite) schwarze Siegelreste</condition>
+      <dimensions>
+         <width unit="mm">219</width>
+         <height unit="mm">355</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 217 mm. Der Mindestwert der Blatt-Höhe beträgt 353 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>none</paperType>
+      <note>Pack- oder Postpapier</note>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>zwei gekreuzte Säbel in rechter Hälfte eines Wappens, linke Hälfte sächsisches Wappen, darüber Krone</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/hirzel1874">S. 236</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133</reference>
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 257f., Nr. 8</reference>
+         <reference type="description" uri="faust://bibliography/fink1932">S. 50</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr. 19</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 714</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="b.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="a.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

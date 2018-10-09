@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390186/">
+   <revisionDesc>
+      <change when="2012-11-12" who="henzel">imported</change>
+      <change when="2012-11-12" who="henzel">encoded</change>
+      <change when="2013-01-22" who="henzel">aktualisiert</change>
+      <change when="2014-10-13" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. - Versentwürfe zu ‚Faust I‘, Prosanotiz zu ‚Faust II‘.</headNote>
+      <note>Einzelblatt, 2 beschriebene Seiten. - Vs.: Versentwürfe zu ‚Faust I‘. Rs.: Prosanotiz zu ‚Faust II‘(eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P9</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,6:1</idno>
+      <idno type="gsa_2">GSA 25/W 1379</idno>
+      <idno type="gsa_ident">390186</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P9</idno>
+      <!-- Paralipomenon 9, Hecker-Nr. 34 -->
+      <!-- Paralipomenon 43, Hecker-Nr. 64 -->
+      <!-- Paralipomenon 62, Hecker-Nr. 55 -->
+      <!-- Paralipomenon 64 -->
+      <textTranscript uri="390186.xml"/>
+      <classification>Sammelblatt</classification>
+      <numberingList>
+         <numbering>Eigenhändige Foliierung "12" mit Bleistift</numbering>
+      </numberingList>
+      <condition>fleckig; Tintenspuren auf der Rückseite</condition>
+      <dimensions>
+         <width unit="mm">172</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 166 mm. Der Mindestwert der Blatt-Höhe beträgt
+         207 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <note>Der Mindestwert des Steglinienabstands beträgt 25mm.</note>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 289<!-- P9 -->,
+            313<!-- P62 --></reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 177</reference>
+         <!-- P64 -->
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 128</reference>
+         <!-- TODO Erstdruck: C1, Bd. 4, S. 359 (P62); Q, S.178 (P9) -->
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 289<!-- P9 -->,
+            303<!-- P43 -->, 313<!-- P62 --></reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 177</reference>
+         <!-- P64 -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 128</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 550</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 129</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/1798 (?)</f:datierung>
+      </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>HP9 Sammelblatt von Goethes Hand ohne äußere Anhaltspunkte für die Datierung. Der
+               Schriftduktus erinnert an die Bruchstücke zum `Vorspiel' (H P3-H P5a, hier S.
+               215-219); ein Wechsel des Schreibgeräts scheint nach den ersten vier Zeilen
+               vorzuliegen. Die hier gesammelten Textsplitter haben den Charakter unterschiedlicher
+               Momenteinfälle, die vermutlich wiederum bei der Durchsicht alter Papiere bei der
+               Wiederaufnahme der Arbeiten 1797/98 auf einem neuen Blatt zusammengestellt wurden.
+               Daß Goethe über die Verwendung der einzelnen Bruchstücke schon genau entschieden
+               hatte, ist unwahrscheinlich. </p>
+            <p>Z. 1-4 <b>(P43)</b>: Diese Verse werden von Morris (Walpurgisnacht, S. 80) zusammen
+               mit P44 (H P10, hier S. 120) auf die geplanten Satansszenen bezogen; das Motiv des
+               "Lumpenpack[s]" hat Goethe viele Jahre später, im Januar 1827, für nachträglich
+               eingefügte Verse des `Walpurgisnachtstraumes' verwendet (V. 4339-4342).</p>
+            <p>Z. 5-8 <b>(P9)</b>: Diese schon in Q unter den Faustparalipomena gedruckten Verse
+               werden seitdem meist Mephistopheles im Dialog mit Faust "nach der Schülerscene"
+               zugeordnet. Zusätzlich zu dem hier wiedergegebenen Sammelblatt sind sie auf einem _
+               eigenhändig in lateinischer Schrift beschriebenen _ Einzelblatt überliefert (GSA XVI
+               2,6), das vermutlich als Geschenkblatt vorgesehen war.</p>
+            <p>Z. 9-11: Von Morris zusammen mit P41 und P39 auf einen geplanten Auftritt Klopstocks
+               vor dem Satan bezogen (Morris, Walpurgisnacht, S. 76; vgl. auch P41 und P39, hier S.
+               196, S. 120 u. 161). Angesichts der verstreut überlieferten Splitter ist diese
+               Vermutung jedoch nicht zu halten. Daß die Splitter dieses und anderer Sammelblätter
+               zum Teil im Hinblick auf geplante satirische Szenen der Walpurgisnacht gesammelt
+               wurden, ist dagegen keineswegs auszuschließen.</p>
+            <p>Z. 12-14 <b>(P62)</b>: Wie die übrigen Einträge auf dieser Seite vermutlich als
+               mephistophelischer Kommentar notiert. Vgl. Walpurgisnacht V. 4092ff. Von Goethe in
+               der `Ausgabe letzter Hand' (1827) als zweite Hälfte des Zahmen Xenions "Komm her! Wir
+               setzen uns zu Tisch" veröffentlicht (WA I,3,325).</p>
+            <p>Z. 15-21 <b>(P64)</b>: Bei diesem Schemafragment auf der Rückseite des Blattes
+               handelt es sich wahrscheinlich um einen späteren Nachtrag. Er setzt die Entscheidung
+               zur Teilung des geplanten `Faust' schon voraus; der Eintrag ist also wahrscheinlich
+               nicht vor 1800 anzusetzen. Vgl. mein Kapitel zur Entstehungsgeschichte, hier S. 97,
+               Anm. 38. Die Schema-Notizen beziehen sich wahrscheinlich auf den geplanten Beginn des
+               Zweiten Teils. Umschrieben wird "[...] kurz die Empfindung Fausts beim Erwachen. Aus
+               den kleinen Verhältnissen des ersten Teils will er sich für immer durch den Erwerb
+               von Besitz und Macht befreien, ein ähnlicher Entschluß wie 4684f. und 10187f."
+               (Witkowski, S. 427).</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

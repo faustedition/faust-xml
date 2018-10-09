@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390705/">
+<revisionDesc>
+	<change when="2012-11-27" who="henzel">imported</change>
+	<change when="2012-11-27" who="henzel">encoded</change>
+	<change when="2015-01-22" who="koehler">minimal headnote</change>
+	<change when="2016-01-28" who="koehler">Uri schmidt1888 geändert in schmidt 1888a</change>
+</revisionDesc>
+	<metadata>
+		<headNote>Einzelblatt. – Zum Schluss des ‚Faust‘.</headNote>
+		<note>Eigenhändige Numerierung "ad 30" mit Bleistift</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P98</idno>
+		<idno type="gsa_1">GSA 25/XIX,1,14:2</idno>
+		<idno type="gsa_2">GSA 25/W 1757</idno>
+		<idno type="gsa_ident">390705</idno>
+		<idno type="wa_faust">2 H.1</idno><!-- TODO Sigle -->
+		<idno type="bohnenkamp">H P98</idno>
+		<!-- P98 -->
+		<textTranscript uri="390705.xml"/>
+		<classification>Mundum</classification><!-- ABR: Reinschrift mit Korrekturen -->
+		<condition>starke Gebrauchsspuren; stark vergilbt bis auf eine ursprünglich abgedeckte Stelle am unteren Rand der Vorderseite</condition>
+		<dimensions>
+			<width unit="mm">174</width>
+			<height unit="mm">208</height>
+		</dimensions>
+		<format>4</format>
+		<edges>cut</edges>
+		<paperType>Schreibpapier</paperType>
+		<paperColour>dunkelgelb</paperColour><!-- ABR: gelbbräunlich -->
+		<chainLines unit="mm">25</chainLines>
+		<paperMill>Remda</paperMill>
+		<watermarkID>Rautenkranzoval über Stern</watermarkID><!-- vgl. H P67, H P68 -->
+		<note>angeschnittenes Wasserzeichen</note>
+		<countermarkID>none</countermarkID>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 188</reference>
+			<reference type="description" uri="faust://bibliography/schmidt1888a">S. 6</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 211</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 188</reference>
+			<reference type="text" uri="faust://bibliography/schmidt1888a">S. 5f.</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 211f.</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 573f.</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 213f.</reference>
+			<!-- Erstdruck: GJb 9 (1888), S. 5 -->
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0003.xml"/>
+			</metadata>
+		</page>
+	</disjunctLeaf>
+
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>WA zu: Paralipomena. Älteste Phase</f:bemerkung>
+      <f:datierung>1797/98</f:datierung>  
+    </f:archiveDatabase>
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p> G HP98 Papier und Schrift verweisen auch dieses Blatt zu den 1797/98 im Zusammenhang der Neuordnung gefertigten Abschriften Geists; wie die auf Blatt H P97 überlieferte `Abkündigung' sind auch die `Abschied' überschriebenen Verse durch die Signatur "ad 30" der letzten Nummer des Schemas zugeordnet. Wie die `Abkündigung' dem `Vorspiel auf dem Theater', so entsprechen die Stanzen des `Abschieds' den Stanzen der `Zueignung'. Wie zu Beginn spricht zum Abschluß noch einmal der Dichter. Die Verse des `Abschieds' nehmen formal und inhaltlich deutlich Bezug auf die `Zueignung': auch der äußerste Rahmen der Dichtung sollte im Plan von 1797/98 geschlossen werden. Erich Schmidt, der die beiden Schlußgedichte unter dem Titel `Epilog zum Faust' im Goethe-Jahrbuch 1888 zum ersten Mal veröffentlichte, verweist in diesem Zusammenhang auf einen Brief Goethes an Hirt aus dem Winter 1797/98: "[...] ich bin für den Moment himmelweit von solchen reinen und edlen Gegenständen [Laokoon]
+					entfernt, indem ich meinen Faust zu endigen, mich aber auch zugleich von aller nordischen Barbarey loszusagen wünsche". (30. 1. 1798(?); WA IV,13,46.) Während Schmidt, ausgehend von dieser Briefstelle, eine Entstehung des `Abschieds' schon im Winter 1797/98 für möglich hält (WA I,15.2,188), plädieren andere Forscher für Mai 1798 (Alt, S. 603) oder 1800 (Pniower, Goethes Faust, S. 71f.; Gräf, S. 87ff.). </p>
+				<p>Gegen Erich Schmidt, der schon 1888 unter Hinweis auf die Signatur "ad 30" feststellt: "Der Gedanke, Goethe habe diesen Epilog für der Tragödie ersten Theil bestimmt, ist also von vornherein abzulehnen" (Erich Schmidt, Epilog zum Faust, S.82f.), hat Hans Gerhard Gräf eingewendet, daß diese Auffassung voraussetze, Goethe habe zum Zeitpunkt ihrer Niederschrift schon die ganze Dichtung als abgeschlossen fingiert. Diese Möglichkeit weist Gräf zurück: "Mit zwingender Nothwendigkeit aber geht für mich aus Strophe 1 des `Abschieds' hervor: dass Goethe hier lediglich den Abschluss des <i>Ersten Theils</i> vor Augen hat, der zur Zeit ja auch thatsächlich der Vollendung nahe war [...]; gewiss hatte Goethe schon die Helena-Dichtung fester in's Auge gefasst, unmöglich konnte er diese mit in `der Barbareien beschränkten Kreis' einbegreifen [...]" (Gräf, S. 90). Dieser in der Forschung zunächst akzeptierten Auffassung ist entgegenzuhalten, daß mit dem Plan einer Zweiteilung des
+					`Faust' die Aufgabe des Nummernschemas einherging (Scheibe, Faustschema, S. 254) und daß noch 1800 auch die `Helena' durchaus im "Kreis" "der Barbareien" angesiedelt war: "Nun zieht mich aber das Schöne in der Lage meiner Heldin so so sehr an, dass es mich betrübt wenn ich es zunächst in eine Fratze verwandeln soll." (12. 9. 1800 an Schiller, vgl. auch die Antwort Schillers!) Daß Goethe in den Jahren 1797/98 eine Vollendung des ganzen Werkes in näherer Zukunft tatsächlich für möglich hielt, geht aus verschiedenen Briefstellen hervor. (Vgl. mein Kapitel zur Entstehungsgeschichte des Ersten Teils, hier S. 98, Anm. 47.) Die beiden "ad 30" signierten Schlußgedichte, die in den Jahren 1797-1800, wahrscheinlich 1798, entstanden, waren zur Zeit ihrer Aufnahme in das numerierte Schema als Abschluß der <i>ganzen</i> Dichtung vorgesehen. (Vgl. auch Grumach, Prolog und Epilog, S. 71, Anm. 24.)</p>
+				<p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+				<p>Daß Goethe noch 1825 die Aufnahme der beiden Schlußgedichte nicht nur erwogen (Schmidt, Epilog zum Faust, S. 82), sondern tatsächlich vorgesehen hatte, geht aus dem als V H2 bezeichneten Mundum des 5. Akts aus dem Jahr 1825 hervor, in das beide Gedichte wieder aufgenommen sind (vgl. hier S. 783f.). Wie H P92 (hier S. 206) gehören auch H P97 und H P98 zu den Blättern, die Goethe bei der Wiederaufnahme der Arbeit am `Faust' im Frühling 1825 vorgelegen haben. Über die Gründe, warum er die beiden Gedichte schließlich doch verworfen hat, wurden verschiedene Vermutungen angestellt: Ausschlaggebend für diese Entscheidung scheint mir weniger ihr Mangel an ästhetischer Qualität gewesen zu sein (so Jacob Minor, Goethes Faust, Bd. 2, S. 49), als vielmehr die Einsicht, daß diese Rahmengedichte auf die `neuen', erst im Winter 1830 entstandenen Schlußverse der `Bergschluchten'-Szene nicht mehr folgen durften. (Vgl. Joachim Müller, Prolog und Epilog, S. 17.)</p>
+				<p>Z. 4 zuletzt mit Bangigkeit vollführt] Die erste Strophe des `Abschieds' beschreibt die seit der Wiederaufnahme der Arbeit am `Faust' zunehmend distanzierte Beziehung Goethes zu seiner "barbarischen Composition" (an Schiller am 27. 6. 1797; WA IV,121,169).</p>
+				<p>Z. 8 Wenn ihn der Weg zur Klarheit aufgeführt] Gemeint ist wohl Goethes ästhetische Wendung zur klassischen Antike.</p>
+				<p>Z. 14 so früh als Freund und Feind gekannt] Mephistophelische Züge, die Goethe früh bei "Freund und Feind" wahrgenommen hat, z. B. bei Johann Heinrich Merck, den er wiederholt mit Mephistopheles vergleicht. (Vgl. Dichtung und Wahrheit 3.Teil, 12. u. 15. Buch; WA I,28,171 u. 348).</p>
+				<p>Z. 16 nach Osten] Meist als Hinweis auf den Abschluß der Beschäftigung mit den `nordischen Phantomen' des Hexen- und Teufelspuks in `Faust I' und die darauf folgende Wendung zur Welt des klassischen Altertums verstanden. Möglicherweise aber meint "Osten" auch einfach die Zuwendung zur aufgehenden Sonne, zum neuen Morgen, zum künftigen Leben.</p>
+				<p>Z. 33-36 Kein Hinderniß [...]] Ohne "zu ermüden", soll man voranschreiten, und tobt auch, wie der "wilde Jäger", der in der nordischen Mythologie mit seinem wütenden Heer durch die Lüfte braust, über einem der wilde verwirrende Zeitgeist.</p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

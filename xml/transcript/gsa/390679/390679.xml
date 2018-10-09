@@ -1,0 +1,1059 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+   <teiHeader>
+      <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">2 V H.1</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/faust/2.5/gsa_390679.xml--><msIdentifier><repository>Goethe- und Schiller-Archiv, Weimar</repository><idno type="gsa_1">GSA 25/XVIII,7,2</idno><altIdentifier><idno type="gsa_2">GSA 25/W 1697</idno></altIdentifier><altIdentifier><idno type="gsa_ident">390679</idno></altIdentifier></msIdentifier></msDesc></sourceDesc></fileDesc>
+      <profileDesc>
+         <listTranspose>
+               <transpose f:revType="late" change="#change_20">
+                  <ptr target="#transp_l11326_2"/>
+                  <ptr target="#transp_l11326_1"/>
+               </transpose>
+               <transpose f:revType="soon-or-late">
+                  <ptr target="#transp_l11339_3"/>
+                  <ptr target="#transp_l11339_4"/>
+                  <ptr target="#transp_l11339_2"/>
+                  <ptr target="#transp_l11339_1"/>
+               </transpose>
+               <transpose>
+                  <ptr target="#after_11283"/>
+                  <ptr target="#before_11286_b-11287"/>
+               </transpose>
+            </listTranspose>
+         <creation>
+            
+            <listChange>
+               <change xml:id="change_1"/>
+               <change xml:id="change_3"/>
+               <change xml:id="change_4"/>
+               <change xml:id="change_5"/>
+               <change xml:id="change_6"/>
+               <change xml:id="change_7"/>
+               <change xml:id="change_8"/>
+               <change xml:id="change_9"/>
+               <change xml:id="change_10"/>
+               <change xml:id="change_11"/>
+               <change xml:id="change_12"/>
+               <change xml:id="change_13"/>
+               <change xml:id="change_14"/>
+               <change xml:id="change_15"/>
+               <change xml:id="change_editorial_1"/>
+               <change xml:id="change_16"/>
+               <change xml:id="change_17"/>
+               <change xml:id="change_18"/>
+               <change xml:id="change_19"/>
+               <change xml:id="change_20"/>
+               <change xml:id="change_20a"/>
+               <change xml:id="change_21"/>
+               <change xml:id="change_22"/>
+               <change xml:id="change_23"/>
+               <change xml:id="change_24"/>
+               <change xml:id="change_25"/>
+               <change xml:id="change_26"/>
+               <change xml:id="change_27"/>
+               <change xml:id="change_28"/>
+            </listChange>
+         </creation>
+         <handNotes>
+            <handNote xml:id="g">Goethe (ohne Schreibmaterial)</handNote>
+            <handNote xml:id="g_t">Goethe (ink - Schrift)</handNote>
+            <handNote xml:id="g_t_lat">Goethe (ink - latin)</handNote>
+            <handNote xml:id="g_t_gr">Goethe (ink - greek)</handNote>
+            <handNote xml:id="g_tr">Goethe (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="g_tr_lat">Goethe (ink red/brown - latin)</handNote>
+            <handNote xml:id="g_tr_gr">Goethe (ink red/brown - greek)</handNote>
+            <handNote xml:id="g_bl">Goethe (pencil - Schrift)</handNote>
+            <handNote xml:id="g_bl_lat">Goethe (pencil - latin)</handNote>
+            <handNote xml:id="g_bl_gr">Goethe (pencil - greek)</handNote>
+            <handNote xml:id="g_ro">Goethe (ruddle - Schrift)</handNote>
+            <handNote xml:id="g_ro_lat">Goethe (ruddle - latin)</handNote>
+            <handNote xml:id="g_ro_gr">Goethe (ruddle - greek)</handNote>
+            <handNote xml:id="g_ko">Goethe (charcoal - Schrift)</handNote>
+            <handNote xml:id="g_ko_lat">Goethe (charcoal - latin)</handNote>
+            <handNote xml:id="g_ko_gr">Goethe (charcoal - greek)</handNote>
+            <handNote xml:id="g-o-ri_bl">Goethe oder Riemer (pencil – Schrift)</handNote>
+            <handNote xml:id="g-o-ri_bl_lat">Goethe oder Riemer (pencil – latin)</handNote>
+            <handNote xml:id="aj_t">Anna Jameson (ink - Schrift)</handNote>
+            <handNote xml:id="aj_t_lat">Anna Jameson (ink - latin)</handNote>
+            <handNote xml:id="ec_t">Eckermann (ink - Schrift)</handNote>
+            <handNote xml:id="ec_t_lat">Eckermann (ink - latin)</handNote>
+            <handNote xml:id="ec_t_gr">Eckermann (ink - greek)</handNote>
+            <handNote xml:id="ec_tr">Eckermann (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="ec_tr_lat">Eckermann (ink red/brown - latin)</handNote>
+            <handNote xml:id="ec_tr_gr">Eckermann (ink red/brown - greek)</handNote>
+            <handNote xml:id="ec_bl">Eckermann (pencil - Schrift)</handNote>
+            <handNote xml:id="ec_bl_lat">Eckermann (pencil - latin)</handNote>
+            <handNote xml:id="ec_bl_gr">Eckermann (pencil - greek)</handNote>
+            <handNote xml:id="f_t">Färber (ink - Schrift)</handNote>
+            <handNote xml:id="f_t_lat">Färber (ink - latin)</handNote>
+            <handNote xml:id="gt_t">Geist (ink - Schrift)</handNote>
+            <handNote xml:id="gt_t_lat">Geist (ink - latin)</handNote>
+            <handNote xml:id="gt_t_gr">Geist (ink - greek)</handNote>
+            <handNote xml:id="gt_tr">Geist (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="gt_tr_lat">Geist (ink red/brown - latin)</handNote>
+            <handNote xml:id="gt_tr_gr">Geist (ink red/brown - greek)</handNote>
+            <handNote xml:id="gt_bl">Geist (pencil - Schrift)</handNote>
+            <handNote xml:id="gt_bl_lat">Geist (pencil - latin)</handNote>
+            <handNote xml:id="gt_bl_gr">Geist (pencil - greek)</handNote>
+            <handNote xml:id="gh_t">Goechhausen (ink - Schrift)</handNote>
+            <handNote xml:id="gh_t_lat">Goechhausen (ink - latin)</handNote>
+            <handNote xml:id="gh_t_gr">Goechhausen (ink - greek)</handNote>
+            <handNote xml:id="gh_tr">Goechhausen (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="gh_tr_lat">Goechhausen (ink red/brown - latin)</handNote>
+            <handNote xml:id="gh_tr_gr">Goechhausen (ink red/brown - greek)</handNote>
+            <handNote xml:id="gh_bl">Goechhausen (pencil - Schrift)</handNote>
+            <handNote xml:id="gh_bl_lat">Goechhausen (pencil - latin)</handNote>
+            <handNote xml:id="gh_bl_gr">Goechhausen (pencil - greek)</handNote>
+            <handNote xml:id="go_t">Goettling (ink - Schrift)</handNote>
+            <handNote xml:id="go_t_lat">Goettling (ink - latin)</handNote>
+            <handNote xml:id="go_t_gr">Goettling (ink - greek)</handNote>
+            <handNote xml:id="go_tr">Goettling (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="go_tr_lat">Goettling (ink red/brown - latin)</handNote>
+            <handNote xml:id="go_tr_gr">Goettling (ink red/brown - greek)</handNote>
+            <handNote xml:id="go_bl">Goettling (pencil - Schrift)</handNote>
+            <handNote xml:id="go_bl_lat">Goettling (pencil - latin)</handNote>
+            <handNote xml:id="go_bl_gr">Goettling (pencil - greek)</handNote>
+            <handNote xml:id="hd_t">Herder (ink - Schrift)</handNote>
+            <handNote xml:id="hd_t_lat">Herder (ink - latin)</handNote>
+            <handNote xml:id="hd_tr">Herder (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="hd_tr_lat">Herder (ink red/brown - latin)</handNote>
+            <handNote xml:id="jo">John (ohne Schreibmaterial)</handNote>
+            <handNote xml:id="jo_t">John (ink - Schrift)</handNote>
+            <handNote xml:id="jo_t_lat">John (ink - latin)</handNote>
+            <handNote xml:id="kr_t">Kräuter (ink - Schrift)</handNote>
+            <handNote xml:id="kr_t_lat">Kräuter (ink - latin)</handNote>
+            <handNote xml:id="kr_t_gr">Kräuter (ink - greek)</handNote>
+            <handNote xml:id="kr_tr">Kräuter (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="kr_tr_lat">Kräuter (ink red/brown - latin)</handNote>
+            <handNote xml:id="kr_tr_gr">Kräuter (ink red/brown - greek)</handNote>
+            <handNote xml:id="kr_bl">Kräuter (pencil - Schrift)</handNote>
+            <handNote xml:id="kr_bl_lat">Kräuter (pencil - latin)</handNote>
+            <handNote xml:id="kr_bl_gr">Kräuter (pencil - greek)</handNote>
+            <handNote xml:id="m_t">Müller (ink - Schrift)</handNote>
+            <handNote xml:id="m_t_lat">Müller (ink - latin)</handNote>
+            <handNote xml:id="m_t_gr">Müller (ink - greek)</handNote>
+            <handNote xml:id="m_tr">Müller (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="m_tr_lat">Müller (ink red/brown - latin)</handNote>
+            <handNote xml:id="m_tr_gr">Müller (ink red/brown - greek)</handNote>
+            <handNote xml:id="m_bl">Müller (pencil - Schrift)</handNote>
+            <handNote xml:id="m_bl_lat">Müller (pencil - latin)</handNote>
+            <handNote xml:id="m_bl_gr">Müller (pencil - greek)</handNote>
+            <handNote xml:id="ovg_t">Ottilie von Goethe (ink - Schrift)</handNote>
+            <handNote xml:id="ovg_t_lat">Ottilie von Goethe (ink - latin)</handNote>
+            <handNote xml:id="re_bl">Reichel (pencil - Schrift)</handNote>
+            <handNote xml:id="re_bl_lat">Reichel (pencil - latin)</handNote>
+            <handNote xml:id="re_ro">Reichel (ruddle - Schrift)</handNote>
+            <handNote xml:id="re_ro_lat">Reichel (ruddle - latin)</handNote>
+            <handNote xml:id="re_t">Reichel (ink - Schrift)</handNote>
+            <handNote xml:id="re_t_lat">Reichel (ink - latin)</handNote>
+            <handNote xml:id="ri">Riemer (ohne Schreibmaterial)</handNote>
+            <handNote xml:id="ri_t">Riemer (ink - Schrift)</handNote>
+            <handNote xml:id="ri_t_lat">Riemer (ink - latin)</handNote>
+            <handNote xml:id="ri_t_gr">Riemer (ink - greek)</handNote>
+            <handNote xml:id="ri_tr">Riemer (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="ri_tr_lat">Riemer (ink red/brown - latin)</handNote>
+            <handNote xml:id="ri_tr_gr">Riemer (ink red/brown - greek)</handNote>
+            <handNote xml:id="ri_bl">Riemer (pencil - Schrift)</handNote>
+            <handNote xml:id="ri_bl_lat">Riemer (pencil - latin)</handNote>
+            <handNote xml:id="ri_bl_gr">Riemer (pencil - greek)</handNote>
+            <handNote xml:id="ri_ro">Riemer (ruddle - Schrift)</handNote>
+            <handNote xml:id="ri_ro_lat">Riemer (ruddle - latin)</handNote>
+            <handNote xml:id="st_t">Schuchardt (ink - Schrift)</handNote>
+            <handNote xml:id="st_t_lat">Schuchardt (ink - latin)</handNote>
+            <handNote xml:id="st_t_gr">Schuchardt (ink - greek)</handNote>
+            <handNote xml:id="st_tr">Schuchardt (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="st_tr_lat">Schuchardt (ink red/brown - latin)</handNote>
+            <handNote xml:id="st_tr_gr">Schuchardt (ink red/brown - greek)</handNote>
+            <handNote xml:id="st_bl">Schuchardt (pencil - Schrift)</handNote>
+            <handNote xml:id="st_bl_lat">Schuchardt (pencil - latin)</handNote>
+            <handNote xml:id="st_bl_gr">Schuchardt (pencil - greek)</handNote>
+            <handNote xml:id="sd_t">Seidler (ink - Schrift)</handNote>
+            <handNote xml:id="sd_t_lat">Seidler (ink - latin)</handNote>
+            <handNote xml:id="so_t">Soret (ink - Schrift)</handNote>
+            <handNote xml:id="so_t_lat">Soret (ink - latin)</handNote>
+            <handNote xml:id="sp_t">Spiegel (ink - Schrift)</handNote>
+            <handNote xml:id="sp_t_lat">Spiegel (ink - latin)</handNote>
+            <handNote xml:id="sta_t">Stadelmann (ink - Schrift)</handNote>
+            <handNote xml:id="sta_t_lat">Stadelmann (ink - latin)</handNote>
+            <handNote xml:id="sta_t_gr">Stadelmann (ink - greek)</handNote>
+            <handNote xml:id="sta_tr">Stadelmann (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="sta_tr_lat">Stadelmann (ink red/brown - latin)</handNote>
+            <handNote xml:id="sta_tr_gr">Stadelmann (ink red/brown - greek)</handNote>
+            <handNote xml:id="sta_bl">Stadelmann (pencil - Schrift)</handNote>
+            <handNote xml:id="sta_bl_lat">Stadelmann (pencil - latin)</handNote>
+            <handNote xml:id="sta_bl_gr">Stadelmann (pencil - greek)</handNote>
+            <handNote xml:id="sti_t">Stieler (ink - Schrift)</handNote>
+            <handNote xml:id="sti_t_lat">Stieler (ink - latin</handNote>
+            <handNote xml:id="ve_t">Varnhagen von Ense (ink – Schrift)</handNote>
+            <handNote xml:id="v_t">Helene Vulpius (ink - Schrift)</handNote>
+            <handNote xml:id="v_t_lat">Helene Vulpius (ink - latin)</handNote>
+            <handNote xml:id="v_t_gr">Helene Vulpius (ink - greek)</handNote>
+            <handNote xml:id="v_tr">Helene Vulpius (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="v_tr_lat">Helene Vulpius (ink red/brown - latin)</handNote>
+            <handNote xml:id="v_tr_gr">Helene Vulpius (ink red/brown - greek)</handNote>
+            <handNote xml:id="v_bl">Helene Vulpius (pencil - Schrift)</handNote>
+            <handNote xml:id="v_bl_lat">Helene Vulpius (pencil - latin)</handNote>
+            <handNote xml:id="v_bl_gr">Helene Vulpius (pencil - greek)</handNote>
+            <handNote xml:id="we_t">Weller (ink - Schrift)</handNote>
+            <handNote xml:id="we_t_lat">Weller (ink - latin)</handNote>
+            <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne (ink -
+               Schrift)</handNote>
+            <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne
+               (ink - latin)</handNote>
+            <handNote xml:id="wo_t">Pius Alexander Wolff (ink - Schrift)</handNote>
+            <handNote xml:id="wo_t_lat">Pius Alexander Wolff (ink - latin)</handNote>
+            <handNote xml:id="wo_t_gr">Pius Alexander Wolff (ink - greek)</handNote>
+            <handNote xml:id="wo_tr">Pius Alexander Wolff (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="wo_tr_lat">Pius Alexander Wolff (ink red/brown - latin)</handNote>
+            <handNote xml:id="wo_tr_gr">Pius Alexander Wolff (ink red/brown - greek)</handNote>
+            <handNote xml:id="wo_bl">Pius Alexander Wolff (pencil - Schrift)</handNote>
+            <handNote xml:id="wo_bl_lat">Pius Alexander Wolff (pencil - latin)</handNote>
+            <handNote xml:id="wo_bl_gr">Pius Alexander Wolff (pencil - greek)</handNote>
+            <handNote xml:id="avg_t">August von Goethe (ink - Schrift)</handNote>
+            <handNote xml:id="avg_t_lat">August von Goethe (ink - latin)</handNote>
+            <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink - Schrift)</handNote>
+            <handNote xml:id="wvg_t">Wolfgang von Goethe (ink - Schrift)</handNote>
+            <handNote xml:id="wvg_bl">Wolfgang von Goethe (pencil - Schrift)</handNote>
+            <handNote xml:id="sc">Schreiberhand (ohne Schreibmaterial)</handNote>
+            <handNote xml:id="sc_bl">Schreiberhand (pencil - Schrift)</handNote>
+            <handNote xml:id="sc_bl_lat">Schreiberhand (pencil - latin)</handNote>
+            <handNote xml:id="sc_blau">Schreiberhand (blue pencil - Schrift)</handNote>
+            <handNote xml:id="sc_ro">Schreiberhand (ruddle - Schrift)</handNote>
+            <handNote xml:id="sc_ro_lat">Schreiberhand (ruddle - latin)</handNote>
+            <handNote xml:id="sc_t">Schreiberhand (ink - Schrift)</handNote>
+            <handNote xml:id="sc_t_lat">Schreiberhand (ink - latin)</handNote>
+            <handNote xml:id="sc_tr">Schreiberhand (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="sc_tr_lat">Schreiberhand (ink red/brown - latin)</handNote>
+            <handNote xml:id="zs_t">Zeitgenössische Schrift (ink - Schrift)</handNote>
+            <handNote xml:id="zs_t_lat">Zeitgenössische Schrift (ink - latin)</handNote>
+            <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown - latin)</handNote>
+            <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown - greek)</handNote>
+            <handNote xml:id="zs_bl">Zeitgenössische Schrift (pencil - Schrift)</handNote>
+            <handNote xml:id="zs_bl_lat">Zeitgenössische Schrift (pencil - latin)</handNote>
+            <handNote xml:id="zs_bl_gr">Zeitgenössische Schrift (pencil - greek)</handNote>
+            <handNote xml:id="zs_ro">Zeitgenössische Schrift (ruddle - Schrift)</handNote>
+            <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil - Schrift)</handNote>
+            <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil - latin)</handNote>
+            <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil - greek)</handNote>
+            <handNote xml:id="xx_t">Fremde Hand #1 (ink - Schrift)</handNote>
+            <handNote xml:id="xx_t_lat">Fremde Hand #1 (ink - latin)</handNote>
+            <handNote xml:id="xx_t_gr">Fremde Hand #1 (ink - greek)</handNote>
+            <handNote xml:id="xx_tr">Fremde Hand #1 (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="xx_tr_lat">Fremde Hand #1 (ink red/brown - latin)</handNote>
+            <handNote xml:id="xx_tr_gr">Fremde Hand #1 (ink red/brown - greek)</handNote>
+            <handNote xml:id="xx_bl">Fremde Hand #1 (pencil - Schrift)</handNote>
+            <handNote xml:id="xx_bl_lat">Fremde Hand #1 (pencil - latin)</handNote>
+            <handNote xml:id="xx_bl_gr">Fremde Hand #1 (pencil - greek)</handNote>
+            <handNote xml:id="xx_blau">Fremde Hand #1 (blue pencil - Schrift)</handNote>
+            <handNote xml:id="xx_blau_lat">Fremde Hand #1 (blue pencil - latin)</handNote>
+            <handNote xml:id="xx_blau_gr">Fremde Hand #1 (blue pencil - greek)</handNote>
+            <handNote xml:id="xx_ro">Fremde Hand #1 (ruddle - Schrift)</handNote>
+            <handNote xml:id="xx_ro_lat">Fremde Hand #1 (ruddle - latin)</handNote>
+            <handNote xml:id="xy_t">Fremde Hand #2 (ink - Schrift)</handNote>
+            <handNote xml:id="xy_t_lat">Fremde Hand #2 (ink - latin)</handNote>
+            <handNote xml:id="xy_t_gr">Fremde Hand #2 (ink - greek)</handNote>
+            <handNote xml:id="xy_tr">Fremde Hand #2 (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="xy_tr_lat">Fremde Hand #2 (ink red/brown - latin)</handNote>
+            <handNote xml:id="xy_tr_gr">Fremde Hand #2 (ink red/brown - greek)</handNote>
+            <handNote xml:id="xy_bl">Fremde Hand #2 (pencil - Schrift)</handNote>
+            <handNote xml:id="xy_bl_lat">Fremde Hand #2 (pencil - latin)</handNote>
+            <handNote xml:id="xy_bl_gr">Fremde Hand #2 (pencil - greek)</handNote>
+            <handNote xml:id="xy_blau">Fremde Hand #2 (blue pencil - Schrift)</handNote>
+            <handNote xml:id="xy_blau_lat">Fremde Hand #2 (blue pencil - latin)</handNote>
+            <handNote xml:id="xy_blau_gr">Fremde Hand #2 (blue pencil - greek)</handNote>
+            <handNote xml:id="xz_t">Fremde Hand #3 (ink - Schrift)</handNote>
+            <handNote xml:id="xz_t_lat">Fremde Hand #3 (ink - latin)</handNote>
+            <handNote xml:id="xz_t_gr">Fremde Hand #3 (ink - greek)</handNote>
+            <handNote xml:id="xz_tr">Fremde Hand #3 (ink red/brown - Schrift)</handNote>
+            <handNote xml:id="xz_tr_lat">Fremde Hand #3 (ink red/brown - latin)</handNote>
+            <handNote xml:id="xz_tr_gr">Fremde Hand #3 (ink red/brown - greek)</handNote>
+            <handNote xml:id="xz_bl">Fremde Hand #3 (pencil - Schrift)</handNote>
+            <handNote xml:id="xz_bl_lat">Fremde Hand #3 (pencil - latin)</handNote>
+            <handNote xml:id="xz_bl_gr">Fremde Hand #3 (pencil - greek)</handNote>
+            <handNote xml:id="xz_blau">Fremde Hand #3 (blue pencil - Schrift)</handNote>
+            <handNote xml:id="xz_blau_lat">Fremde Hand #3 (blue pencil - latin)</handNote>
+            <handNote xml:id="xz_blau_gr">Fremde Hand #3 (blue pencil - greek)</handNote>
+         </handNotes>
+      </profileDesc>
+      <encodingDesc>
+         <charDecl>
+            <char xml:id="g_transp_1">
+               <charName>TRANSPOSITION SIGN 1</charName>
+               <desc>„Einweisungzeichen“ mit einem nach rechts weisendem Querbalken.</desc>
+               <mapping type="Unicode"/>
+            </char>
+            <char xml:id="g_transp_2">
+               <charName>TRANSPOSITION SIGN 2</charName>
+               <desc>„Einweisungzeichen“ mit zwei nach rechts weisendem Querbalken.</desc>
+               <mapping type="Unicode"/>
+            </char>
+            <char xml:id="g_transp_3">
+               <charName>TRANSPOSITION SIGN 3</charName>
+               <desc>Geschwungenes „Einweisungzeichen“.</desc>
+               <mapping type="Unicode"/>
+            </char>
+            <char xml:id="g_transp_4">
+               <charName>TRANSPOSITION SIGN 4</charName>
+               <desc>Griechisches Kreuz (gleichschenklig und auf einer Spitze stehend).</desc>
+               <mapping type="Unicode"/>
+            </char>
+            <char xml:id="g_transp_5">
+               <charName>TRANSPOSITION SIGN 5</charName>
+               <desc>Häkchen, ähnelt Einfügungslinie</desc>
+               <mapping type="Unicode"/>
+            </char>
+            <char xml:id="g_transp_6">
+               <charName>TRANSPOSITION SIGN 5</charName>
+               <desc>rautenförmiges „Einweisungzeichen“</desc>
+               <mapping type="Unicode"/>
+            </char>
+            <char xml:id="g_break">
+               <charName>TEXT BREAK</charName>
+               <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn
+                  eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt begann</desc>
+               <mapping type="Unicode">[</mapping>
+            </char>
+            <char xml:id="parenthesis_left">
+               <charName>LEFT PARENTHESIS</charName>
+               <desc>In 18th century there were different ways to represent parentheses in
+                  handwritten documents. Then the token most often used (default symbol) was a
+                  vertical stroke combined with a colon. We want to be able to differentiate between
+                  this default representation, which we encode as normal parenthesis characters, and
+                  the very (same) characters, that are used today, and that also appear in documents
+                  of that time. Therefore we encode the contemporary representation of parantheses,
+                  if encountered in handwritten documents, as glyphs.</desc>
+               <mapping type="Unicode">(</mapping>
+            </char>
+            <char xml:id="parenthesis_right">
+               <charName>RIGHT PARENTHESIS</charName>
+               <desc>See the description of LEFT PARANTHESIS.</desc>
+               <mapping type="Unicode">)</mapping>
+            </char>
+            <char xml:id="truncation">
+               <charName>TRUNCATION SIGN</charName>
+               <desc>The suspension/truncation sign, in German known as “Abbrechungszeichen”.</desc>
+               <mapping type="Unicode">.</mapping>
+            </char>
+         </charDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2010-06-21" who="henzel">Kodierung abgeschlossen</change>
+         <change when="2010-06-21" who="henzel">encoded</change>
+         <change when="2011-01-19" who="system">whitespace-restored</change>
+         <change when="2014-09-05" who="kockel">Zählung des Nebentextes abgeschlossen</change>
+         <change when="2015-04-20" who="kockel">pb eingetragen</change>
+         <change when="2015-07-17" who="bruening">addSpan und delSpan-match aufgelöst</change>
+         <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+         <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="2"/>
+         <div>
+            <head n="before_11143_a"><del f:revType="soon-or-late" change="#change_1">Rückſeite
+                  des</del> Pallaſt<del f:revType="soon-or-late" change="#change_1">s nach
+                  dem</del> weite<subst f:revType="soon-or-late" change="#change_1">
+                  <del>n</del>
+                  <add>r</add>
+               </subst> Ziergar<subst f:revType="instant-or-soon" f:correction="true">
+                  <del>d</del>
+                  <add>t</add>
+               </subst>en <del f:revType="soon-or-late" change="#change_1">hin, und dem</del>
+                  große<subst f:revType="soon-or-late" change="#change_1">
+                  <del>n</del>
+                  <add>r</add>
+               </subst>, gradgeführte<subst f:revType="soon-or-late" change="#change_1">
+                  <del>n</del>
+                  <add>r</add>
+               </subst> Canal.</head>
+            <stage n="before_11143_b"><hi>Fauſt</hi> (<del f:revType="instant">wandelnd</del> im
+               höchſten Alter wandelnd, nachdenckend)</stage>
+            <sp>
+               <speaker n="before_11143_c">Der Thürmer</speaker>
+               <stage n="before_11143_d">(durchs Sprachrohr)</stage>
+               <l n="11143">Die Sonne ſinckt die <subst f:revType="instant">
+                     <del>E</del>
+                     <add>l</add>
+                  </subst>etzten Schiffe</l>
+               <l n="11144">Sie ziehen munter hafenein.</l>
+               <l n="11145">Ein großer Kahn iſt im Begriffe</l>
+               <l n="11146">Auf dem Canale hier zu ſeyn.</l>
+               <l n="11147">Die Bunten Wimpel wehen fröhlich,</l>
+               <l n="11148">Die ſtarren Maſten ſtehn <subst f:revType="instant">
+                     <del><gap quantity="1" unit="chars"/></del>
+                     <add>b</add>
+                  </subst>ereit</l>
+               <l n="11149">In dir preist ſich der Bootsmann ſelig,</l>
+               <l n="11150">Dich grüßt das Glück <subst f:revType="uncertain">
+                     <del><unclear cert="high">d</unclear></del>
+                     <add>z</add>
+                  </subst>ur höchſten Zeit.</l>
+            </sp>
+            <stage n="before_11151_a">(Das Gl<orig>o</orig>ckchen läutet auf der Düne)</stage>
+            <sp>
+               <speaker n="before_11151_b">Fauſt</speaker>
+               <stage n="before_11151_c">(auffahrend)</stage>
+               <l n="11151">Verdammtes Läuten! <subst>
+                     <del>Wie ſo</del>
+                     <add>Allzu</add>
+                  </subst> ſchändlich</l>
+               <l n="11152">Verwundets, wie ein tückiſcher Schuß,</l>
+               <l n="11153">Vor Augen iſt mein Reich unendlich,</l>
+               <l n="11154">Im Rücken neckt mich der Verdruß,</l>
+               <l n="11155">Erinnert mich durch <subst f:revType="soon">
+                     <del>neidiſches L<orig>a</orig>uten</del>
+                     <add>neidiſche Laute</add>
+                  </subst></l>
+               <l n="11156"><del change="#change_3">Läuten</del><del f:revType="aborted" change="#change_3">:</del><subst change="#change_3">
+                     <del>m</del>
+                     <add>M</add>
+                  </subst>ein Hochbeſiz er iſt nicht rein</l>
+               <l n="11157">Der Lindenraum, <subst>
+                     <del>ein</del>
+                     <add>die</add>
+                  </subst> braune Baute,</l>
+               <l n="11158">Das morſche Kirchlein iſt nicht mein.</l>
+               <l n="11159">Und wünſcht ich dort mich zu erholen;</l>
+               <l n="11160">Vor fremdem Schatten ſchaudert mir<subst>
+                     <del>.</del>
+                     <add>,</add>
+                  </subst></l>
+               <l n="11161">Iſt Dorn den Augen, Dorn den Solen,</l>
+               <l n="11162">O! wär ich weit hinweg von Hier!</l>
+            </sp>
+            <pb n="3"/>
+            <sp>
+               <speaker n="before_11163_a">Thürner</speaker>
+               <stage n="before_11163_b">(wie oben)</stage>
+               <l n="11163">Wie ſegelt froh der bunte Kahn,</l>
+               <l n="11164">Mit friſchem Abendwind heran!</l>
+               <l n="11165">Wie thürmt ſich ſein behender Lauf</l>
+               <l n="11166">In Kiſten, Kaſten, Säcken auf!</l>
+            </sp>
+            <stage n="before_11167_a">Prächtiger Kahn, reich und bunt beladen mit Erzeugniſſen
+               fremder Weltgegenden.</stage>
+            <stage n="before_11167_b"><abbr>Meph.</abbr> Die drey Gewaltigen.</stage>
+            <sp>
+               <speaker n="before_11167_c">Chorus.</speaker>
+               <l n="11167">Da landen wir</l>
+               <l n="11168">Da ſind wir ſchon</l>
+               <l n="11169">Glück an! dem Herren,</l>
+               <l n="11170"><del f:revType="instant">P</del> Dem Patron.</l>
+            </sp>
+            <stage n="after_11170">(Sie ſteigen <add f:revType="soon-or-late">aus</add> die Güter
+               werden an’s Land geſchafft)</stage>
+            <sp>
+               <speaker n="before_11171">
+                  <abbr>Meph.</abbr>
+               </speaker>
+               <l n="11171">So haben wir uns wohl erprobt,</l>
+               <l n="11172">Vergnügt wenn der Patron es lobt.</l>
+               <l n="11173"><del f:revType="instant">Mit</del> Nur mit zwey Schiffen ging es
+                  fort,</l>
+               <l n="11174">Mit zwanzig ſind wir nun im Port.</l>
+               <l n="11175">Was <del f:revType="instant">wir</del> große Dinge wir gethan</l>
+               <l n="11176">Das ſieht man unſrer Ladung an.</l>
+               <l n="11177">Das freye Meer befreyt den Geiſt,</l>
+               <l n="11178">Wer weis da was Beſinnen heist!</l>
+               <l n="11179">Da fördert nur ein raſcher Griff,</l>
+               <l n="11180">Man fängt den Fiſch, man fängt ein Schiff,</l>
+               <l n="11181">Und iſt man erſt der Herr zu drey,</l>
+               <l n="11182">Dann Hackelt man das vierte bey.</l>
+               <l n="11183">Darauf geht es dem fünften ſchlecht</l>
+               <l n="11184">Man hat Gewalt ſo hat man recht.</l>
+            </sp>
+            <pb n="4"/>
+            <sp>
+               <delSpan f:revType="soon-or-late" spanTo="#delSpan_l11184"/>
+               <speaker n="before_11171">
+                  <abbr>Mephiſto.</abbr>
+                  <anchor xml:id="delSpan_l11184"/>
+               </speaker>
+               <l n="11185">Man fragt um’s Was?, und nicht um’s Wie?</l>
+               <l n="11186">Ich müßte keine Schifffarth kennen.</l>
+               <l n="11187">Krieg, Handel und Piraterie,</l>
+               <l n="11188">Dreyeinig ſind ſie, nicht zu trennen.</l>
+            </sp>
+            <sp>
+               <speaker n="before_11189">Die drey Gewaltigen</speaker>
+               <lg>
+                  <l n="11189">Nicht Danck und Gruß!</l>
+                  <l n="11190">Nicht Gruß und Danck!</l>
+                  <l n="11191">Als brächten wir</l>
+                  <l n="11192">Dem Herrn Geſtanck.</l>
+                  <l n="11193">Er <del f:revType="instant">w</del> macht ein <del f:revType="soon" change="#change_4">wie</del></l>
+                  <l n="11194"><subst change="#change_4" f:revType="soon">
+                        <del>derlich</del>
+                        <add>Widerlich</add>
+                     </subst> Geſicht,</l>
+                  <l n="11195">Das Königsgut <del f:revType="instant">gefällt ihm nicht.</del> 
+                     <del change="#change_6">ge</del></l>
+                  <l n="11196"><subst change="#change_6">
+                        <del>fällt</del>
+                        <add>Gefällt</add>
+                     </subst> ihm nicht.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker n="before_11197">
+                  <abbr>Meph.</abbr>
+               </speaker>
+               <lg>
+                  <l n="11197">Erwartet weiter</l>
+                  <l n="11198">Keinen Lohn,</l>
+                  <l n="11199">Nahmt ihr doch <del f:revType="soon" change="#change_9">Eu-</del></l>
+                  <l n="11200"><subst f:revType="soon" change="#change_9">
+                     <del>ren</del>
+                     <add>Euren</add></subst> Theil davon.</l>
+                  <l n="11205">Nun ordenet oben</l>
+                  <l n="11206">Saal an Saal</l>
+                  <l n="11207">Die Koſtbarkeiten</l>
+                  <l n="11208">Allzumal.</l>
+                  <l n="11209">Un<subst f:revType="instant">
+                        <del>t</del>
+                        <add>d</add>
+                     </subst> tritt er zu</l>
+                  <l n="11210">Der reichen Schau,</l>
+                  <l n="11211">Berechnet alles</l>
+                  <l n="11212">Mehr genau.</l>
+                  <l n="11213">Er ſich gewiß</l>
+                  <l n="11214">Nicht lumpen l<orig>a</orig>ßt.</l>
+                  <l n="11215">Und giebt der Flotte</l>
+                  <l n="11216">Feſt nach Feſt.</l>
+                  <l n="11217">
+                     <del f:revType="instant">Die b</del>
+                  </l>
+                  <!-- ab hier folgende Bleistiftschicht noch transkribieren, wenn Abweichungen vorhanden sein sollten -->
+                  <addSpan f:revType="soon-or-late" spanTo="#addSpan_l11217"/>
+                  <l n="11217"><del>Und <unclear cert="high">ſie</unclear></del> Die bunten Vögel
+                     kommen morgen</l>
+                  <!-- <- gehört zu ersten Niederschrift -->
+                  <l n="11218">Für die werd ich zum beſten ſorgen.</l>
+                  <!-- <- gehört zu ersten Niederschrift -->
+               </lg>
+               <stage n="after_11218">(Die Ladung wird <subst>
+                     <del><gap quantity="7" unit="chars" precision="medium"/></del>
+                     <add>weggeſchafft</add>
+                  </subst>)</stage>
+               <anchor xml:id="addSpan_l11217"/>
+               <!-- TODO Schreibphasen -->
+            </sp>
+            <!-- beide speeches gehören zusammen! TODO müssen mit Metamarkup verbunden werden (denn nur der folgende speaker wird gelöscht) -->
+            <pb n="7"/>
+            <sp>
+               <addSpan f:revType="late" change="#change_11" spanTo="#addSpan_l11218"/>
+               <speaker n="before_11219_a">
+                  <abbr>Mephiſto.</abbr>
+               </speaker>
+               <stage n="before_11219_b">
+                  <add f:revType="late">(zu Fauſt)</add>
+                  <anchor xml:id="addSpan_l11218"/>
+               </stage>
+               <delSpan f:revType="late" change="#change_11" spanTo="#delSpan_l11246"/>
+               <space unit="lines" quantity="8"/>
+               <l n="11243">Ich wollte, frey umher zu ſchauen,</l>
+               <l n="11244">Ein Lug-‿in’s-Land, ein Höchſtes bauen,</l>
+               <l n="11245">Dadroben hätt’ ich weite Bahn</l>
+               <l n="11246">Zu ſehn was alles ich gethan<anchor xml:id="delSpan_l11246"/></l>
+               <!-- pb -->
+               <addSpan f:revType="late" change="#change_11" spanTo="#addSpan_l11246"/>
+               <l n="11219">Mit ernſter Stirn, mit düſtrem Blick,</l>
+               <l n="11220">Vernimmſt du dein erhaben Glück.</l>
+               <l n="11221">Die hohe Weisheit wird gekrönt,</l>
+               <l n="11222">Das Ufer iſt dem Meer verſöhnt,</l>
+               <l n="11223">Vom Ufer nimmt, zu raſcher Bahn,</l>
+               <l n="11224">Das Meer die Schiffe willig an;</l>
+               <l n="11225">So ſprich daß hier, <subst f:revType="soon-or-late">
+                     <del>du</del>
+                     <add>hier</add>
+                  </subst> vom Pallaſt</l>
+               <l n="11226">Dein Arm die ganze Welt umfaßt.</l>
+               <l n="11227">Von dieſer Stelle ging es aus,</l>
+               <l n="11228">Hier ſtand das erſte Breter Haus,</l>
+               <l n="11229">Ein Gräbchen ward hinab geri<add f:revType="soon">t</add>zt</l>
+               <l n="11230">Wo jetzt das Ruder emſig ſpritzt.</l>
+               <l n="11231">Dein hoher Sinn, der Deinen Fleiß,</l>
+               <l n="11232">Erwarb des Meers der Erde Preiß</l>
+               <l n="11233" xml:id="l11233a">Von hier<subst f:revType="instant-or-soon" change="#change_10">
+                     <del>!</del>
+                     <add>aus –</add>
+                  </subst></l>
+            </sp>
+            <sp>
+               <speaker n="before_11233f">Fauſt</speaker>
+               <l n="11233" xml:id="l11233b"><subst change="#change_10">
+                     <del>Mit dem verfluchten <emph>Hier</emph>!</del>
+                     <add>Das verfluchte <emph>Hier</emph>!</add>
+                  </subst></l>
+               <join target="#l11233a #l11233b" type="antilabe"/>
+               <l n="11234">Das eben leidig laſtets mir.</l>
+               <l n="11235">Dir <subst f:revType="soon-or-late">
+                     <del>altgewandtem</del>
+                     <add><subst>
+                           <del>v</del>
+                           <add>V</add>
+                        </subst>ielgewandtem</add>
+                  </subst> muß ich’s ſagen</l>
+               <l n="11236">Mir giebts im Herzen Stich um Stich.</l>
+               <l n="11237">Mir iſt’s unm<orig>o</orig>glich zu ertragen!</l>
+               <l n="11238">Und wie ich’s ſage ſchäm ich mich.</l>
+               <l n="11239">Die Alten droben ſollten weichen,</l>
+               <l n="11240">Die Linden wünſcht ich mir zum Sitz,</l>
+               <l n="11241">Die wenig Bäume, nicht mein eigen,</l>
+               <l n="11242">Verderben mir <subst f:revType="soon-or-late">
+                     <del>der Welt Beſitz</del>
+                     <add>den Welt Beſitz</add>
+                  </subst>.</l>
+               <l n="11243">Dort wollt ich, weit umher zu ſchauen,</l>
+               <l n="11244">Von Aſt zu Aſt Gerüſte bauen,</l>
+               <l n="11245">Dem Blick eröffnen weite Bahn,</l>
+               <l n="11246">Zu ſehn was alles ich gethan.<anchor xml:id="addSpan_l11246"/></l>
+               <l n="11247">Zu überſchaun, mit Einem Blick,</l>
+               <l n="11248">Des Menſchen-Geiſtes Meiſterſtück</l>
+               <l n="11249">Bethätigend, mit klugem Sinn,</l>
+               <l n="11250">Der Völker breiten Wohngewinn.</l>
+               <!-- Strophenumbruch eingefügt -->
+               <l n="11251">So ſind am Härtſten wir gequält</l>
+               <!-- Absatzzeichen beibehalten, umsetzen oder weglassen? -->
+               <l n="11252">Im Reichthum fühlend was uns fehlt.</l>
+               <l n="11253">Des Glöckchens Klang, der Linden Duft</l>
+               <l n="11254"><subst f:revType="late" change="#change_12">
+                     <del>Erdr<orig>u</orig>cken</del>
+                     <add>Umfängt</add>
+                  </subst> mich wie <subst f:revType="late" change="#change_12">
+                     <del><subst>
+                           <del>in der</del>
+                           <add>in Kirch</add>
+                        </subst></del>
+                     <add> und</add>
+                  </subst> Gruft.</l>
+               <!-- TODO nochmal pruefen, ob Befund korrekt ausgewertet wurde -->
+               <l n="11255">Des allgewaltigen Willes Kühr</l>
+               <l n="11256">Bricht ſich an dieſem Sande Hier.</l>
+               <l n="11257">Ja! <subst f:revType="soon-or-late">
+                     <del>ſchaff</del>
+                     <add>ſchafft</add>
+                  </subst> ich mir es vom Gemüthe,</l>
+               <l n="11258">Das Glöcklein läutet und ich wüthe.</l>
+            </sp>
+            <sp>
+               <speaker n="before_11259">
+                  <abbr>Meph.</abbr>
+               </speaker>
+               <l n="11259"><subst f:revType="soon-or-late" change="#change_13">
+                     <del>Mich wundert nicht</del>
+                     <add>Natürlich!</add>
+                  </subst> daß <subst f:revType="soon-or-late" change="#change_13">
+                     <del>der Verdruß</del>
+                     <add>ein Hauptverdruß</add>
+                  </subst></l>
+               <l n="11260">Das Leben dir vergällen muß.</l>
+            </sp>
+            <pb n="8"/>
+            <!-- laut ES folgt zunächst die Rückseite des Blattes, laut Landeck die Vorderseite -->
+            <sp>
+               <speaker n="before_11275">Fauſt</speaker>
+               <l n="11275">So geht und ſchafft ſie mir zur Seite.</l>
+               <l n="11276">Das ſchöne Gütchen kennſt du ja,</l>
+               <l n="11277">Das ich den Alten auserſah.</l>
+            </sp>
+            <sp>
+               <speaker n="before_11278">
+                  <abbr>Meph.</abbr>
+               </speaker>
+               <l n="11278">Man trägt ſie fort und ſetzt ſie nieder,</l>
+               <l n="11279">Eh man ſich umſieht ſtehn ſie wieder,</l>
+               <l n="11280">Nach überſtandener Gewalt</l>
+               <l n="11281">Verſöhnt ein ſchöner Aufenthalt.</l>
+               <addSpan f:revType="late" spanTo="#addSpan_l11287_zuerst" xml:id="before_11286_b-11287"/>
+               <stage n="before_11286_b"><subst>
+                     <del>(bey Seite)</del>
+                     <add>(ad Spectatores)</add>
+                  </subst></stage>
+               <!-- stage tatsächlich add? Indiz: Einweisungszeichen beim Vers, nicht bei der stage -->
+               <l n="11286">Auch hier geſchieht was längſt geſchah,</l>
+               <l n="11287">Denn Nabots Weinberg war ſchon da.</l>
+               <anchor xml:id="addSpan_l11287_zuerst"/>
+               
+            </sp><stage n="before_11282_a">(er pfeift gellend)</stage>
+            <stage n="before_11282_b">Die Dreye treten auf.</stage>
+            <sp>
+               <speaker n="before_11282_c">
+                  <abbr>Meph.</abbr>
+               </speaker>
+               <l n="11282">Kommt! Wie der Herr gebieten läßt,</l>
+               <l n="11283">Und Morgen giebts ein Flottenfeſt.</l>
+               <anchor xml:id="after_11283"/>
+               
+            </sp><stage n="after_11285">(ab)</stage>
+            <!-- dieses und folgendes sp gehören zusammen! TODO über Metamarkup verbinden -->
+            <pb n="9"/>
+            <sp>
+               <speaker n="before_11259">
+                  <del f:revType="soon-or-late">
+                     <abbr>Mephiſto</abbr>
+                  </del>
+               </speaker>
+               <l n="11261"><subst f:revType="soon-or-late">
+                     <del>Ganz richtig</del>
+                     <add>Wer l<orig>a</orig>ugnets</add>
+                  </subst>! Jedem edlen Ohr</l>
+               <l n="11262">Kommt das Geklingel widrig vor.</l>
+               <l n="11263"><subst>
+                     <del><restore>Und</restore></del>
+                     <add><del>Denn</del></add>
+                  </subst> das verfluchte Bim Baum Bimmel</l>
+               <l n="11264">Umnebelt heitern <subst f:revType="late">
+                     <del>Tages Himmel</del>
+                     <add>Abendhimmel</add>
+                     <!-- „Abend“ wohl nur versehentlich (statt „Tages“) gestrichen  -->
+                  </subst>,</l>
+               <l n="11265">Miſcht ſich in jegliches Begebniß,</l>
+               <l n="11266">Vom erſten Baad bis zum Begräbniß,</l>
+               <l n="11267">Als wäre, zwiſchen Bim und Baum,</l>
+               <l n="11268">Das Leben ein verſchollner Traum.</l>
+            </sp>
+            <sp>
+               <speaker n="before_11269">Fauſt</speaker>
+               <l n="11269"><subst f:revType="soon-or-late" change="#change_15">
+                     <del>Der Widerſtand</del>
+                     <add>Das Widerſtehn</add>
+                  </subst>, der Eigenſinn</l>
+               <l n="11270">Verkümmern herrlichſten Gewinn,</l>
+               <l n="11271">Daß man, zu tiefer grimmiger Pein,</l>
+               <l n="11272">Ermüden muß gerecht zu ſeyn.</l>
+            </sp>
+            <sp>
+               <speaker n="before_11273">
+                  <abbr>Meph.</abbr>
+               </speaker>
+               <l n="11273">Was willſt du dich denn hier geniren,</l>
+               <l n="11274"><del f:revType="instant">W</del> Mußt du nicht längſt koloniſiren.</l>
+               <l n="11275">
+                  <del f:revType="instant">So</del>
+               </l>
+            </sp>
+            <sp>
+               <speaker n="before_11275">Fauſt</speaker>
+               <l n="11275">So geht <abbr>pp</abbr></l>
+               <!-- TODO Textabbruch kodieren -->
+            </sp>
+            <sp>
+               <l n="11273">Was willſt du dich denn hier genieren,</l>
+               <l n="11274">Mußt du nicht längſt coloniſiren.</l>
+            </sp>
+         </div>
+         <pb n="10"/>
+         <div n="2.5.3">
+            <head n="before_11288_a" type="scene">Tiefe Nacht</head>
+            <sp>
+               <speaker n="before_11288_b">Lynceus der Thürner</speaker>
+               <stage n="before_11288_c">auf der Schloßwarte. ſingend.</stage>
+               <lg>
+                  <l n="11288">Zum Sehen gebohren,</l>
+                  <l n="11289">Zum Schauen beſtellt,</l>
+                  <l n="11290">Dem Thurne geſchworen</l>
+                  <l n="11291">Gefällt mir die Welt.</l>
+                  <l n="11292">Ich blick in die Ferne,</l>
+                  <l n="11293">Ich ſeh in der Näh,</l>
+                  <l n="11294">Den Mond und die Sterne,</l>
+                  <l n="11295">Den Wald und das Reh.</l>
+                  <l n="11296">So ſeh ich in allen</l>
+                  <l n="11297">Die ewige Zier,</l>
+                  <l n="11298">Und wie mir’s gefallen</l>
+                  <l n="11299">Gefall ich auch mir.</l>
+                  <l n="11300">Ihr glücklichen Augen</l>
+                  <l n="11301">Was je ihr geſehn</l>
+                  <l n="11302">Es ſey wie es wolle</l>
+                  <l n="11303">Es war doch ſo ſchön.</l>
+               </lg>
+               <stage n="after_11303">
+                  <add f:revType="late">(Pauſe)</add>
+               </stage>
+               <l n="11304">Nicht allein mich zu ergötzen</l>
+               <l n="11305">Bin ich hier ſo hochgeſtellt<subst f:revType="late">
+                     <del>,</del>
+                     <add>;</add>
+                  </subst></l>
+               <!-- evt. eine change mit stage zuvor -->
+               <l n="11306">Welch ein gräuliches Entſetzen</l>
+               <l n="11307">Droht mir aus der finſtern Welt.</l>
+               <delSpan change="#change_editorial_1" spanTo="#delSpan_l11308" type="editorial"/>
+               <l n="11308">
+                  <subst f:revType="instant-or-soon">
+                     <del>Feuerblicke <abbr>pp</abbr></del>
+                     <add>Funckenblicke <abbr>pp</abbr></add>
+                  </subst>
+                  <anchor xml:id="delSpan_l11308"/>
+               </l>
+               <pb n="11"/>
+               <addSpan change="#change_editorial_1" spanTo="#addSpan_l11308" type="editorial"/>
+               <l n="11308"><subst f:revType="soon-or-late">
+                     <del>Feuer</del>
+                     <add>Funcken</add>
+                  </subst>blicke ſeh ich ſprühen<anchor xml:id="addSpan_l11308"/></l>
+               <l n="11309">Durch der Linden Doppelnacht,</l>
+               <l n="11310">Immer ſtärcker <subst f:revType="late">
+                     <del>ſcheints zu glühen</del>
+                     <add><subst>
+                           <del>glüht das</del>
+                           <add>wühlt ein</add>
+                        </subst> Glühen</add>
+                  </subst></l>
+               <l n="11311">Von der Zugluft angefacht.</l>
+               <l n="11312">Ach! die <subst f:revType="soon-or-late">
+                     <del>alte</del>
+                     <add>innre</add>
+                  </subst> Hütte lodert,</l>
+               <l n="11313">Die bemooſt und feucht geſtanden,</l>
+               <l n="11314">Schnelle Hülfe wird gefodert,</l>
+               <l n="11315">Keine Rettung iſt vorhanden.</l>
+               <l n="11316">Ach! die guten alten Leute</l>
+               <l n="11317">Sonſt, ſo ſorglich <subst f:revType="late">
+                     <del>mit dem</del>
+                     <add>um das</add>
+                  </subst> Feuer</l>
+               <l n="11318">Werden ſie de<subst f:revType="late" change="#change_19">
+                     <del><subst f:revType="late" change="#change_18">
+                           <del><subst f:revType="late" change="#change_17">
+                                 <del>r</del>
+                                 <add>s</add>
+                              </subst></del>
+                           <add>r</add>
+                        </subst></del>
+                     <add>m</add>
+                  </subst><subst change="#change_19">
+                     <del><subst f:revType="late" change="#change_18">
+                           <del><subst f:revType="late" change="#change_17">
+                                 <del>Gluten</del>
+                                 <add>Feuers</add>
+                              </subst></del>
+                           <add>Flammen</add>
+                        </subst></del>
+                     <add>Qualm zur</add>
+                  </subst> Beute.</l>
+               <l n="11319">Welch ein ſchrecklich Abentheuer!</l>
+               <l n="11320">Flamme flammet, roth in Gluten</l>
+               <l n="11321">Steht das ſchwarze Moosgeſtelle,</l>
+               <l n="11322">Retteten ſich nur die Guten</l>
+               <l n="11323">Aus der <subst f:revType="late">
+                     <del>ſchnell</del>
+                     <add>wild</add>
+                  </subst><subst>
+                     <del><subst>
+                           <del>erglühten</del>
+                           <add>entflammten</add>
+                        </subst></del>
+                     <add>entbrandten</add>
+                  </subst> H<orig>o</orig>lle.</l>
+               <!-- ent- steht eigentlich nur einmal da -->
+               <!-- lokal 1. subst erfolgte nach der lokal 2. (da diese zunächst mit Blei) -->
+               <l n="11324">Züngelnd lichte <subst f:revType="late">
+                     <del>Flammen</del>
+                     <add>Blitze</add>
+                  </subst> ſteigen</l>
+               <l n="11325">Zwiſchen Blättern, zwiſchen Zweigen</l>
+               <delSpan f:revType="late" change="#change_21" spanTo="#delSpan_l11326" type="erase"/>
+               <l n="11326">
+                  <subst f:revType="late" change="#change_20a">
+                     <del><del f:revType="late" change="#change_20">Und die</del><seg xml:id="transp_l11326_1">dürr<del f:revType="late" change="#change_20">en</del></seg><seg xml:id="transp_l11326_2">Aeſte</seg>
+                        brennen,</del>
+                     <add>Aeſte <unclear cert="high">die</unclear> ſich dürr entflammen</add>
+                  </subst>
+                  <anchor xml:id="delSpan_l11326"/>
+               </l>
+               <!-- letztes add gleich radierter Bleistiftvers am unteren Rand -->
+               <addSpan f:revType="late" change="#change_21" spanTo="#addSpan_l11326"/>
+               <l n="11326">Aeſte dürr, die flackernd<del f:revType="instant">b</del>
+                     brennen,<anchor xml:id="addSpan_l11326"/></l>
+               <l n="11327"><del f:revType="late" change="#change_22">Und ſie</del><subst f:revType="late" change="#change_22">
+                     <del>g</del>
+                     <add>G</add>
+                  </subst>lüh<add f:revType="late" change="#change_22">e</add>n <add f:revType="late" change="#change_22">ſchnell</add> und ſtürzen ein.</l>
+               <l n="11328">Sollt ihr Augen dies erkennen!</l>
+               <l n="11329">Muß ich ſo weitſichtig ſeyn!</l>
+               <l n="11330">Das Kapellchen bricht zuſammen</l>
+               <l n="11331">Von der Aeſte Sturz und Laſt.</l>
+               <l n="11332">Schlängelnd <subst f:revType="late">
+                     <del>hat’s</del>
+                     <add>ſind</add>
+                  </subst>, mit ſpitzen Flammen,</l>
+               <l n="11333">Schon die Gipfel angefaßt.</l>
+               <l n="11334">Bis zur Wurzel glühn die Hohlen</l>
+               <l n="11335">Stämme, <subst f:revType="late">
+                     <del>dunckelroth</del>
+                     <add>purpurroth</add>
+                  </subst> im Glühn. –</l>
+               <stage n="after_11335">
+                  <subst f:revType="late">
+                     <del>(Pauſe <del f:revType="instant-or-soon">(</del>ſingend)</del>
+                     <add><del f:revType="instant">l</del> (Lange Pauſe. Geſang)</add>
+                  </subst>
+               </stage>
+               <l n="11336">Was ſich ſonſt dem Blick<del f:revType="instant">e</del> empfohlen,</l>
+               <l n="11337"><subst f:revType="uncertain">
+                     <del>Seit</del>
+                     <add>Mit</add>
+                  </subst> Jahrhunderten iſt hin.</l>
+            </sp>
+            <pb n="13"/>
+            <sp>
+               <speaker n="before_11338_a">Fauſt</speaker>
+               <stage n="before_11338_b">(auf dem Balkon gegen die Dünen)</stage>
+               <l n="11338">Von oben welch ein ſingend Wimmern?</l>
+               <l n="11339"><seg xml:id="transp_l11339_1">Hier</seg> <seg xml:id="transp_l11339_2">iſt</seg> <seg xml:id="transp_l11339_3"><subst f:revType="soon-or-late">
+                        <del>ein</del>
+                        <add>das</add>
+                     </subst></seg> <seg xml:id="transp_l11339_4">Wort</seg>, <subst f:revType="soon-or-late">
+                     <del>ein</del>
+                     <add>der</add>
+                  </subst> Ton zu ſpat,</l>
+               <l n="11340"><subst f:revType="soon-or-late">
+                     <del>Der</del>
+                     <add>Mein</add>
+                  </subst> Thürner jammert, mich, im Innern,</l>
+               <l n="11341">Verdriest die ungedultge That.</l>
+               <l n="11342">Doch ſey der Lindenwuchs vernichtet</l>
+               <l n="11343">Zu halbverkohlter Stämme Graun,</l>
+               <l n="11344">Ein Luginsland iſt bald errichtet,</l>
+               <l n="11345">Um in’s Unendliche zu ſchaun.</l>
+               <l n="11346">Da ſeh ich auch die neue Wohnung,</l>
+               <l n="11347">Die jenes alte Paar umſchließt</l>
+               <l n="11348">
+                  <subst f:revType="soon-or-late">
+                     <del>Das eingetauſcht-erwünſchte Lohnung,</del>
+                     <add>Das, im Gefühl großmüthiger Schonung,</add>
+                  </subst>
+               </l>
+               <l n="11349">Der ſpäten Tage froh genießt.</l>
+            </sp>
+            <sp>
+               <speaker n="before_11350_a"><abbr>Mephiſto</abbr> und die Dreye</speaker>
+               <stage n="before_11350_b">(unten)</stage>
+               <l n="11350">Da kommen wir mit vollem Trab</l>
+               <l n="11351">Verzeih! es ging nicht gütlich ab.</l>
+               <l n="11352">Wir klopften an, wir pochten an,</l>
+               <l n="11353">Und immer ward nicht aufgethan,</l>
+               <l n="11354">Wir rüttelten, wir pochten fort,</l>
+               <l n="11355">Da lag die morſche Thüre dort.</l>
+               <l n="11356">Wir riefen laut und drohten ſchwer,</l>
+               <l n="11357">Allein wir fanden kein Gehör.</l>
+               <pb n="14"/>
+               <stage n="todo">
+                  <del f:revType="uncertain"><abbr>Mephiſto</abbr> und die andern ab,
+                     wechſelnd)</del>
+               </stage>
+               <l n="11358"><subst f:revType="soon-or-late">
+                     <del>Wie aber ſolchen Falls</del>
+                     <add>Und wie’s in ſolchem Fall</add>
+                  </subst> geſchicht,</l>
+               <l n="11359">Sie hörten nicht, ſie wollten nicht,</l>
+               <l n="11360">Wir aber haben nicht geſäumt</l>
+               <l n="11361"><subst f:revType="soon-or-late" change="#change_24">
+                     <del>Und ſie <subst>
+                           <del>ſogleich</del>
+                           <add><del f:revType="instant" change="#change_24">behen</del></add>
+                        </subst></del>
+                     <add>Behende</add>
+                  </subst> dir <add f:revType="soon-or-late" change="#change_24">ſie</add>
+                  weggeräumt.</l>
+               <l n="11362">Das Paar hat ſich nicht <subst>
+                     <del>lang’</del>
+                     <add>viel</add>
+                  </subst> gequält</l>
+               <l n="11363">Vor Schrecken fielen ſie entſeelt.</l>
+               <l n="11364">Ein Fremder der ſich dort verſteckt,</l>
+               <l n="11365">Und fechten wollte, ward geſtreckt.</l>
+               <l n="11366">In wilden Kampfes kurzer Zeit,</l>
+               <l n="11367"><subst f:revType="soon-or-late" change="#change_25">
+                     <del>Die Kohlen, ringsumher geſtreut,</del>
+                     <add>Von Kohlen, ringsumher geſtreut,</add>
+                  </subst></l>
+               <l n="11368"><subst f:revType="late" change="#change_25">
+                     <del>Entflammten gleich</del>
+                     <add>Entflammte Stroh</add>
+                  </subst><subst f:revType="late" change="#change_26">
+                     <del>;</del>
+                     <add>.</add>
+                  </subst>
+                  <subst f:revType="late" change="#change_26">
+                     <del>n</del>
+                     <add>N</add>
+                  </subst>un loderts frey,</l>
+               <l n="11369">Als Scheiterhaufen dieſer drey.</l>
+            </sp>
+            <sp>
+               <speaker n="before_11370">Fauſt</speaker>
+               <l n="11370">Wart ihr für meine Worte taub!</l>
+               <l n="11371">Tauſch wollt ich, wollte keinen Raub.</l>
+               <addSpan f:revType="soon-or-late" spanTo="#addSpan_l11373"/>
+               <l n="11372">Dem <subst>
+                     <del><subst>
+                           <del>ungeſch<gap unit="chars" quantity="2" precision="medium"/>ten</del>
+                           <add>ungeſt<orig>u</orig>men</add>
+                        </subst></del>
+                     <add>unbeſonnenen</add>
+                  </subst> wilden Streich</l>
+               <l n="11373">Ihm fluch ich theilt es unter euch.<anchor xml:id="addSpan_l11373"/></l>
+            </sp>
+            <sp>
+               <speaker n="before_11374">Chorus</speaker>
+               <l n="11374">Das alte Wort, das Wort erſchallt:</l>
+               <l n="11375">Gehorche willig der Gewalt!</l>
+               <l n="11376">Und biſt du kühn, und hältſt du Stich,</l>
+               <l n="11377">So wage Haus und Hof und <add f:revType="soon-or-late">–</add> dich.</l>
+               
+            </sp><stage n="after_11377">ab.</stage>
+            <sp>
+               <speaker n="before_11378_a">Fauſt</speaker>
+               <stage n="before_11378_b">(<del f:revType="soon-or-late">allein</del> auf dem
+                  Balkon)</stage>
+               <l n="11378">Die Sterne bergen <subst f:revType="soon-or-late">
+                     <del>ihren</del>
+                     <add>Blick und</add>
+                  </subst> Schein,</l>
+               <l n="11379">Das Feuer ſinckt und lodert klein;</l>
+               <l n="11380"><del f:revType="instant">W</del> Ein Schauerwindchen fächelts an,</l>
+               <l n="11381"><del f:revType="soon-or-late" change="#change_27">Und</del>
+                  <subst change="#change_27">
+                     <del type="editorial">b</del>
+                     <add type="editorial">B</add>
+                  </subst>ringt <del f:revType="soon-or-late" change="#change_27">den</del> Rauch
+                     <add f:revType="soon-or-late" change="#change_27">und Dunſt</add> zu mir
+                  heran.</l>
+               <l n="11382">Geboten ſchnell, zu ſchnell gethan!</l>
+               <l n="11383">Was <subst f:revType="soon-or-late" change="#change_28">
+                     <del>ſchwebt hier</del>
+                     <add>ſchwebet</add>
+                  </subst> ſchattenhaft <subst f:revType="soon-or-late">
+                     <del>heran</del>
+                     <add>dortan</add>
+                  </subst>?</l>
+            </sp>
+            <stage n="todo">
+               <del f:revType="soon-or-late">(Das Feuer iſt nieder es ſchweben Schatten heran)</del>
+            </stage>
+            <pb n="16"/>
+            <!-- eigentlich folgt hier Passage aus Szene Mitternacht, aber diese Einteilung ist hier noch nicht vorgesehen, daher keine neue div -->
+            <sp>
+               <speaker n="before_11398_a">Fauſt</speaker>
+               <stage n="before_11398_b">(im Pallaſt)</stage>
+               <l n="11398">Vier ſah ich kommen Drey nur gehn</l>
+               <l n="11399">Den Sinn der Rede konnt ich nicht verſtehn.</l>
+               <l n="11400">Es klang ſo nach als hieß es – Noth</l>
+               <l n="11401">Ein <subst f:revType="late">
+                     <del>düſtrer Reimklang</del>
+                     <add>düſtres Reimwort</add>
+                  </subst> folgte – Tod.</l>
+               <l n="11402">Es tönte hohl, geſpenſterhaft gedämpft.</l>
+               <l n="11403">Noch hab ich mich in’s Freye nicht gekämpft.</l>
+               <l n="11404">Könnt ich Magie von meinem Pfad entfernen</l>
+               <l n="11405">Die Zauberſprüche ganz und gar verlernen.</l>
+               <l n="11406">Stund ich, Natur! vor dir ein Mann allein</l>
+               <l n="11407">Da wärs der Mühe werth ein Menſch zu ſeyn.</l>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>

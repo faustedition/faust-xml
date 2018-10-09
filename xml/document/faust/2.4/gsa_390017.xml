@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390017/">
+<revisionDesc>
+   <change when="2012-11-22" who="henzel">imported</change>
+   <change when="2012-11-22" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P180</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,20</idno>
+      <idno type="gsa_2">GSA 25/W 1794</idno>
+      <idno type="gsa_ident">390017</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P180</idno>
+      <!-- P180 -->
+      <textTranscript uri="390017.xml"/>
+      <classification>Schema</classification>
+      <condition>ursprünglich in der Mitte längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>none</watermarkID>
+      <countermarkID>"H" über "Stützerbach"</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 238</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 677</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 677</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 707</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 677</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Der wie P179a und P179.2 (hier S. 670 und 674) ebenfalls auf Mitte geschriebene Schema-Entwurf P180 ist wohl auch vor dem großen Szenario zum 4. Akt (P178, hier S. 678ff.) entstanden. Gegenüber P179a sind folgende Abweichungen zu bemerken: Die Wolke verschwindet nach "zwey Seiten", die "Hauptf.[iguren]" heißen jetzt "Bursche" (wie auch in P179a). Abweichend von den anderen frühen Schemata wird hier der (wohl schon ausgeführte) Monolog und seine Stellung im 4. Akt verzeichnet. Allein die Tatsache, daß der Monolog als solcher in den anderen Schemata nicht verzeichnet ist, muß jedoch nicht bedeuten, daß er noch nicht geschrieben war.</p>
+            <p>Z. 4f.: Eine Vorform dieses in allen Schemata und in abgewandelter Form auch in der Ausführung anzutreffenden Motivs der Wolken-Vision findet sich im November 1826 in P99A, Z. 3ff. (hier S. 417): "Großer Monolog, zwischen Gretchens und Helenas Wahnerscheinung". Dieses Motiv hat Goethe zu Beginn des 2. Aktes nicht realisiert, verwandelt findet es sich nun am Beginn des 4. Aktes wieder.</p>
+            <p>Z. 6f. Verwirrung des Reichs] Vgl. V. 10261.</p>
+            <p>Z. 9 Ruhm und Mittel gemein] Vgl. V. 10299f.? </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

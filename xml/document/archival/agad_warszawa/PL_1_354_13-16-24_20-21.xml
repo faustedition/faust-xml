@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/agad_warszawa/PL_1_354_13-16-24/">
+   <revisionDesc>
+      <change when="2013-04-28" who="bruening">Nachweise etc.</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-03-17" who="henzel">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Erweiterte Szene zu ‚Faust ‘-Libretto, ‚Ein Gartenhäuschen‘.</headNote>
+      <note>Beilage zu Brief von Goethe an Pius Alexander Wolff vom 23. September 1821 (vgl. faust://bibliography/steiniger2005, S. 320). Der Brief selbst ist verschollen, das Konzept liegt unter GSA 29/26, Bl. 218 (ebd., S. 321).</note>
+      <repository>agad_warszawa</repository>
+      <subRepository>Familienarchiv Radziwill</subRepository>
+      <idno type="faustedition">T 4 H.3</idno>
+      <idno type="agad_warszawa">AR dz. XIII pudło 16 teka 24<!--Familienarchiv Radziwill, Teil XIII, Kasten 16, Mappe 24--></idno>
+      <idno type="gsa_1">GSA 25/XVII,1,10d</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="PL_1_354_13-16-24_20-21.xml"/>
+      <classification>Mundum</classification><!-- Abschrift -->
+      <history>Zu den möglichen Gründen dafür, dass neben der Riemerschen auch diese Johnsche Abschrift heute im Familienarchiv Radziwill liegt, vgl. faust://bibliography/steiniger2005, S. 321. Aufgrund seines Zustands kann man darauf schließen, dass das Blatt in ein Konvolut geklemmt war.</history>
+      <condition>mittig quer gefaltet und hochkant aufbewahrt, Blatt war einst ein weiteres Mal gefaltet (am mittigen senkrechten Falz erkennbar), Ränder vergilbt, Papier teils fleckig und gewellt</condition>
+      <note>auf jeder Seite wurde links und rechts senkrecht mit Bleistift ein Rand gezogen zur Begrenzung des Textfeldes</note>
+      <format>n.s.</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grün</paperColour>
+      <chainLines unit="mm">27</chainLines><!-- gut erkennbar -->
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Sächsisches Rautenkranzwappen mit Krone</watermarkID>
+      <countermarkID>J(G?)H N3</countermarkID><!-- TODO pruefen, was Wz und was Gz --><!-- auf Innenseite des Blattes um 180° gedreht erkennbar -->
+      <references>
+         <reference type="description" uri="faust://bibliography/steiniger2005">S. 320f.</reference>
+         <reference type="essay" uri="faust://bibliography/steiniger2005">S. 321f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">197</width>
+               <height unit="mm">327</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <note>Stempel mit "AR, dz. XIII" oben links auf der Seite vorhanden</note>
+               <docTranscript uri="0020.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0021.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">327</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

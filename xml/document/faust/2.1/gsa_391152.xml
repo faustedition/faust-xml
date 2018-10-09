@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391152/">
+   <revisionDesc>
+      <change when="2012-11-13" who="bruening">encoded</change>
+      <change when="2014-10-17" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>„Was in der Schenke waren heute...“ faust://bibliography/wa_I_6, S. 350; Abschrift
+         Schuchardt unter dem Titel: „Hafis“ = Druckvorlage als Einfügung in Korrekturbogen zu KuA
+         Bd 6 Nr 1, 1827 S. 212
+         Einzelblatt, 2 beschriebene Seiten. - Vs.: Gedichtreinschrift (Schuchardt, Tinte). -
+         Rs.: Versentwürfe zu ‚Faust II‘, Akt 1 (eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.5</idno>
+      <idno type="gsa_1">GSA 25/XVII,4,6</idno>
+      <idno type="gsa_2">GSA 25/W 1423</idno>
+      <idno type="gsa_ident">391152</idno>
+      <idno type="wa_faust">2 I H.5</idno>
+      <idno type="wa_gedichte">H.74</idno>
+      <textTranscript uri="391152.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">165</width>
+         <height unit="mm">200</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 10</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_6">S. 434</reference>
+      </references>
+      <!-- TODO WA I 6, 350 -->
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Jensen, Inge, Zum Chor der Gärtnerinnen..., in: Holtzhauer H. (Hrsg.), Studien zur Goethezeit, Weimar 1968, S 165-177, mit Varianten und umgestellter Versfolge (5098-5099, 5096-5097)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Gedicht "Was in der Schenke waren heute" (West-östlicher Divan) WA I 6,212 Abschrift Schuchardt = Druckvorlage als Einfügung in Korrekturbogen zu KuA Bd 6 Nr 1, 1827 S 212; WA: H.74, I 6,350. - Notiz egh: "Tr." als Stellvertretung für die Verse 5092-5095 (zweite Strophe des Chors der Gärtnerinnen aus Faust II)</f:dabei_vermerk>
+      <f:datierung>Herbst 1827 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>391152</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.5; vgl. I 15.2,10
+
+Vers(e): 5088-5091
+Euren Beyfall zu gewinnen ...
+Konzept
+
+Vers(e): 5096-5099
+Denn wir halten es verdienstlich ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,4,6</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="07">Entstehungszusammenhang, Zweckbestimmung</f:key>
+            <f:value>Druckvorlage als Einfügung in Korrekturbogen zu KuA Bd 6 Nr 1, 1827 S
+               212</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,6*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>West-östlicher Divan. Saki Nameh. Das Schenkenbuch. WA I 6, 199-223</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 6,212</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 6,434</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>H.74</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>Schuchardt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30a">Zusatz nach der Schriftangabe</f:key>
+            <f:value>unter dem Titel "Hafis"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Abschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Schuchardt, Johann Christian</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="98">Export in die Archivdatenbank</f:key>
+            <f:value>e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Sammelblatt bei "Faust II", 1. Akt, Vers 5088-5091, 5096-5099 WA I 15.1,23;
+               dort H.5; vgl. I 15.2,10</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2034</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,6*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Denn wir halten es verdienstlich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5096-5099</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>mit Varianten und umgestellter Versfolge (5098-5099, 5096-5097)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3118</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,6*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Euren Beyfall zu gewinnen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5088-5091</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3320</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,6</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Herbst 1827 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,10</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.5</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Gedicht "Was in der Schenke waren heute" (West-östlicher Divan) WA I 6,212
+               Abschrift Schuchardt = Druckvorlage als Einfügung in Korrekturbogen zu KuA Bd 6 Nr 1,
+               1827 S 212; WA: H.74, I 6,350. - Notiz egh: "Tr." als Stellvertretung für die Verse
+               5092-5095 (zweite Strophe des Chors der Gärtnerinnen aus Faust II)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Jensen, Inge, Zum Chor der Gärtnerinnen..., in: Holtzhauer
+               H. (Hrsg.), Studien zur Goethezeit, Weimar 1968, S 165-177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1086</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3942</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

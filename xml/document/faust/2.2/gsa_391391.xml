@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391391/">
+<revisionDesc>
+   <change when="2013-01-08" who="henzel">imported</change>
+   <change when="2013-01-08" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Programm des Weimarer Theaters zu "Der Hofmeister in tausend Ängsten" von Th. Hell und "Das Fest der Handwerker" von L. Angely (29.12.1829) Druck, Bruchstück</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.63</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,28</idno>
+      <idno type="gsa_2">GSA 25/W 1555</idno>
+      <idno type="gsa_ident">391391</idno>
+      <idno type="wa_faust">2 II H.63</idno>
+      <textTranscript uri="391391.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">191</width>
+         <height unit="mm">287</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 285 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 58</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 58</reference>
+         <!-- TODO zur Datierung vgl. Fischer-Lamberg, S.58 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/><!-- Theaterzettel -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Verse doppelt = 1. und 2. Konzept zu diesen Versen; zur Datierung vgl. Fischer-Lamberg, S.58</f:bemerkung>
+      <f:datierung>nach dem 29.12.1829</f:datierung>
+     </f:archiveDatabase>
+     </f:metadataImport>
+</archivalDocument>

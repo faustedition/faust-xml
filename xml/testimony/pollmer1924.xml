@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-09" who="Krause">markiert</change>
+            <change when="2018-10-04" who="krause">ergänzt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!--            Testimony bie3_5520-->
+            <div type="conversation"><pb n="36"/>
+                <p><milestone unit="testimony" spanTo="#bie3_5520_end" xml:id="bie3_5520"/><date when="1824-09-10">10. September</date> Abends mit Wolff bei Goethe. Coudray, Meyer. Wolff
+                    erzählte allerliebst die Geschichte der <rs>Aufführung des Faust</rs> bei Fürst
+                    Radziwill.<anchor xml:id="bie3_5520_end"/></p></div>
+            
+            <!--        quz_II-367 bereits in quz2.xml enthalten    -->
+            
+            <div type="conversation"><pb n="37"/>
+                <p><milestone unit="testimony" spanTo="#quz_II-367_end" xml:id="quz_II-367"/><date when="1825-03-29">29. März</date> Abends bei Goethe, brachte ihm die <rs>neue Helena</rs> zurück.<anchor xml:id="quz_II-367_end"/></p></div>
+            
+<!-- Testimony bie3_6200           -->
+            <pb n="50" facs="pollmer1924_0050.jpg"/>
+            <div type="diary">
+                <p>9. Juli Früh von Punkt 5 Uhr an ging das feierliche Leichenbegängnis Serenissimi
+                    und dauerte bis gegen 9 Uhr. Der Zug ging von der Gottesackerkirche durch die
+                    Stadt nach dem neuen Friedhofe, und von da zur Stadtkirche.</p>
+                <p><milestone unit="testimony" spanTo="#bie3_6200_end" xml:id="bie3_6200"/>Sich wieder ins Leben zu wenden, den Geist zu beschäftigen, war Goethes alte,
+                    mehrmals ausgesprochene Maxime, die er auch nach dem Zerreißen des letzten
+                    Bandes, das ihn aus frühster Zeit an Weimar knüpfte, geltend machte, und wodurch
+                    er zu <rs>Abschluß seines Faust</rs> gebracht wurde.<anchor xml:id="bie3_6200_end"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

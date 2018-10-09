@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391409/">
+<revisionDesc>
+   <change when="2012-12-06" who="henzel">imported</change>
+   <change when="2012-12-06" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">URIs fuer Handschriftensiglen</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>bildete ursprünglich mit faust://document/wa_faust/2_II_H.56 und faust://document/wa_faust/2_II_H.58 einen Foliobogen</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.19</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,20</idno>
+      <idno type="gsa_2">GSA 25/W 1508</idno>    
+      <idno type="gsa_ident">391409</idno>    
+      <idno type="wa_faust">2 II H.19</idno>      
+      <textTranscript uri="391409.xml"/>
+      <classification>Konzept</classification>
+      <condition>rote Siegelreste, war ursprünglich mehrfach zusammengefaltet; fleckig, an den Rändern gewellt</condition>
+      <dimensions>
+         <width unit="mm">211</width>
+         <height unit="mm">142</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 205 mm. Der Mindestwert der Blatt-Höhe beträgt 142 mm.</note>
+      <format>none</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbräunlich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 36</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 36f.</reference>
+         <!-- TODO Fischer-Lamberg, S.36-37 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Fischer-Lamberg, S.36-37</f:bemerkung>
+      <f:datierung>nach dem 16.2.1830 (?)</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

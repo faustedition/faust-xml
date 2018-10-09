@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391503/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">imported</change>
+      <change when="2012-10-08" who="bruening">imported</change>
+      <change when="2012-11-22" who="henzel">imported</change>
+      <change when="2012-11-22" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Fragment. Gegenstück: f://document/landeck/2_V_H.k. Weiteres Gegenstück (oben)
+         verschollen? Aus demselben Blatt wie f://document/landeck/2_V_H.j? So müsste es sich
+         verhalten, wenn zutrifft, was faust://bibliography/landeck1981, S. 92 in Bezug auf
+         f://document/landeck/2_V_H.k sagt. Bemerkung A. Jameson (Bruchstück). Echtheitsbestätigung
+         eines zeitgenössischen Schreibers mit Tinte: „Autography of Goethe. A part of the original
+         ‘Faust’“.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.0d</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,1a</idno>
+      <note>weitere alte GSA-Signatur (bis zur Verfilmung): NZ 3/96,15</note>
+      <idno type="gsa_2">GSA 25/W 1696</idno>
+      <idno type="gsa_ident">391503</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="391503.xml"/>
+      <classification>Konzept</classification>
+      <history>Ankauf von Stargardt 1996</history>
+      <condition>auf der Rückseite fleckig</condition>
+      <dimensions>
+         <width unit="mm">205</width>
+         <height unit="mm">22</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/stargardt_663">S. 47, Nr.
+            109</reference>
+         <reference type="description" uri="faust://bibliography/jap_47">S.
+            772<!-- Ms.-Fragment mit 2 Versen aus "Faust. Zweiter Teil". o.O. IV./V. 1831. 22x205 mm. --></reference>
+         <reference type="text" uri="faust://bibliography/stargardt_663">S. 47, Nr. 109</reference>
+         <reference type="essay" uri="faust://bibliography/stargardt_663">S. 47, Nr. 109</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Blatt über "Baucis" oben abgeschnitten; "Tags" [mit Blei] über "Wenn" [mit Blei gestrichen]; stand ursprünglich über H.k (vgl. Reproduktionen 25/XVIII,8,2); von H.k 1834 oder später abgeschnitten, vgl. Landeck, S.92</f:bemerkung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/location_unknown/schwarz_katalog11-343/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening"/>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2016-01-25" who="bruening">URIs angeglichen</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <repository>location_unknown</repository>
+      <idno type="faustedition">2 I H.9l*</idno>
+      <idno type="gsa_1">GSA 25/XVII,6,3</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="schwarz_katalog11-343.xml"/>
+      <classification>Konzept</classification>
+      <references>
+         <reference type="description" uri="faust://bibliography/schwarz_11">S. 31f., Nr.
+            343</reference>
+         <reference type="text" uri="faust://bibliography/schwarz_11">S. 31f.</reference>
+         <reference type="text" uri="faust://bibliography/witkowski1930">S. 306</reference>
+         <reference type="facsimile" uri="faust://bibliography/schwarz_11">Tfl. 1</reference>
+         <reference type="essay" uri="faust://bibliography/witkowski1930">S. 305–307</reference>
+      </references>
+      <history>„Das sehr interessante Fragment stammt aus dem Besitze Ottilie v. Goethes, sie
+         schenkte es der Gattin des Hofschauspielers Karl La Roche, bekanntlich ein
+         leidenschaftlicher Autographensammler, der es Christine Hebbel schenkte.“
+         (faust://bibliography/schwarz_11, S. 32)</history>
+      <container>„Das Stück befindet sich noch in dem Originalkuvert Ottiliens mit der mit dem
+         Initial G versehenen gravierten Verschlußmarke u. der von ihrer Hand geschriebenen Adresse
+         an Frau La Roche.“ (ebd.)</container>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

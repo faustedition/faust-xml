@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390119/">
+   <revisionDesc>
+      <change when="2013-01-22" who="bruening">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Aus faust://document/wa_faust/2_III_H.2, H. 2.
+      dabei: metrische Schemata</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.72</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,24</idno>
+      <idno type="gsa_2">GSA 25/W 1658</idno>
+      <idno type="gsa_ident">390119</idno>
+      <idno type="wa_faust">2 III H.72</idno>
+      <textTranscript uri="390119.xml"/>
+      <classification>Konzept</classification>
+      <history>Laut dem beiliegenden Übergabevermerk Rulands wurde das Blatt „stark zusammengefaltet
+         (als Lesezeichen) in einem Buche der Goethe-Bibliothek“ gefunden; übernommen
+         faust://bibliography/wa_I_15_2, S. 71.</history>
+      <numberingList>
+         <numbering name="Archivarische_Foliierung">Archivarische Bleistiftfoliierung in der linken
+            unteren Ecke.</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">160</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 71</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 131</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 131f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>ursprünglich eingeklebt in III H.2 (25/XVIII,1,2b)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>metrische Schemata, Riemer und Titel "Helena classisch-romantische Phantasmagorie Zwischenspiel zu Faust", Riemer [auf der Rückseite]; Bemerkung zur Übergabe des Blattes an das Archiv am 29.3.1888, Carl Ruland, 1 Blatt mit Stempel "Goethe-National-Museum, Weimar"</f:dabei_vermerk>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390119</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9903-9914
+Der Freude folgt sogleich ...
+WA: III H.72; vgl. I 15.2,71
+Konzept
+aus Goethe-Nationalmuseum, Weimar, 29.3.1888</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,24</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,24</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Der Freude folgt sogleich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,71</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.72</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9903-9914</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>metrische Schemata, Riemer und Titel "Helena classisch-romantische
+               Phantasmagorie Zwischenspiel zu Faust", Riemer [auf der Rückseite]; Bemerkung zur
+               Übergabe des Blattes an das Archiv am 29.3.1888, Karl Ruland, 1 Blatt mit Stempel
+               "Goethe-National-Museum, Weimar"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>ursprünglich eingeklebt in III H.2 (25/XVIII,1,2b)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="993">Überlieferungsweg</f:key>
+            <f:value>aus Goethe-Nationalmuseum, Weimar, 29.3.1888</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1298</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3767</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

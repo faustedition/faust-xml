@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>WA IV, 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2018-06-28" who="krause">Datei angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!--Testimony graef_860 , WA IV, 3, 320 ; Postsendungen 1777-->
+            <div>
+                <pb n="319"/>
+                <head>1777.</head>
+                <pb n="320"/>
+                <list>
+                    <headLabel>Juli</headLabel>
+                    <label n="1.">1.</label>
+                    <item>*Frau Rath Goethe, Frankfurt, mit Gemälde. </item>
+                </list>
+                
+                <list>
+                    <headLabel>December</headLabel>
+                    <label n="1.">1.</label>
+                    <item>*Weber, Goslar.</item>
+                    <label n="1."/>
+                    <item><milestone unit="testimony" spanTo="#graef_860_end" xml:id="graef_860"
+                    />*<rs>Frau Rath Goethe, mit Faust</rs>.<anchor xml:id="graef_860_end"
+                    /></item>
+                </list>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

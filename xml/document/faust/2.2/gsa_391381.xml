@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391381/">
+<revisionDesc>
+   <change when="2012-12-07" who="henzel">imported</change>
+   <change when="2012-12-07" who="henzel">encoded</change>
+   <change when="2013-12-06" who="koehler">subidno</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Eigenhändige Notiz mit Bleistift: "Bis zu Manto"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.28</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,29</idno>
+      <idno type="gsa_2">GSA 25/W 1518</idno>
+      <idno type="gsa_ident">391381</idno>
+      <idno type="wa_faust">2 II H.28</idno>
+      <subidno type="wa_faust">2 II H.28alpha</subidno>
+      <textTranscript uri="391381.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering>Eigenhändige Numerierung "9" mit Bleistift</numbering><!-- TODO Numerierung konkretisieren -->
+      </numberingList>
+      <condition>am linken Rand Druckstelle (ursprünglich in ein Konvolut o.Ä. eingebunden); ebenda Loch im oberen Bereich (aus einem Stichloch entstanden); auf der Rückseite Vergilbung am oberen Rand</condition>
+      <dimensions>
+         <width unit="mm">217</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 329 mm.</note>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">175</stabMark><!-- ungefährer Wert, genaue Position nicht bestimmbar, da eingerissen (170-178 mm) -->
+         <stabMark unit="mm">143</stabMark>
+         <stabMark unit="mm">209</stabMark>
+         <stabMark unit="mm">212</stabMark>
+         <stabMark unit="mm">267</stabMark>
+         <stabMark unit="mm">270</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 43</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 43f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 3. Konzept  im Vgl. mit II H.27 (25/XVII,7,28)</f:bemerkung>
+      </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

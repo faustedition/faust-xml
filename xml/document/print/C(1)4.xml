@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">C.1 4</idno>
+        <idno type="wa_faust">C.1</idno>
+        <idno type="hagen">C.1</idno>
+        <idno type="hagen_nr">23</idno>
+        <headNote>Taschenausgabe letzter Hand bei Cotta, 1827</headNote>
+        <bibl>Goethe’s Werke. Vollständige Ausgabe letzter Hand. Vierter Band. Unter des durchlauchtigsten 
+            deutschen Bundes schützenden Privilegien. Stuttgart und Tübingen, in der J. G. Cotta’schen 
+            Buchhandlung. 1827. VI, 394 S. kl. 8°</bibl>
+        <note>„Zu Faust (Zwei Teufelchen …)“ (S. 220–224) und „Helena klassisch-romantische Phantasmagorie“ (S. 229–307).</note>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 24</idno>
+            </referenceCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 23</idno>
+            </furtherCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 23/1</idno>
+            </furtherCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 25</idno>
+            </furtherCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">IV 4 / 1</idno>
+            </furtherCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 3</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 51f.</reference>
+        </references>
+        <textTranscript uri="C(1)4_IIIB24.xml"/>
+    </metadata>
+</print>

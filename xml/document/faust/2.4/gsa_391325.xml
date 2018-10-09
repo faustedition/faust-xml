@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391325/">
+   <revisionDesc>
+      <change when="2012-11-20" who="henzel">imported</change>
+      <change when="2012-11-20" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-05-13" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Hinweis auf Galileis "Systema cosmicum in quo dialogis IV de duobus maximis mundi systematibus"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.18</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,19</idno>
+      <idno type="gsa_2">GSA 25/W 1689</idno>
+      <idno type="gsa_ident">391325</idno>
+      <idno type="wa_faust">2 IV H.18</idno>
+      <textTranscript uri="391325.xml"/>
+      <classification>Konzept</classification>
+      <condition>Klebefalz am linken Rand, beginnender Tintenfraß; in der Mitte jeweils längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133, 140</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 729</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 729f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 731</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <!-- 1 -->
+      <metadata>
+         <stabMarks>
+            <stabMark unit="mm">61</stabMark>
+         </stabMarks>
+         <watermarkID>Stern über "N1"</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <!-- 2 -->
+      <!-- TODO <docTranscript/>s ggf. aktualisierter Reihenfolge anpassen -->
+      <metadata>
+         <stabMarks>
+            <stabMark unit="mm">53</stabMark>
+            <stabMark unit="mm">100</stabMark>
+            <stabMark unit="mm">281</stabMark>
+         </stabMarks>
+         <leafCondition>Folioblatt ist aufgrund des ursprünglich aufgeklebten Streifens gewellt</leafCondition>
+         <watermarkID>none</watermarkID>
+         <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0009.xml"/>
+            <!--   <docTranscript uri="0008.xml"/> <docTranscript uri="0010.xml"/> deleatur -->
+         </metadata>
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">183</width>
+                  <height unit="mm">38</height>
+               </patchDimensions>
+               <note>Der Mindestwert der Blatt-Breite beträgt 167 mm. Der Mindestwert der Blatt-Höhe beträgt 25 mm.</note>
+               <!-- Mindestwert der Höhe bezieht sich auf eckig geschnittene Außenkanten -->
+               <patchType>glue</patchType>
+               <patchPaperType>Konzeptpapier</patchPaperType>
+               <patchPaperColour>grau</patchPaperColour>
+               <patchChainLines unit="mm">26</patchChainLines>
+               <patchWatermarkID>none</patchWatermarkID>
+               <patchCountermarkID>none</patchCountermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0006.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:dabei_vermerk>Notiz "Galilei Dialogis de Systema [...] Cosm[icum] Doppelte Benennung vid. Dial. 4", egh = Hinweis auf Galileo Galileis "Systema cosmicum in quo dialogis IV de duobus maximis mundi systematibus", Leiden 1699 (Keudell Nr 2213)</f:dabei_vermerk>
+      <f:datierung>Ende Juni 1831 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> IVH18 Die von jüngeren Entwürfen überschriebenen Bleistiftskizzen zu V. 10212ff. auf der Rückseite des ersten Blattes sind nur teilweise noch zu entziffern. Einen Anhaltspunkt für die Datierung bietet eine am unteren Rand der Rückseite des 1. Blattes eingetragene eigenhändige Bleistiftnotiz in lateinischen Buchstaben, die zunächst ohne direkte Beziehung zur Arbeit am `Faust' scheint. Es handelt sich um einen Hinweis auf Galileis `Systema Cosmicum in quo Dialogis IV de duobus maximis Mundi systematibus' (etwa: "Galilei Dialogis d[xx] Systema Cosm[icum]/ Doppe[l]te {Benennung} [oder: Bewegung?] vid. dial. 4."), mit dem sich Goethe in der zweiten Hälfte des Juni 1831 beschäftigte: "Zur Stärkung und Kräftigung habe ich angefangen, die Dialogen des Galilei zu lesen" schreibt Goethe in diesen Tagen an den Grafen v.Sternberg (30.Juni 1831; WA IV,48,265), und das Tagebuch verzeichnet Beschäftigung mit dem Werk des italienischen Mathematikers am 24. 6. und wieder am 27.6. 1831
+               (WA III,13,98 und 100). Daß diese Lektüre doch einen Bezug hat auf die Arbeit am 4. Akt des `Faust', legt die zitierte Notiz selbst nahe: der hier angegebene "dial[og] 4" diskutiert das Phänomen der Meeresgezeiten im Zusammenhang mit der Bewegung der Erde. Mit einiger Wahrscheinlichkeit fällt die Entstehung der vorliegenden Entwürfe also in diese Tage Ende Juni 1831, in denen nach Auskunft des Tagebuchs auch der "Hauptzweck" fortgeführt wurde. Die älteren Entwürfe des vorliegenden Blattes sind nach IV H5 (hier S. 692ff.) und H P188 (hier S. 701) anzusetzen, für die eine Entstehung bis zu diesem Datum also angenommen werden kann. Anhand der Entwürfe auf der Rückseite des zweiten Blattes läßt sich IV H18 außerdem als Vorstufe zu IV H13 (hier S. 732f.) bestimmen: die auf dem vorliegenden Blatt mit Korrekturzeichen angegebene Umordnung des Entwurfs ist auf IV H13 realisiert. Da die jüngeren Entwürfe auf IV H18 zur Szene `Auf dem Vorgebirg' (V. 10503-10546 Var) die hier
+               wiedergegebenen älteren Skizzen zu Fausts Versen aus der Szene `Hochgebirg' (V. 10212ff.) einschließlich der Literaturangabe zu Galilei teilweise überdecken, läßt sich ihre Entstehung sogar auf einen Zeitpunkt <i>nach</i> Goethes Beschäftigung mit den Werken Galileis festlegen _ ein terminus post quem, der entsprechend dann auch für IV H13 gilt. </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= späteres K im Vgl. zu diesen Versen auf H.17 (25/XVIII,5,18*a)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Vorstufe zu H.13 (25/XVIII,5,14:1), zT gedruckt bei Bohnenkamp, S.729-730, zur Datierung vgl. Bohnenkamp, S.731</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

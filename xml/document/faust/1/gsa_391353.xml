@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391353/">
+   <revisionDesc>
+      <change when="2012-11-08" who="bruening">encoded</change>
+      <change when="2014-10-08" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust I‘.</headNote>
+      <note>Bruchstück eines Briefs von Friedrich von Müller an unbekannten Empfänger; die formlose
+         Einbettung der Offizialanrede in den Brieftext spricht für einen Brief Müllers an Goethe
+         (faust://bibliography/inventare_2_2, Sp. 69). 
+         Von einem Brief abgetrennter und fragmentierter Zettel. 2 beschriebene Seiten. – Vs.: Brief. Rs.: Entwurf
+         zu ‚Faust I‘, ‚Walpurgisnachtstraum‘ (eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.17</idno>
+      <idno type="gsa_1">GSA 25/XVII,1,8:2</idno>
+      <idno type="gsa_2">GSA 25/W 1365</idno>
+      <idno type="gsa_ident">391353</idno>
+      <idno type="wa_faust">1 1 22 H.2</idno>
+      <textTranscript uri="391353.xml"/>
+      <classification>Konzept</classification>
+
+      <condition>Tintenfraß, leicht stockfleckig.</condition>
+      <dimensions>
+         <width unit="mm">135</width>
+         <height unit="mm">135</height>
+      </dimensions>
+      <note>Die rechte obere Ecke ist ausgeschnitten.</note>
+      <format>none</format>
+      <paperType>Velinpapier</paperType>
+      <paperColour>weiß</paperColour>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 281</reference>
+         <reference type="description" uri="faust://bibliography/inventare_2_2">Sp. 69</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!--<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Datierung nach Schöne, Albrecht, DKV-Ausgabe, Bd.7.2, S.366</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>1826 (?)</f:datierung>
+      <f:druckort>WA I 14, 213-223</f:druckort>
+      <f:ident>391353</f:ident>
+      <f:kurztitel>Faust. Erster Theil. Walpurgisnachtstraum oder Oberons und Titanias goldne Hochzeit. Intermezzo
+Vers(e): 4335-4342
+Wie jeder doch die Beine ...
+WA: H.2; vgl. I 14,253; I 14,281
+Konzept
+Text der Handschrift zu WA: I 14,220
+auf Brief von Müller, Friedrich von an unbekannten Empfänger "... Euer Excellenz die Euch [...] Frankfurter...", Bruchstück, Müller</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,1,8:2</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,1,8:2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 14,213</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1826 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wie jeder doch die Beine</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 14,253; I 14,281</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>H.2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>4335-4342</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,220</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Datierung nach Schöne, Albrecht, DKV-Ausgabe, Bd.7.2, S.366</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Brief von Müller, Friedrich von an unbekannten Empfänger "... Euer
+               Excellenz die Euch [...] Frankfurter...", Bru, Müller</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1042</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2778</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>-->
+</archivalDocument>

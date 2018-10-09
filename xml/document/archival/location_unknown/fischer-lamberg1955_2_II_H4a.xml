@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/location_unknown/fischer-lamberg1955_2_II_H4a/">
+   <revisionDesc>
+      <change when="2013-02-14" who="bruening">angelegt</change>
+      <change when="2013-02-14" who="bruening">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+      <change when="2015-07-02" who="bruening">Transkriptverweise, Verschiebung</change>
+      <change when="2015-07-03" who="bruening">Zur Transkription</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>„Streifen, in einer Mappe bei den Paralipomena zu den Tagebüchern ‚Varia zum Tagebuch
+         nicht gehörig‘“ (faust://bibliography/fischer-lamberg1955, S. 29). In
+         faust://bibliography/inventare_2_2 nicht nachgewiesen. Eine Nachforschung im Februar 2013
+         blieb erfolglos. Gesucht wurde unter den Signaturen GSA 35/I,13, GSA 35/II,4 und GSA
+         35/II,11a (Jürgen Gruß) sowie bei den Agenda zu den Tagebüchern und anderen Stellen (Sabine
+         Schäfer). – Zur Datierung: „Da nicht anzunehmen ist, daß Ottilie für die Ankündigung
+         eines Besuches bei ihrem Schwiegervater ein altes Konzeptblatt von ihm benutzt, so wäre für
+         die Anfangsverse der Laboratoriumsszene der 2.9.1829 als t.p.q. anzusetzen.“
+         (faust://bibliography/fischer-lamberg1955, S. 29) – die Notiz Ottilies wurde auf der 
+         Grundlage der Wiedergabe Fischer-Lambergs nach dokumentarischem Prinzip aufgenommen, ohne das  
+      quer dazu niedergeschriebene egh. „Szenar“; dieses wurde, wie die abgeschnittenen Verse der Rückseite,
+      nach textgenetischen Prinzipien behandelt. Die als unsicher gekennzeichneten Lesungen wurden auch hier
+      als unsicher gekennzeichnet, die eckigen Klammern wie in „Mau[er]n“ jedoch gemäß den Prinzipien für den 
+      Umgang mit unspezifischen Bögen weggelassen. 
+      Über Fischer-Lamberg hinausgehende Ergänzungen wurden als solche gekennzeichnet.
+      Die in der textgenetischen Auszeichnung sonst nicht 
+      berücksichtigten Daten zum Zeilenfall und zum Schreibmaterial wurden wegen des Fehlens einer entsprechenden 
+      dokumentarischen Transkription ausnahmsweise mit aufgenommen. Im Zweifelsfall wurde die Abweichung festgehalten. 
+      Die von Fischer-Lamberg transkribierten Umlaute 
+      sind im Original höchstwahrscheinlich nicht markiert.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.4a*</idno>
+      <idno type="gsa_2">n.s.</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 II H.4a</idno>
+      <textTranscript uri="fischer-lamberg1955_2_II_H4a.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">n.s.</width>
+         <height unit="mm">n.s.</height>
+      </dimensions>
+      <format>none</format>
+      <paperType>Schreibpapier</paperType>
+      <note>„gelbliches geripptes Papier“ (faust://bibliography/fischer-lamberg1955, S. 29).</note>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>n.s.</watermarkID>
+      <note>„Wz. Zierrand“ (faust://bibliography/fischer-lamberg1955, S. 29).</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 29</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 29</reference>
+         <reference type="text" uri="faust://bibliography/fischer-lamberg1955">S. 29</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <note>„Notiz Ottilie v. Goethe’s, dazu quer Szenar vor 6819 G“
+               (faust://bibliography/fischer-lamberg1955, S. 29).</note>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>„die Versenden (Streifen mit den Versanfängen ist abgeschnitten) des ersten
+               Entwurfs zu 6819–6829, von denen nur die V. 6819–6822, 6824 deutlich zu erkennen
+               sind, g gestrichen b.“ (faust://bibliography/fischer-lamberg1955, S. 29)</note>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

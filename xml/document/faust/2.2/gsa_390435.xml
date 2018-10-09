@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390435/">
+<revisionDesc>
+   <change when="2012-12-11" who="henzel">imported</change>
+   <change when="2012-12-11" who="henzel">encoded</change>
+   <change when="2015-02-04" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Umschlag mit Adresse Goethes von einem zeitgenössischen Schreiber mit Tinte; dabei Vermerk eines zeitgenössischen Schreibers: „Zur Abschrift“</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.46</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,11</idno>
+      <idno type="gsa_2">GSA 25/W 1538</idno>
+      <idno type="gsa_ident">390435</idno>
+      <idno type="wa_faust">2 II H.46</idno>
+      <!-- P151 -->
+      <idno type="hecker">178</idno>
+      <textTranscript uri="390435.xml"/>
+      <classification>Konzept</classification>
+      <condition>Gebrauchs- und Knitterspuren; fleckig, an den Rändern vergilbt</condition>
+      <dimensions>
+         <width unit="mm">223</width>
+         <height unit="mm">355</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 215 mm. Der Mindestwert der Blatt-Höhe beträgt 352 mm.</note>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>"D O R N ."</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 50</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 500</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 222</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 500</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 655</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 50</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 501</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <!-- Faust -->
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+               <!-- <docTranscript uri="0004.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+               <!-- <docTranscript uri="0004.xml"/> deleatur -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:dabei_vermerk>Vermerk zS: "Zur Abschrift"</f:dabei_vermerk>
+      <f:datierung>vor Juni 1830</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <i>
+                  <sub>i</sub>
+               </i> IIH46 (P151) Diese zum Teil nur schwer zu entziffernden Skizzen zur `Klassischen Walpurgisnacht' stehen auf einem an Goethe adressierten ehemaligen Briefumschlag, der jedoch nicht näher bestimmt und daher für die Datierung nicht ausgewertet werden konnte. </p>
+            <p>Da das im Juni fertiggestellte Zwischenmundum der `Klassischen Walpurgisnacht' (II H74, vgl. hier S. 522f.) den hier skizzierten Entwurf zu den Versen 7801ff. in der endgültigen Fassung aufgenommen hat, kann die Entstehung von II H46 auf jeden Fall vor dem Juni 1830 angesetzt werden. Weitere Überlegungen zur Entstehungszeit sind abhängig von der Deutung der von Schmidt als P151 bezeichneten Bleistiftskizze. Die flüchtige Niederschrift ist allerdings nicht zuverlässig zu entziffern; die WA-Lesung (Z. 1f.: "Der wirds wer unserm Ziele bringt(?)/ Der sich so gar hernieder zwingt") blieb unverständlich; Witkowski kommentierte auch den Verbesserungsvorschlag aus dem Nachtragsband der WA (I,53,533: "Dir wards vor unserm Zauber bang/ Der dich so gern hernieder zwang") eher skeptisch: "Die Lesung der undeutlichen Schrift ist schwerlich überall zutreffend. V. 1 und 2 mag sich auf das scheinbare Herabbeten des Mondes durch Anaxagoras (7902ff.) oder durch die thessalischen
+               Zauberinnen (7920 und 8035f.) beziehen, V. 3 und 4 auf das Verharren des Mondes am Himmel während des Festes (szenische Bemerkung vor 8033 und 8037ff.)" (S. 444). Eine wiederum leicht modifizierte Lesung hat Weitz vorgeschlagen: "Dir wirds vor unserm Zauber bang,/ Der sich so gern hernieder zwang".</p>
+            <p>Mir scheint, es handelt sich hier tatsächlich um einen Entwurf zu dem Beginn der Szene `Ägäische Buchten', als Sprecher wäre an die Sirenen zu denken (so auch Hecker), die als "Dämonen unsrer Bucht" auch die Nereiden und Tritonen "herangesungen" haben (vgl. V. 8056f.). Der "Mond im Gewässer" (P124, Z. 42, hier S. 491) wird noch im ausgeführten Text zu einem zauberischen `Herabzwingen' des Mondes in Bezug gesetzt: "Haben sonst bei nächtigem Grauen/ Dich thessalische Zauberfrauen/ Frevelhaft herabgezogen" (V. 8034-36). Z. 3 ("mitten Himmel") erinnert deutlich an II H22 (hier S. 502, im ausgeführten Text vgl. die Szenenanweisung vor V. 8034); die an den Mond gerichtete Aufforderung der Sirenen, anläßlich des "seeisch heitern Festes" (V. 7510) `stille zu stehen', findet sich noch im endgültigen Text (V. 8078-8081). Mit einiger Wahrscheinlichkeit läßt sich die Entstehung dieses Entwurfs also in zeitlicher Nachbarschaft zu II H22 und II H25 vermuten (die auf II H25 gebotene
+               endgültige Version dieser Verse läßt zwischen Szenenüberschrift und V. 8043ff. noch Raum für weitere Verse, vgl. hier S. 503). </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres K im Vgl. zu 7801-7818 in H.47 (25/XVII,8,12*a)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

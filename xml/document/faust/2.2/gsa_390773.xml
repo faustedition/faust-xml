@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390773/">
+<revisionDesc>
+   <change when="2012-12-11" who="henzel">imported</change>
+   <change when="2012-12-11" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.37</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,2</idno>
+      <idno type="gsa_2">GSA 25/W 1529</idno>
+      <idno type="gsa_ident">390773</idno>
+      <idno type="wa_faust">2 II H.37</idno>
+      <textTranscript uri="390773.xml"/>
+      <classification>Konzept</classification>
+      <condition>Beschädigung durch einen Riss in der Mitte des Blattes; ursprünglich in der Mitte längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">167</width>
+         <height unit="mm">65</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 60 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <!-- Risskante links -->
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 47</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 47</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

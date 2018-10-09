@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_26-LII-21/">
+   <revisionDesc>
+      <change when="2013-03-11" who="bruening">angelegt</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+      <change when="2015-05-13" who="henzel">encoded</change>
+      <change when="2015-05-19" who="henzel">docTranscript ergaenzt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Auf Bl. 48 des (193 Blatt umfassenden) 21. Faszikels zur Farbenlehre aufgeklebter Zettel. Von Schmidt erst nachträglich in die Erstellung des Apparats einbezogen und daher unsigliert geblieben: „Soeben hat J. Wahle auf der Rücks. eines optischen Schemas g1 8928. 8929 in Halbversen gefunden“ (faust://bibliography/wa_I_15_2, S. 99). Blatt 48 beinhaltet eine tabellarische Übersicht der Farbenlehre (Schreiber vermutlich John), darüber ist Zettel angebracht mit dem Titel der Handschrift "Auge empfänglich und gegenwirkend" (Titel und Liste auf Zettel gedruckt, vgl. faust://bibliography/wa_II_5_1, S. 470); dabei: von Goethe eigenhändige Notiz "Von Humbolds Widmung" </note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.25a</idno>
+      <idno type="gsa_2">GSA 26/LII,21</idno>
+      <idno type="gsa_ident">418897</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 III H.25a</idno>
+      <textTranscript uri="GSA_26-LII-21.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering>wohl eigenhändige Foliierung auf Vorderseite des Blatts</numbering>
+         <numbering>Wiederholung der Folionummer auf Rückseite, wohl durch fremde späte Hand</numbering>
+      </numberingList>
+      <condition>Gebrauchsspuren, Blatt wird doppelt gefaltet aufbewahrt</condition>
+      <dimensions>
+         <width unit="mm">395</width>
+         <height unit="mm">325</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 321 mm.</note>
+      <format>none</format>
+      <note>beschnittener Bogen, in seiner Breite vollständig</note>
+      <bindingMaterial>Klebstoff</bindingMaterial>
+      <leafCondition>Tintenflecken auf der Vorderseite; diese ist mit Bleistiftzeilen durchzogen</leafCondition>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>beige</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Sächsisches Rautenkranzwappen mit Krone</watermarkID>
+      <!-- 58 mm breit, 87 mm hoch, auf 4. Steg befindlich -->
+      <countermarkID>"JGH" über "N 3"</countermarkID>
+      <!-- 36 mm breit, 62 mm hoch, zwischen 4. und 5. Steg befindlich -->
+      <note>Wasser- und Gegenzeichen befinden sich auf der Rückseite des beschnittenen Bogens</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 99</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 98</reference>
+         <reference type="text" uri="faust://bibliography/fischer-lamberg1955">S. 98</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 98</reference>
+      </references>
+   </metadata>
+   <!-- Im Folgenden ist nur Blatt 48 wiedergegeben, von der Wiedergabe der Lagenstruktur der gesamten Archivalie wurde aufgrund des Umfangs und der inhaltlichen Zuordnung abgesehen -->
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="GSA_26-LII-21_Seite-1.xml"/>
+         </metadata>
+         <patch>
+            <metadata>
+               <note>Anbringung des Zettels zwar auf Rückseite von Blatt 48, Ausrichtung (textuell) jedoch klar auf dessen Vorderseite</note>
+               <patchDimensions>
+                  <width unit="mm">224</width>
+                  <height unit="mm">104</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>n.s.</patchPaperType>
+               <note>ungeripptes Papier</note>
+               <patchPaperColour>gelblich</patchPaperColour>
+               <patchPaperMill>n.s.</patchPaperMill>
+               <patchWatermarkID>none</patchWatermarkID>
+               <patchCountermarkID>none</patchCountermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="GSA_26-LII-21_Seite-2.xml"/>
+         </metadata>
+         <patch>
+            <metadata>
+               <note>Anbringung eines Zettels mit Faust-Versen an der unteren Kante von Blatt 48; aus einem ganzen Bogen geschnitten, der in seiner Breite vollständig ist</note>
+               <patchDimensions>
+                  <width unit="mm">383</width>
+                  <height unit="mm">162</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Konzeptpapier</patchPaperType>
+               <patchPaperColour>grau-gelblich</patchPaperColour>
+               <patchChainLines unit="mm">26</patchChainLines>
+               <patchPaperMill>Stützerbach</patchPaperMill>
+               <patchWatermarkID>(wohl achtzackiger) Stern</patchWatermarkID>
+               <note>angeschnittenes Wasserzeichen</note>
+               <!-- 55 mm breit, 35 mm hoch -->
+               <patchCountermarkID>"N 1" (wohl unter "Stuetzerbach")</patchCountermarkID>
+               <note>angeschnittenes Gegenzeichen</note>
+               <!-- 38 mm breit, 20 mm hoch -->
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+   </disjunctLeaf>
+</archivalDocument><!-- 
+   1 Blatt
+   Schrift: John, egh(?)
+   
+   Zur Farbenlehre. Tabellarische Übersicht der Farbenlehre
+   Titel der Handschrift: "Auge empfänglich und gegenwirkend" (Berührt im höheren Sinne ...)
+   WA: oS; vgl. II 5.1,470
+   Druck, Konzept
+   Text der Handschrift zu WA: II 5.1,319
+   siehe auch: H.1 (26/LI,17 Bl 34), H.2 (26/LI,17 Bl 35), Druck (26/LII,20 Bl 11-12)
+   
+   Faust. Zweiter Theil. Dritter Act
+   Vers(e): 8928-8929
+   Und am hohen Balken drinn ...
+   WA: oS; vgl. I 15.2,99
+   Konzept
+   
+   dabei:	Notiz egh: "Von Humboldt Widmung" -->

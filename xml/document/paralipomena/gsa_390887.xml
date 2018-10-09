@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390887/">
+   <revisionDesc>
+      <change when="2012-11-07" who="henzel">imported</change>
+      <change when="2012-11-07" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2013-08-26" who="henzel">Lagenstruktur geaendert</change>
+      <change when="2013-09-06" who="ritter">aktualisiert</change>
+      <change when="2013-11-12" who="henzel">uris nachgetragen in lagenstruktur</change>
+      <change when="2014-10-15" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-03-12" who="koehler">Uri print/q</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Versentwürfe zu ‚Faust I‘.</headNote>
+      <note>Doppelblatt, 1 beschriebene Seite. - Seite 1: Versentwürfe zu ‚Faust I‘
+         (eigenhändig, Tinte). </note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P20</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,12</idno>
+      <idno type="gsa_2">GSA 25/W 1386</idno>
+      <idno type="gsa_ident">390887</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P20 bzw. 5, Hecker-Nr. 36 -->
+      <!-- P82 -->
+      <!-- P41, Hecker-Nr. 54 -->
+      <idno type="bohnenkamp">H P20</idno>
+      <textTranscript uri="390887.xml"/>
+      <classification>Konzept</classification>
+      <condition>fleckig; auf Quartformat gefaltetes Folioblatt, wurde nach der Beschriftung auf
+         Queroktav gefaltet</condition>
+      <dimensions>
+         <width unit="mm">208</width>
+         <height unit="mm">345</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 342 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>hellgelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>Wappen (klein) mit Kreuz, darüber Helmbusch</watermarkID>
+      <!-- vgl. 25/W 1361 -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S.
+            293<!-- P20 bzw. P5 --></reference>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S. 357f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 196</reference>
+         <reference type="text" uri="faust://print/q_1_2">S. 178<!-- (P20) --></reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 183, S. 293<!-- P82 -->S.
+            293<!-- P20 bzw. P5 -->, S. 303<!-- P41 --></reference>
+         <reference type="text" uri="faust://bibliography/wa_I_5_2">S. 357</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 196</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 570</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_14">S. 293</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_5_2">S. 357</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 197f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/98 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> HP20 Ein von Goethe in einheitlich schwungvoll-flüchtigem Duktus beschriebenes
+               Sammelblatt. Da es keine Signaturen aufweist, läßt sich seine Zugehörigkeit zur
+               Arbeitsphase von 1797/98 nur vermuten. Schrift und Anlage erinnern deutlich an die
+               Rückseite von H P2 (hier S. 113-115); da es sich außerdem um ein sehr ähnliches,
+               unter den `Faust'-Papieren sonst nicht vertretenes Papier handelt, läßt sich eine
+               zeitliche Nähe zu H P2 vermuten. Auch findet sich auf H P20 eine wahrscheinlich
+               ältere Form von P82; das Blatt wäre also vor H P82 (hier S. 201) anzusetzen.
+               Vermutlich gehört H P20 also zu den Sammelblättern, die 1797/98 als Vorarbeiten zu
+               der neuen Abschrift des alten `Faust-Pakets' angelegt wurden. (Grumach nimmt "mit
+               Sicherheit" an, daß HP20 in die Arbeitsphase 1797/98 gehört. Vgl. Grumach, Prolog und
+               Epilog, S. 67.) </p>
+            <p>Z. 1-4 <b>(P82 Var)</b>: Die Zeilen spielen an auf Jesaias Prophezeiung der
+               Zerstörung des babylonischen Reichs: "Also soll Babel, das schönste unter den
+               Königreichen [...] umgekehret werden von Gott wie Sodom und Gomorra,/ Daß man hinfort
+               nicht mehr da wohne, noch jemand da bleibe für und für [...]/ Sondern Zihim werden
+               sich da lagern, und ihrer Häuser voll Ohim sein" (Jes. 13,19-21). "Ohim" und "Zihim"
+               sind die Namen von Tieren, die sich nach der Prophezeiung in den verlassenen Stätten
+               ansiedeln (vgl. Goethes Tagebuch vom 6. 7. 1777; WA III,1,41): "Man ist der
+               eigentlichen Bedeutung diese[r] Worte nicht gewiß, sieht aber so viel klar genung,
+               daß Thiere darunter verstanden werden, die sich gern an wüsten Orten aufhalten, und
+               durch gräßliches Geheule oder Geschrey eine sehr unangenehme Musik machen." (Zedler,
+               Bd. 62, S. 690.) Für welchen Zusammenhang diese Zeilen hier notiert wurden, läßt sich
+               nur vermuten; der Kontext legt eine mögliche Beziehung zu den folgenden _ nicht durch
+               einen Querstrich abgetrennten _ Entwürfen nahe: Z. 1-4 lassen sich dann wie Z. 5f.
+               als Ausdruck einer unbefriedigenden Gegenwart lesen. Auf dem Sammelblatt H P82 hat
+               Goethe eine wahrscheinlich spätere Fassung dieses Dreizeilers "ad 22" gekennzeichnet
+               und damit näheren Aufschluß über die geplante Verwendung gegeben (vgl. Kommentar zu H
+               P82, hier S. 202), die womöglich auch erst zu diesem Zeitpunkt von Goethe bestimmt
+               wurde.</p>
+            <p>Z. 5-12: Die Beziehung dieser von Schmidt als "zwei lyrische Fragmente" bezeichneten
+               Verszeilen auf den `Faust' wird vom Überlieferungskontext nahegelegt: "Unzweifelhaft
+               haben wir in diesen Versen eine Improvisation Goethes zu erblicken, in der er seinen
+               Gedanken über die ihn beschäftigende Dichtung Ausdruck gab." (Pniower, Einige
+               Faustparalipomena, S. 420.) Auch Burdach verteidigt die Beziehung dieses
+               fragmentarischen Entwurfs auf den `Faust': "Natürlich redet Goethe hier von seinem
+               Faust, redet davon in dem Augenblick, als er sich um die Wiederaufnahme der lange
+               stockenden Arbeit daran und ihrer Fortführung müht und an ihrer Möglichkeit
+               verzweifelt." (Burdach, Disputationsszene, S. 61.) Ob die Verse jedoch auch für den
+               `Faust' bestimmt waren, läßt sich nicht mit Sicherheit sagen; festzustellen ist
+               jedoch eine thematische Verwandtschaft mit den Stanzen des `Abschieds' (P98, hier S.
+               211f.).</p>
+            <p>Z. 13-17 <b>(P20)</b>: Schon Riemer und Eckermann haben in ihrer Edition (Q) diesen
+               Vierzeiler in den Zusammenhang der `Disputation' gestellt; diese Zuordnung wird</p>
+            <p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+            <p>von Schmidt in der WA übernommen und von Burdach ausführlich begründet (Burdach, Zu
+               den Faust-Paralipomena, und wieder in: Burdach, Disputationsszene, S. 61f.). Er sieht
+               hier die mephistophelische Naturauffassung der Position Fausts entgegengestellt. In
+               einem Aufsatz vom 15. Januar 1798, posthum veröffentlicht unter dem Titel `Erfahrung
+               und Wissenschaft', verwendet Goethe im Hinblick auf unterschiedliche Methoden der
+               Naturforschung ebenfalls das Bild des `Bruchs': "Es gibt, wie ich besonders in dem
+               Fache das ich bearbeite oft bemerken kann, viele empirische Brüche, die man wegwerfen
+               muß um ein reines constantes Phänomen zu erhalten; allein sobald ich mir das erlaube,
+               so stelle ich schon eine Art von Ideal auf. Es ist aber dennoch ein großer
+               Unterschied ob man, wie Theoristen thun, einer Hypothese zu lieb ganze Zahlen in die
+               Brüche schlägt, oder ob man einen empirischen Bruch der Idee des reinen Phänomens
+               aufopfert." (WA II,11,38) Ergänzend dazu eine zuerst von Burdach in diesen
+               Zusammenhang gestellte, von Boisserée überlieferte Äußerung Goethes: Auf die Frage
+               Boisserées nach einem bestimmten geologischen Buch antwortet Goethe, "es sey ein
+               trefflich Buch; doch <i>fehle</i> etwas, welches auf eine seltsame Weise entstehe und
+               häufig vorkomme. Der Mann suche nämlich etwas zu erklären, was sich nicht erklären
+               lasse, was man zugeben müsse; bis auf den Punkt sey er ganz charmant, aber durch dieß
+               falsche Bemühen verderbe er seine Sache. Es sey damit wie bei der Musik, wo man nie
+               eine reine Oktave kriege, sondern in der zweiten immer ein neuer Ton sich bilde, ein
+               neunter Theil, den man nicht als einen für sich stehenden annehmen könne, darum als
+               Bruch in die ganze vertheile. Dieser <i>Bruch</i> sey es, der einem überall in der
+               Geologie und in der ganzen Natur begegne. Wolle man ihn rein auflösen, so gehe es
+               nicht, so verwirre man das Ganze, man müsse wissen, daß da noch etwas Unauflösbares
+               sey, und es als solches zugeben, dann komme man durch." (11. 8. 1815, Tagebuch Sulpiz
+               Boisserée I,266.) Die metaphorische Verwendung des Ausdrucks `Bruch' wirft Licht auf
+               P20. Auch in diesem Vierzeiler geht es um grundlegende erkenntnistheoretische Fragen;
+               und eben diese sollten Gegenstand der geplanten `Disputation' zwischen den beiden
+               Protagonisten werden. (Vgl. Kommentar zu H P11/H P12, hier S. 226-237.) Gegen die
+               Zuordnung zur Disputation hat jedoch Morris eingewandt, daß die beiden Protagonisten
+               dort nicht per `du' verkehren sollten: "unser Spruch gehört also in irgend eine
+               andere Verhandlung Fausts mit Mephisto" (Morris, Faustparalipomena, S. 161); daran
+               anschließend hat Schaaffs P20 versuchsweise an den Schluß der Studierzimmerszene (V.
+               2072) gestellt. (Schaaffs, Faustparalipomena.)</p>
+            <p>Z. 18f. <b>(P41)</b>: Möglicherweise für die satirischen Szenen der `Walpurgisnacht'
+               vorgesehen. Da der von Morris hergestellte Bezug auf Klopstock (vgl. Morris,
+               Walpurgisnacht, S. 76) als ungesicherte Spekulation gelten muß (vgl. meinen Kommentar
+               zu H P10, hier S. 123), ist auch der damit verbundene terminus a quo für das
+               vorliegende Sammelblatt, das Erscheinungsdatum der Prachtausgabe der Oden Klopstocks
+               im Frühjahr 1798, hinfällig.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

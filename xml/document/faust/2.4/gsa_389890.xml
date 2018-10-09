@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389890/">
+<revisionDesc>
+   <change when="2012-11-20" who="henzel">imported</change>
+   <change when="2012-11-20" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Fortsetzung in Paralipomenon 182 auf 2 IV H.20, bildeten ursprünglich einen Foliobogen</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P181</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,21</idno>
+      <idno type="gsa_2">GSA 25/W 1795</idno>
+      <idno type="gsa_ident">389890</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P181</idno>
+      <!-- P181 -->
+      <textTranscript uri="389890.xml"/>
+      <classification>Schema</classification>
+      <condition>leichter Tintenfraß, in der Mitte ursprünglich längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">326</height>
+      </dimensions>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">61</stabMark>
+         <stabMark unit="mm">81</stabMark>
+         <stabMark unit="mm">116</stabMark>
+         <stabMark unit="mm">134</stabMark>
+         <stabMark unit="mm">199</stabMark>
+         <stabMark unit="mm">224</stabMark>
+         <stabMark unit="mm">251</stabMark>
+         <stabMark unit="mm">274</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N1"(?)</watermarkID>
+      <!-- undeutliches WZ (Stern?) -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 238f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 708</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 708-710</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 714f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 711f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Fortsetzung in Par 182 auf IV H.20 (25/XVIII,5,21), bildeten ursprünglich einen Foliobogen; zur Datierung vgl. Bohnenkamp, S.712</f:bemerkung>
+      <f:datierung>Juni 1831 (?)</f:datierung>    
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> . . . Die Zusammengehörigkeit der Schemata P181 und P182 wurde schon von Max Hecker erkannt (zuerst realisiert in seiner `Faust'-Ausgabe von 1937). Der handschriftliche Befund bestätigt seine Entscheidung: die beiden Folioblätter gehören zu einem Foliobogen, der wohl erst nach der Beschriftung mit dem Schema zum 4. Akt zertrennt Nachlaßstücke Zweiter Teil, Akt 4 </p>
+            <p>wurde. Der Entwurf mit roter Tinte auf der Rückseite des 2. Blattes gleicht in Duktus, Schreibmaterial und Signatur der Rückseite von IV H1; in beiden Fällen handelt es sich um eigenhändige Niederschriften zur Alexandriner-Szene, für die die Rückseiten inzwischen erledigter Munda verwendet wurden. (Zum Mundum der Schlußszene vgl. mein Kapitel zur Entstehungsgeschichte des 4. Akts, hier S. 668.) Die auf der Rückseite des 2. Blattes (IV H20) stehenden Stichworte im Schemaduktus von Johns Hand ("Reden und Äußerungen hin und wieder") scheinen entgegen dem ersten Eindruck nicht zum `Faust'-Schema zu gehören.</p>
+            <p>Das ausführliche Schema P181/182 setzt an der Stelle ein, wo P178 außer Kraft gesetzt wird, mit dem Anfang der 2. Szene `Auf dem Vorgebirg'. Der Beginn ist eine Reinschrift-Fassung der auf dem letzten Blatt von P178 eigenhändig eingetragenen Ergänzung zum Szenar vor V. 10345 (hier S. 683). Die Entstehung von P181/182 ist also nach P178 und wohl auch nach der Ausarbeitung der ersten Partien von P178, vermutlich also im Juni 1831 anzusetzen.</p>
+            <p>Nach dem Szenar folgen detaillierte Stichworte zu V. 10345-10374, die der Ausführung schon recht nahe stehen (Z. 10-31); die folgenden Zeilen (Z. 32-50) bis zur "Ausforderung" des Gegenkaisers weichen noch stärker von der Ausführung ab. Auch die zum Teil nur unsicher zu entziffernden Randergänzungen Goethes zu Z. 40-45 sind in die Ausführung nicht mit eingegangen. Die folgenden Stichworte zur Schlacht (zu V. 10473-10480, 10507-10580, 10640-10653) weisen im Vergleich mit dem ausgeführten Text noch große Lücken auf; es fehlt noch die kritische Wendung der Schlacht sowie der Komplex um den Nekromanten von Norcia (der bis zuletzt Erweiterungen erfuhr); der Einsatz der Geister wird nur angedeutet. Andere Motive werden erst nachträglich ergänzt: Goethes Bleinotizen am Rand der Schemareinschrift skizzieren Fausts Rede vom "Haupt das von den Gliedern vertheidigt wird" (Z. 56-59 alR) und führen das "Zelt des Gegenkays[ers]" ein (Z. 76 alR), das in der Ausführung dann zu einer
+               eigenen Szene entwickelt wird. Der Schluß des Aktes sieht auch nach diesem Schema noch die Beleihung Fausts "mit dem Meeresstrande" vor. An einigen Stellen werden schon ausformulierte Verse notiert, die zum Teil mit nur geringen Abweichungen in den endgültigen Text aufgenommen wurden (Z. 68-71).</p>
+            <p>Während das Schema zu Beginn detaillierte Angaben zu einzelnen Äußerungen der handelnden Personen macht, geht es im zweiten Teil (etwa ab Z. 45) zur stichwortartigen Schilderung des Geschehens über: dieser zweite Teil wurde bei der Ausführung dann auch im Einzelnen nicht mehr befolgt.</p>
+            <p>Z. 18f. bewährt] Wahrscheinlich Schreiberfehler für "bewehrt" _ gemeint ist wohl, daß das Gelände Schutz bietet gegen den Angriff: "Der Boden ungleich abhängig/ Zum Angriff schwer den Feinden" (vgl. V. 10352f.)</p>
+            <p>Z. 44f. alR {Sperrte mich in meine Hauptstadt ein}] Im Nachtragsband der WA (I,53,534) verbesserte Lesung dieser nur unsicher zu entziffernden Bleistiftspuren, die zunächst als "Später auch in Menge Hauptstadt ein" wiedergegeben worden waren.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

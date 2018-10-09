@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-02-21" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="275" facs="brockhaus1872_1_0275.jpg"/>
+            <div type="letter">
+                <p><milestone unit="testimony" spanTo="#graef_1139_end" xml:id="graef_1139"/>Goethe
+                    war mit Ihren <rs>erſten beiden Zeichnungen (zum „Fauſt“)</rs> ſehr zufrieden, und er hat
+                    mir aufgetragen, Ihnen ſeinen Dank zu bezeugen.<anchor xml:id="graef_1139_end"/>
+                    Ihr erſtes Bild, das Puttrich gekauft, war auch in Weimar, und Schwerdgeburth
+                    hatte den Vorſatz, ſolches in großem Format in Kupfer zu ſtechen. Er wird aber
+                    wahrſcheinlich dieſe Idee aufgeben, da ich auf eine andere gekommen bin: eine
+                    Goethe-Galerie in 12 oder 24 Blättern in der Größe Ihrer Zeichnungen
+                    herauszugeben, ſobald die Zeitläufte eine ſolche Unternehmung nur einigermaßen
+                    begünſtigen und das Publikum Ruhe findet, ſich dafür intereſſiren zu können.
+                    Mündlich, da ich Sie bald perſönlich zu ſehen hoffe, hierüber mehr.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

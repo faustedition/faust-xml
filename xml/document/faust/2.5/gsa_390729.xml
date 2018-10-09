@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390729/">
+   <revisionDesc>
+      <change when="2012-11-16" who="henzel">imported</change>
+      <change when="2012-11-16" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>bildete ursprünglich mit V H.20 ein Folioblatt, das erst nach der Beschriftung getrennt wurde</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.22</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,23</idno>
+      <idno type="gsa_2">GSA 25/W 1720</idno>
+      <idno type="gsa_ident">390729</idno>
+      <idno type="wa_faust">2 V H.22</idno>
+      <textTranscript uri="390729.xml"/>
+      <classification>Konzept</classification>
+      <condition>war vor der Beschriftung in Kolumnen gebrochen; das gesamte Folioblatt, von dem das Blatt abgeschnitten wurde, war zudem auf Quart gefaltet</condition>
+      <dimensions>
+         <width unit="mm">205</width>
+         <height unit="mm">187</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 182 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 770</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 159</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 147</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 770f., 772</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 148</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 773</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+ 
+ 
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <i>
+                  <sub>R ung</sub>
+               </i> VH20 / VH22 Da die ursprünglich zu einem Folioblatt gehörenden Stücke V H20 und V H22 erst nach der Beschriftung getrennt wurden, werden sie hier _ dem ursprünglichen Zustand entsprechend _ zusammen wiedergegeben. Äußere Anhaltspunkte für die Datierung bieten die Handschriften nicht. </p>
+            <p>Das Blatt mit Entwürfen zur Szene `Grablegung' enthält einen ersten Bleientwurf zu Mephistopheles' Rede über die Seele, die in einer zweiten Schicht mit Tinte eigenhändig überarbeitet wurde. Die später zur "schnellsten Maus" verwandelte "Grillenmaus" ist wohl ein Neologismus Goethes zur Bezeichnung der grillenhaften (launischen) Seele, die neuerdings das besonders seltsame "Gelüst" hat, "erst die Verwesung abzuwarten" und im faulenden Körper lustwandelt ("promenirt") _ vgl. V. 11626f.</p>
+            <p>Z. 1-4: über kaum abweichendem Bleistiftentwurf zu diesen Versen.</p>
+            <p>Z. 5-12 wurden von Strehlke (S. 139) als "sehr abweichend vom späteren Texte" unter die `Paralipomena' aufgenommen; BA verzeichnet Z. 5-13 unter den `Skizzen und Varianten' (S. 663).</p>
+            <p>Z. 13 der Streit der Elemente] Landeck nimmt an, daß diese Notiz auf eine später aufgegebene Absicht Goethes verweist, "einen chorartigen Einschub in Mephistopheles' Monolog" einzufügen und schließt daraus auf eine frühe Entstehung des Entwurfs (Landeck, S. 144). Für einen solchen Plan, die Elemente selbst auftreten zu lassen, gibt es jedoch keine weiteren Hinweise; die Notiz kann ebenso als Stichwort für die noch auszuführende Beschreibung dieses Streits durch Mephistopheles gelesen werden.</p>
+            <p>Z. 53 gerecht] Landeck irrtümlich "recht".</p>
+            <p>Z. 41 Ihr thut sehr wohl] Landeck irrtümlich "Ihr sehr wohl".</p>
+            <p>Überarbeiteter Bleistiftentwurf zu Fausts Versen 11407-11419 der Szene `Mitternacht'; Vorstufen zu diesem Entwurf finden sich auf den Handschriften V H3-V H6 (vgl. hier S. 763. Zur relativen Chronologie vgl. die von Heinz Bluhm vorgelegte ausführliche Untersuchung `Die Entwicklung von Fausts erstem Monolog in der Szene <i>Mitternacht</i>'). Während Hertz (Entstehungsgeschichte Faust II Akt 5, S. 256) die Entstehung dieser Entwürfe in den Tagen vom 19. 2. _ 4. 3. 1825 vermutet, datiert Landeck den zügigen Bleistiftentwurf, der "kurz nach V H6 entstanden sein muß", auf einen Zeitpunkt nach dem 26. 2. 1825. (Landeck, S. 121.)</p>
+            <p>Z. 12 Anzeichen] Anstelle der WA-Lesung "Angänge" (so auch Landeck) wurde im Nachtragsband "Anzeigen" vorgeschlagen.</p>
+            <p>Z. 19 mein] Landeck irrtümlich "mir". </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

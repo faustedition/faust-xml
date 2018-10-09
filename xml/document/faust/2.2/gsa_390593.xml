@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390593/">
+<revisionDesc>
+   <change when="2012-12-10" who="henzel">imported</change>
+   <change when="2012-12-10" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">URI fuer Handschriftensigle</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Verzeichnis von Rechnungsbelegen von John mit Tinte; bildete ursprünglich mit H.70 (faust://document/gsa_2/25-XLII-2-8) ein Folioblatt;</note><!-- Achtung Sigle von MuR -->
+      <!-- Faust-Beschriftung erst nach Teilung des Blatts -->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.34</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,36</idno>
+      <idno type="gsa_2">GSA 25/W 1525</idno>
+      <idno type="gsa_ident">390593</idno>
+      <idno type="wa_faust">2 II H.34</idno>
+      <idno type="wa_mur">none</idno>
+      <idno type="hecker">897</idno><!-- TODO pruefen, auf was sich Nummer bei Hecker konkret bezieht und ggf. idno-attr.wert anpassen -->
+      <textTranscript uri="390593.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">166</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatte-Höhe beträgt 164 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbgrünlich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Wappen mit Krone über "Stuetzerbach"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 45</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 45f.</reference>
+         <!-- TODO vgl. Fischer-Lamberg, S.46 -->
+         <!-- TODO Schr. d. GGS, Bd 21, 1907 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>bildete ursprünglich mit H.70, WA I 42.2,360 (25/XLII,2,8) ein Folioblatt; zur Datierung vgl. Fischer-Lamberg, S.46, = 2. Konzept  im Vgl. mit II H.33 (25/XVII,7,35), = Hecker Nr 897, in: Schr. d. GGS, Bd 21, 1907</f:bemerkung>
+      <f:datierung>Faustverse ab dem 23.4.1830</f:datierung>
+      </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Maximen und Reflexionen über Literatur und Ethik. WA I 42.2, 109-252</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

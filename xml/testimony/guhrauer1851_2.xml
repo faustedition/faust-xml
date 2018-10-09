@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-07" who="Kockel">markiert</change>
+            <change when="2018-10-08" who="Krause">ergänzt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="301" facs="guhrauer1851_2_0301.jpg"/>
+            <div type="letter">
+                <head rend="centered"><num>585.</num> An Goethe.</head>
+                <head rend="right">Jena den <date when="1821-12-18">18. December 1821.</date></head>
+                <p>Herr Weller hat mir eben Dein Bild in ſchönen Rahmen eingefaßt überbracht, und
+                    ich nehme davon Gelegenheit, Dir nochmals meinen beſten Dank für das holde
+                    Geſchenk abzuſtatten.</p>
+                <p>Es wird meinem kleinen Salon zu hoher Zierde gereichen.</p>
+                <pb n="302" facs="guhrauer1851_2_0302.jpg"/>
+                <p><milestone unit="testimony" spanTo="#pniower_335_end" xml:id="pniower_335"
+                    />Geſtern fand ich in einem meiner beliebten engliſchen Journale, bei
+                    Gelegenheit der <rs>von H. Moſes nachgeſtochenen Umriſſe des Hrn. Retſch nach
+                        dem Fauſt</rs>, ein Urtheil über das Gedicht ſelbſt, das mich nicht wenig
+                    erfreute, zumal da es von einem Engländer kommt.</p>
+                <p>Da ich nicht weiß, ob Du es zu Geſicht bekommen, ſo will ich es herſetzen:</p>
+                <p><hi rend="antiqua">— The subjects represent some of the main passages in the
+                        tragedy — a work which very pathetically enforces the direfull results of
+                        appetit and passion when forsaken by conscience and reason; and the scenes
+                        are addressed with a potent effect to the fancy by the visible agency of a
+                        demon, witched, etc. — the allegorical personifications of vice and folly.
+                        Some of the scenes might be considered, perhaps, rather to luxuriant, but
+                        when attentively reflected upon in connexion with the moral reasonings,
+                        illustrations, and miseries detailed in the accompanying analysis of the
+                        tragedy, they cannot fail of enforcing the value and beauty of moral
+                        rectitude, and the necessity of controuling the senses.<anchor
+                            xml:id="pniower_335_end"/> —</hi> K.</p>
+            </div>
+
+            <pb n="378"/>
+            <div type="letter">
+                <p><hi rend="bold">647. An Knebel.</hi></p>
+                <p>Weimar den 21. Juli 1827.</p>
+                <p>Schönſtens grüßend, überſende was ſich auf Manzoni bezieht <note place="foot"
+                        xml:id="ftn1" n="1"><p rend="footnote text"><ref type="footnote">1)</ref> S.
+                            Opere poetiche di <hi rend="italic">Alessandro Manzoni</hi> con
+                            prefazione di <hi rend="italic">Goethe</hi> (Jena 1827). </p></note>.
+                    Wegen Adelphi darf ich auf Seite XXXX. hinweiſen. Das neue Werk: I promessi
+                    sposi, Storia milanese del seculo XVII. scoperta e rifatta da Allesandro Manzoni
+                    in drey Bänden habe geleſen, ſo mit Rührung wie mit Bewundrung, auch dem
+                    ſchließlichen Dafürhalten, daß es ſich neben dem Beſten was das 19. Jahrhundert
+                    hervorgebracht hat und hervorbringen wird, einen ehrenvollen Platz behaupten
+                    ſoll.</p>
+                <p><milestone unit="testimony" xml:id="graef_1503" spanTo="#graef_1503_end"/>Wenn Du
+                    der <rs>Helena</rs> befreundet bleibſt, ſo wird Dir weder im Ganzen noch im
+                    Einzelnen etwas räthſelhaft bleiben, ſo wenig Du an der treuen Freundſchaft
+                    zweifeln wirſt Deines G.<anchor xml:id="graef_1503_end"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

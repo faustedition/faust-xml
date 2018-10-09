@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-XXXVII-B-29b/">
+    <revisionDesc>
+        <change when="2013-09-02" who="bruening">angelegt</change>
+        <change when="2013-09-24" who="bruening">encoded</change>
+        <change when="2014-06-11" who="henzel">docTranscript nachgetragen</change>
+        <change when="2014-06-30" who="henzel">xml:base nachgetragen</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+        <change when="2015-01-26" who="bruening">neue GSA-Signatur</change>
+        <change when="2015-07-02" who="henzel">textTranscript</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Einzelblatt. – Prosa zu ‚Faust II‘, Akt 3.</headNote>
+        <repository>gsa</repository>
+        <idno type="faustedition">H P123.4</idno>
+        <idno type="gsa_1">GSA 25/XXXVII,B,29b</idno>
+        <idno type="gsa_2">GSA 25/W 3036</idno>
+        <idno type="gsa_ident">5805</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="wa_helenaank">H.1</idno>
+        <idno type="aa_ls_helenaank">H.4</idno>
+        <idno type="aa_ls_kuaschemata">H.11</idno>
+        <textTranscript uri="GSA_25-XXXVII-B-29b.xml"/>
+        <classification>Konzept</classification>
+        <dimensions>
+            <width unit="mm">207</width>
+            <height unit="mm">347</height>
+        </dimensions>
+        <format>2</format>
+        <edges>uncut</edges>
+        <paperType>none</paperType>
+        <paperColour>blau</paperColour>
+        <watermarkID>CA</watermarkID>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_42_1">S. 258</reference>
+            <reference type="description" uri="faust://bibliography/aa_ls_6">S. 509, 728</reference>
+            <reference type="text" uri="faust://bibliography/aa_ls_3">S. 326f.</reference>
+            <reference type="essay" uri="faust://bibliography/wa_I_42_1">S. 258, 263</reference>
+            <reference type="essay" uri="faust://bibliography/aa_ls_6">S. 510, 728</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <references>
+                    <reference type="text" uri="faust://bibliography/aa_ls_3">S. 326f., Nr. 8.2</reference>
+                </references>
+                <docTranscript uri="GSA_25-XXXVII-B-29b_Seite-2.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="GSA_25-XXXVII-B-29b_Seite-1.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

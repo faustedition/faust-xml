@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-27" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">C.3 12</idno>
+        <idno type="wa_faust">C</idno>
+        <idno type="hagen">C.3</idno>
+        <idno type="hagen_nr">24</idno>
+        <headNote>Oktavausgabe letzter Hand bei Cotta, 1829</headNote>
+        <bibl>Goethe’s Werke. Vollständige Ausgabe letzter Hand. Zwölfter Band. Unter des
+            durchlauchtigsten deutschen Bundes schützenden Privilegien. Stuttgart und Tübingen, in
+            der J. G. Cotta’schen Buchhandlung. 1829. 295 S. gr. 8°</bibl>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 27</idno>
+            </referenceCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 252</reference>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 3</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 88</reference>
+        </references>
+        <textTranscript uri="C(3)12_IIIB27.xml"/>
+    </metadata>
+</print>

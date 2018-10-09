@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390294/">
+<revisionDesc>
+   <change when="2012-12-11" who="henzel">imported</change>
+   <change when="2012-12-11" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Weimarer Theaterzettel vom 28.11.1829 zu "Die Stumme von Portici" Oper nach Scribe und Delavigne, Musik von Auber; bildete ursprünglich ein Blatt mit H.9 (25/XVII,7,10 = Rest des Theaterzettels)</note><!-- erst nach der Beschriftung geteilt -->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.16a</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,6:1</idno>
+      <idno type="gsa_2">GSA 25/W 1778</idno>
+      <idno type="gsa_ident">390294</idno>
+      <idno type="wa_faust">none</idno> 
+      <idno type="fischer_lamberg">2 II H.9a</idno>
+      <idno type="bohnenkamp">H P147</idno>
+      <!-- P147 -->
+      <textTranscript uri="390294.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">198</width>
+         <height unit="mm">60</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 196 mm. Der Mindestwert der Blatt-Höhe beträgt 57 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 32</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 473</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 221</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 474</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 32</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 474</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> P147 wurde auf einem Streifen notiert, der von einem Theaterzettel vom 28. 11. 1828 (Die Stumme von Portici) abgetrennt wurde. Während die auf der als II H9 bezeichneten Hälfte befindlichen Bleiststiftentwürfe zu V. 7106ff. und 7090ff. vor Zertrennen dieses Theaterzettels niedergeschrieben wurden, läßt sich das für P147 nicht mit Sicherheit feststellen, kann aber als wahrscheinlich gelten, da der Duktus sämtlicher Entwürfe sehr ähnlich ist und eine etwa zeitgleiche Entstehung nahelegt.</p>
+            <p>Nach den Überlegungen von Fischer-Lamberg läßt sich die Entstehungszeit der verschiedenen Entwürfe aufgrund des datierten Theaterzettels einerseits und der die Bleistiftentwürfe überdeckenden Zeilen von der Hand Johns andererseits auf die Tage zwischen dem 28. 11. und dem 1. 12. 1829 festlegen: eben diese Zeilen finden sich am Kopf der Liste neuer Aktionäre, die Goethe am 5. 12. 1829 an Quandt schickte (vgl. WA IV,46,175) und für die ein auf den 1. 12. 1829 datiertes Konzept überliefert ist (GSA: Goethe Akten 364, Blatt 47), das als terminus ante quem für den auf II H9 vorliegenden "Anordnungsversuch" Johns gelten kann (Fischer-Lamberg, S. 32). Tatsächlich hat John ganz offensichtlich auf dem vorliegenden Blatt die Einrichtung des Titels für die Aktionärsliste probiert; nicht völlig zweifelsfrei ist jedoch die Beschriftungsreihenfolge.</p>
+            <p>Auf die Zusammengehörigkeit von II H9 und dem Streifen mit P147 wurde von Gerber schon 1899 hingewiesen: "The playbill of November 28, originally contained line 7181 and the second half of 7182 also. Afterwards these two lines were cut off and placed elsewhere." (Gerber, Walpurgis-Night, S. 214. Vgl. auch Fischer-Lamberg, S. 32.) Tatsächlich handelt es sich hier nicht um ein `Paralipomenon' (im Sinne Schmidts), sondern um Entwurfszeilen zu den von Faust gesprochenen Versen 7181f. (auf II H17 schon ergänzt von John übernommen). Bei den Entwürfen zu dem Gespräch zwischen Greifen und "Ameise collos[al]" (Z. 19) fällt auf, daß letztere hier anders als im ausgeführten Text im Singular auftritt. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

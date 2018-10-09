@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/fdh_frankfurt/Hs-29527/">
+   <!-- bruening 2012-10-01 -->
+   <revisionDesc>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <textTranscript uri="Hs-29527.xml"/>
+      <repository>fdh_frankfurt</repository>
+      <idno type="faustedition">2 II H.11a</idno>
+      <idno type="fdh_frankfurt">FDH 29527</idno>
+      <idno type="gsa_1">25/XVII,6,8a</idno>
+      <idno type="wa_faust">none</idno>
+      <references>
+         <reference type="description" uri="faust://bibliography/maisak2007">S. 56, Nr. 43</reference>
+         <reference type="description" uri="faust://bibliography/moering2008">S. 417f.</reference>
+         <reference type="text" uri="faust://bibliography/maisak2007">S. 56, Nr. 43</reference>
+         <reference type="text" uri="faust://bibliography/moering2008">S. 417f.</reference>
+         <reference type="facsimile" uri="faust://bibliography/maisak2007">S. 67, Nr. 43</reference>
+      </references>
+      <history>Vgl. faust://bibliography/moering2008, S. 417.</history>
+      <dimensions>
+         <width unit="mm">230</width>
+         <height unit="mm">31</height>
+      </dimensions>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="Hs-29527_2.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="Hs-29527_3.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

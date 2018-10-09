@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390286/">
+   <revisionDesc>
+      <change when="2012-11-15" who="henzel">imported</change>
+      <change when="2012-11-15" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>Empfangsbestätigung Göttlings für Goethe mit schwarzer Tinte vom 30. Mai 1831</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.22b</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,24</idno>
+      <idno type="gsa_2">GSA 25/W 1694</idno>
+      <idno type="gsa_ident">390286</idno>
+      <idno type="wa_faust">2 IV H.22a</idno>
+      <textTranscript uri="390286.xml"/>
+      <classification>Konzept</classification>
+      <history>Ankauf von Schlosser, L. (Arnstadt) im August 1906</history>
+      <condition>wurde quer und längs auf Oktav gefaltet; insbesondere in der unteren Hälfte der Rückseite große Flecken</condition>
+      <dimensions>
+         <width unit="mm">212</width>
+         <height unit="mm">339</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <f:reference type="description" uri="faust://bibliography/wa_I_53">567f.</f:reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 723</reference>
+         <f:reference type="text" uri="faust://bibliography/wa_I_53">568<!-- Teilwiedergabe --></f:reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 723f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 719f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 724</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!--  <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Vorstufe zu H.8 (25/XVIII,5,9)</f:bemerkung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <img src="./ABOG1_01.JPG" width="10" height="8" align="middle"/>
+               <img src="./ABOG1_01.JPG" width="8" height="7" align="middle"/>
+               <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV2_56.JPG" width="40" height="9" align="middle"/> Diese Entwürfe sind auf einem Blatt niedergeschrieben, das zunächst von Göttling benutzt wurde, um den Empfang von vier Bänden der Goetheschen Werke zu quittieren: "Den 36-40 Band der Velinausgabe in 8° der götheschen Werke als fortgesetztes Geschenk Sr. Exzellenz des Herrn Geheimen Raths von Goethe erhalten zu haben bezeugt mit unterthänigstem Dank/ Jena. d. 30. Mai 1831/ KGöttling". Für die Entwürfe zum `Faust' gilt also das Quittungsdatum 30. 5. 1831 als terminus post quem. </p>
+            <p>Es handelt sich hier um Entwürfe zu den Schlachtszenen, die in den Schemata noch nicht verzeichnet sind (Z. 16-31), sowie um eine frühe Version der Aufforderung des Erzbischofs an den Kaiser, als Sühne für die Verbindung mit den "bösen Geistern" der Kirche Land zu stiften (vgl. V. 10993ff.), die noch in fünfhebigen Jamben gehalten ist (Z. 1-15, vgl. im endgültigen Text V. 10993-11022). Die Entscheidung für das Alexandriner-Maß in der Erzämterszene ist also später gefallen.</p>
+            <p>IV H22a läßt sich als Vorstufe des Teilmundums IV H8 (hier S. 725f.) bestimmen. Also gilt auch für IV H8 der 30. 5. 1831 als terminus post quem. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

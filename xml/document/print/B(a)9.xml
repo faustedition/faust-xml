@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">B.a</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="wa_I_53">B.1</idno>
+        <idno type="hagen">B.a</idno>
+        <idno type="hagen_nr">22</idno>
+        <headNote>Sog. Wiener Ausgabe bei Kaulfuß und Armbruster, 1817</headNote>
+        <bibl>Goethe’s Werke. Neunter Band. Original-Ausgabe. Wien, 1817. Bey Chr. Kaulfuß und C. 
+            Armbruster. Stuttgart. In der J. G. Cotta’schen Buchhandlung. Gedruckt bey Anton Strauß. 
+            479 S. 8°</bibl>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">A 101286</idno>
+            </referenceCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 21</idno>
+            </furtherCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 251</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 49</reference>
+            <reference type="essay" uri="faust://bibliography/hagen1983">S. 51</reference>
+        </references>
+        <textTranscript uri="Ba9_A101286.xml"/>
+    </metadata>
+</print>

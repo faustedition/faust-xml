@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/veste_coburg/A_IV_708_1_10/">
+   <revisionDesc>
+      <change when="2012-09-28" who="bruening">Nachweise</change>
+      <change when="2013-07-30" who="bruening">Bohnenkamp-Angaben.</change>
+      <change when="2013-07-30" who="bruening">encoded</change>
+      <change when="2013-07-30" who="ritter">aktualisiert</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+  <metadata>
+     <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <repository>veste_coburg</repository>
+      <idno type="faustedition">H P108b</idno>
+      <idno type="veste_coburg">IV, 708,10</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,4b</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P108b</idno>
+      <textTranscript uri="A_IV_708_1_10.xml"/>
+     <classification>Mundum</classification>
+     <condition>Rückseitig Klebespuren.</condition>
+      <dimensions>
+         <width unit="mm">162</width>
+         <height unit="mm">57</height>
+      </dimensions>
+     <paperType>Konzeptpapier</paperType>
+     <paperColour>bräunlich</paperColour>
+     <watermarkID>none</watermarkID>
+     <references>
+        <reference type="description" uri="faust://bibliography/wa_I_53">S. 367</reference>
+        <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 304</reference>
+        <reference type="text" uri="faust://bibliography/wa_I_53">S. 367</reference>
+        <reference type="text" uri="faust://bibliography/koetschau1901">S. 90</reference>
+        <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 304</reference>
+        <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 600</reference>
+        <reference type="essay" uri="faust://bibliography/wa_I_53">S. 367</reference>
+        <reference type="essay" uri="faust://bibliography/koetschau1901">S. 90</reference>
+        <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 304</reference>
+     </references>
+  </metadata>
+  <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="r.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript uri="v.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

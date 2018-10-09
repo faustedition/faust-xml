@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391314/">
+   <revisionDesc>
+      <change when="2012-11-22" who="henzel">imported</change>
+      <change when="2012-11-22" who="henzel">encoded</change>
+      <change when="2015-01-30" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Eigenhändige Numerierung "ad 27." mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P91</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,10</idno>
+      <idno type="gsa_2">GSA 25/W 1751</idno>
+      <idno type="gsa_ident">391314</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P91 -->
+      <idno type="bohnenkamp">H P91</idno>
+      <idno type="hecker">227</idno>
+      <textTranscript uri="391314.xml"/>
+      <classification>Konzept</classification>
+      <condition>rechter Rand gewellt, leichter Tintenfraß, Vergilbungen am Rand; in der oberen
+         rechten Ecke Verdunklung (5 x 16 mm), die möglicherweise durch eine frühere Überdeckung
+         entstand</condition>
+      <dimensions>
+         <width unit="mm">172</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <!-- oben und unten beschnitten -->
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Remda</paperMill>
+      <watermarkID>Rautenkranzoval über Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 185f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 205</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 186</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 205</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 572</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 205</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!--  <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/1798</f:datierung>
+     </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Papier und Signatur weisen auch dieses Blatt von der Hand Goethes in den
+               Zusammenhang der Neuordnung der `Faust'-Papiere von 1797/98. Vielleicht läßt sich die
+               Eigenhändigkeit der Niederschrift dahingehend deuten, daß wir es hier nicht mit alten
+               Bruchstücken zu tun haben _ solche wurden von Geist abgeschrieben _, sondern mit
+               einem neuen Entwurf, der im Zusammenhang mit der Neuordnung des `Faust'-Materials in
+               dieser Zeit entstand. Eine Datierung auf 1800, wie sie von Pniower vorgeschlagen
+               wurde (Pniower, Das erste Paralipomenon, S. 144), kann wohl ausgeschlossen werden, da
+               zu dieser Zeit das Nummernschema nicht mehr gültig war. (Vgl. dazu hier S. 98.) Die
+               Signatur "ad 27" ordnet das vorliegende Fragment den abschließenden Szenen zu; der
+               Entwurf steht in Zusammenhang mit dem Ende Fausts. Die Verwendung des Motivs der
+               Blindheit Fausts und der daraus folgenden Fehlinterpretation seiner Situation
+               entspricht hier in der Grundidee schon der schließlich ausgeführten Version im
+               endgültigen Text (vgl. V. 11539ff.); davon, daß Goethe einen ursprünglichen Plan,
+               Faust taub werden zu lassen, gegen seine Erblindung austauscht (so etwa Witkowski, S.
+               441, und wieder Graham, Schwere Überfahrt, S. 619), kann keine Rede sein. Die Notiz
+               "NB. Taubheit" weist wohl auf ein zusätzlich geplantes Motiv (vgl. Harnack, S. 583).
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

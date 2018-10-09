@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390357/">
+   <revisionDesc>
+      <change when="2012-12-06" who="henzel">imported</change>
+      <change when="2012-12-06" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Grundrißskizze, Corpus VI A Nr. 180</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.20</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,21</idno>
+      <idno type="gsa_2">GSA 25/W 1509</idno>
+      <idno type="gsa_ident">390357</idno>
+      <idno type="wa_faust">2 II H.20</idno>
+      <textTranscript uri="390357.xml"/>
+      <classification>Konzept</classification>
+      <!-- ABR: SchemaEntwurf -->
+      <condition>Ränder auf der Rückseite vergilbt</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">337</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 334 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <note>schwer erkennbares Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 488</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 488</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 651</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 37f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 489</reference>
+         <!-- TODO Fischer-Lamberg, S.37 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Fischer-Lamberg, S.37, = früheres Schema im Vgl. zu P124 (25/XIX,2,1) und P125 (25/XIX,2,2)</f:bemerkung>
+      <f:datierung>vor dem 29.1.1830</f:datierung>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>VS: G Blei 72147217, Einfügungszeichen, 72217228, 72187220, 77267728, 77377738, 7342f., mit Blei und Tinte als erledigt gestr.;</p>
+            <p>RS: G Blei, kaum lesbare Schemastichworte zu 7005ff., mit Blei als erledigt gestr., darüber liegend Grundrißskizze Blei (vgl. Corpus VI,A Nr. 180)</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>
+               <img src="../../../../DOKUME~1/middell/EIGENE~1/AB-Diss/KURV3_83.JPG" width="18" height="9" align="middle"/> II H20 / IIHa Die nur noch schlecht lesbaren Stichworte auf der Rückseite dieses Blattes, das auf der Vorderseite eine Reihe unterschiedlicher Entwürfe zu den Auftritten verschiedener Gestalten der antiken Walpurgisnacht enthält, lassen sich als Vorarbeit zu den beiden großen Schemata P124 und P125 zur `Klassischen Walpurgisnacht' (Ende Januar/Anfang Februar 1830) bestimmen (hier S. 490-492 u. 508-510); wahrscheinlich ist also eine etwa zeitgleiche Entstehung mit den Entwürfen auf der Vorderseite, für die Fischer-Lamberg den 29. 1. 1830 als terminus ante quem feststellt (II H20 &lt; II H27 &lt; II H28: für II H20 gilt also wie für II H27 der 29. 1. 1830 als terminus ante quem, vgl. Fischer-Lamberg, S. 37). In diesem ersten Schemaentwurf läßt Goethe zwischen den einzelnen Stichworten große Spatien, die noch auszufüllen waren. Der Vergleich mit P124 und P125 zeigt,
+               daß die auf II H20 notierten Stichworte zum großen Teil auf P124 als nachträgliche Ergänzungen übernommen wurden. </p>
+            <p>Z. 4 Bivou[a]cs] Feldnachtlager, vgl. P124, Z. 4, hier S. 490.</p>
+            <p>Z. 5 Schatten des Jüngeren Pompejus] Vgl. Kommentar zu P124, Z. 4, hier S. 494.</p>
+            <p>Z. 6 Erichthon[ius]] Vgl. P123C, Z. 169, hier S. 440, und Kommentar, hier S. 458f. Vgl. auch P124, Z. 3, hier S. 490, und P125, Z. 11, hier S. 508.</p>
+            <p>Z. 7 E[xx]] "Erichto"?</p>
+            <p>Ohne sichere Hinweise auf eine Datierung. Die Vorderseite bietet einen von der endgültigen Fassung noch stark abweichenden Entwurf zur Szene `Laboratorium' (etwa V. 6983-6987); in diesem Arbeitszusammenhang sind wohl auch die beiden Paralipomena auf der Rückseite notiert worden.</p>
+            <p>Z. 4 Du packe diesen ein] Homunculus zu Mephisto, der Faust auf dem Mantel mitnehmen soll (vgl. V. 6984).</p>
+            <p>Z. 6-8 <b>(P131)</b>: WA und Hecker weisen die Verse Mephistopheles zu; Morris nimmt sie als Antwort Mephistos auf die von ihm den Sphinxen zugewiesenen Verse des P130 (vgl. hier S. 466) in Anspruch (Morris, Faustparalipomena, S. 198f.); Joachim Müller erkennt in ihnen "das alte Thema der Theodizee" (Joachim Müller, Prolog und Epilog, S. 15). Eine sichere Zuordnung dieser fragmentarischen Verse scheint mir indes kaum möglich, ein Zusammenhang mit den Versen des P130 allerdings naheliegend.</p>
+            <p>Z. 9-12 <b>(P132)</b>: In der WA werden diese Verse Mephisto zugeordnet; Morris nimmt für sie eine Beziehung auf die von ihm vermuteten ungleichen Liebespaare Mephistopheles-Enyo und Faust-Helena an (vgl. auch hier S. 468), die allerdings völlig spekulativ bleibt. (Vgl. Morris, Faustparalipomena, S. 181ff.). </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= früheres Sch im Vgl. zu P124 (25/XIX,2,1) und P125 (25/XIX,2,2)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+         </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

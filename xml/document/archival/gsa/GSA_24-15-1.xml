@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_24-15-1/">
+   <revisionDesc>
+      <change when="2013-02-01" who="bruening">angelegt</change>
+      <change when="2013-02-01" who="bruening">encoded</change>
+      <change when="2013-03-27" who="bruening">Digitalisatverweise</change>
+      <change when="2014-01-20" who="henzel">Lagenstruktur docTranscript <!-- beschrieben -->
+         Nicht-Faust</change>
+      <change when="2014-04-25" who="bruening">Problem H.47</change>
+      <change when="2015-03-09" who="pravida">minimal headnote</change>
+      <change when="2015-06-24" who="henzel">docTranscript angepasst</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Konvolut, 41 Blätter. – Gedichtsammlung (Bl. 19–20: zu ‚Faust I‘).</headNote>
+      <note>Sammlung Louise von Goechhausens aus Gedichten und anderen Werken vor allem von Goethe
+         („Liederbuch“). Heft aus 10 Lagen (40 Bl., lose dabei, als Bl. 41 foliiert, ein mglw.
+         altes, gleich großes vergilbtes Einzelblatt ähnlichen Papiers, mit der Bemerkung:
+         „Allerhand Scripturae aus dem Nachlaß meiner seel. Tante, der Hofdame Louise von Göchhausen
+         zu Weimar. / Meist Auszüge u. sonstige Abschriften von gedruckten Sachen (kann verbrannt
+         werden) / Göchhausen“). Die Lagen waren alle mit drei Stichen geheftet, sind aber bis auf
+         die erste und dritte Lage ausgerissen. – Schmidt nennt das Heft im Zusammenhang der Verse
+         2759–2782 (König von Thule) und verweist auf die Lesarten in faust://bibliography/wa_I_1
+         (faust://bibliography/wa_I_14, S. 273). Weil die Abschriften der Ballade (hier: „Romanze“)
+         und des Lieds am Spinnrad (v. 3374–3413) in die Zeit vor der Erscheinung des Fragments
+         zurückreichen, werden sie hier berücksichtigt. – Die erste der beiden neuen Signaturen
+         bezieht sich auf Bl. 1–21, die zweite auf Bl. 22–41. – Die Angabe „WA: H.47“ in Bezug auf
+         das Göchhausensche Liederbuch (faust://bibliography/inventare_2_1, Sp. 428) ist irrig.
+         <!-- J. Gruß per E-Mail: „Sie haben vollkommen recht, die Siglenangabe H.47 zum sogenannten
+            Goechhausenschen "Liederbuch" (im Inventar, Sp. 428) ist falsch.
+            Dieses "Liederbuch" wird in der WA ja verschiedentlich mit "Gö"
+            sigliert und einzelne Gedichthss. daraus tragen mitunter noch 
+            eigene gesonderte H-Siglen oder werden zwar näher beschrieben, ohne
+            überhaupt eine Sigle zu haben. Da nun Loeper im Falle des Thule-Gedichts
+            die Goechhausensche Liedersammlung nicht nennt, auf Seite 405 von WA I, 1
+            gleichwohl eine Überlieferung zur früheren Fassung genannt ist, ist es
+            wohl zu dieser bedauerlichen Verwechslung gekommen.“ -->
+         Loepers Angabe „H.47: Abschrift der L. v. Göchhausen aus Herders Nachlass, ‚Romanze“, 8°
+         vgl. zu ‚Zueignung‘“ (faust://bibliography/wa_I_1, S. 405) bezieht sich nicht auf das
+         Liederbuch, das sich zur damaligen Zeit „im Privatbesitz zu Dresden“
+         (faust://bibliography/wa_I_1, S. 390 u.ö.) befand, also im Besitz des Großneffen August
+         Richard von Göchhausen (vgl. faust://bibliography/wa_I_14, S. 252), sondern auf Nachl.
+         Herder, K. XXXII, Nr. 9 (faust://bibliography/irmscher1979, S. 286).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.7</idno>
+      <idno type="gsa_1">GSA 24/II,6,2</idno>
+      <idno type="gsa_2">GSA 24/15,1</idno>
+      <idno type="gsa_ident">409604</idno>
+      <idno type="gsa_2">GSA 24/15,2</idno>
+      <idno type="gsa_ident">411780</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="wa_gedichte">H.10</idno>
+      <idno type="wa_gedichte">H.24</idno>
+      <idno type="wa_gedichte">H.28</idno>
+      <idno type="wa_gedichte">H.44</idno>
+      <textTranscript uri="GSA_24-15-1.xml"/>
+      <classification>none</classification>
+      <dimensions>
+         <width unit="mm">118</width>
+         <height unit="mm">190</height>
+      </dimensions>
+      <format>8</format>
+      <edges>cut</edges>
+      <bindingMaterial>Faden</bindingMaterial>
+      <paperType>Briefpapier</paperType>
+      <paperColour>weiß</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 374</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 390</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 392</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 393</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 395</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S. 403</reference>
+      </references>
+      <note>Die Angaben zu H.47 in den Lesarten zum „König in Thule“ (faust://bibliography/wa_I_1,
+         S. 405) beziehen sich nicht auf das Göchhausensche Liederbuch, ebenso beruht auch die
+         Herstellung der „ältesten Gestalt“ nicht auf ihr. Das Liederbuch wird im Zsh. mit der
+         Ballade übergangen, obwohl Loeper diese Überlieferung der Ballade natürlich kannte (vgl.
+         ebd., S. 392, zu „Ein gleiches“, H.28).</note>
+   </metadata>
+   <!-- 1. Lage -->
+   <sheet>
+      <metadata>
+         <watermarkID>n.s.</watermarkID>
+         <note>Gekröntes Posthornschild über G R</note>
+      </metadata>
+      <!-- Bl. 1 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 2 -->
+         <leaf>
+            <page/>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- leer -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 3 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- leer -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- leer -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 4 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 2. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <bindingMaterial>none</bindingMaterial>
+         <watermarkID>n.s.</watermarkID>
+         <note>D &amp; C Blauw (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 5 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 6 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 7 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 8 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 3. Lage -->
+   <sheet>
+      <metadata>
+         <watermarkID>n.s.</watermarkID>
+         <note>Gekröntes Posthornschild über D &amp; C Blauw (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 9 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 10 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 11 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 12 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 4. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <note>Mit Goldrand.</note>
+         <bindingMaterial>none</bindingMaterial>
+         <leafCondition>Vergilbt, brüchig.</leafCondition>
+         <watermarkID>n.s.</watermarkID>
+         <note>Gekröntes Posthornschild über Van der Ley (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 13 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 14 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 15 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 16 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 5. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <bindingMaterial>none</bindingMaterial>
+         <watermarkID>n.s.</watermarkID>
+         <note>Gekröntes Posthornschild über D &amp; C Blauw (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 17 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0019.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0020.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 18 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- <docTranscript uri="0021.xml"/> -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- <docTranscript uri="0022.xml"/> -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 19 -->
+         <leaf>
+            <metadata>
+               <references>
+                  <reference type="text" uri="faust://bibliography/wa_I_1">S. 405f.</reference>
+               </references>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0023.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0024.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 20 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- <docTranscript uri="0025.xml"/> -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- <docTranscript uri="0026.xml"/> -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 6. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <bindingMaterial>none</bindingMaterial>
+         <watermarkID>n.s.</watermarkID>
+         <note>Gekröntes Posthornschild über D &amp; C Blauw (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 21 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 22 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 23 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 24 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 7. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <bindingMaterial>none</bindingMaterial>
+         <watermarkID>n.s.</watermarkID>
+         <note>D &amp; C Blauw (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 25 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 26 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 27 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 28 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 8. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <bindingMaterial>none</bindingMaterial>
+         <watermarkID>n.s.</watermarkID>
+         <note>Gekröntes Posthornschild über D &amp; C Blauw (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 29 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 30 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 31 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 32 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 9. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <bindingMaterial>none</bindingMaterial>
+         <watermarkID>n.s.</watermarkID>
+         <note>Gekröntes Posthornschild über G R.</note>
+      </metadata>
+      <!-- Bl. 33 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 34 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 35 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 36 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- 10. Lage (lose) -->
+   <sheet>
+      <metadata>
+         <watermarkID>n.s.</watermarkID>
+         <note>D &amp; C Blauw (Kapitälchen).</note>
+      </metadata>
+      <!-- Bl. 37 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 38 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 39 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- beschrieben -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 40 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- beschrieben -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

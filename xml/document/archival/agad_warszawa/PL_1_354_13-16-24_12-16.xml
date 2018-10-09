@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/agad_warszawa/PL_1_354_13-16-24/">
+   <revisionDesc>
+      <change when="2013-04-28" who="bruening">Nachweise etc.</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-03-17" who="henzel">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt und Doppelblatt, fixiert. – Zusatzszene zu ‚Faust ‘-Libretto, ‚Zwey Teufelchen‘.</headNote>
+      <note>Beilage zu Brief von Goethe an Anton Fürst Radziwill vom 11. April 1814 (zum Brief und zum Konzept vgl. faust://bibliography/steiniger2005, S. 319).</note>
+      <repository>agad_warszawa</repository>
+      <subRepository>Familienarchiv Radziwill</subRepository>
+      <idno type="faustedition">T 3 H.1</idno>
+      <idno type="agad_warszawa">AR dz. XIII pudło 16 teka 24<!--Familienarchiv Radziwill, Teil XIII, Kasten 16, Mappe 24--></idno>
+      <idno type="gsa_1">GSA 25/XVII,1,10a</idno>
+      <idno type="wa_faust">none</idno>
+      <note>Von Schmidt als „H“ bezeichnet (faust://bibliography/wa_I_14, S. 318).</note>
+      <textTranscript uri="PL_1_354_13-16-24_12-16.xml"/>
+      <classification>Mundum</classification><!-- Abschrift -->
+      <history>Vgl. faust://bibliography/steiniger2005, S. 322.</history>
+      <container>none</container>
+      <binding>none</binding>
+      <numberingList>
+         <numbering>Dokumentübergreifende Paginierung mit Bleistift ohne Berücksichtigung der leeren Seiten, in vorliegender Archivalieneinheit beginnend mit 12, endend mit 16 (die letzte, leere Seite wurd nicht gezählt)</numbering>
+      </numberingList>
+      <condition>gut erhalten, an den Außenrändern leicht gewellt und gebräunt, ursprünglich zweimalige Faltung der Blätter, erst quer (so heute erhalten), dann längs (Faltspuren)</condition>
+      <note>auf jeder Seite (außer pag. 16) wurde links und rechts senkrecht mit Bleistift ein Rand gezogen zur Begrenzung des Textfeldes</note>
+      <format>none</format>
+      <!-- 4? -->
+      <edges>cut</edges>
+      <bindingMaterial>Kleber</bindingMaterial>
+      <note>Blatt ist an die Vorderseite des folgenden Doppelblatts geklebt und wurde dabei umgeschlagen.</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grün</paperColour>
+      <references>
+         <!-- Vgl. H. Grimm, [Brief Goethes an den Fürsten Radziwill], in: Preußische Jbb. XXXV, 1875, S. 4, "mit Hinweis auf die  
+            Bestimmung dieser Szene für das Theater und als Paralipomenon zum zweiten Teil [?] von Faust (faust://bibliography/steiniger2005)-->
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 318</reference>
+         <reference type="essay" uri="faust://bibliography/steiniger2005">S. 319f.</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 318</reference>
+         <reference uri="faust://bibliography/schillemeit1988" type="essay">S. 646f.</reference>
+         <reference type="essay" uri="faust://bibliography/steiniger2005">S. 319, 322</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">215</width>
+            <height unit="mm">255</height>
+         </dimensions>
+         <note>Bei der Breite des Blattes entfallen 7 mm auf den Klebefalz.</note>
+         <chainLines unit="mm">35</chainLines>
+         <!-- ungefährer Wert der Steglinien, da diese meist nicht zu erkennen waren (gemessen auf pag. 16) -->
+         <watermarkID>JGHaendel 1807<!-- auf pag. 16: JGHaendel 1807, ca. 145 mm breit und ca. 30 mm hoch; Symmetrieachse auf Steg--></watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <note>Stempel mit "AR, dz. XIII" oben links auf der Seite vorhanden</note>
+            <docTranscript uri="0012.xml"/>
+            <references>
+               <reference type="facsimile" uri="faust://bibliography/steiniger2005">S. 323</reference>
+            </references>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0013.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">205</width>
+               <height unit="mm">254</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0014.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0015.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">205</width>
+               <height unit="mm">254</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0016.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

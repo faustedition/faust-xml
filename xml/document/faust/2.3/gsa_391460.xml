@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391460/">
+   <revisionDesc>
+      <change when="2012-12-06" who="bruening">encoded</change>
+      <change when="2013-11-12" who="henzel">uris nachgetragen/aktualisiert fuer lagenstruktur</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Spuren der für einen Umschlag typischen Faltung auf den heutigen Innenseiten
+         (ursprünglich in umgekehrter Richtung gefaltet). Beidseitig Siegelreste.
+         Poststempel „JENA 9 DEC. [?]1824“
+         dabei eigenhändige Notizen Goethes, (?)zu
+         Brief an August v. Goethe vom 5. Ja-
+         nuar 1825 gehörig (vgl. Tagebuch vom
+         5. Januar 1825 WA III 10,3, S. 10–12)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.28</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,16</idno>
+      <idno type="gsa_2">GSA 25/W 1607</idno>
+      <idno type="gsa_ident">391460</idno>
+      <idno type="wa_faust">2 III H.28</idno>
+      <textTranscript uri="391460.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">199</width>
+         <height unit="mm">345</height>
+      </dimensions>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>J_E_Stahl</watermarkID>
+      <countermarkID>No_I</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 69</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 99</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 99f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Notizen egh: "Jena/ Mineral Cat/ Nummer nachzutrag/ Anatomischer des/ Meyer zu bez /u abzuschrei/ Neue Schranke/ In den Untern/ gr Saal" (?)zu Brief an August v. Goethe vom 5.1.1825 gehörig (vgl. Tagebuch vom 5.1.1825 WA III 10,3,10-12); Aufschriften egh, (?)bei Vorbereitung der Veröffentlichung des Goethe-Schiller-Briefwechsels entstanden: "1801 Abgeschr.","1805 Ohne Daten einzurangiren", vgl. Fischer-Lamberg, S.99; nicht bestimmte Notizen egh: "[?]Seiten [?]Geschäft unrein fürs [?]Verbergen"; Siegelreste</f:dabei_vermerk>
+      <f:datierung>Frühjahr 1825 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391460</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 8939-8945
+Gehorntem Trag Altar ...
+WA: III H.28; vgl. I 15.2,69
+Konzept
+auf Umschlag mit Adresse der Oberaufsicht über die unmittelbaren Anstalten für Wissenschaft und Kunst, J. M. Chr. Färber, mit Poststempel: "JENA 9 DEC. [?]1824"</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,16</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,16</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Frühjahr 1825 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1825</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Gehorntem Trag Altar</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,69</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.28</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8939-8945</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Färber, Johann Michael Christoph; Goethe, August von</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Notizen egh: "Jena/ Mineral Cat/ Nummer nachzutrag/ Anatomischer des/ Meyer zu
+               bez /u abzuschrei/ Neue Schranke/ In den Untern/ gr Saal" (?)zu Brief an August v.
+               Goethe vom 5.1.1825 gehörig (vgl. Tagebuch vom 5.1.1825 WA III 10,3,10-12);
+               Aufschriften egh, (?)bei Vorbereitung der Veröffentlichung des
+               Goethe-Schiller-Briefwechsels entstanden: "1801 Abgeschr.","1805 Ohne Daten
+               einzurangiren", vgl. Fischer-Lamberg, S.99; nicht bestimmte Notizen egh: "[?]Seiten
+               [?]Geschäft unrein fürs [?]Verbergen"; Siegelreste</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Umschlag mit Adresse der Oberaufsicht über die unmittelbaren Anstalten für
+               Wissenschaft und Kunst, J. M. Chr. Färber, mit Poststempel: "JENA 9 DEC.
+               [?]1824"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1250</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4188</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

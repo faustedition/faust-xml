@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389847/">
+   <revisionDesc>
+      <change when="2012-11-13" who="henzel">imported</change>
+      <change when="2012-11-13" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2014-10-14" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwürfe zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 2 beschriebene Seiten. - Vs.: Versentwürfe zu einer für ‚Faust I‘
+         bestimmten Szene (eigenhändig, Tinte). Rs.: Versentwurf, möglicherweise zu der für ‚Faust
+         I‘ bestimmten Szene ‚Disputation‘ (eigenhändig, Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P15</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,11</idno>
+      <idno type="gsa_2">GSA 25/W 1385</idno>
+      <idno type="gsa_ident">389847</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P15</idno>
+      <!-- P15, Hecker-Nr. (17) -->
+      <!-- P16, Hecker-Nr. 21 -->
+      <!-- P17, Hecker-Nr. 18 -->
+      <textTranscript uri="389847.xml"/>
+      <classification>Konzept</classification>
+      <condition>am linken Rand fleckig, ursprünglich auf Queroktav gefaltet</condition>
+      <!-- Rostflecken? -->
+      <dimensions>
+         <width unit="mm">176</width>
+         <height unit="mm">208</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 205 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>unten beschnitten, oben und links dagegen abgestoßen</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 292</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 239</reference>
+         <!-- TODO Erstdruck: Q, S. 178 (P17) -->
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 292f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 239</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 580</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 240</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>April 1800 (?)</f:datierung>
+      </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Dieses Sammelblatt bietet keine äußeren Anhaltspunkte zur Datierung; die Beschriftung
+               der Vorderseite (P15 und P16) erfolgte in einem Zug, das mit Bleistift vermutlich
+               später auf der Rückseite eingetragene P17 ist sehr verwischt und nicht zweifelsfrei
+               zu entziffern.</p>
+            <p>Seit Erich Schmidt wurden auch diese Bruchstücke immer wieder der Disputation
+               zugeordnet (vgl. Witkowski, Alt, Harnack, Petsch); zumindest für <b>P16</b> (Schmidt:
+               "Ans Ende der Szene passend") ist eine solche Zuordnung fraglich, da die vertrauliche
+               Anrede (Faust zu Mephisto) und auch der hier demonstrierte zusammenfassende Überblick
+               über Mephistos verschiedene Erscheinungsformen kaum zu der geplanten
+               Universitätsszene passen. Morris (Mephistopheles [I], S. 185) beansprucht P16 für die
+               Paktszene, "der also Pudelscene, Ofenscene und Disputation in dieser Reihenfolge
+               voraufgehen sollten"; auch Hecker ordnet diese Zeilen der Paktszene zu.</p>
+            <p>Nicht mit Sicherheit vorauszusetzen scheint mir, daß Goethe für diesen Zweizeiler
+               überhaupt schon einen festen Platz vorgesehen hatte. Mit der Szene der
+               Pudelbeschwörung ist Goethe wahrscheinlich im April 1800 beschäftigt gewesen: am 16.
+               4. 1800 schreibt er an Schiller: "Der Teufel den ich beschwöre gebärdet sich sehr
+               wunderlich" (WA IV,15,58). Eine sichere Datierung für P16 läßt sich daraus allerdings
+               nicht gewinnen.</p>
+            <p>Der ebenfalls der Disputation zugewiesene Zweizeiler <b>P15</b> bringt offensichtlich
+               eine mephistophelische Position zum Ausdruck (vgl. Mephisto über die Macht der Worte
+               V. 1990ff. und 2565f.). Vgl. dagegen die von Goethe in einer 1792 vollendeten
+               naturwissenschaftlichen Abhandlung (`Von den farbigen Schatten') vertretene
+               Gegenposition: "Doch was sind Worte gegen die großen und herrlichen Wirkungen der
+               Natur? [...] Worte entzweien, der Sinn vereinigt die Gemüther." (WA II,5.1,120f.)</p>
+            <p>Das von Goethe durch das Kürzel "M." dem Mephisto zugewiesene <b>P17</b> schließlich
+               läßt sich ebenfalls als Äußerung im Zusammenhang der geplanten Disputationsszene
+               denken.</p>
+            <p>Z. 8 {michs}] oder "nichts"?</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389844/">
+   <revisionDesc>
+      <change when="2012-11-27" who="henzel">imported</change>
+      <change when="2012-11-27" who="henzel">encoded</change>
+      <change when="2013-07-30" who="ritter">aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>dabei eigenhändige Notiz: „Sere[nissimus]“</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.4</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,5</idno>
+      <idno type="gsa_2">GSA 25/W 1700</idno>
+      <idno type="gsa_ident">389844</idno>
+      <idno type="wa_faust">2 V H.4</idno>
+      <!-- P198 -->
+      <!-- P202.a; 63n -->
+      <idno type="hecker">223</idno>
+      <textTranscript uri="389844.xml"/>
+      <classification>Konzept</classification>
+      <condition>leicht fleckig, an den langen Rändern vergilbt, Knickspur in der unteren linken Ecke</condition>
+      <dimensions>
+         <width unit="mm">174</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 206 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Remda</paperMill>
+      <watermarkID>Rautenkranzoval über Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 113</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 762</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 244</reference>
+         <!-- P198 -->
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <!-- P202.a -->
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 113</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 762f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 725</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_53">S. 372</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 114</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 763</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Federprobe egh. „Sere“.</note>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:dabei_vermerk>Notiz egh: "Sere[nissimus]"</f:dabei_vermerk>
+      <f:datierung>Frühjahr 1825 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Diese Entwürfe zur Szene `Mitternacht' sind sehr wahrscheinlich im Frühjahr 1825 entstanden. Erste Entwürfe finden sich auch auf V H3 (diese Version wiedergegeben in BA, S. 662), die nächsten Entwicklungsstufen dieser Verse finden sich auf den Handschriften V H5, V H6, V H8; es folgen die Munda V H7 und schließlich V H2. Erste Überlegungen zur relativen Chronologie dieser verschiedenen Entwürfe bietet schon Düntzer (Entstehung der letzten beiden Akte, S. 362f.); eine eingehende Untersuchung der Genese dieses Passus (V. 11400-11423) enthält die Studie von Bluhm (Entwicklung von Fausts erstem Monolog).</p>
+            <p>Art und Anlage des Blattes legen es nahe zu vermuten, daß die ersten beiden Zeilen <b>(P198)</b> ebenfalls für diesen Monolog und das Gespräch mit der Sorge notiert wurden. Der geplante Zusammenhang bleibt jedoch undeutlich. In den auf V H4 folgenden Entwürfen tauchen diese Verse nicht wieder auf: Goethe hat sie also noch im Frühjahr 1825 wieder fallengelassen. Der Vorschlag, P198 als mephistophelischen Kommentar zu Fausts Vorgehen gegen Philemon und Baucis aufzufassen (Morris, Faustparalipomena, S. 219; wieder BA, S. 945), läßt sich aufgrund des Überlieferungs- kontextes und der damit verbundenen Datierung auf 1825 wohl ausschließen. (Möglicherweise beziehen sich diese Zeilen jedoch auf eine andere, um 1825 noch geplante `Vorgeschichte' der Begegnung mit der Sorge? Als Sprecher scheint Mephistopheles wahrscheinlicher als diese.)</p>
+            <p>Die in der WA als <b>P202a</b> (WA I,53,372) bezeichneten Zeilen 9f. gehören jedoch zweifellos zu dem vorliegenden Entwurf; Faust wendet sich hier an die `gespensterhaften' Erscheinungen (der `vier grauen Weiber').</p>
+            <p>Zu bemerken ist schließlich, daß die hier verwendete Papiersorte (Remdaer Wappenpapier) auf die Arbeitsphase um die Jahrhundertwende verweist: eben dieses Papier wurde für zahlreiche Blätter aus dem Umkreis des numerierten Schemas aus den Jahren 1797/98 verwendet. (Vgl. H P26, H P50, H P68, H P69, H P82, H P91, H P92, H P98.) Vielleicht hat Goethe hier unbeschriebenes altes Papier benutzt, das mit den `Faust'-Papieren aufbewahrt worden war und nun mit diesen wieder auf Goethes Schreibtisch gelangt war. (Vgl. auch V H25 und V H8 [hier S. 769], die ebenfalls `altes' Papier aufweisen!) </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:value>= 3. K im Vgl. mit H.3 (25/XVIII,7,4) (laut Landeck) / 2. K (laut WA I 15.2,154)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/location_unknown/loeper1879II-2/">
+    <revisionDesc>
+        <change when="2012-09-26" who="bruening">encoded</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+        <note>Die Beschreibung Loepers lautet: „V. 516–519 [=5128–5131] zu 8 Versen abgetheilt, mit
+            dem Datum Weihnachten 1825“ (faust://bibliography/loeper1879a, Tl. 2, S. 323);
+            entsprechend<!-- <quote><q>„Stammbuch- oder Sendebll. [Pl., da zusammen mit I H.d
+                verzeichnet] Weihnachten 1825 (v. Loeper): 5128–5131“</q></quote> -->
+            description" uri="faust://bibliography/wa_I_15_2, S. 13. Die von Loeper erwähnte
+            Aufteilung der Verses auf jeweils zwei Zeilen ist rekonstruierbar, auf ihre Wiedergabe
+            wurde aber verzichtet.</note>
+        <repository>location_unknown</repository>
+        <idno type="faustedition">2 I H.9e*</idno>
+        <idno type="wa_faust">2 I H.c</idno>
+        <textTranscript uri="loeper1879II-2.xml"/>
+        <classification>n.s.</classification>
+        <references>
+            <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 323, Nr.
+                2</reference>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 13</reference>
+            <reference type="essay" uri="faust://bibliography/pniower1899">S. 147f., 281</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page/>
+        <page/>
+    </disjunctLeaf>
+</archivalDocument>

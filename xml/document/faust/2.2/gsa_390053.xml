@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390053/">
+   <revisionDesc>
+      <change when="2012-11-28" who="bruening">encoded</change>
+      <change when="2014-11-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Briefumschlag (abgeschnittene Hälfte eines Briefdoppelblatts) von unbekanntem Absender
+         an Goethe mit Poststempel „GOTHA. 12 SEP 1827“. Spuren der typischen Faltung. An den
+         gesiegelten Stellen ausgerissen. Liste der Tischgäste vom 15. September 1827
+         (faust://bibliography/inventare_2_1, Sp. 119).
+         Einzelblatt (Briefumschlag), 1 beschriebene Seite. - Vs.: Adressaufschrift
+         (unbekannter Schreiber, Tinte), Versentwürfe zu ‚Faust II‘, Akt 2 (eigenhändig,
+         Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.1</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,2</idno>
+      <idno type="gsa_2">GSA 25/W 1487</idno>
+      <idno type="gsa_ident">390053</idno>
+      <idno type="wa_faust">2 II H.1</idno>
+      <textTranscript uri="390053.xml"/>
+      <classification>Konzept</classification>
+      <condition>Vergilbt.</condition>
+      <dimensions>
+         <width unit="mm">178</width>
+         <height unit="mm">245</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>none</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            25</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 25</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Leer.</note>
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Liste der Tischgäste vom 15.9.1827 egh: "3/ l Vogel/ l Riem[er]/ l Zahn/ l Fromm[ann]/ l Prof." vgl. WA III 11,110</f:dabei_vermerk>
+      <f:datierung>um den 15.9.1827</f:datierung>
+      <f:druckort>WA I 15.1, 90-100-</f:druckort>
+      <f:ident>390053</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Zweiter Act. Hochgewölbtes enges gothisches Zimmer
+Vers(e): 6570-6576
+Blick ich hinauf ...
+WA: II H.1; vgl. I 15.2,37
+Konzept
+auf Briefumschlag von unbekanntem Absender an Goethe mit Poststempel: "Gotha. 12 Sep 1827"</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,7,2</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,7,2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,90-100</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>um den 15.9.1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18270915</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Blick ich hinauf</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,37</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>II H.1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6570-6576</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Liste der Tischgäste vom 15.9.1827 egh: "3/ l Vogel/ l Riem[er]/ l Zahn/ l
+               Fromm[ann]/ l Prof." vgl. WA III 11,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Briefumschlag von unbekanntem Absender an Goethe mit Poststempel: "Gotha.
+               12 Sep 1827"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1147</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2613</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

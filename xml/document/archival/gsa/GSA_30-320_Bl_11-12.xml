@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
+    xml:base="faust://xml/transcript/gsa/GSA_30-320_Bl_11-12/">
+    <revisionDesc>
+        <change when="2016-08-03" who="bruening">Datei angelegt</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>1 Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+        <note>Göttling an Goethe, 27. Juli 1827, mit Göttlings Korrekturen zu faust://document/faustedition/C1_4 und 
+            diesbezüglichen Anmerkungen Goethes. Die Transkription wurde von Annette Mönnich (Weimar) angefertigt und für die
+            Faustedition aufbereitet.</note>
+        <repository>gsa</repository>
+        <idno type="faustedition">2 III H.45a</idno>
+        <idno type="gsa_2">GSA 30/320, Bl. 11–12</idno>
+        <idno type="gsa_ident">12859</idno>
+        <idno type="wa_faust">none</idno>
+        <textTranscript uri="GSA_30-320_Bl_11-12.xml"/>
+        <classification>n.s.</classification>
+        <references>
+            <reference type="text" uri="faust://bibliography/quz_2">S. 494–496</reference>
+        </references>
+    </metadata>
+    <sheet>
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="11r.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="11v.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+        <leaf>
+            <page>
+                <metadata>
+                    <docTranscript uri="12r.xml"/>
+                </metadata>
+            </page>
+            <page>
+                <metadata>
+                    <docTranscript uri="12v.xml"/>
+                </metadata>
+            </page>
+        </leaf>
+    </sheet>
+</archivalDocument>

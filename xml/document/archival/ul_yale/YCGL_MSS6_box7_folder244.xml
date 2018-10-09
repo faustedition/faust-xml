@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ul_yale/YCGL_MSS6_box7_folder244/">
+   <revisionDesc>
+      <change when="2012-10-08" who="bruening">Nachweise</change>
+      <change who="bruening" when="2014-02-13">Doppelblatt</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>ul_yale</repository>
+      <collection>William A. Speck collection of Goetheana: manuscripts</collection>
+      <!--<f:uri xmlns:ge="http://www.tei-c.org/ns/geneticEditions"
+         xmlns:svg="http://www.w3.org/2000/svg">f://document/landeck/2_V_H.i</f:uri>-->
+      <idno type="faustedition">2 V H.0a</idno>
+      <idno type="ul_yale">YCGL MSS6, box 7, folder 244</idno>
+      <idno type="gsa_1">GSA 25/XVIII,8,1</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="landeck">2 V H.i</idno>
+      <textTranscript uri="YCGL_MSS6_box7_folder244.xml"/>
+      <classification>Mundum</classification>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 87</reference>
+         <reference type="text" uri="faust://bibliography/bluhm1960">S. 291f., 294-297</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 87f.</reference>
+         <reference type="facsimile" uri="faust://bibliography/speck1926"/>
+         <reference type="facsimile" uri="faust://bibliography/schreiber1932">Nr. XL</reference>
+         <reference type="essay" uri="faust://bibliography/wahle1927">S. 392</reference>
+         <reference type="essay" uri="faust://bibliography/bluhm1960">S. 288-299</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 88f.</reference>
+      </references>
+      <history>Vgl. die Bemerkung von Anna Jameson auf der Rückseite des hinteren Blatts. Geschenk
+         von William A. Speck an die UL Yale im Jahr 1913.</history>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="1029093.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="1029094.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="1029094.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="1029095.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

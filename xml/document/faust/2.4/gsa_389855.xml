@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389855/">
+   <revisionDesc>
+      <change when="2012-11-21" who="henzel">imported</change>
+      <change when="2012-11-21" who="henzel">encoded</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.22</idno>
+      <idno type="gsa_2">GSA 25/W 1693</idno>
+      <idno type="gsa_ident">389855</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,23</idno>
+      <idno type="wa_faust">2 IV H.22</idno>
+      <!-- P178 -->
+      <idno type="hecker">107</idno>
+      <textTranscript uri="389855.xml"/>
+      <classification>Schema</classification>
+      <condition>Durchscheinen von Tinte, ursprünglich in der Mitte jeweils längs gefaltet</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">332</height>
+      </dimensions>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">50</stabMark>
+         <stabMark unit="mm">111</stabMark>
+         <stabMark unit="mm">221</stabMark>
+         <stabMark unit="mm">277</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N1"</watermarkID><!-- Blatt 1 -->
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID><!-- Blatt 2 -->
+      <!-- undeutliches WZ: Stern über `N 1' / `H' über `Stuetzerbach' (Stuetzerbacher Sternpapier) -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 678</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 133, 141, 236f. (Teildruck)</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 678-685</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 707-710</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 686-688</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+               <!-- Brief -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>"d. 16. May 1831"</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

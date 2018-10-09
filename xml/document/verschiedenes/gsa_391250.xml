@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391250/">
+   <revisionDesc>
+      <change when="2012-09-26" who="bruening">imported</change>
+      <change when="2012-11-16" who="henzel">imported</change>
+      <change when="2012-11-16" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-03-23" who="bruening">Aufbewahrungsort GSA gem. Rücksprache mit SH</change>
+      <change when="2018-09-20" who="krause">idno landeck ergänzt</change>
+      <change when="2018-10-08" who="bruening">Landeck idno wieder entfernt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Photographie, Original verschollen, auf der Rückseite des 2. Kartons Adresse: "Dr. Fritz
+         Rackow, Dresden, Altmarkt 15" eines späten Schreibers mit rotem Buntstift sowie "Geschenk
+         von Dr. R. Boxberger" eines späten Schreibers mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.37g</idno>
+      <idno type="gsa_1">GSA 25/XVIII,8,10</idno>
+      <idno type="gsa_2">GSA 25/W 1739</idno>
+      <idno type="gsa_ident">391250</idno>
+      <idno type="wa_faust">2 V H.h</idno>
+      <!--<idno type="landeck">2 V H.h</idno>-->
+      <textTranscript uri="391250.xml"/>
+      <classification>none</classification>
+      <note>Abschrift</note>
+      <history>Geschenk von Dr. R. Boxberger; ehemaliger Besitzer der Handschrift eventuell Dr.
+         Fritz Rackow</history>
+      <condition>Blatt wurde nach der Beschriftung offensichtlich längs und quer gefaltet (Oktav?);
+         am Rand Flecken sowie Wachs- oder Klebeflecken</condition>
+      <dimensions>
+         <width unit="mm">n.s.</width>
+         <height unit="mm">n.s.</height>
+      </dimensions>
+      <note>Keine Angaben möglich, da keine maßstabsgetreue Photokopie</note>
+      <format>n.s.</format>
+      <note>vermutlich Oktav<!-- WA: Folio --></note>
+      <paperType>n.s.</paperType>
+      <paperColour>n.s.</paperColour>
+      <chainLines unit="mm">n.s.</chainLines>
+      <watermarkID>n.s.</watermarkID>
+      <countermarkID>n.s.</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr. 26,
+            27, 28</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 207f.</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 207</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 207f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur, da Rückseite der Photographie (Karton) -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur, da Rückseite der Photographie (Karton) -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_27-26/">
+   <revisionDesc>
+      <change when="2013-04-04" who="bruening">Angelegt, Kopf, Nachweise.</change>
+      <!-- FIXME weitere Digitalisate bestellen, docTranskripte anlegen, verlinken, Lagenstruktur? -->
+      <change when="2013-10-30" who="henzel">uri docTranscript nachgetragen</change>
+      <change when="2014-01-23" who="henzel">docTranscript nachgetragen</change>
+      <change when="2014-10-28" who="henzel">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+      <change when="2015-05-04" who="henzel">bibl Angaben ueberprueft</change>
+      <change when="2016-01-19" who="koehler">Schoene</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Fehlerverzeichnis zu ‚Faust I‘.</headNote>
+      <note>„Druckfehler meiner Werke in der Cottaischen Ausgabe“ von Riemers Hand im gedruckten
+         Gothaischen Kalender aus dem Jahre 1809 (426 Bl.). Das Verzeichnis steht „auf sechs
+         unbedruckten Seiten am Ende des Kalenders“ (faust://bibliography/gt_4_1, S. 101). Jede
+         Seite enthält „Eintragungen zu je zwei Bänden der Cottaischen Ausgabe“ (ebd.).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.2</idno>
+      <idno type="gsa_2">GSA 27/26</idno>
+      <idno type="gsa_ident">11326</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="GSA_27-26.xml"/>
+      <classification>none</classification>
+      <binding>Basismaterial: Pappe, Äußeres Überzugsmaterial: Spiegelbuntpapier, Vorderdeckel: 120
+         mm breit und 195 mm hoch, Buchrücken: 68 mm breit und 196 mm hoch, mit Aufklebung 'Calender
+         / und / Tagebücher / für / 1809.'</binding>
+      <references>
+         <reference type="description" uri="faust://bibliography/gt_4_1">S. 101</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 254</reference>
+         <reference type="text" uri="faust://bibliography/wa_III_4">S. 374f.</reference>
+         <reference type="text" uri="faust://bibliography/biedermann1901">S. 194</reference>
+         <reference type="text" uri="faust://bibliography/grumach1962">S. 289</reference>
+         <reference type="text" uri="faust://bibliography/gt_4_1">S. 101</reference>
+         <reference type="facsimile" uri="faust://bibliography/gt_4_1">S. 104</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_14">S. 254</reference>
+         <reference type="essay" uri="faust://bibliography/pniower1899">S. 113f.</reference>
+         <reference type="essay" uri="faust://bibliography/biedermann1901">S. 194</reference>
+         <reference type="essay" uri="faust://bibliography/grumach1962">S. 288–290</reference>
+         <reference type="essay" uri="faust://bibliography/gt_4_2">S. 882</reference>
+         <reference type="essay" uri="faust://bibliography/schoene2005">Bd. 2, S. 154</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">112</width>
+            <height unit="mm">191</height>
+         </dimensions>
+         <format>8</format>
+         <paperType>Schreibpapier</paperType>
+         <paperColour>grünbläulich</paperColour>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>none</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0001.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- nicht vorhanden -->
+            <docTranscript/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

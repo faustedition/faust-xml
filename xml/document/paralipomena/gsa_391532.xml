@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391532/">
+   <revisionDesc>
+      <change when="2012-11-15" who="henzel">imported</change>
+      <change when="2012-11-15" who="henzel">encoded</change>
+      <change when="2013-01-24" who="henzel">aktualisiert</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Versentwürfe zu ‚Faust‘.</headNote>
+      <note>Eigenhändiger Verweis "ad 22" und "ad 24" auf Nummernschema mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P82</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,8</idno>
+      <idno type="gsa_2">GSA 25/W 1749</idno>
+      <idno type="gsa_ident">391532</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- P82, Hecker-Nr. 209 -->
+      <!-- P83, Hecker-Nr. (198) -->
+      <idno type="bohnenkamp">H P82</idno>
+      <textTranscript uri="391532.xml"/>
+      <classification>Konzept</classification>
+      <condition>fleckig</condition>
+      <dimensions>
+         <width unit="mm">166</width>
+         <height unit="mm">205</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 203 mm.</note>
+      <format>4</format>
+      <note>aus einem Folioblatt gefaltetes Quartheft</note>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Remda</paperMill>
+      <watermarkID>Sächsisches Rautenkranzoval über Stern</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <!-- WA: fälschlicherweise Posthorn -->
+      <!-- vgl. H P67, H P68, H P69 -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 183</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 201</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 183</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 201</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 571</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 202</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/1798</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Dieses Sammelblatt ist zwar nicht von der Hand Geists geschrieben, Papier und
+               Signaturen zeigen jedoch deutlich, daß es ebenfalls in den Zusammenhang der
+               Neuordnung von 1797/98 gehört.</p>
+            <p>Das Blatt weist zwei Einträge mit unterschiedlichen Signaturen auf: "Goethe hat hier
+               also zwei Fragmente zunächst abgeschrieben und signiert, um sie nach ihrer Signatur
+               in die betreffende Lage zu übertragen oder übertragen zu lassen. In beiden Fällen
+               läßt sich seine Vorlage noch feststellen, denn P82 steht, und zwar in einer zweifel-
+               los älteren Fassung, auf einem Sammelblatt mit ganz verschiedenartigen Fragmenten [H
+               P20, hier S. 196], P83 auf einem Blatt aus den Papieren der Schweizer Reise
+               (I,34.2,104), das erst in den `Nachträgen zu den Lesarten der 1. Abteilung'
+               (I,53,569) registriert worden ist [H P121a, hier S. 199]." (Grumach, Prolog und
+               Epilog, S. 67.)</p>
+            <p>Die Signaturen weisen die beiden Fragmente unterschiedlichen Szenen der geplanten
+               Fortsetzung zu. Während "ad 22" wohl auf den geplanten `Helena'-Komplex verweist, ist
+               der "ad 24" signierte Zweizeiler wahrscheinlich für die Situation Fausts nach dem
+               Verlust der Helena vorgesehen.</p>
+            <p>Z. 1-5 <b>(P82)</b>: Vgl. Kommentar zu H P20 (hier S. 197), auf dem sich eine
+               wahrscheinlich ältere Fassung dieses Dreizeilers findet. P82 wurde in der Forschung
+               bisher entweder überleitenden Szenen zwischen Kaiserhof und `Helena' zugeordnet
+               (Harnack) oder dem 4. Akt zugeschrieben (Petsch, Hecker); Morris geht davon aus, daß
+               die Verse ursprünglich für den Ersten Teil bestimmt waren, bevor Goethe sie für den
+               4. Akt einplante (Morris, Faustparalipomena, S. 177; Witkowski, S.438f.). Wie oben
+               ausgeführt (vgl. hier S. 195) ist der Bezug der Signatur "ad 22" auf den späteren 4.
+               Akt jedoch zweifelhaft; Morris' Orientierung an P178 (vom Mai 1831!) zur Einordnung
+               der P81 und 82 ist chronologisch verfehlt. Die Signatur "ad 22" weist dagegen
+               wahrscheinlich auf einen Zusammenhang mit dem `Helena'-Komplex. Wie der Hinweis auf
+               die "schlechte Lust" verlassener Stätten dort Verwendung finden sollte, ist nicht
+               zuverlässig zu klären; vielleicht läßt sich jedoch ein Zusammenhang mit der Rückkehr
+               Helenas aus Troja herstellen: "Sie findet alles einsam, sehnt sich nach Gesellschaft,
+               besonders nach männlicher, die sie ihr lebelang nicht entbehren können." (P63, Z.
+               117-120, hier S. 271.)</p>
+            <p>Z. 4f. <b>(P83)</b>: In veränderter Form hat Goethe diesen Zweizeiler in den
+               `Wahlverwandtschaften' eingesetzt. Eduard gegenüber Mittler: "Der Glückliche, der
+               Behagliche hat gut reden, fuhr Eduard auf: aber schämen würde er sich, wenn er
+               einsähe, wie unerträglich er dem Leidenden wird. [...] Es gibt Fälle, ja es gibt
+               deren! wo jeder Trost niederträchtig und Verzweiflung Pflicht ist." (WA I,20,190)</p>
+            <p>Sehr wahrscheinlich war im `Faust' ein Zusammenhang mit Fausts Gefühlen nach dem
+               Verlust der Helena vorgesehen; auch die Signatur verweist diese Verse in den 4. Akt.
+               (Vgl. Morris, Faustparalipomena, S. 216f.)</p>
+            <p>Die Signatur "ad 24" findet sich außerdem auf einem leeren, halbierten Foliobogen
+               desselben Papiers (Ilversgehofener Postpapier), das wohl ebenso für die Aufnahme
+               eines Entwurfs im Zusammenhang mit dem Nummernschema bestimmt war.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

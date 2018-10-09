@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_29-411-II_Bl_74-75/">
+   <revisionDesc>
+      <change when="2013-01-31" who="bruening">angelegt</change>
+      <change when="2013-01-31" who="bruening">encoded</change>
+      <change when="2013-03-08" who="bruening koehler">Fischer-Lamberg.</change>
+      <change when="2013-10-30" who="henzel">uri textTranscript nachgetragen</change>
+      <change when="2013-10-30" who="henzel">Lagenstruktur und Zuordnung reference</change>
+      <change when="2013-10-30" who="henzel">uri docTranscript nachgetragen</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Unter Briefen an Carl August und andere, ehemals ein Depositum der Thüringischen
+         Landesbibliothek, Sign. Bibl. J I 17 (faust://bibliography/fischer-lamberg1955, S. 132).
+         Der Bogen zeigt Spuren einer nochmaligen Längs- und Querfaltung. – Die heutige Faltung des
+         Bogens ist der früheren entgegengesetzt. Die frühere ist an der Zählung in der rechten
+         oberen Ecke (3, 2) erkennbar. Auch sie ist archivarischen Ursprungs und schließt einen
+         jetzt als Bl. 76f. beiliegenden Umschlag ein, der die einzelnen Niederschriften genau
+         verzeichnet und wiedergibt. Neben dem Entwurf des Titels: „Helena, klassisch-romantische
+         Phantasmagorie […]“ trägt das Dpbl. eine Agendaaufstellung ein Konzept zu einem Brief an
+         den Kgl. Sächsischen Kirchenrat (WA-Nr. 41126l, vgl. faust://bibliography/wa_IV_41, S. 335f.)
+         <!-- Briefentwurf eines wohl nicht abgesandten Schreibens um den 12. September 1826 an den königl. sächs. Kirchenrat zu Dresden, vermutlich schon im Juni 1826 entworfen  -->
+         sowie ein Konzept zu einem Billet an Carl August. Eine Aufschrift auf dem beiliegenden
+         Umschlag datiert das Konzept in das letzte Lebensjahr Carl Augusts;
+         faust://bibliography/fischer-lamberg1955, S. 133 gibt ebenfalls keine genauere Datierung
+         an.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.0</idno>
+      <idno type="gsa_2">GSA 29/411,II, Bl. 74f.</idno>
+      <idno type="gsa_ident">8529</idno>
+      <idno type="fischer_lamberg">2 III H.72a</idno>
+      <textTranscript uri="GSA_29-411-II_Bl_74-75.xml"/>
+      <numberingList>
+         <numbering name="Foliierung_o_re">Archivarische Bleistiftfoliierung in der rechten oberen
+            Ecke.</numbering>
+         <numbering name="Foliierung_u_re">Archivarische Bleistiftfoliierung in der rechten unteren
+            Ecke.</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">335</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Stern_ueber_N4</watermarkID>
+      <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            132</reference>
+         <reference type="text" uri="faust://bibliography/fischer-lamberg1955">S. 132f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 132f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="74r.xml"/>
+               <references>
+                  <reference type="text" uri="faust://bibliography/fischer-lamberg1955">S.
+                     133</reference>
+               </references>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="74v.xml"/>
+               <references>
+                  <reference type="text" uri="faust://bibliography/fischer-lamberg1955">S.
+                     132f.</reference>
+               </references>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="75r.xml"/>
+               <references>
+                  <reference type="text" uri="faust://bibliography/fischer-lamberg1955">S.
+                     132</reference>
+               </references>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="75v.xml"/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+</archivalDocument>

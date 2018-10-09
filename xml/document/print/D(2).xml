@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">D.2</idno>
+        <idno type="wa_faust">E.2</idno>
+        <idno type="hagen">D.2</idno>
+        <idno type="hagen_nr">315</idno>
+        <headNote>Einzeldruck bei Cotta, 1816</headNote>
+        <bibl>Faust. Eine Tragödie von Goethe. Stuttgart und Tübingen, in der J. G. Cotta’schen Buchhandlung. 1816. 309 S. 8°</bibl>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">IV 3 / 6</idno>
+            </referenceCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">IV 3 / 6/2</idno>
+            </furtherCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 251</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 162</reference>
+            <reference type="essay" uri="faust://bibliography/hagen1983">S. 162</reference>
+        </references>
+        <textTranscript uri="D(2)_IV3-6.xml"/>
+    </metadata>
+</print>

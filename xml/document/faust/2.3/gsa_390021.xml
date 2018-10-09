@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390021/">
+   <revisionDesc>
+      <change when="2013-01-10" who="bruening">encoded</change>
+      <change when="2014-03-19" who="henzel">missing entfernt</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Doppelblätter. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Konzept egh zu Vers 9192–9272 [= Vorlage zur Abschrift dieser Verse auf 2 III H.2 (GSA
+         25/W 1568)]</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.45</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,34</idno>
+      <idno type="gsa_2">GSA 25/W 1625</idno>
+      <idno type="gsa_ident">390021</idno>
+      <idno type="wa_faust">2 III H.45</idno>
+      <textTranscript uri="390021.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering name="Bleistiftfoliierung">Archivarische Foliierung mit Bleistift.</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">205</width>
+         <height unit="mm">335</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Stern_ueber_N1</watermarkID>
+      <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 70</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            111</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 111</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <!-- Bl. 1 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Leer.</note>
+               <docTranscript/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 2 -->
+         <leaf>
+            <metadata>
+               <leafCondition>Vorderseitig vergilbt.</leafCondition>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0003.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <note>Leer.</note>
+                  <docTranscript/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 3 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0004.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <note>Leer.</note>
+                  <docTranscript/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 4 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Leer.</note>
+               <docTranscript/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Vorlage zur Abschrift dieser Verse auf H.2 (25/XVIII,1,2a)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>4</f:blatt>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390021</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9192-9272
+Statt feyerlichsten Grußes ...
+WA: III H.45; vgl. I 15.2,70
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,34</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,34</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Statt feyerlichsten Grußes</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,70</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.45</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9192-9272</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>4</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Vorlage zur Abschrift dieser Verse auf H.2 (25/XVIII,1,2a)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1268</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3182</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

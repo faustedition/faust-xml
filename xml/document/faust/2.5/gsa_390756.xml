@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390756/">
+   <revisionDesc>
+      <change when="2012-12-06" who="henzel">imported</change>
+      <change when="2012-12-06" who="henzel">encoded</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>auf Paketumschlag für eine Sendung Drucksachen mit Adresse Goethes von einem
+         zeitgenössischen Schreiber mit Tinte; Bemerkung eines zeitgenössischen Schreibers mit
+         Tinte: "v. Goethe (original)."; dabei: Vermerk B. Suphan über den Ankauf des Manuskripts,
+         18.7.1888 sowie: Rechnung der Firma Otto August Schulz, Buch- und Autographenhandlung
+         Leipzig für den Ankauf des Manuskripts 19.7.1888</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.38</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,38</idno>
+      <idno type="gsa_2">GSA 25/W 1736</idno>
+      <idno type="gsa_ident">390756</idno>
+      <idno type="wa_faust">2 V H.38</idno>
+      <textTranscript uri="390756.xml"/>
+      <classification>Konzept</classification>
+      <history>Ankauf aus einem Leipziger Antiquariat im Juli 1888</history>
+      <condition>rote Siegelreste, Riss- und Gebrauchsspuren, auch Stichlöcher über das Blatt
+         verteilt, fleckig, in der Mitte längs gefaltet; ursprünglich mehrfach gefaltet</condition>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskante an rechter Seite des 2. Blattes</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>n.s.</paperMill>
+      <!-- TODO nachtragen -->
+      <watermarkID>PRO PATRIA</watermarkID>
+      <countermarkID>C F F</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 191</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 192</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 193</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">213</width>
+               <height unit="mm">214</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 211 mm. Der Mindestwert der Blatt-Höhe
+               beträgt 211 mm.</note>
+            <!-- nicht berücksichtigt wurde Einbuchtung durch Einriss -->
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+               <!-- Neudigitalisierung nötig -->
+               <!-- <docTranscript uri="0003.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">211</width>
+               <height unit="mm">214</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 207 mm. Der Mindestwert der Blatt-Höhe
+               beträgt 211 mm.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+               <!-- <docTranscript uri="0003.xml"/> deleatur -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+   <!-- <docTranscript uri="0005.xml"/> <docTranscript uri="0006.xml"/> deleatur (da archiv. Zusatzbl. -->
+</archivalDocument>

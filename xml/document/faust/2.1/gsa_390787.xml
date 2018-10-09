@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390787/">
+   <revisionDesc>
+      <change when="2012-11-14" who="bruening">encoded</change>
+      <change when="2014-10-17" who="pravida">headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>eigenhändige Reinschrift und Korrektur Goethes mit Datum und Unterschrift
+         Einzelblatt, 1 beschriebene Seite. - Vs.: Korrigierte Reinschrift dreier Gedichte, Text entsprechend Versen  in ‚Faust II‘, Akt 1 (eigenhändig, Tinte und Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.9</idno>
+      <idno type="gsa_1">GSA 25/XVII,4,10:1</idno>
+      <note>Vorher: GSA 25/XVII,4,10a</note>
+      <idno type="gsa_2">GSA 25/W 1427</idno>
+      <idno type="gsa_ident">390787</idno>
+      <idno type="wa_faust">2 I H.9</idno>
+      <textTranscript uri="390787.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <numberingList>
+         <numbering name="Zaehlung">Zählung unklarer Herkunft.</numbering>
+      </numberingList>
+      <condition>Vergilbt.</condition>
+      <dimensions>
+         <width unit="mm">205</width>
+         <height unit="mm">331</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelb (ursprünglich aber wohl genau so grünlich wie W 1428).</paperColour>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 10</reference>
+      </references>
+      <note>Das erste Gedicht „Olivenzweig mit Früchten“ wird nach einem Brief von Karoline von
+         Egloffstein an ihre Mutter wiedergegeben in faust://bibliography/dembowski1889, S.
+         29.</note>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Initiale "G" egh
+
+</f:dabei_vermerk>
+      <f:datierung>"8 Dez. 1827."</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390787</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.9; vgl. I 15.2,10
+
+Vers(e): 5120-5127
+Olivenzweig mit Früchten.  Keinen Blumenflor beneid' ich ...
+Reinschrift
+= Gedicht "An Karoline v. Egloffstein. Weihnachten 1827" WA I 5.1,72
+
+Vers(e): 5136-5157 (5150-5151 fehlt/fehlen)
+Phantasie-Strauß;  Meinen Nahmen euch zu sagen ...
+Reinschrift</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,4,10a</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,10a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12d">Datierung auf der Handschrift</f:key>
+            <f:value>"8 Dez. 1827."</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271208</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,10</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.9</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Initiale "G" egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1090</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2311</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,10a*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Phantasie-Strauß ² Meinen Nahmen euch zu sagen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>5150-5151</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5136-5157</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2357</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,10a*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Aus dem Nachlaß. An Personen. WA I 5.1, 53-79 // Faust II. WA I 15.1, 1-I 15.2,
+               247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 5.1,72</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>Olivenzweig mit Früchten</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271225; 18271208</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>-</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="61b">weiterer Druckort in WA (Verknüpfungskategorie) (unscharf)</f:key>
+            <f:value>I 15.1,24</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Egloffstein auf Lamgarben und Arklitten, Karoline Gräfin von und zu</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="98">Export in die Archivdatenbank</f:key>
+            <f:value>e</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf Sammelblatt bei "Faust" II, 1. Akt mit Unterschrift, 8.12.1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="999">Gattung</f:key>
+            <f:value>G</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>24636</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+        <change when="2017-03-09" who="Krause">markiert</change>
+        <change when="2018-07-12" who="krause">ergänzt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="61"/>
+            <div type="diary"><p><milestone unit="testimony" spanTo="#bie3_3903_end" xml:id="bie3_3903"/>1. April Einladung zu Goethe, wo Fürst Radziwill, der auf dem Violoncell seine
+                <rs>Komposition von Faust</rs> und nachher mit Moltke auf dem Klavier exekutierte. War der
+                Erbprinz dabei.<anchor xml:id="bie3_3903_end"/></p></div>
+            
+            <pb n="37" facs="pollmer1923_0023.jpg"/>
+            <div type="diary">
+                <p>25. Juni <milestone unit="testimony" spanTo="#bie3_3472_end" xml:id="bie3_3472"/>Mit Goethe und den Frauen zu Frau von Recke, wo die Coloredo, die Sagan,
+                    die Hohenzollern, Tiedge, Himmel. <rs>Goethe las vor aus dem Faust</rs>. Dann spielte
+                    Himmel, und die Sagan und Frl. Sebald sang. Hernach aus Pandora.<anchor xml:id="bie3_3472_end"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

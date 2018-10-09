@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390387/">
+<revisionDesc>
+   <change when="2012-12-10" who="henzel">imported</change>
+   <change when="2012-12-10" who="henzel">encoded</change>
+   <change when="2013-10-18" who="henzel">bohnenkamp-sigle in fischer-lamberg-sigle umgewandelt</change>
+   <change when="2015-01-30" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf beiliegender Kopie archivarische Bemerkung "lag bei den "Sprüchen in Prosa"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P129 Var*</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,4</idno>
+      <idno type="gsa_2">GSA 25/W 1776</idno>
+      <idno type="gsa_ident">390387</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 II H.2d</idno>
+      <idno type="hecker">171</idno>
+      <!-- P129 -->
+      <textTranscript uri="390387.xml"/>
+      <classification>none</classification><!-- Reinschrift, Abschrift -->
+      <condition>stark vergilbt</condition>
+      <dimensions>
+         <width unit="mm">165</width>
+         <height unit="mm">100</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 97 mm.</note>
+      <format>8</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>"GEI" (?)</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 27</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 467</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 217</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 467</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 27</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 467</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>vgl. Paralipomenon 129 (25/XVII,7,3:3); Lit.: Fischer-Lamberg, S.24</f:bemerkung>
+      <f:datierung>nach dem 27.9.1827</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            
+            <p> beschnittener Streifen, gelblich; Reste eines angeschn. WZ: `;</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Anhand der Identifikation der hier deklarierten Sendung gelingt Fischer-Lamberg die Datierung dieses Zweizeilers auf einen Zeitpunkt nach dem 27. 9. 1827. Ob es sich bei diesen Versen allerdings tatsächlich um einen Entwurf zur `Klassischen Walpurgisnacht' handelt, wie von zahlreichen Kommentatoren angenommen wird, muß offen bleiben. Morris (Faustparalipomena, S. 443) vermutet hier eine an Enyo gerichtete Erwiderung Mephistos, als diese seiner Ehrlichkeit mißtraut (vgl. P99A,16ff. hier S.417). Die Existenz der unter den `Sprüchen' verwahrten Abschrift Riemers könnte auch als Hinweis auf eine unabhängige Entstehung (zumindest jedoch Verwendung) dieses Zweizeilers gedeutet werden. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

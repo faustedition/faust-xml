@@ -1,0 +1,1145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391473/">
+   <revisionDesc>
+      <change when="2012-11-13" who="bruening">begonnen</change>
+      <change when="2012-11-15" who="bruening">weitergeführt</change>
+      <change when="2012-11-16" who="bruening">fast fertig</change>
+      <change when="2012-11-23" who="bruening">encoded</change>
+      <change when="2013-10-18" who="henzel">prefix f entfernt</change>
+      <change when="2013-10-20" who="ritter">bohnenkamp idno eingefügt</change>
+      <change when="2014-07-22" who="henzel">uri-Fehler behoben bei docTranscript
+         (0098.xml)</change>
+      <!-- TODO ungebunden -->
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2016-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 30 Blätter nebst Umschlag.  – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Heft, 26 eingebundene Blätter, nach Bl. 7 eingelegt 2 Einzelblätter und 1 Doppelblatt nebst Umschlag.  – Zu ‚Faust II‘, Akt 3.</note>
+      <note>Erich Schmidt beschreibt faust://bibliography/wa_I_15_2, S. 65f. einen Zustand, den er
+         teils selbst hergestellt hat und der dem heutigen Zustand nicht völlig entspricht. Die
+         „zerstreut im Wust gefundenen Bll.“ (ebd., S. 65) liegen auch heute noch in der Hs., in
+         einem neuen Archivumschlag mit dem Kopierten Vermerk „Von mir zusammengerückt und eingelegt
+         XII 87 [Dezember 1887] Erich Schmidt.“ Diese Bll. (zwei Ebll. und ein Dpbl., jeweils quer
+         gebrochen) befinden sich jetzt zwischen Bl. 7 und Bl. 12 der Goetheschen Zählung. Dass
+         Schmidt sie tatsächlich „wieder“ eingelegt hat (faust://bibliography/wa_I_15_2, S. 65), sie
+         also ursprünglich der Hs. angehörten, ist außer an den für die gesamte Hs. typischen Spuren
+         der Zusammenarbeit mit Riemer auch noch daran erkennbar, dass das zweite eingelegte Blatt
+         ursprünglich mit Bl. 12 ein Doppelblatt bildete. Es passt zu den stehengebliebenen
+         Zeilenenden auf dem Streifen der abgetrennten Bogenhälfte, der bei der Abtrennung
+         stehenblieb (jetzt zwischen den Bll. 4 und 5, in der Abbildung von Bl. 5r jedoch verdeckt).
+         Die von Goethe selbst so genannten „fehlend[en] Blätter“ wurden „in das Mundum eingeheftet“
+         (Bl. 12r, rote Tinte), doch ist dieses Mundum, wie Schmidt vermutet, bald darauf wieder
+         aufgelöst worden. Schmidt erwägt, dass in faust://document/wa_faust/2_III_H.3 ein Rest
+         dieses Mundums vorliegt (faust://bibliography/wa_I_15_2, S. 65). Die jetzige Lage der Bll.
+         bildet also einen Zustand des Konvoluts VOR der Foliierung nach. Zum Zeitpunkt der
+         Foliierung lagen die Bll., die laut Goethes Bemerkung fehlen, noch in der Hs. Goethes
+         Bemerkung beschreibt den Zustand nach der Herauslösung dieser Blätter, die mit den jetzt
+         inliegenden Blättern keinesweges identisch sind. – Außerdem fand Erich Schmidt in der Hs.
+         Riemersche Chor-Niederschriften vor, denen er keine Bedeutung für die Textentwicklung
+         beimaß (faust://bibliography/wa_I_15_2, S. 84). Sie liegen heute separat (GSA 25/W
+         1570–1575). – Nicht mehr auffindbar ist ein von Schmidt erwähnter „leerer Schlussbogen
+         signirt 39. 40“ (faust://bibliography/wa_I_15_2, S. 64). Seine Existenz ist immerhin
+         wahrscheinlich, da die im ersten Heft beginnende Zählung im zweiten mit 31 (jetzt: Bl. 3)
+         einsetzt. Dagegen fehlt der Hinweis auf das Paralipomenon 170, das an die hintere innere
+         Umschlagseite angeklebt war (jetzt lose). Dort, wo es beschrieben wird
+         (faust://bibliography/wa_I_15_2, S. 230), fehlt ebenfalls der Hinweis darauf, dass dieses
+         Bl. aus der Hs. stammt. Es wurde also möglicherweise erst aufgrund des von Schmidt
+         erkannten unmittelbaren Bezugs auf die Foliierung der Hs. von Schmidt selbst oder späteren
+         Bearbeitern in diese eingeklebt (vgl. aber faust://bibliography/bohnenkamp1994, S.
+         642).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.2:1</idno>
+      <idno type="gsa_1">GSA 25/XVIII,1,2a</idno>
+      <idno type="gsa_2">GSA 25/W 1568</idno>
+      <idno type="gsa_ident">391473</idno>
+      <idno type="wa_faust">2 III H.2</idno>
+      <idno type="bohnenkamp">H P170</idno>
+      <textTranscript uri="391473.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <numberingList>
+         <numbering name="Erste_Bleistiftfoliierung">Erste eigenhändige Foliierung mit Bleistift
+            (1–30 im ersten, 31–33 im zweiten Heft). Vgl. faust://bibliography/wa_I_15_2, S.
+            65.</numbering>
+         <numbering name="Chornumerierung">Numerierung der Chöre von Riemers Hand, vgl.
+            faust://bibliography/wa_I_15_2, S. 84.</numbering>
+      </numberingList>
+      <condition>Die Blätter sind insbesondere an den Rändern z.T. stark vergilbt.</condition>
+      <format>2</format>
+      <binding>Blauer Umschlag.</binding>
+      <bindingMaterial>Faden</bindingMaterial>
+      <edges>cut</edges>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 65f.</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            75-77</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 642</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 79</reference>
+      </references>
+   </metadata>
+   <!-- Umschlag -->
+   <sheet type="binding">
+      <metadata>
+         <note>Der Umschlagrücken weist zahlreiche Stichlöcher auf, doch werden nur ihre
+            Entsprechungen in den jeweiligen Blattlagen im einzelnen berücksichtigt.</note>
+
+         <leafCondition>Der Umschlagrücken ist unten eingerissen, die Ränder sind etwas bestoßen,
+            gewellt und gebräunt.</leafCondition>
+         <paperType>none</paperType>
+         <paperColour>blau</paperColour>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <!-- vorderes Umschlagblatt -->
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">210</width>
+               <height unit="mm">345</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- bis auf eine archivarische Eintragung leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Erste Lage -->
+      <sheet>
+         <metadata>
+            <dimensions>
+               <width unit="mm">201</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">73</stabMark>
+               <stabMark unit="mm">127</stabMark>
+               <stabMark unit="mm">210</stabMark>
+               <stabMark unit="mm">262</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 1 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0004.xml"/>
+               </metadata>
+               <!-- Satyroma-Zettel -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">78</width>
+                        <height unit="mm">22</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Konzeptpapier</patchPaperType>
+                     <patchPaperColour>gelb</patchPaperColour>
+                     <patchWatermarkID>none</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- TODO Digitalisat nachfordern und URI eintragen -->
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 2 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0006.xml"/>
+                  </metadata>
+                  <patch>
+                     <metadata>
+                        <patchDimensions>
+                           <width unit="mm">200</width>
+                           <height unit="mm">97</height>
+                        </patchDimensions>
+                        <patchType>glue</patchType>
+                        <patchPaperType>Velinpapier</patchPaperType>
+                        <patchPaperColour>gelb</patchPaperColour>
+                        <patchWatermarkID>none</patchWatermarkID>
+                     </metadata>
+                     <patchSurface/>
+                     <patchSurface/>
+                  </patch>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0008.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 3 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0009.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0010.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 4 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0012.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0014.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Zusammengeklebte Ebll. -->
+      <!-- Bl. 5 -->
+      <disjunctLeaf>
+         <metadata>
+            <note>Durch einen Konzeptpapierstreifen im Falz mit den folgenden Blättern
+               zusammengehalten.</note>
+            <dimensions>
+               <width unit="mm">200</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">100</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">221</stabMark>
+               <stabMark unit="mm">281</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0016.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0018.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <!-- Bl. 6 -->
+      <disjunctLeaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">200</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm"/>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0020.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0022.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <!-- Bl. 7 -->
+      <disjunctLeaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">200</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm"/>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0024.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0026.xml"/>
+            </metadata>
+            <!-- Bl. 7a -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">185</width>
+                     <height unit="mm">105</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelb</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </disjunctLeaf>
+      <!-- Eingelegte Blätter -->
+      <!-- erstes eingelegtes Bl. -->
+      <disjunctLeaf>
+         <!-- ungebunden -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">187</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm"/>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0028.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0029.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <!-- zweites eingelegtes Bl. -->
+      <disjunctLeaf>
+         <!-- ungebunden -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">188</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm"/>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0030.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0031.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <!-- eingelegtes Dpbl. -->
+      <sheet>
+         <!-- ungebunden -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">200</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">70</stabMark>
+               <stabMark unit="mm">128</stabMark>
+               <stabMark unit="mm">210</stabMark>
+               <stabMark unit="mm">264</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0032.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0033.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0034.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0035.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 12 -->
+      <disjunctLeaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">200</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">70</stabMark>
+               <stabMark unit="mm">120</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">210</stabMark>
+               <stabMark unit="mm">223</stabMark>
+               <stabMark unit="mm">236</stabMark>
+               <stabMark unit="mm">283</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+         </metadata>
+         <page>
+            <metadata>
+               <docTranscript uri="0036.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0038.xml"/>
+            </metadata>
+         </page>
+      </disjunctLeaf>
+      <!-- Lage 13ff. -->
+      <sheet>
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">335</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">94</stabMark>
+               <stabMark unit="mm">153</stabMark>
+               <stabMark unit="mm">235</stabMark>
+               <stabMark unit="mm">285</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 13 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0039.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0040.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 14 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0041.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0042.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0044.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0046.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0048.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0049.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Lage Bl. 17–20 -->
+      <sheet>
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">334</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">72</stabMark>
+               <stabMark unit="mm">125</stabMark>
+               <stabMark unit="mm">210</stabMark>
+               <stabMark unit="mm">263</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 17 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0052.xml"/>
+               </metadata>
+               <!-- 17a -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">198</width>
+                        <height unit="mm">313</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchWatermarkID>Rautenkranzwappen_ueber_Stuetzerbach</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0054.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 18 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0056.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0057.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 19 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0059.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0061.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 20 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0063.xml"/>
+               </metadata>
+               <!-- Bl. 20a -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">197</width>
+                        <height unit="mm">192</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>grünlich</patchPaperColour>
+                     <watermarkID>Doppeladler_mit_GH</watermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0067.xml"/>
+               </metadata>
+               <!-- Bl. 20b -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">196</width>
+                        <height unit="mm">181</height>
+                     </patchDimensions>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>grünlich</patchPaperColour>
+                     <patchWatermarkID>Rautenkranzwappen_ueber_Stuetzerbach</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Lage Bl. 21–24 -->
+      <sheet>
+         <metadata>
+            <dimensions>
+               <width unit="mm">197</width>
+               <height unit="mm">325</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">91</stabMark>
+               <stabMark unit="mm">150</stabMark>
+               <stabMark unit="mm">227</stabMark>
+               <stabMark unit="mm">286</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 21 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0069.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0071.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <!-- Bl. 22 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0072.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0074.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Bl. 23 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0076.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0078.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 24 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0079.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0080.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Lage Bl. 25–30 -->
+      <sheet>
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <stabMarks>
+               <stabMark unit="mm">70</stabMark>
+               <stabMark unit="mm">125</stabMark>
+               <stabMark unit="mm">207</stabMark>
+               <stabMark unit="mm">265</stabMark>
+            </stabMarks>
+            <paperType>Schreibpapier</paperType>
+            <paperColour>grünlich</paperColour>
+            <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            <countermarkID>GH_ueber_N3</countermarkID>
+         </metadata>
+         <!-- Bl. 25 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0081.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0083.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Ebl. 26 -->
+         <disjunctLeaf>
+            <metadata>
+               <!-- lose -->
+               <dimensions>
+                  <width unit="mm">203</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <stabMarks>
+                  <stabMark unit="mm"/>
+               </stabMarks>
+               <paperType>Schreibpapier</paperType>
+               <paperColour>grünlich</paperColour>
+               <countermarkID>GH_ueber_N3</countermarkID>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0084.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- leer -->
+               </metadata>
+            </page>
+         </disjunctLeaf>
+         <!-- Dbl. 26/29 -->
+         <sheet>
+            <!-- Erbt die Eigenschaften des umschließenden <sheet>s. -->
+            <metadata>
+               <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+               <countermarkID>GH_ueber_N3</countermarkID>
+            </metadata>
+            <!-- Bl. 26 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0085.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0086.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <!-- Ebl. 27 -->
+            <disjunctLeaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0087.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0088.xml"/>
+                  </metadata>
+               </page>
+            </disjunctLeaf>
+            <!-- Ebl. 28 -->
+            <disjunctLeaf>
+               <metadata>
+                  <dimensions>
+                     <width unit="mm">202</width>
+                     <height unit="mm">330</height>
+                  </dimensions>
+                  <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+               </metadata>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0090.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0091.xml"/>
+                  </metadata>
+               </page>
+            </disjunctLeaf>
+            <!-- Ebl. 28b -->
+            <disjunctLeaf>
+               <!-- ungebunden -->
+               <metadata>
+                  <dimensions>
+                     <width unit="mm">201</width>
+                     <height unit="mm">334</height>
+                  </dimensions>
+                  <stabMarks>
+                     <stabMark unit="mm"/>
+                  </stabMarks>
+                  <paperType>Schreibpapier</paperType>
+                  <paperColour>gelb</paperColour>
+                  <countermarkID>ICKirchgeorg</countermarkID>
+               </metadata>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0092.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript/>
+                     <!-- leer -->
+                  </metadata>
+               </page>
+            </disjunctLeaf>
+            <!-- Bl. 29 -->
+            <leaf>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0093.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <metadata>
+                     <docTranscript uri="0094.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <!-- Bl. 30 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0095.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0097.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- hinteres Umschlagblatt -->
+      <leaf>
+         <metadata>
+            <dimensions>
+               <width unit="mm">205</width>
+               <height unit="mm">345</height>
+            </dimensions>
+         </metadata>
+         <!-- Umschlaginnenseite -->
+         <page>
+            <metadata>
+               <docTranscript uri="0098.xml"/>
+            </metadata>
+            <!-- Paralip 170 -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">143</width>
+                     <height unit="mm">202</height>
+                  </patchDimensions>
+                  <note>Der Höchstwert für die Blatt-Breite beträgt 140 mm.</note>
+                  <f:patchReferences>
+                     <f:reference type="description" uri="faust://bibliography/wa_I_15_2">S.
+                        230</f:reference>
+                     <reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+                        641</reference>
+                     <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S.
+                        642</reference>
+                  </f:patchReferences>
+               </metadata>
+               <patchSurface>
+                  <metadata>
+                     <!--<docTranscript uri="0098.xml"/>-->
+                     <references>
+                        <f:reference type="text" uri="faust://bibliography/wa_I_15_2">S.
+                           230</f:reference>
+                        <reference type="text" uri="faust://bibliography/bohnenkamp1994">S.
+                           641</reference>
+                        <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                           699</reference>
+                     </references>
+                  </metadata>
+               </patchSurface>
+               <patchSurface>
+                  <metadata>
+                     <!--<docTranscript/>-->
+                     <!-- leer -->
+                  </metadata>
+               </patchSurface>
+            </patch>
+         </page>
+         <!-- Umschlagaußenseite -->
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.642</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>37</f:blatt>
+      <f:datierung>1800, 1825, 1826, 1825/Frühjah</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391473</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.2; vgl. I 15.2,65-66
+Titel der Handschrift: "Helena. Satyroma." John [auf Umschlag]; "Helena im Mittelalter ein Satyroma. Episode zu Faust." [fol.1, "ein Satyroma" geklebt über "Satyr=Drama."]
+
+Vers(e): 8489-9580 (8516-8523, 8560-8568, 8591-8603, 8714, 9072-9073, 9173 fehlt/fehlen)
+Vom Strande komm ich, wo wir erst gelandet sind ...
+Reinschrift und Konzept
+
+Paralipomenon 170
+Wechselrede Faust, Phorkyas ...
+Schema</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John; Riemer, egh</f:schrift>
+      <f:signatur>XVIII,1,2a</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,2a*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1825/Frühjahr 1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wechselrede Faust, Phorkyas</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,230</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Schema</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>170</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Bohnenkamp, S.642</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2752</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,2a*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Vom Strande komm ich, wo wir erst gelandet sind</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 1-31</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John; Riemer</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Reinschrift und Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>8516-8523, 8560-8568, 8591-8603, 8714, 9072-9073, 9173</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8489-9580</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Riemer, Friedrich Wilhelm; John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3731</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,2a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Helena. Satyroma." John [auf Umschlag]; "Helena im Mittelalter ein Satyroma.
+               Episode zu Faust." [fol. 1, "ein Satyroma" geklebt über "Satyr=Drama."]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1800, 1825, 1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1800; 1825; 1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,65-66</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="77">Grundsignatur oder Verweissignatur</f:key>
+            <f:value>25/XVIII,1,2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>37</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Arbeitsmundum, Heft 1; 4 Bl zu den Versen 8754-8878 lose zwischen fol. 7 und
+               12 (dazu Bemerkung von Erich Schmidt "Von mir zusammengerückt u. eingelegt); auch
+               Variante zu den Versen 9385-9410 zusätzlich auf lose eingelegtem Bl (vor fol. 26);
+               ebenso Variante zu den Versen 9482-9505 (vor fol. 29); außerdem sechs weitere später
+               fortgelassene Verse zwischen 8902 und 8903, vgl. Bohnenkamp, S. 588; ursprünglich
+               zuhehörig auch ein anderes Blatt 28, das jetzt separat liegt unter 25/XVIII,3,1 (III
+               H.52)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1222</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4046</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVIII,1,2a*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,230</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P170</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>641</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Wechselrede Faust, Phorkyas</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>170</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10113</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

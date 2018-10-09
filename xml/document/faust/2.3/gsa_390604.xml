@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390604/">
+   <revisionDesc>
+      <change when="2012-12-04" who="bruening">encoded</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+     </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt und 2 Einzelblätter. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Wie genau zueinander passende Stichlöcher erkennen lassen, war das Doppelblatt und das
+         folgende Einzelblatt zusammen eingeheftet (sie passen aber nicht zu denen der
+         entsprechenden Partie in faust://document/wa_faust/2_III_H.2). Die Risskante des zweiten
+         Ebl. zeigt keine Entsprechungen. Das Mundum wurde offenbar angelegt, um die monologischen
+         Trimeter der Helena einerseits sowie die unterbrechenden drei Chorstrophen andererseits zur
+         besseren Übersicht jeweils zusammenzustellen. Die ersten drei Chorstrophen sind auf einem
+         Einzelblatt am Schluss gesammelt niedergeschrieben und können so im Hinblick auf
+         prosodisches Gleichmaß direkt verglichen werden. Korrespondierende Verweisungszeichen
+         markieren die Position der Chorstrophen innerhalb des Trimetermonologs, nicht etwa deren
+         Hinzufügung im Sinne einer Änderung des Textes. Die Handschrift wurde also von vornherein
+         nicht als endgültiges Mundum, sondern zum Zweck der weiteren metrischen Überarbeitung einer
+         bestimmten Partie angelegt. – Quer gebrochen. Die beiden Ebl. sind keine sich ergänzenden
+         Bogenhälften.</note>
+      <!-- WA: "3 Fol. [...] und  ein mit corrrespondirenden Ergänzungsszeichen versehenes Fol."-->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.3</idno>
+      <idno type="gsa_1">GSA 25/XVIII,1,3:1</idno>
+      <idno type="gsa_2">GSA 25/W 1576</idno>
+      <idno type="gsa_ident">390604</idno>
+      <idno type="wa_faust">2 III H.3</idno>
+      <textTranscript uri="390604.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 66f.</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            85</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 85f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <metadata>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0007.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf>
+      <metadata>
+         <note>Am Falz steht ein 14 mm breiter Streifen der abgetrennten anderen Bogenhälfte über<!-- (bei der Angabe der Blattbreite nicht berücksichtigt) -->.</note>
+         <countermarkID>GH_ueber_N3</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0008.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0009.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0010.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>4</f:blatt>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390604</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 8489-8637
+Vom Strande komm' ich wo wir erst gelandet sind ...
+WA: III H.3; vgl. I 15.2,66-67
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John, egh</f:schrift>
+      <f:signatur>XVIII,1,3:1</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,1,3:1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Vom Strande komm' ich wo wir erst gelandet sind</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,66-67</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.3</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8489-8637</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>4</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1225</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2786</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

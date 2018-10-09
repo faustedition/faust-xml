@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390648/">
+   <revisionDesc>
+      <change when="2012-12-10" who="henzel">imported</change>
+      <change when="2012-12-10" who="henzel">encoded</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Tagebuchnotizen zum 3. und 4.3.1830, Konzept Stadelmann zu WA III 12, 205,26-206,24</note>
+      <!-- TODO URI -->
+      <repository>gsa</repository>
+      <idno type="faustedition">H P125</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,2</idno>
+      <idno type="gsa_2">GSA 25/W 1774</idno>
+      <idno type="gsa_ident">390648</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P125</idno>
+      <!-- P125 -->
+      <textTranscript uri="390648.xml"/>
+      <classification>Schema</classification>
+      <condition>in Kolumnen gebrochen</condition>
+      <dimensions>
+         <width unit="mm">337</width>
+         <height unit="mm">403</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 334 mm.</note>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">96</stabMark>
+         <stabMark unit="mm">240</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <!-- Blatt 2 -->
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      <!-- Blatt 1 -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 216</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 508</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 216</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 508-510</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 657-659</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 510f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= späteres Schema  im Vgl. mit Par 124 (25/XIX,2,1)</f:bemerkung>
+      <f:datierung>"6. Febr. 1830."</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation><kommentar>
+            <p>
+               <sub>
+                  <img src="./KL_U1_01.JPG" width="114" height="10" align="middle"/>
+               </sub> Bei dieser auf den 6. 2. 1830 datierten Schemareinschrift handelt es sich um eine offensichtlich dem Schreiber diktierte, überarbeitete Fassung von P124: die dort nachträglich eingetragenen Randnotizen sind hier bereits aufgenommen. Andererseits werden die in P124 einzeln `abgehakten' Stichworte in das neue Schema nicht mehr übernommen, da die entsprechenden Textpassagen inzwischen ausgeführt vorliegen (vgl. den Kommentar zu P124, hier S. 492ff.). Während das Motiv der Lamien nicht aufgenommen und auch die Randergänzung "Seismos" von P124 nicht integriert wird, kommen einige Motive neu hinzu: P125 nimmt die Homunculus-Handlung wieder HP125 auf und thematisiert die Verwandlung Mephistos. Der geplante Schluß des 2. Aktes, Fausts Abstieg in den Hades, wurde zunächst ohne Veränderungen von P124 übernommen und dann in eigenhändigen Zusätzen Goethes detaillierter skizziert (Randergänzung Z. 59ff.). Da das Blatt etwa einen Monat später von Stadelmann für die
+               Niederschrift von Tagebuchnotizen zum 4. März 1830 genutzt wurde, ist das vorliegende Schema zu diesem Zeitpunkt offensichtlich `als erledigt' zu betrachten. </p>
+            <p>Z. 1-9: Übernahme der Randergänzungen auf H P124, vgl. Kommentar hier S. 492ff.</p>
+            <p>Z. 12 Ers] WA ergänzt zu "Ers[cheinung]".</p>
+            <p>Z. 13 Der jüngere Pompejus] Vgl. Lukan, Pharsalia VI (hier S. 494): Sextus Pompejus, der Sohn des Pompejus, wollte Erichtho über den Ausgang der Schlacht bei Pharsalus befragen (vgl. die Ergänzung am linken Rand: "Anfrage u Unterh.[altung]"). Dieses Motiv beabsichtigte Goethe offensichtlich in der `Klassischen Walpurgisnacht' zu nutzen. Der Auftritt der Erichtho ist also zum Zeitpunkt der Niederschrift des Schemas noch nicht als ausgeführt vorauszusetzen (vgl. Kaderschafka, Entstehungsgeschichte der klassischen Walpurgisnacht, S. 42).</p>
+            <p>Z. 14 den Mondes] Schreibfehler für "des Mondes".</p>
+            <p>Z. 15f. alR: Vgl. V. 7033.</p>
+            <p>Z. 18-21: Übernahme der wiederholten Randergänzung auf H P124, vgl. Kommentar, hier S. 492ff.</p>
+            <p>Z. 28 Sphinxe incomodirt] Vgl. V. 7523-7527.</p>
+            <p>Z. 29-32: Übernahme der Randergänzung auf H P124 und Wiederaufnahme der in P124 unberücksichtigten Gestalt des Homunculus.</p>
+            <p>Z. 33 Mephist. u. Dryas] Vgl. V. 7951-7968. Die Baumnymphe Dryas weist Mephisto im endgültigen Text auf die Phorkyaden hin. Vgl. die folgenden gestrichenen Zeilen des Schemas.</p>
+            <p>Z. 39f.: Nach diesem Schema sollten die Sphynxe Zeugen der Verwandlung des Mephisto (in Phorkyas) sein. Vgl. V. 8026-8033.</p>
+            <p>Z. 42-45: Vulkanische Erscheinungen? (Witkowski, S. 431.) Katharina Mommsen möchte das Motiv Z. 42f. auf ein Märchen aus 1001 Nacht zurückführen (1001 Nacht, S. 232f.); andere Kommentatoren verweisen auf die Beschreibung der Wüste im 9. Buch der `Pharsalia' Lukans.</p>
+            <p>Z. 46 Meph. flüchtet] WA übersieht die Bleistiftkorrektur und liest "schlichtet" (Hörfehler des Schreibers).</p>
+            <p>Z. 49 Humunculus] Schreiberfehler für "Homunculus".</p>
+            <p>Z. 50-58: Vgl. den Kommentar zu P124, Z. 43-51, hier S. 495.</p>
+            <p>Z. 63 alR Medusenhaupt] Den Plan, Faust bei dem Abstieg in die Unterwelt auf das Haupt der Medusa treffen zu lassen, hat Goethe bereits in den Antezedenzien aus dem Winter 1826 entwickelt (vgl. P123C, Z. 358, hier S. 449). Goethe hat den `Descensus' schließlich nicht ausgeführt; vgl. aber P157 (hier S. 525f.), P159, P160 und P161 (hier S. 529-531). </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

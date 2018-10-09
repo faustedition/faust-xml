@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390679/">
+   <revisionDesc>
+      <change when="2012-11-27" who="henzel">imported</change>
+      <change when="2012-11-27" who="henzel">encoded</change>
+      <change when="2013-10-20" who="ritter">idno Landeck Kommentar</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+      <change when="2018-09-20" who="krause">subidno landeck ergänzt</change>
+      <change when="2018-09-27" who="krause">subidno landeck entfernt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Doppelblätter und 3 Einzelblätter. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.1</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,2</idno>
+      <idno type="gsa_2">GSA 25/W 1697</idno>
+      <idno type="gsa_ident">390679</idno>
+      <idno type="wa_faust">2 V H.1</idno>
+      <!-- Einteilung Landeck in H.1I, H.1II, H.1III -->
+      <textTranscript uri="390679.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <numberingList>
+         <numbering>Eigenhändige(?) Zählung mit Blaustift</numbering>
+         <!-- TODO konkretisieren -->
+         <numbering>Eigenhändige(?) Zählung mit Bleistift</numbering>
+         <!-- TODO konkretisieren -->
+         <numbering>Archivarische Foliierung mit Bleistift</numbering>
+      </numberingList>
+      <condition>in der Mitte ursprünglich längs gefaltet, Knickspuren an den unteren Rändern von
+         Blatt 1 (rechts), 4 (links) und 8 (rechts); fleckig, teilweise Tintenfraß; Vergilbungen
+         insbesondere am oberen und unteren Rand</condition>
+      <format>2</format>
+      <bindingMaterial>Klebstoff, Faden</bindingMaterial>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 95, 102</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 95-100,
+            102-105</reference>
+         <reference type="facsimile" uri="faust://bibliography/wahl1929">S. 1-10</reference>
+         <reference type="essay" uri="faust://bibliography/wahl1929">S. 28f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 100f., 105f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">204</width>
+            <height unit="mm">332</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 202 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 331 mm.</note>
+         <stabMarks>
+            <stabMark unit="mm">57</stabMark>
+            <stabMark unit="mm">116</stabMark>
+            <stabMark unit="mm">197</stabMark>
+            <stabMark unit="mm">249</stabMark>
+         </stabMarks>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>"N 1"</watermarkID>
+         <note>möglicherweise mit Stern, aufgrund einer Aufklebung nicht erkennbar</note>
+         <countermarkID>"H" über "Stützerbach"</countermarkID>
+      </metadata>
+      <leaf>
+         <!-- Bl 1 archiv. Zählung -->
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- Bl 2 archiv. Zählung -->
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- <docTranscript uri="0005.xml"/> <docTranscript uri="0006.xml"/> deleatur -->
+               <docTranscript uri="0007.xml"/>
+               <!-- TODO Auswahl ggf. aktualisieren -->
+            </metadata>
+            <patch>
+               <!-- Bl 3 archiv. Zählung -->
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">195</width>
+                     <height unit="mm">306</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchChainLines unit="mm">26</patchChainLines>
+                  <patchWatermarkID>n.s.</patchWatermarkID>
+                  <note>keine Angabe möglich, da Aufklebung Sicht verhindert</note>
+                  <patchCountermarkID>n.s.</patchCountermarkID>
+                  <note>keine Angabe möglich, da Aufklebung Sicht verhindert</note>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf>
+      <!-- Bl 4 archivarische Zählung -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">191</width>
+            <height unit="mm">332</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 188 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 331 mm.</note>
+         <leafCondition>Knick im unteren linken Rand lässt darauf schließen, dass das Blatt einmal
+            andersherum im Konvolut lag</leafCondition>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>Stern über "N 4"(?)</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0008.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0009.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Faszikel, Außenblätter geklebt, alle geheftet -->
+   <disjunctLeaf>
+      <!-- Bl 5 archiv. Zählung -->
+      <metadata>
+         <leafCondition>Vorderseite stark vergilbt</leafCondition>
+         <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">328</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Höhe beträgt 326 mm.</note>
+         <paperType>Schreibpapier</paperType>
+         <paperColour>gelblich</paperColour>
+         <chainLines unit="mm">26</chainLines>
+         <watermarkID>Krone umrahmt mit Blumenornamenten</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <references>
+               <reference type="facsimile" uri="faust://bibliography/hecker1936">S. 15</reference>
+            </references>
+
+            <docTranscript uri="0010.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">332</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 201 mm.</note>
+         <stabMarks>
+            <stabMark unit="mm">64</stabMark>
+            <stabMark unit="mm">116</stabMark>
+            <stabMark unit="mm">201</stabMark>
+            <stabMark unit="mm">263</stabMark>
+         </stabMarks>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>n.s.</watermarkID>
+         <!-- nur "N" erkennbar, warscheinilich Stern über "N 1" oder "N 4" -->
+         <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+         <!-- sehr schwer erkennbar -->
+      </metadata>
+      <leaf>
+         <!-- Bl 6 archiv. Zählung -->
+         <page>
+            <metadata>
+               <docTranscript uri="0011.xml"/>
+               <!-- <docTranscript uri="0012.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0013.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- Bl 7 archiv. Zählung -->
+         <page>
+            <metadata>
+               <docTranscript uri="0014.xml"/>
+               <!--  <docTranscript uri="0015.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf>
+      <!-- Bl 8 archiv. Zählung -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">203</width>
+            <height unit="mm">331</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite einschließlich Klebefalz beträgt 196 mm.</note>
+         <stabMarks>
+            <stabMark unit="mm">64</stabMark>
+            <stabMark unit="mm">116</stabMark>
+            <stabMark unit="mm">201</stabMark>
+            <stabMark unit="mm">262</stabMark>
+         </stabMarks>
+         <leafCondition>nahe der Heftung stark gewellt</leafCondition>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>Stützerbach</paperMill>
+         <watermarkID>Stern über "N 4"</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0016.xml"/>
+            <references>
+               <reference type="text" uri="faust://bibliography/landeck1981">S. 111</reference>
+               <reference type="essay" uri="faust://bibliography/landeck1981">S. 111</reference>
+            </references>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

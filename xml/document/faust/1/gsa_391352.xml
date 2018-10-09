@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391352/">
+   <revisionDesc>
+      <change when="2012-11-07" who="henzel">imported</change>
+      <change when="2012-11-07" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2014-10-08" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust I‘.</headNote>
+      <note>Doppelblatt aus 2 Einzelblättern. 4 beschriebene Seiten. – Seite 1–4: Abschrift von
+         ‚Faust I‘, ‚Dom‘ (Geist, Tinte; eigenhändige Ergänzungen, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.13</idno>
+      <idno type="gsa_1">GSA 25/XVII,1,5</idno>
+      <idno type="gsa_2">GSA 25/W 1363</idno>
+      <idno type="gsa_ident">391352</idno>
+      <idno type="wa_faust">1 1 20 H</idno>
+      <textTranscript uri="391352.xml"/>
+      <classification>Mundum</classification>
+      <!-- Reinschrift -->
+      <condition>leicht fleckig, an den Außenrändern etwas gewellt, vergilbt</condition>
+      <format>4</format>
+      <note>aus zwei Quartblättern zusammengeklebtes Folioblatt</note>
+      <bindingMaterial>Klebstoff</bindingMaterial>
+      <stabMarks>
+         <stabMark unit="mm">39</stabMark>
+         <stabMark unit="mm">74</stabMark>
+         <stabMark unit="mm">100</stabMark>
+         <stabMark unit="mm">129</stabMark>
+         <stabMark unit="mm">165</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>eventuell Krone (über nicht sichtbarem Rautenkranzwappen</watermarkID>
+      <note>angeschnittenes Wasserzeichen, das sich auf dem zweiten Blatt befindet</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 253, 279</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 135</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 135–138</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_14">S. 279</reference>
+         <reference type="essay" uri="faust://bibliography/scheibe1965">S. 52f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 138</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">174</width>
+            <height unit="mm">206</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 172 mm.</note>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">182</width>
+            <height unit="mm">206</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 180 mm (Angaben je inklusive Klebefalz). Der
+            Mindestwert der Blatt-Höhe beträgt 205 mm.</note>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0005.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Diese Aufzeichnung der Szene `Dom' gehört zu den aus der Phase der Neuordnung 1797/98 überlieferten Abschriften durch den Schreiber Geist. Hier zur Übersicht über den alten Bestand
+               aufgenommen, der die Arbeitsphase 1797/98 und das damals angelegte Nummernschema dokumentiert. Die Signatur "ad 16f" weist die Szene dem zu diesem Zeitpunkt für sie vorgesehenen Ort zu:
+               sie sollte zwischen die (wahrscheinlich nach der Valentinsszene) geplante Szene 16e (H P26, hier S. 133) und die Walpurgisnacht ("ad 17") gestellt werden.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

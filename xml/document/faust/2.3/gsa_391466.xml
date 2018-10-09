@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391466/">
+   <revisionDesc>
+      <change when="2013-01-22" who="bruening">encoded</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.67</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,19</idno>
+      <idno type="gsa_2">GSA 25/W 1652</idno>
+      <idno type="gsa_ident">391466</idno>
+      <idno type="wa_faust">2 III H.67</idno>
+      <textTranscript uri="391466.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering name="Archivarische_Foliierung">Archivarische Bleistiftfoliierung in der linken
+            unteren Ecke.</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">209</width>
+         <height unit="mm">345</height>
+      </dimensions>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Zwoelfzackiger_Stern_Fe_Bl_46_o</watermarkID>
+      <countermarkID>H_Fe_Bl_46_o</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 70</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 126f.</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 70f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 127f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:dabei_vermerk>Bl 1: "Anzeige von Goethe's sämmtlichen Werken, vollständige Ausgabe letzter Hand. Unter des Durchlauchtigsten Deutschen Bundes schützenden Privilegien" WA I 42.1,109-120 früheres und späteres Konzept egh zu veränderter Fassung von WA I 42.1,117,2 ff. mit dem Inzipit: "Aus den Productionen die man schätzt ..." vgl. WA I 42.1,447 unten;
+Bl 2: Notizen egh: "Leupold/ Damen loge Franckf./ Kreuzer/ Carové.", "Gelblich Papier", "Ob mit C. Vorbewußt L. Br zu schr.". -  metrisches Schema egh (?). - nicht bestimmter Text Riemer: "und so könnte wol auch Eloquenz einmal anstatt nur zu dreschen das Lehrstroh in dem blühenden Witz des lebendigen Worts". -  Zitat Riemer aus Horaz "Epistulae" I 2 Vers 31: "cessatum ducere curas"</f:dabei_vermerk>
+      <f:datierung>Frühjahr 1826</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>391466</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.67; vgl. I 15.2,70-71
+
+Vers(e): 9695-9734
+Hort ihr Kindes Lieder singen ...
+Konzept
+
+Vers(e): 8625-8627
+Als Gekerkerter uber die ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,19</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,19*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Als Gekerkerter uber die</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>8625-8627</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2497</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,19*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Hort ihr Kindes Lieder singen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9695-9734</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2677</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,19</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Frühjahr 1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,70-71</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.67</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>Horaz (Quintus Horatius Flaccus); Carové, Friedrich Wilhelm; Leyboldt, Karl
+               Jakob Theodor; Creuzer, Georg Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Bl 1: "Anzeige von Goethe's sämmtlichen Werken, vollständige Ausgabe letzter
+               Hand. Unter des Durchlauchtigsten Deutschen Bundes schützenden Privilegien" WA I
+               42.1,109-120 früheres und späteres Konzept egh zu veränderter Fassung von WA I
+               42.1,117,2 ff. mit dem Inzipit: "Aus den Productionen die man schätzt ..." vgl. WA I
+               42.1,447 unten; annt habe. Ich habe dieselben sämmtlich unter die Literaturaufsätze
+               eingeordnet. 15. Febr. 1903. Max Hecker", Hec Bl 2: Notizen egh: "Leupold/ Damen loge
+               Franckf./ Kreuzer/ Carové.", "Gelblich Papier", "Ob mit C. Vorbewußt L. Br zu schr.";
+               metrisches Schema egh (?); nicht bestimmter Text Riemer: "und so könnte wol auch
+               Eloquenz einmal anstatt nur zu dreschen das Lehrstroh in dem blühenden Witz des
+               lebendigen Worts"; " WA I 42.1,109-120 früheres und späteres Konzept egh zu
+               veränderter Fassung von WA I 42.1,117,2 ff. mit dem Inzipit: "Aus den Productionen
+               die man s Zitat Riemer aus Horaz "Epistulae" I 2 Vers 31: "cessatum ducere
+               curas"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1293</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3995</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

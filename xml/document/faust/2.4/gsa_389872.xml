@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389872/">
+<revisionDesc>
+   <change when="2012-11-14" who="henzel">imported</change>
+   <change when="2012-11-14" who="henzel">encoded</change>
+   <change when="2013-02-01" who="henzel">aktualisiert</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.6:1</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,7:1</idno>
+      <idno type="gsa_2">GSA 25/W 1675</idno>
+      <idno type="gsa_ident">389872</idno>
+      <idno type="wa_faust">2 IV H.6</idno>
+      <!-- P185, Hecker-Nr. 211 -->
+      <!-- P186 -->
+      <textTranscript uri="389872.xml"/>
+      <classification>Konzept</classification><!-- Sammelblatt mit Entwürfen -->
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">326</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 689</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 136<!-- Teilwiedergabe -->, 240<!-- P185, P186 --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 689f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 710</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 691</reference>
+         <reference type="facsimile" uri="faust://bibliography/bohnenkamp1994">S. 819<!-- VS --></reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!--  <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>Frühjahr 1831</f:datierung>      
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Es handelt sich hier um ein Sammel- und Entwurfsblatt Goethes. Während die Rückseite einen Bleientwurf zu den Versen 10299-10310 bietet, finden sich auf der Vorderseite verschiedene, zum Teil noch wenig ausgearbeitete Notizen und Einfälle aus dem Bereich des 4. Akts. Das Blatt wurde offenbar von Goethe zunächst als Sammelblatt angelegt; es weist drei in ähnlichem Duktus und mit deutlichem Abstand voneinander vorgenommene Tinteneinträge auf, `übertragene Splitter', die zur weiteren Verwendung auf diesem Blatt gesammelt wurden. In einem nächsten Arbeitsschritt folgen mit Bleistift vorgenommene Überarbeitungen (Z. 5-10) sowie neue Einfälle zu dem geplanten Akt. Die mit schrägen Strichen als erledigt markierten Einträge sind in die endgültige Ausführung des Aktes eingegangen, die anderen beiden wurden nicht _ oder zumindest sehr verändert _ verwendet. Z. 14-20 stehen in engem Zusammenhang mit dem Bleistiftentwurf auf der Rückseite. (Auf der hier dokumentierten VS entwirft
+               Goethe die Verse 10297f. sowie 10313-10318, die fehlenden Verse 10299-10312 finden sich auf der RS des Blattes.) </p>
+            <p>Äußere Anhaltspunkte zur Datierung bietet das Blatt nicht; innerhalb der Genese des 4. Akts läßt sich die Anlage des Sammelblattes jedoch dem Beginn der Ausarbeitung im Frühjahr 1831 zuordnen.</p>
+            <p>Z. 1f.: Die ersten beiden Zeilen lassen sich als `Keimzelle' der Antwort Fausts auf Mephistos `Versuchergeste' (V. 10130ff.) identifizieren; die Entwicklung der Verse 10155-10159 läßt sich anhand der Aufnahme und Weiterbearbeitung auf IV H5 und IV H2 verfolgen. (Vgl. hier S. 695 u. 706.)</p>
+            <p>Z. 3f. <b>(P185)</b>: Ein früh für den 4. Akt notierter Zweizeiler, der im Gegensatz zu Z. 1f. dann aber keine Verwendung im endgültigen Text fand. Harnack (S. 582) kommentiert: "Mephistopheles zu Faust; nach V. 10159".</p>
+            <p>Z. 5-10: Die zunächst notierten Zeilen 7-9 werden auf dem vorliegenden Blatt gleich der ersten Bearbeitung unterzogen, die endgültige Fassung findet sich von Schreiberhand auf IV H7.</p>
+            <p>Z. 11-13 <b>(P186)</b>: Eine Notiz zur geplanten Gegenkaiser-Szene (vgl. P179a, Z. 10, hier S. 670, und P191, hier S. 714 und 717), die offensichtlich als Rede (des Kaisers) und Gegenrede (eines Untergebenen) gedacht ist; der Strich zwischen Z.11 und Z. 12 signalisiert den Sprecherwechsel. Als Sprecher setzt Schmidt in der WA Kaiser und Herold ein, Düntzer kritisiert die Entscheidung für den Herold und schlägt den Kundschafter vor (Entstehung der letzten Akte, S. 344). Mir scheint überhaupt fraglich, ob Goethe zum Zeitpunkt dieser Notiz über den zweiten Sprecher schon genaue Auskunft hätte geben können und wollen.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

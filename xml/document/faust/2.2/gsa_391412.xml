@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391412/">
+   <revisionDesc>
+      <change when="2012-12-10" who="henzel">imported</change>
+      <change when="2012-12-10" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Auf Vordruck mit Eintragung eines zeitgenössischen Schreibers mit Tinte:
+         Begleitschreiben zur Sendung eines Nürnberger Auktionskataloges "Dr. Panzers Auctions
+         Katalog" von Johann Lorenz Schmidmer, 20.2.1830.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.33</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,35</idno>
+      <idno type="gsa_2">GSA 25/W 1524</idno>
+      <idno type="gsa_ident">391412</idno>
+      <idno type="wa_faust">2 II H.33</idno>
+      <textTranscript uri="391412.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">192</width>
+         <height unit="mm">240</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 235 mm.</note>
+      <format>n.s.</format>
+      <!-- evt. Quart -->
+      <edges>cut</edges>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelb</paperColour>
+      <chainLines unit="mm">none</chainLines>
+      <paperMill>n.s.</paperMill>
+      <!-- TODO ergaenzen -->
+      <watermarkID>"F H F" über "1 8 1 6"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            45</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 45</reference>
+         <!-- TODO zur Datierung vgl. Fischer-Lamberg, S 45 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <!-- Druck -->
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <!-- Faust -->
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:bemerkung>= 1. Konzept im Vgl. mit II H.34 (25/XVII,7,36*a); zur Datierung vgl.
+         Fischer-Lamberg, S 45</f:bemerkung>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390905/">
+   <revisionDesc>
+      <change when="2012-11-15" who="henzel">imported</change>
+      <change when="2012-11-15" who="henzel">encoded</change>
+      <change when="2013-01-21" who="henzel">aktualisiert</change>
+      <change when="2014-11-13" who="pravida">headnote</change>
+      <change when="2014-11-17" who="bruening">Seitenreihenfolge korrigiert.</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Einzelblatt, 2 beschriebene Seiten. – Vs.: Versentwürfe zu ‚Faust‘ (nach der
+         Helena-Szene) (eigenhändig, Tinte). Rs.: Versentwürfe zu ‚Faust II‘, Akt 2 (eigenhändig,
+         Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.5</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,6</idno>
+      <idno type="gsa_2">GSA 25/W 1493</idno>
+      <idno type="gsa_ident">390905</idno>
+      <idno type="wa_faust">2 II H.5</idno>
+      <!-- P86, Hecker-Nr. 199 -->
+      <!-- P87, Hecker-Nr. 200 -->
+      <!-- P88, Hecker-Nr. 203 -->
+      <!-- P89, Hecker-Nr. 201 -->
+      <!-- P90, Hecker-Nr. 202 -->
+      <textTranscript uri="390905.xml"/>
+      <classification>Sammelblatt</classification>
+      <condition>am linken Rand Flecken</condition>
+      <dimensions>
+         <width unit="mm">207</width>
+         <height unit="mm">166</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>unten Schnittkante, übrige Ränder abgestoßen</note>
+      <paperType>Briefpapier</paperType>
+      <paperColour>hellgelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Geraberg</paperMill>
+      <watermarkID>Wappen mit Krone</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <!-- Geraberger Postpapier -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 37, 185</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            29</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 203</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 185</reference>
+         <reference type="text" uri="faust://bibliography/schmidt1888b">S. 2</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 203</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 571</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 204</reference>
+         <reference type="essay" uri="faust://bibliography/bruening_et_al2013"><!-- todo Seitenzahl ergänzen --></reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>ab 1825, zwischen 1797 und 180</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Wie an Papier und Beschriftung deutlich wird, ist II H5 ein Sammelblatt aus der
+               Arbeitszeit um die Jahrhundertwende. Zur weiteren Verwendung versammelte Goethe auf
+               der Vorderseite des Blattes fünf Zweizeiler, die sich alle der Situation Fausts nach
+               dem Verschwinden Helenas zuordnen lassen. In dem 1816 für `Dichtung und Wahrheit'
+               diktierten Bericht (P63) heißt es an dieser Stelle: "Mutter und Sohn sind
+               verschwunden. Mephistophles der bisher unter der Gestalt einer alten Schaffnerin von
+               allem Zeuge gewesen, sucht seinen Freund zu trösten und ihm Lust zum Besitz
+               einzuflösen." (P63, Z. 147-152, hier S. 273.) In eben diesen Zusammenhang gehören die
+               im Zeitraum von 1797 bis spätestens 1800 zusammengestellten Textsplitter: Der Jammer
+               über den erlittenen Verlust verbindet sich mit der Wendung zur tatkräftigen Eroberung
+               der Welt. Im Rahmen des Nummernschemas wären diese Zweizeiler vielleicht mit P83 "ad
+               24" einzuordnen gewesen. Während P86-89 wahrscheinlich als Äußerungen Fausts
+               vorgesehen waren, ist als Sprecher von P90 wohl Mephistopheles zu denken.</p>
+            <p>Die Notiz auf der Rückseite (flüchtiger Eintrag von V. 6863f.) stammt dagegen aus der
+               letzten großen Arbeitsphase ab 1825 und dokumentiert, daß Goethe dieses Papier bei
+               der späteren Fortsetzung der Arbeit wieder vor sich hatte.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

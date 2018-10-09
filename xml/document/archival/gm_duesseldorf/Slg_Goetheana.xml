@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gm_duesseldorf/Slg_Goetheana/">
+   <revisionDesc>
+      <change when="2012-10-02" who="bruening">Verweise, Drucknachweise</change>
+      <change when="2013-03-27" who="bruening">Verweis auf Weimarer Exemplar, Kommentar zur
+         Überschrift.</change>
+      <change when="2013-09-11" who="bruening">encoded</change>
+      <change when="2014-08-14" who="bruening">Gesamtinventar</change>
+      <change when="2015-02-05" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Abschrift von der Hand Alexander Röckels einschließlich Unterschrift
+         (faust://bibliography/gesamtinventar_der_goethe-gedichte<!-- http://ora-web.swkk.de/inventar_online/inventar.vollanzeige?p_id=2127372 -->).
+         – Von Goethes Versen für den Weimarschen Frauenverein scheinen mehrere gleichartige
+         Abschriften hergestellt worden zu sein. Im Nachlass Friedrich von Müllers hat sich ein
+         weiteres Exemplar erhalten (Signatur: GSA 68/878, unfoliiert). Die Überschrift dieses
+         Exemplars weicht jedoch schriftbildlich von der des Weimarer Exemplars ab und stammt
+         möglicherweise von einer anderen Hand.</note>
+      <repository>gm_duesseldorf</repository>
+      <idno type="faustedition">2 I H.9f</idno>
+      <idno type="gm_duesseldorf">Sammlung Goetheana</idno>
+      <textTranscript uri="Slg_Goetheana.xml"/>
+      <classification>none</classification>
+      <condition>In der Mitte entlang der waagerechten Faltungsspur zu beiden Seiten eingerissen;
+         stockfleckig.</condition>
+      <dimensions>
+         <width unit="mm">221</width>
+         <height unit="mm">269</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Velinpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>J_Whatman_wie_Fe_Bl_212</watermarkID>
+      <references>
+         <reference type="text" uri="faust://bibliography/burkhardt1872">S. 511</reference>
+         <reference type="essay" uri="faust://bibliography/burkhardt1872">S. 511</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

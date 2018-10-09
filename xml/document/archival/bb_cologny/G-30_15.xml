@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_15/">
+    <revisionDesc>
+        <change when="2012-09-28" who="bruening"/>
+        <change when="2012-10-01" who="bruening"/>
+        <change when="2013-04-16" who="henzel">Antragen von Daten</change>
+        <change when="2013-08-13" who="henzel">encoded</change>
+        <change when="2015-01-23" who="koehler">minimal headnote</change>
+        <change when="2016-02-12" who="koehler">history Knopf</change>
+        <change when="2018-10-08" who="pravida">Sigle von H.37b zu H.37c geändert</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+        <note>dabei: Echtheitsbekundung Riemers auf der Vorderseite, diese erfolgte zwischen 1841 und 1845 (da er als Geheimer Hofrat unterzeichnet)</note>
+        <repository>bb_cologny</repository>
+        <idno type="faustedition">2 V H.37c</idno>
+        <idno type="bb_cologny">G-30.15</idno>
+        <idno type="gsa_1">GSA 25/XVIII,8,5a</idno>
+        <idno type="wa_faust">2 V H.f</idno><!-- Fortsetzung von 2 V H.33 und direkte Vorlage für H -->
+        <textTranscript uri="G-30_15.xml"/>
+        <classification>Konzept</classification>
+        <history>Erworben im Jahr 1929 aus dem Besitz Heinrich Stiebels, Frankfurt am Main (faust://bibliography/bircher2000, Bd. 1, S. 357, Nr. 71). Zur Zeit der Erarbeitung des WA-Bandes 15.2 im Besitz C. Meinerts in Dessau (faust://bibliography/wa_I_15_2, S. 149)
+            <!--Laut faust://bibliography/knopf2004 und faust://bibliography/knopf2006 1936 oder 1951 von Martin Bodmer aus dem Nachlass von Rudolf Brockhaus, Leipzig, erworben--></history>
+        <numberingList>
+            <numbering>Zeitgenössische Foliierung mit Bleistift</numbering>
+        </numberingList>
+        <condition>Blatt wurde nach der Beschriftung fünfmal in der Waagerechten gebrochen; mittlerer Knick sehr ausgeprägt, mit Tintenabrieb; fleckig, Ausdünnung des Papiers, möglicherweise durch Klebespuren; auf der Rückseite viele kleine schwarze Punkte; Blatt war ursprünglich in ein Konvolut eingebunden gewesen</condition>
+        <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">333</height>
+        </dimensions>
+        <note>Der Mindestwert der Blatt-Höhe beträgt 332 mm.</note>
+        <!-- Angaben im Katalog: Breite: 198 mm, Höhe: 330 mm -->
+        <format>2</format>
+        <edges>cut</edges>
+        <stabMarks>
+            <stabMark unit="mm">131</stabMark>
+            <stabMark unit="mm">190</stabMark>
+        </stabMarks>
+        <paperType>Konzeptpapier</paperType>
+        <paperColour>graubraun</paperColour>
+        <chainLines unit="mm">26</chainLines>
+        <note>ungefährer Wert</note>
+        <paperMill>Stützerbach</paperMill>
+        <watermarkID>'H' über 'Stuetzerbach'</watermarkID><!-- Landeck: kein Wz; Wz zwischen 4. und 5. Steglinie befindlich -->
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+            <reference type="description" uri="faust://bibliography/bircher2000">Bd. 1, S. 357, Nr. 71</reference>
+            <reference type="description" uri="faust://bibliography/landeck1981">S. 202</reference>
+            <reference type="text" uri="faust://bibliography/landeck1981">S. 202f.</reference>
+            <reference type="facsimile" uri="faust://bibliography/bircher2000">Bd. 1, S. 356</reference>
+            <reference type="essay" uri="faust://bibliography/landeck1981">S. 203f.</reference>
+            <reference type="essay" uri="faust://bibliography/gjb_59">S. 112</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="recto.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="verso.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

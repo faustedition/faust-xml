@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bl_london/Zweig_152/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening">WA-Nachweis</change>
+      <change when="2013-07-29" who="bruening">Matuschek</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu Faust II, Akt 1.</headNote>
+      <repository>bl_london</repository>
+      <idno type="faustedition">2 I H.41a</idno>
+      <idno type="bl_london">Zweig MS 152</idno>
+      <idno type="gsa_1">GSA 25/XVII,6,7b</idno>
+      <idno type="wa_faust">2 I H.l</idno>
+      <textTranscript uri="Zweig_152.xml"/>
+      <classification>Konzept</classification>
+      <history>Laut dem Vermerk Ottilie von Goethes machte sie das Blatt Franz Grillparzer zum Geschenk.</history>
+      <dimensions>
+         <width unit="mm">210</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <format>2</format>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 13</reference>
+         <reference type="description" uri="faust://bibliography/matuschek2005">S. 217, Nr.
+            224</reference>
+         <reference type="facsimile" uri="faust://bibliography/matuschek2005">Abb. 38</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="A80014-87.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="A80014-88.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

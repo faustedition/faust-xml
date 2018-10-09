@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_11/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening"/>
+      <change when="2013-07-09" who="koehler">history</change>
+      <change when="2013-08-12" who="henzel">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>bb_cologny</repository>
+      <idno type="faustedition">2 IV H.22e</idno>
+      <idno type="bb_cologny">G-30.11</idno>
+      <idno type="gsa_1">GSA 25/XVIII,6,7</idno>
+      <idno type="wa_faust">2 IV H.g</idno>
+      <textTranscript uri="G-30_11.xml"/>
+      <classification>Mundum</classification><!-- Teil des Alexandrinermundums -->
+      <history>laut faust://bibliography/knopf2004 und faust://bibliography/knopf2006 1936 oder 1951 von Martin Bodmer aus dem Nachlass von Rudolf Brockhaus, Leipzig, erworben</history>
+      <numberingList>
+         <numbering>Zählung eines zeitgenössischen Schreibers mit Bleistift</numbering>
+      </numberingList>
+      <condition>Vergilbung der Ränder; am Falz in der Mitte fleckig, am Bruch auf der Rückseite ist das Papier an sechs kreisförmigen Stellen nahezu weiß (möglicherweise Indizien für Abdruch einer Münze oder eines Siegels); Blatt wurde in der Mitte längs geklebt, daher einige Bleistiftstellen unleserlich; fast verlöschter Bleistift</condition>
+      <dimensions>
+         <width unit="mm">213</width>
+         <height unit="mm">348</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 209 mm. Der Mindestwert der Blatt-Höhe beträgt 347 mm.</note>
+      <format>2</format>
+    <stabMarks/>
+      <!--<note>Das Vorhandensein von Stichlöchern konnte nicht eindeutig festgestellt oder negiert werden (ein Loch möglicherweise bei 21 mm).</note>-->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>braungräulich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>'H &amp;'</watermarkID>
+      <note>Fragment</note><!-- zwischen Steglinien, auf Vorderseite, um 180° gedreht -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 133</reference>
+         <reference type="essay" uri="faust://bibliography/knopf2006">S. 196</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

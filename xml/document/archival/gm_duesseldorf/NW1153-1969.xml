@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gm_duesseldorf/NW1153-1969/">
+    <revisionDesc>
+        <change when="2012-10-01" who="bruening"/>
+        <change when="2012-10-02" who="bruening"/>
+        <change when="2012-10-08" who="bruening"/>
+        <change when="2013-09-11" who="bruening">encoded</change>
+        <change when="2015-01-28" who="koehler">minimal headnote</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+        <note>Am unteren Rand fragmentiert, vgl. faust://bibliography/goeres1969. Die waagerecht
+            verlaufende Faltungsspur stammt aus der Zeit nach der Fragmentierung. Risskante am
+            linken Rand der Vorderseite.</note>
+        <repository>gm_duesseldorf</repository>
+        <idno type="faustedition">2 V H.0b</idno>
+        <idno type="gm_duesseldorf">NW 1153/1969</idno>
+        <idno type="gsa_1">GSA 25/XVIII,8,2</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="landeck">2 V H.j</idno>
+        <textTranscript uri="NW1153-1969.xml"/>
+        <classification>Mundum</classification>
+        <history>Vgl. faust://bibliography/goeres1969, faust://bibliography/landeck1981, S. 91,
+            faust://bibliography/goeres1987, S. 202. faust://bibliography/goeres1991, S.
+            34.</history>
+        <condition>Tintendurchschlag. In der Mitte entlang der beiden Faltungsspuren
+            eingerissen.</condition>
+        <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">162</height>
+        </dimensions>
+        <format>none</format>
+        <edges>cut</edges>
+        <paperType>Schreibpapier</paperType>
+        <paperColour>grau</paperColour>
+        <chainLines unit="mm">28</chainLines>
+        <watermarkID>n.s.</watermarkID>
+        <note>Rest eines Wasserzeichens an der unteren Schnittkante, vgl.
+            faust://bibliography/landeck1981, S. 90.</note>
+        <references>
+            <reference type="description" uri="faust://bibliography/landeck1981">S. 90</reference>
+            <reference type="text" uri="faust://bibliography/goeres1969"/>
+            <reference type="text" uri="faust://bibliography/landeck1981">S. 90</reference>
+            <reference type="text" uri="faust://bibliography/goeres1987">S. 198f.</reference>
+            <reference type="text" uri="faust://bibliography/goeres1991">S. 30f.</reference>
+            <reference type="facsimile" uri="faust://bibliography/goeres1969"/>
+            <reference type="essay" uri="faust://bibliography/goeres1969"/>
+            <reference type="essay" uri="faust://bibliography/landeck1981">S. 91</reference>
+            <reference type="essay" uri="faust://bibliography/goeres1987">S. 200–202.</reference>
+            <reference type="essay" uri="faust://bibliography/goeres1991">S. 30–34</reference>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <page>
+            <metadata>
+                <docTranscript uri="02.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="01.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+</archivalDocument>

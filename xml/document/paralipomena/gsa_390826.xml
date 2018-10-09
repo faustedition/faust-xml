@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390826/">
+   <revisionDesc>
+      <change when="2012-11-22" who="henzel">imported</change>
+      <change when="2012-11-22" who="henzel">encoded</change>
+      <change when="2015-01-30" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚ Faust II‘, Akt 5.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.15b</idno>
+      <idno type="gsa_1">GSA 25/XIX,1,11:2</idno>
+      <idno type="gsa_2">GSA 25/W 1753</idno>
+      <idno type="gsa_ident">390826</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P92</idno>
+      <!-- P92 -->
+      <textTranscript uri="390826.xml"/>
+      <classification>Mundum</classification>
+      <condition>insbesondere auf Rückseite vergilbter oberer Rand</condition>
+      <dimensions>
+         <width unit="mm">209</width>
+         <height unit="mm">170</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 205 mm. Der Mindestwert der Blatt-Höhe beträgt
+         167 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <!-- ABR: grünlich -->
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"Stuetzerbach" über "No 4"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <!-- `Stuetzerbach No 4' -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 186f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 206</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 186</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 207</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 207</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1825</f:datierung>
+     </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Papier und Schrift verweisen Blatt 1 zu den Abschriften anläßlich der Neuordnung von
+               1797/98. Wie die Abschrift der Domszene (hier S. 135ff.) wird es hier zur Übersicht
+               über den alten, die Arbeitsphase 1797/98 und das Nummernschema dokumentierenden
+               Bestand aufgenommen. Die auf das Nummernschema bezogene Signatur "ad 27." ordnet das
+               "Lied" in dieselbe Szene oder Szenenreihe wie P91 (hier S. 205), in der es nach dem
+               Plan von 1797/98 um Alter und Tod Fausts geht. Hier ist das `Totengräber-Lied' (vgl.
+               Hamlet 4,5 und Eckermann, 17. 12. 1824) noch nicht den Lemuren zugeordnet, die im
+               Plan von 1797/98 noch nicht vorgesehen waren (vgl. Grumach, Prolog und Epilog, S.
+               77). Die vorliegende Abschrift Geists ist von Goethe eigenhändig überarbeitet worden.
+               Ob diese Überarbeitung noch am Ende des 18. Jahrhunderts oder erst 25 Jahre später
+               bei der Wiederaufnahme der Arbeit am `Faust' stattgefunden hat, läßt sich nicht mit
+               Sicherheit entscheiden. Die Abschrift der beiden letzten Strophen von der Hand Johns,
+               die also aus der Zeit der Wiederaufnahme der Arbeit am `Faust' im Jahr 1825 stammt,
+               nimmt nur die erste Korrekturschicht Goethes auf; die in Bleistift unter die alte
+               Abschrift Geists gesetzte Version der letzten beiden Zeilen wird von John nicht
+               berücksichtigt. Sehr wahrscheinlich stammen also zumindest diese Korrekturen aus der
+               Zeit der Wiederaufnahme, und am vorliegenden Blatt läßt sich beobachten, wie Goethe
+               nach einer jahrzehntelangen Pause die Arbeit an den alten Papieren wieder aufnahm.
+               (Vgl. mein Kapitel zur Entstehungsgeschichte des 5. Akts, hier S. 742-744.)</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

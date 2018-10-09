@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390189/">
+<revisionDesc>
+   <change when="2012-12-10" who="henzel">imported</change>
+   <change when="2012-12-10" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Tagebuchnotizen zum 14. und 15.6.1830, Konzept Johns mit Tinte zu WA III 12,256,23-28 und 257,3-4 mit archivarischen Bleistiftzusätzen zur Datierung; eigenhändige Notizen mit Tinte: "Interregn[um]/ Anarch"</note><!-- TODO URIs -->
+      <repository>gsa</repository>
+      <idno type="faustedition">H P126</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,3</idno>
+      <idno type="gsa_2">GSA 25/W 1775</idno>
+      <idno type="gsa_ident">390189</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P126</idno>
+      <!-- P126 -->
+      <textTranscript uri="390189.xml"/>
+      <classification>Schema</classification>
+      <condition>untere rechte Ecke geknickt</condition>
+      <dimensions>
+         <width unit="mm">165</width>
+         <height unit="mm">203</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskante rechts</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>none</watermarkID>
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 521</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 217</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 521</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 663</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 521</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.521</f:bemerkung>
+      <f:datierung>Mitte Juni 1830 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Diese Schemastichworte finden sich auf der Rückseite von Tagebuchkonzepten zum 14./15. Juni 30: "Montag Mademoiselle ... aus Gotha/ Mundum des Meyerschen Aufsatzes/ beendigt. Mittags mit der Familie/ Nachmittags allein. Bald zu Bette, <u>Diensta</u>
+               <u>.</u>/ Einiges an Faust. Herr/ Breitenbach, kathol. Pfarrer von/ Nordhausen." Die Reihenfolge der Beschriftung ist nicht mit Sicherheit anzugeben. Wenn die Stichworte jedoch auf die im Mundum II H74 bereits ausgeführte Szene zwischen Sirenen, Nereus, Proteus, Thales und Homunculus (V. 8034-8274) zu beziehen sind, müssen die Schemastichworte vor den Tagebuchkonzepten niedergeschrieben worden sein: Mitte Juni 1830 war das Mundum bereits abgeschlossen. Denkbar wäre jedoch auch, die Stichworte auf die Schlußverse der `Klassischen Walpurgisnacht' als einer geplanten Ergänzung zu beziehen, die erst im folgenden Winter entstanden ist: auch hier (V. 8339-8487) spielen Sirenen, Nereus, Proteus, Thales und Homunculus noch einmal eine Rolle. </p>
+            <p>Z. 1 Interloc.] WA ergänzt zu "Interloc[ution]" (Einwurf, Zwischenbescheid). Vermutlich auf Mephistos Gespräch mit den Phorkyaden zu beziehen (Witkowski, S. 431f.). Oder sind die im folgenden aufgezählten "Interloc[utoren]" (Sprecher) gemeint (so Düntzer, Klassische Walpurgisnacht, S. 103)? </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

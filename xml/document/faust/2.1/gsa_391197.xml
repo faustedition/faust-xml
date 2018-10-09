@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391197/">
+   <revisionDesc>
+      <change when="2012-11-27" who="bruening">encoded</change>
+      <change when="2014-11-12" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Längs gebrochen. Papier (vgl. faust://bibliography/bohnenkamp1994, S. 382), Breite und
+         Brechung stimmen genau zu faust://document/wa_faust/2_I_H.n. In die Annahme eines
+         materiellen Zusammenhangs fügt sich allerdings die Risskante (ebd.) nicht ein.
+         Zettel, 1 beschriebene Seite. – Vs.: Versentwürfe zu ‚Faust II‘, Akt 1 (eigenhändig,
+         Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.50b</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,22a</idno>
+      <note>Vorher: GSA 35/N 1</note>
+      <idno type="gsa_2">GSA 25/W 1475</idno>
+      <idno type="gsa_ident">391197</idno>
+      <idno type="wa_faust">2 I H.50a</idno>
+      <textTranscript uri="391197.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">205</width>
+         <height unit="mm">124<!-- 120-125 ABR --></height>
+      </dimensions>
+      <note>Der Mindestwert für die Blatt-Höhe beträgt 120 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Velinpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <watermarkID>none</watermarkID>
+      <references>
+         <f:reference type="description" uri="faust://bibliography/wa_I_53">S. 567</f:reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 382</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 382</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 621</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 382</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.382, vermutlich vor H.50 entstanden</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:dabei_vermerk>Stempel "Goethe-Archiv Weimar"</f:dabei_vermerk>
+      <f:datierung>Herbst 1829 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>391197</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Vers(e): 6259-6261
+Ein kleiner Schlussel ...
+WA: I H.50a; vgl. I 53,567
+Konzept
+aus Sammlung Keil (Keil I/13,7)</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,5,22a</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,22a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Herbst 1829 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1829</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Ein kleiner Schlussel</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 53,567</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.50a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>6259-6261</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Stempel "Goethe-Archiv Weimar"</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Bohnenkamp, S.382, vermutlich vor H.50 entstanden</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="993">Überlieferungsweg</f:key>
+            <f:value>aus Sammlung Keil (Keil I/13,7)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>siehe Liste der Neuzugangsverfilmung 1975-1995, Goethe-Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3280</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

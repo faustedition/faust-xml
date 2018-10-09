@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390711/">
+   <revisionDesc>
+      <change who="bruening">imported</change>
+      <change when="2012-11-29" who="henzel">imported</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2016-09-23" who="bruening">encoded</change>
+      <change when="2018-10-08" who="pravida">Sigle von H.37c zu H.37b geändert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – ‚Zu Faust II‘, Akt 5.</headNote>
+      <note>mit Echtheitsbestätigung G. Schueler</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.37b</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,40</idno>
+      <idno type="gsa_2">GSA 25/W 1738</idno>
+      <idno type="gsa_ident">390711</idno>
+      <idno type="wa_faust">2 V H.e</idno>
+      <!-- P209 -->
+      <!--      <idno type="hecker">241</idno>-->
+      <textTranscript uri="390711.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <history>aus dem Besitz Gustav von Loeper Oktober 1888 erworben</history>
+      <condition>größerer Fleck am unteren Rand der Vorderseite</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <!-- (hier fälschlich mit Paralipomenon 210 angegeben) -->
+         <reference type="description" uri="faust://bibliography/katalog_der_berliner_goethe-ausstellung1861">S. 22,
+            65<!-- Stellen aus der Schlußscene des 2ten Theils des Faust, theils von Goethe mit Bleistift, theils vom Schreiber mit Tinte geschrieben. 2 Bl. fol.
+                    Im Besitze des Herrn v. Loeper in Berlin. --></reference>
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 258, Nr.
+            14</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr.
+            25</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 200</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 788</reference>
+         <reference type="text" uri="faust://bibliography/loeper1879a">Tl. 2, S. 352f.</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 246f.</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 200</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 788f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 733</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 201</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 790</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <references>
+               <reference type="facsimile" uri="faust://bibliography/bohnenkamp1994">S.
+                  836</reference>
+               <reference type="facsimile" uri="faust://bibliography/bohnenkamp1997">S.
+                  217</reference>
+            </references>
+
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>Dez. 1830 (?)</f:datierung>
+       </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Diese Arbeitsreinschrift läßt sich dem Dezember 1830, der Zeit der Entstehungder
+               Szene `Bergschluchten', zuweisen. (Vgl. Hertz, Entstehungsgeschichte Faust II Akt5,
+               S. 263.) Landeck (S. 201) dagegen vermutet, daß V He urprünglich Bestandteil von V H2
+               gewesen ist und also zumindest teilweise schon der Arbeitsphase von 1825 (Landeck:
+               1826) zuzuordnen wäre; für eine solche Annahme fehlen jedoch überzeugende
+               Anhaltspunkte. Der zunächst dem Schreiber diktierte Text läßt Lücken; in der
+               Handschrift markieren Punkte die noch einzufügenden Verszeilen. Bei der mit Bleistift
+               vorgenommenen eigenhändigen Überarbeitung Goethes wurden einige der noch fehlenden
+               Verse dann eingefügt. Wahrscheinlich ist eben dieser Niederschriftschicht auch das
+               zunächst mit Bleistift am Rand notierte <b>P209</b> zuzurechnen (Z. 24f.) _ ein auf
+               die Szene `Bergschluchten' bezogener Einfall, der auf der Rückseite in neuer Form
+               noch einmal wiederholt wird (Z. 37f.), im endgültigen Text jedoch keine Aufnahme
+               fand. (WA liest die flüchtigen Bleistiftskizzen dieser zweiten Version als "In den
+               allerreinsten Quellen/ Badet der Bestaubte ja".) Die Verse beziehen sich wohl auf die
+               Reinigung des "bestaubten" Erdenwanderers Faust von allem Irdischen. (Vgl. die auf
+               dem selben Blatt notierten V. 11981ff.)</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

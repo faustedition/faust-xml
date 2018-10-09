@@ -1,0 +1,819 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc xmlns:f="http://www.faustedition.net/ns"><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition"/><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+		<revisionDesc>
+			<change when="2012-12-19" who="grepect">Erste Lieferung.</change>
+			<change when="2013-02-26" who="grepect">Zweite Lieferung mit Berücksichtigung der
+				Korrekturhinweise vom 18.01.2013.</change>
+			<change when="2013-02-26" who="bruening">In der Szene „Disputation“ die ursprüngliche
+				Auszeichnung wiederhergestellt, die vom Anbieter irrtümlich nach dem Muster der
+				Szene „Am Hofe des Kaiſers“ geändert war.</change>
+			<change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
+			<change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<pb facs="C(1)57_IIIB23_00000-01.tif"/>
+			<pb facs="C(1)57_IIIB23_00000-02.tif"/>
+			<pb facs="C(1)57_IIIB23_00000-03.tif"/>
+			<pb facs="C(1)57_IIIB23_00000-04.tif"/>
+			<pb facs="C(1)57_IIIB23_00000-05.tif"/>
+			<titlePage>
+				<docTitle>
+					<titlePart rend="centered big">Goethe’s<lb/>
+						<hi rend="big letter-spaced">Werke.</hi>
+					</titlePart>
+					<figure type="line"/>
+					<titlePart type="volume" rend="centered big">Vollſtändige Ausgabe letzter
+						Hand.</titlePart>
+					<figure type="line"/>
+					<titlePart type="volume" rend="centered big">Siebenundfunfzigſter
+						Band.</titlePart>
+				</docTitle>
+				<figure type="line"/>
+				<docImprint rend="centered">
+					<pubPlace rend="big">Stuttgart und Tübingen,</pubPlace>
+					<lb/>
+					<publisher rend="small letter-spaced">in der J. G. Cotta’ſchen
+						Buchhandlung.</publisher>
+					<lb/>
+					<docDate rend="letter-spaced">1842.</docDate>
+				</docImprint>
+			</titlePage>
+			<pb facs="C(1)57_IIIB23_00000-06.tif"/>
+			<pb facs="C(1)57_IIIB23_00000-07.tif"/>
+		</front>
+		<group>
+			<text>
+				<front>
+					<titlePage>
+						<docTitle>
+							<titlePart rend="centered big bold">Goethe’s<lb/>nachgelaſſene
+								Werke.</titlePart>
+							<figure type="line"/>
+							<titlePart type="sub" rend="centered big">Siebzehnter Band.</titlePart>
+							<figure type="line"/>
+						</docTitle>
+						<docImprint rend="centered">
+							<pubPlace rend="big">Stuttgart und Tübingen,</pubPlace>
+							<lb/>
+							<publisher rend="small letter-spaced">in der J. G. Cotta’ſchen
+								Buchhandlung.</publisher>
+							<lb/>
+							<docDate rend="letter-spaced">1842.</docDate>
+						</docImprint>
+					</titlePage>
+					<pb facs="C(1)57_IIIB23_00000-08.tif"/>
+					<pb facs="C(1)57_IIIB23_00000-09.tif"/>
+					<pb facs="C(1)57_IIIB23_00000-10.tif"/>
+				</front>
+				<body>
+					<pb facs="C(1)57_IIIB23_00264.tif" n="264"/>
+					<div type="act">
+						<head rend="centered big">Paralipomena zu Fauſt.</head>
+						<figure type="line"/>
+						<stage rend="centered small letter-spaced">Fauſts Studirzimmer.</stage>
+						<sp>
+							<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+							<l>Wenn du von außen ausgeſtattet biſt,</l>
+							<l>So wird ſich alles zu dir drängen:</l>
+							<l>Ein Kerl der nicht ein wenig eitel iſt</l>
+							<l>Der mag ſich auf der Stelle hängen.</l>
+						</sp>
+						<figure type="line"/>
+						<sp>
+							<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+							<l>Seht mir nur ab wie man vor Leute tritt:</l>
+							<l>Ich komme luſtig angezogen,</l>
+							<l>So iſt mir jedes Herz gewogen;</l>
+							<l>Ich lache, gleich lacht jeder mit.</l>
+							<l>Ihr müßt wie ich nur auf euch ſelbſt vertrauen</l>
+							<l>Und denken daß hier was zu wagen iſt,</l>
+							<l>Denn es verzeihen ſelbſt gelegentlich die Frauen</l>
+							<l>Wenn man mit Anſtand den Reſpect vergißt.</l>
+							<l>Nicht Wünſchelruthe, nicht Alraune,</l>
+							<l>Die beſte Zauberei liegt in der guten Laune;</l>
+							<pb facs="C(1)57_IIIB23_00265.tif" n="265"/>
+							<fw rend="centered" type="pageNum">265</fw>
+							<l>Bin ich mit allen gleich geſtimmt,</l>
+							<l>So ſeh’ ich nicht daß man was übel nimmt:</l>
+							<l>Drum friſch ans Werk und zaudert mir nicht lange,</l>
+							<l>Das Vorbereiten macht mir bange.</l>
+						</sp>
+						<figure type="line"/>
+						<stage rend="centered small letter-spaced">Disputation.</stage>
+						<p rend="firstLineIndented">Halbchor, andere Hälfte, Tutti der
+							Studenten,<lb/>den Zuſtand ausdrückend. Das Gedräng, das<lb/>Wogen, das
+							Aus- und Einſtrömen.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Wagner</hi> als
+							Opponent. Macht ein Compli­<lb break="no"/>ment. Einzelne Stimmen.
+							Rector zum Pedell.<lb/>Die Pedelle, die Ruhe gebieten.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Fahrender
+								Scholaſticus</hi> tritt auf. Schilt<lb/>die Verſammlung. Chor der
+							Studenten, halb,<lb/>ganz. Schilt den Reſpondenten. Dieſer lehnt’s
+							ab.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Fauſt</hi> nimmt’s
+							auf. Schilt ſein Schwadro­<lb break="no"/>niren. Verlangt daß er
+							articulire.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Mephiſtopheles</hi> thut’s, fällt aber gleich ins<lb/>Lob des
+							Vagirens und der daraus entſtehenden<lb/>Erfahrung.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Chor,</hi>
+							halb.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Fauſt.</hi>
+							Ungünſtige Schilderung des Vaganten.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Chor.</hi>
+							halb.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Mephiſtopheles.</hi> Kenntniſſe die dem Schul­<lb break="no"/>weiſen fehlen.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Fauſt.</hi> γνῶϑι
+							σεαυτον, im ſchönen Sinne.<lb/>Fordert den Gegner auf, Fragen aus der
+								Erfah­<lb break="no"/>rung vorzulegen, die Fauſt alle beantworten
+							wolle.</p>
+						<pb facs="C(1)57_IIIB23_00266.tif" n="266"/>
+						<fw rend="centered" type="pageNum">266</fw>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Mephiſtopheles.</hi> Gletſcher. Bologneſiſche<lb/>Feuer. Fata
+							Morgana. Thier. Menſch.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Fauſt.</hi>
+							Gegenfrage, wo der ſchaffende Spie­<lb break="no"/>gel ſey.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Mephiſtopheles.</hi> Compliment, die Antwort<lb/>ein andermal.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Fauſt.</hi>
+							Schluß. Abdankung.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Chor</hi> als
+							Majorität und Minorität der Zuhörer.</p>
+						<p rend="firstLineIndented"><hi rend="bold letter-spaced">Wagners</hi>
+							Sorge, die Geiſter möchten ſpre­<lb break="no"/>chen, was der Menſch
+							ſich zu ſagen glaubte.</p>
+						<figure type="line"/>
+						<div type="scene">
+							<head rend="centered big letter-spaced">Auditorium.</head>
+							<stage rend="centered small letter-spaced">Disputation.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Schüler</speaker>
+								<stage rend="inline small">(von innen).</stage>
+								<l>Laßt uns hinaus! wir haben nicht gegeſſen.</l>
+								<l>Wer ſprechen darf wird Speiſ’ und Trank vergeſſen,</l>
+								<l>Wer hören ſoll wird endlich matt.</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Schüler</speaker>
+								<stage rend="inline small">(von außen).</stage>
+								<l>Laßt uns hinein! wir kommen ſchon vom Kauen,</l>
+								<l>Denn uns hat das Convict geſpeiſ’t.</l>
+								<l>Laßt uns hinein! wir wollen hier verdauen,</l>
+								<l>Uns fehlt der Wein, und hier iſt Geiſt.</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Fahrender
+									Scholaſticus.</speaker>
+								<l>Hinaus! Hinein! Und keiner von der Stelle!</l>
+								<l>Was drängt ihr euch auf dieſer Schwelle!</l>
+								<l>Hier außen Platz und laßt die innern fort,</l>
+								<l>Beſetzt dann den verlaſſ’nen Ort.</l>
+							</sp>
+							<pb facs="C(1)57_IIIB23_00267.tif" n="267"/>
+							<fw rend="centered" type="pageNum">267</fw>
+							<sp>
+								<speaker rend="centered big letter-spaced">Schüler.</speaker>
+								<l>Der iſt vom fahrenden Geſchlecht.</l>
+								<l>Er renommirt, doch er hat Recht.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Wer ſpricht von Zweifeln? laßt mich’s hören!</l>
+								<l>Wer zweifeln will der muß nicht lehren;</l>
+								<l>Wer lehren will der gebe was.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Und merke dir ein für allemal</l>
+								<l>Den wichtigſten von allen Sprüchen:</l>
+								<l>Es liegt dir kein Geheimniß in der Zahl,</l>
+								<l>Allein ein großes in den Brüchen.</l>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered small letter-spaced">Straße.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Der junge Herr iſt freilich ſchwer zu führen,</l>
+								<l>Doch als erfahrner Gouverneur</l>
+								<l>Weiß ich den Wildfang zu regieren;</l>
+								<l>Und afficirt mich auch nichts mehr:</l>
+								<l>Ich laſſ’ ihn ſo in ſeinen Lüſten wandeln,</l>
+								<l>Mag ich doch auch nach meinen Lüſten handeln.</l>
+								<l>Ich rede viel und laſſ’ ihn immer gehn;</l>
+								<l>Iſt ja ein allzudummer Streich geſchehn,</l>
+								<pb facs="C(1)57_IIIB23_00268.tif" n="268"/>
+								<fw rend="centered" type="pageNum">268</fw>
+								<l>Dann muß ich meine Weisheit zeigen,</l>
+								<l>Dann wird er bei den Haar’n herausgeführt;</l>
+								<l>Doch gibt man gleich, indem man’s reparirt,</l>
+								<l>Gelegenheit zu neuen dummen Streichen.</l>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered letter-spaced">Walpurgisnacht.</stage>
+							<stage rend="centered small letter-spaced">Harzgebirg.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Fauſt.</speaker>
+								<l>Wie man nach Norden weiter kommt</l>
+								<l>Da nehmen Ruß und Hexen zu.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Muſik nur her und wär’s ein Dudelſack!</l>
+								<l>Wir haben, wie manche edle Geſellen,</l>
+								<l>Viel Appetit und wenig Geſchmack.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>— — — — — — — — der liebe Sänger</l>
+								<l>Von Hameln, auch mein alter Freund,</l>
+								<l>Der vielbeliebte Rattenfänger,</l>
+								<l>Wie geht’s — — — — — — — —</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Rattenfänger von
+									Hameln.</speaker>
+								<l>Befinde mich recht wohl, zu dienen;</l>
+								<l>Ich bin ein wohlgenährter Mann,</l>
+								<l>Patron von zwölf Philanthropinen,</l>
+								<l>Daneben — — — — — — — — —</l>
+							</sp>
+							<figure type="line"/>
+							<pb facs="C(1)57_IIIB23_00269.tif" n="269"/>
+							<fw rend="centered" type="pageNum">269</fw>
+							<stage rend="centered letter-spaced">Harzgebirg.</stage>
+							<stage rend="centered small letter-spaced">Höhere Region.</stage>
+							<sp>
+								<p rend="firstLineIndented">Nach dem Intermezzo: Einſamkeit, Oede,
+										Trom­<lb break="no"/>petenſtöße. Blitze, Donner von oben.
+										Feuerſäu­<lb break="no"/>len. Rauch-Qualm. Fels der daraus
+									hervorragt.<lb/>Iſt der Satan. Großes Volk umher. Verſäum­<lb break="no"/>niß. Mittel durchzudringen. Schaden.
+									Geſchrei.<lb/>Lied. Sie ſtehen im nächſten Kreiſe. Man
+									kann’s<lb/>vor Hitze kaum aushalten. Wer zunächſt im
+									Kreiſe<lb/>ſteht. Satans Rede. Präſentation.
+									Beleihungen.<lb/>Mitternacht. Verſinken der Erſcheinung.
+									Vulcan.<lb/>Unordentliches Auseinanderſtrömen, Brechen
+									und<lb/>Stürmen.</p>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered letter-spaced">Gipfel des Brockens.</stage>
+							<stage rend="centered">
+								<hi rend="big">Der Satan</hi>
+								<hi rend="small">auf dem Thron. Großes</hi>
+								<hi rend="big">Volk</hi>
+								<hi rend="small">umher.</hi>
+								<lb/>
+								<hi rend="big">Fauſt</hi>
+								<hi rend="small">und</hi>
+								<hi rend="big">Mephiſtopheles</hi>
+								<hi rend="small">im nächſten Kreiſe.</hi>
+							</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Satan</speaker>
+								<stage rend="inline small">(vom Throne redend).</stage>
+								<lg rend="indented">
+									<l>Die Böcke zur Rechten!</l>
+									<l>Die Ziegen zur Linken!</l>
+									<l>Die Ziegen ſie riechen,</l>
+									<l>Die Böcke ſie ſtinken.</l>
+									<l>Und wenn auch die Böcke</l>
+									<l>Noch ſtinkiger wären,</l>
+									<l>So kann doch die Ziege</l>
+									<l>Des Bocks nicht entbehren.</l>
+								</lg>
+							</sp>
+							<pb facs="C(1)57_IIIB23_00270.tif" n="270"/>
+							<fw rend="centered" type="pageNum">270</fw>
+							<sp>
+								<speaker rend="centered big letter-spaced">Chor.</speaker>
+								<lg rend="indented">
+									<l>Aufs Angeſicht nieder,</l>
+									<l>Verehret den Herrn!</l>
+									<l>Er lehret die Völker</l>
+									<l>Und lehret ſie gern.</l>
+									<l>Vernehmet die Worte:</l>
+									<l>Er zeigt euch die Spur</l>
+									<l>Des ewigen Lebens</l>
+									<l>Der tiefſten Natur.</l>
+								</lg>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Satan</speaker>
+								<stage rend="inline small">(rechts gewendet).</stage>
+								<lg rend="indented">
+									<l>Euch gibt es zwei Dinge</l>
+									<l>So herrlich und groß:</l>
+									<l>Das glänzende Gold</l>
+									<l>— — — — — — — —</l>
+									<l>Das eine verſchaffet</l>
+									<l>Das andre verſchlingt;</l>
+									<l>Drum glücklich wer beide</l>
+									<l>Zuſammen erringt.</l>
+								</lg>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Eine Stimme.</speaker>
+								<lg rend="indented">
+									<l>Was ſagte der Herr denn? —</l>
+									<l>Entfernt von dem Orte</l>
+									<l>Vernahm ich nicht deutlich</l>
+									<l>Die köſtlichen Worte:</l>
+									<l>Mir bleibet noch dunkel</l>
+									<l>Die herrliche Spur,</l>
+									<l>Nicht ſeh’ ich das Leben</l>
+									<l>Der tiefen Natur.</l>
+								</lg>
+							</sp>
+							<pb facs="C(1)57_IIIB23_00271.tif" n="271"/>
+							<fw rend="centered" type="pageNum">271</fw>
+							<sp>
+								<speaker rend="centered big letter-spaced">Satan</speaker>
+								<stage rend="inline small">(links gewendet).</stage>
+								<lg rend="indented">
+									<l>Für euch ſind zwei Dinge</l>
+									<l>Von köſtlichem Glanz:</l>
+									<l>Das leuchtende Gold</l>
+									<l>— — — — — — —.</l>
+									<l>Drum wißt euch ihr Weiber</l>
+									<l>Am Gold zu ergötzen,</l>
+									<l>Und mehr als das Gold noch</l>
+									<l>— — — — — — — — —.</l>
+								</lg>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Chor.</speaker>
+								<lg rend="indented">
+									<l>Aufs Angeſicht nieder</l>
+									<l>Am heiligen Ort!</l>
+									<l>O glücklich, wer nah ſteht</l>
+									<l>Und höret das Wort!</l>
+								</lg>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Eine Stimme.</speaker>
+								<lg rend="indented">
+									<l>Ich ſtehe von ferne</l>
+									<l>Und ſpitze die Ohren,</l>
+									<l>Doch hab ich ſchon manches</l>
+									<l>Der Worte verloren.</l>
+									<l>Wer ſagt mir es deutlich,</l>
+									<l>Wer zeigt mir die Spur</l>
+									<l>Des ewigen Lebens</l>
+									<l>Der tiefſten Natur!</l>
+								</lg>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles</speaker>
+								<stage rend="inline small">(zu einem jungen Mädchen).</stage>
+								<l>Was weinſt du? art’ger kleiner Schatz,</l>
+								<l>Die Thränen ſind hier nicht am Platz.</l>
+								<l>Du wirſt in dem Gedräng wohl gar zu arg geſtoßen?</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mädchen.</speaker>
+								<l>Ach nein! Der Herr dort ſpricht ſo gar curios,</l>
+								<pb facs="C(1)57_IIIB23_00272.tif" n="272"/>
+								<fw rend="centered" type="pageNum">272</fw>
+								<l>Von Gold — — — — — — —</l>
+								<l>Und alles freut ſich wie es ſcheint;</l>
+								<l>Doch das verſtehn wohl nur die Großen?</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Mein liebes Kind, nur nicht geweint!</l>
+								<l>Denn willſt du wiſſen was der Teufel meint,</l>
+								<l>So — — — — — — — — — — — —.</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Satan</speaker>
+								<stage rend="inline small">(grad’ aus).</stage>
+								<lg rend="indented">
+									<l>Ihr Mägdlein, ihr ſtehet</l>
+									<l>Hier grad in der Mitten;</l>
+									<l>Ich ſeh’, ihr kommt alle</l>
+									<l>Auf Beſ’men geritten:</l>
+									<l>Seyd reinlich bei Tage</l>
+									<l>— — — — — —</l>
+									<l>So habt ihr’s auf Erden</l>
+									<l>Am weitſten gebracht.</l>
+								</lg>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered letter-spaced">Einzelne Audienzen.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Ceremonienmeiſter.</speaker>
+								<lg rend="indented">
+									<l>— — — — — — — —</l>
+									<l>— — — — — — — —</l>
+								</lg>
+							</sp>
+							<sp>
+								<speaker rend="centered big">X.</speaker>
+								<l rend="indented">und kann ich, wie ich bat,</l>
+								<l>Mich unumſchränkt in dieſem Reiche ſchauen,</l>
+								<l>So küß’ ich, bin ich gleich von Haus aus Demokrat,</l>
+								<l>Dir doch, Tyrann, voll Dankbarkeit die Klauen.</l>
+							</sp>
+							<pb facs="C(1)57_IIIB23_00273.tif" n="273"/>
+							<fw rend="centered" type="pageNum">273</fw>
+							<sp>
+								<speaker rend="centered big letter-spaced">Ceremonienmeiſter.</speaker>
+								<l>Die Klauen! das iſt für Einmal;</l>
+								<l>Du wirſt dich weiter noch entſchließen müſſen.</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big">X.</speaker>
+								<l>Was fordert denn das Ritual?</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Ceremonienmeiſter.</speaker>
+								<l>Beliebt dem Herrn den hintern Theil zu küſſen.</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big">X.</speaker>
+								<lg>
+									<l>Darüber bin ich unverlor’n,</l>
+									<l>Ich küſſe hinten oder vorn.</l>
+								</lg>
+								<space/>
+								<lg>
+									<l>Scheint oben deine Naſe doch</l>
+									<l>Durch alle Welten vorzudringen,</l>
+									<l>So ſeh’ ich unten hier — —</l>
+									<l>Das Univerſum zu verſchlingen.</l>
+									<l>Was duftet aus dem koloſſalen Mund!</l>
+									<l>So wohl kann’s nicht im Paradieſe riechen.</l>
+									<l>Und dieſer wohlgebaute Schlund</l>
+									<l>Erregt den Wunſch hineinzukriechen.</l>
+									<l part="I">Was ſoll ich mehr!</l>
+								</lg>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Satan.</speaker>
+								<l part="F">Vaſall, du biſt erprobt!</l>
+								<l>Hierdurch beleih’ ich dich mit Millionen Seelen;</l>
+								<l>Und wer des Teufels — ſo gut wie du gelobt,</l>
+								<l>Dem ſoll es nie an Schmeichelphraſen fehlen.</l>
+							</sp>
+							<figure type="line"/>
+							<fw type="sig">Goethe, ſämmtl. Werke. <hi rend="antiqua">LVII.</hi>
+								<space/>18</fw>
+							<pb facs="C(1)57_IIIB23_00274.tif" n="274"/>
+							<fw rend="centered" type="pageNum">274</fw>
+							<stage rend="centered letter-spaced">Ein anderer Theil des
+								Brockens.</stage>
+							<stage rend="centered small letter-spaced">Tiefere Region.</stage>
+							<sp>
+								<speaker rend="big letter-spaced">Hochgerichtserſcheinung.</speaker>
+								<p>Gedräng. Sie<lb/>erſteigen einen Baum. Reden des Volks.
+									Auf<lb/>glühendem Boden. Nackt das Idol. Die Hände<lb/>auf dem
+									Rücken.</p>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Geſang.</speaker>
+								<lg rend="indented">
+									<l>Wo fließet heißes Menſchenblut:</l>
+									<l>Der Dunſt iſt allem Zauber gut.</l>
+									<l>Die grau und ſchwarze Brüderſchaft</l>
+									<l>Sie ſchöpft zu neuen Werken Kraft.</l>
+									<l>Was deut’t auf Blut iſt uns genehm,</l>
+									<l>Was Blut vergießt iſt uns bequem.</l>
+									<l>Um Glut und Blut umkreiſ’t den Reih’n,</l>
+									<l>In Glut ſoll Blut vergoſſen ſeyn.</l>
+								</lg>
+								<space/>
+								<lg rend="indented">
+									<l>Die Dirne winkt, es iſt ſchon gut;</l>
+									<l>Der Säufer trinkt, es deut’t auf Blut.</l>
+									<l>Der Blick, der Trank, er feuert an:</l>
+									<l>Der Dolch iſt blank, es iſt gethan.</l>
+									<l>Ein Blutquell rieſelt nie allein,</l>
+									<l>Es laufen andre Bächlein drein;</l>
+									<l>Sie wälzen ſich von Ort zu Ort,</l>
+									<l>Es reißt der Strom die Ströme fort.</l>
+								</lg>
+							</sp>
+							<figure type="line"/>
+							<p rend="firstLineIndented">Der Kopf fällt ab. Das Blut ſpringt
+								und<lb/>löſcht das Feuer. Nacht. Rauſchen. Geſchwätz<lb/>von
+								Kielkröpfen. Dadurch Fauſt erfährt.</p>
+							<figure type="line"/>
+							<pb facs="C(1)57_IIIB23_00275.tif" n="275"/>
+							<fw rend="centered" type="pageNum">275</fw>
+							<stage rend="centered big big">Fauſt. Mephiſtopheles.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Dem Ruß der Hexen zu entgehen</l>
+								<l>Muß unſer Wimpel ſüdwärts wehen;</l>
+								<l>Doch dort bequeme dich zu wohnen</l>
+								<l>Bei Pfaffen und bei Scorpionen.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<lg rend="indented">
+									<l>Warmes Lüftchen weh’ heran,</l>
+									<l>Wehe uns entgegen,</l>
+									<l>Denn du haſt uns wohlgethan</l>
+									<l>Auf den Jugend-Wegen.</l>
+								</lg>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered small letter-spaced">Landſtraße.</stage>
+							<stage rend="centered small">Ein Kreuz am Wege, rechts auf dem Hügel ein
+								altes Schloß,<lb/>in der Ferne ein Bauerhüttchen.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Fauſt.</speaker>
+								<l>Was gibt’s, Mephiſto, haſt du Eil’?</l>
+								<l>Was ſchlägſt vorm Kreuz die Augen nieder?</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Ich weiß es wohl, es iſt ein Vorurtheil,</l>
+								<l>Allein genug, mir iſt’s einmal zuwider.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Mich darf niemand aufs Gewiſſen fragen,</l>
+								<l>Ich ſchäme mich oft meines Geſchlechts.</l>
+								<l>Sie meinen, wenn ſie Teufel ſagen,</l>
+								<l>So ſagen ſie was rechts.</l>
+							</sp>
+							<figure type="line"/>
+							<pb facs="C(1)57_IIIB23_00276.tif" n="276"/>
+							<fw rend="centered" type="pageNum">276</fw>
+							<stage rend="centered letter-spaced">Am Hofe des Kaiſers.</stage>
+							<stage rend="centered small letter-spaced">Theater.</stage>
+							<stage rend="centered small">(Der Acteur, der den König ſpielt, ſcheint
+								matt geworden<lb/>zu ſeyn.)</stage>
+							<sp>
+								<speaker rend="big letter-spaced">Mephiſtopheles.</speaker>
+								<p rend="firstLineIndented">Brav, alter Fortinbras,<lb/>alter Kauz!
+									Dir iſt übel zu Muthe, ich bedaure<lb/>dich von Herzen. Nimm
+									dich zuſammen. Noch<lb/>ein paar Worte. Wir hören ſobald keinen
+									König<lb/>wieder reden.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Kanzler.</speaker>
+								<p>Dafür haben wir das Glück, die<lb/>weiſen Sprüche Ihro Majeſtät
+									des Kaiſers deſto<lb/>öfter zu vernehmen.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Mephiſtopheles.</speaker>
+								<p>Das iſt was ganz anderes.<lb/>Ew. Excellenz brauchen nicht zu
+									proteſtiren. Was<lb/>wir anderen Hexenmeiſter ſagen iſt ganz
+										unprä­<lb break="no"/>judicirlich.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Fauſt.</speaker>
+								<p>Still! ſtill! er regt ſich wieder.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Acteur.</speaker>
+								<p>Fahr’ hin, du alter Schwan! fahr’<lb/>hin! Geſegnet ſeyſt du für
+									deinen letzten Geſang<lb/>und alles, was du Gutes geſagt haſt.
+									Das Uebel<lb/>was du thun mußteſt iſt klein — — — — —</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Marſchalk.</speaker>
+								<p>Redet nicht ſo laut. Der Kaiſer<lb/>ſchläft, Ihro Majeſtät
+									ſcheinen nicht wohl.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Mephiſtopheles.</speaker>
+								<p rend="firstLineIndented">Ihro Majeſtät haben zu be­<lb break="no"/>fehlen, ob wir aufhören ſollen. Die Geiſter haben<lb/>ohnedieß
+									nichts weiter zu ſagen.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Fauſt.</speaker>
+								<p>Was ſiehſt du dich um?</p>
+							</sp>
+							<pb facs="C(1)57_IIIB23_00277.tif" n="277"/>
+							<fw rend="centered" type="pageNum">277</fw>
+							<sp>
+								<speaker rend="big letter-spaced">Mephiſtopheles.</speaker>
+								<p>Wo nur die Meerkatzen<lb/>ſtecken mögen? Ich höre ſie immer
+									reden.</p>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<p rend="firstLineIndented">Es iſt, wie ich ſchon ſagte, ein — — — —
+									—</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Biſchof</speaker>
+								<p>Es ſind heidniſche Geſinnungen, ich<lb/>habe dergleichen im
+									Marc-Aurel gefunden. Es<lb/>ſind die heidniſchen Tugenden.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Mephiſtopheles.</speaker>
+								<p>Und das ſind glänzende<lb/>Laſter, und billig daß die Gefangenen
+									deßhalb<lb/>ſämmtlich verdammt werden.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Kaiſer.</speaker>
+								<p>Ich finde es hart; was ſagt ihr, Bi­<lb break="no"/>ſchof?</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Biſchof.</speaker>
+								<p>Ohne den Ausſpruch unſerer allwei­<lb break="no"/>ſen Kirche zu
+									umgehen, ſollte ich glauben, daß<lb/>gleich — — —</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Mephiſtopheles.</speaker>
+								<p>Vergeben! Heidniſche Tu­<lb break="no"/>genden? Ich hätte ſie
+									gern geſtraft gehabt; wenn’s<lb/>aber nicht anders iſt, ſo
+									wollen wir ſie vergeben.<lb/>— Du biſt fürs erſte abſolvirt und
+									wieder im<lb/>Recht — —</p>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered small">(Sie verſchwinden ohne Geſtank.)</stage>
+							<sp>
+								<speaker rend="big letter-spaced">Marſchalk.</speaker>
+								<p>Riecht ihr was?</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Biſchof.</speaker>
+								<p>Ich nicht.</p>
+							</sp>
+							<sp>
+								<speaker rend="big letter-spaced">Mephiſtopheles.</speaker>
+								<p>Dieſe Art Geiſter ſtinken<lb/>nicht, meine Herren.</p>
+							</sp>
+							<figure type="line"/>
+							<pb facs="C(1)57_IIIB23_00278.tif" n="278"/>
+							<fw rend="centered" type="pageNum">278</fw>
+							<stage rend="centered small letter-spaced">Am Hofe des Kaiſers.</stage>
+							<stage rend="centered small letter-spaced">Spätere Scene.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Ein Leibarzt muß zu allem taugen;</l>
+								<l>Wir fingen bei den Sternen an</l>
+								<l>Und endigen mit Hühneraugen.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Das zierlich höfiſche Geſchlecht</l>
+								<l>Iſt uns nur zum Verdruß geboren,</l>
+								<l>Und hat ein armer Teufel einmal Recht,</l>
+								<l>So kommt’s gewiß dem König nicht zu Ohren.</l>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered small letter-spaced">Claſſiſche
+								Walpurgisnacht.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Fauſt.</speaker>
+								<l>Du ſchärfe deiner Augen Licht,</l>
+								<l>In dieſen Gauen ſcheint’s zu blöde,</l>
+								<l>Von Teufeln iſt die Frage nicht,</l>
+								<l>Von Göttern iſt allhier die Rede.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Das Auge fordert ſeinen Zoll.</l>
+								<l>Was hat man an den nackten Heiden?</l>
+								<l>Ich liebe mir was auszukleiden,</l>
+								<l>Wenn man doch einmal lieben ſoll.</l>
+							</sp>
+							<figure type="line"/>
+							<pb facs="C(1)57_IIIB23_00279.tif" n="279"/>
+							<fw rend="centered" type="pageNum">279</fw>
+							<stage rend="centered small letter-spaced">Freies Feld.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Beſtünde nur die Weisheit mit der Jugend,</l>
+								<l>Und Republiken ohne Tugend,</l>
+								<l>So wär’ die Welt dem höchſten Ziele nah.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Pfui! ſchäme dich daß du nach Ruhm verlangſt,</l>
+								<l>Ein Charlatan bedarf nur Ruhm zu haben.</l>
+								<l>Gebrauche beſſer deine Gaben,</l>
+								<l>Statt daß du eitel vor den Menſchen prangſt.</l>
+								<l>Nach kurzem Lärm legt Fama ſich zur Ruh,</l>
+								<l>Vergeſſen wird der Held ſo wie der Lotterbube,</l>
+								<l>Der größte König ſchließt die Augen zu,</l>
+								<l>Und jeder Hund bepißt gleich ſeine Grube.</l>
+								<l>Semiramis! hielt ſie nicht das Geſchick</l>
+								<l>Der halben Welt in Kriegs- und Friedenswage?</l>
+								<l>Und war ſie nicht ſo groß im letzten Augenblick</l>
+								<l>Als wie am erſten ihrer Herrſchertage?</l>
+								<l>Doch kaum erliegt ſie ungefähr</l>
+								<l>Des Todes unverſehenem Streiche,</l>
+								<l>So fliegen gleich, von allen Enden her,</l>
+								<l>Skarteken tauſendfach und decken ihre Leiche.</l>
+								<l>Wer wohl verſteht was ſo ſich ſchickt und ziemt,</l>
+								<l>Verſteht auch ſeiner Zeit ein Kränzchen abzujagen;</l>
+								<l>Doch biſt du nur erſt hundert Jahr berühmt,</l>
+								<l>So weiß kein Menſch mehr was von dir zu ſagen.</l>
+							</sp>
+							<figure type="line"/>
+							<pb facs="C(1)57_IIIB23_00280.tif" n="280"/>
+							<fw rend="centered" type="pageNum">280</fw>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Und wenn ihr ſcheltet, wenn ihr klagt,</l>
+								<l>Daß ich zu grob mit euch verfahre</l>
+								<l>— — — — — — — — —</l>
+								<l>Denn wer euch heut recht derb die Wahrheit ſagt</l>
+								<l>Der ſagt ſie euch auf tauſend Jahre.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Geh hin, verſuche nur dein Glück!</l>
+								<l>Und haſt du dich recht durchgeheuchelt,</l>
+								<l>So komme matt und lahm zurück.</l>
+								<l>Der Menſch vernimmt nur was ihm ſchmeichelt.</l>
+								<l>Sprich mit dem Frommen von der Tugend Lohn,</l>
+								<l>Sprich mit Ixion von der Wolke,</l>
+								<l>Mit Königen vom Anſehn der Perſon,</l>
+								<l>Von Freiheit und von Gleichheit mit dem Volke!</l>
+							</sp>
+							<sp>
+								<speaker rend="centered big letter-spaced">Fauſt.</speaker>
+								<l>Auch dießmal imponirt mir nicht</l>
+								<l>Die tiefe Wuth mit der du gern zerſtörteſt,</l>
+								<l>Dein Tigerblick, dein mächtiges Geſicht.</l>
+								<l>So höre denn, wenn du es niemals hörteſt:</l>
+								<l>Die Menſchheit hat ein fein Gehör,</l>
+								<l>Ein reines Wort erreget ſchöne Thaten;</l>
+								<l>Der Menſch fühlt ſein Bedürfniß nur zu ſehr</l>
+								<l>Und läßt ſich gern im Ernſte rathen.</l>
+								<l>Mit dieſer Ausſicht trenn’ ich mich von dir,</l>
+								<l>Bin bald und triumphirend wieder hier.</l>
+							</sp>
+							<pb facs="C(1)57_IIIB23_00281.tif" n="281"/>
+							<fw rend="centered" type="pageNum">281</fw>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>So gehe denn mit deinen ſchönen Gaben!</l>
+								<l>Mich freut’s wenn ſich ein Thor um andre Thore<lb/>quält:</l>
+								<l>Denn Rath denkt jeglicher genug bei ſich zu haben,</l>
+								<l>Geld fühlt er eher wenn’s ihm fehlt.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Worum man ſich doch ängſtlich müht und plackt,</l>
+								<l>Das iſt gewöhnlich abgeſchmackt.</l>
+								<l>Zum Bei ſpiel unſer täglich Brod</l>
+								<l>Das iſt nun eben nicht das feinſte,</l>
+								<l>Auch iſt nichts abgeſchmackter als der Tod</l>
+								<l>Und grade der iſt das Gemeinſte.</l>
+							</sp>
+							<figure type="line"/>
+							<stage rend="centered small letter-spaced">Vor dem Palaſt.</stage>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Das Leben, wie es eilig flieht,</l>
+								<l>Nehmt ihr genau und ſtets genauer,</l>
+								<l>Und wenn man es beim Licht beſieht,</l>
+								<l>G’nügt euch am Ende ſchon die Dauer.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>So ruhe denn an deiner Stätte!</l>
+								<l>Sie weihen das Paradebette,</l>
+								<pb facs="C(1)57_IIIB23_00282.tif" n="282"/>
+								<fw rend="centered" type="pageNum">282</fw>
+								<l>Und, eh das Seelchen ſich entrafft,</l>
+								<l>Sich einen neuen Körper ſchafft,</l>
+								<l>Verkünd’ ich oben die gewonnene Wette.</l>
+								<l>Nun freu’ ich mich aufs große Feſt</l>
+								<l>Wie ſich der Herr vernehmen läßt.</l>
+							</sp>
+							<figure type="line"/>
+							<sp>
+								<speaker rend="centered big letter-spaced">Mephiſtopheles.</speaker>
+								<l>Nein! dießmal gilt kein Weilen und kein Bleiben:</l>
+								<l>Der Reichsverweſer herrſcht vom Thron,</l>
+								<l>Ihn und die Seinen kenn’ ich ſchon,</l>
+								<l>Sie wiſſen mich, wie ich die Ratten, zu vertreiben.</l>
+							</sp>
+							<figure type="line"/>
+						</div>
+					</div>
+					<pb facs="C(1)57_IIIB23_x-01.tif"/>
+					<pb facs="C(1)57_IIIB23_x-02.tif"/>
+					<pb facs="C(1)57_IIIB23_x-03.tif"/>
+					<pb facs="C(1)57_IIIB23_x-04.tif"/>
+					<pb facs="C(1)57_IIIB23_y-fussschnitt.tif"/>
+					<pb facs="C(1)57_IIIB23_y-kopfschnitt.tif"/>
+					<pb facs="C(1)57_IIIB23_y-ruecken.tif"/>
+					<pb facs="C(1)57_IIIB23_y-vorderschnitt.tif"/>
+				</body>
+			</text>
+		</group>
+	</text>
+</TEI>

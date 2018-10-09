@@ -1,0 +1,836 @@
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!--http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng--><!-- https://faustedition.uni-wuerzburg.de/xml/schema/tei_all_2-7-0.rng --><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc xmlns:f="http://www.faustedition.net/ns"><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition"/><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml--><msIdentifier><repository/><idno type=""/></msIdentifier></msDesc></sourceDesc></fileDesc>
+    <revisionDesc><change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change><change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change></revisionDesc></teiHeader>
+    <text>
+        <body>
+            <div n="14" type="textsegment" xml:id="sgm14">
+                <pb n="1"/>
+                <p>(Nov. 17th)</p>
+                <p>
+                    <del>The reserve between</del>
+                </p>
+                <p>
+                    <del>Thoby then, was</del>
+                    <del> The reserve which</del>
+                </p>
+                <p>We never spoke of this to each other;</p>
+                <p>
+                    <del>During those unhappy years</del>
+                    <del>we never spok</del>
+                </p>
+                <p>
+                    <del>All this -</del>
+                    <del>Vanessas</del> But we never spoke, during those <lb/> unhappy years, of
+                        <del>this</del>
+                    <del>what</del>
+                    <del>was made them, to <lb/> this</del>
+                    <del>"being in love".</del> of these scenes; Thoby, I imagine, <lb/> may have
+                    had some vague conception that something, as I <lb/> think he would have put it,
+                    was up between Jack &amp; <lb/> Vanessa. But his general attitude was
+                        <del>rather</del> aloof, &amp; <add change="#lay_1" rendition="#add_right">judicial.</add>
+                    <lb/> conventional: <del>that is, he</del> From his remote station, <lb/> as a
+                    schoolboy, as an undergraduate, he <del change="#lay_1">saw</del>
+                    <add change="#lay_1" rendition="#add_inter">felt</add> us <del change="#lay_1">in the <lb/> traditional position:</del>
+                    <add change="#lay_1" rendition="#add_inter">
+                        <sic>generaly</sic>
+                        <corr resp="#hwg">generally</corr>
+                        <corr resp="#hwg"/>
+                    </add> allied by the old ties: <del change="#lay_1">sisters<lb/> who</del>
+                    <add change="#lay_1" rendition="#add_right">we</add> should accept our place: if
+                    George wanted us to <lb/> go to parties, why not? If father wanted us to <lb/>
+                    walk with him, why not? Once, at Salisbury, when <lb/> the Fishers were our
+                    neighbours, &amp; Vanessa, detesting <lb/> Aunt Mary, who had most viciously
+                    intervened, <lb/>
+                    <del>with</del> writing surreptitious letters addressed to <lb/> Copes School,
+                    in the chronic warfare between <lb/> Vanessa &amp; Jack, Vanessa &amp; George,
+                    refused to visit <del>, &amp;</del>
+                    <lb/>
+                    <del>cut the</del> them &amp; cut them in the street, he <lb/> made one of his
+                    rare impressive <del>cont</del> statements: <lb/>
+                    <choice xml:id="d1e8475">
+                        <sic>
+                            <add change="#lay_1" rendition="#add_inter">Gruffly he said</add>
+                            <del>it was</del> he said </sic>
+                        <corr resp="#hwg">Gruffly he said</corr>
+                    </choice>
+                    <note resp="#hwg" target="#d1e8475">Enote</note> it was not right to treat <lb/>
+                    Aunt Mary like that. ___ <del>How little he knew.</del>
+                </p>
+                <p>It thus came about that Nessa &amp; I formed <lb/> together <del>a v</del> a very
+                        close<del>,</del> conspiracy. ___ <del>During <lb/> those years the</del>
+                    <del>In that large house, </del>
+                    <lb/>
+                    <del>the parties</del>
+                    <del>Even if we were silent about <lb/> her affair with Jack, <del>it was</del>
+                        that wa the only <lb/> reserve we had. </del> ___ In that world of many
+                    <lb/> men, <del>we were the two</del> coming &amp; going, <lb/> we formed <del change="#lay_1"> the</del>
+                    <add change="#lay_1" rendition="#add_inter"> our private</add> nucleus. There we were<lb/>
+                    <pb n="2"/> alone, with father all day; in the evening, Adrian <lb/> would come
+                    back from Westminster; then Jack from <lb/> Lincolns Inn; then Gerald from Dents
+                    or Henrietta House; <lb/> then George from the Post office or the Treasury. <lb/>
+                    <del>&amp; in the holidays Thoby would</del> Thoby would be at <lb/> Clifton or
+                    at Cambridge. ___ The staple day would be <lb/> a day spent together. And
+                    therefore we made together a <lb/>
+                    <add change="#lay_1" rendition="#add_left">small</add> world inside the big
+                    world. We had an <lb/> alliance that was so knit together that <lb/> everything
+                        <del>w</del> (with the exception of Jack perhaps) was <lb/> seen from the
+                    same angle; <del>by</del>
+                    <del>o</del> &amp; took <lb/> its shape from our own vantage points. Very <lb/>
+                    soon after Stella's death we <del>had</del> saw life as <lb/> a
+                        <del>perpetual</del> struggle to <del>make our</del> get some <lb/> kind of
+                    standing <add change="#lay_1" rendition="#add_inter">place</add> for ourselves
+                    in this bewildering, <add change="#lay_1" rendition="#add_right">baffling
+                            <lb/><unclear reason="illegible" resp="#hwg">b_.</unclear></add><lb/>
+                    <del change="#lay_1">always changing, almost always <del>per </del> d</del> We
+                    were always battling for that which was always <lb/> being interfered with,
+                    snuffled up, snatched away. <lb/> The most imminent obstacle &amp; <del>pr</del>
+                    burden was <lb/> of course father. How could we, to take a <unclear reason="illegible" resp="#hwg">c_</unclear><lb/> case, arrange that he
+                    should be out when <lb/> perhaps Kitty Maxse, perhaps Katie Thynne came to <lb/>
+                    tea? How could we escape Mr Bryce? Must I <lb/> spend the afternoon walking
+                    round Kensington Garden? <lb/> Could we possibly arrange to take our friends
+                    <lb/> straight up to the Studio (the day nursery) <del>without</del>
+                    <lb/> Then, <del>what</del>
+                    <del>how could</del> what could we talk about at <lb/> luncheon? Could we avoid
+                    Brighton at Easter? <lb/> Must we be in because Aunt Mary was coming? <lb/> Over
+                    the <add change="#lay_1" rendition="#add_inter">whole</add> week <add change="#lay_1" rendition="#add_inter">of these <unclear reason="illegible" resp="#hwg">_s</unclear> &amp; <unclear reason="illegible" resp="#hwg">_s</unclear></add> brooded the horror of Wednesday. <lb/> On that day
+                    the weekly books were shown him. <lb/> If they were over eleven pounds, that
+                    lunch was a <lb/> torture. <del>I waited outside the drawing room door</del>
+                    <add change="#lay_1" rendition="#add_inter">The books were presented</add>.
+                    <lb/> Silence. He was putting on his glasses. A roar. <lb/> He had read the
+                    figures. Then, "You are<lb/>
+                    <pb n="3"/> ruining me... we are shooting Niagara..." But <add change="#lay_1" rendition="#add_left">a roar of <unclear reason="illegible" resp="#hwg">s_</unclear>
+                        <lb/>
+                        <unclear reason="illegible" resp="#hwg">_</unclear>
+                        <lb/><unclear reason="illegible" resp="#hwg">_</unclear></add>
+                    <lb/> He beat his breast. Dropped his pen; &amp; indulged<lb/> in one of these
+                    extraordinary exhibitions of self pity of <lb/> self dramatisation. He was
+                    ruined. He was dyin.. He was <lb/> He was wrecked to the bone... Silence &amp;
+                    Vanessa par. <lb/> "And you stand there like a block of stone...". <lb/>
+                    <add change="#lay_1" rendition="#add_left">He <choice>
+                            <expan>would</expan>
+                            <abbr>wd</abbr>
+                        </choice>
+                        <lb/> shake all ove..</add> So to a wild cry that he was deserted, that he
+                    was <lb/> alone ... that we had no <del>sympathy for</del> him. That was <lb/>
+                    of rage against her; of denunciation of her; which <lb/> made my blood boil
+                        <del>with rage:</del> my fingers tremble. <lb/> Then another attitude. The
+                    cheque was signed <add change="#lay_1" rendition="#add_inter">with a deep
+                        groan</add>. He <lb/> would shake &amp; quiver, <del>representing (he
+                        was<lb/> curiously dramatic) an old man ruined &amp; <lb/> an old man
+                            <del>cruelly</del> tortured... That over, he would <lb/> sigh; subside;
+                        &amp; say, to me, for whom he had <lb/> some pity, &amp;</del>
+                    <add change="#lay_1" rendition="#add_left">He <choice>
+                            <expan>would</expan>
+                            <abbr>wd</abbr>
+                        </choice>
+                        <lb/> sink his <lb/> head on <lb/> his breast.</add> ___ As if he had signed
+                    away his <lb/> own life, he would hand <add change="#lay_1" rendition="#add_inter"> his</add> the cheque to Vanessa. <add change="#lay_1" rendition="#add_left">we sat <lb/> in <lb/> complete <lb/>
+                        silence.</add>___ Then <lb/> subside.. looking <unclear reason="illegible" resp="#hwg">g_</unclear>, worn, excruciated. And <lb/> then with a profound
+                    groan look up, at me, at last &amp; <lb/> say plaintively, yet with some
+                        <del>regret</del> remorse. Then I <lb/>
+                    <add change="#lay_1" rendition="#add_left">
+                        <choice>
+                            <expan>would</expan>
+                            <abbr>wd</abbr>
+                        </choice> have <lb/> my turn</add>for whom he had some pity, I so like him
+                    in <lb/> excitability &amp; say "Well Giny, what <del>about a <lb/> wa</del> are
+                        <add change="#lay_1" rendition="#inter">a</add> you doing the afternoon?
+                        <del>What about</del> a <lb/> walk?</p>
+                <p>I cannot understand the savage brutality.</p>
+                <pb n="4"/>
+                <p>Down came his fist on the account book. There was a roar. <lb/> His vein filled.
+                    His face flushed. Then he shouted "I am <lb/> ruined" – <del>Then
+                        he</del>
+                    <del>This words were only</del> Then he beat his <lb/> breast.. He went through
+                    an extraordinary dramatisation of <add change="#lay_1" rendition="#add_right">self pity</add>
+                    <lb/> anger &amp; despair. He was ruined – dying... <del>wantonly</del>
+                    <lb/> tortured by the wanton extravagance of Vanessa &amp; Sophie.. <add change="#lay_1" rendition="#add_left">Vanessa stood<lb/>
+                        <del>be</del> by his <lb/> side <lb/> dumb.</add>
+                    <lb/> "And you stand there like a block of stone. Dont you pity me? <lb/> Havent
+                    you a word to say to me?" &amp; so on. Vanessa <lb/> stood by his side
+                    absolutely dumb. He <lb/>
+                    <del>thr</del> flung at her <add change="#lay_1" rendition="#add_inter"><unclear reason="illegible" resp="#hwg">_</unclear></add> all the phrases <add change="#lay_1" rendition="#add_inter">of <unclear reason="illegible" resp="#hwg">frenzy</unclear> &amp; <unclear reason="illegible" resp="#hwg">sarcasm</unclear></add> – about shooting Niagara
+                    &amp; so <lb/> on – that came handy. <del>Still</del> she remained
+                    static. <del>Then</del>
+                    <lb/> Another attitude was adopted. With a deep groan he <lb/> picked up his pen
+                    &amp; with ostentatiously trembling <lb/> fingers wrote out the cheque. This was
+                    wearily <lb/> tossed to Vanessa. Slowly &amp; with many groans <lb/> the pen the
+                    account book were put away. Then he <lb/> sank into his chair &amp; sat with his
+                    head on his breast. <lb/> And then at last, after glancing at a book <del>for a
+                    </del>, <del>mo</del>
+                    <lb/> he <choice xml:id="d1e8976">
+                        <sic>woud</sic>
+                        <corr resp="#hwg">would</corr>
+                    </choice> look up &amp; say half plaintively. <choice xml:id="d1e8982">
+                        <sic>And</sic>
+                        <corr resp="#hwg">"And</corr>
+                    </choice> what <lb/> are you doing this afternoon, Jinny?"</p>
+                <p>
+                    <del>I was <del>by t</del> trembling</del>
+                    <del>now with fury.</del> Never have I <lb/> felt such rage, <choice xml:id="d1e9003">
+                        <sic>a</sic>
+                        <corr resp="#hwg">&amp;</corr>
+                    </choice> such frustration. For not a word of <lb/> my feeling could be
+                    expressed. <del>And there once more <lb/> was his </del>
+                </p>
+                <p>This, as far as I can describe it, is an <lb/>
+                    <del>unegg</del> unexaggerated account of a bad Wednesday. <lb/> Even now I can
+                    find nothing to say of his behaviour <lb/> save that it was brutal. If, instead
+                    of words, he <lb/> had used a whip <del>it would have been</del>
+                    <del>no more</del>
+                    <lb/>
+                    <del>a</del>
+                    <del>brutal</del> the brutality <del>of that attack</del> would have been <lb/>
+                    no greater. How can one explain it? <del>It was complex.</del>
+                    <lb/> He had been indulged of course ever since he broke the <lb/> flower pot
+                    &amp; threw the fragments at his mother (whatever <lb/> the truth of that story
+                        <del>)</del> it ran something like that) <lb/>
+                    <del>then</del>
+                    <del>Health</del> Delicacy excused that. <del>Then the</del>
+                </p>
+                <pb n="5"/>
+
+                <p>Then, as he grew older, there was the genius legend to <lb/>
+                    <choice>
+                        <expan>which</expan>
+                        <abbr>wh-</abbr>
+                    </choice> I have already referred. Men of genius are <choice xml:id="d1e9091">
+                        <sic>gely</sic>
+                        <corr resp="#hwg">generally</corr>
+                    </choice> ill to <lb/> live with.. But there are certain qualifications to be
+                    noted – <lb/> These scenes were never indulged in before men. Fred <lb/>
+                    Maitland for example <del>abso</del> resolutely refused to believe in <lb/> them
+                    when Caroline Emilia (the Quaker Sister) <lb/>
+                    <del>gently</del> tried to insinuate that Leslie <del>sometimes</del> had a
+                    <lb/> temper. If Thoby had presented these books or George <add change="#lay_1" rendition="#add_left">being the most<lb/> typical of<lb/>
+                        <choice>
+                            <expan>Victorians</expan>
+                            <abbr>Vctns</abbr>
+                        </choice></add>
+                    <lb/> the explosion <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been suppressed. <del>It was then</del>
+                    <lb/>
+                    <del>the woman who excited these rages.</del>
+                    <del>Was it then the</del>
+                    <lb/>
+                    <del>woman who excited these rages?</del>
+                    <del>I</del> Why <del>w</del> had he <lb/> no shame in front of women?
+                        <del>Because, I suggest,</del>
+                    <del>he</del>
+                    <lb/>
+                    <del>the woman was to him a</del> Partly of course because the <lb/> woman was
+                    his slave<del>; but</del><add>.</add> But that does not <lb/> explain the self
+                    dramatisation: the attitudinising; the <lb/> histrionic element; the breast
+                    beating; the groaning. <add change="#lay_1" rendition="#add_left"><choice>
+                            <expan>which</expan>
+                            <abbr>wh.</abbr>
+                        </choice> played so large a part <lb/> so &gt;disgusting a <lb/> part in <choice>
+                            <expan>these</expan>
+                            <abbr>thes</abbr>
+                        </choice> &gt;<lb/> these <choice>
+                            <expan>scenes.</expan>
+                            <abbr>scn</abbr>
+                        </choice></add>
+                    <lb/>
+                    <del>To explain that,</del>
+                    <del>it is</del>
+                    <del>is it</del>
+                    <del>&amp; its</del>
+                    <del>&amp; the</del>
+                    <lb/>
+                    <del>it is</del>
+                    <del>one must guess that</del>
+                    <del>the woman</del>
+                    <del>had</del> His <lb/>
+                    <del>absolute</del> dependence upon women perhaps explains <lb/> that. He needed
+                    always a woman to sympathise to <lb/> flatter. to console. <del>Why</del>
+                    <del>And</del> why? Because <lb/> he was conscious of <del>some</del>
+                    <add change="#lay_1" rendition="#add_inter">his own</add> failure, as a
+                    philosopher, as a <lb/> writer<del>?</del>: <del>Thus</del>
+                    <del>&amp; this failure</del>
+                    <del>If you</del>
+                    <del>It was</del>
+                    <lb/>
+                    <add change="#lay_1" rendition="#add_inter">But</add>
+                    <choice xml:id="d1e9296">
+                        <sic>His</sic>
+                        <corr resp="#hwg">his</corr>
+                    </choice> creed <del>however,</del>
+                    <del>that</del>
+                    <del>by which I mean</del>
+                    <add change="#lay_1" rendition="#add_left"><del>r</del> made him <lb/> ashamed
+                        to <lb/> confess <lb/> this need <lb/> of sympathy <lb/> to men.</add> the
+                    <lb/> attitude that his intellect made him, <del>ad</del>
+                    <lb/> adopt with men, <del>forbad</del> made him the most <lb/> modest, the most
+                    reasonable of men. <del>Thus to Fred <lb/> Maitland &amp; to Herbert Fisher he
+                        was <del>almost</del>
+                        <lb/> entirely without vanity without conceit. <del change="#lay_1">All</del>
+                        <add change="#lay_1" rendition="#add_left">Thus </add>
+                        <lb/>
+                        <del>And</del>
+                        <del>But</del> The <del>attitude</del> public attitude <lb/></del>
+                    <del>Then</del>
+                    <add change="#lay_1" rendition="#add_inter"><unclear reason="illegible" resp="#hwg"><del>I</del> think</unclear></add> Vanessa, on Wednesdays,
+                    was the recipient <del change="#lay_1">of</del>
+                    <lb/>
+                    <del change="#lay_1">many suppressions;</del>
+                    <add change="#lay_1" rendition="#add_left"> of <del>all</del> much
+                        <lb/>discontent, <lb/>that he had <lb/> suppressed; </add> &amp;
+                        <del>t</del> her refusal to accept her <lb/> role, part slave, part angel of
+                    sympathy, <lb/> exacerbated him so that he was probably <lb/> unconcious of his
+                    own barbarous violence. <del>And</del>
+                    <lb/>
+                    <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have been horrified had anyone said <del>to h</del> of</p>
+                <pb n="6"/>
+
+                <p><del>Nothing <choice>
+                            <expan>would</expan>
+                            <abbr>wd</abbr>
+                        </choice> have surprised him more <add rendition="#add_inter"><del>if some
+                                one had said</del>
+                        </add>
+                        <del>than to have been told</del>
+                        <lb/> as he said of <unclear reason="illegible" resp="#hwg">Ld H
+                            Sommers</unclear>: </del></p>
+                <p>If someone had <del>t</del> said straightout: <del>Stephen,</del> you are a <lb/>
+                    blackguard to treat a girl like that... he <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have <del>been</del> – <add change="#lay_1" rendition="#add_left">
+                        <unclear reason="illegible" resp="#hwg">felt _, _ _</unclear></add>
+                    <lb/>
+                    <del>completely</del>
+                    <del>surp</del>
+                    <del>taken aback.</del>
+                    <del>But a behaviour <lb/></del> what? I cannot conceive how he <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have taken an <lb/> honest <del>expressi</del> expression of opinion.
+                    And the reason is<lb/>
+                    <del>that</del> for that is to be found in the <del><del>extraordinary</del>
+                        <del>crudity of his</del>
+                        <add rendition="#add_right"><unclear reason="illegible" resp="#hwg">_ _
+                                lopsidedness</unclear></add><lb/>
+                        <add rendition="#add_inter">of his <del>ow</del> mind <unclear reason="illegible" resp="#hwg">_ _ </unclear></add> his
+                            <del>mind.</del>
+                        <del>Compared</del>
+                        <del>Was his</del>
+                        <lb/>
+                        <del>imagination cropped by his critical power?</del> of his <lb/>
+                    </del>
+                    <del>disparity of his</del>
+                    <del>limit</del> disparity, so obvious in his <lb/> books, between his critical
+                    &amp; his creative power. <lb/> Give him a <del>book</del> thought to analyse,
+                    the thought of <lb/> Mill, Bentham, Hobbes; &amp; he is (so Maynard has <lb/>
+                    told me) acute, clear, concise: a <add rendition="#add_inter">admirable</add>
+                    model of <lb/>
+                    <choice xml:id="d1e9612">
+                        <sic>the Cambride</sic>
+                        <corr resp="#hwg">Cambridge</corr>
+                    </choice>
+                    <del>analytical spirit</del>. <add change="#lay_1" rendition="#add_inter">But</add> Give him <del>a</del>
+                    <del>a</del>
+                    <lb/> life, <del>a character, &amp; (to me) his</del> a character, <lb/> &amp;
+                    he is so crude, so elememtary, so conventional <lb/>
+                    <del>lacking in might or in suggestive power, that <lb/></del>
+                    <del>when it</del>
+                    <del>there</del> that a child with a box of <lb/> coloured chalks is as
+                        <del>suggestive,</del> subtle a <lb/> portrait painter as he is.
+                        <del>This</del>
+                    <del>By way of</del>
+                    <add change="#lay_1" rendition="#add_inter">To</add>
+                    <lb/> explaining this, one <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> have <del>to digress:</del> to <lb/>
+                    <del>discover when it was that</del> discuss the crippling effect of <lb/>
+                    <choice xml:id="d1e9694">
+                        <sic>Cambride:</sic>
+                        <corr resp="#hwg">Cambridge</corr>
+                    </choice><del>to</del> &amp; its one sided education; &amp; to <lb/> follow that
+                    by a discussion of the professional <lb/> writer, in the 19th century; &amp; the
+                    crippling effect <lb/> of intensive brain work; &amp; to illustrate that <lb/>
+                    by his lack of any distracting interests – <lb/> music, art, the theatre,
+                    travel: a – <add change="#lay_1" rendition="#add_left">result of this
+                            <choice xml:id="d1e9718">
+                            <sic>an</sic>
+                            <corr resp="#hwg">a</corr>
+                        </choice>
+                        <lb/> lack of <lb/> distracting interests: <lb/> his lack of <lb/> any care
+                        for <lb/></add> one <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> have to <lb/> discover how much of this intensification <lb/> &amp;
+                    narrowness was natural; how much imposed <lb/> by circumstances. ___ But the
+                    fact does <lb/> seem to be that at the age of 65 he<lb/>
+                    <pb n="7"/>
+                    <del>he had no</del> he was almost completely <del>imprisoned.</del>
+                    <del>He</del>
+                    <lb/>
+                    <del>By no possibilty w. he</del>
+                    <del>shut up; imprisoned.</del>
+                    <del>He could no <lb/> more feel what we felt than as</del>
+                    <del>if he had been</del>
+                    <lb/> isolated, imprisoned. <del>He <del>co</del> had no</del>
+                    <del>Whole tracts of his</del>
+                    <lb/>
+                    <del>mind ha</del> sensitivity had atrophied. <del>Others were <lb/> abnormally
+                        acute. And he was</del> He had so <lb/>
+                    <del>had no</del> ignored <add change="lay_1" rendition="#add_inter">some of his <choice>
+                            <expan>sensitivity</expan>
+                            <abbr>sensity</abbr>
+                        </choice>
+                        <del>wh</del>was</add>, or covered up <add change="lay_1" rendition="inter">refused to <unclear reason="illegible" resp="#hwg">l_</unclear></add>, or
+                    disguised his own <lb/> feelings, that not only had he no conception of what
+                    <lb/> he <add change="lay_1" rendition="#add_inter"><unclear reason="illegible" resp="#hwg">w_</unclear></add> did &amp; said; he had no idea
+                        <del>that</del> of what <lb/> other people felt. <del>Thus</del> Hence the
+                    horror &amp; the terror of <lb/> these violent displays of rage. <add change="lay_1" rendition="#add_left">There was <lb/>something <lb/>blind, <lb/>
+                        <unclear reason="illegible" resp="#hwg">animal</unclear>, <lb/>savage.</add>
+                    He did not <del>t</del>
+                    <lb/> realise what he did. No one <choice>
+                        <expan>could</expan>
+                        <abbr>cd.</abbr>
+                    </choice> enlighten him. <lb/> He suffered. We suffered. There was no <lb/>
+                    possibility of communication. Vanessa stood silent. He sto</p>
+                <p>Here of course, <del>an impartia</del> from my distance of <lb/> time, I perceive
+                        <del>that</del> what one <choice>
+                        <expan>could</expan>
+                        <abbr>cd</abbr>
+                    </choice> not then see – the <lb/> difference of age. Two different ages
+                    confronted each other <lb/> in the drawing room at HPG: the Victorian age: &amp;
+                    the <lb/> Edwardian age. <del>The</del> We were not his children, but his <lb/>
+                    grandchildren. When we both felt that he was <lb/>
+                    <del change="#lay_1">not only</del><add change="#lay_1" rendition="#add_inter"><unclear reason="illegible" resp="#hwg">_</unclear></add> terrifying
+                    but also ridiculous we were <lb/> looking at him <del>with</del> with
+                        <del>the</del> eyes that saw <lb/> ahead of us something <del>i</del>
+                    – something so <lb/> easily seen now by every boy or girl of 16 &amp; 18
+                    that <lb/> the right is perfectly familiar ___ The cruel <lb/> thing was that
+                    while we could see the future, <lb/> we were completely in the power of the
+                    past. <lb/> That bred a violent struggle. By nature, both <lb/> Vanessa &amp; I
+                    were <del>roughly shea</del> explorers, revolutionists, <lb/> reformers.
+                        <del>But we were subjected to</del> But our <lb/>
+                    <del>family was</del> surroundings were at least <lb/>
+                    <del>a</del> fifty years behind the times. Father himself <lb/> was a typical <choice>
+                        <expan>Victorian</expan>
+                        <abbr>Vn</abbr>
+                    </choice>: George &amp; Gerald were <lb/>
+                    <unclear reason="illegible" resp="#hwg">impossibly</unclear> conventional. So
+                    that while we<lb/>
+                    <pb n="8"/> So that while we fought against them as individuals, we <lb/> also
+                    fought against them in their public capacity. <lb/> They were the <del>old
+                        age.</del>
+                    <del>To be an</del> We were <lb/> living say in 1910: They were living in
+                    1860.</p>
+                <p><del>In</del>
+                    <add change="#lay_1" rendition="#add_inter">In 22</add> Hyde Park Gate round
+                    about 1900 there <lb/> was to be found a complete model of Victorian society.
+                    <lb/> If I had the power to lift out a month of life <lb/> as we lived it about
+                    1900 I <del>sh</del> could <del>ta</del>
+                    <lb/> extract a section of Victorian life, <del>as</del> like <lb/> one of those
+                    cases, with glass covers, in which <lb/> one is shown ants or bees going about
+                    their <lb/> affairs. ___ Our day would begin with family breakfast <lb/> at
+                    8.30. Adrian bolted his; &amp; whichever of us, <lb/>
+                    <del>m</del> Vanessa or myself was down, would see him off. Standing <lb/> at
+                    the front door we would wave a hand till he <lb/> disappeared round the Martins
+                    bulging wall. <lb/> This was a <del>le</del> relic <del>of Stella's</del>
+                    <del>fr</del> left us by Stella – <lb/> a flutter of the dead hand which
+                    lay beneath the surface <lb/> of family life. <del>At 9.30 having</del> Father
+                    would <lb/> eat his breakfast sighing &amp; snorting. If no letters, "Everyone
+                    <lb/> has forgotten me" he would groan. A long envelope from <lb/> Barkers would
+                    mean of course a sudden roar. George &amp; <lb/> Gerald came down. Vanessa
+                    disappeared behind the <lb/> curtain. Dinner ordered she <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> dash for the red bus to <lb/> take her to the Academy. ___ If Gerald
+                    coincided, <del>th</del> he <lb/> would give her a lift in his daily hansom
+                    – the same<lb/> hansom, generally. The cabman in summer wore a carnation.
+                    <lb/> George having breakfasted more <unclear reason="illegible" resp="#hwg">liberally/deliberately</unclear>, – <del>if</del> sometimes <lb/> he
+                    would persuade me to sit on, in the 3cornered chair, &amp; <lb/>
+                    <del>h</del> tell me gossip from last <del><unclear reason="illegible" resp="#hwg">l_</unclear></del> nights party – he <lb/> too would
+                    button in his frock coat &amp; give <del>his</del>
+                    <lb/> top hat a promise with the velvet glove &amp; <lb/> disappear –
+                    smart, <add change="#lay_1" rendition="#add_inter">&amp;</add> debonair, with
+                        <add change="#lay_1" rendition="inter">in</add> his ribbed socks <lb/> &amp;
+                    very small well polished shoes, to the Treasury. <lb/> Left alone in the great
+                    house with father shut in his<lb/>
+                    <pb n="9"/> study at the top, the housemaid polishing brass rods, <lb/> Shag
+                    asleep on his mat, &amp; some maid doing bedrooms <lb/> while Sophie I suppose
+                    took in joints &amp; milk from <lb/> tradespeople at the back door, I mounted to
+                    my room &amp; <lb/> spread my Lidell &amp; Scott upon my table, &amp;
+                        <del>sit</del> sat <lb/> down to make out Euripides or Sophocles for my
+                    <lb/> bi-weekly lesson with Janet Case. <add change="#lay_1" rendition="#add_left">Clara Pater</add></p>
+                <p>From ten to one we escaped the pressure of <choice>
+                        <expan>Victorian</expan>
+                        <abbr>Vn</abbr>
+                    </choice> society. <lb/> Vanessa I suppose under the eye of Val Prinsep or <lb/>
+                    Ouless or occasionally Sargent painted from the life – <lb/> she <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> bring home now &amp; then very careful pencil <lb/> drawings of Hermes
+                    perhaps &amp; <del>we woul</del> spray them <lb/> with fixative; or an oil head
+                    of a very histrionic looking <lb/>
+                    <del change="#lay_1">old man</del>
+                    <add change="#lay_1" rendition="#add_inter">male<choice>
+                            <expan>model</expan>
+                            <abbr>md</abbr>
+                        </choice></add>. And for the same 3 hours I would <lb/> be reading perhaps
+                    Plato's Republic, or spelling out a <lb/> Greek chorus. ___ <del>There</del>
+                    <del>In</del> Our minds would escape <lb/> to the world which on <add change="#lay_1" rendition="#add_inter">at</add> this <add change="#lay_1" rendition="#add_inter"><unclear reason="illegible" resp="#hwg">_</unclear></add> November morning of 1940 <lb/> she inhabits at
+                    Charleston, &amp; I <del>at</del> in my garden room at <lb/> Monks House. __ Our
+                    clothes <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> not be much <lb/> different. She wore a blue painting smock; I <lb/>
+                    perhaps a blouse &amp; skirt. If our skirts were longer, <lb/> that <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> be the only difference. Forty years ago she was <lb/> rather tidier,
+                    rather better dressed than I.</p>
+                <p>The change <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> come <del>with</del> in the afternoon. About 4.30 <lb/> Victorian
+                    society <del>insiste</del> exerted its pressure: <lb/>
+                    <add change="#lay_1" rendition="#add_left">In the first<lb/> place</add> Then we
+                    must be 'in'. For at 5 father must be <lb/> given his tea. And we must be better
+                    dressed, &amp; <lb/> tidier, for Mrs Green was coming, Mrs H Ward was coming:
+                    <lb/> or Florence Bishop; or C.B. Clark; <del>or</del> or .... <lb/>
+                    <del>From 5 to 7.30 Vanessa would have to sit at that <lb/> table.</del> We <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have to sit at that table, either <lb/> she or I, decently dressed,
+                    having nothing better to do, <lb/> ready to talk; <pb n="10"/> we both still
+                    are. It is the manner <del>in</del> which when the <lb/> front door bell <choice xml:id="d1e10314">
+                        <sic>rang <del>we exuded.</del>
+                            <del>It was</del> was</sic>
+                        <corr resp="#hwg">rang</corr>
+                    </choice>
+                    <lb/>
+                    <del>imposed by</del> we used <del>to m</del>
+                    <del>with</del> to <del>encounter</del>
+                    <lb/>
+                    <del>entertain say</del> receive whoever it might be – <del>say</del>
+                    <add>Say</add>
+                    <lb/> it was Ronny Norman. Suppose that <del change="#lay_1">Elsa Bell</del>
+                    <add change="#lay_1" rendition="#add_inter">Eveline Godley</add>; &amp; <lb/>
+                    Florence Bishop &amp; Mr Gibbs arrived at 10 minutes <lb/> intervals. We <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> have to be ready with small talk; <lb/> ready to take father's trumpet
+                    &amp; convey whatever was <lb/> likely to help: ready to take our part –
+                    in what? <lb/> Not argument; <del>but</del> nor gossip. <del>Rather a</del> I
+                    suppose a <unclear reason="illegible" resp="#hwg">_</unclear>
+                    <lb/> exactly, no gossip exactly. The older visitors <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> be <lb/> sacrificed to father: given a chair beside him; entrusted
+                    <lb/> with the end of the trumpet. Then Ronny Norman <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice>
+                    <lb/> be boyish, hearty: Elsa Bell <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> be worldly; <lb/> Florence Bishop a little flighty. The conversation <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> be <lb/> lighter than now; more mannered; jokes <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> be <lb/>
+                    <choice xml:id="d1e10419">
+                        <sic>laughted</sic>
+                        <corr resp="#hwg">laughed</corr>
+                    </choice> at: Sir Leslie <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> give a groan; his health <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> be <lb/> discussed; R. N <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> say (if F B. got going with father) <lb/> something about an awfully
+                    jolly play or picture: <lb/> I <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> plunge rather sublimely say with Eveline <lb/> Godley into talk about
+                    the Navy: Elsa Bell <lb/>
+                    <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> say that she expected her brothers to take off <lb/> their hats if
+                    they met her in the street; <lb/> father <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> be irritated; F B would too &amp; <lb/> withdraw her unlucky remark
+                    – that he looked <lb/> well; R. N. <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> ask him if he remembered <lb/>
+                    <add change="#lay_1" rendition="#add_left">Mr <unclear reason="illegible" resp="#hwg">Carlyle</unclear></add>
+                    <del change="#lay_1">Mill</del>; he <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> unbend – for he liked R N. – &amp; <del>t</del> say
+                    <lb/> how he had met Mill with his father in <del>the</del> Chelsea –
+                    <lb/> oh dear – the old stories he <choice>
+                        <expan>would</expan>
+                        <abbr>wd.</abbr>
+                    </choice> say... well the <lb/> talk had its little steeps &amp; waterfalls
+                    – its dangers: but <lb/> it went something like that: &amp; the whole was
+                    <lb/> enclosed <del change="#lay_1">by</del>
+                    <add change="#lay_1" rendition="#add_inter">in</add> the <choice>
+                        <expan>Victorian</expan>
+                        <abbr>Vn</abbr>
+                    </choice> manner. ___ It may have <lb/> been natural for R. N. for E. G. for
+                    Miss Bishop. <lb/> It was not natural for V. &amp; myself. We learnt it. <lb/>
+                    <del>We</del> We learnt it partly from memory: <del>Stel</del><lb/>
+                    <pb n="11"/> &amp; mother had that manner: <del>we</del> it was imposed on us
+                    partly <lb/> by the other side – if R N. said that, we had to reply <lb/>
+                    in the same style. __ Nobody ever broke the convention. <lb/>
+                    <del>One</del> If you listened, <add rendition="#add_inter">(</add>as I did<add rendition="#add_inter">)</add>, it was like watching a game – <lb/>
+                    one had to know the rules. And those rules have <lb/> been of use later. But
+                    they have also been <lb/> a drawback. __ The <choice>
+                        <expan>Victorian</expan>
+                        <abbr>Vn</abbr>
+                    </choice> manner is useful now on <lb/> meeting strangers; or going to meetings
+                    in the village. <lb/> But it affected me as a writer too. When I began to <lb/>
+                    review books I was so conscious of the <choice>
+                        <expan>Victorian</expan>
+                        <abbr>Vn</abbr>
+                    </choice> manner in <lb/> Bruce Richmond: so conscious, if I were writing about
+                    a <lb/> man book, that I must adopt a certain tone in <lb/> intercourse with
+                    elderly men, with young men, that <lb/> when I reread some of my old articles I
+                    lay the blame for <lb/> the suavity the politeness (<choice>
+                        <expan>which</expan>
+                        <abbr>wh.</abbr>
+                    </choice> is out of place there) upon <lb/> my teatable training. __ I see
+                    myself handing plates of buns, &amp; <lb/> asking the nice young man in a tail
+                    coat wether he <lb/> wants sugar &amp; cream.</p>
+                <p>
+                    <del><del>The Victorian</del> pressure of <choice>
+                            <expan>Victorian</expan>
+                            <abbr>Vn</abbr>
+                        </choice> society grew heavier &amp; <lb/>
+                        <del>more &amp; more apparent</del> heavier as the evening wore on. </del>
+                </p>
+                <p><add change="#lay_1" rendition="#add_left">Lynts. <lb/> Glam.</add> We both
+                    learnt the rules of the Victorian game of <lb/> manners so thoroughly that we
+                    have never forgotten them. <lb/> We still play the game. It is useful; it has
+                    its beauty, <lb/> for it is founded upon restraint, sympathy, unselfishness
+                    – all <lb/> civilized qualities. <del>But</del> It is helpful in
+                        <del>the</del>
+                    <lb/> making <del>odds &amp; ends,</del>
+                    <del>there</del> something seemly &amp; <lb/> human out of raw odds &amp; ends.
+                        <choice xml:id="d1e10328">
+                        <sic>But</sic>
+                        <corr resp="#hwg"><del>But</del></corr>
+                    </choice>
+                    <del>it is not</del>
+                    <lb/>
+                    <del>its effect upon</del> But the Victorian manner is <lb/> perhaps – I
+                    am not sure – a disadvantage in writing. <lb/> Whe I re-read my old
+                    Common Reader articles <lb/> I detect it there. I lay the blame for their <lb/>
+                    suavity their politeness, their sidelong approach <lb/> to my tea table
+                    training. I see myself handing <lb/> plates of buns to <del>nice</del>
+                    <add change="#lay_1" rendition="#add_inter">shy</add> young men &amp; asking<lb/>
+                    <pb n="12"/> asking them, not <del>about</del> directly &amp; simply about their
+                    poems or their <lb/> novels, but wether they like cream as well as sugar. On the
+                    <lb/> other hand, this surface manner allows one to <lb/>
+                    <del>insinuate</del>
+                    <del>say a great many things <del>that</del> in an <lb/> undertone.</del>
+                    <choice xml:id="d1e10732">
+                        <sic><del change="#lay_1">slip</del>in</sic>
+                        <corr resp="#hwg"><del change="#lay_1">slip in</del></corr>
+                    </choice>
+                    <add change="#lay_1" rendition="#add_inter">say</add> a great many things which <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> be <lb/> inaudible if one marched straight up &amp; spoke out. <lb/>
+                    It was when the lights went up in the evening that <lb/>
+                    <del>the</del> society came into force. <del>So long as it was day,</del>
+                    <lb/>
+                    <del>a</del>
+                    <del>In daylight <del>there</del> are</del> During daylight one <add change="#lay_1" rendition="#add_right">could wear overcoats:</add><lb/>
+                    works: there was the Academy for Nessa; my <lb/> Liddell &amp; Scott &amp; the
+                    Greek choruses for me. But in the <lb/> evening <choice xml:id="d1e10779">
+                        <sic>one</sic>
+                        <corr resp="#hwg"><del>one</del></corr>
+                    </choice>
+                    <del>p</del>
+                    <del>puts off</del>
+                    <del>plays.</del>
+                    <del>One is</del>
+                    <del>One</del> Society <lb/>
+                    <del>became</del> had it all its own way. ___ At seven <lb/> thirty we went up
+                    stairs to dress. However cold or <lb/>
+                    <unclear reason="illegible" resp="#hwg">foggy</unclear> it might be, we slipped
+                    off our day clothes &amp; <lb/> stood shivering in front of washing basins Neck
+                    &amp; arms <lb/> had to be scrubbed, for we had to come into the <lb/> drawing
+                    room at 8 o'clock in evening dress: <add change="#lay_1" rendition="#add_right">: arms &amp; neck bare.</add>
+                    <lb/> Dress &amp; hairdoing became far more important than <lb/>
+                    <del>b</del> pictures &amp; Greek. I <choice>
+                        <expan>would</expan>
+                        <abbr>wd</abbr>
+                    </choice> stand in front of <lb/> Georges Chippendale glass trying to make
+                    myself not only <lb/> tidy but presentable. On an allowance of £50 <lb/> it was
+                    difficult, even for the skilful, to be well <lb/> dressed of an evening. For
+                    though a home dress <choice>
+                        <expan>could</expan>
+                        <abbr>cd</abbr>
+                    </choice> be made <lb/> by Jane Bride, at a cost of a pound or two, a party
+                    dress <lb/> cost perhaps £15.15 if made by Mrs Young. ___ The <lb/> home dress
+                    therefore might be, as on this <del>occasion</del>
+                    <lb/> particular night, made of a green stuff, bought <lb/> erratically at a
+                    furniture shop, Storys, because <lb/> it was cheaper than dress stuff: <del change="#lay_1">&amp;</del>
+                    <add change="#lay_1" rendition="#add_inter">also</add> more adventurous. <lb/>
+                    Down I came, in my green evening dress; all the <lb/> lights were up in the
+                    drawing room; &amp; there was <lb/> George, in his black tie &amp; evening
+                    jacket <add change="#lay_1" rendition="#add_inter">in the chair by the
+                        fire</add>. ___ He <lb/> fixed on me<del>his</del> that extraordinarily
+                    observant <add change="#lay_1" rendition="#add_right">manic</add><lb/> gaze
+                        <del>which he</del> with <choice>
+                        <expan>which</expan>
+                        <abbr>wh.</abbr>
+                    </choice> he always inspected <lb/>
+                    <del>womens</del> clothes. ___ He looked me up and down as if<lb/>
+                    <pb n="13"/> were a horse turned into the ring. Then the sullen look came over
+                    him; <lb/> a look <del change="#lay_1">in which one traced</del>
+                    <add change="#lay_1" rendition="underlined">which</add>
+                    <add change="#lay_1" rendition="#inter">expressed</add> not <del>only the</del>
+                    merely aesthetic <lb/> disapproval; but something that went deeper: <choice xml:id="d1e10318">
+                        <sic>he</sic>
+                        <corr resp="#hwg"><del>he</del></corr>
+                    </choice><lb/>
+                    <del>disapproved</del> morally, <choice>
+                        <sic>socially;</sic>
+                        <corr resp="#hwg">socially,</corr>
+                    </choice> he scented some kind of <lb/> insurrection: <add change="#lay_1" rendition="#add_inter">a</add> defiance of social standards. ___ I <lb/> was
+                    condemned from many more points of view than I can <lb/> analyse as I stood
+                    there, <del change="#lay_1">feeling every one</del>
+                    <add change="#lay_1" rendition="#add_inter">conscious of</add>
+                    <choice xml:id="d1e10958">
+                        <sic> of there</sic>
+                        <corr resp="#hwg"><del change="#lay_1">of</del>their</corr>
+                    </choice>
+                    <lb/> criticisms; &amp; conscious too of fear, of shame, &amp; of despair
+                    – for <lb/> a new dress was <del>a</del>
+                    <del>great</del> a <del>serious outlay</del>. "Go &amp; tear it up" <lb/> he
+                    said at last, in that curiously rasping &amp; peevish voice <lb/> which
+                    expressed his serious displeasure at this <lb/> infringement of a code that
+                    meant more to him than he <lb/> would admit. <del>The passion</del></p>
+                <p>For he accepted Victorian society <del>so</del>
+                    <del>more</del>
+                    <add rendition="#inter">so</add>
+                    <lb/> implicitly <del>than</del> that an archaeologist would <lb/> find him of
+                    the greatest interest. Like a <lb/> fossil he had taken every crease &amp;
+                    wrinkle of the <lb/> conventions of <del change="#lay_1">1900</del>
+                    <add change="#lay_1" rendition="#add_inter">1890-1900</add>. He was made <del>of
+                        the</del>
+                    <lb/> presumably of <del>some m</del> precisely the right <lb/> material. He
+                    flowed into the mould with <lb/> out a doubt to mar the pattern. ___ If father
+                    <lb/> had graved on him certain large marks of the age – <lb/> his belief
+                        <del>in the</del> that women must be <lb/> pure &amp; men strong –
+                    his hatred of impropriety – <lb/> "Damn!" Gerald exclaimed once, &amp; up
+                    flew his hands <lb/> in protest – Rezia smoked a cigarette after <lb/>
+                    tea – <del>My</del> I wont have my drawing room turned into a <lb/> bar
+                    parlour! he exclaimed – he smoothed out <lb/> the petty details of the
+                        <del>co</del>
+                    <choice>
+                        <expan>Victorian</expan>
+                        <abbr>Vn</abbr>
+                    </choice> code with his <lb/> admirable intellect, his respect for reason
+                    – no one, <lb/>
+                    <del>I th</del>
+                    <del>b</del> was less snobbish than he was – no one <lb/>
+                    <del>noticed</del> cared less for rank &amp; luxury – <lb/> George
+                        <del>took the</del> filled in the large marks <lb/> with a criss cross, a
+                    spiders web, of the most <lb/> minute details. No more perfect
+                        <del>specimen</del><lb/>
+                    <pb n="14"/> fossil of <del>the</del> Victorian society could exist. And so,
+                    while <lb/>
+                    <del>father</del> father preserved the framework of 1860, <lb/> George filled in
+                    the framework with all kinds of <lb/> minutely teethed saws; &amp; the machine
+                    <lb/> into which we were inserted in 1900 was <lb/> about as complete a specimen
+                    as could exist. <add change="#lay_1" rendition="#add_right">Therefore held us
+                        <lb/> tight; &amp; <lb/> brought innumerable <lb/> teeth into <lb/>
+                        play.</add></p>
+                <p>What kind of material was George made of? <lb/> What can he have been made of to
+                    take the <lb/> pattern so completely?</p>
+                <p>He had very little brain, in the first place. &amp; <lb/> He had an abundance of
+                        <del>crude</del> emotion. This <lb/> mixture was <del>contained</del>
+                    <del>in a magnificent body.</del>
+                    <add rendition="#add_right">He was</add><lb/> poured into a perfectly adapted
+                    body. <add change="#lay_1" rendition="#add_inter"> vessel</add>. He was <lb/>
+                    <del>perfectly</del>
+                    <del>as well built, as</del>
+                    <del>in</del> extremely handsome, <lb/> perfectly healthy; &amp; as well set up
+                    as a young <lb/> man <choice>
+                        <expan>could</expan>
+                        <abbr>cd</abbr>
+                    </choice> be. Thus whenever he appeared, <lb/> society opened its arms It
+                    welcomed him. It <lb/> embraced him. <del>He was</del>
+                    <del>No</del> He can never have <lb/> met with <add change="#lay_1" rendition="#add_inter">any</add> opposition, either at Eton, or at <lb/>
+                    Cambridge, or in London – from society; if society is <lb/> taken to mean
+                        <choice xml:id="d1e11230">
+                        <sic>the</sic>
+                        <corr resp="#hwg"><del>the</del></corr>
+                    </choice><del>world that</del> the upper middle <lb/> class world in a drawing
+                    room in the evening. <lb/> He was so without brains that he never <lb/> strayed
+                    beyond that circle. He was never rebuffed <lb/> or criticised because he never
+                    put himself into a <lb/> position where he encountered criticism. ___ In <lb/>
+                    addition, he had something like a thousand a year. <lb/> He could play his part
+                    so far as clothes, guns, <lb/> horses were needed. ___ And as the world <lb/>
+                    accepted him, praised him. &amp; gave him all he <lb/> wanted, he <choice xml:id="d1e11263">
+                        <sic>was</sic>
+                        <corr resp="#hwg"><del>was</del></corr>
+                    </choice>
+                    <del>not</del> found it <lb/> impossible to imagine any defiance: he found <lb/>
+                    defiance silly, foolish, unwise, in fact <lb/> immoral. My green dress was no
+                    doubt <lb/>
+                    <del>a</del> obscurely a criticism of himself. <add change="#lay_1" rendition="#add_left">Gerald I remember <lb/> with gratitude, said <lb/>
+                        good naturedly: <lb/> I dont agree. I <lb/> like it. George <lb/> was
+                            <unclear reason="illegible" resp="#hwg">upset</unclear>. <unclear reason="illegible" resp="#hwg">Dissent</unclear><lb/> was a torture.
+                        <lb/> And, to my discredit, <lb/> I never wore that <lb/> dress if <lb/> G.
+                        was <lb/> at home.</add></p>
+
+                <pb n="15"/>
+
+                <p>Florence Bishop had said that she thought him looking <lb/> remarkably well. This
+                    was an insult – a <lb/> breach of the code <del>between himself &amp; the
+                        world</del>: <lb/>
+                    <del>&amp; he</del>
+                    <del><choice>
+                            <expan>which</expan>
+                            <abbr>wh.</abbr>
+                        </choice> made it necessary for him<lb/></del>
+                    <choice xml:id="d1e11341">
+                        <sic>he</sic>
+                        <corr resp="#hwg"><del>he</del></corr>
+                    </choice>
+                    <del>must</del> it was essential that he <choice>
+                        <expan>should</expan>
+                        <abbr>shd.</abbr>
+                    </choice>
+                    <del>ha</del>
+                    <lb/> receive sympathy. And so <del>it</del> we must break off our <lb/> talk
+                    with R. N. &amp; <del><unclear reason="illegible" resp="#hwg">_</unclear></del>
+                    <unclear reason="illegible" resp="#hwg">_</unclear> that the weight of the<lb/>
+                    speaking trumpet <choice>
+                        <expan>should</expan>
+                        <abbr>shd</abbr>
+                    </choice> fall upon him. He played up <lb/> admirably. <del>For</del> He was the
+                    right type of young man – <lb/> manly, affectionate.. And father,</p>
+
+            </div>
+        </body>
+    </text>
+</TEI>

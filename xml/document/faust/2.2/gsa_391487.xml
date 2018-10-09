@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391487/">
+   <revisionDesc>
+      <change when="2013-01-08" who="henzel">imported</change>
+      <change when="2013-01-08" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>  
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Brief an Maria Pawlowna Großherzogin von Sachsen-Weimar-Eisenach, 26.3.1830 WA IV 46,282, Konzept egh</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.55</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,20</idno>
+      <idno type="gsa_2">GSA 25/W 1547</idno>
+      <idno type="gsa_ident">391487</idno>
+      <idno type="wa_faust">2 II H.55</idno>
+      <!-- Paralipomenon 154, Hecker-Nummer 175 -->
+      <!-- Paralipomenon 155 -->
+      <textTranscript uri="391487.xml"/>
+      <classification>Konzept</classification><!-- ARB: Reinschrift mit Korrekturen, Entwürfe -->
+      <condition>im unteren Bereich der Vorderseite zwei Flecken (blau und braun); Vergilbungen am oberen Rand <!-- obere linke Ecke war geknickt --></condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">330</height>
+      </dimensions>
+        <format>2</format>
+        <edges>cut</edges>
+        <paperType>Schreibpapier</paperType>
+        <paperColour>hellgelblich</paperColour>
+        <chainLines unit="mm">28</chainLines>
+        <paperMill>Stützerbach</paperMill>
+        <watermarkID>verschlungenes "JGH" über "N 3"</watermarkID><!-- ABR: verschlungenes `G H' über `N 3 (Stuetzerbacher Wappenpapier) -->
+        <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 54</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 512</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 222</reference>
+         <!-- P154 und P155 -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 512f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 660</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 54f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 514</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf><!-- Reihenfolge entgegengesetzt zu ABR -->
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>um den 26.3.1830</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Verschiedene Entwürfe zur `Klassischen Walpurgisnacht', die anhand des ebenfalls auf dem Blatt befindlichen, sehr wahrscheinlich jedoch nach den `Faust'-Entwürfen niedergeschriebenen Briefkonzepts an Maria Paulowna vom 26. 3. 1830, vor eben diesem Datum anzusetzen sind (vgl. auch Fischer-Lamberg, S. 54).</p>
+            <p>Z. 3f. (<b>P155</b>): Im gleichen Duktus wie die Korrekturen zu V. 8333ff. direkt in den Entwurf der Verse 8331-8338 eingetragen und von Goethe trotz des abweichenden Metrums wohl für diesen Zusammenhang bestimmt. Entsprechend wird in der WA Proteus als Sprecher angegeben.</p>
+            <p>Z. 18-21: Diese schlecht lesbaren Bleistiftzeilen an den Rändern des Blattes könnten auch nach dem Briefkonzept vom 26. 3. 1830 entstanden sein. Hecker druckt diese Zeilen ("Du bist ein Gast das kann ich leiden/ Du mußt [Unleserliches]") als Paralipomenon Nr. 151 und kommentiert: "Sphinxe und Mephistopheles". Witkowski (S. 445) dagegen liest: "Du bist ein Geist, das kann ich leiden, Du mußt..." und vermutet: "Nereus zu Homunkulus? Oder Proteus zu Thales, vgl. 8335ff?" Lesung und Zuordnung bleiben unsicher.</p>
+            <p>Z. 34 H] Nachträglich eingefügte Sprecherangabe: Homunculus.</p>
+            <p>Z. 36 Th] Nachträglich eingefügte Sprecherangabe: Thales.</p>
+            <p>Z. 40-45 (<b>P154</b>): Auch diese zum Teil kaum zu entziffernden Zeilen stehen deutlich im Entwurfszusammenhang: Wahrscheinlich Nereus (so WA) spricht über das Wesen der Menschen; vgl. die Rede des Nereus, V. 8096ff. und 8106ff.</p>
+            <p>Z. 40f.: Erich Schmidt liest "In eurem Irrthum euch entfalten/ Die Welt durch mich [? euch? doch auch?] nicht kann be.."; Alt (und in der Folge auch Witkowski, Hecker, Weitz) geben Z. 40 als "In euren Irrtum euch entst[ellt?]". Für das letzte Wort in Z. 41 schlägt Hecker die Ergänzung "bewirken" vor.</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

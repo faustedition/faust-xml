@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391525/">
+   <revisionDesc>
+      <change when="2012-10-02" who="bruening">imported</change>
+      <change when="2012-11-15" who="henzel">imported</change>
+      <change when="2012-11-15" who="henzel">encoded</change>
+      <change when="2013-01-23" who="henzel">aktualisiert</change>
+      <change when="2014-01-20" who="bruening">Zum Problem der Introduction.</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>Die eigenhändigen Niederschriften sind von Gustav Schueler (wie auch in
+         faust://document/wa_faust/2_V_H.e) als solche gekennzeichnet.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.37a</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,39</idno>
+      <idno type="gsa_2">GSA 25/W 1737</idno>
+      <idno type="gsa_ident">391525</idno>
+      <idno type="wa_faust">2 V H.d</idno>
+      <!-- P208 -->
+      <!-- P209, Hecker-Nr. 241 -->
+      <textTranscript uri="391525.xml"/>
+      <classification>Konzept</classification>
+      <!-- ABR: Reinschrift/Entwurf -->
+      <history>aus dem Besitz Gustav v. Loepers Oktober 1888 erworben</history>
+      <condition>leicht fleckig, untere linke Ecke war geknickt</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"JGH" über "N 3"</watermarkID>
+      <!-- ABR: "G H" über "N 3" -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <reference type="description" uri="faust://bibliography/katalog_der_berliner_goethe-ausstellung1861">S. 22,
+            65<!-- Stellen aus der Schlußscene des 2ten Theils des Faust, theils von Goethe mit Bleistift, theils vom Schreiber mit Tinte geschrieben. 2 Bl. fol.
+            Im Besitze des Herrn v. Loeper in Berlin. --></reference>
+         <reference type="description" uri="faust://bibliography/duentzer1868">Tl. 2, S.
+            301</reference>
+         <reference type="n.s." uri="faust://bibliography/duentzer1868">Tl. 2, S.
+            301–304</reference>
+         <!-- TODO type nachtragen -->
+         <reference type="description" uri="faust://bibliography/loeper1870">Tl. 2, S. 258, Nr.
+            14</reference>
+         <reference type="description" uri="faust://bibliography/loeper1879a">Tl. 2, S. 324, Nr.
+            25</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 197</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 791</reference>
+         <reference type="text" uri="faust://bibliography/loeper1879a">Tl. 2, S. 352f.</reference>
+         <!-- ABR: Hempel 1879, S. 352f. (P208, P209) -->
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 165, 246f.</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 197f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 791-793</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 733f.</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 198f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 793</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Das Einweisungszeichen vor „Introductio“ wird als als schon ursprünglich vorhanden
+               aufgefasst. Dagegen, dass in der dritten Zeile zunächst nur „Introductio“ stand,
+               spricht die horizontale Position des Worts. Mittig wurde erst das Einweisungszeichen
+               gesetzt, ohne dass es vermutlich einen hierhin eingewiesenen Text gab. Zum Ersatz
+               umschrieb Goethe die Funktion mit dem Wort „Introductio“. Die dadurch markierte
+               Stelle wurde aber nicht gefüllt, sondern wahrscheinlich schon unmittelbar nach der
+               Niederschrift des vorübergehend ersten Verses der Rede des Doctors und zusammen mit
+               diesem Vers getilgt.</note>
+            <docTranscript uri="0004.xml"/>
+            <!-- <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">   
+      <f:datierung>Dez. 1830 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Auch diese Arbeitshandschrift wurde von Hertz der Arbeitsphase im Winter 1830
+               zugeordnet, als Goethe mit der Szene `Bergschluchten' beschäftigt war. (Hertz,
+               Entstehungsgeschichte Faust II Akt 5, S. 263.) Da das verwendete Papier und die
+               Schrift auf der Vorderseite jedoch Ähnlichkeiten mit V H2 aufweisen, vermutet
+               Landeck, daß "der `Chor der Engel' als Bruchstück für die Fortsetzung der
+               Grablegungsszene 1826 bereits vorgelegen hat." (Landeck, S. 198.) Die in der Tat zu
+               beobachtende Ähnlichkeit kann allerdings nicht als sicherer Datierungsgrund gewertet
+               werden, denn es handelt sich um eine häufig verwendete Papiersorte. Mit großer
+               Wahrscheinlichkeit lassen sich zumindest die Überarbeitungen von Goethes Hand
+               (zunächst mit Tinte, dann mit Blei) der Arbeitsphase im Dezember 1830 zuweisen, das
+               gleiche gilt für den Bleistiftentwurf auf der Rückseite von V Hd. Zum Verhältnis von
+               V Hd und V He stellt Landeck fest: "HdRs ist als die vorübergehende Reinschrift des
+               Entwurfs He zu betrachten." Andererseits läßt sich V Hd als Vorstufe zu V Hc
+               bestimmen (Landeck, S. 199). </p>
+            <p>Z. 8 seh] Landeck irrtümlich: "sah".</p>
+            <p>Z. 23f. Die hohe Geisteskraft] Entwurfszeilen für die Chöre der Engel (im Anschluß an
+               V. 11970?) Strehlke kommentiert (S. 141): "Ein später mit Recht aufgegebenes Motiv,
+               da bei der Himmelfahrt Fausts geistige Bedeutung nicht in Betracht kommt." Vgl. aber
+               V. 11958!</p>
+            <p>Z. 44-46 <b>(P208 Var)</b>: Diese Entwurfszeilen sind mit Verweiszeichen zwischen V.
+               11996 und 12013 verwiesen, waren also für die Verse des Doctor Marianus vorgesehen.
+               Vgl. im endgültigen Text V. 12001ff.</p>
+            <p>Z. 47f. <b>(P209)</b>: Auf den "bestaubten" Erdenwanderer Faust bezogene Notiz eines
+               Zweizeilers, den Goethe in verschiedenen Varianten ausprobiert (vgl. V He, Z. 24f. u.
+               37f., hier S. 789), schließlich jedoch nicht in den Text aufgenommen hat. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

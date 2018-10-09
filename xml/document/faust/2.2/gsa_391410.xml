@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391410/">
+<revisionDesc>
+   <change when="2012-12-10" who="henzel">imported</change>
+   <change when="2012-12-10" who="henzel">encoded</change>
+   <change when="2015-02-04" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">WA-Nr. Brief</change>
+   <change when="2015-03-10" who="henzel">Lagenstruktur veraendert</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Eigenhändiges Konzept mit Bleistift: Brief an Heinrich Gustav Hotho, 19.4.1830, WA IV 47,26-28 (WA-Nr. 47023); Aufschrift Eckermanns mit Tinte "Ehrendiplom des Nürnberger Künstlervereins."</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.31a</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,33</idno>
+      <idno type="gsa_2">GSA 25/W 1522</idno>
+      <idno type="gsa_ident">391410</idno>
+      <idno type="wa_faust">2 II H.31a</idno>
+      <textTranscript uri="391410.xml"/>
+      <classification>Konzept</classification>
+      <condition>am Rand fleckig; ursprünglich war der Bogen in die entgegengesetzte Richtung und zusätzlich auf Quart gefaltet</condition>
+      <dimensions>
+         <width unit="mm">211</width>
+         <height unit="mm">349</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 206 mm. Der Mindestwert der Blatt-Höhe beträgt 346 mm.</note>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 567</reference>
+         <reference type="description" uri="faust://bibliography/wa_IV_47">S. 326</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 44</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 44</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/><!-- Eckermanns Notiz ist erste Niederschrift auf Bogen -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/><!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>um den 19.4.1830</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

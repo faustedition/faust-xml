@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-06" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="192" facs="gjb_5_0192-0193.jpg"/>
+            <div type="letter">
+                <head type="editorial">An Schinz. <date when="1775-06-15">15. Juni
+                    1775.</date></head>
+                <p>Hr. Lav. hat Göthen und die Grafen von Stolberg zu mir gebracht<anchor
+                        xml:id="N1"/><ref target="#F1"><hi rend="sup">3</hi></ref>. Ich habe auch
+                    Göthen bei Lav. einen Besuch gemacht. Die Grafen haben ein Landhaus in der
+                        Enge<anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">4</hi></ref>
+                    gemiethet. Hr. Lav. hat Göthen eine vortheilhafte opinion von mir gemacht, die
+                    ich noch nicht verdorben habe. Er ist mit meiner Munterkeit am besten zufrieden.
+                    Er hat Brutus und Cassius für niederträchtig erklärt, weil sie den Cäsar ex
+                    insidiis, von hinten, um das Leben gebracht haben. Ich sagte, dass Cäsar sein
+                    Leben durch nichts anderes gethan, als die Republik, seine Mutter, getödtet, und
+                    die meiste Zeit durch falsche Wege. Cicero ist nach ihm ein blöder Mann, weil er
+                    nicht Cato war. Es ist sonderbar, dass ein Deutscher, der die Unterthänigkeit
+                    mit der äussersten Unempfindlichkeit erduldet, solche Ideale von
+                    Unerschrockenheit hat. Ist nicht Wehrter der blödeste, feigherzig[st]e Mann?
+                    Aber es scheint, der Verf. halte die Feigheit, welche den Schmerzen der Liebe
+                    durch den Tod entflieht, für Stärke der Seele. <milestone unit="testimony"
+                        spanTo="#pniower_19_end" xml:id="pniower_19"/>Man sagt, Göthe wolle bey uns
+                    an einem <rs>Trauerspiel von Dr. Faustus</rs> arbeiten. Eine Farçe lässt sich
+                    von einem Schwindelkopf leicht daraus machen.<anchor xml:id="pniower_19_end"/>
+                    Die Stollbergen sind gute Menschen. Sie brachten <pb n="193"
+                        facs="gjb_5_0192-0193.jpg"/>mir die stärksten Grüsse von Klopstok<anchor
+                        xml:id="N3"/><ref target="#F3"><hi rend="sup">1</hi></ref>, den sie vor
+                    kurzer Zeit in Hamburg gesprochen. Der jüngere will ein Bewunderer Homers seyn,
+                    ein Homerist; ich sagte, dass wir demnach von einer Sekte wären; wir wollten
+                    eine homerische Kirche anbauen, wie Lav. eine gottselige, ich durfte nicht sagen
+                    fanatische. Man sagt, sie seyen klopstokische Bardisten und von einer
+                    Gesellschaft, welche sich mit Eichenlaub kränzt, und den Braga für ihren Apollo
+                        verehrt<anchor xml:id="N4"/><ref target="#F4"><hi rend="sup">2</hi></ref>.
+                    An ihren festlichen Zusammenkünften verbrennen sie diesem Apollobraga ein
+                    Wielandisches Gedicht. Denn Wieland ist für den griechischen Apollo .... Hr.
+                    Lav. hat sich bey Hr. Dr. Hirzel nicht empfohlen, dass er diese Hrn nicht auch
+                    zu ihm geführt hat. Er hatte diese Höflichkeit doch mit dem Feuer verdient, mit
+                    welchem er gegen das Sendschreiben<anchor xml:id="N5"/><ref target="#F5"><hi
+                            rend="sup">3</hi></ref> entonirt hat. Er hat sie auch nicht zu
+                    Steinbrüchel und Hottinger<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup"
+                            >4</hi></ref> geführt.</p>
+                
+                <p><anchor xml:id="F1"/><ref target="#N1"><hi rend="sup">3</hi> Vergl. Hempel XXIII
+                        64 ff.</ref></p>
+                
+                <p><anchor xml:id="F2"/><ref target="#N2"><hi rend="sup">4</hi> Die Enge, Vorort
+                        Zürichs, am Fuss des Uetliberges, auf der linken Seite der Limmat.</ref></p>
+                
+                <p><anchor xml:id="F3"/><ref target="#N3"><hi rend="sup">1</hi> Seit 1773 hatte sich
+                        wieder ein freundlicheres Verhältniss zwischen Bodmer und Klopstock
+                        angebahnt.</ref></p>
+                
+                <p><anchor xml:id="F4"/><ref target="#N4"><hi rend="sup">2</hi> Göttinger
+                        Hain.</ref></p>
+                
+                <p><anchor xml:id="F5"/><ref target="#N5"><hi rend="sup">3</hi> Über das
+                        »Sendschreiben« Hottingers vergl. Hempel XXIII 189, Anm. 693. Wo Hirzel
+                        dagegen auftrat, ist mir unbekannt.</ref></p>
+                
+                <p><anchor xml:id="F6"/><ref target="#N6"><hi rend="sup">4</hi> Kirchliche Grössen
+                        Zürichs.</ref></p>
+            </div>
+            
+        </body>
+    </text>
+</TEI>

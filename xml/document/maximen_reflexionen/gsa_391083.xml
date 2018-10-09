@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391083/">
+<revisionDesc>
+   <change when="2013-01-10" who="henzel">imported</change>
+   <change when="2013-01-10" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>dabei: Eigenhändige Zahlenfolge (möglicherweise eine Rechnung) mit Bleistift sowie zeitgenössische Tintenproben</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P160</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,9:2</idno>
+      <idno type="gsa_2">GSA 25/W 1783</idno> 
+      <idno type="gsa_ident">391083</idno> 
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P160</idno>
+      <!-- P160 -->
+      <!-- Hecker-Nummer 182 -->
+      <textTranscript uri="391083.xml"/>
+      <classification>Konzept</classification><!-- ABR Entwürfe, GSA Sammelblatt -->
+      <condition>ursprünglich in Kolumnen gebrochen; Fleck am rechten Rand der Vorderseite, Tintenflecke auf der Rückseite</condition>
+      <dimensions>
+         <width unit="mm">261</width>
+         <height unit="mm">103</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 99 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>Stern über "N 1"</watermarkID>
+      <note>angeschnitten</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 226</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 530</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 226</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_42_2">S. 247</reference><!-- Nr. 2 und 3 --><!-- = Maximen und Reflexionen -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 530</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 665</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 530</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Bl am oberen Rand beschnitten</f:bemerkung>
+      <f:kurztitel>
+Faust. Zweiter Theil. Paralipomenon 160
+Sieh hier die Tiefe dieses Ganges ...
+Konzept
+
+Maximen und Reflexionen über Literatur und Ethik. Aus dem Nachlaß
+Das gräßlichste des Romantischen ...
+WA: -
+Konzept
+Hecker Teil von Nr 1033
+
+Maximen und Reflexionen über Literatur und Ethik. Aus dem Nachlaß
+haben die Franzosen ...
+WA: -
+Konzept
+Hecker Teil von Nr 1034</f:kurztitel>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Wie P159 gehört dieser Bleistiftentwurf zu dem spätestens im Dezember 1830 aufgegebenen Plan eines Abstiegs Fausts in die Unterwelt. WA schlägt als Sprecher Faust vor; denkbar wäre auch hier eine Verteilung auf zwei Sprecher (Z.1f.: Manto, Z.3f.: Faust).</p>
+            <p>Z. 3f. ist auf das Medusenhaupt zu beziehen, dem die Hinabsteigenden auf ihrem Weg zu Proserpina begegnen (vgl. P123C, Z. 357-361, hier S. 449).</p>
+            <p>Auf der Vorderseite des Blattes findet sich das Bruchstück eines weiteren eigenhändigen, bisher nicht identifizierten Bleistiftentwurfs (etwa: "hat [xxx] [xxx] [xxx]/ das gräßlichste des [xxx]/ habe die Franzosen hervorgeb/ leichte Körper die Engländer her/ vergeblich Körper die [xxx] [xxx]/ [xxx] verstanden die Engländer/ Todt dein grün [xxx] [xxx]/ [xxx]"?). </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>WA zu: Paralipomena, 3. Akt, Vorspiel</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/transcript/dla_marbach/Cotta_Ms_Goethe_AlH_C-1-12_Faust_I/">
+    <revisionDesc>
+        <change when="2012-10-19" who="bruening">Beschreibung, Nachweise.</change>
+        <change when="2014-11-04" who="bruening">Verweis auf das textuelle Transkript.</change>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2016-01-19" who="koehler">Schoene</change>
+        <change when="2018-01-19" who="pravida">headnote geändert</change>
+    </revisionDesc>
+    <metadata>
+        <repository>dla_marbach</repository>
+        <subRepository>Cotta-Archiv</subRepository>
+        <idno type="dla_marbach">Cotta Manuskripte Goethe, Ausg. letzter Hand</idno>
+        <idno type="wa_faust">none</idno>
+        <idno type="faustedition">1 H.1</idno>
+        <!-- nach dem Vorbild "(G)D.161" in aa_duw_2, entsprechend AA Erz 2 -->
+        <headNote>Korrekturexemplar von faust://document/faustedition/B, bearbeitet von Göttling, Goethe und Reichel</headNote>
+        <bibl>Korrekturexemplar von faust://document/faustedition/B (Titelblatt, S. 1–234<!-- 14 ½ Bogen (15 Ziffern à 8 Blätter und
+            erste Hälfte von 15 à 4 Blätter) -->).</bibl>
+        <note>Das Exemplar enthält Korrekturen 
+            Göttlings, Goethes und Reichels.
+             Die Blätter sind vielfach lose inliegend.</note>
+        <container>Der Band ist einen Bogen Packpapier mit der Aufschrift „Band 12. Seite 1–247“
+            eingeschlagen (370 × 295 mm).</container>
+        <note>Dabei: Loser Zettel, unbeschrieben.</note>
+        <references>
+            <reference type="description" uri="faust://bibliography/schoene2005">Bd. 2, S.
+                70</reference>
+            <reference type="essay" uri="faust://bibliography/vollmer1868">S. 1583</reference>
+        </references>
+        <textTranscript uri="Cotta_Ms_Goethe_AlH_C-1-12_Faust_I.xml"/>
+    </metadata>
+</print>

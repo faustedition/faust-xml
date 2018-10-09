@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_04/">
+   <revisionDesc>
+      <change when="2013-06-25" who="henzel">Anmerkungen</change>
+      <change when="2013-07-09" who="koehler">history</change>
+      <change when="2013-08-09" who="henzel">Ergaenzung history</change>
+      <change when="2013-08-09" who="henzel">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <repository>bb_cologny</repository>
+      <idno type="faustedition">2 III H.48a</idno>
+      <idno type="bb_cologny">G-30.4</idno>
+      <idno type="gsa_1">GSA 25/XVIII,4,3</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="fischer_lamberg">2 III H.m</idno>
+      <textTranscript uri="G-30_04.xml"/>
+      <classification>Konzept</classification>
+      <history>Provenienzangabe in Cologny: W. Kraus, Aarau</history>
+      <condition>zunächst wurden beide Teile oben und unten zusammengeklebt und an anderem Ort ein- oder angeklebt, wie Papierreste und Klebespuren m gesamten rechten Rand zeigen; rechter Rand der Vorderseite ist eingerissen, oben links Eselsohr; es könnte sich (ohne das angeklebte Stück) um ein Quartblatt handeln, das auf Oktav und dann auf Format eines Briefs/Sendeblatts gefaltet wurde (zweimal längs Spuren), die Faltung erfolgte nach dem Zusammenkleben beider Blätter</condition>
+      <dimensions>
+         <width unit="mm">167</width>
+         <height unit="mm">187</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 165 mm. Der Mindestwert der Blatt-Höhe beträgt 186 mm.</note>
+      <format>n.s.</format><!-- eventuell Quart -->
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType><!-- für Briefpapier zu grob -->
+      <paperColour>grünlich</paperColour>
+      <chainLines unit="mm">n.s.</chainLines>
+      <note>vorhanden, aber schwer zu erkennen</note>
+      <paperMill>Geraberg?</paperMill>
+      <watermarkID>eventuell Krone über Posthorn</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 146</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 146</reference>
+         <reference type="essay" uri="faust://bibliography/knopf2006">S. 196</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">167</width>
+                  <height unit="mm">95</height>
+               </patchDimensions>
+               <note>Der Mindestwert der Blatt-Breite beträgt 166 mm. Der Mindestwert der Blatt-Höhe beträgt 93 mm.</note>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <note>dunkler als das Grundblatt</note>
+               <patchChainLines unit="mm">n.s.</patchChainLines>
+               <note>vorhanden, aber nicht messbar</note>
+               <patchWatermarkID>n.s.</patchWatermarkID>
+               <note>Fragment in der unteren linken Ecke des Blattes, nicht zu identifizieren</note>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

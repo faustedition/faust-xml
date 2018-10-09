@@ -1,0 +1,900 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/ub_bonn/S_863_II/">
+   <revisionDesc>
+      <change when="2012-09-27" who="bruening"/>
+      <change when="2013-11-22" who="henzel">Lagenstruktur</change>
+      <change when="2013-11-22" who="henzel">encoded</change>
+      <change when="2015-02-19" who="henzel">subRepository bearbeitet</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2016-01-28" who="koehler">minimal headnote</change>
+      <change when="2016-09-22" who="bruening">headnote geändert</change>
+      <change when="2016-09-22" who="bruening">Aufnahme der Hektographien auskommentiert</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 21 Blätter. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Dabei: historischer Zettel (202 × 330 mm) mit der Aufschrift „Facsimile’s / von /
+         Goethe.“, der an das Schutzpapier geklebt
+         wurde<!--<disjunctLeaf>
+            <!-\- historischer Zettel -\->
+            <metadata>
+               <note>mit Tinte in lateinischer Schrift "Facsimile's / von / Goethe."</note>
+               <dimensions>
+                  <width unit="mm">225</width>
+                  <height unit="mm">161</height>
+               </dimensions>
+               <note>Der Mindestwert der Blatt-Breite beträgt 222 mm. Der Mindestwert der Blatt-Höhe
+                  beträgt 159 mm.</note>
+               <format>4</format>
+               <leafCondition>Stempel; fleckig mit Abnutzungserscheinungen</leafCondition>
+               <paperType>Schreibpapier</paperType>
+               <!-\- dickes Schreibpapier -\->
+               <paperColour>bräunlich</paperColour>
+               <chainLines unit="mm">26</chainLines>
+               <watermarkID>eventuell Bischofsmütze oder Krone</watermarkID>
+               <!-\- nur oberer Teil erkennbar, 46 mm breit und 27 mm hoch -\->
+               <note>Fragment</note>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="missing"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="missing"/>
+               </metadata>
+            </page>
+         </disjunctLeaf>-->;
+         sieben Blatt (oktav) mit hektographierten Sprüchen (Gedichtfragmenten).</note>
+      <repository>ub_bonn</repository>
+      <subRepository>Nachlass Sulpiz Boisserée</subRepository>
+      <idno type="faustedition">2 III H.3a:1</idno>
+      <idno type="ub_bonn">S 863,II : 5</idno>
+      <idno type="gsa_1">GSA 25/XVIII,1,3a</idno>
+      <idno type="wa_faust">2 III H.III</idno>
+      <textTranscript uri="S_863_II.xml"/>
+      <classification>Mundum</classification>
+      <history>Das Mundum wurde lagenweise an Sulpiz Boisserée verschickt.</history>
+      <numberingList>
+         <numbering>zeitgenössische Foliierung mit Bleistift oben rechts</numbering>
+      </numberingList>
+      <condition>Ränder leicht vergilbt; zwecks Versand auf Oktav gefaltet; Tinte scheint teilweise
+         durch sehr festes und dickes Papier</condition>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graubräunlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 67</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S.
+            80</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_15_2">S. 67</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 81</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf type="binding">
+      <!-- Bl. 1, mit Faden an nachfolgendes sheet geheftet -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">200</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <bindingMaterial>Faden</bindingMaterial>
+         <stabMarks>
+            <stabMark unit="mm">51</stabMark>
+            <stabMark unit="mm">122</stabMark>
+            <stabMark unit="mm">200</stabMark>
+            <stabMark unit="mm">215</stabMark>
+            <!-- unbenutzt -->
+            <stabMark unit="mm">268</stabMark>
+         </stabMarks>
+         <leafCondition>Eindrückungen durch Postversand erkennbar; Stempel auf Vorderseite; Reste
+            von violettfarbener Tinte am rechten Rand</leafCondition>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach",
+            balkenverziert</watermarkID>
+         <!-- auf Vorderseite, um 180° gedreht, ca. 58 mm breit und ca. 105 mm hoch -->
+      </metadata>
+      <page>
+         <!-- Titelblatt, 1r -->
+         <metadata>
+            <docTranscript uri="0001.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <!-- Rückseite Titelblatt, 1v -->
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- 1. Lage -->
+   <sheet>
+      <metadata>
+         <note>Versand des Faszikels samt angeheftetem Titelblatt an Sulpiz Boisserée am
+            22.11.1826</note>
+         <bindingMaterial>Faden</bindingMaterial>
+         <stabMarks>
+            <stabMark unit="mm">51</stabMark>
+            <stabMark unit="mm">121</stabMark>
+            <stabMark unit="mm">200</stabMark>
+            <stabMark unit="mm">269</stabMark>
+         </stabMarks>
+         <chainLines unit="mm">27</chainLines>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach", Balken ohne
+            Verzierung</watermarkID>
+         <!-- um 180° gedreht, ca. 55 mm breit und ca. 105 mm hoch -->
+         <note>Wasserzeichen befindet sich auf Vorderseite der ersten Bogenhälfte (Blatt 2)</note>
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- um 180° gedreht -->
+         <note>Gegenzeichen befindet sich auf zweiter Bogenhälfte (Blatt 5)</note>
+      </metadata>
+      <leaf>
+         <!-- Bl. 2 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 201 mm.</note>
+         </metadata>
+         <page>
+            <!-- Vor dem Palaſte des Menelas, 2r -->
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 2v -->
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <bindingMaterial>Faden</bindingMaterial>
+            <stabMarks>
+               <stabMark unit="mm">51</stabMark>
+               <stabMark unit="mm">122</stabMark>
+               <stabMark unit="mm">144</stabMark>
+               <!-- nicht benutzt -->
+               <stabMark unit="mm">200</stabMark>
+               <stabMark unit="mm">269</stabMark>
+            </stabMarks>
+            <chainLines unit="mm">27</chainLines>
+            <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach", Balken ohne
+               Verzierung</watermarkID>
+            <!-- ca. 55 mm breit und ca. 105 mm hoch -->
+            <note>Wasserzeichen befindet sich auf Rückseite der ersten Bogenhälfte (Blatt 3)</note>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- ca. 65 mm breit und 37 mm hoch -->
+            <note>Gegnzeichen befindet sich auf Vorderseite der zweiten Bogenhälfte (Blatt 4)</note>
+         </metadata>
+         <leaf>
+            <!-- Bl. 3 -->
+            <page>
+               <!-- 3r -->
+               <metadata>
+                  <docTranscript uri="0005.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 3v -->
+               <metadata>
+                  <docTranscript uri="0006.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 4 -->
+            <metadata>
+               <dimensions>
+                  <width unit="mm">202</width>
+                  <height unit="mm">330</height>
+               </dimensions>
+               <note>Der Mindestwert der Blatt-Breite beträgt 200 mm.</note>
+            </metadata>
+            <page>
+               <!-- 4r -->
+               <metadata>
+                  <docTranscript uri="0007.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 4v -->
+               <metadata>
+                  <docTranscript uri="0008.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 5 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">202</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 201 mm.</note>
+         </metadata>
+         <page>
+            <!-- 5r -->
+            <metadata>
+               <docTranscript uri="0009.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 5v -->
+            <metadata>
+               <docTranscript uri="0010.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf type="binding">
+      <!-- Bl. 6, an nachfolgende Lage mit glue gebunden -->
+      <metadata>
+         <bindingMaterial>Klebstoff</bindingMaterial>
+         <leafCondition>Stempel auf der Vorderseite</leafCondition>
+         <stabMarks/>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+         <!-- auf Vorderseite, um 180° gedreht, ca. 55 x 105 mm -->
+      </metadata>
+      <page>
+         <!-- 6r -->
+         <metadata>
+            <docTranscript uri="0011.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <!-- 6v -->
+         <metadata>
+            <docTranscript uri="0012.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet type="binding">
+      <!-- Faszikel 2 -->
+      <metadata>
+         <stabMarks>
+            <stabMark unit="mm">143</stabMark>
+            <stabMark unit="mm">213</stabMark>
+         </stabMarks>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+         <!-- um 180° gedreht, ca. 55 mm breit und ca. 105 mm hoch -->
+         <note>Wasserzeichen befindet sich auf der Vorderseite der zweiten Bogenhälfte (Blatt
+            8)</note>
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- um 180° gedreht, ca. 40 mm breit und ca. 65 mm hoch -->
+         <note>Gegenzeichen befindet sich auf der Rückseite der ersten Bogenhälfte (Blatt 7)</note>
+      </metadata>
+      <leaf>
+         <!-- Bl. 7 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">203</width>
+               <height unit="mm">330</height>
+            </dimensions>
+         </metadata>
+         <page>
+            <!-- 7r -->
+            <metadata>
+               <docTranscript uri="0013.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 7v -->
+            <metadata>
+               <docTranscript uri="0014.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <!-- Bl. 8 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">203</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 201 mm.</note>
+         </metadata>
+         <page>
+            <!-- 8r -->
+            <metadata>
+               <docTranscript uri="0015.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 8v -->
+            <metadata>
+               <docTranscript uri="0016.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet type="binding">
+      <!-- Faszikel 3 -->
+      <metadata>
+         <bindingMaterial>Faden</bindingMaterial>
+         <stabMarks>
+            <stabMark unit="mm">61</stabMark>
+            <stabMark unit="mm">116</stabMark>
+            <stabMark unit="mm">130</stabMark>
+            <stabMark unit="mm">214</stabMark>
+            <stabMark unit="mm">278</stabMark>
+            <stabMark unit="mm">293</stabMark>
+         </stabMarks>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+         <!-- um 180° gedreht, ca. 55 mm breit und 105 mm hoch -->
+         <note>Wasserzeichen befindet sich auf der Vorderseite der ersten Bogenhälfte (Blatt
+            9)</note>
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- um 180° gedreht, ca. 45 mm breit und ca. 65 mm hoch -->
+         <note>Gegenzeichen befindet sich auf der Rückseite der zweiten Bogenhälfte (Blatt
+            12)</note>
+      </metadata>
+      <leaf>
+         <!-- Bl. 9 -->
+         <metadata>
+            <dimensions>
+               <width unit="mm">203</width>
+               <height unit="mm">330</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 202 mm.</note>
+         </metadata>
+         <page>
+            <!-- 9r -->
+            <metadata>
+               <docTranscript uri="0017.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 9v -->
+            <metadata>
+               <docTranscript uri="0018.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet type="binding">
+         <metadata>
+            <bindingMaterial>Faden</bindingMaterial>
+            <stabMarks>
+               <stabMark unit="mm">61</stabMark>
+               <stabMark unit="mm">116</stabMark>
+               <stabMark unit="mm">130</stabMark>
+               <stabMark unit="mm">214</stabMark>
+               <stabMark unit="mm">278</stabMark>
+               <stabMark unit="mm">293</stabMark>
+            </stabMarks>
+            <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+            <!-- um 180° gedreht -->
+            <note>Wasserzeichen befindet sich auf der Vorderseite der ersten Bogenhälfte (Blatt
+               10)</note>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- um 180° gedreht, ca. 50 mm breit und ca. 65 mm hoch -->
+            <note>Gegenzeichen befindet sich auf der Rückseite der zweiten Bogenhälfte (Blatt
+               11)</note>
+         </metadata>
+         <leaf>
+            <!-- Bl. 10 -->
+            <page>
+               <!-- 10r -->
+               <metadata>
+                  <docTranscript uri="0019.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 10v -->
+               <metadata>
+                  <docTranscript uri="0020.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <leaf>
+            <!-- Bl. 11 -->
+            <page>
+               <!-- 11r -->
+               <metadata>
+                  <docTranscript uri="0021.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 11v -->
+               <metadata>
+                  <docTranscript uri="0022.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 12 -->
+         <page>
+            <!-- 12r -->
+            <metadata>
+               <docTranscript uri="0023.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 12v -->
+            <metadata>
+               <docTranscript uri="0024.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf type="binding">
+      <!-- Bl. 13, an vorige Lage mit Faden geheftet und angeklebt -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">195</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 194 mm. Dazuzurechnen ist ein ca. 8 mm
+            langer Klebefalz auf Blatt 9.</note>
+         <bindingMaterial>Klebstoff, Faden</bindingMaterial>
+         <stabMarks>
+            <stabMark unit="mm">62</stabMark>
+            <stabMark unit="mm">129</stabMark>
+            <stabMark unit="mm">215</stabMark>
+            <stabMark unit="mm">276</stabMark>
+         </stabMarks>
+         <leafCondition>Flecken auf der Rückseite (oben rechts)</leafCondition>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+         <!-- auf der Rückseite befindlich, 53 mm breit und 107 mm hoch -->
+      </metadata>
+      <page>
+         <!-- 13r -->
+         <metadata>
+            <docTranscript uri="0025.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <!-- 13v -->
+         <metadata>
+            <docTranscript uri="0026.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet type="binding">
+      <!-- Faszikel 4 -->
+      <metadata>
+         <bindingMaterial>Faden</bindingMaterial>
+         <stabMarks>
+            <stabMark unit="mm">54</stabMark>
+            <stabMark unit="mm">115</stabMark>
+            <stabMark unit="mm">196</stabMark>
+            <stabMark unit="mm">272</stabMark>
+         </stabMarks>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+         <!-- um 180° gedreht -->
+         <note>Wasserzeichen befindet sich auf der Vorderseite der ersten Bogenhälfte (Blatt
+            14)</note>
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- um 180° gedreht, ca. 65 mm breit und ca. 40 mm hoch -->
+         <note>Gegenzeichen befindet sich auf der Rückseite der zweiten Bogenhälfte (Blatt
+            19)</note>
+      </metadata>
+      <leaf>
+         <!-- Bl. 14 -->
+         <metadata>
+            <leafCondition>Stempel, Flecken (oben links)</leafCondition>
+         </metadata>
+         <page>
+            <!-- 14r -->
+            <metadata>
+               <docTranscript uri="0027.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 14v -->
+            <metadata>
+               <docTranscript uri="0028.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <metadata>
+            <bindingMaterial>Faden</bindingMaterial>
+            <stabMarks>
+               <stabMark unit="mm">56</stabMark>
+               <stabMark unit="mm">117</stabMark>
+               <stabMark unit="mm">198</stabMark>
+               <stabMark unit="mm">272</stabMark>
+            </stabMarks>
+            <leafCondition>Tinte scheint stark durch</leafCondition>
+            <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+            <!-- um 180° gedreht, ca. 55 mm breit und ca. 100 mm hoch -->
+            <note>Wasserzeichen befindet sich auf der Vorderseite der zweiten Bogenhälfte (Blatt
+               18)</note>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- um 180° gedreht, ca. 40 mm breit und 57 mm hoch -->
+            <note>Gegenzeichen befindet sich auf der Rückseite der ersten Bogenhälfte (Blatt
+               15)</note>
+         </metadata>
+         <leaf>
+            <page>
+               <!-- 15r -->
+               <metadata>
+                  <docTranscript uri="0029.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 15v -->
+               <metadata>
+                  <docTranscript uri="0030.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <sheet>
+            <metadata>
+               <bindingMaterial>Faden</bindingMaterial>
+               <stabMarks>
+                  <stabMark unit="mm">56</stabMark>
+                  <stabMark unit="mm">117</stabMark>
+                  <stabMark unit="mm">198</stabMark>
+                  <stabMark unit="mm">272</stabMark>
+               </stabMarks>
+               <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+               <!-- ca. 60 mm breit und ca. 100 mm hoch -->
+               <note>Wasserzeichen befindet sich auf der Rückseite der zweiten Bogenhälfte (Blatt
+                  17)</note>
+               <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+               <!-- ca. 40 mm breit und ca. 70 mm hoch -->
+               <note>Gegenzeichen befindet sich auf der Vorderseite der ersten Bogenhälfte (Blatt
+                  16)</note>
+            </metadata>
+            <leaf>
+               <!-- Bl. 16 -->
+               <page>
+                  <!-- 16r -->
+                  <metadata>
+                     <docTranscript uri="0031.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <!-- 16v -->
+                  <metadata>
+                     <docTranscript uri="0032.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+            <leaf>
+               <!-- Bl. 17 -->
+               <page>
+                  <!-- 17r -->
+                  <metadata>
+                     <docTranscript uri="0033.xml"/>
+                  </metadata>
+               </page>
+               <page>
+                  <!-- 17v -->
+                  <metadata>
+                     <docTranscript uri="0034.xml"/>
+                  </metadata>
+               </page>
+            </leaf>
+         </sheet>
+         <leaf>
+            <!-- Bl. 18 -->
+            <page>
+               <!-- 18r -->
+               <metadata>
+                  <docTranscript uri="0035.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <!-- 18v -->
+               <metadata>
+                  <docTranscript uri="0036.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <!-- Bl. 19 -->
+         <page>
+            <!-- 19r -->
+            <metadata>
+               <docTranscript uri="0037.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <!-- 19v -->
+            <metadata>
+               <docTranscript uri="0039.xml"/>
+            </metadata>
+            <patch>
+               <!-- patch an 19v (tif 38) -->
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">202</width>
+                     <height unit="mm">117</height>
+                  </patchDimensions>
+                  <patchWatermarkID>Sächsisches Rautenkranzwappen über
+                     "Stuetzerbach"</patchWatermarkID>
+                  <note>Fragment, nur Schriftzug vorhanden</note>
+                  <!-- auf Rückseite, 56 mm breit und 13 mm hoch -->
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <disjunctLeaf type="binding">
+      <!-- Bl. 20, an vorige Lage geklebt -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">201</width>
+            <height unit="mm">330</height>
+         </dimensions>
+         <!--<note>Die Angabe der Blatt-Breite ist eine ungefähre, da der Klebefalz eine genaue Messung
+            verhindert.</note>-->
+         <bindingMaterial>Klebstoff</bindingMaterial>
+         <stabMarks>
+            <stabMark unit="mm">55</stabMark>
+            <stabMark unit="mm">117</stabMark>
+         </stabMarks>
+         <leafCondition>Klebespuren vom folgenden Blatt 21</leafCondition>
+         <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+         <!-- auf Rückseite, um 180° gedreht, ca. 30 mm breit und ca. 65 mm hoch -->
+      </metadata>
+      <page>
+         <!-- 20r -->
+         <metadata>
+            <docTranscript uri="0040.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <!-- 20v -->
+         <metadata>
+            <docTranscript uri="0041.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf type="binding">
+      <!-- Bl. 21, an voriges Blatt geklebt - oder patch? TODO klaeren -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">138</height>
+         </dimensions>
+         <format>none</format>
+         <note>ursprünglich Folioformat</note>
+         <bindingMaterial>Klebstoff</bindingMaterial>
+         <leafCondition>Blatt ist unten und am rechten Rand eingerissen, war ursprünglich als auf
+            das vorige Blatt aufgeklebt</leafCondition>
+         <watermarkID>Sächsisches Rautenkranzwappen über "Stuetzerbach"</watermarkID>
+         <!-- auf Vorderseite, um 180° gedreht, 57 mm breit und 32 mm hoch -->
+         <note>Fragment, nur Schriftzug erkennbar</note>
+      </metadata>
+      <page>
+         <!-- 21r -->
+         <metadata>
+            <docTranscript uri="0042.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <!-- 21v -->
+         <metadata>
+            <docTranscript uri="0043.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Ende Faust, ab hier 7 Blatt Gedichtfragmente (ohne Bild und Transkription) = hektographierte Sprüche -->
+   <!--<disjunctLeaf>
+      <!-\- Bl. 1 -\->
+      <metadata>
+         <note>"Löblich ist ein tolles Streben / Wenn es kurz ist, und mit Sinn; / Heiterkeit zum
+            Erdeleben, / Sey dem flüchtigen Rausch Gewinn. // Faſsnacht / 1830 // JWGoethe"
+            eigenhändig von Goethe mit Tinte in lateinischer Schrift; Foliierung mit Bleistift; auf
+            der Vorderseite Stempel</note>
+         <dimensions>
+            <width unit="mm">219</width>
+            <height unit="mm">131</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Höhe beträgt 130 mm.</note>
+         <format>8</format>
+         <note>Queroktav</note>
+         <paperType>n.s.</paperType>
+         <paperColour>beige</paperColour>
+         <chainLines unit="mm">none</chainLines>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+   </disjunctLeaf>-->
+   <!--<disjunctLeaf>
+      <!-\- Bl. 2 -\->
+      <metadata>
+         <note>Inhalt wie voriges Blatt</note>
+         <dimensions>
+            <width unit="mm">222</width>
+            <height unit="mm">125</height>
+         </dimensions>
+         <format>8</format>
+         <note>Queroktav</note>
+         <paperType>n.s.</paperType>
+         <note>gleiche Papiersorte wie voriges Blatt</note>
+         <paperColour>beige</paperColour>
+         <chainLines unit="mm">none</chainLines>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+   </disjunctLeaf>-->
+   <!--<disjunctLeaf>
+      <!-\- Bl. 3 -\->
+      <metadata>
+         <note>"Schwer, in Waldes Busch und Wuchse, / Füchsen auf die Spur gelangen; / Hälts der
+            Jäger mit dem Fuchse / Ist's unmöglich ihn zu fangen. // Johanni / 1830 // JWGoethe";
+            eigenhändig von Goethe mit Tinte in lateinischer Schrift</note>
+         <dimensions>
+            <width unit="mm">217</width>
+            <height unit="mm">137</height>
+         </dimensions>
+         <note>Der Mindestwert beträgt 132 mm.</note>
+         <format>8</format>
+         <note>Queroktav</note>
+         <paperType>n.s.</paperType>
+         <note>gleiche Papiersorte wie voriges Blatt</note>
+         <paperColour>beige</paperColour>
+         <chainLines unit="mm">none</chainLines>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+   </disjunctLeaf>-->
+   <!--<disjunctLeaf>
+      <!-\- Bl. 4 -\->
+      <metadata>
+         <note>"Sprichst du von Natur und Kunst, / Habe beydes stets vor Augen, / Denn was soll die
+            Rede taugen, / Ohne Gegenwart und Gunst // Johanni / 1830 // JWGoethe"; eigenhändig von
+            Goethe mit Tinte in lateinischer Schrift; Blatt wurde nach der Beschriftung in Kolumnen
+            angebrochen</note>
+         <dimensions>
+            <width unit="mm">223</width>
+            <height unit="mm">125</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Höhe beträgt 124 mm.</note>
+         <format>8</format>
+         <note>Queroktav</note>
+         <paperType>Velinpapier</paperType>
+         <paperColour>dunkelbraun</paperColour>
+         <note>starke Vergilbung</note>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+   </disjunctLeaf>-->
+   <!--<disjunctLeaf>
+      <!-\- Bl. 5 -\->
+      <metadata>
+         <note>"Ich Iris bin in's Akt gestellt / Als Zeugniß einer beſſern Welt, / Für Augen die vom
+            Erdelauf / Getroſt sich wenden zum Himmel auf / Und in der Dunste trüben Netz / Erkennen
+            Gott und sein Gesetz // Johanni / 1830 // JWGoethe"; eigenhändig von Goethe mit Tinte in
+            lateinischer Schrift; Blatt wurde nach der Beschriftung in Kolumnen angebrochen</note>
+         <dimensions>
+            <width unit="mm">204</width>
+            <height unit="mm">125</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 200 mm.</note>
+         <format>8</format>
+         <note>Queroktav</note>
+         <paperType>Velinpapier</paperType>
+         <paperColour>dunkelbraun</paperColour>
+         <note>starke Vergilbung</note>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+   </disjunctLeaf>-->
+   <!--<disjunctLeaf>
+      <!-\- Bl. 6 -\->
+      <metadata>
+         <note>"Geht einer nach dem andern hin / Und auch wohl vor dem andern; / Drum laſst uns,
+            treu und brav u. kühn / Die Lebenspfade wandern. // Johanni / 1830 // JWGoethe";
+            eigenhändig von Goethe mit Tinte in lateinischer Schrift; Blatt wurde nach der
+            Beschriftung in Kolumnen angebrochen</note>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">124</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 201 mm.</note>
+         <format>8</format>
+         <note>Queroktav</note>
+         <paperType>Velinpapier</paperType>
+         <paperColour>dunkelbraun</paperColour>
+         <note>starke Vergilbung</note>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+   </disjunctLeaf>-->
+   <!--<disjunctLeaf>
+      <!-\- Bl. 7 -\->
+      <metadata>
+         <note>"Was der fur Kaüfer haben ſollte / Der Waare gratis geben wollte! // Johanni / 1830
+            // JWGoethe"; eigenhändig von Goethe mit Tinte in lateinischer Schrift; Blatt wurde nach
+            der Beschriftung in Kolumnen angebrochen</note>
+         <dimensions>
+            <width unit="mm">203</width>
+            <height unit="mm">125</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 200 mm. Der Mindestwert der Blatt-Höhe
+            beträgt 124 mm.</note>
+         <format>8</format>
+         <note>Queroktav</note>
+         <paperType>Velinpapier</paperType>
+         <paperColour>dunkelbraun</paperColour>
+         <note>starke Vergilbung</note>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-\- missing -\->
+         </metadata>
+      </page>
+   </disjunctLeaf>-->
+</archivalDocument>

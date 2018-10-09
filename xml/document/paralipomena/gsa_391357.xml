@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391357/">
+   <revisionDesc>
+      <change when="2012-11-08" who="henzel">imported</change>
+      <change when="2012-11-09" who="henzel">encoded</change>
+      <change when="2013-01-22" who="henzel">aktualisiert</change>
+      <change when="2013-04-23" who="henzel">Beschreibung des Wz von Lothe übernommen</change>
+      <change when="2014-10-10" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-03-12" who="koehler">Uri print/q</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Versentwurf zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. – Vs.: Versentwurf, möglicherweise zum ‚Vorspiel‘ zu ‚Faust I‘ (eigenhändig, Bleistift und
+         Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P4</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,3</idno>
+      <idno type="gsa_2">GSA 25/W 1376</idno>
+      <idno type="gsa_ident">391357</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P4</idno>
+      <!-- P4, Hecker-Nr. 7 -->
+      <classification>Konzept</classification>
+      <textTranscript uri="391357.xml"/>
+      <condition>fleckig</condition>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">166</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>Risskanten unten</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>gelbbräunlich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <watermarkID>Oberteil eines Hirsches mit fast waagerechtem Geweih</watermarkID>
+      <!-- Hirsch, nach rechts schauend -->
+      <note>angeschnittenes Wasserzeichen im unteren Mittelbereich des Blattes, Hirschdarstellung
+         bis zum Brustbereich, Symmetrieachse des Wasserzeichens befindet sich zwischen den
+         Steglinien</note>
+      <!-- evt. Femmelnr. 70 oder 194 oder 5 bei Lee (ansonsten schauen die Hirsche immer nach links, mgl.weise auch RS die "Vorderseite" des Wz) -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 217</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 288</reference>
+         <reference type="text" uri="faust://print/q_1_2">S. 181</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 217</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 575</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 217</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1798 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Dieses Blatt ist möglicherweise ebenfalls in den Umkreis der Arbeiten zum `Vorspiel'
+               zu rechnen; Papier und Beschriftung unterscheiden sich allerdings deutlich von H P3
+               und H P5. Die Beziehung zu H P3 ist nicht eindeutig: während der Zweizeiler P4 auf H
+               P3 im Gegensatz zu der Niederschrift auf H P4 als erledigt gestrichen ist, also
+               vielleicht von dort hierher übertragen wurde, spricht die auf H P4 vorgenommene, auf
+               H P3 realisierte Korrektur von "viele" in "tausend" für die umgekehrte Abfolge.
+               Vielleicht handelt es sich bei den Versen auf H P4 also um einen ersten Entwurf, der
+               dann auf H P3 übernommen wurde, womöglich jedoch auch um ein späteres Blatt, das den
+               nicht verwerteten Zweizeiler aus der `Vorspiel'-Arbeit aufnimmt und zu einem knappen
+               Gedicht im Stil der `Zahmen Xenien' erweitert. </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

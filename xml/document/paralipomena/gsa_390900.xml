@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390900/">
+   <revisionDesc>
+      <change when="2012-11-08" who="henzel">imported</change>
+      <change when="2012-11-12" who="henzel">encoded</change>
+      <change when="2012-11-22" who="bruening">Papiertyp, Import.</change>
+      <change when="2013-01-22" who="henzel">aktualisiert</change>
+      <change when="2014-10-13" who="pravida">headnote</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. - Versentwurf zu ‚Faust I‘.</headNote>
+      <note>Auf Quart gefaltetes Folioblatt. Eigenhändige Numerierung "ad 6." mit Rötel.
+         Doppelblatt, 1 beschriebene Seite. - Seite 1: Versentwurf zu ‚Faust I‘ (Goethe, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P8</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,5</idno>
+      <idno type="gsa_2">GSA 25/W 1378</idno>
+      <idno type="gsa_ident">390900</idno>
+      <idno type="wa_faust">none</idno>
+      <!-- Hecker-Nr. 132 -->
+      <!-- P8, Hecker-Nr. 33 -->
+      <idno type="bohnenkamp">H P8</idno>
+      <textTranscript uri="390900.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">172</width>
+         <height unit="mm">212</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 171 mm. Der Mindestwert der Blatt-Höhe beträgt
+         207 mm.</note>
+      <format>4</format>
+      <edges>cut</edges>
+      <note>oberer Rand ist beschnitten, die übrigen sind
+         abgestoßen</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>hell gelblich</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <paperMill>Oberweimar</paperMill>
+      <!-- vgl. 2 III H.49 und 2 III H.27 -->
+      <watermarkID fragment="a">"WEIMAR" über "H" (angeschnittenes Wasserzeichen)</watermarkID>
+      <!-- auf Außenseite -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <f:reference type="description" uri="faust://bibliography/wa_I_14">S. 289</f:reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 132</reference>
+         <f:reference type="text" uri="faust://bibliography/wa_I_14">S. 289</f:reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 132</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 551</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 132</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>1797/1798 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Ohne äußere Anhaltspunkte für eine Datierung; die hier verwendete Papiersorte findet
+               sich unter den `Faust'-Papieren sonst nur in der Zeit der Wiederaufnahme der Arbeiten
+               an der `Helena' im Jahre 1825 (vgl. III H27, hier S. 607 und III H49, hier S. 399),
+               unter den von Siegfried Scheibe beschriebenen Papieren zu `Dichtung und Wahrheit' ist
+               es jedoch auch für die Jahre 1809/1811 belegt. (Dichtung und Wahrheit. Hist.-krit.
+               Ausgabe Bd. 2, S. 44, 56f., 67f.) Die Schriftzüge des vorliegenden Blattes erinnern
+               an die verschiedenen überlieferten Bruchstücke zum `Vorspiel auf dem Theater' (vgl. H
+               P3, H P4, H P5 und H P5a, hier S. 215-219). </p>
+            <p>Einen Anhaltspunkt liefert die Signatur "ad 6" _ möglicherweise handelt es sich um
+               einen Entwurf, den Goethe mit dieser Signatur in den großen `Faust'-Plan des
+               numerierten Schemas von 1797/98 einordnete. Während Castle in P8 eine Variante zu
+               Vers 1544/5 sieht ("In jedem Kleide werd' ich wohl die Pein/ Des engen Erdelebens
+               fühlen") und die Verse also der Paktszene zuordnet (Castle, Plan und Einheit, S. 71),
+               weist Witkowski sie anhand des Schemas von 1797/98 zur "Schülerszene, genauer zu dem
+               kleinen auf sie folgenden Dialog" und ordnet sie ebenfalls Faust zu (Witkoswki, S.
+               438). Da die Signatur jedoch anders als bei den übrigen Handschriften aus dieser Zeit
+               mit Rötel geschrieben ist und unter dem Textbruchstück steht, muß diese Zuordnung mit
+               einem gewissen Vorbehalt versehen werden. Vgl. dazu Schulze, der eine Zugehörigkeit
+               dieses Blattes zum Nummernschema von 1797/98 ausschließen möchte (Schulze,
+               Faustschema, S. 80, Anm. 15). Scheibe dagegen hält die Zugehörigkeit zum
+               Nummernschema für gesichert (Scheibe, Faustschema, S. 237, Anm. 5). </p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

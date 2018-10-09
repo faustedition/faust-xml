@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390567/">
+   <revisionDesc>
+      <change when="2013-01-23" who="bruening">encoded</change>
+      <change when="2013-10-29" who="henzel">Dateiverlinkung nachgetragen</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Spuren einer Querfaltung. – Aus faust://document/wa_faust/2_III_H.2, H.2.</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.79</idno>
+      <idno type="wa_faust">2 III H.79</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,31</idno>
+      <idno type="gsa_2">GSA 25/W 1665</idno>      
+      <idno type="gsa_ident">390567</idno>      
+      <textTranscript uri="390567.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering name="Bleistiftfoliierung">Eigenhändige Foliierung mit Bleistift.</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <stabMarks>
+         <stabMark unit="mm">70</stabMark>
+         <stabMark unit="mm">122</stabMark>
+         <stabMark unit="mm">207</stabMark>
+         <stabMark unit="mm">257</stabMark>
+      </stabMarks>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 71</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 139</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 139f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <note>Mit der Folioziffer 36, passend zur ursprünglichen Foliierung in faust://document/wa_faust/2_III_H.2, H.2.</note>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+         <patch>
+            <metadata>
+               <patchDimensions>
+                  <width unit="mm">195</width>
+                  <height unit="mm">188</height>
+               </patchDimensions>
+               <patchType>glue</patchType>
+               <patchPaperType>Schreibpapier</patchPaperType>
+               <patchPaperColour>grünlich</patchPaperColour>
+               <patchCountermarkID>GH_ueber_N3</patchCountermarkID>
+            </metadata>
+            <patchSurface/>
+            <patchSurface/>
+         </patch>         
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>gehörte ursprünglich zu H.2 (25/XVIII,1,2b) vor Blatt 13 [zuerst "37"], Numerierung "36"; = 2. Konzept im Vgl. mit III H.78a (25/IV,5,5,b); WA irrtümlich Verse 9962-9980</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390567</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+Vers(e): 9962-9984
+Nun eilig Mädchen! Sind wir doch ...
+WA: III H.79; vgl. I 15.2,71
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,31</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,31</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Nun eilig Mädchen! Sind wir doch</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,71</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.79</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9962-9984</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>gehörte ursprünglich zu H.2 (25/XVIII,1,2b) vor Blatt 13 [zuerst "37"],
+               Numerierung "36"; = 2. K im Vgl. mit III H.78a (25/IV,5,5,b); WA irrtümlich Verse
+               9962-9980</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1305</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3388</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391536/">
+   <revisionDesc>
+      <change when="2012-11-14" who="henzel">imported</change>
+      <change when="2012-11-14" who="henzel">encoded</change>
+      <change when="2013-01-25" who="henzel">aktualisiert</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <note>dabei: Adresse Johns mit Tinte:"An die Herren Parisch u. Comp. in Hamburg"</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.5</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,6</idno>
+      <idno type="gsa_2">GSA 25/W 1674</idno>
+      <idno type="gsa_ident">391536</idno>
+      <idno type="wa_faust">2 IV H.5</idno>
+      <!-- P187 -->
+      <!-- P188 -->
+      <!-- P189, Hecker-Nr. 205 -->
+      <textTranscript uri="391536.xml"/>
+      <classification>Konzept</classification>
+      <condition>wurde nach der Beschriftung mehrfach längs gefaltet; Rückseite leicht fleckig</condition>
+      <dimensions>
+         <width unit="mm">201</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <format>2</format>
+      <!-- ein gefalteter Bogen -->
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <!-- so auch ABR -->
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <watermarkID>Stern über "N 1"</watermarkID><!-- Blatt 1, war so gut wie nicht zu erkennen -->
+      <countermarkID>"H" über "Stuetzerbach"</countermarkID>
+      <!-- Blatt 2 -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132, 241<!-- P188 --></reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 692</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 134<!-- Teilwiedergabe -->, 240f.<!-- P187-189 --></reference>
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 534<!-- Texverbesserung, Zusatzzeile von P188 --></reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 692-696</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 711f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 696-698</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+               <!-- <docTranscript uri="0005.xml"/> deleatur -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>um den 18.6.1831 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Als äußerer Anhaltspunkt für die Datierung dieser Entwürfe kommt die Verwendung eines an das Hamburger Handelshaus `Parish &amp; Co' adressierten Bogens in Betracht: das einzige überlieferte Schreiben aus diesem Jahr ist auf den 18. 6. 1831 datiert; diese Sendung ist auch in den Agendanotizen vom Juni 1831 verzeichnet ("Carlyle Sendung"; WA III,13,270). Ob Goethe sich in diesem Brief auf die Sendung vom August des Vorjahres bezieht _ ("verfehle nicht anzuzeigen, daß ich mir die Freyheit genommen habe, unter dem heutigen Datum abermals ein Kistchen an Dieselben abzusenden, bestimmt für Herrn Thomas Carlyle [...]"; WA IV,48,243f.; vgl. das Schreiben an `Parish &amp; Co' vom 29. 8. 1830, in dem es ebenfalls um "ein Käst IVH5 (P187, P188 Var, P189)</p>
+            <p> chen für Herrn Thomas Carlyle" geht; WA IV,47,196) _ oder ob in der Zwischenzeit weitere, nicht dokumentierte Sendungen nach Hamburg gegangen sind, kann nicht mit Sicherheit entschieden werden. Der 18. 6. 1831 kann nur mit Vorbehalt als terminus post quem für die vorliegenden Entwürfe gewertet werden. </p>
+            <p>Die Beschriftungsreihenfolge der verschiedenen auf diesem Foliobogen entstandenen Bleistiftentwürfe und -skizzen ist nicht zuverlässig festzustellen; vermutlich hat er jedoch zunächst als Sammelblatt gedient, das als zügig beschriebenes Entwurfsblatt weiterverwendet wurde. Eine deutliche Veränderung des Schreibduktus erfolgt nur auf der Rückseite des 2. Blattes (S. 4, Z. 76): hier setzt Goethe offensichtlich nach einer (womöglich kurzen) Unterbrechung korrigierend wieder an.</p>
+            <p>Auf S. 1 dieses Foliobogens finden sich zwei in einem Zug niedergeschriebene, jedoch deutlich voneinander getrennte Skizzen, die Goethe hier offensichtlich für die Weiterverwendung notierte: eine frühe Skizze zu V. 10095ff. (die sicher nicht, wie Schmidt vermutet, besser dem Mephisto in den Mund gelegt würde, Z. 1-5) und eine frühe Fassung der Verse 10172f., 10162, 10170f. (Z. 6-10), die auf S. 3 des Foliobogens dann in neue Zusammenhänge gestellt wieder aufgenommen werden (Z. 39f., Z. 31, Z. 37f.).</p>
+            <p>Z. 1-5: Bei den F[aust] zugeschriebenen Versen zu 10095ff. handelt es sich um den ältesten überlieferten Entwurf zu dem später breit ausgeführten Gespräch über die Entstehung des Gebirges, ein Motiv, das in P178 noch (?) nicht erwähnt wird. Eine überarbeitete Fassung der hier flüchtig mit Bleistift niedergeschriebenen Verse bietet das Mundum IV H2 (vgl. hier S. 706); auf IV H4 findet sich dann eine neue Version dieses Motivs, die der endgültigen Fassung schon wesentlich näher steht: "Gebirgesmasse bleibt mir edel-stumm/ Der Philosoph so wie das Volck ist dumm,/Als die Natur sich in sich selbst gegründet/ [...]" Die endgültigen Verse schließlich bietet das Mundum IV H3.</p>
+            <p>Auch auf der zweiten Seite sind zunächst einzelne Notizen versammelt:</p>
+            <p>Z. 13f. <b>(P187)</b>: Während Düntzer diesen Versentwurf im Hinblick auf V. 10335-10339 Habebald zuordnet, vermutet Morris, daß sie weder Mephisto noch Habebald zuzuschreiben sind, sondern Fausts Antwort darstellen auf Mephistos: "Erhalten wir dem Kaiser Thron und Lande,/ So kniest du nieder und empfängst/ Die Lehn von gränzenlosem Strande". (Morris, Faustparalipomena, S. 218.) Der Kontext auf dem Entwurfsblatt scheint eher für Morris' Lösung zu sprechen (die auch von Hecker übernommen wird), eine zweifelsfreie Entscheidung läßt sich jedoch nicht treffen; auch ist nicht mit Sicherheit vorauszusetzen, daß Goethe eine Zuordnung schon vorgenommen hatte, als er sich diesen Verseinfall notierte.</p>
+            <p>Z. 15-19 <b>(P189)</b>: Frühe Skizzen zu V. 10211ff. Die fehlerhafte WA-Lesung der Z. 15f. ("Unsichtbar kams, unsichtbar weichts zurück/ Und daß es ja unsichtbar bleib[e]") wurde im Nachtragsband (WA I,53,534) korrigiert. Für Z. 17 schlägt WA die Lesung "Ein Hügelchen" vor. Ohne Rückhalt in den Handschriften kombiniert Witkowski</p>
+            <p>die letzten drei Zeilen dieses Entwurfs mit P188a, Z. 47 (hier S. 699) zu einem `neuen' Paralipomenon. (Witkowski [I], S. 588, Paralipomenon Nr. 206.) Das Spatium zwischen Z. 16 und 17 macht deutlich, daß es sich bei P189 nicht um einen fortlaufenden Text handelt: vielleicht ließ Goethe hier Raum für noch zu ergänzende Verse, vielleicht stehen die Zeilen 17-19 jedoch auch im Zusammenhang mit dem folgenden Entwurf zu V. 10547-10553 (Z. 2027).</p>
+            <p>Auf Seite 3 finden sich im Anschluß an einen Entwurf zu den Versen 10160-10176 ("Meph. schildert ein Sardanapalisches Leben" _ P178, Z. 20f., hier S. 679) die zum Teil nur schwer lesbare Skizze P188Var.</p>
+            <p>Z. 46-54 (<b>P188 Var</b>): Frühe Entwürfe zu den Versen Fausts, in denen er seinen Wunsch nach einer Auseinandersetzung mit dem Meer äußert. (Vgl V. 10199ff. sowie P189, hier S. 693, P188a, hier S. 699, P188, hier S. 701, P190a, hier S. 702, und P190, hier S. 703). Fausts Metaphern lassen das Meer als ein ungeheuerliches, den Rachen aufreißendes Tier erscheinen; ebenso wieder in P188, Z. 7f.: "Mit diesem Ungeheuer möcht ich kämpfen/ Mit Menschengeist die Elemente dämpfen". Unter Bezugnahme auf P88 und P89 (hier S. 203) und Mephistos V. 10185f. ("Und also willst du Ruhm verdienen?/ Man merkt's du kommst von Heroinen") dazu Wolfgang Schadewaldt (Faust und Helena, S. 192f.): "Damit stellt Faust sich neben den großen Heros der Griechen, Herakles, der, als der Reiniger der Erde, solche `Ungeheuer' bekämpft und besiegt hat und den Chiron zuvor in der Klassischen Walpurgisnacht [7381ff.] ihm als letzten in der Reihe der großen Griechenhelden gepriesen hatte". Graham (Schwere
+               Überfahrt, S. 611) weist darauf hin, daß in diesen frühen Fassungen deutlich wird, wie in Goethes Phantasie die "Vorstellung des Höllenrachens mit der des Meeresstrandes verquickt ist": der `klaffende Rachen', von dem auch in der Grablegungs-Szene des 5. Akts die Rede ist, scheint gleichzeitig der Rachen der Hölle und der "Elementargewalt des verschlingenden Meeres" zu sein ("tausend Rachen", "der scharfste Zahn der Welle").</p>
+            <p>Z. 52 W[xx]] Erich Schmidt vermutet "Wuthigen". Das Wort ist nicht sicher zu lesen, ausschließen läßt sich jedoch die Lesung "Ungeheuer", die P188 an entsprechender Stelle bietet.</p>
+            <p>Z. 54 {Wuth}] vielleicht auch das gleiche Wort wie Z. 52? WA vermutet "Wuthigen vielleicht Wuchtenden" (I,53,534).</p>
+            <p>Seite 4: Wie die zunächst auf S. 1 notierten Verse in den Entwurf auf S. 3 integriert werden, so nimmt Goethe in den Bleistiftentwurf zu V. 10136-10159 die auf IV H6 als Zweizeiler notierten Verse 10156 und 10159 nun in einen größeren Entwurfszusammenhang auf (Z. 74f.): zunächst als aufeinanderfolgende Zeilen übernommen, werden sie im Zuge der Überarbeitung dann umgestellt und getrennt. Die Notiz "Matth." (Z. 80) verweist auf die biblische Vorlage dieser Verse Mephistos (Matth.4 [besonders 8] _ Jesus wird vom Satan versucht), die auch in der endgültigen Fassung an dieser Stelle angegeben ist.</p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>10095ff.</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= vier Verse zu Vers 10095ff. = frühes K, vgl. späteres K zu diesen Versen in H.2 (25/XVIII,5,3), Lit.: Bohnenkamp, S.697</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

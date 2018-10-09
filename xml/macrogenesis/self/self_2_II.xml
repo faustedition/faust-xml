@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+    <!-- Cf. https://github.com/faustedition/xml/issues/600 -->
+    <relation name="temp-pre">
+        <source uri="faust://self"/>
+        <comment>Abschrift</comment>
+        <item uri="faust://document/faustedition/2_II_H.16a"/>
+        <item uri="faust://document/faustedition/2_II_H.17"/>
+    </relation>
+    
+</macrogenesis>

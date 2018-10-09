@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-02-21" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="266" facs="bode1921-1923_3_0266.jpg"/>
+            <div type="letter">
+                <head rend="centered"><date when="0000-12-23">23. Dezember</date>.</head>
+                <head>Weimar. <hi rend="letter-spaced">Wilhelm v. Humboldt</hi> an Karoline v.
+                    Wolzogen.</head>
+                <p><hi rend="small">Frau v. Wolzogen wohnte jetzt in Jena. Ihre Schweſter Schiller
+                        war kürzlich in Bonn geſtorben.</hi></p>
+                <p><milestone unit="testimony" spanTo="#bie3_5928_end" xml:id="bie3_5928"/>Als ich
+                    hierher fuhr, kam mir Goethe eine halbe Meile von Weimar entgegen und führte
+                    mich in ſeinem Wagen in die Stadt . . . Ich kann Ihnen nicht genug <pb n="267"
+                        facs="bode1921-1923_3_0267.jpg"/>ſagen, wie befriedigend diesmal der Umgang
+                    mit ihm iſt. Er iſt nicht nur wohl, kräftig, lebendig, ſondern auch ſo
+                    freundſchaftlich, ſo mitteilend, ſo geſprächig über die intereſſanteſten Dinge,
+                    daß ich es nie ſo gefunden zu haben glaube. Den Morgen ſind wir ganz
+                    zuſammen.</p>
+                <p>Ich habe <rs>ſeine ‚Helena‘</rs> geleſen. Es ließe ſich vielleicht darüber
+                    ſprechen, ſchreiben nicht. Aber das Ganze und Einzelne ſind bewunderungswürdig.
+                    Etwas eigentümlich Neues, von dem man noch keine Idee hat, für das man keine
+                    Regel und kein Geſetz kennt, das aber ſich im höchſten poetiſchen Leben
+                        fortbewegt.<anchor xml:id="bie3_5928_end"/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

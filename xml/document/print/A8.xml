@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<print xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata_print.xsd" xml:base="faust://xml/print/">
+    <revisionDesc>
+        <change when="2015-01-26" who="bruening">encoded</change>
+        <change when="2015-04-09" who="machwitz">1x korrekturgelesen</change>
+        <change when="2015-04-16" who="bruening">Machtwitz’ Korrekturen eingetragen</change>
+        <change when="2018-09-19" who="pravida">reference Hucke corrected (em dash)</change>
+    </revisionDesc>
+    <metadata>
+        <idno type="faustedition">A</idno>
+        <idno type="wa_faust">A</idno>
+        <idno type="hagen">A</idno>
+        <idno type="hagen_nr">16</idno>
+        <headNote>Erste Gesamtausgabe bei Cotta, 1808</headNote>
+        <bibl>Goethe’s Werke. Achter Band. Tübingen in der J. G. Cotta’schen Buchhandlung, 1808. 376 S. 8°</bibl>
+        <copies>
+            <referenceCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 18</idno>
+            </referenceCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 18/2</idno>
+            </furtherCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">III B / 18/3</idno>
+            </furtherCopy>
+            <furtherCopy>
+                <repository>fdh_frankfurt</repository>
+                <idno type="fdh_frankfurt">IV 3 / 2</idno>
+            </furtherCopy>
+        </copies>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_14">S. 250</reference>
+            <reference type="description" uri="faust://bibliography/hagen1983">S. 27</reference>
+            <reference type="text" uri="faust://bibliography/aa_faust_2"/>
+            <reference type="text" uri="faust://bibliography/keller1985"/>
+            <reference type="text" uri="faust://bibliography/hucke2008">S. 5–198</reference>
+            <reference type="essay" uri="faust://bibliography/hagen1983">S. 27, 34</reference>
+        </references>
+        <textTranscript uri="A8_IIIB18.xml"/>
+    </metadata>
+</print>

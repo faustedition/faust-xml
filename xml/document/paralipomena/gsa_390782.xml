@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390782/">
+   <revisionDesc>
+      <change when="2012-11-09" who="bruening">encoded</change>
+      <change when="2014-10-15" who="pravida">headnote</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+      <change when="2015-07-03" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. - Zu ‚Faust‘ (frühe Fassung) und Versentwürfe zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Vs.: Szene zu ‚Faust‘ (frühe Fassung) und Versentwürfe zu ‚Faust I‘ (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P6</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,13</idno>
+      <idno type="gsa_2">GSA 25/W 1387</idno>
+      <idno type="gsa_ident">390782</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P6</idno>
+      <textTranscript uri="390782.xml"/>
+      <classification>Sammelblatt</classification>
+      <condition>Stockfleckig; an der Querbrechung beidseitig leicht eingerissen.
+         Tintenfraß.</condition>
+      <dimensions>
+         <width unit="mm">192</width>
+         <height unit="mm">207</height>
+         <!-- 228 mm krogmann1933, Frontispiz -->
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Briefpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <paperMill>Honig</paperMill>
+      <watermarkID fragment="a_u" cert="high">Posthorn_in_gekroentem_Schild</watermarkID>
+      <!-- "Bruchstück Unterteil: vermutlich ..." Lothe -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 294</reference>
+         <reference type="description" uri="faust://bibliography/krogmann1932a">S. 55</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 103</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 294</reference>
+         <reference type="text" uri="faust://bibliography/krogmann1932a">S. 56</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 103</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 544</reference>
+         <reference type="facsimile" uri="faust://bibliography/krogmann1932a">nach S. 56</reference>
+         <reference type="facsimile" uri="faust://bibliography/krogmann1933">Frontispiz</reference>
+         <reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach S. 736, Abb.
+            10</reference>
+         <reference type="essay" uri="faust://bibliography/krogmann1932a">S. 55f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 104-106</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Datierung vgl. Bohnenkamp, S.104</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>zwischen 1773 und 1775</f:datierung>
+      <f:ident>390782</f:ident>
+      <f:kurztitel>Faust. Erster Theil
+Sammelblatt
+WA: oS; vgl. I 14,294
+
+Paralipomenon 21
+Was giebts Mephisto ...
+Konzept
+Text der Handschrift zu WA: I 14,294
+
+Paralipomenon 6
+Mich darf niemand auf's Gewissen ...
+Konzept
+Text der Handschrift zu WA: I 14,288
+
+Paralipomenon 7
+Mein Freund wenn je der Teufel ...
+Konzept
+Text der Handschrift zu WA: I 14,288</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,2,13</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (2,13) (WA I,14,288)</p>
+            <p>Sammelblatt</p>
+            <p>Erstdruck: Q, S.180 (P6, P21); WA I,14,288 (P7); Faksimile u. a. bei Krogmann,
+               Urfaust, und in: Chronik des Wiener Goethe-Vereins 45 (1940), S. 3</p>
+            <p> x , helles gelbliches Quartblatt, gerippt; angeschnittenes WZ: `C &amp; I HONIG'
+               unter Wappen mit Bienenkorb (vgl. H P54);</p>
+            <p>VS: G rötlich-br. Tinte P21 (die ersten vier Zeilen später mit schw.-br. Tinte als
+               erledigt gestrichen); G schw.-br. Tinte P6, P7;</p>
+            <p>RS: leer</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>Anhand von Papier und Schrift identifizierte schon Erich Schmidt dieses Blatt als
+               einen Bestandteil des `Urmanuskripts'. Das Papier stammt aus der Zaandijker
+               Papierfabrik und wurde dort mit diesem Wasserzeichen (`C &amp; I HONIG' unter Wappen
+               mit Bienenkorb) bis 1781 hergestellt. (Vgl. Litzmann, Neue Mitteilungen, S. 79.) Wie
+               auch die Schrift des ersten Eintrags (P21) stimmt es nach dem Urteil Erich Schmidts
+               genau zur Reinschrift des `Ewigen Juden' (WA I,14,294); die Entstehung dieses ersten
+               Eintrags ließe sich entsprechend um 1774 ansetzen. Nach weitgehend übereinstimmender
+               Forschungsmeinung handelt es sich bei H P6 um eines der beiden erhaltenen Blätter aus
+               dem `Urkodex', über den Goethe aus der Zeit der Wiederaufnahme der Arbeit am `Faust'
+               in Italien berichtet: "Das alte Manuscript macht mir manchmal zu denken, wenn ich es
+               vor mir sehe. Es ist noch das erste, ja in den Hauptscenen gleich so ohne Concept
+               hingeschrieben, nun ist es so gelb von der Zeit, so vergriffen (die Lagen waren nie
+               geheftet), so mürbe und an den Rändern zerstoßen, daß es wirklich wie das Fragment
+               eines alten Codex aussieht, so daß ich, wie ich damals in eine frühere Welt mich mit
+               Sinnen und Ahnden vesetzte, mich jetzt in eine selbst gelebte Vorzeit wieder
+               versetzen muß." (Italienische Reise, an Herder 1. 3. 1788; WA I,32,288f.) In Frage
+               gestellt wurde der Zusammenhang mit dem Urkodex direkt nach Erscheinen des WA-Bandes
+               von Düntzer (Der Fund der ältesten Faustscenen, S. 167) und wieder von Scheibe
+               (Chronologie von Goethes Faust I, S. 413-416); keiner der beiden scheint allerdings
+               das überlieferte Blatt selbst in Augenschein genommen zu haben.</p>
+            <p>Die Szene <b>P21</b> findet sich mit geringen Abweichungen in der Göchhausenschen
+               Niederschrift der `Frühen Fassung' wieder und wurde als einziger erhaltener Teil des
+               ersten Manuskriptes immer wieder herangezogen, um die Frage zu klären, inwieweit die
+               Göchhausensche Niederschrift "die verlorene Urschrift zu ersetzen vermag" (Krogmann,
+               Goethes Urfaust, S. 19). Während Krogmann aufgrund der geringen Abweichungen zwischen
+               P21 und der entsprechenden Szene in der Göchhausenschen Niederschrift zu dem Ergebnis
+               kommt, daß dem Fräulein von Göchhausen das Urmanuskript (einschließlich des Blattes H
+               P21) zur Abschrift vorgelegen habe, schließt Ernst Grumach seinerseits aus einem
+               Vergleich der beiden Fassungen der Szene `Land Strase', "daß die Göchhausen
+               jedenfalls nicht das Originalmanuskript als Vorlage benutzt hat, aus der das Blatt
+               stammt, sondern entweder eine von Goethe selbst oder einem Schreiber hergestellte
+               Abschrift" (Grumach, Zum Urfaust, S. 141).</p>
+            <p>In der Göchhausenschen Niederschrift steht die Szene `Land Strase' zwischen den
+               Szenen `Auerbachs Keller' und `Strase' und bestätigt so das von der Forschung
+               weitgehend akzeptierte Urteil Erich Schmidts, daß es sich hier um "ein Momentbild von
+               der ersten Weltreise" handele. Zu abweichenden Forschungsmeinungen vgl. die
+               Zusammenfassung bei Nollendorfs (Streit um den Urfaust, S. 263-266).</p>
+            <p>In seiner Dissertation von 1959 gibt Scheibe einen Überblick über die zwischen 1773
+               und 1775 schwankenden Datierungsvorschläge der Forschung zu dieser Szene;
+               zuverlässige Anhaltspunkte für eine genaue Datierung sind nicht überliefert.</p>
+            <p> HP6</p>
+            <p> Die beiden auf P21 folgenden, in Duktus und Tinte untereinander übereinstimmenden,
+               vom ersten Eintrag aber deutlich unterschiedenen Vierzeiler (<b>P6</b> und <b>P7</b>)
+               sind spätere Zusätze; als terminus post quem kann, wenn Krogmann recht hat, der
+               Zeitpunkt der Göchhausenschen Niederschrift geltend gemacht werden. Sehr
+               wahrscheinlich handelt es sich hier um Nachträge in das `Urmanuskript' aus der
+               italienischen Zeit. Goethe hatte das Manuskript nach Italien mitgenommen, um dort am
+               `Faust' zu arbeiten. (Vgl. etwa Hermann Schneider, Zwei kleine Studien zum Faustvers,
+               der P6 für den Anfang der `Faust'-Arbeit in Italien hält, und zwar für den ersten
+               Ansatz zu einer Paktszene.) </p>
+            <p>Für <b>P6</b> läßt sich zeigen, daß diese Verse spätestens in der italienischen
+               Arbeitsphase oder kurz danach entstanden sein müssen: Wie die Szene `Land Strase'
+               hatte der 1793 verstorbene Karl Philipp Moritz auch diesen Vierzeiler wahrscheinlich
+               schon in Rom oder bei seinem letzten Besuch bei Goethe in Weimar im Dezember/Januar
+               1788/89 kennengelernt. In den 1794 erscheinenden `Erinnerungen aus den letzten
+               Lebensjahren meines Freundes Anton Reiser als ein Beitrag zur Lebensgeschichte des
+               Hofrath Moritz' von Karl Friedrich Klischnig werden beide Texte P21 und P6 mit
+               geringen Abweichungen mitgeteilt (S. 210f.). Dieser terminus ante quem gilt zunächst
+               jedoch nur für die beiden ersten Einträge auf dem vorliegenden Blatt: Schrift und
+               Duktus der beiden Vierzeiler machen zwar wahrscheinlich, daß die Einträge in einem
+               Zug niedergeschrieben worden sind; eine zuverlässige Datierung von P7 läßt der Befund
+               jedoch nicht zu.</p>
+            <p>Während z. B. Pniower die "äusserlich wie innerlich" zusammenhängenden Stücke P6 und
+               P7 der `Studierzimmer'-Szene zuordnet und schließt: "Goethe war also auch in dieser
+               Phase der Arbeit mit der schwierigsten Aufgabe der Redaction: der Einführung
+               Mephistos und dem zwischen dem Helden und ihm zu schliessenden Pact beschäftigt"
+               (Pniower, Goethes Faust, S. 35), werden die rhythmischen Unterschiede der beiden
+               nachgetragenen Vierzeiler (Knittelverse des P6 / jambische Fünfheber des P7) von
+               Wolfgang Binder dagegen als Argument für eine unterschiedliche Entstehungszeit beider
+               Fragmente herangezogen. Während P6 im Zusammenhang mit der Arbeit am Fragment
+               entstanden sei und "beweist, daß Goethe noch in der Urfaustweise lesen und dichten
+               konnte, als er daran ging, den Urfaust zu vollenden" (S. 104), deute P7 auch
+               inhaltlich eher auf die folgende Arbeitsphase, in der es im Zusammenhang mit der
+               Arbeit am `Prolog im Himmel' "für die geplante neue Paktszene niedergeschrieben"
+               worden sei. (Binder, Und was der ganzen Menschheit, S. 108.)</p>
+            <p>Zweifelsfrei scheint allerdings lediglich die Zuordnung der hier versammelten
+               Textsplitter zur Gestalt des Mephistopheles. Es fällt auf, daß die einzigen `als
+               erledigt' gestrichenen Zeilen auf diesem Blatt das Szenar der Szene `Land Strase'
+               betreffen; als diese kleine Szene durch die in Italien entstandene `Hexenküche'
+               ersetzt wurde (so schon Minor, Goethes Faust, Bd. 1, S. 317 und wieder Gaier,
+               Urfaustkommentar, S. 359f.), hat Goethe also die Szene als solche zwar verworfen, die
+               Dialogzeilen jedoch offensichtlich `aufbewahrt'. Eine Erklärung scheint mir im
+               Zusammenhang mit</p>
+            <p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+            <p>den späteren Einträgen (von denen, nach der Tinte zu urteilen, zumindest P6
+               gleichzeitig mit der Streichung des Szenars auf das Blatt gesetzt wurde)
+               nahezuliegen: die nachträglichen Vierzeiler beziehen sich beide auf Eigenheiten
+               Mephistos _ und als ein solches auf Mephistos Wesen bezogenes Bruchstück blieb auch
+               der Dialog der ursprünglich geplanten Szene erhalten. Das Blatt wurde zu einem
+               `Mephistopheles-Sammelblatt' mit `Teufels-Bruchstücken' umfunktioniert, die Goethe
+               bei Gelegenheit in den entstehenden `Faust' einzufügen gedachte. Eben aufgrund dieser
+               neuen Funktion blieb sehr wahrscheinlich gerade dieses Blatt aus dem im übrigen
+               zerstörten `Urmanuskript' erhalten.</p>
+            <p>Z. 3f.: Die Szenenanweisung "Schloss" und "Bauerhüttgen" wurde von Roethe (Entstehung
+               des Urfaust, S. 667) als ursprünglich geplanter symbolischer Hinweis auf soziale
+               Gegensätze gedeutet, von Walheim (Studien zum Urfaust) mit frühen Plänen zur `Helena'
+               in Verbindung gebracht.</p>
+            <p>Z. 9f.: "Die Scheu vor dem Kreuz kennzeichnet den mittelalterlichen Teufel; daß er
+               aber von Vorurteil spricht, ist gutes achtzehntes Jahrhundert, es ist der angepaßte,
+               modernisierte Satan. Nun aber gilt seine Aufgeklärtheit nicht etwa der Religion, und
+               nicht das Kreuz ist es, das er ein Vorurteil nennt, sondern seine überlieferte,
+               mittelalterliche Abneigung dagegen behandelt er als ein solches und entschuldigt sich
+               wie für eine Schrulle und Schwäche dafür, daß er trotz seiner modernen Bildung nicht
+               darüber hinwegkommt. So spielt der Dichter mit seiner Figur, gibt ihr Augenblicke
+               satirischer Selbst-Aufhebung und Einschränkung ihrer Wirklichkeit." (Thomas Mann,
+               Über Goethes Faust, S. 276.) Anders akzentuiert Ulrich Gaier (Urfaustkommentar, S.
+               360): "[...] die Ironie Fausts, mit der er Mephisto zum Eingeständnis der Magie des
+               Kreuzzeichens zwingt, ist zugleich eine subtile romantische Ironie: wäre es ein
+               bloßes Vorurteil, so müßte Mephisto selbst verschwinden, denn seine Existenz als
+               Teufel hängt von der Anerkennung des christlichen Glaubenssystems ab."</p>
+            <p>Z. 16: Die Anrede weist darauf hin, daß dieses Bruchstück nach der `Urfaust'-Phase
+               entstanden ist: in der `Frühen Fassung' ist das Verhältnis zwischen Faust und
+               Mephisto noch ein distanziertes Herr-und-Knecht-Verhältnis. Die Anrede "Mein Freund"
+               weist dagegen auf die späteren Arbeitsphasen, in denen Mephisto mehr Gefährte Fausts
+               als dessen Diener ist. (Vgl. Niejahr, Kritische Untersuchungen zu Goethes Faust, S.
+               498f.)</p>
+            <p>Z. 18f.: Diese Verse wurden oft herangezogen, um zu zeigen, daß auch Goethes Teufel
+               auf die Seele des Menschen aus ist, was anhand der Prologverse 318-322 zuweilen
+               bestritten wurde. (Vgl. z. B. Gwinner, Goethes Faustidee, S. 261.)</p>
+            <p> HP54</p>
+            <p>
+               <b>H P54</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,13*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Was giebts Mephisto</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>21</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,294</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2372</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,13*a</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,294</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P6</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>103</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>--</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Land Strase. Ein Kreuz am Weege</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42j">Bohnenkamp-Inzipit</f:key>
+               <f:value>Was giebts Mephisto hast du Eil?</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>21</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9888</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,13*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Mein Freund wenn je der Teufel</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>7</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,288</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2480</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,13*c</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,294</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P6</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>103</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>23</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Mein Freund wenn je der Teufel</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>7</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9968</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,13*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust I. WA I 14, 1-245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Mich darf niemand auf's Gewissen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>6</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 14,288</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3024</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,13*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,294</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P6</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>103</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>22</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Mich darf niemand</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>6</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10142</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor Überlieferungsform)</f:key>
+            <f:value>Sammelblatt</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,2,13</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>zwischen 1773 und 1775</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1773; 1774; 1775</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 14,294</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>oS</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>zur Datierung vgl. Bohnenkamp, S.104</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1058</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>4012</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,2,13*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 14,294</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>H P6</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>103</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>22</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Mich darf niemand</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>6</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10142</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macrogenesis xmlns="http://www.faustedition.net/ns"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+   <!--  / 25/XVIII,5,2 /  / IV H1 /  -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <item uri="faust://inscription/wa/2_IV_H.20/i_uebrige"/>
+      <item uri="faust://document/wa/2_IV_H.1"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <comment>. . ursprünglich 1. Teil eines Arbeitsmundums, Fortsetzung von IV H20, Fortsetzung
+         auf IV Hg.</comment>
+      <item uri="faust://document/wa/2_IV_H.1"/>
+      <item uri="faust://document/wa/2_IV_H.g"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,3 /  / IV H2 /  -->
+   <date notBefore="1831-06-18">
+      <comment>Terminus post quem ergibt sich aus dem Terminus post quem von IV_H.5</comment>
+      <source uri="faust://self"/>
+      <item uri="faust://document/wa/2_IV_H.2"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.707</source>
+      <comment>Inhalt. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.5"/>
+      <item uri="faust://document/wa/2_IV_H.2"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,4 /  / IV H3 /  -->
+   <!--  / 25/XVIII,5,5 /  / IV H4 /  -->
+   <date type="normalized" notBefore="1831-02-17" notAfter="1831-02-27">
+      <comment>Brief an Ch. P. W. F. Beuth, 22.2.1831</comment>
+      <source uri="faust://bibliography/gsa-datenbank"/>
+      <item uri="faust://document/wa/2_IV_H.2"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,6 /  / IV H5 /  -->
+   <date notBefore="1831-06-18">
+      <comment>Adresse auf Hs, Zeugnis. Adresse John:"An die Herren Parisch u. Comp. in Hamburg" auf
+         Hs, einziges Schreiben dorthin am 18.6.1831. Datierung unsicher</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.696-697</source>
+      <item uri="faust://document/wa/2_IV_H.5"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,7:1 /  / IV H6 /  -->
+   <date notBefore="1831-04-30">
+      <comment>. . zu IV H6 gehört auch 25/XVIII,5,7:2. Es sind 2 Teile eines zertrennten Blattes, von dem ein weiterer Teil fehlt.</comment>
+      <comment>Anlage des Sammelblattes lässt sich dem Beginn der Ausarbeitung im Frühjahr 1831 zuordnen.</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.691</source>
+      <source uri="faust://self"/>
+      <item uri="faust://document/wa/2_IV_H.6"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.6"/>
+      <item uri="faust://document/wa/2_IV_H.8"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,8 /  / IV H7 /  -->
+   <!--  / 25/XVIII,5,9 /  / IV H8 /  -->
+   <date notBefore="1831-05-30">
+      <comment>Relative Chronologie. . .</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.724,727-728</source>
+      <item uri="faust://document/wa/2_IV_H.8"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,10 /  / IV H9 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.9"/>
+      <item uri="faust://document/wa/2_IV_H.8"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.9"/>
+      <item uri="faust://document/wa/2_IV_H.10"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.9"/>
+      <item uri="faust://document/wa/2_IV_H.11"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.9"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.9"/>
+      <item uri="faust://document/wa/2_IV_H.15"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,11 /  / IV H10 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.667</source>
+      <comment>Relative Chronologie. . angeklebter Blattstreifen bildete ursprünglich ein Blatt mit
+         IV H15.</comment>
+      <item uri="faust://document/wa/2_IV_H.11"/>
+      <item uri="faust://document/wa/2_IV_H.10"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.667</source>
+      <comment>Relative Chronologie. . angeklebter Blattstreifen bildete ursprünglich ein Blatt mit
+         IV H15.</comment>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+      <item uri="faust://document/wa/2_IV_H.10"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,12 /  / IV H11 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.722</source>
+      <comment>Relative Chronologie. . vor der Zertrennung des Blattes gingen Verse 10455-10462 den
+         Versen 10463-10472 auf IV H15 voran.</comment>
+      <item uri="faust://inscription/wa/P183/i_v_o"/>
+      <item uri="faust://document/wa/2_IV_H.11"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.722</source>
+      <comment>Relative Chronologie. . vor der Zertrennung des Blattes gingen Verse 10455-10462 den
+         Versen 10463-10472 auf IV H15 voran.</comment>
+      <item uri="faust://document/wa/2_IV_H.11"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,13 /  / IV H12 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.720</source>
+      <comment>Relative Chronologie. . nachträglich in zwei Teile zerschnittenes
+         Folioblatt.</comment>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+      <item uri="faust://inscription/wa/2_IV_H.12/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.720</source>
+      <comment>Relative Chronologie. . nachträglich in zwei Teile zerschnittenes
+         Folioblatt.</comment>
+      <item uri="faust://document/wa/P181"/>
+      <item uri="faust://inscription/wa/2_IV_H.12/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.720</source>
+      <comment>Relative Chronologie. . nachträglich in zwei Teile zerschnittenes
+         Folioblatt.</comment>
+      <item uri="faust://inscription/wa/182/i_r_o"/>
+      <item uri="faust://inscription/wa/2_IV_H.12/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . nachträglich in zwei Teile zerschnittenes
+         Folioblatt.</comment>
+      <item uri="faust://inscription/wa/2_IV_H.12/i_uebrige"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,14:1 /  / IV H13 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/P178/i_1_r"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/bohnenkamp/H_P181"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/bohnenkamp/H_P182"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.17"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667,733</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.18"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.9"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.11"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667,733</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.15"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://inscription/wa/2_IV_H.12/i_uebrige"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.14"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+      <item uri="faust://document/wa/2_IV_H.10"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+      <item uri="faust://document/wa/2_IV_H.21"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+      <item uri="faust://document/wa/2_IV_H.16"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,14:2 /  / IV H13a (Findbuch) /  -->
+   <!--  / 25/XVIII,5,15 /  / IV H14 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.14"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,16 /  / IV H15 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . bildete ursprünglich mit dem Ergänzungsblatt von IV H10 ein
+         Blatt.</comment>
+      <item uri="faust://document/wa/2_IV_H.9/"/>
+      <item uri="faust://document/wa/2_IV_H.15"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . bildete ursprünglich mit dem Ergänzungsblatt von IV H10 ein
+         Blatt.</comment>
+      <item uri="faust://document/wa/2_IV_H.11/"/>
+      <item uri="faust://document/wa/2_IV_H.15"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667,733</source>
+      <comment>Relative Chronologie. . bildete ursprünglich mit dem Ergänzungsblatt von IV H10 ein
+         Blatt.</comment>
+      <item uri="faust://document/wa/2_IV_H.15"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,17 /  / IV H16 /  -->
+   <date notBefore="1831-12-08">
+      <comment>Datierung auf Brief auf Hs. auf Frachtbrief zu einer Lieferung des Frankfurter
+         Konditors A. Bernoully an Goethe, 8.12.1831. nachträglich in H ergänzt.</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.669</source>
+      <item uri="faust://document/wa/2_IV_H.16"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.667</source>
+      <comment>Datierung auf Brief auf Hs. auf Frachtbrief zu einer Lieferung des Frankfurter
+         Konditors A. Bernoully an Goethe, 8.12.1831. nachträglich in H ergänzt.</comment>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+      <item uri="faust://document/wa/2_IV_H.16"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.669</source>
+      <comment>Datierung auf Brief auf Hs. auf Frachtbrief zu einer Lieferung des Frankfurter
+         Konditors A. Bernoully an Goethe, 8.12.1831. nachträglich in H ergänzt.</comment>
+      <item uri="faust://document/wa/2_H"/>
+      <item uri="faust://document/wa/2_IV_H.16"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,18 /  / IV H17 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.17"/>
+      <item uri="faust://document/wa/2_IV_H.18"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.17"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,19 /  / IV H18 /  -->
+   <date type="normalized" notBefore="1831-06-26" notAfter="1831-06-30">
+      <comment>Relative Chronologie, Zeugnis. Tagebucheintragvom 24./27.6.1831. Notiz "Galilei
+      Dialogis de Systema [...] Cosm[icum] Doppelte Benennung vid. Dial. 4".</comment>
+      <comment>Ende Juni 1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.731</source>
+      <item uri="faust://document/wa/2_IV_H.18"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666-667</source>
+      <comment>Relative Chronologie, Zeugnis. Tagebucheintragvom 24./27.6.1831. Notiz "Galilei
+         Dialogis de Systema [...] Cosm[icum] Doppelte Benennung vid. Dial. 4".</comment>
+      <item uri="faust://document/wa/2_IV_H.17"/>
+      <item uri="faust://document/wa/2_IV_H.18"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.731</source>
+      <comment>Relative Chronologie, Zeugnis. Tagebucheintragvom 24./27.6.1831. Notiz "Galilei
+         Dialogis de Systema [...] Cosm[icum] Doppelte Benennung vid. Dial. 4".</comment>
+      <item uri="faust://document/wa/2_IV_H.18"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,20 /  / IV H19 /  -->
+   <date notBefore="1831-06-30">
+      <comment>nach dem Sommer 1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.714</source>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.714</source>
+      <comment>Relative Chronologie. . gehörte mit IV zu einem Foliobogen, auf Umschlag mit Adresse
+         Goethes, F. J. Soret: "[...] Excellence Baron. Ministre d Etat d Goethe Weimar".</comment>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+      <item uri="faust://inscription/wa/2_IV_H.12/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . gehörte mit IV zu einem Foliobogen, auf Umschlag mit Adresse
+         Goethes, F. J. Soret: "[...] Excellence Baron. Ministre d Etat d Goethe Weimar".</comment>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+      <item uri="faust://document/wa/2_IV_H.8"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666,714</source>
+      <comment>Relative Chronologie. . gehörte mit IV zu einem Foliobogen, auf Umschlag mit Adresse
+         Goethes, F. J. Soret: "[...] Excellence Baron. Ministre d Etat d Goethe Weimar".</comment>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.714</source>
+      <comment>Relative Chronologie. . gehörte mit IV zu einem Foliobogen, auf Umschlag mit Adresse
+         Goethes, F. J. Soret: "[...] Excellence Baron. Ministre d Etat d Goethe Weimar".</comment>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+      <item uri="faust://inscription/wa/P191Var/i_v_u"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.714</source>
+      <comment>Relative Chronologie. . gehörte mit IV zu einem Foliobogen, auf Umschlag mit Adresse
+         Goethes, F. J. Soret: "[...] Excellence Baron. Ministre d Etat d Goethe Weimar".</comment>
+      <item uri="faust://document/wa/P181"/>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.714</source>
+      <comment>Relative Chronologie. . gehörte mit IV zu einem Foliobogen, auf Umschlag mit Adresse
+         Goethes, F. J. Soret: "[...] Excellence Baron. Ministre d Etat d Goethe Weimar".</comment>
+      <item uri="faust://inscription/wa/182/i_r_o"/>
+      <item uri="faust://inscription/wa/2_IV_H.19/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,21 /  / IV H20 /  -->
+   <!--  / 25/XVIII,5,22 /  / IV H21 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.667</source>
+      <comment>Relative Chronologie. Ergänzung zu IV H13. .</comment>
+      <item uri="faust://document/wa/2_IV_H.13"/>
+      <item uri="faust://document/wa/2_IV_H.21"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,23 /  / IV H22 /  -->
+   <date when="1831-05-16">
+      <comment>Datierung auf Hs. .</comment>
+      <comment>16.05.1831 (Schema)</comment>
+      <comment>Verse = IV H.22 (nachträglich am Rand), Schema = P178</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.686-687</source>    
+      <item uri="faust://inscription/wa/P178/i_1_r"/>
+   </date>
+   <!-- geprüft -->
+   <date notBefore="1831-05-16" notAfter="1831-12-08">
+      <comment>Verse später, aber vor H</comment>
+      <comment>Verse = IV H.22 (nachträglich am Rand), Schema = P178</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.686-687</source>
+      <item uri="faust://inscription/wa/2_IV_H.22/i_uebrige"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,5,24 /  / IV H22a /  -->
+   <date notBefore="1831-05-30">
+      <comment>Datierung auf Quittung aug Hs, relative Chronologie. auf Quittung von K. W. Göttling
+         für Goethe, 30.5.1831. .</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.724</source>
+      <item uri="faust://document/wa/2_IV_H.22a"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666,724</source>
+      <comment>Datierung auf Quittung aug Hs, relative Chronologie. auf Quittung von K. W. Göttling
+         für Goethe, 30.5.1831. .</comment>
+      <item uri="faust://document/wa/2_IV_H.22a"/>
+      <item uri="faust://document/wa/2_IV_H.8"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,6,1 / Cologny, Bibliotheca Bodmeriana / IV Ha /  -->
+   <!--  / 25/XVIII,6,1d /  / ? /  -->
+   <!--  / 25/XVIII,6,1e / Cologny, Bibliotheca Bodmeriana / IV Hb /  -->
+   <!--  / 25/XVIII,6,2 / Cologny, Bibliotheca Bodmeriana / IV Hb /  -->
+   <!--  / 25/XVIII,6,3 / Cologny, Bibliotheca Bodmeriana / IV Hc /  -->
+   <date notBefore="1831-06-26" notAfter="1831-07-22">
+      <comment>Inhalt. . ursprünglich 1. Teil eines Arbeitsmundums, Fortsetzung auf IV ;
+      GSA-Sognatur laut B, S.734: XVIII,c.</comment>
+      <comment>Juni 1831, vor 22.07.1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.668,736</source>
+      <item uri="faust://document/wa/2_IV_H.c"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/bohnenkamp1994">S.668,736</source>
+      <comment>Inhalt. . ursprünglich 1. Teil eines Arbeitsmundums, Fortsetzung auf IV ;
+         GSA-Sognatur laut B, S.734: XVIII,c.</comment>
+      <item uri="faust://document/wa/2_IV_H.c"/>
+      <item uri="faust://document/wa/2_IV_H.f"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,6,4 / UB Leipzig, Sammlung Hirzel, B 495 / IV Hd /  -->
+   <!--  / 25/XVIII,6,5 / Leipzig, UB, Sammlung Hirzel, B 496 / IV He /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.d"/>
+      <item uri="faust://document/wa/2_IV_H.e"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.666</source>
+      <comment>Relative Chronologie. . .</comment>
+      <item uri="faust://document/wa/2_IV_H.e"/>
+      <item uri="faust://document/wa/2_IV_H.8"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,6,6 / Cologny, Bibliotheca Bodmeriana / IV Hf /  -->
+   <date notBefore="1831-06-26" notAfter="1831-07-22">
+      <comment>Inhalt. . Teil eines Arbeitsmundums, Fortsetzung auf IV H20.</comment>
+      <comment>Juni 1831, vor 22.07.1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <item uri="faust://document/wa/2_IV_H.f"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <comment>Inhalt. . Teil eines Arbeitsmundums, Fortsetzung auf IV H20.</comment>
+      <item uri="faust://document/wa/2_IV_H.f"/>
+      <item uri="faust://document/wa/2_IV_H.c"/>
+      <item uri="faust://inscription/wa/2_IV_H.20/i_uebrige"/>
+   </relation>
+   <!-- geprüft -->  
+   <!--  / 25/XVIII,6,7 / Cologny, Bibliotheca Bodmeriana / IV Hg /  -->
+   <date notBefore="1831-06-26" notAfter="1831-07-22">
+      <comment>Inhalt. . ursprünglich Teil eines Arbeitsmundums, Fortsetzung auf IV H.h.</comment>
+      <comment>Juni 1831, vor 22.07.1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <item uri="faust://document/wa/2_IV_H.g"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <comment>Inhalt. . ursprünglich Teil eines Arbeitsmundums, Fortsetzung auf IV H.h.</comment>
+      <item uri="faust://document/wa/2_IV_H.g"/>
+      <item uri="faust://document/wa/2_IV_H.1"/>
+      <item uri="faust://document/wa/2_IV_H.h"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XVIII,6,7a / Cologny, Bibliotheca Bodmeriana / IV Hg /  -->
+   <!--  / 25/XVIII,6,8 / Hannover, Stadtarchiv, 666; V.064 (Sammlung Culemann) / IV Hh /  -->
+   <date notBefore="1831-06-26" notAfter="1831-07-22">
+      <comment>Inhalt. . ursprünglich 1. Teil eines Arbeitsmundums, Fortsetzung auf IV Hg.</comment>
+      <comment>Juni 1831, vor 22.07.1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <item uri="faust://document/wa/2_IV_H.h"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-syn">
+      <source uri="faust://bibliography/bohnenkamp1994">S.668</source>
+      <comment>Inhalt. . ursprünglich 1. Teil eines Arbeitsmundums, Fortsetzung auf IV Hg.</comment>
+      <item uri="faust://document/wa/2_IV_H.h"/>
+      <item uri="faust://document/wa/2_IV_H.g"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,18 /  / H P179 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.675</source>
+      <item uri="faust://document/bohnenkamp/H_P179a"/>
+      <item uri="faust://inscription/wa/P179.1/i_1_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.675</source>
+      <item uri="faust://document/bohnenkamp/H_P179.1"/>
+      <item uri="faust://inscription/wa/P179.2/i_2_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.675</source>
+      <item uri="faust://document/bohnenkamp/H_P179a"/>
+      <item uri="faust://inscription/wa/P179.3/i_1_v"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,19 /  / H P179a /  -->
+   <date notBefore="1828-04-18">
+      <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Ernst Friedrich Bußler, 14.4.1828 und Tagebucheintrag vom 18.04.1828</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.671-672</source>
+      <item uri="faust://document/bohnenkamp/H_P179a"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.671-672</source>
+      <item uri="faust://document/bohnenkamp/H_P179a"/>
+      <item uri="faust://inscription/wa/P178/i_1_r"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.671-672</source>
+      <item uri="faust://document/bohnenkamp/H_P179a"/>
+      <item uri="faust://inscription/wa/P179.3/i_1_v"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,20 /  / H P180 /  -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.677</source>
+      <comment>Inhalt. . .</comment>
+      <item uri="faust://document/bohnenkamp/H_P179a"/>
+      <item uri="faust://document/bohnenkamp/H_P180"/>
+   </relation>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.677</source>
+      <comment>Inhalt. . .</comment>
+      <item uri="faust://document/bohnenkamp/H_P180"/>
+      <item uri="faust://inscription/wa/P178/i_1_r"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,21 /  / H P181 /  -->
+   <date notBefore="1831-06-26" notAfter="1831-06-30">
+      <comment>Inhalt. . .</comment>
+      <comment>vmtl Juni 1831</comment>
+      <source uri="faust://bibliography/bohnenkamp1994">S.711-712</source>
+      <item uri="faust://document/bohnenkamp/H_P181"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/IX,4,20b /  / H P188a /  -->
+   <date notBefore="1831-05-01" notAfter="1831-07-22">
+      <comment>Quelle: Catteau-Calleville "Tableau de la mer baltique"; am 15. April 1831 aus der Großherzoglichen Bibliothek entliehen</comment>
+      <source uri="faust://bibliography/morris1902a">S.111-113</source>
+      <!-- geprüft -->
+      <source uri="faust://bibliography/bohnenkamp1994">S.700</source>
+      <item uri="faust://document/bohnenkamp/H_P188a"/>
+   </date>
+   <!-- geprüft -->
+   <!--  / 25/XIX,2,22 /  / H P188 /  -->
+   <date type="normalized" notBefore="1825-01-01" notAfter="1825-03-31">
+      <comment>Unsicher: Winter 1825, Überschwemmungsunglück  (Lohmeyer)</comment>
+      <source uri="faust://bibliography/lohmeyer1927">S.125</source>
+      <item uri="faust://document/bohnenkamp/H_P188"/>
+   </date>
+   <!-- geprüft -->
+   <relation name="temp-pre">
+      <source uri="faust://bibliography/bohnenkamp1994">S.701</source>
+      <comment>Biographie. Überschwemmungskatastrophe dieses Winters. .</comment>
+      <item uri="faust://document/wa/2_IV_H.5"/>
+      <item uri="faust://document/bohnenkamp/H_P188"/>
+   </relation>
+   <!-- geprüft -->
+   <!--  / 25/XIX,3*e /  /  /  -->
+</macrogenesis>

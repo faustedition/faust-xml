@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390883/">
+    <revisionDesc>
+        <change when="2012-12-06" who="henzel">imported</change>
+        <change when="2013-01-07" who="henzel">Metadaten aus structure für Blatt 1 und 2</change>
+        <change when="2013-01-11" who="henzel">Metadaten aus structure für Blatt 3 bis 13</change>
+        <change when="2013-01-15" who="henzel">encoded</change>
+        <change when="2015-01-28" who="koehler">minimal headnote</change>
+        <change when="2015-05-13" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+        <change when="2018-09-20" who="krause">idno landeck ergänzt</change>
+        <change when="2018-10-08" who="krause">idno landeck gelöscht</change>
+    </revisionDesc>
+    <metadata>
+        <headNote>13 Einzelblätter. – Zu ‚Faust II‘, Akt 5.</headNote>
+        <note>Eigenhändige Banderole mit Bleistift mit der Aufschrift "Mundirt"; dazu in kleinem
+            Umschlag 1. Teil der ursprünglich aufgeklebten Korrektur zu Vers 11687;
+            faust://document/wa_faust/2_V_H.31 gehörte ursprünglich zum Konvolut</note>
+        <repository>gsa</repository>
+        <idno type="faustedition">2 V H.2</idno>
+        <idno type="gsa_1">GSA 25/XVIII,7,3</idno>
+        <idno type="gsa_2">GSA 25/W 1698</idno>
+        <idno type="gsa_ident">390883</idno>
+        <idno type="wa_faust">2 V H.2</idno>
+             <!-- P203 -->
+        <!-- P97 -->
+        <!-- P98, Hecker Nr. 3 -->
+        <textTranscript uri="390883.xml"/>
+        <classification>Mundum</classification>
+        <numberingList>
+            <!-- 3 -->
+            <numbering>Eigenhändige Foliierung mittels Kleinbuchstaben mit Bleistift</numbering>
+            <!-- oben rechts, ungezählt Blatt 5 nach eigener Zählung; b-, c, c (= zweimal gezählt), zwischen d und e ungezähltes Blatt, g, g (= zweimal gezählt: Blatt 8 und 9), h, i, k, l = Anbringung, m -->
+            <numbering>Archivarische Foliierung mit Bleistift</numbering>
+            <!-- oben rechts; ungezählt: Blatt 5-8 und 10-13 nach eigener Zählung, Zählung selbst beginnt mit 2; 2, 3x3 (Blatt 2 bis 4 nach eigener Zählung), keine Zählung für Blatt 5-8, dann weiter mit 5 (Blatt 9), Blatt 10-13 ohne Zählung -->
+            <numbering>Archivarische Foliierung mit Bleistift</numbering>
+            <!-- unten rechts, Zählung beginnt mit 2 auf Blatt 1; = jüngste Zählung -->
+        </numberingList>
+        <condition>schräger Schnitt (von links unten nach rechts oben) als 'Erledigung' durch
+            gesamtes Konvolut außer Blatt 2; Einsiegelung in Papierschleife (gelbliches weiches
+            Papier) mit eigenhändigem Vermerk mit Bleistift "Mundirt"; beschädigt, durch
+            Erledigtschnitt abgetrenntes Zettelchen wird in eigenem Umschlag verwahrt; auf allen
+            Blättern Spuren einer früheren Querfaltung; Vergilbung, insbesondere der Ränder</condition>
+        <format>2</format>
+        <paperType>Schreibpapier</paperType>
+        <paperColour>grünlich</paperColour>
+        <paperMill>Stützerbach</paperMill>
+        <references>
+            <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 147,
+                245f.</reference>
+            <reference type="description" uri="faust://bibliography/landeck1981">S.
+                76-81</reference>
+            <reference type="text" uri="faust://bibliography/wa_I_15_1">S. 343-345</reference>
+            <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 157</reference>
+            <reference type="text" uri="faust://bibliography/landeck1981">S. 60-75</reference>
+            <!-- TODO GJb 1888, S. 5f. (P97 u. P98) -->
+            <reference type="facsimile" uri="faust://bibliography/dietze1975"/>
+            <reference type="essay" uri="faust://bibliography/landeck1981">S. 76-81</reference>
+            <reference type="essay" uri="faust://bibliography/dietze1975"/>
+        </references>
+    </metadata>
+    <disjunctLeaf>
+        <metadata>
+            <dimensions>
+                <width unit="mm">415</width>
+                <height unit="mm">110</height>
+            </dimensions>
+            <note>Mit der Breite wurde der Umfang der Banderole gemessen.</note>
+            <format>none</format>
+            <paperType>Velinpapier</paperType>
+            <paperColour>beige</paperColour>
+            <watermarkID>none</watermarkID>
+            <countermarkID>none</countermarkID>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0002.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 1 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 202 mm.</note>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- 65 mm hoch x 43 mm breit; auf dem 4. Steg; spiegelverkehrtes Gegenzeichen -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0003.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <note>Unter „Mit Frevel-Wort …“ sind verwischte Bleistiftspuren von wenig mehr als einer Zeile erkennbar.</note>
+                <docTranscript uri="0004.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 2 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <leafCondition>kein Schnitt (eigenhändige Erledigtstreichung) durchs Blatt; Tintenfleck
+                auf der Rückseite</leafCondition>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>herzoglich-sächsisches Wappen mit Krone über "Stuetzerbach"</watermarkID>
+            <!-- auf dem 4. Steg; 107 mm hoch x 55 mm breit; spiegelverkehrtes Wasserzeichen; (Querstreifen mit einem von oben links nach unten rechts verlaufenden diagonalen Streifen); oberhalb Krone mit drei Edelsteinen; unterhalb des Wappens 'Stuetzerbach' (doppelstrichig, kursiv, großer Anfangsbuchstabe) -->
+            <!-- ABR: Rautenkranzwappen über 'Stuetzerbach' -->
+            <countermarkID>none</countermarkID>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0005.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0006.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 3 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">206</width>
+                <height unit="mm">337</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Höhe beträgt 203 mm.</note>
+            <format>2</format>
+            <edges>cut</edges>
+            <chainLines unit="mm">26</chainLines>
+            <!-- <Steglinienanzahl>8</Steglinienanzahl> -->
+            <watermarkID>doppelköpfiger Adler mit Krone, Wappen (verschlungenes "JGH"), Zepter und
+                Reichsapfel in den Krallen haltend</watermarkID>
+            <!-- mit sechsfedrigen Flügeln, der im Schoß ein Wappen mit
+               kursiven, verschlungenen Großbuchstaben 'GH' hält; zu seinen Füßen
+               Herrscherinsignien: Zepter (rechter Fuß) und Apfel (linker Fuß), Adler
+               schaut aus seiner Perspektive nach links; oberhalb des Adlers
+               Krone(?); bei ABR dagegen: geflügelte Armbrust mit Krone -->
+            <!-- zwischen dem 4. und 5. Steg, 99 hoch mal 87 breit -->
+            <countermarkID>none</countermarkID>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0008.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0007.xml"/>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 4 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- auf dem 4. Steg, 65 hoch x 42 breit -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0009.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0010.xml"/> deleatur -->
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0011.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0012.xml"/> deleatur -->
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 5 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 200 mm.</note>
+            <format>2</format>
+            <leafCondition>linke untere Ecke war geknickt</leafCondition>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- auf dem 4. Steg, 65 hoch mal 43 breit -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0013.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="FA_124_0002.xml"/>
+                <!-- leer -->
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 6 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">222</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>herzoglich-sächsisches Wappen mit Krone über "Stuetzerbach"</watermarkID>
+            <!-- herzoglich-sächsisches Wappen (Querstreifen mit einem von oben
+               links nach unten rechts verlaufenden diagonalen Streifen); oberhalb Krone
+               mit drei Edelsteinen; unterhalb des Wappens 'Stuetzerbach' (doppelstrichig,
+               kursiv, großer Anfangsbuchstabe); auf dem 4. Steg, 107 hoch x 55 breit -->
+            <countermarkID>none</countermarkID>
+        </metadata>
+        <page>
+            <metadata>
+                <references>
+                    <reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+                        781</reference>
+                    <reference type="text" uri="faust://bibliography/bohnenkamp1994">S.
+                        781f.</reference>
+                    <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                        728f.</reference>
+                    <reference type="facsimile" uri="faust://bibliography/buchwald1942">nach S. 392,
+                        Tafel 6</reference>
+                    <reference type="facsimile" uri="faust://bibliography/bohnenkamp1994">S.
+                        837</reference>
+                    <reference type="facsimile" uri="faust://bibliography/bohnenkamp1997">S.
+                        215</reference>
+                    <reference type="facsimile" uri="faust://bibliography/schoene2005">Bd. 1, nach
+                        S. 736, Abb. 18</reference>
+                    <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S.
+                        785-787</reference>
+                </references>
+                <docTranscript uri="0014.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0015.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0016.xml"/> deleatur  -->
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 7 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- auf dem 4. Steg, 65 hoch x 43 breit -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0017.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0018.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0019.xml"/> deleatur -->
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 8, archiv. 9 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <leafCondition>Blatt 8 war ursprünglich mit Blatt 9 zusammengeklebt (6 Klebepunkte, noch
+                vorhanden), ist mit diesem jetzt nur noch unten rechts mit Klebepunkt verbunden;
+                durch Erledigtschnitt (Goethes) abgetrenntes Zettelchen befindet sich in gesondertem
+                Umschlag</leafCondition>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>herzoglich-sächsisches Wappen mit Krone über "Stuetzerbach"</watermarkID>
+            <!-- auf dem 4. Steg, 107 hoch x 55 breit -->
+            <countermarkID>none</countermarkID>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0023.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0024.xml"/> deleatur -->
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0020.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0021.xml"/> deleatur -->
+                <!-- <f:materialUnit type="page" transcript="0022.xml"/> deleatur -->
+            </metadata>
+            <patch>
+                <metadata>
+                    <patchDimensions>
+                        <width unit="mm">67</width>
+                        <height unit="mm">6</height>
+                    </patchDimensions>
+                    <patchType>glue</patchType>
+                    <patchType>loose</patchType>
+                    <note>durch den Schnitt durch das Konvolut wurde ein Teil des angeklebten
+                        Zettels abgetrennt und wird in einem beiliegenden Umschlag aufbewahrt</note>
+                    <patchPaperType>Schreibpapier</patchPaperType>
+                    <patchPaperColour>grünlich</patchPaperColour>
+                    <patchChainLines unit="mm">n.s.</patchChainLines>
+                    <!-- nicht messbar -->
+                    <patchPaperMill>Stützerbach</patchPaperMill>
+                    <patchWatermarkID>none</patchWatermarkID>
+                    <patchCountermarkID>none</patchCountermarkID>
+                </metadata>
+                <patchSurface/>
+                <!-- TODO patch Digitalisat -->
+                <patchSurface/>
+            </patch>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 9, archiv. 8 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <leafCondition>Blatt 9 war ursprünglich mit Blatt 8 zusammengeklebt (6 Klebepunkte, noch
+                vorhanden), ist mit diesem jetzt nur noch unten rechts mit Klebepunkt
+                verbunden</leafCondition>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- auf dem 4. Steg, 65 hoch x 43 breit -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0025.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0026.xml"/> deleatur -->
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="FA_124_0005.xml"/>
+                <!-- leer -->
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 10 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <leafCondition>rötlicher Fleck auf der Vorderseite; Aufklebung auf der Rückseite von
+                Archivar aufgeschnitten</leafCondition>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>herzoglich-sächsisches Wappen mit Krone über "Stuetzerbach"</watermarkID>
+            <!-- auf dem 4. Steg, 107 hoch x 55 breit -->
+            <countermarkID>none</countermarkID>
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0027.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0028.xml"/> deleatur  -->
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0029.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0030.xml"/> deleatur (da unter Aufklebung, nicht Anklebung)  -->
+            </metadata>
+            <patch>
+                <metadata>
+                    <patchDimensions>
+                        <width unit="mm">201</width>
+                        <height unit="mm">38</height>
+                    </patchDimensions>
+                    <note>Der Mindestwert der Blatt-Breite beträgt 36 mm.</note>
+                    <patchType>glue</patchType>
+                    <note>Der aufgeklebte Zettel wurde archivarisch aufgeschnitten.</note>
+                    <patchPaperType>Schreibpapier</patchPaperType>
+                    <patchPaperColour>grünlich</patchPaperColour>
+                    <patchChainLines unit="mm">28</patchChainLines>
+                    <!-- Steglinienanzahl: 7 -->
+                    <patchPaperMill>Stützerbach</patchPaperMill>
+                    <watermarkID>none</watermarkID>
+                    <countermarkID>none</countermarkID>
+                </metadata>
+                <patchSurface/>
+                <patchSurface/>
+            </patch>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 11 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <note>Der Mindestwert der Blatt-Breite beträgt 200 mm. Der Mindestwert der Blatt-Höhe
+                beträgt 333 mm.</note>
+            <format>2</format>
+            <leafCondition>auf Vorderseite oben Zettelchen aufgeklebt (von Archivar getrennt); auf
+                Rückseite Anklebung (roter Siegellack)</leafCondition>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- auf dem 4. Steg, 65 hoch x 43 breit -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0031.xml"/>
+                <!-- <docTranscript uri="0032.xml"/> deleatur (da Aufklebung) -->
+            </metadata>
+            <patch>
+                <metadata>
+                    <patchDimensions>
+                        <width unit="mm">203</width>
+                        <height unit="mm">28</height>
+                    </patchDimensions>
+                    <note>Der Mindestwert der Blatt-Breite beträgt 202 mm.</note>
+                    <patchType>glue</patchType>
+                    <note>Die Aufklebung am rechten Rand wurde archivarisch losgelöst.</note>
+                    <patchPaperType>Schreibpapier</patchPaperType>
+                    <patchPaperColour>grünlich</patchPaperColour>
+                    <patchPaperMill>Stützerbach</patchPaperMill>
+                    <patchChainLines unit="mm">28</patchChainLines>
+                    <patchWatermarkID>none</patchWatermarkID>
+                    <patchCountermarkID>none</patchCountermarkID>
+                </metadata>
+                <patchSurface/>
+                <patchSurface/>
+            </patch>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0033.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0034.xml"/> deleatur  -->
+            </metadata>
+            <patch>
+                <metadata>
+                    <note>oberer Rand des angeklebten Zettels wurde mit drei roten Klebepunkten
+                        versehen</note>
+                    <patchDimensions>
+                        <width unit="mm">201</width>
+                        <height unit="mm">114</height>
+                    </patchDimensions>
+                    <note>Der Mindestwert der Blatt-Höhe beträgt 113 mm.</note>
+                    <patchType>glue</patchType>
+                    <patchPaperType>Schreibpapier</patchPaperType>
+                    <patchPaperColour>grünlich</patchPaperColour>
+                    <patchChainLines unit="mm">28</patchChainLines>
+                    <!-- Steglinienanzahl: 7 -->
+                    <patchPaperMill>Stützerbach</patchPaperMill>
+                    <patchWatermarkID>none</patchWatermarkID>
+                    <patchCountermarkID>none</patchCountermarkID>
+                </metadata>
+                <patchSurface/>
+                <patchSurface/>
+            </patch>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 12 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- auf dem 4. Steg, 65 hoch x 43 breit -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0035.xml"/>
+            </metadata>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0036.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0037.xml"/> deleatur -->
+                <references>
+                    <reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+                        781</reference>
+                    <reference type="text" uri="faust://bibliography/bohnenkamp1994">S.
+                        783</reference>
+                    <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                        729</reference>
+                    <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S.
+                        785-787</reference>
+                </references>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <disjunctLeaf>
+        <!-- Blatt 13 -->
+        <metadata>
+            <dimensions>
+                <width unit="mm">201</width>
+                <height unit="mm">334</height>
+            </dimensions>
+            <format>2</format>
+            <leafCondition>auch die untere Hälfte der Anklebung wurde mit Schnitt als erledigt
+                durchgestrichen</leafCondition>
+            <edges>cut</edges>
+            <chainLines unit="mm">28</chainLines>
+            <!-- <Steglinienanzahl>7</Steglinienanzahl> -->
+            <watermarkID>none</watermarkID>
+            <countermarkID>verschlungenes "JGH" über "N 3"</countermarkID>
+            <!-- auf dem 4. Steg, 65 hoch x 43 breit -->
+        </metadata>
+        <page>
+            <metadata>
+                <docTranscript uri="0038.xml"/>
+                <!-- <f:materialUnit type="page" transcript="0039.xml"/> deleatur  -->
+                <!-- <f:materialUnit type="page" transcript="0040.xml"/> deleatur  -->
+                <references>
+                    <reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+                        781</reference>
+                    <reference type="text" uri="faust://bibliography/bohnenkamp1994">S.
+                        783f.</reference>
+                    <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                        729f.</reference>
+                    <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S.
+                        785-787</reference>
+                </references>
+            </metadata>
+            <patch>
+                <metadata>
+                    <patchDimensions>
+                        <width unit="mm">201</width>
+                        <height unit="mm">123</height>
+                    </patchDimensions>
+                    <patchType>glue</patchType>
+                    <!-- TODO Siegellack (rot) -->
+                    <patchPaperType>Schreibpapier</patchPaperType>
+                    <patchPaperColour>grünlich</patchPaperColour>
+                    <patchChainLines unit="mm">28</patchChainLines>
+                    <!-- Steglinienanzahl: 7 -->
+                    <patchPaperMill>Stützerbach</patchPaperMill>
+                    <patchWatermarkID>none</patchWatermarkID>
+                    <patchCountermarkID>none</patchCountermarkID>
+                </metadata>
+                <patchSurface/>
+                <patchSurface/>
+            </patch>
+        </page>
+        <page>
+            <metadata>
+                <docTranscript uri="0041.xml"/>
+                <references>
+                    <reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+                        781</reference>
+                    <reference type="text" uri="faust://bibliography/bohnenkamp1994">S.
+                        785</reference>
+                    <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                        730</reference>
+                    <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S.
+                        785-787</reference>
+                </references>
+            </metadata>
+        </page>
+    </disjunctLeaf>
+    <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+        <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Mundum; zur Datierung vgl. Bohnenkamp, S.785-786</f:bemerkung>
+      <f:datierung>Frühjahr 1825 (?)</f:datierung>
+      <f:kurztitel>
+Vers(e): 11384-11831 (11400-11401, 11507-11510, 11551-11554, 11585-11586, 11591-11592 fehlt/fehlen)
+Ich heiße der Mangel. ...
+Konzept John, egh; Korrektur egh
+
+Faust. Zweiter Theil. Aus dem Nachlaß. 5. Act. Chor
+Paralipomenon 203
+Liebe, die gnädige ...
+Konzept John
+
+Faust. Zweiter Theil. Aus dem Nachlaß. Epilog um 1800. Abkündigung
+Paralipomenon 97
+Den besten Köpfen sey das Stück empfohlen ...
+Abschrift John; Korrektur egh
+Titel der Handschrift: "Abkündigung."
+
+Faust. Zweiter Theil. Aus dem Nachlaß. Epilog um 1800. Abkündigung
+Paralipomenon 98
+Am Ende bin ich nun des Trauerspieles ...
+Abschrift John
+Titel der Handschrift: "Abschied."</f:kurztitel>
+    </f:archiveDatabase>
+        <f:abrDissertation>
+            <metadaten xmlns="">
+                <p>13 grünliche Folioblätter, WZ: verschlungenes `G H' über `N 3' /
+                    Rautenkranzwappen über `Stuetzerbach' und geflügelte Armbrust mit Krone;</p>
+                <p>John schw.br. Tinte, Ergänzungen G schw.br. Tinte und Korrekturen G Tinte und
+                    Blei; 11384-11831 (ohne 11400f., 1150711510,1155111554, 1155911580, 11585f.,
+                    11591f.), P203, P97, P98; in der Mitte bei allen zu diesem Mundum gehörenden
+                    Folioblättern (außer Blatt 2, das als `Doublette' Johns bezeichnet ist) ein
+                    schräger Schnitt, der das Mundum wohl `als erledigt' kennzeichnet (war
+                    `eingesiegelt' in Papierschleife mit dem Vermerk G Blei: "Mundirt");</p>
+                <p>Blatt 6: 202 x 335 mm; WZ: Rautenkranzwappen;</p>
+                <p>VS: G br. Tinte 1153911550, 1155511558 Var, Entwurf zu 1155911584; John br. Tinte
+                    Szenar nach 11586, 1158711590 Var; mit Blei paginiert "e" (Abbildung hier S.
+                    837);</p>
+                <p>RS: John br. Tinte 1159311607, G br. Tinte 11608116011;</p>
+                <p>Blatt 12: 202 x 333 mm; WZ: verschlungenes `G H' über `N 3';</p>
+                <p>VS: John br. Tinte 1181711831, mit Blei paginiert "k";</p>
+                <p>RS: John br. Tinte P203 Var, G Blei 3 Entwurfszeilen;</p>
+                <p>Blatt 13: 201202 x 334 mm; WZ: verschlungenes `G H' über `N 3';</p>
+                <p>VS: John br. Tinte Reinschrift P98 Strophe 1 u. 2; mit Blei paginiert "m" und
+                    "Schluß";</p>
+                <p>RS: John br. Tinte Reinschrift P98 Strophe 3 u. 4;</p>
+                <p>Ergänzungszettel 201 x 123126 mm, ein oben angeklebter Streifen aus einem
+                    grünlichen Foliobogen, gerippt; ohne WZ;</p>
+                <p>VS: John br. Tinte Reinschrift P97 mit Korrekturen G Tinte und Blei; mit Blei
+                    paginiert "l";</p>
+                <p>RS: John br. Tinte "Abschied" (gestrichen)</p>
+            </metadaten>
+            <kommentar xmlns="">
+                <p> Das wohl sämtliche bereits vorliegenden Entwürfe und Teilhandschriften
+                    zusammenfassende Mundum V H2 schließt die im Frühjahr 1825 wiederaufgenommene
+                    Arbeit am 5. Akt vorläufig ab. Dokumentiert werden hier lediglich vier Seiten
+                    und ein Ergänzungsblatt aus dieser Reinschrift: die vom endgültigen Text noch
+                    deutlich abweichende Fassung von Fausts Schlußmonolog auf Blatt 6 VS und der auf
+                    den drei letzten Seiten des Mundums dokumentierte Schluß des `Faust'-Dramas, wie
+                    Goethe ihn 1825 zumindest vorläufig gestaltete. Eine Wiedergabe des ganzen
+                    Mundums findet sich bei Landeck, S. 60-75. Wie die anderen Munda aus der Arbeit
+                    am `Faust' weist auch dieses zahlreiche verlöschte Bleistiftspuren auf; auch in
+                    diesem Mundum hat Goethe mit Bleistiftstichworten die Niederschrift des
+                    Schreibers vorstrukturiert.</p>
+                <p>Die Entstehung dieses ersten Mundums zum 5. Akt wurde in der Forschung bisher auf
+                    Frühjahr 1826 datiert (vgl. Hertz, Zur Entstehungsgeschichte von Faust II Akt5,
+                    S. 248 u. 265 und wieder Landeck, S. 80f.). Die hierfür herangezogenen Argumente
+                    und Indizien erweisen sich bei näherer Betrachtung jedoch als unzureichend (für
+                    aus Nachlaßstücke Zweiter Teil, Akt 5</p>
+                <p>führliche Hinweise in diesem Zusammenhang danke ich Jost Schillemeit). Hertz
+                    gründet seine Datierung vor allem auf die ganz unspezifischen
+                    Tagebucheintragungen des Frühjahrs 1826, in denen abwechselnd von der Arbeit an
+                    der `Helena' und am `Faust' die Rede ist, was er auf gleichzeitige Arbeit am 3.
+                    und am 5. Akt beziehen möchte. Landeck versucht, diese Datierung durch
+                    zusätzliche handschriftliche Indizien zu stützen, die jedoch einer näheren
+                    Überprüfung nicht standhalten (vgl. den Kommentar zu V H30, hier S. 777).</p>
+                <p>Wahrscheinlicher ist, daß die Reinschrift V H2 bereits als Abschluß der seit Ende
+                    Februar 1825 im Tagebuch bezeugten und an den Handschriften zu belegenden
+                    intensiven Arbeit am `Faust' bereits im Frühjahr diesen Jahres entstand (vgl.
+                    Tagebuch vom 13.-16. 3. 1825, WA III,29f.) _ nicht erst 1826.</p>
+                <p>Z. 1-37: Ein Faksimile der hier wiedergegebenen vieldiskutierten Vorderseite des
+                    6.Blattes, die eine frühe Fassung des Schlußmonologs enthält, findet sich schon
+                    bei Buchwald, Führer durch Goethes Faustdichtung und wieder bei Dietze, Faust
+                    Vers 11580. Diese Fassung des Schlußmonologs (Z. 22ff.) hat schon Strehlke unter
+                    die Paralipomena aufgenommen (S. 135), in der BA sind Z. 22-28 unter den
+                    `Skizzen und Varianten' abgedruckt (S. 663) _ wie bei Strehlke mit einem
+                    irreführenden, falschen Komma nach Z. 23 und Punkt (bzw. Semikolon) nach Z.
+                    24.</p>
+                <p>Eine gründliche Analyse dieses Blattes im Kontext der Sammelhandschrift hat Heinz
+                    Bluhm in seiner Untersuchung `Zur Entstehung und Interpretation der Szene
+                        <i>Grosser Vorhof des Palasts</i>' geliefert, die sich kritisch mit den
+                    Thesen von Hertz und Hohlfeld auseinandersetzt. (Vgl. mein Kapitel zur
+                    Entstehungsgeschichte, hier S. 744-747.) Gegen Hohlfelds These einer "argen
+                    Verwirrung", die hier durch zwei miteinander konkurrierende Konzeptionen
+                    verursacht sei, stellt Bluhm (S. 161) fest, daß die Szene auch "in ihrer
+                    Vorgestalt von 1825/26 [...] allerdings im Rahmen einer wesentlich kürzeren
+                    Ausführung" bereits einheitlich gestaltet war. Der aufgrund einer ungenauen
+                    Wiedergabe des handschriftlichen Befunds bei Hohlfeld hergestellte syntaktische
+                    Bezug zwischen Z. 22 und Z. 24 (Hohlfeld liest: "Dem Graben, der [...] gewinn
+                    ich Plaz [ab] für viele Millionen"), der zum Ausgangspunkt wurde für Hohlfelds
+                    These, daß Goethe hier einen alten Plan der Trockenlegung eines Sumpfes (im
+                    Binnenland) mit dem neuen, der Landgewinnung an der Küste, vermischt habe
+                    (Hohlfeld, Die Entstehung des Faust-Manuskripts, S. 302), läßt sich aufgrund der
+                    Goetheschen Interpunktion (ein eindeutiger Punkt nach Z. 23) ausschließen. "Um
+                    den Dativ richtig zu verstehen, muß man die ihm vorangehenden vier Verse, von
+                    denen die ersten zwei von Faust und die letzten zwei von Mephisto gesprochen
+                    werden, genau ansehen [...]. Faust will tagtäglich über die Verlängerung des
+                    Grabens unterrichtet werden. Bei dem Worte `Graben' unterbricht ihn Mephisto,
+                    indem er halblaut zwischenbemerkt, daß er von keinem Graben gehört hat, nur von
+                    einem Grab. Faust, der durch Mephistos Worte in seiner Anweisung gestört wurde,
+                    fährt fort, indem er an sie anknüpft, jedenfalls in der Konstruktion: Man
+                    spricht oder ich spreche `von dem Graben, der durch Sümpfe schleicht...'"
+                    (Bluhm, S. 159).</p>
+                <p> Dieses Blatt bietet ein Beispiel für Goethes Verfahren, in einem Arbeitsmundum
+                    zunächst Lücken zu lassen für noch auszuführende Passagen: während V H2 im
+                    übrigen weitgehend von John angefertigt wurde, hat Goethe die Verse des
+                    Schlußmonologs eigenhändig eingefügt. Zutreffend beschreibt Bluhm (S. 154) diese
+                    Niederschrift als eine "eigentümliche Mischung von im großen und ganzen
+                    sorgfältig Geschriebenem, vielleicht sogar Abgeschriebenem und von während des
+                    Niederschreibens gemachten Verbesserungen und Hinzufügungen": an verändertem
+                    Duktus und kleineren Buchstaben lassen sich die Z. 6 und 26 als nachträglich
+                    eingefügte erkennen. Für die frühe Fassung des Schlußmonologs bedeutet das, daß
+                    er zunächst in der Form von zwei Versgruppen von je vier Versen
+                    niedergeschrieben wurde, bevor Goethe dann den Raum zwischen beiden
+                    Vierergruppen mit der Zeile "Auf eignem Grund und Boden stehen" füllte. (Vgl.
+                    auch Bluhm, S. 155-157). </p>
+                <p>Z. 38-50: Der zunächst in der Szene `Grablegung' anstelle der V. 11817-11824
+                    vorgesehene Engelschor <b>P203</b> (vgl. V H31, hier S. 778) wurde hier
+                    offensichtlich als Epilog an die Verse Mephistos (11825-11831) angefügt. In
+                    P203, so stellt Hertz in seiner Untersuchung der Entstehungsgeschichte des 5.
+                    Akts fest, haben wir "die Gestaltung des ursprünglichen Schlusses der Tragödie"
+                    vor uns, wie sie Goethe damals vorschwebte und die erkennen läßt, "daß sich für
+                    die am Schlusse von P195 schematisierte und auch noch in P194 vorausgesetzte
+                    Gerichtsszene keine befriedigende Schau hatte einstellen wollen, und daß das
+                    ganze Motiv nunmehr verdrängt und ersetzt war durch den Schluchor, der durch die
+                    Verheißung der Gnade das Endurteil aussprach." (Hertz, Entstehungsgeschichte
+                    Faust II Akt 5, S. 266.) Da es sich aber bei den in V H2 mit Blei unter P203
+                    notierten, wahrscheinlich von V H31 hierher übertragenen Verszeilen (Z. 48-50)
+                    wohl um Entwürfe für den Schluß eines weiteren geplanten Engelchors handelt, der
+                    nicht mehr ausgeführt wurde, liegt die Vermutung nahe, daß ein endgültiger
+                    Abschluß für Goethe im Jahr 1825 mit dem Ende des Mundums V H2 noch nicht
+                    errreicht war. In der Folge scheint der dasAufsteigen der Seele beschreibende
+                    und begleitende Chor P203 dann durch die Konzeption eines neuen, ganz der
+                    aufsteigenden Bewegung gewidmeten Schlußteils (die erst Jahre später entstandene
+                    Szene `Bergschluchten') ersetzt worden zu sein _ vielleicht aber ist er im
+                    letzten großen Mundum H auch nur versehentlich ausgefallen.</p>
+                <p>Z. 51-94: Wie Blatt 13 des Mundums V H2 zeigt, sollte der `Faust' 1825 noch mit
+                    den beiden Rahmengedichten aus der Arbeitsphase vor der Jahrhundertwende
+                    schließen: die Reinschriften der beiden Schlußgedichte `Abkündigung' und
+                    `Abschied', von denen Goethe das erste in diesem Mundum noch einmal eigenhändig
+                    überarbeitet hat, machen deutlich, wie einflußreich der alte Plan bei der
+                    Wiederaufnahme der `Faust'-Arbeit noch gewesen ist. (Vgl. hier auch S.
+                    738-747.)</p>
+                <p>Z. 53: Goethe Tinte über Goethe Blei.</p>
+                <p>Z. 57 Des Menschenleben] Wohl Schreiberfehler für "Des Menschen Leben"; Landeck
+                    irrtümlich: "Das Menschenleben".</p>
+                <p>Z. 87: Gunst] Hörfehler des Schreibers für "Kunst".</p>
+            </kommentar>
+        </f:abrDissertation>
+    </f:metadataImport>
+</archivalDocument>

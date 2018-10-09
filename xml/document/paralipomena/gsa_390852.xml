@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390852/">
+<revisionDesc>
+	<change when="2012-12-06" who="henzel">imported</change>
+	<change when="2012-12-06" who="henzel">encoded</change>
+	<change when="2015-01-30" who="koehler">minimal headnote</change>
+	<change when="2015-02-23" who="koehler">URI fuer Handschriftensigle</change>
+</revisionDesc>
+	<metadata>
+		<headNote>Zettel. – Versentwurf zu ‚Faust II‘, Akt 2.</headNote>
+		<note>ergänzte sich ursprünglich mit faust://document/wa_faust/2_II_H.12 zu einem Umschlag; eigenhändige Adresse "Des Herrn Staatsminis" eines zeitgenössischen Schreibers mit Tinte (angeschnitten)</note>
+		<repository>gsa</repository>
+		<idno type="faustedition">H P161</idno>	
+		<idno type="gsa_2">GSA 25/W 1784</idno>	
+		<idno type="gsa_ident">390852</idno>	
+		<idno type="gsa_1">GSA 25/XIX,2,10</idno>
+		<idno type="wa_faust">none</idno>
+		<idno type="fischer_lamberg">2 II H.12a</idno>
+		<idno type="bohnenkamp">H P161</idno>
+		<idno type="hecker">183</idno>
+		<textTranscript uri="390852.xml"/>
+		<classification>Konzept</classification>
+		<condition>weiße Flecken; ursprünglich in der Mitte längs gefaltet</condition>
+		<dimensions>
+			<width unit="mm">222</width>
+			<height unit="mm">84</height>
+		</dimensions>
+		<note>Der Mindestwert der Blatt-Höhe beträgt 80 mm.</note>
+		<format>none</format>
+		<edges>cut</edges>
+		<note>oben und unten beschnitten</note>
+		<paperType>Schreibpapier</paperType>
+		<paperColour>gelblich</paperColour>
+		<chainLines unit="mm">26</chainLines>
+		<paperMill>n.s.<!-- TODO Mühle --></paperMill>
+		<watermarkID>WALDER</watermarkID>
+		<note>angeschnittenes Wasserzeichen</note>
+		<countermarkID>none</countermarkID>
+		<references>
+			<reference type="description" uri="faust://bibliography/wa_I_15_2">S. 226</reference>
+			<reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 33</reference>
+			<reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 531</reference>
+			<reference type="text" uri="faust://bibliography/wa_I_15_2">S. 226</reference>
+			<reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 531</reference>
+			<reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 665</reference>
+			<reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 531</reference>
+		</references>
+	</metadata>
+	<disjunctLeaf>
+		<page>
+			<metadata>
+				<docTranscript uri="0003.xml"/>
+			</metadata>
+		</page>
+		<page>
+			<metadata>
+				<docTranscript uri="0002.xml"/>
+			</metadata>
+		</page>
+	</disjunctLeaf>
+	
+	<f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+		<f:abrDissertation>
+			<kommentar xmlns="">
+				<p>Der Streifen ergänzt sich mit II H12 zu einem auseinandergeschnittenen Umschlag (vgl. Fischer-Lamberg, S. 33f., die die Entstehung der Entwürfe etwa Januar 1830 ansetzt); die Bleiskizzen sind jedoch offensichtlich nach der Trennung des Blattes geschrieben worden.</p>
+				<p>Wie bei P159 und P160 handelt es sich um einen Entwurf zu dem geplanten Hadesgang Fausts. P161 ist das Bruchstück eines Dialogs zwischen Faust und Manto; Manto verhüllt Faust um ihn vor dem für ihn tödlichen Anblick des Medusenhauptes zu schützen. Vgl. P123C, Z. 357-361, hier S. 449, und P125, Z. 63 alR, hier S. 510.</p>
+				<p> Nachlaßstücke Zweiter Teil, Akt 3</p>
+				<p>Zweiter Teil, Akt 3</p>
+				<p>Zur Entstehungsgeschichte</p>
+				<p>Erinnern Sie sich wohl noch, mein Theuerster, einer dramatischen <i>Helena,</i> die im zweyten Theil von Faust erscheinen sollte? Aus Schillers Briefen vom Anfang des Jahrhunderts sehe ich, daß ich ihm den Anfang vorzeigte, auch, daß er mich zur Fortsetzung treulich ermahnte. Es ist eine meiner ältesten Conceptionen, sie ruht auf der PuppenspielÜberlieferung, daß Faust den Mephistopheles genöthigt, ihm die Helena zum Beylager heranzuschaffen. Ich habe von Zeit zu Zeit daran fortgearbeitet, aber abgeschlossen konnte das Stück nicht werden, als in der Fülle der Zeiten, da es denn jetzt seine volle 3000 Jahre spielt, von Troja's Untergang bis zur Einnahme von Missolunghi.<sup>1</sup>
+				</p>
+				<p>Als Goethe am 22. Oktober 1826 diese Zeilen an Wilhelm v. Humboldt schreibt, ist die "dramatische Helena" im wesentlichen abgeschlossen; die Anfänge ihrer Entstehung liegen mehr als 50 Jahre zurück. Von den Plänen, die Goethe in der ersten frühen Phase der `Faust'Arbeit im Zusammenhang mit einem Auftritt der `schönen Helena' schmiedete, sind keine direkten Zeugnisse überliefert. Nur der viel später verfaßte Bericht für `Dichtung und Wahrheit'<sup>2</sup> gibt einen Einblick in diese "ältesten Conceptionen" _ wie zuverlässig er tatsächlich die ursprünglichen Intentionen spiegelt, wissen wir nicht:<sup>3</sup>
+				</p>
+				<p>Helena gehört dem Orkus und kann durch Zauberkünste wohl herausgelockt aber nicht festgehalten werden. Faust steht nicht ab, Mephistophles unternimmts. Unendliche Sehnsucht Faust's nach der einmal erkannten höchsten Schönheit. Ein altes Schloß, dessen Besitzer in Palestina Krieg führt, der Castellan aber ein Zauberer ist, soll der Wohnsitz des neuen Paris werden. Helena erscheint: durch einen magischen Ring ist ihr die Körperlichkeit wieder gegeben. Sie glaubt so eben von Troja zu kommen und in Sparta einzutreffen. Sie findet alles einsam, sehnt sich nach Gesellschaft, besonders nach männlicher, die sie ihr lebelang nicht entbehren können. Faust tritt auf und steht als deutscher Ritter sehr wunderbar gegen die antike Heldengestalt. Sie findet ihn abscheulich, allein da er zu schmeicheln weiß, so findet sie sich nach und nach in ihn, und er wird der Nachfolger so mancher Heroen und Halbgötter.<sup>4</sup>
+				</p>
+				<p> 1WAIV,41,202.</p>
+				<p>2P63, hier S. 266-274.</p>
+				<p>3Vgl. dazu hier S. 275f.</p>
+				<p>4P63 Z.105126, hier S. 271f. </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> `Helena im Mittelalter' (1800) </p>
+				<p>Die ältesten direkten Zeugnisse von der Arbeit an der `Helena' liegen uns in der im Jahre 1800 entstandenen, rund 250 Verse umfassenden Dichtung `Helena im Mittelalter' vor; neben der großen Reinschrift von der Hand Geists<sup>5</sup> sind dazu einige wenige Blätter mit Vorarbeiten überliefert.<sup>6</sup>
+				</p>
+				<p>"[...] meine <i>Helena</i> ist wirklich aufgetreten" konnte Goethe am 12. September 1800 aus Jena an Schiller melden:</p>
+				<p>Nun zieht mich aber das Schöne in der Lage meiner Heldin so sehr an, daß es mich betrübt wenn ich es zunächst in eine Fratze verwandeln soll. Wirklich fühle ich nicht geringe Lust eine ernsthafte Tragödie auf das Angefangene zu gründen [...]<sup>7</sup>
+				</p>
+				<p>Um 1800 scheint dem `klassischen' Goethe das nordischbarbarische "Hexenproducte" seines `Faust' (vgl. an Cotta 2. 1. 1799) ferner gerückt als die griechische Heldenfrau, die er nur ungern in diese faustische Sphäre hineinziehen möchte _ das Manuskript von 1800 bricht schließlich auch noch vor einer ersten Erwähnung Fausts ab.<sup>8</sup>
+				</p>
+				<p>Wiederaufnahme 1825/26</p>
+				<p>25 Jahre später erst nimmt Goethe die unterbrochene Arbeit an der `Helena' wiederauf. Am 26. Februar des Jahres 1825 setzt nach dem Zeugnis der Tagebücher die Arbeit am `Faust' wieder ein; am 14. März verzeichnet das Tagebuch: "Helena vorgenommen",<sup>9</sup> wenige Tage später "Helena im Mittelalter"<sup>10</sup> und "John schrieb die Helena ab. Ich fuhr fort das Manuscript zu mundiren".<sup>11</sup> Die Rede ist hier von zwei verschiedenen Munda: während John eine neue Abschrift anfertigt (III H2), beschäftigt sich Goethe mit "dem Manuscript", d. h. mit dem alten Mundum aus dem Jahr 1800 (III H1).<sup>12</sup>
+				</p>
+				<p>5III H1 vgl. hier S. 554-567.</p>
+				<p>6III H9, III H10, H P84, vgl. hier S. 538-553.</p>
+				<p>7WA IV,15,102.</p>
+				<p>8Zu der Arbeit im Jahre 1800 vgl. Ernst Grumach, Vorarbeiten; im einzelnen dazu den Kommentar zu den Handschriften.</p>
+				<p>9WA III,10,29.</p>
+				<p>1020.3.1825 (WA III,10,32).</p>
+				<p>1123.3.1825 (WA III,10,33).</p>
+				<p>12Vgl. FischerLamberg, S. 79, zu III H2: "Wir haben hier offensichtlich Goethes Arbeitsexemplar vor uns, das vor allem auch für die zahlreichen Besprechungen mit Riemer als Grundlage diente. Da diese Besprechungen bereits 1825 häufig im Tagebuch erwähnt werden, und da Goethe Riemer im April 1825 bittet, den `wunderlichen Redensarten' der Helena `einige Bleistiftstriche zuzuwenden', und da eben diese Bleistiftstriche in H1 gänzlich fehlen, in H2 aber sehr häufig sind, können wir mit Sicherheit annehmen, daß H2 bereits 1825 benutzt wurde." </p>
+				<p>Zweiter Teil, Akt 3 Nachlaßstücke Zweiter Teil, Akt 3</p>
+				<p> Wie so häufig, beginnt Goethe also auch dieses Mal die Wiederaufnahme einer Arbeit, indem er eine neue Abschrift des bereits Vorhandenen anfertigen läßt. Bis zum 5. April berichtet das Tagebuch nun fast täglich von der Arbeit "an Helena"; in diesen wenigen Wochen sind aller Wahrscheinlichkeit nach sowohl die Schemata P167 (hier S. 545), P162, P163, P165, P164, P164a und P166a (hier S. 574620) entstanden, die die geplante Fortsetzung der Dichtung skizzieren, als auch die Verse 8803 9191 (ohne 90326, 913941, 9072f., 916581) und, alte Lücken füllend, die Verse 858790 und 860437.<sup>13</sup> Am 25. März sendet Goethe den Beginn des 3. Akts als "einen Theil der gestrandeten Ladung, den ich den Strudeln des Lethe kecklich abgewonnen habe"<sup>14</sup> an Riemer, der in der Folge bei der Entstehung der `Helena' immer wieder beratend mitwirkt.<sup>15</sup> Bevor die Arbeit an der `Helena' noch einmal ins Stocken gerät, verzeichnet das Tagebuch am 5. April "Schema an
+						Helena":<sup>16</sup> sehr wahrscheinlich handelt es sich bei diesem Schema um P166a, das Goethe anfertigte, "weil er nach Abschluss von H1 [...] zunächst die Production am Drama ruhen liess. Das Schema wird also wohl die dichterischen Gedanken skizziert haben, die in der Fortsetzung bis zum Verschwinden der Helena ausgeführt werden sollten."<sup>17</sup> In welchem Ausmaß in den Frühlingswochen des Jahres 1825 auch Entwürfe entstanden für die ein Jahr später in III H2 mundierten Partien, läßt sich kaum noch zuverlässig klären; zu den frühen Entwürfen gehörte aber sicher das `Hochzeitslied' (V.93859410), das schon bald in den Schemata auftaucht.<sup>18</sup>
+				</p>
+				<p>Für den Rest des Jahres sind keine direkten Zeugnisse für eine Fortsetzung der Arbeit an der `Helena' überliefert; in den Sommermonaten 1825 beschäftigte sich Goethe jedoch nach dem Zeugnis der Ausleihverzeichnisse der Weimarer Bibliothek mit ver 13Vgl. FischerLamberg, S. 148.</p>
+				<p>14WA IV,39,154.</p>
+				<p>15Vgl. Goethes Schreiben an Riemer aus diesen Tagen: "Möchten Sie, mein Werthester, sich einrichten daß wir morgen Abend das Geschäft unserer schönen Königin weiter fördern können. Ich halte mich an eine flüchtige Redaction damit wir nur erst durchkommen." (28.3.1825, WA IV,39,159.) Am 2. April bittet Goethe: "Mögen Sie, mein Werthester, beykommendem Helden und Gespensterspuk fernere Aufmerksamkeit gönnen, auch einige Bleystiftstriche ihren wunderlichen Redensarten zuwenden; so geschieht mir ein besonderer Gefalle." (WA IV,39,165) Vgl. auch die Tagebucheintragungen aus dieser Zeit (22., 25. und 29. März, 3., 5. und 9. April; WA III,10,3341). Wie aus den Tagebüchern, vor allem aber auch aus den überlieferten Arbeitspapieren deutlich wird, betraf Riemers Mitarbeit an der `Helena' vor allem die metrische Gestaltung der Verse. Zunächst wurden in dieser Arbeitsphase auch die Verse der `alten' `Helena' umgeformt (vgl. z. B. III H7, hier S. 404f. Weitere Zeugnisse dieser
+					Tätigkeit Riemers werden im GoetheMuseum Düsseldorf aufbewahrt).</p>
+				<p>16WA III,10,39.</p>
+				<p>17Pniower, S. 146, der diese Äußerung allerdings auf P166 (hier S. 629f.) bezieht. Dagegen hat FischerLamberg wahrscheinlich gemacht, daß es sich bei diesem `Abschlußschema' nicht um P166, sondern um P166a handelte. Vgl. hier S. 620f.</p>
+				<p>18In wechselnden Positionen; P166a zitiert bereits die Anfangszeile (vgl. auch P164a, hier S. 610). </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> schiedenen Werken über Geschichte, Topographie und Kunstwerke Griechenlands _ unter anderem lieh er am 14. Juni 1825 Edward Dodwells `Travels in Greece' aus, auf das sich wahrscheinlich die auf III H53 (hier S. 627) überlieferten Exzerptnotizen beziehen lassen.<sup>19</sup> Noch im Spätsommer/Herbst desselben Jahres gibt Goethe einen großen Teil dieser Bücher bereits wieder zurück<sup>20</sup>; vorbereitende Lektüre im Hinblick auf die `Helena' ist also für den Sommer 1825 durchaus wahrscheinlich. </p>
+				<p>Erst ein Jahr nach dem letzten Tagebucheintrag zur `Helena', am 11. April 1826, verzeichnet das Tagebuch ausdrücklich wieder Arbeit am 3. Akt: "Mit Professor Riemer einiges an Helena durchgegangen";<sup>21</sup> in den Frühlingsmonaten entsteht der Hauptteil der Szenen `Innerer Burghof' und `Arkadien' (V.916510038).<sup>22</sup> Verbliebene Lücken werden geschlossen, große Teile (vor allem die Chöre) gemeinsam mit Riemer überarbeitet.<sup>23</sup> Die überlieferten Handschriften zeigen deutlich, daß die Arbeit an der `Helena' in einem wesentlich stärkeren Maße als bei den anderen Teilen des `Faust' immer wieder auch Arbeit an der endgültigen metrischrhythmischen Gestalt der Verse war: die überlieferten Papiere dokumentieren, daß vor allem die Chorverse wiederholt umgeformt wurden.<sup>24</sup> Schon am 8. Juni heißt es im Tagebuch: "Völliger Abschluß der Helena",<sup>25</sup> und gleich am nächsten Tag beginnt John mit der Anfertigung einer neuen Abschrift: "John
+					fing an die zweyte Hälfte der Helena zu mundiren" verzeichnet das Tagebuch am 9. Juni 1826.<sup>26</sup> Bereits am 10. Juni kann er sie abschließen: "John endigt das Mundum der Helena",<sup>27</sup> und im August 1826 entsteht schließlich auch das 19Vgl. Keudell, Nr. 1640.</p>
+				<p>20Vgl. Keudell, Nr. 1633, 1636, 1640, 1641, 1644, 1646, 1647, 1648, 1652.</p>
+				<p>21WA III,10,182. Unsicher ist, welche der bereits am 12. März dieses Jahres wieder einsetzenden Vermerke über Beschäftigung mit dem `Faust' schon auf die Arbeit an der `Helena' zu beziehen sind; vermutlich geht es hier zum Teil auch schon um vorbereitende Arbeiten zum 2. Akt (vgl. hier S. 406). Wie schon im Vorjahr unterscheidet Goethe bei den Eintragungen in sein Tagebuch zwischen Arbeit am `Faust' und an der `Helena' (vgl. WA III,10,171203), scheint dabei jedoch nicht konsequent verfahren zu sein. Nach dem Zeugnis der Handschriften ist er auch schon im März mit der Fortsetzung des 3. Akts beschäftigt: eine Abschrift des zweiten LynceusGesangs (V.92739332) ist auf den 31.3.1826 datiert.</p>
+				<p>22In engem Anschluß an das Schema P166a, das nun mehrfach umgearbeitet bzw. erweitert wird (vgl. P168, hier S. 633 und P170, hier S. 641).</p>
+				<p>23Regelmäßig verzeichnet das Tagebuch in diesen Wochen gemeinsame Arbeit mit Riemer an der Helena. (Vgl. die Einträge vom 14., 18., 21., 25., 26. April; vom 2., 9., 12.,16., 20. Mai und vom 6. Juni 1826; WA III,10,183201.)</p>
+				<p>24Vgl. etwa die hier wiedergegebenen Handschriften IIIH5 (hier S.572f.), III H9 (hier S. 551f.), III H17 (hier S. 586ff.), III H30 (hier S. 589ff.), III H42 (hier S. 603f.), III H36 (hier S. 605f.), III H27 (hier S. 607f.) und III H49 (hier S. 399ff.) sowie die Angaben in den `Lesarten' der WA zum 3. Akt (WA I,15.2,81131).</p>
+				<p>25WA III,10,202.</p>
+				<p>26WA III,10,202; den Beginn dieser Abschrift (HIII) vermutet FischerLamberg am 8. 6. 1826 (FischerLamberg, S. 81).</p>
+				<p>27WA III,10,202. </p>
+				<p> Schuchardtsche Manuskript,<sup>28</sup> das nach Auskunft des Tagebuchs am 26. 1. 1827 für die Sendung an Cotta vorbereitet wurde und einige Tage später tatsächlich als Druckvorlage für Bd. 4 der Ausgabe letzter Hand an den Stuttgarter Verleger Cotta ging.<sup>29</sup> Revisionsarbeiten verzeichnet das Tagebuch noch einmal am 21. 1. 1827; am 18. März schickt Goethe die letzte Fassung der Verse 99399943 nach Augsburg: </p>
+				<p>Einzuschalten wären in Helena einige Zeilen, und zwar die letzten Worte derselben folgendermaßen abzudrucken:</p>
+				<p>Helena.</p>
+				<p>Ein altes Wort bewährt sich leider auch an mir:</p>
+				<p>Daß Glück und Schönheit dauerhaft sich nicht vereint.</p>
+				<p>Zerrissen ist des Lebens wie der Liebe Band,</p>
+				<p>Bejammernd beide sage schmerzlich Lebewohl</p>
+				<p>Und werfe pp.<sup>30</sup>
+				</p>
+				<p>"[...] immer nach Einem Sinne, aber immer um und um gebildet" _ so beschreibt Goethe selbst rückblickend die Entstehung der `Helena'.<sup>31</sup>
+				</p>
+				<p>Zur Forschung</p>
+				<p>Eine frühe Untersuchung der Entstehungsgeschichte des `Helena'Akts liegt in Niejahrs Studie "Goethes `Helena'" aus dem Jahre 1894 vor, in der der Autor anhand der `Paralipomena' den Wandel der Konzeptionen betont und ihn nachzuzeichnen unternimmt:</p>
+				<p>Wir belauschen den Dichter bei der Arbeit, wie er in unverdrossenem Bemühen den kecken Jugendentwurf mehr und mehr abzuklären sucht und am Ende durch ein fortgesetztes Verfahren der Läuterung ein völlig neues Werk schafft. [...] Durch ein Fegefeuer von Einzelentwürfen und Skizzen hatte der Urentwurf einst wandern müssen, damit alle naturalistischen Schlacken ausgeschieden würden und der ideale Stil in voller Reinheit zur Erscheinung komme.<sup>32</sup>
+				</p>
+				<p>Besonders der Beginn ist im Laufe der Jahre völlig umgewandelt worden; Niejahr verweist auf die Bedeutung der `Paralipomena' für den Versuch einer entstehungsgeschichtlichen Rekonstruktion:</p>
+				<p>Für diesen Teil sind daher die von Erich Schmidt in der Weimarer GoetheAusgabe mit ausgezeichneter Sorgfalt veröffentlichten Paralipomena besonders wichtig, die obwohl meist flüch 28"Schuchardt fing die Abschrift der Helena an", 13. 8. 1826 (WA III,10,229); "Buchbinder Bauer, übergab ihm die Abschrift der Helena", 2. 9. 1826 (WA III,10,237).</p>
+				<p>29Vgl. Tagebuch vom 26.1.1827 (WA III,11,12) und Eckermanns Bericht vom 29. des Monats: "Ein versiegeltes Paket lag auf dem Tisch. Goethe legte seine Hand darauf. `Was ist das? sagte er. Es ist die <i>Helena,</i> die an Cotta zum Druck abgeht.'" (Vgl. dazu Pniower, S. 180.) "Nach Weimar zurückgesandt, wurde diese Handschrift dann mit dem übrigen Manuskript des 2. Teils vereinigt und liegt uns nun in der großen Reinschrift [H] vor." (FischerLamberg, S. 149.)</p>
+				<p>30WA IV,42,90. Vgl. dazu III H73 und III H74, hier S. 653f.</p>
+				<p>31An Sulpiz Boisserée am 22. 10. 1826 (WA IV,41,209).</p>
+				<p>32Niejahr, Helena, S. 81 und S. 85. </p>
+				<p> Zur Entstehungsgeschichte</p>
+				<p> tig hingeworfen und leider oft schwer zu enträtseln, dennoch einigermaßen den Weg erhellen, auf dem das Verfahren der allmählichen Umformung sich vollzog. [...] Fast keine Schöpfung Goethes gewährt so genaue Einblicke in den Prozeß ihres Entstehens, keine vermag so belehrenden Aufschluß über Art und Wandel seines poetischen Schaffens zu geben.<sup>33</sup>
+				</p>
+				<p>Niejahr untersucht auch eingehend die Änderungen, denen das 1800 entstandene `Helena'Fragment bei der Wiederaufnahme der Arbeit im Jahr 1825 unterzogen wird; von besonderem Interesse sind hier die Veränderungen bei der Behandlung der `griechischen' Trimeter.<sup>34</sup>
+				</p>
+				<p>Wichtige Überlegungen zur frühen Entstehungsphase der `Helena' finden sich in einem Aufsatz von Ernst Grumach;<sup>35</sup> eine genaue und für Goethes Arbeitsweise sehr aufschlußreiche Untersuchung des Schemas P164a wurde 1985 von Schillemeit vorgelegt.<sup>36</sup> Ausführliche und detaillierte Auskunft über Goethes Arbeit an der `Helena' in den Jahren 1825 und 1826, auf die ich in den folgenden Einzelkommentaren immer wieder zurückgreife, bietet die gründliche Untersuchung der überlieferten Handschriften bei Renate FischerLamberg, in der allerdings gerade die Paralipomena-Handschriften nicht berücksichtigt werden.<sup>37</sup>
+				</p>
+				<p>33Vgl. Niejahr, Helena, S. 85 u. S. 108.</p>
+				<p>34Vgl. ebd. S. 93108.</p>
+				<p>35Grumach, Vorarbeiten. Grumachs Versuch, P10 unter die Vorarbeiten der `Helena' einzuordnen, bleibt allerdings angreifbar. Vgl. Kommentar zu P10, hier S. 126f.</p>
+				<p>36Schillemeit, P164a. Vgl. den Kommentar zu diesem Schema, hier S. 611ff.</p>
+				<p>37FischerLamberg, S. 71149. </p>
+			</kommentar>
+		</f:abrDissertation>
+	</f:metadataImport>
+</archivalDocument>

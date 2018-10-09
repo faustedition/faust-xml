@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390614/">
+   <revisionDesc>
+      <change when="2013-01-16" who="bruening">encoded</change>
+      <change when="2014-09-15" who="henzel">Lagenstruktur aktualisiert</change>
+      <change when="2015-02-04" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Quer gebrochen. – Die Innenseiten wurden offenbar zuerst beschrieben.
+         dabei Zeichnung egh: Skizze zweier Halbbögen(?)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.60</idno>
+      <idno type="gsa_1">GSA 25/XVIII,3,11</idno>
+      <idno type="gsa_2">GSA 25/W 1643</idno>
+      <idno type="gsa_ident">390614</idno>
+      <idno type="wa_faust">2 III H.60</idno>
+      <textTranscript uri="390614.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">212<!-- Doppelfoliobreite 350--></width>
+         <height unit="mm">347<!--Doppelfoliohöhe 410--></height>
+      </dimensions>
+      <format>2</format>
+      <edges>uncut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Zwoelfzackiger_Stern_Fe_Bl_87</watermarkID>
+      <countermarkID>H_ueber_I_Fe_Bl_87</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 70</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 122f.</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 649</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 649-651</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 702f.</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 123</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 652</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/><!-- TODO 2 neue Digitalisate anfordern -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002a.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      </sheet> 
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:dabei_vermerk>Zeichnung egh: Skizze zweier Halbbögen(?)</f:dabei_vermerk>
+      <f:datierung>1826 (?), 13.6.1826 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390614</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.60; vgl. I 15.2,70
+
+Vers(e): 9574-9604 (9583, 9593-9597, 9600-9602 fehlt/fehlen)
+Wie lange Zeit die Mädchen schlafen ...
+Konzept
+
+Vers(e): 9623-9628
+schwer zu sagen ...
+Konzept
+
+Vers(e): 9604-9605
+Tritt er frank und frey den Boden ...
+Konzept
+
+Vorarbeiten zu Faust, Druck Bohnenkamp, S. 651,52-63
+Allgemeiner Tumult ...
+Konzept
+stark verwischte und zT unleserlich</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,3,11</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVIII (3,11) (WA I,15.2,70 u. 120)</p>
+            <p>Entwürfe</p>
+            <p>Erstdruck: WA I.15.2,120 (teilweise), FischerLamberg, S. 122 (teilweise)</p>
+            <p> x , Foliobogen, graues Konzeptpapier, gerippt; WZ: großer Stern / `I' über `H';</p>
+            <p>Außenseiten: G Blei sehr verwischte Entwürfe;</p>
+            <p>Innenseiten (quer beschrieben): G Blei in lat. Schrift; 95749581 Var; darunter links
+               9582, 9584, 9590 Var; rechts 95859592ff., Entwurf zu 9598ff.; darunter G br. Tinte
+               über Bleientwurf in lat. Schrift zu diesen Versen, 9623, 96249628</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p> Teile des Entwurfs zu V. 9574ff. (Phorkyas und der Chor) auf den Innenseiten dieses
+               Foliobogens (Z. 1-51 u. 64f.) wurde bereits von Strehlke unter die `Paralipomena'
+               aufgenommen (S. 116). Z. 41-51 sind über einer Bleistiftfassung ähnlichen Wortlauts
+               notiert. Die sehr verwischten Bleistiftspuren auf den Außenseiten des Bogens (Z.5263)
+               wurden zuerst von Fischer-Lamberg als Vorarbeiten zum `Faust' bestimmt und von ihr
+               als P170a bezeichnet (Fischer-Lamberg, S. 122f.). Die Bleistiftzeilen sind
+               offensichtlich radiert worden und daher nur noch bruchstückhaft zu entziffern. </p>
+            <p>Wie die den jeweiligen Einsatz der geplanten Chorverse markierenden Stichworte aus
+               der Rede der Helena deutlich machen (Z. 55, 58 und 59), handelt sich hier "im
+               wesentlichen um die Ergänzung der drei Anfangschöre [...], die in H1, H2 und H3 noch
+               fehlen und in der letztgenannten Hs. schließlich nachgetragen werden."
+               (Fischer-Lamberg, S. 123.) Eine befriedigende Entzifferung dieser Bruchstücke ist
+               nicht gelungen _ deutlich wird lediglich, daß diese Entwürfe von den ausgeführten
+               Versen 8516-8523, 8560-8567 und 8591-8603 noch erheblich abweichen. Mit großer
+               Wahrscheinlichkeit lassen sich diese Skizzen auf den 13. Juni 1826 datieren, denn der
+               unter diesem Datum verzeichnete Tagebucheintrag "Überlegung noch einiger wirksamen
+               Chöre zur Helena" (WA III,10,203) läßt sich auf die Einfügung eben dieser
+               Eingangschöre beziehen (Fischer-Lamberg, S. 123 u. 85f.). Unsicher ist der Bezug der
+               ebenfalls nur teilweise noch zu entziffernden, vorausgehenden Stichworte (Z. 52-54):
+               4 vorangehende radierte Zeilen lassen nur noch erkennen, daß es sich hier um
+               szenarische Bemerkungen gehandelt hat. Fischer-Lamberg vermutet einen Bezug zum
+               Abschluß des ersten Aktes (vgl. die Regieanweisung nach V. 6565). Tatsächlich ist
+               Goethe in diesen Junitagen auch mit Überlegungen zur `Vorgeschichte' der `Helena'
+               beschäftigt (vgl. P123A, hier S. 412-415); der alte Plan (P63, hier S. 266ff.) sah
+               noch einen direkteren Übergang von Fausts Auftritt am Hofe des Kaisers zur
+               `Helena'-Handlung vor; für das nicht sicher zu datierende P100 (vgl. Z. 27f., hier S.
+               292), das erste überlieferte Schema zum 1. Akt, läßt sich eine Entstehung im Sommer
+               1826 zumindest nicht ausschließen. Für die Entwürfe auf den Innenseiten ist dagegen
+               eine frühere Entstehung wahrscheinlich _ die hier skizzierten Verse der "Nachricht
+               der Entbindung" werden bereits im Schema P166 (Z. 29, hier S. 630) genannt.</p>
+            <p> III H73</p>
+            <p>
+               <b>III H73</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,11*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Wie lange Zeit die Mädchen schlafen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>9583, 9593-9597, 9600-9602</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9574-9604</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2484</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,11</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>1826 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>1826</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,70</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.60</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Zeichnung egh: Skizze zweier Halbbögen(?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Druck bei Bohnenkamp, S. 649</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1285</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2520</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,11*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Tritt er frank und frey den Boden</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9604-9605</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2550</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="06">Beschreibung (für Anzeige vor Überlieferungsform)</f:key>
+            <f:value>stark verwischte und zT unleserliche Vorarbeiten zu Faust, darunter Varianten
+               der Verse 8515, 8559 und 8590, Druck: Bohnenkamp, S. 651</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,11*d</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>13.6.1826 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18260613</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Allgemeiner Tumult</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Par 170a nach Fischer-Lamberg, S. 122-123</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3183</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,3,11*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>schwer zu sagen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9623-9628</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= K in Tinte über Bleientwurf zu diesen Versen</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3781</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

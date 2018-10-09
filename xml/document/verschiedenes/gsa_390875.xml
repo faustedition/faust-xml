@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390875/">
+   <revisionDesc>
+      <change when="2012-12-12" who="henzel">imported</change>
+      <change when="2012-12-12" who="henzel">encoded</change>
+      <change when="2014-10-17" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+         </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Einzelblatt, 1 beschriebene Seite. - Vs.: Aufschrift, möglicherweise zu ‚Faust II‘ gehörig (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.0</idno>
+      <idno type="gsa_1">GSA 25/XVII,4,1</idno>
+      <idno type="gsa_2">GSA 25/W 1418</idno>
+      <idno type="gsa_ident">390875</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="390875.xml"/>
+      <classification>none</classification>
+      <condition>ursprünglich einmal längs und mehrfach quer gefaltet; rote Siegelreste auf der
+         Rückseite</condition>
+      <dimensions>
+         <width unit="mm">196</width>
+         <height unit="mm">332</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 194 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <note>links Risskante</note>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>Anker</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 567</reference><!-- Bezug unklar; löschen? -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

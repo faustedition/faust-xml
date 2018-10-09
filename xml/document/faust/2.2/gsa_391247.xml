@@ -1,0 +1,951 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391247/">
+   <revisionDesc>
+      <change when="2012-11-28" who="bruening">begonnen</change>
+      <change when="2012-11-30" who="bruening">weitergeführt</change>
+      <change when="2012-12-03" who="bruening">weitergeführt</change>
+      <change when="2012-12-04" who="bruening">weitergeführt</change>
+      <change when="2013-01-21" who="bruening">encoded</change>
+      <change when="2014-03-19" who="henzel">missing entfernt</change>
+      <change when="2014-10-27" who="henzel">condition ergaenzt</change>
+      <change when="2014-10-31" who="henzel">docTranscript bei leeren Seiten angetragen</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-05-11" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 32 Blätter nebst Umschlag. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Heft mit Aufschrift egh: „Classische Walpurgisnacht erstes Mundum“ (enthielt ursprünglich auch GSA 25/W 1528)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.74</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,37</idno>
+      <idno type="gsa_2">GSA 25/W 1566</idno>
+      <idno type="gsa_ident">391247</idno>
+      <idno type="wa_faust">2 II H.74</idno>
+      <textTranscript uri="391247.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <binding>Blauer Umschlag.</binding>
+      <numberingList>
+         <numbering name="Bleistiftfoliierung">Eigenhändige Bleistiftfoliierung.</numbering>
+         <numbering name="Archivarische_Foliierung">Neue archivarische Foliierung mit Bleistift klein in der linken unteren Ecke. Der Umschlag ist einbegriffen.</numbering>
+      </numberingList>
+      <condition>Tintenfraß</condition><!-- Tintenfraß auf Mappe vermerkt -->
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <bindingMaterial>Faden</bindingMaterial>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 19-23</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 522</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 663</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 23</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 524</reference>
+      </references>
+   </metadata>
+   <!-- Bl 1 (Umschlag) -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Ersatz für den Umschlag GSA 25/W 1486. Wie bei diesem, so ist auch hier das hintere zur Verstärkung des Falzes zurückgeschlagen. Zahlreiche Stichlöcher, die genau zu dem früheren Umschlag stimmen.</note>
+         <dimensions>
+            <width unit="mm">205</width>
+            <height unit="mm">340</height>
+         </dimensions>
+         <paperType>none</paperType>
+         <paperColour>blau</paperColour>
+         <countermarkID>Weimar_Fe_Bl_78_Nr_69</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <metadata>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach_ohne_GZ</watermarkID>
+         <countermarkID>none</countermarkID>
+      </metadata>
+      <!-- Bl. 2 (G 1)-->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 3 (G 4) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!-- P 150 -->
+               <references>
+                  <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 522</reference>
+               </references>
+               <docTranscript uri="0006.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <!-- Bl. 4 (G 5) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0007.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0008.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 5 (G 6) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0009.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0010.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Ebl. 6 (G 25!) -->
+         <disjunctLeaf>
+            <metadata>
+               <note>An die zweite Hälfte des umschließenden Dbl. geklebt.</note>
+               <dimensions>
+                  <width unit="mm">192</width>
+                  <height unit="mm">329</height>
+               </dimensions>
+               <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+            </metadata>
+            <page>
+               <metadata>
+                  <docTranscript uri="0011.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0012.xml"/>
+               </metadata>
+            </page>
+         </disjunctLeaf>
+         <!-- Bl. 7 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0013.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0015.xml"/>
+               </metadata>
+               <!-- Zettel (= Bl. 8) -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">192</width>
+                        <height unit="mm">168</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>gelblich</patchPaperColour>
+                     <patchWatermarkID>JGH_wie_Fe_Bl_70</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 9 (G 8) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0016.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0018.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Ebl. 10 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit dem folgenden Ebl. zusammengeklebt.</note>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0020.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0021.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <disjunctLeaf>
+      <metadata>
+         <watermarkID>GH_ueber_N3</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0022.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0023.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <!-- Bl. 12 (G 11) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0024.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0026.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 13 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0027.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0028.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- leeres Bl. -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- leer -->
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- leer -->
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 14 (G 14) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0029.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0031.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Ebl. 15 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit Bl. 21 (Bl. 19 der egh. Foliierung) zusammengeklebt.</note>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0032.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0033.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <!-- Bl. 16 (G 16) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0035.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 17 -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">145</width>
+                     <height unit="mm">60</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Velinpapier</patchPaperType>
+                  <patchPaperColour>gelblich</patchPaperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0036.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 18 (G 17) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0038.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0040.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <!-- Bl. 19 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0041.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0042.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 20 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0043.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0044.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <sheet>
+      <!-- Bl. 21 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0046.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0048.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 22 (G 20) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0050.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0055.xml"/>
+               </metadata>
+               <!-- Zettel Bl. 23 -->
+               <patch>
+                  <metadata>
+                     <patchDimensions>
+                        <width unit="mm">192</width>
+                        <height unit="mm">139</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Schreibpapier</patchPaperType>
+                     <patchPaperColour>grünlich</patchPaperColour>
+                     <patchCountermarkID>GH_ueber_N3</patchCountermarkID>
+                     <note>Oberer Rand des Gegenzeichens.</note>
+                  </metadata>
+                  <!-- Zettel Bl. 23 Vorderseite -->
+                  <patchSurface>
+                     <!-- Zettel Bl. 24 -->
+                     <patch>
+                        <metadata>
+                           <patchDimensions>
+                              <width unit="mm">122</width>
+                              <height unit="mm">36</height>
+                           </patchDimensions>
+                           <patchType>glue</patchType>
+                           <patchPaperType>Schreibpapier</patchPaperType>
+                           <patchPaperColour>gelblich</patchPaperColour>
+                           <watermarkID>F_wie_FHF_Fe_Bl_230_Nr_29</watermarkID>
+                        </metadata>
+                        <patchSurface/>
+                        <patchSurface/>
+                     </patch>
+                  </patchSurface>
+                  <patchSurface/>
+               </patch>
+            </page>
+         </leaf>
+         <!-- Bl. 25 (G 21) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0056.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0057.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 26 (G 22)-->
+      <leaf>
+         <!-- Bl. 26r -->
+         <page>
+            <metadata>
+               <docTranscript uri="0060.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 27 -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">192</width>
+                     <height unit="mm">170</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Konzeptpapier</patchPaperType>
+                  <patchPaperColour>grau</patchPaperColour>
+                  <patchChainLines unit="mm">27</patchChainLines>
+                  <patchWatermarkID>n.s.</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+         <!-- Bl. 26v -->
+         <page>
+            <metadata>
+               <docTranscript uri="0063.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 28 -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">185</width>
+                     <height unit="mm">33</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>gelblich</patchPaperColour>
+                  <patchChainLines unit="mm">22.5</patchChainLines>
+                  <watermarkID>none</watermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage -->
+   <sheet>
+      <!-- Bl. 29 [G 23]-->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0064.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <references>
+                  <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 522f.</reference>
+               </references>
+               <docTranscript uri="0065.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 30 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0066.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0067.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 31 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0068.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0070.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <sheet>
+         <!-- Bl. 32 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0071.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript/>
+                  <!-- leer -->
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 33 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0072.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0073.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 34 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0075.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0077.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 35 -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">168</width>
+                     <height unit="mm">46</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Schreibpapier</patchPaperType>
+                  <patchPaperColour>grünlich</patchPaperColour>
+                  <patchWatermarkID>Rautenkranzwappen_ueber_Stuetzerbach</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage -->
+   <sheet>
+      <!-- Bl. 36 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0078.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0080.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 37 (G 12) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0081.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0082.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 38 (G 13) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0083.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0084.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 39 -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0085.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Heft, enthielt ursprünglich auch II H.b (25/XVII,8,1) auf fol. 14 sowie das Original zu II H.c (Kopie in 25/XVII,6:10) auf fol. 19, = nachträglich in das Mundum eingetragene Ergänzung auf Bl 2 Rs, Bezeichnung als Par 150a nach Bohnenkamp, S. 522-523</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>31</f:blatt>
+      <f:datierung>vor dem 25. Juni 1830</f:datierung>
+      <f:druckort>WA I 15.1, 110-176</f:druckort>
+      <f:ident>391247</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Zweiter Act. Classische Walpurgisnacht
+WA: II H.74; vgl. I 15.2,39
+Titel der Handschrift: "Classische Walpurgisnacht erstes Mundum" [egh]
+
+Vers(e): 7005-8338 (7395-7494, 7509-7518, 7676-7695, 7813-7816, 8198-8199 fehlt/fehlen)
+Zum Trauerfeste dieser Nacht ...
+Konzept
+
+Paralipomenon 150
+Das Auge fordert seinen Zoll. ...
+Konzept
+Text der Handschrift zu WA: I 15.2,221
+
+Paralipomenon [150 a]
+Ich eile nun und such ...
+WA: II H.74; vgl. I 15.2,58
+Konzept
+Text der Handschrift zu WA: I 15.2,58</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John, egh</f:schrift>
+      <f:signatur>XVII,8,37</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (8,37) (WA I,15.2,39, 58 u. 221)</p>
+            <p>Mundum</p>
+            <p>Erstdruck: WA I,15.2,221 (P150), I,15.2,58 (P150a)</p>
+            <p>Aus 16 Foliobögen 400 x 330 mm geheftetes Foliofaszikel, grünliches Papier, gerippt; WZ: Rautenkranzwappen über `Stuetzerbach' / verschlungenes `G H' über `N 3' (Stuetzerbacher Wappenpapier);</p>
+            <p>Umschlag aus blauem Konzeptpapier, verschiedene Blätter zusätzlich eingeklebt; G schw. Tinte auf dem Umschlag: "Classische Walpurgisnacht _ erstes Mundum"; John schw. Tinte (mit zahlreichen Korrekturen und Ergänzungen G Tinte u. Blei) 70057394, 2 Seiten frei, 74957675, 76968197, 82008338 (es fehlen: 73957494 und die auch in H erst nachträglich eingefügten 76767695 und 8198f.); verschiedene kleinere Spatien und mit Bleistift eingetragene Dispositionsnotizen von Goethes Hand (eine genaue tabellarische Aufstellung gibt FischerLamberg, S. 2023);</p>
+            <p>Blatt 2 RS: John schw. Tinte 70707079, G Blei radierter Entwurf (P150Var), Einfügungszeichen; G schw. Tinte P150;</p>
+            <p>Blatt 23 RS: John schw. Tinte 80268033, P150a</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>Mit dem als II H74 bezeichneten Foliofaszikel liegt ein erstes großes Mundum der `Klassischen Walpurgisnacht' vor, mit dessen Erstellung wahrscheinlich spätestens im Februar 1830 begonnen wurde (vgl. hier S. 394). Das Manuskript ist von John geschrieben und weist vielfältige Korrekturen und Ergänzungen von der Hand Goethes auf. Verschiedene Spatien verweisen auf noch zu ergänzende Passagen (vgl. etwa die freigelassenen Seiten nach V. 7394, wo die zweite Hälfte der Szene zwischen Faust und Chiron noch fehlt). Wie in anderen Arbeitsmunda finden sich auch in dieser Reinschrift zahlreiche Bleistiftnotizen Goethes, die auf den ursprünglich leeren Seiten notiert wurden, "um eine Übersicht über die bereits entworfenen Partien zu gewinnen." (Fischer-Lamberg, S. 19.) Auch hier lassen sich Entsprechungen zwischen diesen `Dispositionsnotizen' und verschiedenen Stichworten der überlieferten Schemata zum 2. Akt feststellen. (Vgl. hier S. 493f. Verzeichnis der Notizen im einzelnen bei
+               Fischer-Lamberg, S. 20-23.) Als Goethe am 25. Juni 1830 seinem Sohn vom `völligen Abschluß' der `Klassischen Walpurgisnacht' berichtet (WA IV,47,112), wird die Arbeit an diesem mit V. 8338 abbrechenden Mundum bereits beendet gewesen sein. Wie Fischer-Lamberg in ihrer Untersuchung zur Chronologie des 2. und 3. Akts wahrscheinlich macht (S. 66), lag die `Klassische Walpurgisnacht' Ende Juni bis V. 8346 vor. Der so erreichte Abschluß ging also nur wenige Verse über das Arbeitsmundum II H74 hinaus.; die dort noch fehlenden, aber in Form einer Dispositionsnotiz ("Sirenen/ Luft[erscheinung]", vgl. Fischer-Lamberg, S. 23) projektierten Verse 8339-8346, sind bis zur Wiederaufnahme der Arbeit offensichtlich als Schlußchor des 2. Akts vorgesehen gewesen. (Vgl. Fischer-Lamberg, S. 19-66.)</p>
+            <p>Bei den als P150 und P150a bezeichneten Versen handelt es sich um nachträglich in dieses Mundum eingetragene Ergänzungen. <b>P150</b> (Z. 1-4) wurde auf der zur Hälfte freigebliebenen Seite 4 von Goethe mit schwarzer Tinte über einer zunächst mit Blei entworfenen Vorstufe zu diesen Versen eingetragen und mit einem Einfügungszeichen auf Seite 5 zwischen Mephistos Verse 7089 und 7090 verwiesen. Wahrscheinlich wurden diese Verse bei der Abschrift für H versehentlich weggelassen, in II H74 zumindest sind diese Verse nicht gestrichen.</p>
+            <p>Bei <b>P150a</b> (Z. 22-25) handelt es sich um vom Schreiber nachträglich an V. 8031 angefügte Verse (Blatt 23 des Faszikels), die in die Reinschrift H (wohl nur versehentlich?) nicht übernommen wurden. Im Gegensatz zu der im folgenden "zum Parterre" gesprochenen Äußerung Mephistos, die die tatsächliche Einschätzung seiner neuen Gestalt verrät (vgl. V. 8032f.), behauptet Mephisto den Phorkyaden gegenüber, nun wie versprochen eilends "der neusten Tage kühnsten Meisel" (Schreiberfehler für "Meißel", hier synekdochisch für `Bildhauer', vgl. V. 7998) aufsuchen zu wollen, um die jetzt auf ihn übertragene Schönheit der Phorkyaden in einem Abbild gebührend verewigen zu lassen (vgl. V. 7984-8025) _ Morris sieht in diesen ursprünglich vorgesehenen Versen auch einen "besonders scharfe[n] Hieb auf die Kunst der Zeitgenossen" (Morris, Faustparalipomena, S. 152).</p>
+            <p> HP157</p>
+            <p>
+               <b>H P157</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,8,37</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12a">Zitiertitel der Handschrift</f:key>
+            <f:value>"Classische Walpurgisnacht erstes Mundum" [egh]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>vor dem 25. Juni 1830</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18300625 (terminus ante quem)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,39</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>II H.74</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>31</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Heft, enthielt ursprünglich auch II H.b (25/XVII,8,1) auf fol. 14 sowie das Original zu II H.c (Kopie in 25/XVII,6:10) auf fol. 19</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1220</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3000</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,8,37*c</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,58</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>II H74</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>522</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Ich eile nun und such im vollen Lauf</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>oS</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>10067</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,8,37*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Ich eile nun und such</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,58</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>II H.74</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>[150 a]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile) bzw. Paralipomena</f:key>
+            <f:value>I 15.2,58</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Bezeichnung als Par 150a nach Bohnenkamp, S. 522-523</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3027</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,8,37*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Zum Trauerfeste dieser Nacht</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>7395-7494, 7509-7518, 7676-7695, 7813-7816, 8198-8199</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>7005-8338</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3367</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,8,37*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,110</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Das Auge fordert seinen Zoll.</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>150</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile) bzw. Paralipomena</f:key>
+            <f:value>I 15.2,221</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= nachträglich in das Mundum eingetragene Ergänzung auf Bl 2 Rs</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3676</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

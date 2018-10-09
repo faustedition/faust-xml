@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change when="2017-03-09" who="Krause">markiert</change></revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="9" facs="schoch1832_1_0009.jpg"/>
+            <div type="text">
+                <head rend="right"><hi rend="small">Weimar, im <date when="1832-07-00"
+                            >Julius.</date></hi></head>
+                <p>Geſtern um zehn Uhr Morgens von <hi rend="letter-spaced">Leipzig</hi> abgereiſt
+                    und Abends um zehn Uhr hier angekommen. — Sonderbar ward ich überraſcht, als
+                    heute der Barbier mir ſagte, er habe noch geſtern mein Lied an den Abendſtern
+                    zur Guitarre geſungen. Alles iſt hier poetiſch und muſikaliſche. — <milestone unit="testimony" spanTo="#bie3_6013_end" xml:id="bie3_6013"/>Ein
+                    Jenaiſcher Student, Namens <hi rend="letter-spaced">Hübbe,</hi> erſuchte mich,
+                    bei <hi rend="letter-spaced">Goethe</hi> ein gutes Wort für ihn einzulegen, um
+                    vorgelaſſen zu werden; er kam als Deputirter der Studenten zu Jena, um die
+                    Wiederherſtellung des Turnens zu bewirken. — <milestone unit="testimony" spanTo="#pniower_544_end" xml:id="pniower_544"/>Bey Kanzler von <hi
+                        rend="letter-spaced">Müller,</hi> der mir ſagte, daß <rs><hi
+                        rend="letter-spaced">Goethe</hi> fleißig am zweiten Theil des <hi
+                        rend="letter-spaced">Fauſt</hi> arbeite</rs>, worin <hi rend="letter-spaced"
+                        >Mephiſtopheles</hi> ihn in die diplomatiſchen Zirkel am Hofe Maximilians
+                        <hi rend="antiqua">I.</hi> einführt.<anchor xml:id="pniower_544_end"/></p>
+                <p>Durch das Stillſtehen meiner Uhr und <hi rend="letter-spaced">Sondershauſens</hi>
+                    angenehme Unterhaltung hätte ich beinahe die Stunde des Hofes verfehlt. Bei der
+                    Tafel traf ich unvermuthet mit dem Herzog von <hi rend="letter-spaced"
+                        >Holſtein-Beck</hi> zuſammen. Um ſechs Uhr nach <hi rend="letter-spaced"
+                        >Belvedere</hi> zum Erbgroßherzog gefahren. Prin<pb n="10"
+                        facs="schoch1832_1_0010.jpg"/>zeß <hi rend="letter-spaced">Auguſte</hi>
+                    ſprach viel mit mir über den für ſie höchſt ſchmerzlichen Verluſt ihrer
+                    Schweſter. Die Erbgroßherzogin war gerührt über alles, was ich ihr vom
+                    Enthuſiasmus der Berliner über ihre Tochter erzählte.</p>
+                <p>Mittagseſſen bei <hi rend="letter-spaced">Goethe,</hi> welcher im hohen Grade
+                    liebenswürdig war.<anchor xml:id="bie3_6013_end"/> Abends beim Kanzler von <hi rend="letter-spaced">Müller.</hi>
+                    Vorleſung. <hi rend="letter-spaced">Wolff</hi> improviſirte vortrefflich.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

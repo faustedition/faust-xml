@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390164/">
+<revisionDesc>
+   <change when="2012-12-06" who="henzel">imported</change>
+   <change when="2012-12-06" who="henzel">encoded</change>
+   <change when="2014-03-19" who="henzel">Lagenstruktur bearbeitet</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.22</idno>
+      <idno type="gsa_1">GSA 25/XVII,7,23</idno>
+      <idno type="gsa_2">GSA 25/W 1511</idno>
+      <idno type="gsa_ident">390164</idno>
+      <idno type="wa_faust">2 II H.22</idno>
+      <textTranscript uri="390164.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">197</width>
+         <height unit="mm">328</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 194 mm. Der Mindestwert der Blatt-Höhe beträgt 324 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"H" über "Stuetzerbach"</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 38</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 502</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 59</reference><!-- Teilwiedergabe -->
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 502</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 655</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 38f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 502</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>zur Entstehung vgl. Bohnenkamp, S.502 </f:bemerkung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>
+               <i>Die</i> Entwurf zu einem an den Mond gerichteten Gesang der Sirenen (vgl. V. 8034ff., Z. 1-8 aufgenommen unter die `Skizzen und Varianten' der BA, S. 502) auf einem Blatt, das zunächst lückenhafte Entwürfe zu den Versen 7239-7248 aufnahm, die vermutlich Ende Januar 1830 gemeinsam mit den auf II H45 skizzierten Versen in II H24 abgeschrieben wurden (vgl. hier S. 507, Fischer-Lamberg, S. 38). </p>
+            <p>Wahrscheinlich danach (im Gegensatz zu den Angaben bei Fischer-Lamberg ist die Beschriftungsreihenfolge des Blattes keineswegs zweifelsfrei festzustellen) wurde das Blatt für die Entwürfe zu V. 8034ff. verwendet, die auf der anderen Seite des Blattes noch einmal aufgenommen und weiter ausgeführt wurden. Der hier wiedergegebene Versentwurf steht dabei in direkter Beziehung zu den Stichworten des Schemas P124 (Z. 40-42): "Meeregestade/ Sirenen flötend und singend./ Mond im Gewässer"; die den Entwurf beschließenden Stichworte (Z. 9f.) lehnen sich noch eng an die Reihenfolge der in der ersten Fassung des Schemas P124 hier folgenden Stichworte an (Z. 43-46). Die Beschwörung des Mondes "Halte still am Mittel Himmel" (vgl. auch II H46, Z. 3) ist in der endgültigen Fassung in die Regieanweisung vor V. 8034: "Mond im Zenith verharrend" übergegangen (vgl. auch den Kommentar zu II H25, hier S. 505). </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>2 Konzepte; = frühere K im Vgl. mit II H.24 (25/XVII,7,25*a)</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

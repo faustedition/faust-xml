@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/389821/">
+   <revisionDesc>
+      <change when="2012-11-13" who="henzel">encoded</change>
+      <change when="2013-01-15" who="henzel">imported</change>
+      <change when="2013-01-15" who="henzel">aktualisiert</change>
+      <change when="2014-05-30" who="bruening">P60 Zahmes Xenion</change>
+      <change when="2014-10-16" who="pravida">headnote</change>
+      <change when="2015-06-17" who="koehler">minimal headnote</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. - Versentwürfe zu ‚Faust I‘.</headNote>
+      <note>Einzelblatt, 2 beschriebene Seiten. - Seite 1-2: Versentwürfe zu ‚Faust I‘ (eigenhändig, Tinte und Bleistift).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">1 H.15</idno>
+      <idno type="gsa_1">GSA 25/XVII,2,25</idno>
+      <idno type="gsa_2">GSA 25/W 1399</idno>
+      <idno type="gsa_ident">389821</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P54</idno>
+      <!-- P54, Hecker 24 -->
+      <!-- P55, Hecker 31 -->
+      <!-- P56, Hecker 32 -->
+      <!-- P57, Hecker 25 -->
+      <!-- P58, Hecker 26 -->
+      <!-- P59, Hecker 27 -->
+      <!-- P60 -->
+      <!-- P61, Hecker 30 -->
+      <textTranscript uri="389821.xml"/>
+      <classification>Sammelblatt</classification>
+      <condition>am linken Rand mehrfach eingerissen, fleckig</condition>
+      <dimensions>
+         <width unit="mm">177</width>
+         <height unit="mm">225</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Briefpapier</paperType>
+      <paperColour>hellgelb</paperColour>
+      <chainLines unit="mm">27</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID fragment="a_u" cert="high">C &amp; I HONIG unter Wappen mit Bienenkorb</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <!-- (vgl. H P6), angeschnitten -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 311f., 313</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 107</reference>
+         <!-- Erstdruck nicht etwa in C3 -->
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 312<!-- P54-59 -->,
+            313<!-- P60-61 --></reference>
+         <reference type="text" uri="faust://bibliography/krogmann1932a">S. 55f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 107f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 545f.</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_14">S. 311f.</reference>
+         <reference type="essay" uri="faust://bibliography/krogmann1932a">S. 55f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 109-111</reference>
+      </references>
+      <note>Zur Überlieferung des Paralipomenons 60 als Teil der Zahmen Xenien (V. 167–170) vgl.
+         faust://bibliography/wa_I_3, S. 437 sowie faust://bibliography/wa_I_53, S. 553. Erstdruck
+         der Verse des Paralipomenons 60 <!--nicht in C.1, Bd. 3, S. 251
+         (faust://bibliography/bohnenkamp1994, S. 107), sondern--> in Kunst und Alterthum, Bd. 2, H. 3,
+         S. 91. Zur Vorbereitung dieses Drucks vgl. faust://bibliography/graef1901-1914_II_2, S.
+         263f.</note>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p> Bei diesem Sammelblatt handelt es sich um das zweite überlieferte Blatt, dessen Papier zu dem des Urmanuskripts paßt (vgl. H P6, hier S. 103). Die verschiedenen Einträge in Blei und
+               Tinte sind nicht in einem Zuge niedergeschrieben worden; die drei vierzeiligen Tinteneinträge stehen über entsprechenden, zum Teil abweichenden Bleientwürfen, die auf diese Weise nach
+               einem bei Goethe üblichen Verfahren `fixirt' wurden. </p>
+            <p>Das Alter der Einträge ist umstritten. Möglicherweise handelte es sich hier um ein leeres Blatt des Urmanuskripts, das Goethe mit nach Italien nahm und erst dort beschrieb. Während
+               Schmidt (WA I,14,311f.), Pniower (Einige Faustparalipomena, S. 424-430), Hanna Fischer-Lamberg (Zur Datierung des Urfaust, S. 393ff.) und andere die Einträge für vorweimarisch halten,
+               verlegen Krogmann (Goethes Urfaust, S. 14) und Binder (Und was der ganzen Menschheit, S. 108f.) sie in die Zeit der italienischen `Faust'-Arbeiten. Petsch (Zur Chronologie, S. 244) hält
+               eine sichere Zuordnung nicht für möglich. Erich Schmidt weist einerseits auf die "nicht so unverkennbare Jugendschrift" der ersten Einträge (WA I,14,311), andererseits aber auf den
+               "Jugendstil" der Einträge P55 und P56. Ähnlich argumentiert Hanna Fischer-Lamberg in ihrer Untersuchung `Zur Datierung der ältesten Szenen des Urfaust': Sie hält zumindest P56 und P60
+               für Verse der Sturm-und-Drang-Zeit. In ihrer Untersuchung weist Fischer-Lamberg auf Parallelen zwischen einem Brief Goethes vom 26. Januar 1773 (an Kestner, WA IV,2,59), `Faust. Frühe
+               Fassung', Vers 378f., Vers 186 und P60: "Die Bedeutung dieser Parallele erschöpft sich nun keineswegs in einer vielleicht zufälligen sprachlichen Übereinstimmung. Denn die Verurteilung,
+               die in beiden [in allen drei] Fällen mit der Metapher `Ragout' ausgedrückt wird, ist eine prinzipielle und bezieht sich auf das gleiche Problem. Sie bedeutet die entschiedene Ablehnung
+               jeglicher toten Gelehrsamkeit, der äußerlichen Aneignung von Wissensstoff [...]" (Fischer-Lamberg, Zur Datierung des Urfaust, S. 394).</p>
+            <p>Zusammenfassend hält Nollendorfs fest: "Die von Schmidt und Fischer-Lamberg angeführten Argumente genügen, um wenigstens einen Teil der Paralipomena der Frankfurter Zeit zuzuschreiben."
+               (Nollendorfs, Streit um den Urfaust, S. 56.) Allerdings stehen gerade die für die ältesten gehaltenen Einträge mitten auf dem Blatt: wenn die Niederschrift von P56 und P60 für
+               vorweimarisch erklärt wird, müßte das auch für P54, P55, P58, P59 und P61 gelten: Duktus und Anordnung sprechen nur im Fall von P57 und V. 4166f. für spätere Nachträge.</p>
+            <p>Auch zur Einordnung der auf diesem Blatt versammelten Splitter in den Zusammenhang des `Faust' werden unterschiedliche Auffassungen vertreten. Während Gräf die Splitter für "nicht näher
+               bestimmbar" hält (Gräf, Faust-Ausgabe, S. 562; ähnlich auch Erich Schmidt, vgl. `Faust in ursprünglicher Gestalt', Einleitung, S. IX) und Witkowski sie allgemein als
+               "Mephistopheles-Schnitzel, wohl zu gelegentlicher Verwendung im Faust gesammelt" (Witkowski, S. 439) charakterisiert, haben andere Forscher genauere Zuordnungen unternommen. So
+               verweisen etwa Pniower (Einige Faustparalipomena, S. 425), Harnack (Über die Entstehung des Faust, S. 67) und</p>
+            <p> Nachlaßstücke bis zum Erscheinen des Ersten Teils</p>
+            <p>wieder Binder (Und was der ganzen Menschheit, S. 105-109) auf einen Zusammenhang der hier gesammelten Splitter mit der geplanten Vertragsszene. Ein großer Teil dieser Textsplitter läßt
+               sich auf ein für den ganzen `Faust' zentrales Thema, die Situation des Menschen zwischen Vernunftwesen und Tier beziehen: "Der Mensch ist gar erbarmlich dran" (Z. 2). (Vgl. dazu auch
+               Grumach, Prolog und Epilog.) Die Textbruchstücke dieses Sammelblattes lassen sich wiederum überwiegend Mephistopheles zuordnen.</p>
+            <p>Z. 1-4 <b>(P54)</b>: Mit Tinte über älterem, z. T. abweichendem Bleientwurf. Die letzte Zeile lautet in der Bleistiftfassung: "Ihm frech das bischen Sicherheit zu rauben".
+               Vorweimarisch? Mephistopheles zuzuschreiben? Karsten sieht diese Verse als Antwort Fausts auf Mephistos "Glaub' unser einem, dieses Ganze/ Ist nur für einen Gott gemacht!" (V. 1780f.)
+               und schließt daraus auf eine vorweimarische Entstehung dieser Szene (Gustav Karsten, Fauststudien, S. 311f.), für die Binder jedoch die Zeit der Wiederaufnahme der `Faust'-Arbeit in
+               Italien wahrscheinlich gemacht hat. (Binder, Und was der ganzen Menschheit, S. 105-113.)</p>
+            <p>Z. 5-8 <b>(P55)</b>: Pniower, der auf die Verwandtschaft mit V. 1806ff. und 1776ff. verweist, wendet sich gegen den Vorschlag Witkowskis, dieses Fragment unter die Entwürfe zur
+               `Walpurgisnacht' zu reihen: "Denn da ihm in der Handschrift eines folgt, das schon seine Sprache in die Frankfurter Zeit weist (hurrliburli), so kann es nicht in die 90er Jahre
+               gehören." (Pniower, [Rezension zu] Witkowski, S. 828.) Einen Zusammenhang mit der Szene `Wald und Höhle' hält Sarauw "für wahrscheinlicher" (Faustchronologie, S. 25). Grumach weist auf
+               die "dialektische Spannung zwischen Gottgleichheit und -ungleichheit, die danach die alten wie die neugeschaffenen Partien durchzieht" (Prolog und Epilog, S. 101, Fußnote 97).</p>
+            <p>Z. 9-12 <b>(P56)</b>: Ebenfalls mit Tinte über älterem Bleientwurf; wird auch aus stilistischen Gründen von Erich Schmidt und Hanna Fischer-Lamberg der Frankfurter Zeit zugerechnet. Der
+               Ausdruck "hurrliburli" findet sich besonders häufig im Frühjahr 1773. Vgl. Prolog zum Puppenspiel (etwa März 1773), an Kestner 25.4. 1773, Pater Brey, V. 245 (April/Mai 1773). Pniower
+               sieht hier eine Vorstufe des Mephisto-Monologs V. 1851-1867, Sarauw dagegen (Faustchronologie, S. 2428) schlägt eine Einordnung in die Lücke zwischen Valentins Tod und der Szene `Trüber
+               Tag' vor und entdeckt in diesem Bruchstück den "Urkeim von `Walpurgis'" (S. 27) und die "älteste Andeutung der Wette" (S. 28).</p>
+            <p>Z. 10 hurrliburli] Interjektion zum Ausdruck bestürzender Eile (vgl. DWB 10, 1967).</p>
+            <p>Z. 13f. <b>(P57)</b>: Möglicherweise später nachgetragen.</p>
+            <p>Z. 15f.: Wahrscheinlich später nachgetragene Verse. Nach Morris (Walpurgisnacht, S. 75) stellen diese zwei Verse "den Keim und die erste Formulierung von Nicolais Erscheinen vor dem
+               Satan vor."</p>
+            <p>Z. 17 etwa zu 8] Im Zusammenhang mit dem nicht überlieferten numerierten Schema zum `Faust' stehender Hinweis, der diese Verse nach dem "ad 6" signierten Paralipomenon 8 (vgl. hier S.
+               132) einordnen würde?</p>
+            <p> Z. 18-20 <b>(P58)</b> und Z. 21f. <b>(P59)</b>: Beide Einträge thematisieren das Gegensatzpaar erkennen/genießen, das für das Drama und seinen Protagonisten eine wichtige Rolle spielt.
+               (Vgl. dazu Frandsen-Roeger, Erkenntnis und Genuß.) Vgl. auch P1, hier S. 221. Binder verweist für P58 und P59 auf einen Zusammenhang mit V. 1770 der Paktszene (Und was der ganzen
+               Menschheit, S. 108f.). </p>
+            <p>Z. 21: WA gibt "der große" (von Hecker korrigiert zu "der Größte").</p>
+            <p>Z. 23-27 <b>(P60)</b>: Vgl. Goethe an Kestner auf die Nachricht, Lotte wolle ein philosophisches Buch lesen: "[...] und gebt ihr das Buch, und wenn sie ein Blatt drinne herabliest so
+               will ich _ Carte blanche für das scheuslichste Ragout das der Teufel erfinden mag _ fressen will ichs [...]" (27. 1. 1773; WA IV,2,59). Vgl. auch V. 539, der sich schon in der `Frühen
+               Fassung' findet.</p>
+            <p>Zuerst veröffentlicht wurde dieser Vierzeiler als `Zahme Xenie' in Goethes Zeitschrift `Über Kunst und Altertum' im Jahre 1820; wieder abgedruckt in der Sammlung der `Zahmen Xenien' von
+               1827 (WA I,3,239).</p>
+            <p>Hecker faßt _ vermutlich weil sie im Schreibmaterial nicht mit Z. 24-27 übereinstimmt _ Z. 23 als isoliertes Bruchstück auf und veröffentlicht es als Paralipomenon Nr. 28. Die Zeilen
+               24-27 sind jedoch mit Tinte über einen älteren Bleistiftentwurf geschrieben, und in diesen Zusammenhang gehört auch Z. 23.</p>
+            <p>Z. 28-34 <b>(P61)</b>: Vgl. P19 auf H P10, hier S. 121.</p>
+            <p>Z. 31 Wundermann] außerordentlicher, häufig besonders frommer Mensch; hier wohl in der Bedeutung Zauberer, Magier _ schon im Sinne von `Scharlatan'? (Vgl. DWB 30, 1925-27.)</p>
+            <p>Z. 33f.: WA gibt "Und dankt dafür wenn ... [unleserlich] / Und ... [unleserlich]"; Hecker "Und ... [unleserlich] daß man es halb verstanden".</p>
+         </kommentar>
+      </f:abrDissertation>
+   </f:metadataImport>
+</archivalDocument>

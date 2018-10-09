@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391436/">
+<revisionDesc>
+   <change when="2013-01-07" who="henzel">imported</change>
+   <change when="2013-01-07" who="henzel">encoded</change>
+   <change when="2015-02-04" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Schreiben der Oberaufsicht über die unmittelbaren Anstalten für Wissenschaft und Kunst an die Oberbaubehörde 26.3.1830 (Druck in MA 18.2 S 595)</note><!-- TODO URI -->
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.61</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,26</idno>
+      <idno type="gsa_2">GSA 25/W 1553</idno>
+      <idno type="gsa_ident">391436</idno>
+      <idno type="wa_faust">2 II H.61</idno>
+      <textTranscript uri="391436.xml"/>
+      <classification>Konzept</classification>
+      <condition>Vergilbung an den Rändern, fleckig</condition>
+      <dimensions>
+         <width unit="mm">198</width>
+         <height unit="mm">73</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 195 mm. Der Mindestwert der Blatt-Höhe beträgt 70 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <note>Schnittkante oben</note>
+      <paperType>Schreibpapier</paperType>
+      <note>sehr festes Papier<!--, eventuell wurden zwei Lagen dafür verwendet--></note>
+      <paperColour>beige</paperColour>
+      <chainLines unit="mm">24</chainLines>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID><!-- falls vorhanden, nicht zu erkennen, da möglicherweise zwei Papier zu einem verarbeitet -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 56</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 56f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0003.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0004.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 1. Konzept  im Vgl. mit H.62 (25/XVIII,8,27)</f:bemerkung>
+      <f:datierung>um den 26.3.1830</f:datierung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

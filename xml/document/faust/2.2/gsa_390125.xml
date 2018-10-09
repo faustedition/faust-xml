@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390125/">
+<revisionDesc>
+   <change when="2013-01-10" who="henzel">imported</change>
+   <change when="2013-01-10" who="henzel">encoded</change>
+   <change when="2015-02-04" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.65</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,29:2</idno>
+      <idno type="gsa_2">GSA 25/W 1557</idno>
+      <idno type="gsa_ident">390125</idno>
+      <idno type="wa_faust">2 II H.65</idno>
+      <textTranscript uri="390125.xml"/>
+      <classification>Konzept</classification>
+      <condition>fleckig; ursprünglich auf Oktav gefaltet</condition>
+      <dimensions>
+         <width unit="mm">198</width>
+         <height unit="mm">232</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 192 mm. Der Mindestwert der Blatt-Höhe beträgt 222 mm.</note>
+      <format>4</format>
+      <edges>uncut</edges>
+      <note>Risskante unten</note>
+      <paperType>n.s.</paperType>
+      <!-- sehr weiches, aber zugleich sehr grobes Papier, fühlt sich wie Lumpenstoff an -->
+      <paperColour>hellgelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>S</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 59</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0002.xml"/>
+            </metadata>   
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 2. Konzept</f:bemerkung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

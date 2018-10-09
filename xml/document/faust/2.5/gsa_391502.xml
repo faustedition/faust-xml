@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391502/">
+   <revisionDesc>
+      <change when="2012-11-22" who="henzel">imported</change>
+      <change when="2012-11-22" who="henzel">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>eigenhändige Tagebuchnotiz (Konzept zu WA III 13,68,6-8) zum 24.4.1831 mit Rötel; eigenhändige Namenliste Goethes mit Rötel; möglicherweise eigenhändige Initialen "JW" mit Tinte</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.0c</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,1</idno>
+      <idno type="gsa_2">GSA 25/W 1695</idno>
+      <idno type="gsa_ident">391502</idno>
+      <!--<idno type="gsa_findbuch">2 V &lt;H.1a&gt;</idno>-->
+      <idno type="wa_faust">none</idno>
+      <idno type="landeck">2 V H.39</idno>
+      <textTranscript uri="391502.xml"/>
+      <classification>Konzept</classification>
+      <history>Ankauf von Frl. E. Gebecke (Zeitz), 18.5.1915</history>
+      <condition>an den Rändern, insbesondere auf der Rückseite, starke Vergilbungen; fleckig, Siegelrest; vermutlich ursprünglich längs und quer in der Mitte gefaltet; am linken Rand gewellt</condition>
+      <dimensions>
+         <width unit="mm">169</width>
+         <height unit="mm">210</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Höhe beträgt 208 mm.</note>
+      <format>4</format>
+      <edges>uncut</edges>
+      <note>oberer Rand Risskante</note>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>Fleisen</watermarkID>
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 85</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 85</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 85f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:datierung>ab dem 24.4.1831 (?)</f:datierung>
+      </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

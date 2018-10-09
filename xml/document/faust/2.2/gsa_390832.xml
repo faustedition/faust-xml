@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390832/">
+<revisionDesc>
+   <change when="2012-12-10" who="henzel">imported</change>
+   <change when="2012-12-10" who="henzel">encoded</change>
+   <change when="2015-01-28" who="koehler">minimal headnote</change>
+   <change when="2015-02-23" who="koehler">WA-Nr. Brief</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>auf Brief Goethe an Karl Wilhelm Frh. von Fritsch, 21.3.1825, WA IV 39,148-149 (WA-Nr. 39128): Konzept John mit Tinte mit angeschnittener Adresse und eigenhändiger Korrektur Goethes mit Bleistift</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P140</idno>
+      <idno type="gsa_1">GSA 25/XIX,2,5</idno>
+      <idno type="gsa_2">GSA 25/W 1777</idno>
+      <idno type="gsa_ident">390832</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">H P140</idno>
+      <!-- P140 -->
+      <!-- P141 -->
+      <!-- P142 -->
+      <!-- P143 -->
+      <!-- P144 -->
+      <!-- P145 -->
+      <idno type="hecker">163</idno>
+      <!-- P146 -->
+      <textTranscript uri="390832.xml"/>
+      <classification>Sammelblatt</classification>
+      <condition>rechts Längsstreifen abgeschnitten; ursprünglich als ganzes Blatt längs und quer gefaltet; Rand vergilbt</condition>
+      <dimensions>
+         <width unit="mm">155</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 151 mm. Im unteren Bereich, wo ein Längsstreifen fehlt, beträgt die Blatt-Breite 129 mm.</note>
+      <format>none</format>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>Stern</watermarkID><!-- undeutlich, ABR vermutet Stern über "N 1" -->
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 219</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 408</reference>
+         <!-- TODO Erstdruck: Q, S. 140 (P140) -->
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 220f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 408f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 626f.</reference>
+         <reference type="facsimile" uri="faust://bibliography/bohnenkamp1994">S. 817</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 409-411</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+            <!--  <docTranscript uri="0005.xml"/> deleatur -->
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+            <!-- <docTranscript uri="0003.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung> zur Datierung vgl. Bohnenkamp, S.409-410, = Zitat aus Lukan "Pharsalia" VI, vgl. Bohnenkamp, S.410-411</f:bemerkung>
+      <f:datierung>Frühjahr/Sommer 1826 (?)</f:datierung>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <kommentar xmlns="">
+            <p>Anhand des Entwurfs zu einem Schreiben Goethes an Fritsch auf der Vorderseite dieses Blattes (vgl. WA IV,39,148f. und WA III,10,33; datiert auf den 21. 3. 1825, abgesendet am 22. 3. 1825), lassen sich die auf der Rückseite des Blattes gesammelten Textsplitter zur `Klassischen Walpurgisnacht', die im Gegensatz zum umseitigen Konzept offensichtlich erst nach der Beschneidung des Blattes niedergeschrieben wurden, auf einen Zeitpunkt nach dem 21. 3. 1825 datieren. Einen weiteren Anhaltspunkt für die Datierung dieser Textsplitter bieten die Lukan-Zitate unter ihnen (vgl. den folgenden Zeilenkommentar): Beschäftigung mit dem hier zitierten 6. Buch der `Pharsalia' verzeichnet Goethes Tagebuch am 5. April 1826 (WA III,10,181). </p>
+            <p>Für eine Entstehung der vorliegenden Notizen im Frühjahr/Sommer 1826 spricht auch, daß Goethe sich in dieser Zeit mit den `Antecedenzien' der `Helena' zu beschäftigen begann; überliefert ist eine auf den 10. Juni 1826 datierte Reinschrift einer frühen Fassung der `Antecedenzien': Helena ist nach diesem Zeugnis "in den Bergklüfte[n] Thessaliens unmittelbar bey dämonischen Sibyllen zu suchen, welche durch merkwürdige Verhandlungen es zuletzt dahin vermittelten, daß Persephone der Hellena erlaubte, wieder in die Wirklichkeit zu treten [...]" (vgl. P123A, Z. 20-27, hier S. 413). Der hier formulierte Plan läßt sich ebenfalls mit dem 6. Buch der `Pharsalia' in Zusammenhang bringen, in dem es um die Befragung der thessalischen Hexe Erichtho und die Wiedererweckung eines Toten vor dem Hintergrund der pharsalischen Schlacht geht. (Zum Einfluß der `Pharsalia' auf die `Klassische Walpurgisnacht' vgl. Morris, Faustparalipomena, S. 195-198)</p>
+            <p>Das vorliegende Blatt besitzt Sammelblattcharakter; die Tinteneinträge sind zügig und offensichtlich in einem Arbeitsgang niedergeschrieben worden. Als Vorlage für diese Eintragungen hat wahrscheinlich III H7, Blatt 6 (hier S. 404) gedient. Obwohl die dort (Z. 11) schon erreichte Fassung eines Verses auf H P140 erst durch nachträgliche Korrektur wieder hergestellt wird, spricht der unterschiedliche Charakter der beiden Handschriften für diese Entstehungsreihenfolge der beiden Blätter.</p>
+            <p>Z. 1-4 <b>(P140)</b>: Wahrscheinlich Abschrift von III H7, Bl. 6, Z. 9-12 (vgl. Kommentar hier S. 407). Der bei der Abschrift unterlaufene Fehler wird nachträglich korrigiert; wohl im gleichen Arbeitsgang die zunächst fehlenden Umlautstriche in "blöde" mit Bleistift ergänzt.</p>
+            <p>Z. 5f. <b>(P141)</b>: Wahrscheinlich Abschrift von III H7, Bl. 6, Z. 4 u. 6 (vgl. Kommentar hier S. 407).</p>
+            <p>Z. 7f. <b>(P142)</b>: Wahrscheinlich weiterentwickelte Version von III H7, Bl. 6, Z. 1f. (vgl. den Kommentar hier S. 406f.).</p>
+            <p>Z. 7 keift] Die WA-Lesung "kost" wurde bereits von Strehlke korrigiert.</p>
+            <p>Z. 11-15 <b>(P143)</b>: Eine überzeugende Lesung der letzten beiden Worte in Z. 13 ist bisher nicht gelungen (Schmidt schlägt "eignes gerne" vor); auch fehlt eine Alternative zu der wenig überzeugenden Deutung dieser Verse als Schmeichelworte des Mephisto an Enyo, die von Morris vorgeschlagen wurde (Morris, Faustparalipomena, S. 184). (WA vermutet als Sprecher Faust, Hecker gibt Mephistopheles an.) Zumindest die Zugehörigkeit dieses Textbruchstücks zu Entwürfen zur `Klassischen Walpurgisnacht' wird durch den Überlieferungskontext sehr wahrscheinlich gemacht.</p>
+            <p>Z. 16-21 <b>(P144/P145)</b>: Zitate aus Lukan, `Pharsalia' VI. Die hier notierten Stellen hat Goethe schließlich so nicht für die `Klassische Walpurgisnacht' verwendet; Einflüsse von `Pharsalia' VI lassen sich jedoch an mehreren Stellen im endgültigen Text feststellen. Vgl. etwa V. 7503f. oder auch V. 7488. Zum Motiv der Entstehung des thessalischen Pharsalos im Zusammenhang mit Ossa und Pelion (V. 7561) vgl. Pharsalia VI,411f. und 347ff.</p>
+            <p> Z. 16f. Hascht nach dem nächtgen Wetterleuchten] die Übersetzung eines Halbverses aus der Beschreibung der thessalischen Hexe: "si nimbus et atrae/ Sidera subducunt nubes, tunc Thessala nudis/ Egreditur bustis nocturnaque fulmina captat" ("doch wenn Stürme und schwarze Wolken die Sterne auslöschen, dann kommt sie aus den Gräbern hervor, die sie geplündert hat, und <i>hascht nächtliche Blitze.</i>") (Pharsalia VI,520.) Nach Auskunft des Hederich (S. 2027) ist es Pluto, der Gott der Unterwelt, von dem "die Blitze bey Nachtzeit herkommen", solche also, von denen "Jupiter nichts weis". (Vgl. den Kommentar zu P142, hier S. 406f.). </p>
+            <p>Z. 18: zitiert Pharsalia VI,437 und ist dort auf die Fähigkeiten der thessalischen Hexen bezogen: "[...] vicinaque moenia castris/ Haemonidum, ficti quas nulla licentia monstri/ Transierit, quarum, <i>quidquid non creditur ars est.</i>" ("[...] denn dem Lager benachbart ist die Stadt der thessalischen Hexen, die keine wilde Ausgeburt der Phantasie überbieten könnte, und deren Kunst darin besteht, das Unglaubliche zu vollbringen.")</p>
+            <p>Z. 19-21 (<b>P145</b>): Das letzte Zitat notiert Goethe im Original und in deutscher Übersetzung. Auch hier geht es um die Macht der thessalischen Hexen: "Cessavere vices rerum, dilataque longa/ Haesit nocte dies; legi non paruit aether,/ Torpuit et praeceps audito carmine mundus,/ Axibus et rapidis inpulsos Iuppiter urguens/ Miratur non ire polos. nunc omnia conplent/ Imbribus et calido praeducunt nubila Phoebo,/ <i>Et tonat ignaro caelum Iove;</i> [...] de rupe pependit/ Abscisa fixus torrens, amnisque cucurrit,/ Non qua pronus erat." ("Der Rhythmus der Natur stockt: die Nacht wird länger, und der Tag säumt, der Äther gehorcht seinem Gesetz nicht mehr; das sausende Firmament erstarrt, sobald es Zaubersprüche hört, und Jupiter, der das Himmelsgewölbe antreibt, das sich auf schneller Achse dreht, ist erstaunt, daß es sich nicht bewegt. Bald füllen die Hexen alles mit Regen, hüllen die warme Sonne in Wolken, und <i>es donnert am Himmel, ohne daß Jupiter davon weiß;</i>
+               [...] Vom Felsen hängt unbeweglich, abgeschnitten, der Wasserfall, und ein Fluß läuft nicht dorthin, wohin sein Gefälle ihn führt." Pharsalia VI,467.)</p>
+            <p>Z. 22-27 <b>(P146)</b>: Von den meisten Kommentatoren als `dunkel' bezeichnet; vielleicht ein Ansatz zu V. 8391ff. und besonders zu V. 8445ff? Die Motive des Umkreisens und des Thrones verweisen auf den Auftritt Galateas; das Motiv der Verführung auf die Doriden; Hecker ordnet die Verse entsprechend den Doriden zu. Diese gehören allerdings wie auch Galatea zu den späten Ergänzungen der `Klassischen Walpurgisnacht' im Frühjahr 1830. Vgl. mein Kapitel zur Entstehungsgeschichte, hier S. 397f.; erste Spuren des `Meerfest'-Planes finden sich in den Randergänzungen von P99B vom November 1826 (hier S. 419); noch das auf den 6. 2. 1830 datierte Schema P125 (hier S. 508-511) notiert nur den "Muschelwagen der Venus" (Z.54) _ nicht Galatea.</p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+       </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>145</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Zitat aus Lukan "Pharsalia" VI, vgl. Bohnenkamp, S.410-411</f:value>
+         </f:field>
+       </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

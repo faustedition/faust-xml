@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/bb_cologny/G-30_17/">
+   <revisionDesc>
+      <change when="2012-09-28" who="bruening"/>
+      <change when="2013-08-13" who="henzel">encoded</change>
+      <change when="2013-10-25" who="koehler">history</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-08-06" who="bruening">Brockhaus 1899</change>
+      <change when="2019-09-20" who="krause">id-no landeck ergänzt</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <repository>bb_cologny</repository>
+      <idno type="faustedition">2 V H.37e</idno>
+      <idno type="bb_cologny">G-30.17</idno>
+      <idno type="gsa_1">GSA 25/XVIII,8,7</idno>
+      <idno type="wa_faust">2 V H.g</idno>
+      <idno type="bohnenkamp">2 V H.g1</idno>
+      <idno type="landeck">2 V H.gI</idno>
+      <textTranscript uri="G-30_17.xml"/>
+      <classification>Konzept</classification>
+      <history>laut faust://bibliography/knopf2004 und faust://bibliography/knopf2006 1936 oder 1951 von Martin Bodmer aus dem Nachlass von Rudolf Brockhaus, Leipzig, erworben</history>
+      <numberingList>
+         <numbering>Zeitgenössische Zählung mit Bleistift in römischen Ziffern</numbering>
+      </numberingList>
+      <condition>typische Anzeichen eines Amtsbriefumschlags mit Poststempelspuren ('850'), rotem Siegellack (sächsisches Wappen darauf abgebildet) und Faltspuren; Tintenflecken auf der Vorderseite; insbesondere an den Rändern leicht fleckig</condition>
+      <dimensions>
+         <width unit="mm">219</width>
+         <height unit="mm">159</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 212 mm. Der Mindestwert der Blatt-Höhe beträgt 155 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graugelblich</paperColour>
+      <chainLines unit="mm">21</chainLines>
+      <note>ungefährer Wert</note>
+      <paperMill>n.s.</paperMill>
+      <watermarkID>n.s.</watermarkID>
+      <note>Fragment</note><!-- zwischen Steglinien, gleichschenkliges Kreuz mit doppeltem Umriss (ähnlich einem Friedhofskreuz), evt. darunter befindlicher Schriftzug -->
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 149</reference>
+         <reference type="description" uri="faust://bibliography/brockhaus1899">S. 73</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 204</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 796</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_15_2">S. 167f., zu Vers 12075</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 204f.</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 796</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 735</reference>
+         <reference type="essay" uri="faust://bibliography/brockhaus1899">S. 73</reference>
+         <!-- „Ohne Zweifel sind es die allerersten Niederschriften Niederschriften jener wundervollen Worte aus der Schlußszene des zweiten Theils des Faust.“ -->
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 205</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 798</reference><!-- TODO BA Abdruck von V H.g1 und 2 -->
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="verso.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <references>
+               <reference type="text" uri="faust://bibliography/brockhaus1899">S. 74</reference>
+               <reference type="facsimile" uri="faust://bibliography/brockhaus1899">zw. S. 72 u. 73, Rückseite</reference>
+            </references>
+            <docTranscript uri="recto.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

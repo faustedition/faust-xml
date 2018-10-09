@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390490/">
+   <revisionDesc>
+      <change when="2013-01-09" who="bruening">encoded</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-05-11" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Längs und quer gebrochen. Konzept egh zu Vers 9152–9160 und 9162–9164, mit metrischem Schema über Vers 9152 = Vorarbeit zu 2 III H.1 (GSA 25/W 1567)</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 III H.42</idno>
+      <idno type="gsa_1">GSA 25/XVIII,2,31</idno>
+      <idno type="gsa_2">GSA 25/W 1622</idno>
+      <idno type="gsa_ident">390490</idno>
+      <idno type="wa_faust">2 III H.42</idno>
+      <textTranscript uri="390490.xml"/>
+      <classification>Konzept</classification>
+      <numberingList>
+         <numbering name="Bleistiftfoliierung">eigenhändige Bleistiftfoliierung des Konzepts zu den Tag- und Jahres-Heften</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">200</width>
+         <height unit="mm">332</height>
+      </dimensions>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Weimar_Fe_Bl_79_Nr_59</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 69</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 108</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 603</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 603f.</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 689</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 108</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 604</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0004.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>Druck bei Bohnenkamp, S.603-604, Vorarbeit zu III H.1 (25/XVIII,1,1)</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>1</f:blatt>
+      <f:datierung>29.3.1825 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 177-244</f:druckort>
+      <f:ident>390490</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Dritter Act
+WA: III H.42; vgl. I 15.2,69
+auf "Tag- und Jahres-Hefte" 1806 Konzept John zu WA I 35,268,22-28, Korrektur egh, Eckermann
+
+Vers(e): 9152-9164 (9161 fehlt/fehlen)
+Das Herz geht mir auf ...
+Konzept
+dabei: metrisches Schema über Vers 9152
+
+Vers(e): 9207-9208
+Schon find ich dich zu meinem Hof ...
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVIII,2,31</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVIII (2,31) (WA I,15.2,69 u. 109f.)</p>
+            <p>Entwürfe</p>
+            <p>Erstdruck: WA I,15.2,109f. (teilweise)</p>
+            <p> x , graues Folioblatt, gerippt, gefaltet, in Kolumnen gebrochen; WZ: `Weimar' (in Kurrentschrift);</p>
+            <p>VS: John schw.br. Tinte, Korrekturen G Tinte und Eckermann Blei, Konzept zu den Annalen 1806;</p>
+            <p>RS: G Blei 9152ff. Var, mit Blei als erledigt gestr.; quer dazu G Blei Entwurf zu 91529164 Var, mit Blei als erledigt gestr.; darüber G schw.br. Tinte 91569157, 9159; darunter in Klammern G Blei Entwurf zu 9207f. mit Sofortkorrekturen</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>
+               <img src="./RK_L3_01.JPG" width="10" height="76" align="middle"/>
+               <img src="./RK_R3_01.JPG" width="12" height="76" align="middle"/> Bei diesen Entwürfen handelt es sich um Vorarbeiten zu den letzten noch in das Mundum III H1 nachgetragenen Versen aus dem Frühjahr 1825, vermutlich vom 29. 3. 1825. Anhand der zunächst niedergeschriebenen Reinschrift eines Passus aus den `Tag- und Jahresheften' für 1806 auf der Vorderseite des Blattes ("Manche ableitende Gespräche traten jedoch zwischen diese beunruhigenden. Landgraf Carl von Hessen, tristeren Studien von jeher zugethan, unterhielt sich gern über die Urgeschichte der Menschheit und war nicht abgeneigt höhere Ansichten anzuerkennen, ob man gleich mit ihm einstimmig auf einen folgerechten Weg nicht gelangen konnte." WA I,35,268) rückt zwar Fischer-Lamberg (S. 108) "die Entstehung der Faust-Verse in die Nähe des 4. März 1825, weil Goethe an diesem Tage `das Jahr 1806 absolvirte'". Davon abgesehen, daß eine Beschäftigung Goethes mit den letzten Versen, die er im Frühjahr 1825 noch mundierte,
+               zu diesem frühen Zeitpunkt jedoch erstaunlich wäre (nach dem Ausweis des Tagebuchs arbeitete er an der `Helena' erst seit dem 14. März 1825), sprechen auch folgende Überlegungen Schillemeits für eine spätere Datierung: III H42 enthält einen Entwurf eines Chorlieds in Anapästen, das offensichtlich Gegenstand einer `metrischen Beratung' mit Riemer war, die laut Tagebuch am 29. 3. 1825 abgehalten wurde. Genau einen Tag vor diesem Datum aber meldet das Tagebuch: "Pensum an Helena dictirt. Einzelner Bogen aus 1806 abgeschrieben" (WA III,10,35). Mit einiger Wahrscheinlichkeit handelt es sich bei diesem Blatt um III H42, das gleich am folgenden Tag also für die Entwürfe zur `Helena' genutzt wurde. (Vgl. Schillemeit, P164a, S. 242f., Anm. 14.) </p>
+            <p>Z. 21-23: Entwurf einer Begrüßung Helenas durch Faust (vgl. etwa V. 9207f.). Bemerkenswert, daß auf diesem Blatt, das Entwürfe zu den letzten der im Frühjahr 1825 noch in III H1 nachgetragenen Verse aufweist, also auch schon einige Zeilen skizziert sind, die Faust selbst zuzuordnen sind: Schon 1825 hat Goethe sich also offensichtlich auch mit dem zweiten, `faustischen' Teil des 3. Akts beschäftigt. </p>
+            <p> IIIH36 (P175)</p>
+            <p>
+               <b>III H36 (P175)</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,31*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Das Herz geht mir auf</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>9161</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9152-9164</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>metrisches Schema über Vers 9152</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Vorarbeit zu III H.1 (25/XVIII,1,1) [Druck bei Bohnenkamp, S. 603-604]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2648</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,31*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,177</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Schon find ich dich zu meinem Hof</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>9207-9208</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>[Druck bei Bohnenkamp S. 604]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3386</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVIII,2,31</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>29.3.1825 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,69</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>III H.42</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30b">Schrift (Zusatzfeld für Indizierung)</f:key>
+            <f:value>John; Eckermann; egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="61a">weiterer Druckort in WA (Verknüpfungskategorie) (hart)</f:key>
+            <f:value>I 35,245</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="61b">weiterer Druckort in WA (Verknüpfungskategorie) (unscharf)</f:key>
+            <f:value>I 35,268 Zeile 22-28</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich; Eckermann, Johann Peter</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>1</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="992">Überlieferungszusammenhang</f:key>
+            <f:value>auf "Tag- und Jahres-Hefte" 1806 Konzept John zu WA I 35,268,22-28, Korrektur egh, Eckermann</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1265</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3833</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

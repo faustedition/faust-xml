@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/sb_berlin/Nachl_Herder_XXXII-5/">
+   <revisionDesc>
+      <change when="2013-03-11" who="bruening">Signatur, Irmscher.</change>
+      <change when="2013-10-30" who="bruening">Arnold, Kurzformen.</change>
+      <change when="2013-10-30" who="henzel">Lagenstruktur</change>
+      <change when="2014-04-30" who="bruening">Suphan</change>
+      <change when="2014-05-05" who="bruening">Suphan 1881, Kopfnote</change>
+      <change when="2014-05-05" who="bruening">encoded</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-07-24" who="bruening">Zeichen</change>
+      <change when="2016-01-28" who="koehler">Brief WA-Nr. statt URI</change>
+      <change when="2016-01-28" who="koehler">minimal headnote</change>
+      <change when="2016-09-22" who="bruening">Sigle geändert (wegen 1 H.6)</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Konvolut, 7 Blätter. – Gedichtsammlung
+         (Bl. 7: aus ‚Faust‘, ‚Gretchens Stube‘).</headNote>
+      <!--<note>Konvolut, 1 Einzelblatt, 1 Doppelblatt, Lage aus 2 Doppelblättern. – Gedichtsammlung
+         (Bl. 7: aus ‚Faust‘, ‚Gretchens Stube‘).</note>-->
+      <note><!-- Trägt einen der ältesten Zeugen zur 
+         Harzreise -->Zur mutmaßlichen
+         Herkunft der Gedichte, insbes. derer des 7. Bl. mit dem Lied am Spinnrad, vgl.
+         faust://bibliography/suphan1876, S. 230, 458 sowie faust://bibliography/suphan1881, S.
+         105–112ff. Als Indiz für die Datierung der Sammlung nennt Suphan den Goethes Brief an
+         Johann Gottfried und Caroline Herder vom 21. September 1781
+         (WA-Nr. 1316; vgl. faust://bibliography/suphan1881, S. 105). Zum
+         Papier vgl. die Anmerkung ebd.: „Das gleiche Hauspapier, wie es Herder zum Concipieren und
+         zum Druck-Manuscript der Schrift vom Geist der Ebräischen Poesie und anderer Schriften von
+         1781–82 gebraucht.“ Suphan hält die Blattreihenfolge aufgrund der
+         Beschriftungseigenschaften für eindeutig (ebd.), dennoch existieren zwei unterschiedliche
+         Blattzählungen (vgl. zu den Zählungen). Konstant blieb dabei die Position des ersten (Ebl.
+         1 / 14) und des letzten Blatts (Bl. 7 / 20). Zu den Bll. 1–6 werden die kanonischen
+         Gedichttitel genannt; abweichende Titel oder Inzipits werden ohne diplomatischen Anspruch
+         (vgl. zur Transkription) in Klammern mitgeteilt. – Die Transkription wurde mit
+         Unterstützung von Günter Arnold (Weimar) angefertigt. Zu den von Herder verwendeten
+         Kurzformen (vgl. auch faust://bibliography/aa_epen_2, S. 51f.) gehört der waagerechte
+         Strich im oberen Band von „Fenſter“ (v. 3391), „Zauberfluß“ (v. 3399), „ſich“ (v. 3407) und
+         „ſeinen“ (v. 3412). Diese Form der Abkürzung wird nicht in der sonst angestrebten
+         Annäherung an den handschriftlichen Befund wiedergegeben, sondern mit einem Punkt markiert,
+         obwohl in der Handschrift kein Punkt steht. Die Endsilben von „hoher“ (v. 3394) und „Augen“
+         (v. 3397) sind wie unspezifische Bögen behandelt worden. Für „mehr“ schreibt Herder +, für 
+         „nicht“ οὐ, für „Gott“ Θ (vgl. dagegen ebd., S. 50). Das Zeichen für die Wiederholung in derselben 
+         Zeile wird behelfsweise mit dem Minuszeichen ⁒ wiedergegeben.</note>
+      <repository>sb_berlin</repository>
+      <idno type="faustedition">1 H.11</idno>
+      <idno type="sb_berlin">Nachl. Herder, K. XXXII, Nr. 5</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="aa_wilhelmmeister">H.3</idno>
+      <subidno type="wa_gedichte">H.20</subidno>
+      <subidno type="wa_gedichte">H.22</subidno>
+      <subidno type="wa_gedichte">H.25</subidno>
+      <subidno type="wa_gedichte">H.26</subidno>
+      <subidno type="wa_gedichte">H.27</subidno>
+      <subidno type="wa_gedichte">H.30</subidno>
+      <subidno type="wa_gedichte">H.74</subidno>
+      <subidno type="wa_gedichte">H.77</subidno>
+      <subidno type="wa_gedichte">H.79</subidno>
+      <subidno type="wa_gedichte">H.81</subidno>
+      <subidno type="wa_gedichte">H.454</subidno>
+      <textTranscript uri="Nachl_Herder_XXXII-5.xml"/>
+      <classification>none</classification>
+      <numberingList>
+         <numbering name="Tintenfoliierung">Foliierung mit roter Tinte, danach die Beschreibung faust://bibliography/irmscher1979, S. 284f.</numbering>
+         <numbering name="Bleistiftfoliierung">Foliierung mit Bleistift, danach die heutige Blattreihenfolge.</numbering>
+      </numberingList>
+      <condition>Vergilbt.</condition>
+      <dimensions>
+         <width unit="mm">120</width>
+         <height unit="mm">188</height>
+      </dimensions>
+      <note>Da die Ränder unbeschnitten sind, handelt es sich hierbei nur um ungefähre
+         Maximalangaben.</note>
+      <format>8</format>
+      <edges>uncut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>Doppeladler_mit_Herz</watermarkID>
+      <countermarkID>n.s.</countermarkID>
+      <note>Schriftzug aus Antiquaversien, nicht entziffert.</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/suphan1876">S. 208</reference>
+         <reference type="description" uri="faust://bibliography/suphan1881">S. 105f.</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_1">S.
+            387<!-- Auf dem See H.20, Vom Berge o.S. -->, 390<!-- Herbstgefühl H.22 -->,
+            391<!-- An ein goldnes H.25 Wonne d. W. H.26 -->,
+            392<!-- Wanders Nachtlied (Über allen) H.27, Jägers Abendlied o.S. -->
+            393<!-- An d. Mond o.S.-->, 394<!-- Einschränkung o.S., Hoffnung H.30 --></reference>
+         <reference type="description" uri="faust://bibliography/wa_I_2">S.
+            305<!-- Mahomets G. „Herder“ -->, 306<!-- Gesang der Geister H.74-->,
+            307<!-- Harzreise H.77 -->, 309<!-- An Schwager Kronos o.S., Wanderers St.l. H.79 -->,
+            311<!-- Seefahrt o.S. -->, 313<!-- Ganymed o.S., Gränzen, H.81 -->,
+            315<!-- Königl. Gebet, Menschengefühl -->, 341<!-- Künstlers Abendlied „Herder“ -->,
+            343<!-- Monolog des Liebhabers o.S. --></reference>
+         <reference type="description" uri="faust://bibliography/wa_I_5_2">S.
+            115<!-- Schlafsegen H.454 -->, 247</reference>
+         <reference type="description" uri="faust://bibliography/aa_wilhelmmeister_5">S.
+            11</reference>
+         <reference type="description" uri="faust://bibliography/irmscher1979">S. 284f.,
+            231ff.</reference>
+         <reference type="text" uri="faust://bibliography/suphan1876">S. 209–220,</reference>
+         <reference type="essay" uri="faust://bibliography/suphan1876">S. 208–221, 230–237,
+            455–458</reference>
+         <reference type="essay" uri="faust://bibliography/suphan1881">S. 106–112</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_2">S. 309, 315, 341</reference>
+         <reference type="essay" uri="faust://bibliography/aa_wilhelmmeister_5">S. 12</reference>
+      </references>
+   </metadata>
+   <!-- Bl. 14 (1) -->
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <note>Gränzen der Menschheit (Titel: „Ode“, Inzipit: „Wenn der uralte / heilige Vater“);
+               Wonne der Wehmut (ohne Titel, Inzipit: „Trocknet nicht! trocknet nicht!“); Wandrers
+               Nachtlied (ohne Titel, Inzipit: „Der du von dem Himmel
+               bist“<!-- vgl. WA I, 1, 391, zu Wonne der Wehmut: „folgt die [Abschrift] des nächsten 
+                  Liedes“ (i.e. Wandrers Nachtlied, „Der du von dem Himmel bist“ -->).</note>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <note>Mahomets Gesang (ohne Titel, Inzipit: „Seht den Felsenquell“).</note>
+            <docTranscript uri="03.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- Dbl. 15/16 (4/5) -->
+   <sheet>
+      <!-- Bl. 15 (4) -->
+      <leaf>
+         <!-- (S. 1 radiert in Klammern?, vgl. WA I, 1, 394: „Herders Copie S 1“) -->
+         <page>
+            <metadata>
+               <note>Harzreise im Winter, Fortsetzung („Ach wer heilet die Schmerzen“), vgl. zu Bl.
+                  3v; Hoffnung (Titel: „An mein Glück“, Inzipit: „Schaff das Tagwerk meiner Hände“);
+                  Vom Berge.</note>
+               <docTranscript uri="04.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Seefahrt (Inzipit: „Taglang, Nächtelang“).</note>
+               <docTranscript uri="05.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <!-- Bl. 16 (5) -->
+      <leaf>
+         <!-- S. 3 radiert in Klammern? -->
+         <page>
+            <metadata>
+               <note>Seefahrt, Fortsetzung, mit Datierung „d. 11. Sept. 1776“; Monolog des
+                  Liebhabers (Titel: „An Kenner und Liebhaber“, Inzipit: „Was frommt die glühende
+                  Natur“); Mit einem gemahlten Band (Titel: „Zu einem gemahlten Band“).</note>
+               <docTranscript uri="06.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Künstlers Abendlied (ohne Titel); Einschränkung (ohne Titel, stattdessen die
+                  Datierung „Stützerbach 3 Aug. 76. auf dem Schloßberge“). Herbstgefühl (Titel:
+                  „Herbstgefühl 1775“).</note>
+               <docTranscript uri="07.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <!-- Lage Dbll. 17–20 -->
+   <sheet>
+      <!-- Bl. 17 (2) -->
+      <leaf>
+         <!-- S. 6 in Klammern? -->
+         <page>
+            <metadata>
+               <note>Wandrers Sturmlied.</note>
+               <docTranscript uri="08.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <note>Wandrers Sturmlied, Fortsetzung; Ganymed (Inzipit: „Wie im Morgenroth“).</note>
+               <docTranscript uri="09.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 18 (3) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <note>An Schwager Kronos (Titel: „An Schwager Kronos in der Postchaise“);
+                     Menschengefühl; Muth (Titel: „Eislebens Lied“); Königlich Gebet; Ein
+                     lutherischer Geistlicher spricht (ohne Überschrift).</note>
+                  <docTranscript uri="10.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <note>Gesang der Geister über den Wassern; Harzreise im Winter (Titel: „Auf dem
+                     Harz: im Dec.“).</note>
+                  <docTranscript uri="11.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 19 (6) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <note>An ein goldnes Herz, das er am Halse trug (Titel: „Auf […]“); An eine
+                     auswärtige Freundin. Mit einem Bilde des Fräulein Susanne Catharina von
+                     Klettenberg. 1774 (Titel: „Mit einer Zeichnung“); Auf dem See (Titel: „Auf dem
+                     Zürcher See 1775“).</note>
+                  <docTranscript uri="12.xml"/>
+               </metadata>
+            </page>
+            <page>
+               <metadata>
+                  <note>An den Mond (Inzipit: Füllest wieder ’s liebe Thal); Liebebedürfniß (Frühere
+                     Fassung, Titel: „An den Geist des Joh. Seck“, Inzipit: „Lieber, heiliger,
+                     großer Küßer“; Jägers Abendlied (Titel: „Jägers Nachtlied“); An den Geist des
+                     Johannes Secundus, v. 9ff. („Ach wie klag’ ich dirs“).</note>
+                  <docTranscript uri="13.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+      </sheet>
+      <!-- Bl. 20 (7) -->
+      <leaf>
+         <metadata>
+            <note>Zum Textbestand vgl. faust://bibliography/irmscher1979, S. 284f.</note>
+         </metadata>
+         <page>
+            <metadata>
+               <!--                 <item>Meine Ruh ist hin [Gretchen am Spinnrade/Faust I]</item>
+                  <item>Umschwebst du mich Götterbild [Auf der Jagd]</item>
+                  <item>Dem Schnee, dem Regen, dem Wind entgegen [Rastlose Liebe]</item>
+                  <item>Mir ist, als müßt ich dir was sagen [Schottisch Lied]</item>
+               -->
+               <docTranscript uri="14.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <!--                 <item>Ich armer Teufel, Herr Baron [Ich armer Teufel, Herr Baron]</item>
+                  <item>Der Segen wird gesprochen [Schlafsegen]</item>
+                  <item>Ein junger Mensch ich weiß nicht wie [Nicolai auf Werthers Grab]</item>
+                  <item>Auf einem Landgut bei Koppenhagen</item>
+                  <item>Über allen Gefilden ist Ruh [Wandrers Nachtlied]</item>
+               -->
+               <docTranscript uri="15.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gm_duesseldorf/NW1914-1984/">
+   <revisionDesc>
+      <change when="2012-10-02" who="bruening"/>
+      <change when="2013-09-11" who="bruening">encoded</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Pappkärtchen mit Goldbordüre, geklebt auf Bl. 40r des Albums der Lady Selina
+         Bracebridge. 142 Bl., gebunden, ca. 215 × 243 × 18 mm, Vorsatz rot kaschiert, mit
+         Goldschnitt; Velinpapier, Wz: J Whatman (Kapitälchen, 108 × 12 mm, am äußeren Rand, mit
+         diesem gleichlaufend). Durch die zwei senkrechten Schlitze am unteren und oberen Rand
+         verlief das Bändchen, mit dem das Kartchen an der Blumenspende befestigt war. Die Rückseite
+         des Kärtchens ist, soweit erkennbar, unbeschriftet.</note>
+      <repository>gm_duesseldorf</repository>
+      <idno type="faustedition">2 I H.9h</idno>
+      <idno type="gm_duesseldorf">NW 1914/1984</idno>
+      <idno type="wa_faust">none</idno>
+      <textTranscript uri="NW1914-1984.xml"/>
+      <classification>none</classification>
+      <dimensions>
+         <width unit="mm">75</width>
+         <height unit="mm">100</height>
+      </dimensions>
+      <format>none</format>
+      <paperType>none</paperType>
+      <paperColour>gelblich</paperColour>
+      <watermarkID>none</watermarkID>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="40.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="41.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

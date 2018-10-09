@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390295/">
+   <revisionDesc>
+      <change when="2012-11-14" who="henzel">imported</change>
+      <change when="2012-11-14" who="henzel">encoded</change>
+      <change when="2013-01-24" who="henzel">aktualisiert</change>
+      <change when="2015-01-22" who="koehler">minimal headnote</change>
+      <change when="2015-05-11" who="henzel">Ergaenzungen durch erneute Pruefung am Original</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 4.</headNote>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 IV H.1</idno>
+      <idno type="gsa_1">GSA 25/XVIII,5,2</idno>
+      <idno type="gsa_2">GSA 25/W 1670</idno>
+      <idno type="gsa_ident">390295</idno>
+      <idno type="wa_faust">2 IV H.1</idno>
+      <textTranscript uri="390295.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <note>ursprünglich Teil des "Alexandriner"-Arbeitsmundums</note>
+      <!-- Fortsetzung von IV H.20, Fortsetzung auf IV H.g -->
+      <numberingList>
+         <numbering>Eigenhändige Foliierung "3." mit roter Tinte</numbering>
+         <numbering>Archivarische Foliierung "15" mit Bleistift</numbering>
+      </numberingList>
+      <condition>linker Rand fleckig, unterer Rand beschädigt</condition>
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">333</height>
+      </dimensions>
+      <note>Der Mindestbetrag der Blatt-Breite beträgt 203 mm.</note>
+      <format>2</format>
+      <edges>cut</edges>
+      <paperType>Briefpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <chainLines unit="mm">26</chainLines>
+      <watermarkID>Adler, doppelköpfig mit Zepter und Reichsapfel, Wappen mit "H", oberhalb Krone oder Kurhut</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 132</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

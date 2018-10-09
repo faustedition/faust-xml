@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/agad_warszawa/PL_1_354_13-16-24/">
+   <revisionDesc>
+      <change when="2013-04-28" who="bruening">Nachweise etc.</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-03-17" who="henzel">encoded</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Doppelblatt. – Erweiterte Szene zu ‚Faust‘-Libretto, ‚Ein Gartenhäuschen‘.</headNote>
+      <repository>agad_warszawa</repository>
+      <subRepository>Familienarchiv Radziwill</subRepository>
+      <idno type="faustedition">T 4 H.2</idno>
+      <idno type="agad_warszawa">AR dz. XIII pudło 16 teka 24<!--Familienarchiv Radziwill, Teil XIII, Kasten 16, Mappe 24--></idno>
+      <idno type="gsa_1">GSA 25/XVII,1,10c</idno>
+      <idno type="wa_faust">T 4 H.2</idno>
+      <textTranscript uri="PL_1_354_13-16-24_17-19.xml"/>
+      <classification>Mundum</classification><!-- Abschrift -->
+      <history>Vgl. faust://bibliography/steiniger2005, S. 322.</history>
+      <numberingList>
+         <numbering>Dokumentübergreifende Paginierung mit Bleistift ohne Berücksichtigung der leeren Seiten, in vorliegender Archivalieneinheit beginnend mit 17, endend mit 19 (die letzte, leere Seite wurd nicht gezählt)</numbering>
+      </numberingList>
+      <condition>mittig quer gefaltet und hochkant aufbewahrt, Blatt war einst ein weiteres Mal gefaltet (am mittigen senkrechten Falz erkennbar); am Außenrand gewellt mit braunem Rand, in der Mitte vom Falz kleines Loch durch mehrfach erfolgtes Knicken</condition>
+      <note>auf jeder Seite wurde links und rechts senkrecht mit Bleistift ein Rand gezogen zur Begrenzung des Textfeldes</note>
+      <dimensions>
+         <width unit="mm">256</width>
+         <height unit="mm">254</height>
+      </dimensions>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grün</paperColour>
+      <chainLines unit="mm">25</chainLines>
+      <!-- kaum zu erkennen -->
+      <watermarkID>JG Haendel 1807</watermarkID>
+      <note>auf dem 1. Blatt befindlich am unteren rechten Rand von pag. 17</note>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_14">S. 319</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_14">S. 319f.</reference>
+         <reference type="essay" uri="faust://bibliography/steiniger2005">S. 319f.</reference>
+         <reference type="essay" uri="faust://bibliography/schillemeit1988">S. 647f.</reference>
+         <reference type="essay" uri="faust://bibliography/steiniger2005">S. 319</reference>
+         <reference type="essay" uri="faust://bibliography/steiniger2005">S. 322</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <note>Stempel mit "AR, dz. XIII" oben links auf der Seite vorhanden</note>
+               <docTranscript uri="0017.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0018.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0019.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390719/">
+<revisionDesc>
+   <change when="2012-11-29" who="henzel">imported</change>
+   <change when="2012-11-29" who="henzel">encoded</change>
+   <change when="2015-01-22" who="koehler">minimal headnote</change>
+</revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 5.</headNote>
+      <note>ursprünglich ein Folioblatt mit faust://document/wa_faust/2_V_H.28</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 V H.21</idno>
+      <idno type="gsa_1">GSA 25/XVIII,7,22</idno>
+      <idno type="gsa_2">GSA 25/W 1719</idno>
+      <idno type="gsa_ident">390719</idno>
+      <idno type="wa_faust">2 V H.21</idno>
+      <textTranscript uri="390719.xml"/>     
+      <classification>Arbeitsmundum</classification><!-- Konzept? -->
+      <condition>Durchscheinen der Tinte, vergilbter Rand</condition>
+      <dimensions>
+         <width unit="mm">166</width>
+         <height unit="mm">201</height>
+      </dimensions>
+      <format>4</format>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>graugrünlich</paperColour>
+      <chainLines unit="mm">28</chainLines>
+      <paperMill>Stützerbach</paperMill>
+      <watermarkID>"N 3"</watermarkID><!-- unter verschlungenem "JGH" -->
+      <note>angeschnittenes Wasserzeichen</note>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 148</reference>
+         <reference type="description" uri="faust://bibliography/landeck1981">S. 144</reference>
+         <reference type="text" uri="faust://bibliography/landeck1981">S. 144f.</reference>
+         <reference type="facsimile" uri="faust://bibliography/wahl1929">S. 15f.</reference>
+         <reference type="essay" uri="faust://bibliography/wahl1929">S. 30</reference>
+         <reference type="essay" uri="faust://bibliography/landeck1981">S. 145f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="0003.xml"/>
+            <!-- <docTranscript uri="0004.xml"/> deleatur -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>

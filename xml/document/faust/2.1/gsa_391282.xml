@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/391282/">
+   <revisionDesc>
+      <change when="2012-12-05" who="bruening">begonnen</change>
+      <change when="2012-12-07" who="bruening">encoded</change>
+      <change when="2014-01-17" who="henzel">docTranscript Namen aktualisiert</change>
+      <change when="2015-03-10" who="pravida">minimal headnote</change>
+      <change when="2015-05-31" who="bruening">I H.32</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Heft, 5 Blätter. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Das Konvolut bildete ursprünglich eine Lage in dem Mundum, das jetzt einen Teil von
+         faust://document/faustedition/2_H ausmacht (ähnlich faust://bibliography/bohnenkamp1994, S.
+         368). Über die jetzige Heftung hinaus sind noch weitere Stichlöcher erkennbar, die mglw.
+         auf eine frühere Heftung zurückgehen. Quer gebrochen. dabei: Gliederung bzw. Stichworte
+         egh</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.32</idno>
+      <idno type="gsa_1">GSA 25/XVII,5,2</idno>
+      <idno type="gsa_2">GSA 25/W 1454</idno>
+      <idno type="gsa_ident">391282</idno>
+      <idno type="wa_faust">2 I H.32</idno>
+      <textTranscript uri="391282.xml"/>
+      <classification>Arbeitsmundum</classification>
+      <numberingList>
+         <numbering name="Egh_Bleistiftfoliierung">Eigenhändige Bleistiftfoliierung fortlaufend von
+            33 bis 37 (passend zur Foliierung in faust://document/faustedition/2_H).</numbering>
+         <numbering name="Archivarische_Bleistiftfoliierung">Neue archivarische Foliierung mit
+            Bleistift (links unten, nach der Ablichtung).</numbering>
+      </numberingList>
+      <dimensions>
+         <width unit="mm">204</width>
+         <height unit="mm">330</height>
+      </dimensions>
+      <format>2</format>
+      <bindingMaterial>Faden</bindingMaterial>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>grünlich</paperColour>
+      <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      <countermarkID>GH_ueber_N3</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 11</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S.
+            361–368</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 361–367</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 616f.</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 368</reference>
+      </references>
+   </metadata>
+   <!-- Ebl. 1 -->
+   <disjunctLeaf>
+      <metadata>
+         <note>Mit einem angeklebten Streifen grauen Konzeptpapiers am übrigen Teil der Hs
+            befestigt.</note>
+         <dimensions>
+            <width unit="mm">188</width>
+            <height unit="mm">327</height>
+         </dimensions>
+         <watermarkID>Rautenkranzwappen_ueber_Stuetzerbach</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <references>
+               <reference type="facsimile" uri="faust://bibliography/bohnenkamp1994">S.
+                  835</reference>
+               <reference type="facsimile" uri="faust://bibliography/bohnenkamp1997">S.
+                  216</reference>
+            </references>
+            <docTranscript uri="0003.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <sheet>
+      <!-- Bl. 2 (G 34) -->
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0005.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="0007.xml"/>
+            </metadata>
+            <!-- Zettel Bl. 3 -->
+            <patch>
+               <metadata>
+                  <patchDimensions>
+                     <width unit="mm">170</width>
+                     <height unit="mm">111</height>
+                  </patchDimensions>
+                  <patchType>glue</patchType>
+                  <patchPaperType>Konzeptpapier</patchPaperType>
+                  <paperColour>grau</paperColour>
+                  <patchWatermarkID>none</patchWatermarkID>
+               </metadata>
+               <patchSurface/>
+               <patchSurface/>
+            </patch>
+         </page>
+      </leaf>
+      <sheet>
+         <!-- Bl. 5 (G 35) -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0010.xml"/>
+               </metadata>
+               <!-- Zettel Bl. 4 -->
+               <patch>
+                  <metadata>
+                     <note>Zwei zusammengeklebte Quartblätter<!-- TODO Blattdefinition -->, von
+                        denen das obere 165 × 194 mm, das untere 192 × 165 mm misst.</note>
+                     <patchDimensions>
+                        <width unit="mm">194</width>
+                        <height unit="mm">325</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Konzeptpapier</patchPaperType>
+                     <patchPaperColour>grau</patchPaperColour>
+                     <patchCountermarkID>H_ueber_Stuetzerbach</patchCountermarkID>
+                     <note>Oberes Blatt.</note>
+                     <patchWatermarkID>Stern_ueber_N1</patchWatermarkID>
+                     <note>Unteres Blatt.</note>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0012.xml"/>
+               </metadata>
+            </page>
+         </leaf>
+         <!-- Bl. 6 -->
+         <leaf>
+            <page>
+               <metadata>
+                  <docTranscript uri="0013.xml"/>
+               </metadata>
+               <!-- Zettel Bl. 7 -->
+               <patch>
+                  <metadata>
+                     <note>Fragment. Aus demselben Blatt wie faust://document/wa_faust/2_I_H.43 (vgl. faust://bibliography/bohnenkamp1994, S. 368).</note>
+                     <patchDimensions>
+                        <width unit="mm">159</width>
+                        <height unit="mm">96</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Konzeptpapier</patchPaperType>
+                     <patchPaperColour>grau</patchPaperColour>
+                     <patchWatermarkID>none</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface>
+                     <metadata>
+                        <!-- Par 103 -->
+                        <!--<docTranscript uri="0014"/>-->
+                        <references>
+                           <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S.
+                              614</reference>
+                        </references>
+                     </metadata>
+                  </patchSurface>
+               </patch>
+            </page>
+            <page>
+               <metadata>
+                  <docTranscript uri="0016.xml"/>
+               </metadata>
+               <!-- Zettel Bl. 8 -->
+               <patch>
+                  <metadata>
+                     <note>An der Schnittkante ist zu erkennen, dass dieses und der untere Teil des
+                        mit 4 foliierten zusammengeklebten Blatts ursprünglich zusammenhingen.
+                        Dieses Blatt wurde am Rand nochmals beschnitten.</note>
+                     <patchDimensions>
+                        <width unit="mm">175</width>
+                        <height unit="mm">165</height>
+                     </patchDimensions>
+                     <patchType>glue</patchType>
+                     <patchPaperType>Konzeptpapier</patchPaperType>
+                     <patchPaperColour>grau</patchPaperColour>
+                     <patchWatermarkID>Stern_ueber_N1</patchWatermarkID>
+                  </metadata>
+                  <patchSurface/>
+                  <patchSurface/>
+               </patch>
+            </page>
+         </leaf>
+      </sheet>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript uri="0017.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="00F.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= Arbeitsmundum; zusammengeheftete Folioblätter, ursprünglich mit Par 106 auf einem Blatt, vgl. I H.43 (25/XVII,5,14*b); zur Datierung vgl. Bohnenkamp, S.347, Text ist zweifach auf der Hs. zu finden</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>5</f:blatt>
+      <f:dabei_vermerk>Gliederung mit Schema-Stichworten egh; Schema John zu Vers 5767 ff. mit dem Inzipit: "Der Geitz der einen goldnen Becher ..."
+
+</f:dabei_vermerk>
+      <f:datierung>Dez. 1827, 22.12.1827 (?)</f:datierung>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>391282</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+WA: I H.32; vgl. I 15.2,11
+
+Vers(e): 5689-5986 (5715-5738, 5767-5804, 5809-5813, 5822-5863, 5872-5930, 5934 fehlt/fehlen)
+Nun bist du los ...
+Konzept
+
+Paralipomenon 103
+Plutus Ankündigend. Faunenchor ...
+Schema
+Bruchstück
+Text der Handschrift zu WA: I 15.2,192
+
+Paralipomenon 113 Variante
+In hundert Jahren ...
+Konzept
+Text der Handschrift zu WA: I 15.2,195-196</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>John, egh</f:schrift>
+      <f:signatur>XVII,5,2</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:abrDissertation>
+         <metadaten xmlns="">
+            <p>GSA XVII (5,2) (WA I,15.2,11 u. 192)</p>
+            <p>Arbeitsmundum/SchemaReinschrift (Abbildung der Seite 2 hier S. 835)</p>
+            <p>Erstdruck: WA I,15.2,25 (teilweise) u. 192 (P103)</p>
+            <p>Heft aus 2½ Foliobögen 403 x 330 mm, grünliches Papier, gerippt; WZ:
+               Rautenkranzwappen über `Stuetzerbach' / verschlungenes `G H' über `N 3'
+               (Stuetzerbacher Wappenpapier); der erste, angeklebte, halbe Foliobogen seitlich
+               beschnitten, 188 x 327 mm (WZ: Rautenkranzwappen über `Stuetzerbach');</p>
+            <p>Die Blätter des Heftes sind mit Bleistift oben rechts von 33 bis 37 durchnumeriert,
+               auf den Seiten 4 (RS 34), 5 (VS 35), 7 (VS 36) und 8 (RS 36) sind aus grauen
+               Foliobögen (Stuetzerbacher Sternpapier) ausgeschnittene Streifen eingeklebt; John
+               schw. Tinte mit Goetheschen Korrekturen und Randbemerkungen in Blei, auf einigen der
+               eingeklebten Zettel auch in Tinte; bis auf den letzten eingeklebten Zettel auf S. 8
+               (RS 36) alles mit Rötel als erledigt gestr.;</p>
+            <p>[Seite 1 (VS 33): 56895714, John schw. Tinte, Zeile 5703/4 G schw. Tinte, das ganze
+               mit Rötel als erledigt gestr.]</p>
+            <p>[Seite 2 (RS 33): G Blei, besonders die Zeilen 1, 4f., 6 und 8 sehr verwischt und
+               kaum noch zu lesen, mit Rötel als erledigt gestr.]</p>
+         </metadaten>
+         <kommentar xmlns="">
+            <p>Die Sigle I H32 bezeichnet ein aus 2½ Folioblättern geheftetes und geklebtes Heft,
+               das für die Aufnahme des Schlusses der `Mummenschanz' in einer frühen Fassung
+               bestimmt war (Einbrechen des wilden Heers mit dem Pan in seiner Mitte, Bartbrand,
+               Besänftigung durch Plutus). Wiedergegeben sind hier nur diejenigen Seiten des
+               Mundums, die aufschlußreiche Varianten zum endgültigen Text aufweisen. Goethes
+               Verfahren, das für ein Mundum bestimmte Heft zunächst mit Bleistiftstichworten zu
+               gliedern, läßt sich an diesem Beispiel gut beobachten, da nicht alles Geplante
+               ausgeführt wurde. Teilweise entsprechen die hier verwendeten Stichworte den Angaben
+               der Schemata (vgl. z. B. P106, Z. 12, hier S. 343, und I H32, Z. 2f. u. Z. 6) I H32
+               ist ein typisches Arbeitsmundum: die verschiedenen von John eingetragenen
+               Reinschriften wurden von Goethe mit Blei korrigiert und ergänzt. Innerhalb der und
+               zwischen den einzelnen Eintragungen blieb freier Raum, der später zum Teil von Goethe
+               eigenhändig ergänzt oder mit vermutlich aus anderen Munda herausgeschnittenen,
+               eingeklebten Blättern gefüllt wird. An diesem Arbeitsmundum läßt sich ein
+               wesentliches Prinzip der Entstehung dieser Szene beobachten, die offensichtlich aus
+               verschiedenen Einzelteilen `montiert' wurde. Die mit Bleistift eingetragenen
+               Seitenzahlen beziehen sich schon auf die entsprechende Seitennumerierung im Mundum
+               H.</p>
+            <p>Die in den Umkreis von I H32 gehörenden Entwurfsblätter, von denen hier nur
+               diejenigen aufgenommen wurden, die vom endgültigen Text noch deutlich abweichende
+               Entwürfe zeigen (I H39, I H40, I H33, I H42, I H31, I H38, vgl. hier S. 348-360),
+               entstanden vermutlich etwa zeitgleich mit der Herstellung des Heftes und den
+               disponierenden Bleinotizen; so tauchen z. B. die später fallengelassenen Verse "In
+               hundert Jahren nur einmal [...]" sowohl auf verschiedenen Entwurfsblättern (vgl. I
+               H29, hier S. 340, sowie I H31, hier S. 356) als auch auf I H32 (Z. 4f.) auf. Über den
+               Beginn der Arbeit Goethes an diesem Arbeitsmundum stehen keine Angaben zur Verfügung;
+               für das Einkleben des Papierstreifens auf S. 36 VS kann jedoch mit einiger
+               Wahrscheinlichkeit der 22. 12. 1827 als terminus post quem in Anspruch genommen
+               werden (vgl. I H43 zu P103, hier S. 346f.); die Entwürfe im Umkreis des Mundums
+               weisen ebenfalls auf die zweite Dezemberhälfte dieses Jahres (vgl. dazu hier S.
+               349).</p>
+            <p>Z. 1-3, 6-8: Stichworte etwa zu V. 5709-5739</p>
+            <p>Z. 9-18: Schema zu V. 5767ff. auf nachträglich eingeklebtem Blatt.</p>
+            <p>Z. 9f. einen goldnen Becher] Deutlicher als in der Endfassung, wo Mephisto aus Gold
+               einen Phallus "knetet", hier die von Möbus (Des Plutus zwiefache Rede, S. 73f.)
+               untersuchte Beziehung auf die Hure Babylon mit dem "güldenen becher in der hand, voll
+               greuels und unsauberkeit ihrer hurerey" (Offenbarung 17,4).</p>
+            <p>Z. 19-22: Ältere Stichworte zu 5767ff.</p>
+            <p>Z. 88-99: Zu <b>P103</b> vgl. hier S. 346f.</p>
+            <p>HP107</p>
+            <p>
+               <b>H P107</b>
+            </p>
+         </kommentar>
+      </f:abrDissertation>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,2*c</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>In hundert Jahren</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>113 Var</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 15.2,195-196</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>Text ist zweifach auf der Hs. zu finden</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2406</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>Dez. 1827</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>182712</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="16">Numerierung der Handschrift</f:key>
+            <f:value>fol. 33-37 egh [oben rechts]</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,11</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.32</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>5</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= Arbeitsmundum; zusammengeheftete Folioblätter</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1114</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2919</f:value>
+         </f:field>
+         <f:paralipomenon>
+            <f:field>
+               <f:key n="08a">Signatur in der Bohnenkamp-Datei</f:key>
+               <f:value>25/XVII,5,2*b</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="21">WA-Abtlg. Bd. S.</f:key>
+               <f:value>I 15.2,11: H.32</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="26">Bohnenkamp-Sigle</f:key>
+               <f:value>I H 32</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41b">Bohnenkamp-Seite</f:key>
+               <f:value>366</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="41h">Hecker-Nummer</f:key>
+               <f:value>80</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="42i">Bohnenkamp-Inzipit</f:key>
+               <f:value>Plutus Ankündigend. Faunenchor</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="43">WA-Paralipomenon-Nummer</f:key>
+               <f:value>103</f:value>
+            </f:field>
+            <f:field>
+               <f:key n="xx0">Datensatznr.</f:key>
+               <f:value>9943</f:value>
+            </f:field>
+         </f:paralipomenon>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,2*a</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Nun bist du los</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>John</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="31">Korrektur</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41f">fehlende Verse</f:key>
+            <f:value>5715-5738, 5767-5804, 5809-5813, 5822-5863, 5872-5930, 5934</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5689-5986</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="70">Personen</f:key>
+            <f:value>John, Johann August Friedrich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="90">dabei-Vermerk</f:key>
+            <f:value>Gliederung mit Schema-Stichworten egh; Schema John zu Vers 5767 ff. mit dem
+               Inzipit: "Der Geitz der einen goldnen Becher ..."</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3124</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,5,2*b</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12e">ermittelte Datierung</f:key>
+            <f:value>22.12.1827 (?)</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="12i">Index-Datum</f:key>
+            <f:value>18271222</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Plutus Ankündigend. Faunenchor</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="32">Vollständigkeit</f:key>
+            <f:value>Bru</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Schema</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41p">Paralipomenon</f:key>
+            <f:value>103</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41z">Druckstelle: Prosatexte und Dramen ohne Verszählung (Band, Seite, Zeile)
+               bzw. Paralipomena</f:key>
+            <f:value>I 15.2,192</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>ursprünglich mit Par 106 auf einem Blatt, vgl. I H.43 (25/XVII,5,14*b); zur
+               Datierung vgl. Bohnenkamp, S.347</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>3426</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

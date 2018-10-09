@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kodierungsbeispiele für die Digitalisierung gedruckter
+                    Faust-Editionen</title>
+                <author>Digitale Faust-Edition</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-03-15" who="Kockel">markiert</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="87" facs="kua_2-3_0081.jpg"/>
+            <div type="verse">
+                <milestone unit="testimony" spanTo="#pniower_325_end" xml:id="pniower_325"/><l><rs>Wie
+                    es dir nicht im Leben ziemt</rs></l>
+                <l>Muſst du nach Ruhm auch nicht am Ende jagen:</l>
+                <l>Denn bist du nur erst hundert Jahr berühmt,</l>
+                <l>So weiſs kein Mensch mehr was von dir zu sagen.</l>
+            </div>
+            <pb n="91" facs="kua_2-3_0091.jpg"/>
+            <div type="verse">
+                <l><rs>Giebt’s ein Gespräch? wenn wir uns nicht belügen,</rs></l>
+                <l>Mehr oder weniger versteckt.</l>
+                <l>So ein Ragout von Wahrheit und von Lügen</l>
+                <l>Das ist die Köcherey die mir am besten schmeckt.<anchor xml:id="pniower_325_end"
+                    /></l>
+            </div>
+        </body>
+    </text>
+</TEI>

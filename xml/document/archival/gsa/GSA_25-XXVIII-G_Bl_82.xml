@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/GSA_25-XXVIII-G_Bl_82/">
+   <revisionDesc>
+      <change when="2013-02-01" who="henzel">encoded</change>
+      <change when="2013-07-30" who="ritter">aktualisiert</change>
+      <change when="2014-01-29" who="henzel">gsa_2 mit none entfernt</change>
+      <change when="2015-03-09" who="pravida">minimal headnote</change>
+      <change when="2015-03-18" who="henzel">gsa_1 in gsa_2 umkodiert</change>
+      <change when="2015-04-23" who="bruening">gsa_2 nach Auskunft von J. Gruß</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Faszikel, 88 Bl. (mit Umschlag). – Aufzeichnungen (Bl. 82: Versentwürfe zu ‚Faust ‘).</headNote>
+      <note>2. Faszikel (von insgesamt drei) der "Sammlung zur Reise nach Stuttgard. und von da nach Tübingen, Schafhausen, Zürch und Stäfa. Ende August und Anfang September 1797." insgesamt 88 Blatt foliiert sowie drei weitere Doppelblätter vorn in Faszikel eingelegt</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">H P121a</idno>
+      <idno type="gsa_1">GSA 25/XXVIII,G</idno>
+      <idno type="gsa_2">GSA 25/W 2633</idno>
+      <idno type="gsa_ident">391155</idno>
+      <idno type="bohnenkamp">H P121a</idno>
+      <textTranscript uri="GSA_25-XXVIII-G_Bl_82.xml"/>
+      <condition>typische Gebrauchsspuren eines umfangreichen Faszikels (Ränder vergilbt und eingerissen)</condition>
+      <numberingList>
+         <numbering>zeitgenössische (eigenhändige?) Foliierung mit Bleistift</numbering>
+      </numberingList>
+      <format>2</format>
+      <bindingMaterial>Faden</bindingMaterial>
+      <edges>cut</edges>
+      <paperType>Schreibpapier</paperType>
+      <paperColour>gelblich</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_34_2">S. 61-137</reference>
+         <reference type="description" uri="faust://bibliography/wa_I_53">S. 369</reference>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 199</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_34_2">S. 104</reference>
+         <reference type="text" uri="faust://bibliography/wa_I_53">S. 369</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 199</reference>
+         <reference type="text" uri="faust://bibliography/schoene2005">Bd. 1, S. 570</reference>
+         <reference type="essay" uri="faust://bibliography/wa_I_34_2">S. 47-60</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 199f.</reference>
+      </references>
+   </metadata>
+   <sheet>
+      <!-- Blatt 82 -->
+      <metadata>
+         <dimensions>
+            <width unit="mm">206</width>
+            <height unit="mm">339</height>
+         </dimensions>
+         <note>Der Mindestwert der Blatt-Breite beträgt 204 mm. Der Mindestwert der Blatt-Höhe beträgt 338 mm.</note>
+         <stabMarks>
+            <stabMark unit="mm">55</stabMark>
+            <stabMark unit="mm">109</stabMark>
+            <stabMark unit="mm">221</stabMark>
+            <stabMark unit="mm">263</stabMark>
+         </stabMarks>
+         <leafCondition>an manchen Stellen stark ausgedünntes Papier</leafCondition>
+         <chainLines unit="mm">26</chainLines>
+         <paperMill>n.s.</paperMill>
+         <watermarkID>nicht erkennbares Wappen in Rautenform</watermarkID>
+         <!-- Blatt 1, spiegelverkehrt und 180° gedreht -->
+         <countermarkID>A L</countermarkID>
+         <!-- Blatt 2, spiegelverkerhrt und 180° gedreht -->
+      </metadata>
+      <leaf>
+         <!-- Faust -->
+         <page>
+            <metadata>
+               <docTranscript uri="FA_3_0030.xml"/>
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript uri="FA_3_0031.xml"/>
+            </metadata>
+         </page>
+      </leaf>
+      <leaf>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+         <page>
+            <metadata>
+               <docTranscript/>
+               <!-- leer -->
+            </metadata>
+         </page>
+      </leaf>
+   </sheet>
+</archivalDocument>

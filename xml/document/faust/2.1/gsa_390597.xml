@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390597/">
+   <revisionDesc>
+      <change when="2012-11-21" who="bruening">encoded</change>
+      <change when="2014-05-30" who="bruening">Verweise</change>
+      <change when="2014-10-22" who="pravida">headnote</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+      <change when="2015-03-02" who="henzel">docTranscript nachgetragen</change>
+      <change when="2015-06-18" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>2 Zettel. – Zu ‚Faust II‘, Akt 1.</headNote>
+      <note>Zertrennte Teile eines Folioblatts. Mit einer Querbrechung und zwei Längsbrechungen an
+         beiden Rändern.
+         2 Zettel (oberer und unterer Teil eines Einzelblatts), 2 beschriebene Seiten. – S. 1
+         (obere Hälfte, Vs.): Versentwürfe zu ‚Faust II‘, Akt 1, S. 2 (obere Hälfte, Rs.):
+         unbeschrieben. S. 3 (untere Hälfte, Vs.): Versentwürfe zu ‚Faust II‘, Akt 1, S. 4 (untere
+         Hälfte, Rs.): unbeschrieben (eigenhändig, Tinte).</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 I H.27</idno>
+      <idno type="gsa_1">GSA 25/XVII,4,29</idno>
+      <idno type="gsa_2">GSA 25/W 1449</idno>
+      <idno type="gsa_ident">390597</idno>
+      <idno type="wa_faust">2 I H.27</idno>
+      <textTranscript uri="390597.xml"/>
+      <classification>Konzept</classification>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 11</reference>
+      </references>
+   </metadata>
+   <!-- oberer Teil -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">77</height>
+         </dimensions>
+         <format>none</format>
+         <watermarkID>none</watermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002_o.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <!-- unterer Teil -->
+   <disjunctLeaf>
+      <metadata>
+         <dimensions>
+            <width unit="mm">202</width>
+            <height unit="mm">254</height>
+         </dimensions>
+         <format>none</format>
+         <countermarkID>H_ueber_Stuetzerbach</countermarkID>
+      </metadata>
+      <page>
+         <metadata>
+            <docTranscript uri="0002_u.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/><!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= 3. Konzept  im Vgl. mit H.25 (25/XVII,4,27) und H.26 (25/XVII,4,28); ursprünglich ein Blatt, das nach Vers 5611 zerschnitten wurde</f:bemerkung>
+      <f:bestandbildner>Goethe, Johann Wolfgang von / Werke</f:bestandbildner>
+      <f:bestandnr>25</f:bestandnr>
+      <f:blatt>2</f:blatt>
+      <f:druckort>WA I 15.1, 8-89</f:druckort>
+      <f:ident>390597</f:ident>
+      <f:kurztitel>Faust. Zweiter Theil. Erster Act. Kaiserliche Pfalz
+Vers(e): 5606-5639
+Zwar Masken, merk ich ...
+WA: I H.27; vgl. I 15.2,11
+Konzept</f:kurztitel>
+      <f:ordnungsgruppe>Werke</f:ordnungsgruppe>
+      <f:schrift>egh</f:schrift>
+      <f:signatur>XVII,4,29</f:signatur>
+      <f:zwueber>Dramatische Werke</f:zwueber>
+    </f:archiveDatabase>
+      <f:inventoryDatabase>
+         <f:field>
+            <f:key n="08">Signatur</f:key>
+            <f:value>25/XVII,4,29</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="081">Bestandsbezeichnung</f:key>
+            <f:value>Bestand Goethe, Johann Wolfgang von / Werke</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11">Kurzbezeichnung (WA-Kategorie mit Texterstreckung)</f:key>
+            <f:value>Faust II. WA I 15.1, 1-I 15.2, 247</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="11z">Druckstelle in der WA</f:key>
+            <f:value>I 15.1,8</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="14">vorgefundenes Inzipit</f:key>
+            <f:value>Zwar Masken, merk ich</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="20">Handschriftennachweis in WA und SNA</f:key>
+            <f:value>I 15.2,11</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="25">Sigle</f:key>
+            <f:value>I H.27</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="30">Schrift</f:key>
+            <f:value>egh</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="333">Überlieferungsform</f:key>
+            <f:value>Konzept</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="41v">Verszahlen</f:key>
+            <f:value>5606-5639</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="80">Blattzahl</f:key>
+            <f:value>2</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="91">Kommentar</f:key>
+            <f:value>= 3. K im Vgl. mit H.25 (25/XVII,4,27) und H.26 (25/XVII,4,28); ursprünglich
+               ein Blatt, das nach Vers 5611 zerschnitten wurde</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="994">Filmnummer</f:key>
+            <f:value>1109</f:value>
+         </f:field>
+         <f:field>
+            <f:key n="xx0">Datensatznr.</f:key>
+            <f:value>2634</f:value>
+         </f:field>
+      </f:inventoryDatabase>
+   </f:metadataImport>
+</archivalDocument>

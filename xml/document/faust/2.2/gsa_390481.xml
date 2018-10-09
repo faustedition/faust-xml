@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gsa/390481/">
+   <revisionDesc>
+      <change when="2013-01-07" who="henzel">imported</change>
+      <change when="2013-01-08" who="henzel">encoded</change>
+      <change when="2014-01-27" who="henzel">docTranscript nachgetragen</change>
+      <change when="2015-01-28" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Zettel. – Zu ‚Faust II‘, Akt 2.</headNote>
+      <note>Streifen eines Umschlags, angeschnittene letzte Zeile</note>
+      <repository>gsa</repository>
+      <idno type="faustedition">2 II H.54</idno>
+      <idno type="gsa_1">GSA 25/XVII,8,19</idno>
+      <idno type="gsa_2">GSA 25/W 1546</idno>
+      <idno type="gsa_ident">390481</idno>
+      <idno type="wa_faust">2 II H.54</idno>
+      <textTranscript uri="390481.xml"/>
+      <classification>Konzept</classification>
+      <condition>Falt- und Knickspuren, fleckig; Klebespuren auf der Rückseite; oben mittig zwei Einstichlöcher</condition>
+      <dimensions>
+         <width unit="mm">132</width>
+         <height unit="mm">115</height>
+      </dimensions>
+      <note>Der Mindestwert der Blatt-Breite beträgt 129 mm. Der Mindestwert der Blatt-Höhe beträgt 113 mm.</note>
+      <format>none</format>
+      <edges>cut</edges>
+      <paperType>Velinpapier</paperType><!-- eigentlich von der Festigkeit wie Briefpapier -->
+      <paperColour>hellgelblich</paperColour>
+      <watermarkID>none</watermarkID>
+      <countermarkID>none</countermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/wa_I_15_2">S. 39</reference>
+         <reference type="description" uri="faust://bibliography/fischer-lamberg1955">S. 54</reference>
+         <reference type="essay" uri="faust://bibliography/fischer-lamberg1955">S. 54</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="0002.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript/>
+            <!-- leer -->
+         </metadata>
+      </page>
+   </disjunctLeaf>
+   <f:metadataImport xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+      <f:archiveDatabase xml:space="preserve">
+      <f:bemerkung>= späteres Konzept im Vgl. mit II H.25 (25/XVII,7,26*c)</f:bemerkung>
+    </f:archiveDatabase>
+   </f:metadataImport>
+</archivalDocument>

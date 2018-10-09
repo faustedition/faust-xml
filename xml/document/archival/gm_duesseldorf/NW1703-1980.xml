@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd" xml:base="faust://xml/transcript/gm_duesseldorf/NW1703-1980/">
+   <revisionDesc>
+      <change when="2012-10-02" who="bruening"/>
+      <change when="2013-09-11" who="bruening">encoded</change>
+      <change when="2015-01-23" who="koehler">minimal headnote</change>
+   </revisionDesc>
+   <metadata>
+      <headNote>Einzelblatt. – Zu ‚Faust II‘, Akt 3.</headNote>
+      <note>Halbiertes Folioblatt.</note>
+      <repository>gm_duesseldorf</repository>
+      <idno type="faustedition">2 III H.50b</idno>
+      <idno type="gm_duesseldorf">NW 1703/1980</idno>
+      <idno type="gsa_1">GSA 25/XVIII,4,5a</idno>
+      <idno type="wa_faust">none</idno>
+      <idno type="bohnenkamp">2 III H.q</idno>
+      <textTranscript uri="NW1703-1980.xml"/>
+      <classification>Konzept</classification>
+      <dimensions>
+         <width unit="mm">202</width>
+         <height unit="mm">168</height>
+      </dimensions>
+      <edges>cut</edges>
+      <paperType>Konzeptpapier</paperType>
+      <paperColour>grau</paperColour>
+      <watermarkID>Stern_ueber_N1</watermarkID>
+      <references>
+         <reference type="description" uri="faust://bibliography/bohnenkamp1994">S. 635</reference>
+         <reference type="text" uri="faust://bibliography/bohnenkamp1994">S. 635</reference>
+         <reference type="essay" uri="faust://bibliography/bohnenkamp1994">S. 637f.</reference>
+      </references>
+   </metadata>
+   <disjunctLeaf>
+      <page>
+         <metadata>
+            <docTranscript uri="01.xml"/>
+         </metadata>
+      </page>
+      <page>
+         <metadata>
+            <docTranscript uri="02.xml"/>
+         </metadata>
+      </page>
+   </disjunctLeaf>
+</archivalDocument>
