@@ -225,5 +225,63 @@
         <comment>Tintenentwurf</comment>
         <item uri="faust://document/faustedition/2_III_H.81"/>
         <item uri="faust://document/faustedition/2_III_H.81a"/>
-    </relation>    
+    </relation>
+    
+    <!-- für https://github.com/faustedition/faust-xml/issues/673 
+    1825-03-14 wg. am 14. März verzeichnet das Tagebuch: “Helena vorgenommen”,
+    Riemer nicht vor 03.04.1825 (http://dev.faustedition.net/testimony/graef_1313) -->
+    <!--2_III_H.2a_5 Riemer-->
+    <date notBefore="1825-04-03">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.2a_5"/>
+    </date>
+    <!--2_III_H.3b Brief, datiert-->
+    <date notBefore="1826-10-27">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.3b"/>
+    </date>
+    <!--     2_III_H.8a Riemer -->
+    <date notBefore="1825-04-03">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.8a"/>
+    </date>    
+    <!--         2_III_H.2a_4 Riemer -->    
+    <date notBefore="1825-04-03">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.2a_4"/>
+    </date>
+    <!--     2_III_H.8b Riemer -->    
+    <date notBefore="1825-04-03">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.8b"/>
+    </date>
+    <!--     2_III_H.8c Riemer -->
+    <date notBefore="1825-04-03">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.8c"/>
+    </date>
+    <!--     2_III_H.9a Riemer -->    
+    <date notBefore="1825-04-03">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.9a"/>
+    </date>
+    <!--     2_III_H.23d Riemer -->
+    <date notBefore="1825-04-03">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.23d"/>
+    </date>
+    <!--     2_III_H.25a Goethe Blei -->
+    <date notBefore="1825-03-14">
+        <source uri="faust://self"/>
+        <item uri="faust://document/faustedition/2_III_H.25a"/>
+    </date>
+    <!-- 
+    H_P99.1 ABR, mit indirekter Datierung (?)
+    -->
+    <date when="1826-11-09">
+        <source uri="faust://self"/>
+        <comment>Datierung auf der Hs.</comment>
+        <item uri="faust://document/faustedition/H_P99.1"/>
+    </date>
+    
 </macrogenesis>
