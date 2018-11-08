@@ -370,8 +370,11 @@
                 <line xml:id="lae">Vereint euch nun ihr Meiſter unſres Schatzes,</line>
                 <line xml:id="laf">Erfüllt mit Luſt die Würden eures Platzes,</line>
                 <line xml:id="lag">Wo mit der
-                    o<!--<seg xml:id="obern"></seg>-->bern-<!--<seg xml:id="bindestrich"></seg>-->
-                    ſich die Unterwelt,</line>
+                    <f:overw>
+                        <f:under><mod rend="erase" hand="#g">O</mod></f:under>
+                        <f:over><handShift new="#g_t"/>o</f:over>
+                    </f:overw><handShift new="#jo_t"/>bern<seg rend="inbetween"><handShift new="#g_t"/>-</seg>
+                    <handShift new="#jo_t"/>ſich die Unterwelt,</line>
                 <line xml:id="lah">In Einigkeit b<!--<seg xml:id="beglueckt"></seg>-->eglückt,
                     zuſam̄enſtellt.<!--<seg xml:id="Punkt"></seg>--></line>
                 <!--<certainty locus="value" target="#obern #bindestrich #beglueckt #Punkt"/>-->
