@@ -335,13 +335,10 @@
                 <line xml:id="lv">Ich ſeh’s! Junonen ähnlich, Leda’n, Helenen,</line>
                 <line xml:id="lw">Wie majeſtätiſch lieblich mir’s im Auge ſchwankt.</line>
                 <line xml:id="lx">Ach! ſchon verrückt ſich’s! Formlos breit und aufgethürmt,</line>
-                <line xml:id="ly">Ruh<f:overw>
-                        <f:under>e</f:under>
-                        <f:over>t</f:over>
-                    </f:overw><c xml:space="preserve"> </c><f:overw>
-                        <f:under><mod rend="erase" hand="#jo">s</mod></f:under>
-                        <f:over>e</f:over>
-                    </f:overw>s in Oſten, fernen Eisgebirgen gleich</line><!-- TODO am Original pruefen, ob Punkt am Ende -->
+                <line xml:id="ly">Ruh<retrace hand="#g_t">t</retrace><f:overw>
+                        <f:under><mod rend="erase" hand="#g">s</mod></f:under>
+                    <f:over><handShift new="#g_t"/>es</f:over>
+                    </f:overw> <handShift new="#jo_t"/>in Oſten, fernen Eisgebirgen gleich</line><!-- TODO am Original pruefen, ob Punkt am Ende -->
                 <line xml:id="lz"><handShift new="#jo_t"/>Und ſpiegelt blendend flüchtger Tage großen Sinn.</line>
                 <space dim="vertical" quantity="0.5" unit="lines"/>
                 <line xml:id="laa" rend="indent-10">Doch mir<!-- mir auf Rasur? Ritschel --> umſchwebt ein zarter lichter Nebelſtreif</line>
