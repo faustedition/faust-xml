@@ -305,7 +305,10 @@
                 <line xml:id="lb" rend="right">
                     <fw type="folioNum">
                         <handShift new="#g_bl"/>
-                        <retrace hand="#g_bl">39</retrace>
+                        <retrace><mod rend="erase" hand="#g">3</mod></retrace><f:overw>
+                            <f:under><mod rend="erase" hand="#g">7</mod></f:under>
+                            <f:over>9</f:over>
+                        </f:overw>
                     </fw>
                 </line>
                 <line xml:id="lc" rend="centered">
