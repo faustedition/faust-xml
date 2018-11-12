@@ -321,13 +321,6 @@
     </facsimile>
     <sourceDoc>
         <surface>
-            <zone f:bottom-top="#mainzone" f:right-left="#mainzone">
-                <line xml:id="la">
-                    <fw type="pageNum"><handShift new="#sc_bl"/>78.</fw>
-                    <space dim="horizontal" quantity="7" unit="chars"/>
-                </line>
-                <space dim="vertical" quantity="1.5" unit="lines"/>
-            </zone>
             <zone type="main" xml:id="mainzone">
                 <line xml:id="lb" rend="indent-20"><handShift new="#st_t"/>Wem gelingt es? –
                     Trübe Frage,</line>
@@ -381,6 +374,13 @@
                 <line xml:id="laf" rend="indent-30">auf, umgeben Fauſt, heben ihn in
                     die</line>
                 <line xml:id="lag" rend="indent-30">Höhe und ziehen mit ihm vorüber)</line>
+            </zone>
+            <zone f:bottom-top="#mainzone" f:right-left="#mainzone">
+                <line xml:id="la">
+                    <fw type="pageNum"><handShift new="#sc_bl"/>78.</fw>
+                    <space dim="horizontal" quantity="7" unit="chars"/>
+                </line>
+                <space dim="vertical" quantity="1.5" unit="lines"/>
             </zone>
             <surface type="patch">
                 <zone f:right-left="#mainzone" f:top="#Wie">
