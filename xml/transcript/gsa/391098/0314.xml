@@ -330,7 +330,7 @@
                 <line xml:id="ls">Ehrt den Moment, wo manche tauſend ſchreiten,</line>
                 <line xml:id="lt">Für oder wider mich, zu ſtreiten.</line>
                 <line xml:id="Da"><mod rend="strikethrough" hand="#g_bl">Da trat ich auf</mod>: <anchor xml:id="anchor_81"/> Wer Thron und Kron begehrt</line>
-                <line xml:id="lu" type="inter"><handShift new="#g_bl"/><f:ins f:at="#anchor_81" f:orient="left" hand="#g_bl">Selbſt iſt der Mann!</f:ins></line>
+                <line type="inter"><handShift new="#g_bl"/><f:ins f:at="#anchor_81" f:orient="left" hand="#g_bl"><anchor xml:id="selbst-mann"/></f:ins></line>
                 <line xml:id="lv"><handShift new="#jo_t"/><mod rend="strikethrough" hand="#g_bl">Perſönli</mod>ch ſey er ſolcher Ehren werth.</line>
                 <line xml:id="lw">Sey das Geſpenſt<handShift new="#sc_bl"/>, <handShift new="#jo_t"/>das gegen uns erſtanden</line>
                 <line xml:id="lx">Sich Kaiſer nennt und Herr von unſern Landen,</line>
@@ -349,6 +349,9 @@
                     <handShift new="#sc_bl"/>
                     <note><abbr>NB.</abbr></note><f:grLine f:orient="horiz" f:style="linear" hand="#g_bl"/>
                 </line>
+            </zone>
+            <zone f:top="#selbst-mann">
+                <line xml:id="lu" f:right="#selbst-mann"><handShift new="#g_bl"/>Selbſt iſt der Mann!</line>
             </zone>
         </surface>
     </sourceDoc>
