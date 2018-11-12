@@ -352,11 +352,11 @@
                 <line xml:id="lt">Blick auf! hier ſteht, bedeutend nah,</line>
                 <line xml:id="lu">Im Mondenſchein der ewige Tempel da.</line>
             </zone>
-            <zone f:right-left="#mainzone">
-                <line f:top="#l_7454" xml:id="lv"><handShift new="#sc_bl"/>
-                    <f:grBrace f:bottom="#l_7455" f:orient="vert-left" f:style="linear" hand="#sc_bl"/>
-                </line>
-                <line f:top="#Am" xml:id="lw"><f:grLine f:orient="vert" f:style="linear" hand="#sc_bl"/> i<gap quantity="4" unit="chars"/><space dim="horizontal" quantity="2" unit="chars"/></line>
+            <zone f:top="#l_7454" f:right-left="#mainzone">
+                <f:grBrace f:bottom="#l_7455" f:orient="vert-left" f:style="linear" hand="#sc_bl"/>                
+            </zone>
+            <zone f:top="#Am" f:right-left="#mainzone">
+                <line xml:id="lw"><handShift new="#ri_bl_lat"/>Penéus<space dim="horizontal" quantity="2" unit="chars"/></line>
             </zone>
         </surface>
     </sourceDoc>
