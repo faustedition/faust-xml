@@ -332,6 +332,10 @@
                 <line xml:id="lv" rend="indent-10">Erglänzt erſt deine Leuchte</line>
                 <line xml:id="lw" rend="indent-10">Mit herrlichem Getön.</line>
             </zone>
+            <zone f:bottom="#lh" f:right-left="#lh">
+                <line><handShift new="#ri_bl"/><mod rend="erase" hand="#sc">’ns</mod><space dim="horizontal" unit="chars" quantity="3"></space></line>
+                <line><mod rend="erase" hand="#sc">⸓</mod></line>
+            </zone>
         </surface>
     </sourceDoc>
 </TEI>
