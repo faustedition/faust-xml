@@ -302,7 +302,10 @@
             <zone type="main" xml:id="mainzone">
                 <line xml:id="la" rend="indent-center-60"><handShift new="#jo_t"/>
                     <hi rend="underline">Kaiſer</hi> (zum Vierten) </line>
-                <line xml:id="lb">Weil unausweichlich hier ſich nur von Feſten handelt,</line>
+                <line xml:id="lb">Weil unausweichlich hier ſich nur von F<f:overw>
+                    <f:under><mod rend="erase" hand="#g"><gap unit="chars" quantity="1"></gap></mod></f:under>
+                    <f:over><handShift new="#g_t"/>e</f:over>
+                </f:overw><handShift new="#jo_t"/>ſten handelt,</line>
                 <line xml:id="lc">So ſey mir, junger Held, zum Schenken umgewandelt.</line>
                 <line xml:id="ld">Erzſchenke ſorge nun daß unſre Kellerey</line>
                 <line xml:id="le">Aufs reichlichſte verſorgt mit gutem Weine ſey.</line>
