@@ -321,9 +321,7 @@
             <zone type="main" xml:id="mainzone">
                 <line xml:id="la" rend="right"><fw type="folioNum"><handShift new="#xx_blau_lat"/>170</fw></line>
                 <line xml:id="lb" rend="indent-20"><handShift new="#jo_t"/>Tiefe Nacht.</line>
-                <line xml:id="lc" rend="centered"><mod rend="erase" hand="#jo"><unclear cert="low">Lynceus</unclear></mod></line>
-                <!-- todo am Original pruefen, auch hand und material klaeren (_t vs. _bl) -->
-                <line f:pos="over" rend="centered"><f:grLine f:orient="horiz" f:style="linear" hand="#jo_t"/></line>
+                <line xml:id="lc" f:pos="over" rend="centered"><f:grLine f:orient="horiz" f:style="linear" hand="#jo_t"/></line>
                 <line xml:id="ld" rend="indent-20">
                     <hi rend="underline">Lynceus,</hi> der Thürmer</line>
                 <line xml:id="le" rend="indent-30">(auf der Schloßwarte, ſingend)</line>
