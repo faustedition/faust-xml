@@ -354,7 +354,7 @@
                         <f:over><handShift new="#sc_bl"/>!</f:over>
                     </f:overw></line>
                 <space dim="vertical" quantity="0.5" unit="lines"/>
-                <line xml:id="lag" rend="indent-50"><retrace hand="#g_tr"><hi rend="underline" hand="#g_bl">Lamien</hi> (innehaltend)</retrace></line>
+                <line xml:id="lag" rend="indent-50"><handShift new="#g_bl"/><retrace hand="#g_tr"><hi rend="underline" hand="#g_bl">Lamien</hi> (innehaltend)</retrace></line>
                 <line xml:id="lah" rend="indent-80"><handShift new="#g_bl_lat"/><note><abbr>fol</abbr> 19.</note></line>
             </zone>
         </surface>
