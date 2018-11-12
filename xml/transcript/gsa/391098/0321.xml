@@ -325,7 +325,13 @@
                 <line xml:id="lm" rend="centered">
                     <hi rend="underline">Fauſt.</hi>
                 </line>
-                <line xml:id="ln">Nun mercke wie der leidige Greif,</line>
+                <line xml:id="ln">Nun m<f:overw>
+                    <f:under><mod rend="erase" hand="#g"><gap unit="chars" quantity="1"></gap></mod></f:under>
+                    <f:over><handShift new="#g_t"/>e</f:over>
+                </f:overw><handShift new="#jo_t"/>r<f:overw>
+                    <f:under><mod rend="erase" hand="#g"><gap unit="chars" quantity="2"></gap></mod></f:under>
+                    <f:over><handShift new="#g_t"/>cke</f:over><!-- etwas abweichend von der Druckausgabe -->
+                </f:overw> <handShift new="#jo_t"/>wie der leidige Greif,</line>
                 <line xml:id="lo">Zerrzerrt, zerzauſt nur Schaden findet,</line>
                 <line xml:id="lp">Und, mit geſenckten Löwenſchweif,</line>
                 <line xml:id="lq">Zum Gipfelwald geſtürzt, verſchwindet.</line>
