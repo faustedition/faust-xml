@@ -318,7 +318,10 @@
     </facsimile>
     <sourceDoc>
         <surface>
-            <zone type="main">
+            <zone f:top="#lb" f:right-left="#mainzone">
+                <line><handShift new="#g_bl"/>3<space dim="horizontal" unit="chars" quantity="5"></space></line>
+            </zone>
+            <zone type="main" xml:id="mainzone">
                 <line xml:id="la" rend="right">
                     <fw type="folioNum"><handShift new="#xx_blau_lat"/>24</fw>
                 </line>
