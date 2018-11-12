@@ -335,10 +335,10 @@
                 <line xml:id="lk"><handShift new="#jo_t"/>Des allgewaltigen Wille<anchor xml:id="anchor_104"/>s Kühr</line>
                 <line xml:id="ll">Bricht ſich an dieſem Sande hier.</line>
                 <line xml:id="lm"><f:overw>
-                        <f:under><mod rend="erase" hand="#g"><supplied>Ja!</supplied></mod></f:under>
+                        <f:under><mod rend="erase" hand="#g"><gap unit="chars" quantity="3"></gap></mod></f:under><!-- Ja! -->
                         <f:over><handShift new="#g_t"/>Wie</f:over>
                     </f:overw>
-                    <handShift new="#jo_t"/>ſcha<retrace hand="#g_t">ff</retrace><mod rend="erase" hand="#g"><supplied>t</supplied></mod> ich mir es vom Gemüthe<f:overw>
+                    <handShift new="#jo_t"/>ſcha<retrace hand="#g_t">ff</retrace><mod rend="erase" hand="#g"><gap unit="chars" quantity="1"></gap></mod><!-- schafft --> ich mir es vom Gemüthe<f:overw>
                         <f:under><mod rend="erase" hand="#g">?</mod></f:under>
                         <f:over><handShift new="#g_t"/>!</f:over>
                     </f:overw></line>
