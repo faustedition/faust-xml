@@ -317,11 +317,6 @@
         <pb n="2"/>
         <body>
             <sp>
-                <l n="7437">
-                    <del f:revType="instant">V<gap precision="medium" quantity="5" unit="chars"/>
-                        <del f:revType="instant"><gap unit="chars" quantity="4" precision="medium"/></del>
-                        <del f:revType="instant"><unclear cert="low">Liebe</unclear></del>
-                        <del f:revType="instant">Freude</del> F<gap unit="chars" quantity="4" precision="medium"/>s <gap precision="medium" quantity="4" unit="chars"/></del> Errungne Liebe gegen das Geſchick.</l>
                 <l n="7434">So ſey auch ſie durch keine Zeit <subst f:revType="soon" f:correction="true">
                         <del>gefunden</del>
                         <add>gebunden</add>
@@ -339,11 +334,15 @@
                         <del>w</del>
                         <add>W</add>
                     </subst>elch ſeltnes Gl<orig>u</orig>ck</l>
-                <l n="7437"><subst f:revType="soon">
+                <!--<l n="7437"><subst f:revType="soon">
                         <del>V<gap precision="medium" quantity="6" unit="chars"/> B<gap precision="medium" quantity="8" unit="chars"/></del>
                         <add>Errung<unclear cert="high">ene</unclear> Liebe g<gap precision="medium" quantity="3" unit="chars"/> F<gap unit="chars" quantity="4" precision="medium"/>s</add>
-                    </subst> gegen das Geſchick.</l>
-                <anchor xml:id="addSpan_l_7436f"/>
+                    </subst> gegen das Geſchick.</l>-->
+                <l n="7437">
+                    <del f:revType="instant">V<gap precision="medium" quantity="5" unit="chars"/>
+                        <del f:revType="instant"><gap unit="chars" quantity="4" precision="medium"/></del>
+                        <del f:revType="instant"><unclear cert="low">Liebe</unclear></del>
+                        <del f:revType="instant">Freude</del> F<gap unit="chars" quantity="4" precision="medium"/>s <gap precision="medium" quantity="4" unit="chars"/></del> Errungne Liebe gegen das Geſchick.</l>                <anchor xml:id="addSpan_l_7436f"/>
                 <l n="7438">Und ſollt ich nicht, <subst f:revType="soon">
                         <del>ſehnſ<orig>u</orig>chtiger</del>
                         <add>ſehnſ<orig>u</orig>chtigſter</add>
