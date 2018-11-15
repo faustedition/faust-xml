@@ -2193,14 +2193,17 @@
    <!-- Eintrag 2018-10-08 -->
    <!--  / 25/XVIII,8,5 / Sammlung Geigy-Hagenbach, UB Basel / (oS) V Hl (Findbuch), V Hm (Landeck, Bohnenkamp) /  -->
    <date notAfter="1825-03-19">
-      <comment>Datierung auf Hs. . Geschenkblatt, kein Entwurf.</comment>
+      <comment>Datierung auf Hs. Geschenkblatt, kein Entwurf.</comment>
       <source uri="faust://bibliography/landeck1981">S.174</source>
       <item uri="faust://document/landeck/2_V_H.m"/>
    </date>
    <!-- geprüft -->
    <relation name="temp-pre">
-      <source uri="faust://bibliography/landeck1981">S.174</source>
-      <comment>Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .</comment>
+      <source uri="faust://bibliography/landeck1981">S. 164, 174</source>
+      <comment>"H.m auf H.30 beruht" (S. 164); 
+         "Der Text des vorliegenden Blattes beruht auf dem Entwurf der Strophe in H.30" (S. 174)
+         <!--Bezug auf Tgb. Tgb vom 04.05.1831 (Abschluss des 5. Akts). .-->
+         <!-- der vorhergende auskommentierte Kommentar muss ein Irrläufer sein. --></comment>
       <item uri="faust://document/wa/2_V_H.30"/>
       <item uri="faust://document/landeck/2_V_H.m"/>
    </relation>
