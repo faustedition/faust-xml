@@ -16,6 +16,7 @@
         <revisionDesc>
             <change when="2017-08-31" who="krause">angelegt</change>
             <change when="2018-06-28" who="krause">ergänzt</change>
+            <change when="2018-11-22" who="krause">xml:id ergänzt</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -24,7 +25,7 @@
             <div>
                 <head>Bemerkung des Übersetzers.</head>
                 
-                <p><milestone unit="testimony" spanTo="#graef_1431_end"/>Wenn uns Deutsche in jedem
+                <p><milestone unit="testimony" spanTo="#graef_1431_end" xml:id="graef_1431"/>Wenn uns Deutsche in jedem
                     Fall interessiren muß zu sehen, wie ein geistreicher Franzos gelegentlich in
                     unsere Literatur hineinblickt, so dürfen wir doch nicht allzu stolz werden über
                     das Lob, was man uns dorther von Zeit zu Zeit ertheilen mag. Die Freiheit, ja
