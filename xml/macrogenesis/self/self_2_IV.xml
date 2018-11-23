@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<macrogenesis xmlns="http://www.faustedition.net/ns"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../macrogenesis.rnc" type="application/relax-ng-compact-syntax"?><macrogenesis xmlns="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <relation name="temp-pre">
     <source uri="faust://self"/>
     <comment>"IV H 7a scheint mir richtig vor H 7 angesetzt"<!-- ABR per Mail, September 29, 2018 10:04 PM --></comment>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<macrogenesis xmlns="http://www.faustedition.net/ns"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="macrogenesis.rnc" type="application/relax-ng-compact-syntax"?><macrogenesis xmlns="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <!-- 390028 / 25/XXXV,5 /  /  /  -->
    <!--  Entstehungszeit der Göchhausischen Handschrift -->
    <date type="normalized" notBefore="1777-12-01" notAfter="1816-12-31" ignore="yes">
