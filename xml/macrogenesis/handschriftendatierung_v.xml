@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<macrogenesis xmlns="http://www.faustedition.net/ns"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="macrogenesis.rnc" type="application/relax-ng-compact-syntax"?><macrogenesis xmlns="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <!--  / 25/XVIII,7,1 /  / V H1a (Findbuch), V H39 (Landeck) /  -->
    <date notBefore="1831-04-25">
       <comment>Bezug auf Tagebuch auf Hs. Konzept zu Tagebuchnotiz zum 24.4.1831. gehörte
@@ -122,7 +120,7 @@
    </date>
    <!-- geprüft -->
    <relation name="temp-pre">
-      <source uri="faust://bibliography/bohnenkamp1994">S.763"/></source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.763"/&gt;</source>
       <source uri="faust://bibliography/landeck1981">S.114</source>
       <source uri="faust://bibliography/bluhm1966">S.15</source>
       <item uri="faust://document/wa/2_V_H.3"/>
@@ -362,14 +360,14 @@
    <!--  / 25/XVIII,7,9 /  / V H8 /  -->
    <date notBefore="1825-02-19" notAfter="1825-03-04">
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <source uri="faust://bibliography/hertz1932">S.256</source>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
    </date>
    <!-- geprüft -->
    <date notBefore="1825-02-26">
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <source uri="faust://bibliography/landeck1981">S.121</source>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
    </date>
@@ -378,7 +376,7 @@
       <source uri="faust://bibliography/landeck1981">S.121</source>
       <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://document/wa/2_V_H.3"/>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
    </relation>
@@ -387,7 +385,7 @@
       <source uri="faust://bibliography/landeck1981">S.121</source>
       <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
    </relation>
@@ -395,7 +393,7 @@
    <relation name="temp-pre">
       <source uri="faust://bibliography/landeck1981">S.121</source>
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://document/wa/2_V_H.5"/>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
    </relation>
@@ -415,7 +413,7 @@
    <relation name="temp-pre">
       <source uri="faust://bibliography/bohnenkamp1994">S.763</source>
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
       <item uri="faust://document/wa/2_V_H.2"/>
    </relation>
@@ -423,7 +421,7 @@
    <relation name="temp-syn">
       <source uri="faust://bibliography/hertz1932">S.256</source>
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
       <item uri="faust://inscription/wa/2_V_H.4/i_uebrige"/>
    </relation>
@@ -431,7 +429,7 @@
    <relation name="temp-syn">
       <source uri="faust://bibliography/hertz1932">S.256</source>
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
       <item uri="faust://document/wa/2_V_H.9"/>
    </relation>
@@ -439,7 +437,7 @@
    <relation name="temp-syn">
       <source uri="faust://bibliography/hertz1932">S.256</source>
       <comment>Relative Chronologie. . V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift
-         vollkommen überein" (faust://bibliography/hertz1932">S.256).</comment>
+         vollkommen überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
       <item uri="faust://document/wa/2_V_H.25"/>
    </relation>
@@ -449,7 +447,7 @@
       <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
          Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
          (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
-         überein" (faust://bibliography/hertz1932">S.256).</comment>
+         überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <comment>Februar oder März 1825</comment>
       <source uri="faust://bibliography/wa_I_15_2">S.147</source>
       <item uri="faust://document/wa/2_V_H.9"/>
@@ -459,7 +457,7 @@
       <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
          Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
          (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
-         überein" (faust://bibliography/hertz1932">S.256).</comment>
+         überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <source uri="faust://bibliography/hertz1932">S.253-254,256</source>
       <item uri="faust://document/wa/2_V_H.9"/>
    </date>
@@ -474,7 +472,7 @@
       <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
          Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
          (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
-         überein" (faust://bibliography/hertz1932">S.256).</comment>
+         überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://document/wa/2_V_H.7"/>
       <item uri="faust://document/wa/2_V_H.9"/>
    </relation>
@@ -484,7 +482,7 @@
       <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
          Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
          (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
-         überein" (faust://bibliography/hertz1932">S.256).</comment>
+         überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://document/wa/2_V_H.9"/>
       <item uri="faust://inscription/wa/2_V_H.8/i_uebrige"/>
    </relation>
@@ -494,7 +492,7 @@
       <comment>Bezug auf Brief auf Hs. Entwurf eines Briefs an Nees, "Februar oder März 1825" (Erich
          Schmidt, WA I 15,2, S.147; Suphan, WA IV 39, S.327), zwischen 19.02.1825 und 04.03.1825
          (Hertz, Landeck). V H4, V H8, V H9, V H25 "stimmen in Aussehen und Schrift vollkommen
-         überein" (faust://bibliography/hertz1932">S.256).</comment>
+         überein" (faust://bibliography/hertz1932"&gt;S.256).</comment>
       <item uri="faust://document/wa/2_V_H.9"/>
       <item uri="faust://document/wa/2_V_H.25"/>
    </relation>
@@ -939,7 +937,7 @@
    <!-- geprüft -->
    <relation name="temp-pre">
       <source uri="faust://self"/>
-      <comment></comment>
+      <comment/>
       <item uri="faust://document/faustedition/2_V_H.17"/>
       <item uri="faust://document/faustedition/2_V_H.2"/>
    </relation>
@@ -1108,7 +1106,7 @@
    <!-- Eintrag 2018-10-08 -->
    <relation name="temp-pre">
       <source uri="faust://self"/>
-      <comment></comment>
+      <comment/>
       <item uri="faust://document/faustedition/2_V_H.23"/>
       <item uri="faust://document/faustedition/2_V_H.2"/>
    </relation>
@@ -1507,7 +1505,7 @@
       <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
          denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
          jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
-         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         faust://bibliography/hertz1932"&gt;S.258-259 verweisen die Vermerke auf der Rückseite in das
          Jahr 1826 (nach V H2).</comment>
       <item uri="faust://document/wa/2_V_H.25"/>
       <item uri="faust://inscription/wa/2_V_H.29/i_r"/>
@@ -1519,7 +1517,7 @@
       <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
          denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
          jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
-         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         faust://bibliography/hertz1932"&gt;S.258-259 verweisen die Vermerke auf der Rückseite in das
          Jahr 1826 (nach V H2).</comment>
       <comment>unmittelbar nach</comment>
       <item uri="faust://document/wa/2_V_H.28"/>
@@ -1532,7 +1530,7 @@
       <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
          denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
          jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
-         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         faust://bibliography/hertz1932"&gt;S.258-259 verweisen die Vermerke auf der Rückseite in das
          Jahr 1826 (nach V H2).</comment>
       <comment>unmittelbar nach</comment>
       <item uri="faust://document/wa/2_V_H.28"/>
@@ -1544,7 +1542,7 @@
       <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
          denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
          jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
-         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         faust://bibliography/hertz1932"&gt;S.258-259 verweisen die Vermerke auf der Rückseite in das
          Jahr 1826 (nach V H2).</comment>
       <comment>unmittelbar nach</comment>
       <item uri="faust://document/wa/2_V_H.27"/>
@@ -1556,7 +1554,7 @@
       <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
          denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
          jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
-         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         faust://bibliography/hertz1932"&gt;S.258-259 verweisen die Vermerke auf der Rückseite in das
          Jahr 1826 (nach V H2).</comment>
       <comment>unmittelbar nach</comment>
       <item uri="faust://document/wa/2_V_H.27"/>
@@ -1569,7 +1567,7 @@
       <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
          denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
          jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
-         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         faust://bibliography/hertz1932"&gt;S.258-259 verweisen die Vermerke auf der Rückseite in das
          Jahr 1826 (nach V H2).</comment>
       <item uri="faust://inscription/wa/2_V_H.29/i_v"/>
       <item uri="faust://document/wa/2_V_H.2"/>
@@ -1581,7 +1579,7 @@
       <comment>Relative Chronologie. Auszug aus nicht identifiziertem Brief und verse aus "So ist
          denn Tieck…" auf Rs. auf Brief an unbekannten Empfänger: "welche gefällige Bemühung
          jederzeit dankbarlichst zu erkennen..."; Notiz John: "Vom 6n bis zum 30n Juny. 1822"; nach
-         faust://bibliography/hertz1932">S.258-259 verweisen die Vermerke auf der Rückseite in das
+         faust://bibliography/hertz1932"&gt;S.258-259 verweisen die Vermerke auf der Rückseite in das
          Jahr 1826 (nach V H2).</comment>
       <item uri="faust://inscription/wa/2_V_H.29/i_r"/>
       <item uri="faust://document/wa/2_V_H.2"/>
@@ -1994,7 +1992,7 @@
    <!-- geprüft -->
    <relation name="temp-pre">
       <source uri="faust://self"/>
-      <comment></comment>
+      <comment/>
       <item uri="faust://document/faustedition/2_V_H.2"/>
       <item uri="faust://document/faustedition/2_V_H.37b"/>
    </relation>
@@ -2186,7 +2184,7 @@
    <!-- geprüft -->
    <relation name="temp-pre">
       <source uri="faust://self"/>
-      <comment></comment>
+      <comment/>
       <item uri="faust://document/faustedition/2_V_H.2"/>
       <item uri="faust://document/faustedition/2_H.26a"/>
    </relation>
@@ -2358,7 +2356,7 @@
    <!-- geprüft -->
    <relation name="temp-pre">
       <source uri="faust://self"/>
-      <comment></comment>
+      <comment/>
       <item uri="faust://document/faustedition/2_V_H.2"/>
       <item uri="faust://document/faustedition/2_V_H.37g"/>
    </relation>

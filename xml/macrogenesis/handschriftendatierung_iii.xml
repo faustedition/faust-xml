@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><macrogenesis xmlns="http://www.faustedition.net/ns"    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"    xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="macrogenesis.rnc" type="application/relax-ng-compact-syntax"?><macrogenesis xmlns="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <!--  / 25/XVIII,1,1 /  / III H1 /  -->
-   <date notBefore="1800-04-13" notAfter="1825-04-05" >
+   <date notBefore="1800-04-13" notAfter="1825-04-05">
       <comment>. . .</comment>
       <comment>1800 und 1825</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.568</source>
@@ -15,7 +16,7 @@
    </relation>
    <!-- geprüft -->
    <!--  / 25/XVIII,1,2a und 25/XVIII,1,2b /  / III H1 /  -->
-   <date notBefore="1800-04-13" notAfter="1826-06-24" >
+   <date notBefore="1800-04-13" notAfter="1826-06-24">
       <comment>. . .</comment>
       <comment>1800, 1825 und 1826</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
@@ -83,7 +84,7 @@
    <!-- geprüft -->
   <!--  / 25/XVIII,1,3:1 /  / III H3 /  -->
   <!--  / 25/XVIII,1,3:2 /  / III HIII /  -->
-   <date notAfter="1826-06-09" >
+   <date notAfter="1826-06-09">
       <comment>. . Folioheft; bildet zusammen mit  25/XVIII,1,3a III HIII. Datierung auf HS: 9. Jun. 1826</comment>
       <source uri="faust://bibliography/inventare_2_2">Sp.160</source>
       <item uri="faust://document/wa/2_III_H.III"/>
@@ -98,7 +99,7 @@
    <!-- geprüft -->
   <!--  / 25/XVIII,1,3a / UB Bonn / III HIII /  -->
   <!--  / 25/XVIII,1,4 /  / III H4 /  -->
-   <date notBefore="1826-03-14" notAfter="1826-06-24" >
+   <date notBefore="1826-03-14" notAfter="1826-06-24">
       <comment>1826</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
       <item uri="faust://document/wa/2_III_H.III"/>
@@ -117,7 +118,7 @@
       <item uri="faust://inscription/wa/2_III_H.5/i_uebrige"/>
    </date>
    <!-- geprüft -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>Verse 8587-8590</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.573</source>
       <source uri="faust://bibliography/fischer-lamberg1955">S.73</source>
@@ -147,7 +148,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,6/  / III H6 /  -->
-   <date notBefore="1822-09-30" notAfter="1825-04-05" >
+   <date notBefore="1822-09-30" notAfter="1825-04-05">
       <comment>Inhalt. . .</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.87</source>
       <source uri="faust://bibliography/schillemeit1987">S.243</source>
@@ -169,7 +170,7 @@
    </relation>
    <!-- geprüft -->
    <!--  / 25/XVIII,1,6:2 /  / III H6a /  -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>Frühjahr 1825</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.87</source>
       <source uri="faust://bibliography/schillemeit1987">S.243</source>
@@ -192,7 +193,7 @@
       </relation>
       <!-- geprüft -->
    <!--  / 25/XVIII,1,7:1 /  / III H7 /  -->
-   <date notBefore="1826-05-10" notAfter="1826-05-25" >
+   <date notBefore="1826-05-10" notAfter="1826-05-25">
       <comment>Mai 1826 (?)</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
       <item uri="faust://document/wa/2_III_H.7/1"/>
@@ -224,7 +225,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,7:3 /  / III H7 /  -->
-   <date notBefore="1826-05-10" notAfter="1826-05-25" >
+   <date notBefore="1826-05-10" notAfter="1826-05-25">
       <comment>Mai 1826 (?)</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
       <source uri="faust://bibliography/fischer-lamberg1955">S.88</source>
@@ -244,7 +245,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,7:4 /  / III H7 /  -->
-   <date notBefore="1826-05-10" notAfter="1826-05-25" >
+   <date notBefore="1826-05-10" notAfter="1826-05-25">
       <commnet>Mai 1826</commnet>
       <comment>. Konzept zu Widmung an Carl Victor Meyer, Beilage zu Brief an N. Meyer, 25.6.1826 (WA IV 41, S. 77). .</comment>
       <source uri="faust://bibliography/inventare_2_2">Sp.163</source>
@@ -252,7 +253,7 @@
       <item uri="faust://document/wa/2_III_H.7/5"/>
    </date>
    <!-- geprüft -->
-   <date type="normalized" notBefore="1826-05-05" notAfter="1826-05-14" >
+   <date type="normalized" notBefore="1826-05-05" notAfter="1826-05-14">
       <commnet>um den 09.05.1826</commnet>
       <comment>. Konzept zu Widmung an Carl Victor Meyer, Beilage zu Brief an N. Meyer, 25.6.1826 (WA IV 41, S. 77). .</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.88</source>
@@ -274,20 +275,20 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,8 /  / III H8 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>Papier, Inhalt. . .</comment>
       <comment>1825 (Verse)</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.575</source> 
       <item uri="faust://inscription/wa/2_III_H.8/i_r"/>
    </date>
    <!-- geprüft -->
-   <date notBefore="1800-04-13" notAfter="1800-11-08" >
+   <date notBefore="1800-04-13" notAfter="1800-11-08">
       <comment>1800; RS von III H.8</comment>
       <source uri="faust://bibliography/niejahr1894">S.86</source>
       <item uri="faust://inscription/wa/P162/i_v"/>
    </date>
    <!-- geprüft -->
-   <date notBefore="1825-03-02" notAfter="1825-03-31" >
+   <date notBefore="1825-03-02" notAfter="1825-03-31">
       <comment>März 1825; RS von III H.8</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.575</source>
       <item uri="faust://inscription/wa/P162/i_v"/>
@@ -301,14 +302,14 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,9 /  / III H9 /  -->
-   <date type="normalized" notBefore="1799-07-01" notAfter="1800-06-30" >
+   <date type="normalized" notBefore="1799-07-01" notAfter="1800-06-30">
       <comment>um 1800</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.553</source>
       <source uri="faust://bibliography/fischer-lamberg1955">S.90-91</source>
       <item uri="faust://document/wa/2_III_H.9"/>
    </date>
    <!-- geprüft -->
-   <date type="normalized" notAfter="1800-01-01" >
+   <date type="normalized" notAfter="1800-01-01">
       <comment>vor 1800</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.90-91</source>
       <source uri="faust://bibliography/bohnenkamp1994">S.553</source>
@@ -323,7 +324,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,10 /  / III H10 /  -->
-   <date type="normalized" notBefore="1799-07-01" notAfter="1800-06-30" >
+   <date type="normalized" notBefore="1799-07-01" notAfter="1800-06-30">
       <comment>Um oder vor 1800, Zuordnung P171 unischer</comment>
       <comment>Inhalt, Papier. . .</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.74</source> 
@@ -347,7 +348,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,11 /  / III H11 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-05-29" >
+   <date notBefore="1825-02-26" notAfter="1825-05-29">
       <comment>1825 (?)</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
       <item uri="faust://document/wa/2_III_H.11"/>
@@ -360,7 +361,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,1,12 /  / III H12 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>Inhalt, Duktus. . .</comment>
       <comment>Frühjahr 1825</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.92</source>
@@ -386,7 +387,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,1 /  / III H13 /  -->
-   <date notBefore="1825-03-02" notAfter="1825-03-31" >
+   <date notBefore="1825-03-02" notAfter="1825-03-31">
       <comment>März 1825</comment>
       <comment>Inhalt, Tinte. . .</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.584</source>
@@ -401,7 +402,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,2 /  / III H14 /  -->
-   <date notAfter="1825-04-20" >
+   <date notAfter="1825-04-20">
       <comment>Inhalt. . .</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.584</source>
       <item uri="faust://document/wa/2_III_H.14"/>
@@ -458,7 +459,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,5 /  / III H17 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>. . (falsche Bohnenkamp-Seitenzahl bei Gruß: "568").</comment>
       <comment>Frühjahr 1825</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.587</source>
@@ -590,14 +591,14 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,15 /  / III H27 /  -->
-   <date type="normalized" notBefore="1825-03-25" notAfter="1825-04-04" >
+   <date type="normalized" notBefore="1825-03-25" notAfter="1825-04-04">
       <comment>um  30.3.1825 (8936-8944, VS)</comment>
       <comment>Inhalt. . bildete ursprünglich mit  III H49 einen Foliobogen.</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.609</source>
       <item uri="faust://inscription/wa/2_III_H.27/i_r"/>
    </date>
    <!-- geprüft -->
-   <date notAfter="1825-04-05" >
+   <date notAfter="1825-04-05">
       <comment>vor 5.4.1825 (RS)</comment>
       <comment>Inhalt. . bildete ursprünglich mit  III H49 einen Foliobogen.</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.609</source>
@@ -605,7 +606,7 @@
    </date>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,16 /  / III H28 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>Frühjahr 1825</comment>
       <comment>Inhalt. . bildete ursprünglich mit  III H49 einen Foliobogen.</comment>
       <source uri="faust://bibliography/inventare_2_2">Sp.173</source>
@@ -615,7 +616,7 @@
    <!-- geprüft -->
   <!--  / 25/XVIII,2,17 /  / III H29 /  -->
   <!--  / 25/XVIII,2,18 /  / III H30 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-03-07" >
+   <date notBefore="1825-02-26" notAfter="1825-03-07">
       <comment>Frühling 1825</comment>
       <comment>. . auf Umschlag mit Adresse der Oberaufsicht über die unmittelbaren Anstalten für Wissenschaft und Kunst.</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.592</source>
@@ -693,7 +694,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,23 /  / III H34 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>Frühjahr 1825</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.599</source>
       <item uri="faust://document/wa/2_III_H.34"/>
@@ -717,14 +718,14 @@
   <!--  / 25/XVIII,2,26 /  / III H37 /  -->
   <!--  / 25/XVIII,2,27 /  / III H38 /  -->
   <!--  / 25/XVIII,2,28 /  / III H39 /  -->
-   <date notBefore="1824-12-05" >
+   <date notBefore="1824-12-05">
       <comment>Bezug auf Brief auf Hs. Konzept zu Brief an unbekannten Empfänger, 05.12.1824. .</comment>
       <source uri="faust://bibliography/inventare_2_2">Sp.178</source>
       <item uri="faust://document/wa/2_III_H.39"/>
    </date>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,29 /  / III H40 /  -->
-   <date notBefore="1824-12-06" >
+   <date notBefore="1824-12-06">
       <comment>Datierung auf Hs. auf Jenaer Torzettel, 14.4.1795. .</comment>
       <comment>Ueberlieferte Datierung: 5. Decbr 1824</comment>
       <source uri="faust://bibliography/inventare_2_2">Sp.178</source>
@@ -745,7 +746,7 @@
       <item uri="faust://document/wa/2_III_H.42"/>
    </date>
    <!-- geprüft -->
-   <date notBefore="1825-03-04" notAfter="1825-03-04" >
+   <date notBefore="1825-03-04" notAfter="1825-03-04">
       <comment>. . .</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.108</source>
       <item uri="faust://document/wa/2_III_H.42"/>
@@ -759,7 +760,7 @@
    </relation>
   <!-- geprüft -->
   <!--  / 25/XVIII,2,32 /  / III H43 /  -->
-   <date notBefore="1826-03-14" notAfter="1826-04-14" >
+   <date notBefore="1826-03-14" notAfter="1826-04-14">
       <comment>Inhalt. . .</comment>
       <comment>Anfang 1826</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.109</source>
@@ -784,7 +785,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,35 /  / III H46 /  -->
-   <date notAfter="1826-03-31" >
+   <date notAfter="1826-03-31">
       <comment>Inhalt. . .</comment>
       <comment>Ueberlieferte Datierung: 31. März 1826</comment>
       <source uri="faust://bibliography/inventare_2_2">Sp.180</source>
@@ -807,7 +808,7 @@
    </date>
    <!-- geprüft -->
   <!--  / 25/XVIII,2,38 /  / III H49 /  -->
-   <date notAfter="1825-05-05" >
+   <date notAfter="1825-05-05">
       <comment>Verse vor 05.04.1825</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.401-403</source>
       <item uri="faust://inscription/wa/2_III_H.49/i_uebrige"/>
@@ -846,7 +847,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,3,2 /  / III H53 /  -->
-   <date notBefore="1825-06-14" >
+   <date notBefore="1825-06-14">
       <comment>Bezug auf Tagebucheintrag. Tagebucheintrag vom 14.-16. Juni 1825. ursprünglich Teil der Druckvorlage zu C.1 Bd 4, 1827.</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.628</source>
       <item uri="faust://document/wa/2_III_H.53"/>
@@ -860,7 +861,7 @@
    <!-- geprüft -->
   <!--  / 25/XVIII,3,3 /  / III H54 /  -->
   <!--  / 25/XVIII,3,4 /  / III H55 /  -->
-   <date notBefore="1826-03-14" notAfter="1826-06-24" >
+   <date notBefore="1826-03-14" notAfter="1826-06-24">
       <comment>Inhalt, Schrift. . .</comment>
       <comment>Frühjahr 1826</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.640</source>
@@ -882,7 +883,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,3,5 /  / III H56 /  -->
-   <date notBefore="1826-04-22" >
+   <date notBefore="1826-04-22">
       <comment>Inhalt, Schrift. . .</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
       <item uri="faust://document/wa/2_III_H.56"/>
@@ -911,7 +912,7 @@
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,3,7 /  / III H58 /  -->
-   <date notBefore="1825-07-07" >
+   <date notBefore="1825-07-07">
       <comment>. . auf Teil eines Inhaltsverzeichnisses zu "Inschriften, Denk- und Sende-Blätter".</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
       <item uri="faust://document/wa/2_III_H.58"/>
@@ -936,7 +937,7 @@
       <item uri="faust://inscription/wa/2_III_H.f/i_uebrige"/>
    </date>
    <!-- geprüft -->
-   <date notAfter="1826-06-24" >
+   <date notAfter="1826-06-24">
       <comment>relative Chronologie, Zeugnis, Inhalt. Tagebucheintrag vom 10. März 1826. bildete ursprünglich mit H_P176Var (25/XIX,2,17) und 25/XVIII,4,11
       ein Folioblatt.</comment>
       <comment>vor Frühjahr 1826</comment>
@@ -961,14 +962,14 @@ ein Folioblatt.</comment>
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,3,11 /  / III H60 /  -->
-   <date notBefore="1826-06-13" notAfter="1826-06-13" >
+   <date notBefore="1826-06-13" notAfter="1826-06-13">
       <comment>Zeugnis. Tagebucheintrag vom 13.6.1826. .</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.122-123</source>
       <source uri="faust://bibliography/bohnenkamp1994">S.652</source>
       <item uri="faust://inscription/fischer-lamberg/P170a/i_1_o"/>
    </date>
    <!-- geprüft -->
-   <date notAfter="1826-06-13" >
+   <date notAfter="1826-06-13">
       <comment>vor dem 13.06.1826</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.122-123</source>
       <source uri="faust://bibliography/bohnenkamp1994">S.652</source>
@@ -1028,7 +1029,7 @@ ein Folioblatt.</comment>
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,3,15 /  / III H64 /  -->
-   <date notBefore="1826-03-14" notAfter="1826-06-24" >
+   <date notBefore="1826-03-14" notAfter="1826-06-24">
       <comment>Zeugnis. Tagebucheintrag vom 13.6.1826. .</comment>
       <comment>Frühjahr 1826</comment>
       <source uri="faust://bibliography/inventare_2_2">Sp.189</source>
@@ -1065,7 +1066,7 @@ ein Folioblatt.</comment>
    </relation>
    <!-- geprüft -->
   <!--  / 25/XVIII,3,22 /  / III H70 /  -->
-   <date notBefore="1826-03-14" notAfter="1826-06-24" >
+   <date notBefore="1826-03-14" notAfter="1826-06-24">
       <comment>Zeugnis. Tagebucheintrag vom 13.6.1826. .</comment>
       <comment>Frühjahr 1826</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
@@ -1190,7 +1191,7 @@ ein Folioblatt.</comment>
    <!-- geprüft -->
   <!--  / 25/XVIII,4,5 / London, The British Library, Autogr. Add. 20723 f. 36 / III Hc /  -->
   <!--  / 25/XVIII,4,6 / Cologny, Bibliotheca Bodmeriana / III Hn /  -->
-   <date notBefore="1823-12-23" notAfter="1826-06-24" >
+   <date notBefore="1823-12-23" notAfter="1826-06-24">
       <comment>Nach 23.12.1823, Frühjahr 1826</comment>
       <comment>Bezug auf Brief auf Hs. Konzept zu Brief an Carl August von Sachsen-Weimar-Eisenach, 23.12.1823. Aufschrift Eckermann "Zahme Xenien II”; III Hq und III Hn ursprünglich ein Folioblatt.</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.637-638</source>
@@ -1198,7 +1199,7 @@ ein Folioblatt.</comment>
    </date>
    <!-- geprüft -->
   <!--  /  / Düsseldorf, Goethe-Museum / III Hq /  -->
-   <date notBefore="1823-12-23" notAfter="1826-06-24" >
+   <date notBefore="1823-12-23" notAfter="1826-06-24">
       <comment>Nach 23.12.1823, Frühjahr 1826</comment>
       <comment>Bezug auf Briefkonzept auf Hs. Konzept zu Brief an Carl August von Sachsen-Weimar-Eisenach, 23.12.1823. Aufschrift Eckermann "Zahme Xenien II"; II Hq und III Hn ursprünglich ein Folioblatt.</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.637-638</source>
@@ -1209,12 +1210,12 @@ ein Folioblatt.</comment>
   <!--  / 25/XVIII,4,6b / New York, The Pierpont Morgan Library, MA 877 / (oS) /  -->
   <!--  / 25/XVIII,4,7 /  / III He / UB Leipzig, Sammlung Hirzel, B 492 -->
    <date notBefore="1825-04-08" notAfter="1826-06-24">
-      <source uri= "faust://bibliography/fischer-lamberg1955">S.143</source>
+      <source uri="faust://bibliography/fischer-lamberg1955">S.143</source>
       <item uri="faust://document/wa/2_III_H.e"/>
    </date>
    <!-- geprüft -->
   <!--  / 25/XVIII,4,7a / Marbach, Cotta-Archiv, Goethe, Briefe 233 /  /  -->
-   <date notAfter="1827-03-28" >
+   <date notAfter="1827-03-28">
       <comment>Bezug auf Brief. in Beilage zu Brief an Wilhelm Reichel, 18.3.1827. .</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>
       <item uri="faust://document/gsa_1/GSA_25-XVIII-4-7a"/>
@@ -1243,7 +1244,7 @@ ein Folioblatt.</comment>
    </date>
    <!-- geprüft -->
   <!--  / 25/XIX,2,6:2 /  / H_P148 /  -->
-   <date type="normalized" notBefore="1826-04-01" notAfter="1826-04-30" >
+   <date type="normalized" notBefore="1826-04-01" notAfter="1826-04-30">
       <comment>Bezug auf Gästeliste auf Hs. . . Ueberlieferte Datierung: 17.10.</comment>
       <comment>vmtl. April 1826</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.648</source>
@@ -1319,7 +1320,7 @@ ein Folioblatt.</comment>
    </relation>
    <!-- geprüft -->
    <!-- 25/XVIII,1,6:2*c /  / P164 / -->
-   <date notAfter="1825-03-29" >
+   <date notAfter="1825-03-29">
       <comment>Frühjahr 1825</comment>
       <comment>am 29. März oder wenige Tage vorher</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.601</source>
@@ -1327,7 +1328,7 @@ ein Folioblatt.</comment>
    </date>
    <!-- geprüft -->
   <!--  / 25/XIX,2,12 /  / H_P164a /  -->
-   <date notBefore="1825-03-30" notAfter="1825-04-03" >
+   <date notBefore="1825-03-30" notAfter="1825-04-03">
       <comment>Bezug auf Tagebuch auf Entwurf zu Tag- und Jahresheften 1808. .</comment>
       <source uri="faust://bibliography/morris1900">S.716</source>
       <source uri="faust://bibliography/schillemeit1987">S.243-244</source>
@@ -1344,7 +1345,7 @@ ein Folioblatt.</comment>
    </relation>
    <!-- geprüft -->
   <!--  / 25/XIX,2,14 /  / H_P166a /  -->
-   <date notBefore="1825-04-05" notAfter="1825-04-05" >
+   <date notBefore="1825-04-05" notAfter="1825-04-05">
       <comment>Bezug auf Tagebuch. . .</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.108-109</source>
       <source uri="faust://bibliography/bohnenkamp1994">S.620-621</source>
@@ -1352,7 +1353,7 @@ ein Folioblatt.</comment>
    </date>
    <!-- geprüft -->
   <!--  / 25/XIX,2,15 /  / H_P167 /  -->
-   <date notBefore="1825-02-26" notAfter="1825-04-05" >
+   <date notBefore="1825-02-26" notAfter="1825-04-05">
       <comment>Bezug zu P166a. . bildete ursprügnlich zusammen mit H_P84 einen Bogen.</comment>
       <comment>Frühjahr 1825</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.546</source>
@@ -1360,7 +1361,7 @@ ein Folioblatt.</comment>
       <item uri="faust://inscription/wa/P167/i_v"/>
    </date>
    <!-- geprüft -->
-   <date notBefore="1826-03-14" notAfter="1826-06-24" >
+   <date notBefore="1826-03-14" notAfter="1826-06-24">
       <comment>Bezug zu P166a</comment>
       <comment>Frühjahr 1826</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.149</source>
@@ -1400,7 +1401,7 @@ ein Folioblatt.</comment>
    </relation>
    <!-- geprüft -->
   <!--  / 25/XIX,2,16 /  / H_P168 /  -->
-   <date notBefore="1826-04-04" notAfter="1826-04-27" >
+   <date notBefore="1826-04-04" notAfter="1826-04-27">
       <comment>Inhalt. . .</comment>
       <comment>April 1826</comment>
       <source uri="faust://bibliography/bohnenkamp1994">S.634</source>
@@ -1438,7 +1439,7 @@ ein Folioblatt.</comment>
    </relation>
    <!-- geprüft -->
   <!--  / 25/XIX,2,17:1 /  / H_P176Var /  -->
-   <date notAfter="1826-06-24" >
+   <date notAfter="1826-06-24">
       <comment>Inhalt, Bezug auf III Hf. . .</comment>
       <comment>(bis) Frühjahr 1826</comment>
       <source uri="faust://bibliography/gsa-datenbank"/>

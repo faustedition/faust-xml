@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<macrogenesis xmlns="http://www.faustedition.net/ns"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/macrogenesis.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="macrogenesis.rnc" type="application/relax-ng-compact-syntax"?><macrogenesis xmlns="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <relation name="temp-pre">
       <source uri="faust://bibliography/bohnenkamp1994">S.471</source>
       <comment>Inhalt. . .</comment>
@@ -200,7 +198,7 @@
    <date notAfter="1830-01-29">
       <comment>. . .</comment>
       <source uri="faust://bibliography/fischer-lamberg1955">S.37</source>
-      <source uri= "faust://bibliography/bohnenkamp1994">S.489</source>
+      <source uri="faust://bibliography/bohnenkamp1994">S.489</source>
       <item uri="faust://document/wa/2_II_H.20"/>
    </date>
    <!-- geprüft -->
@@ -243,10 +241,10 @@
       <item uri="faust://document/wa/2_II_H.22"/>
    </date>
    <!-- geprüft -->
-   <date  type="normalized" notBefore="1830-01-26" notAfter="1830-02-05">
+   <date type="normalized" notBefore="1830-01-26" notAfter="1830-02-05">
    <comment>. . .</comment>
    <comment>Ende Januar/Anfang Februar 1830</comment>
-   <source uri= "faust://bibliography/fischer-lamberg1955">S.38</source>
+   <source uri="faust://bibliography/fischer-lamberg1955">S.38</source>
    <item uri="faust://document/wa/2_II_H.22"/>
    </date>
    <!-- geprüft -->
@@ -259,7 +257,7 @@
    </relation>
    <!-- geprüft -->
    <!--  / 25/XVII,7,25 /  / II H23 /  -->
-   <date  type="normalized" notBefore="1830-01-24" notAfter="1830-02-01">
+   <date type="normalized" notBefore="1830-01-24" notAfter="1830-02-01">
       <comment>. . .</comment>
       <comment>Vor 29.01.1830</comment>
       <comment>Bei bohnenkamp1994 als II H.24 bezeichnet</comment>

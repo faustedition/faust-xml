@@ -1,0 +1,74 @@
+datatypes xs = "http://www.w3.org/2001/XMLSchema-datatypes"
+default namespace = "http://www.faustedition.net/ns"
+
+## Dieses Schema wurde manuell aus macrogenesis.xsd übersetzt und leicht angepasst,
+## um Weiterentwicklungen in den Daten widerzuspiegeln
+
+start = macrogenesis
+faustURI = xs:anyURI { pattern = 'faust://.+' }
+
+macrogenesis =  ## The root element. Can contain any amount of genetic information
+                element macrogenesis {
+                  (relation|date)*
+                }
+               
+relation = ## Establishes a relation on two or more items
+  element relation {
+      attribute name {
+        ## Temporal precedence
+        "temp-pre" |
+        ## Synchronicity
+        "temp-syn"
+      },
+      ignoreable,      
+      (source+ &
+      comment*),
+      item,
+      item+
+  }
+  
+ignoreable = 
+    ## if present and 'yes', this relation should not be considered
+    ## when calculating datings
+    attribute ignore { "yes" }?
+
+date = ## Assigns a date or date range to an item
+  element date {
+    (## Specifies the exact date
+    attribute when { xs:date } |
+    ## The earliest possible date
+    attribute notBefore { xs:date} |
+    ## The latest possible date
+    attribute notAfter { xs:date } |
+    ## The starting point of the period
+    attribute from { xs:date } |
+    ## The ending point of the period
+    attribute to { xs:date})+,
+    
+    attribute type { 
+      ## the period is the normalized form that represents a fuzzy interval like 'Spring 1798'
+      "normalized" }?,
+    ignoreable,    
+    (source+ &
+    comment*),
+    item+
+  }
+  
+ item = ## An item that can be dated or related to another item. Items can be
+        ## manuscripts, but also events or anything else with genetic
+        ## significance.
+        element item { attribute uri { faustURI } }
+        
+ comment = ## Any information that cannot be expressed in the formalisation.
+        element comment { xs:normalizedString }
+        
+ source = ## The source of the information. The URI identifying the source must be
+          ## given. More bibliogrpahical detail (volume, page, ...) can be given inside the
+          ## element.
+          element source {
+            ## The URI identifying the source
+            attribute uri { faustURI },
+            ## additional information (page, ...)
+            text?
+          }
+            

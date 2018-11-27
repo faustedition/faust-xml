@@ -26,12 +26,13 @@
             
                 <change when="2018-07-12" who="krause">angelegt</change>
             <change when="2018-10-04" who="krause">überarbeitet, markiert</change>
+            <change when="2018-11-22" who="Krause">div-tag ergänzt</change>
             
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <pb n="29"/>
+            <div><pb n="29"/>
             <p><milestone unit="testimony" spanTo="#graef_1367_end" xml:id="graef_1367"/><hi rend="italic">England</hi></p>
             <p>Werther bald übersetzt, aber aus dem Französischen.</p>
             <p>Späterhin Iphigenie</p>
@@ -50,7 +51,7 @@
             <p>Im .... finden sich <rs>Spuren von Faust</rs>.</p>
             <p>Verhältniß durch Sterling vermittelt.</p>
             <p>Die kleine Sammlung deshalb zu redigiren und abschriftlich mitzutheilen.</p>
-            <p rend="left">Weimar den <date when="1826-05-08">8ten May 1826</date>.<anchor xml:id="graef_1367_end"/></p>
+            <p rend="left">Weimar den <date when="1826-05-08">8ten May 1826</date>.<anchor xml:id="graef_1367_end"/></p></div>
         </body>
     </text>
 </TEI>
