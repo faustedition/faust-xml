@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,8 +30,7 @@
                <milestone unit="testimony" spanTo="#graef_1655a_end" xml:id="graef_1655a"/>Ew.
                Wohlgeboren</p>
             <p rend="indentchar-m4n0">erhalten hiebey die <rs>übrigen vier Bändchen der dritten
-                  Lieferung</rs>, um sie nach Gelegenheit gefällig zu berücksichtigen;<anchor
-                  xml:id="graef_1655a_end"/> wir kommen nun schon nach und nach über die Hälfte
+                  Lieferung</rs>, um sie nach Gelegenheit gefällig zu berücksichtigen;<anchor xml:id="graef_1655a_end"/> wir kommen nun schon nach und nach über die Hälfte
                hinaus, und mir wenigstens wird die Ahnung eines freyeren Lebens.</p>
             <p rend="indentchar-m4n0"> Nun aber möcht ich Ihnen recht lebhaft und gründlich
                ausdrücken, wie ich an dem Gewinn theilnehme, den Sie so glücklich nach Hause
@@ -83,8 +78,7 @@
                ob man einen gleichen erlangen könnte, und was man allenfalls dafür entrichten müßte?
                Das vorzustellende Bild würde man von hier aus dem Künstler hinsenden.</p>
             <p rend="indentchar-m4n0"> Verzeihen Sie dieser Zumuthung; sie gründet sich auf Ihr
-               wiederholtes freundliches Anerbieten. Nähere Nachricht erwartend;<anchor
-                  xml:id="graef_1667_end"/> das Beste wünschend und mich angelegentlichst
+               wiederholtes freundliches Anerbieten. Nähere Nachricht erwartend;<anchor xml:id="graef_1667_end"/> das Beste wünschend und mich angelegentlichst
                empfehlend.</p>
             <p rend="right">ergebenst</p>
             <p rend="indentchar-m4n0">Weimar den 12. December 1828.</p>
@@ -207,8 +201,7 @@
                haben.</p>
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" spanTo="#graef_1677_end" xml:id="graef_1677"/>Wünsche
-               davon einige Unterhaltung, so wie von dem <rs>Beygelegten</rs>,<anchor
-                  xml:id="graef_1677_end"/> bis ich mich aus dem augenblicklichen drangvollen
+               davon einige Unterhaltung, so wie von dem <rs>Beygelegten</rs>,<anchor xml:id="graef_1677_end"/> bis ich mich aus dem augenblicklichen drangvollen
                Zustand erhole und freundliche Zuschriften mit einigermaßen gehaltvollen Worten
                erwidern kann.</p>
             <p rend="right">treu eiligst</p>
@@ -226,8 +219,7 @@
                alle Scenen des Originals, der Gang im Garten, der feurige Wein, aber in einer
                Bauernschenke, der Kerker, die Hexen-Scene, selbst der Blocksberg. Gretchens Kommen,
                Mephistopheles' Lache sind treu nach den Retzschischen Zeichnungen. Dieser hat die
-               Lache beybehalten, aber es ist wilde Hohnlache, im übrigen ein katholischer <pb
-                  n="110"/> Teufel. Faustens Vertrag wird rechtskräftig bey'm ersten Verbrechen.
+               Lache beybehalten, aber es ist wilde Hohnlache, im übrigen ein katholischer <pb n="110"/> Teufel. Faustens Vertrag wird rechtskräftig bey'm ersten Verbrechen.
                Gretchen ist keine Kindermörderin, aber sie vergiftet die Mutter durch einen
                Schlaftrunk, den ihr Faust zum sichern Rendez-vous reicht, und wo der Teufel die Dose
                verstärkt. Dafür wird sie gefoltert, und von der Folter zurückgebracht, sieht man sie
@@ -328,8 +320,7 @@
                <date when="1829-02-09"/>
             </head>
             <p rend="indentchar-m4n0">Sehr ungern ersuche Ew. Wohlgeboren die Revision der noch
-               übrigen Bändchen der vorigen Lieferung gefälligst zu fördern; <milestone
-                  unit="testimony" spanTo="#graef_1695a_end" xml:id="graef_1695a"/>der zwölfte Band
+               übrigen Bändchen der vorigen Lieferung gefälligst zu fördern; <milestone unit="testimony" spanTo="#graef_1695a_end" xml:id="graef_1695a"/>der zwölfte Band
                der Octavausgabe ist schon abgedruckt, und die Setzer lechzen nach den folgenden.
                Könnt ich nur den <rs>13. Band</rs> indessen haben, so wäre jenes Bedürfniß
                einigermaßen gestillt.<anchor xml:id="graef_1695a_end"/> Sehen wir künftig die
@@ -390,10 +381,8 @@
                <milestone unit="testimony" spanTo="#graef_1699_end" xml:id="graef_1699"/>Das Studium
                der Witterungslehre geht, wie so manches Andere, nur auf Verzweiflung hinaus. Die
                   <rs>ersten Zeilen des Faust</rs> lassen sich auch hier vollkommen anwenden. Doch
-               muß ich zur Steuer der Wahrheit hinzufügen: daß derjenige, der nicht mehr <pb n="189"
-               /> verlangt, als dem Menschen gegönnt ist, auch hier für angewandte Mühe gar schön
-               belohnt werde. Sich zu bescheiden ist aber nicht jedermanns Sache.<anchor
-                  xml:id="graef_1699_end"/> Hier wie überall verdrießt es die Leute, daß sie
+               muß ich zur Steuer der Wahrheit hinzufügen: daß derjenige, der nicht mehr <pb n="189"/> verlangt, als dem Menschen gegönnt ist, auch hier für angewandte Mühe gar schön
+               belohnt werde. Sich zu bescheiden ist aber nicht jedermanns Sache.<anchor xml:id="graef_1699_end"/> Hier wie überall verdrießt es die Leute, daß sie
                dasjenige nicht erlangen, was sie wünschen und hoffen, und da glauben sie gar nichts
                empfangen zu haben. Man müßte z.B. vor allen Dingen auf das Vorauswissen und
                Prophezeyen Verzicht thun, und wem ist das zuzumuthen.</p>
@@ -444,20 +433,16 @@
                Übrige nun mit Beruhigung verbrennen kann.</p>
             <p rend="indentchar-m4n0">
                <pb n="220"/>
-               <milestone unit="testimony" spanTo="#graef_1703_end" xml:id="graef_1703"
-                  next="#graef_1703_b"/>Unser Theater hat seinen ganz guten Fortgang.<anchor
-                  xml:id="graef_1703_end"/> Schauspieler und Publicum leiden freylich an manchen
+               <milestone unit="testimony" spanTo="#graef_1703_end" xml:id="graef_1703" next="#graef_1703_b"/>Unser Theater hat seinen ganz guten Fortgang.<anchor xml:id="graef_1703_end"/> Schauspieler und Publicum leiden freylich an manchen
                neuen Stücken, dagegen spielen sich andere leicht und fröhlich weg zu Erheiterung des
                Hauses. Man martert sich nun mit einem neuen Quälodram, kommt durchgeprügelt nach
                Hause und holt sich doch noch einmal den Buckel voll. Genast und Frau, sonst am
                Leipziger, jetzt am Magdeburger Theater, sind engagirt, das verspricht neues Leben
                und Bewegung, und eure gute Wolff, hör ich, wird auch zu einigen Gastrollen hierher
                kommen; das gibt also für die nächsten Wochen lauter freundliche Gesichter.
-                  <milestone unit="testimony" spanTo="#graef_1703_end_b" xml:id="graef_1703_b"
-               />Meinen <rs>Faust</rs> wollen sie auch geben, dabey verhalt ich mich passiv, um
+                  <milestone unit="testimony" spanTo="#graef_1703_end_b" xml:id="graef_1703_b"/>Meinen <rs>Faust</rs> wollen sie auch geben, dabey verhalt ich mich passiv, um
                nicht zu sagen leidend. Doch überhaupt darf mir für dieses Stück nicht bange seyn, da
-               es Herzog Bernhard, in Obercarolina, bey einem Indianer gefunden hat.<anchor
-                  xml:id="graef_1703_end_b"/>
+               es Herzog Bernhard, in Obercarolina, bey einem Indianer gefunden hat.<anchor xml:id="graef_1703_end_b"/>
             </p>
             <p rend="indentchar-m4n0"> So weit für dießmal! Alle guten Wünsche begleiten
                gegenwärtiges Blatt.</p>
@@ -556,8 +541,7 @@
                   <rs>Faust</rs> hab ich noch ein Exemplar, deswegen dir dieses erb- und
                eigenthümlich gewidmet sey. Dagegen wirst du aber die Freundlichkeit haben, mir ein
                Zelterisches Wort über dieses Werk zu sagen und mich über die im Anschauen so
-               wunderlichen Noten-Figuren nach deiner Weise zu beruhigen.<anchor
-                  xml:id="graef_1707_end"/>
+               wunderlichen Noten-Figuren nach deiner Weise zu beruhigen.<anchor xml:id="graef_1707_end"/>
             </p>
             <p rend="indentchar-m4n0">
                <pb n="289"/> Soviel für dießmal. Nächstens kommt in einer Rolle ein Bild, das dich

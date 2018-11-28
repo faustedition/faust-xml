@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -86,8 +86,7 @@
                manchmal eine Copie mittheilte, stückweise ins Publikum zu bringen.</p>
             <p>
                <pb n="235"/>
-               <milestone unit="testimony" spanTo="#graef_863_end" xml:id="graef_863"
-                  next="#graef_863_b"/>Da ich nicht viel geben kann, habe ich immer gewünscht das
+               <milestone unit="testimony" spanTo="#graef_863_end" xml:id="graef_863" next="#graef_863_b"/>Da ich nicht viel geben kann, habe ich immer gewünscht das
                Wenige gut zu geben, meine schon bekannten Werke des Beyfalls, den sie erhalten,
                würdiger zu machen, an diejenigen, welche geendigt im Manuscripte daliegen, bey
                mehrerer Freyheit und Muse den letzten Fleiß zu wenden, und in glücklicher Stimmung
@@ -118,16 +117,13 @@
             <p>Egmont, unvollendet. Elpenor, zwey Akte.</p>
 
             <p>Siebenter Band.</p>
-            <p>Tasso, zwey Akte. <milestone unit="testimony" spanTo="#graef_863_end_b"
-                  xml:id="graef_863_b" next="#graef_863_c"/><rs>Faust, ein Fragment</rs>.<anchor
-                  xml:id="graef_863_end_b"/> Moralisch politisches Puppenspiel.</p>
+            <p>Tasso, zwey Akte. <milestone unit="testimony" spanTo="#graef_863_end_b" xml:id="graef_863_b" next="#graef_863_c"/><rs>Faust, ein Fragment</rs>.<anchor xml:id="graef_863_end_b"/> Moralisch politisches Puppenspiel.</p>
 
             <p>Achter Band.</p>
             <p>Vermischte Schriften und Gedichte.</p>
             <p/>
             <p> Von den vier ersten Bänden kann ich mit Gewißheit sagen, daß sie die angezeigten
-               Stücke enthalten werden; <milestone unit="testimony" spanTo="#graef_863_end_c"
-                  xml:id="graef_863_c"/>wie sehr wünsche ich mir aber noch so viel Raum und Ruhe um
+               Stücke enthalten werden; <milestone unit="testimony" spanTo="#graef_863_end_c" xml:id="graef_863_c"/>wie sehr wünsche ich mir aber noch so viel Raum und Ruhe um
                die angefangen Arbeiten, die dem sechsten und siebenten Bande zugetheilt sind, wo
                nicht sämmtlich doch zum Theil vollendet zu liefern; in welchem Falle die vier
                letzten Bände eine andere Gestalt gewinnen würden.<anchor xml:id="graef_863_end_c"/>

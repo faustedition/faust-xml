@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -37,14 +37,12 @@
                Gefahr herüber gebracht werden, doch wünsche daß es durch die Boten geschehe.</p>
             <p rend="indentchar-m4n0"> 2) Wenn Sie <rs>die dritte Lieferung meiner Werke</rs> auspacken und
                zu den übrigen bringen, wird es löblich <pb n="75"/> seyn. Senden Sie mir ein
-               Exemplar auf Schreibpapier damit mein hiesiges Exemplar voll werde.<anchor
-                  xml:id="graef_1189_end"/></p>
+               Exemplar auf Schreibpapier damit mein hiesiges Exemplar voll werde.<anchor xml:id="graef_1189_end"/></p>
             <p rend="indentchar-m4n0"> 3) Das Lustspiel der <hi rend="italic">Rothmantel</hi>
                schicken Sie mir baldigst herüber, ich kann es mit geringer Mühe in den Zustand
                versetzen, wie ich es erhalten habe.</p>
             <p rend="indentchar-m4n0"> 4) In der mittlern Schublade der rechten Seite meines großen
-               Schreibtisches liegt ein Packet in Quarto, worauf geschrieben steht <hi rend="italic"
-                  >Wilhelm Meisters Wanderjahre</hi> welches herüber wünsche.</p>
+               Schreibtisches liegt ein Packet in Quarto, worauf geschrieben steht <hi rend="italic">Wilhelm Meisters Wanderjahre</hi> welches herüber wünsche.</p>
             <p rend="indentchar-m4n0"> 5) Ferner <hi rend="italic">Leonide de Monbreuil</hi>, Roman,
                wenn er auf Großherzogl. Bibliothek ist.</p>
             <p rend="indentchar-m4n0"> 6) Zwey Exemplare meiner Italiänischen Reise.</p>
@@ -66,8 +64,7 @@
                <lb/>An <persName>Friedrich Theodor Kräuter</persName>
                <date when="1817-05-06"/>
             </head>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1190"
-                  spanTo="#graef_1190_end"/>Für alle gute und prompte Expedition danksagend wünsche
+            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1190" spanTo="#graef_1190_end"/>Für alle gute und prompte Expedition danksagend wünsche
                Folgendes zu erhalten.</p>
             <p rend="indentchar-m4n0"> 1) Bredows Tabellen.</p>
             <p rend="indentchar-m4n0"> 2) <rs>Die Kupfer zu Faust</rs>.<anchor xml:id="graef_1190_end"/></p>
@@ -90,17 +87,12 @@
             <p rend="indentchar-m8n8">Ew. Wohlgeboren</p>
             <p rend="indentchar-m4n0">verpflichten mich abermals durch ein so freyes und
                wohldurchdachtes Schreiben, das so viele reine Erfahrung und gemüthliche Thätigkeit
-                  voraussetzt.<milestone unit="testimony" xml:id="graef_1191"
-                  spanTo="#graef_1191_end"/> Wie sehr freut mich, daß <rs>die Hoffnung der
+                  voraussetzt.<milestone unit="testimony" xml:id="graef_1191" spanTo="#graef_1191_end"/> Wie sehr freut mich, daß <rs>die Hoffnung der
                   Weimarischen<pb n="148"/> Kunstfreunde auf lebendige Mitwirkung</rs> gleichdenkender
                Männer so schön erfüllt wird. Von dem Mitgetheilten werde mit Vorsicht späterhin
                Gebrauch machen, denn es möchte gut seyn vor der Hand zuzusehen wie jene Aeußerung im
-               Publikum wirkt und wo man am schicklichsten nachhilft.<anchor xml:id="graef_1191_end"
-               /></p>
-            <p rend="indentchar-m4n0"> Nun eine kleine Bitte: In dem Catalog von <hi rend="italic"
-                  >Dauthe</hi> S. 92 No. 81 (das Blättchen lege bey,) stehn die <hi rend="italic"
-                  >Cartons aus Hampton-Court</hi>. Da nun die Worte hinzugefügt sind: <hi
-                  rend="italic">vortreffliches Werk</hi>, so vermuthe ich daß es gute Abdrücke sind
+               Publikum wirkt und wo man am schicklichsten nachhilft.<anchor xml:id="graef_1191_end"/></p>
+            <p rend="indentchar-m4n0"> Nun eine kleine Bitte: In dem Catalog von <hi rend="italic">Dauthe</hi> S. 92 No. 81 (das Blättchen lege bey,) stehn die <hi rend="italic">Cartons aus Hampton-Court</hi>. Da nun die Worte hinzugefügt sind: <hi rend="italic">vortreffliches Werk</hi>, so vermuthe ich daß es gute Abdrücke sind
                und alsdann möcht' ich sie gerne besitzen. Gäben Sie wohl jemand den Auftrag welcher
                die Abdrücke beurtheilen könnte und sie für mich acquirirte, so geschäh mir ein
                besonderer Gefalle. Zehn bis zwölf Thaler wohl auch mehr wollte ich dafür geben. Die

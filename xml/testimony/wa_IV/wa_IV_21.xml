@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -49,11 +48,9 @@
                     den Lebensumständen dieses Mannes einige Nachricht verschaffen, so würden Sie
                     mich sehr verbinden.</p>
                 <p rend="indentchar-m4n0">
-                    <milestone unit="testimony" xml:id="graef_1099" spanTo="#graef_1099_end"
-                    />Theilte wohl Ihr Freund etwas von seinen <rs>Zeichnungen nach Faust</rs> auf kurze Zeit
+                    <milestone unit="testimony" xml:id="graef_1099" spanTo="#graef_1099_end"/>Theilte wohl Ihr Freund etwas von seinen <rs>Zeichnungen nach Faust</rs> auf kurze Zeit
                     mit; so würde es mir und manchem unsrer kleinen Gesellschaft zu großem Vergnügen
-                    gereichen. Sie sollten bald wieder zurückerfolgen.<anchor
-                        xml:id="graef_1099_end"/></p>
+                    gereichen. Sie sollten bald wieder zurückerfolgen.<anchor xml:id="graef_1099_end"/></p>
                 <p rend="indentchar-m4n0"> Mich bestens empfehlend</p>
                 <p rend="indentchar-m4n0"> Weimar den 20. November 1809.</p>
                 <p rend="right">Goethe.</p>
@@ -67,8 +64,7 @@
                     <date when="1810-02-18"/>
                 </head>
                 <p>[Concept.]</p>
-                <p rend="indentchar-m8n8"><milestone unit="testimony" xml:id="graef_1102"
-                        spanTo="#graef_1102_end"/>Ew. Wohlgebornen</p>
+                <p rend="indentchar-m8n8"><milestone unit="testimony" xml:id="graef_1102" spanTo="#graef_1102_end"/>Ew. Wohlgebornen</p>
                 <p rend="indentchar-m4n0">sende mit dem lebhaftesten Danke <rs>die mir anvertrauten
                     Zeichnungen zurück</rs>. Sie haben mir und mehreren Freunden sehr viel Vergnügen und
                     Unterhaltung gewährt. Dem Dichter kann nichts angenehmeres begegnen, als wenn er
@@ -107,10 +103,8 @@
                     Neues und Gutes von Ihnen mit, auf dessen Vortrag ich mich freue, über alles
                     aber auf unser Wiedersehen, welches für beyde nicht unfruchtbar bleiben kann.
                     Den Meister des Harmonichords will ich auf seine Einladung besuchen, und ihm
-                    andre Musikfreunde zuführen. <milestone unit="testimony" xml:id="graef_1104"
-                        spanTo="#graef_1104_end"/><rs>Die Zeichnungen von Herrn Nauwerk haben mir sehr
-                    viel Vergnügen gemacht</rs>; ich behalte sie einstweilen bey mir.<anchor
-                        xml:id="graef_1104_end"/> Mehr sage ich heute nicht. Wenden Sie bald wieder
+                    andre Musikfreunde zuführen. <milestone unit="testimony" xml:id="graef_1104" spanTo="#graef_1104_end"/><rs>Die Zeichnungen von Herrn Nauwerk haben mir sehr
+                    viel Vergnügen gemacht</rs>; ich behalte sie einstweilen bey mir.<anchor xml:id="graef_1104_end"/> Mehr sage ich heute nicht. Wenden Sie bald wieder
                     ein Blatt an mich; besonders schreiben Sie mir gleich, wenn der Herzog von
                     Weimar ankommt, den Sie zu besuchen nicht versäumen werden. Leben Sie schönstens
                     wohl!</p>
@@ -126,8 +120,7 @@
                 </head>
                 <p>[Concept.]</p>
                 <p rend="right">[16. November.]</p>
-                <p rend="indentchar-m8n8"><milestone unit="testimony" xml:id="graef_1110"
-                        spanTo="#graef_1110_end"/>Ew. Wohlgeboren</p>
+                <p rend="indentchar-m8n8"><milestone unit="testimony" xml:id="graef_1110" spanTo="#graef_1110_end"/>Ew. Wohlgeboren</p>
                 <p rend="indentchar-m4n0">haben mir diesen Sommer eine sehr angenehme Überraschung
                     gegönnt, indem Sie mir <rs>die wohlgerathenen Zeichnungen</rs> nach Carlsbad übersandten.
                     Ich konnte mich nicht von ihnen trennen, weil ich sie nothwendig meinen und
@@ -141,8 +134,7 @@
                     diese Zeichnungen aufmerksam gemacht worden, und übertrüge wohl eine und die
                     andere auf die Platte; allein es ist dabey bedenklich, daß gerade das
                     Verdienstlichste Ihrer Zeichnung so außerordentlich zart ist, daß es kaum noch
-                    einmal und besonders mit einer andern Technik hergestellt werden könnte.<anchor
-                        xml:id="graef_1110_end"/></p>
+                    einmal und besonders mit einer andern Technik hergestellt werden könnte.<anchor xml:id="graef_1110_end"/></p>
                 <p rend="indentchar-m4n0"> Wie sehr hätte ich gewünscht, Sie noch in Dresden
                     anzutreffen und Ihnen auch für die anmuthige und geistreiche Parodie der
                     Transfiguration zu danken, die ich Herrn Geheimerath Wolff gern abgetauscht
@@ -200,13 +192,10 @@
                     leider diese Sendungen ein wenig unordentlich angestellt. Schreiben Sie mir, so
                     schicke ich den dreyzehnten Theil, welcher die Wahlverwandtschaften enthält.</p>
                 <p rend="indentchar-m4n0">
-                    <milestone unit="testimony" xml:id="graef_1112" spanTo="#graef_1112_end"
-                    />Schließlich melde, daß <rs>uns ein seltsames Unternehmen bevorsteht, nämlich den
+                    <milestone unit="testimony" xml:id="graef_1112" spanTo="#graef_1112_end"/>Schließlich melde, daß <rs>uns ein seltsames Unternehmen bevorsteht, nämlich den
                         <hi rend="italic">Faust</hi> aufzuführen, wie er ist</rs>, insofern es nur
                     einigermaßen möglich werden will. Möchten Sie uns wohl mit einiger Musik
-                    beystehen; besonders bey dem Ostergesang und dem Einschläferungslied: <hi
-                        rend="italic">Schwindet ihr dunklen Wölbungen droben.<anchor
-                            xml:id="graef_1112_end"/></hi>
+                    beystehen; besonders bey dem Ostergesang und dem Einschläferungslied: <hi rend="italic">Schwindet ihr dunklen Wölbungen droben.<anchor xml:id="graef_1112_end"/></hi>
                 </p>
                 <p rend="indentchar-m4n0"> Und nun ganz zum Ende, die Meldung, daß Brizzi von
                     München angekommen ist, und daß wir den Achill von Paer italiänisch geben, und
@@ -223,10 +212,8 @@
                 <p rend="indentchar-m4n0">Jeden Morgen wollt ich, verehrte Freundinn, zu Ihnen
                     kommen, einiges vorzeigen, einiges besprechen. Aber diese Tage waren mir voll
                     Unruhe. Jetzt bin ich veranlasst nach Jena zu gehen, Montag bin ich wieder hier.
-                        <milestone unit="testimony" xml:id="graef_1113" spanTo="#graef_1113_end"
-                    />Indessen <rs>sende ich mehrere Umrisse zu <hi rend="italic">Götz</hi> einen zu
-                    Faust</rs> an denen ich Freude und meiner zu gedencken bitte.<anchor
-                        xml:id="graef_1113_end"/></p>
+                        <milestone unit="testimony" xml:id="graef_1113" spanTo="#graef_1113_end"/>Indessen <rs>sende ich mehrere Umrisse zu <hi rend="italic">Götz</hi> einen zu
+                    Faust</rs> an denen ich Freude und meiner zu gedencken bitte.<anchor xml:id="graef_1113_end"/></p>
                 <p rend="indentchar-m4n0"> W. d. 23. Nov. 1810.</p>
                 <p rend="right">G.</p>
                 <lb/>

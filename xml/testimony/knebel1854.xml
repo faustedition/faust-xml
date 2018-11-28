@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!--and now:--><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!--and now:--><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,8 +32,7 @@
     <text>
         <body>
             <pb n="324"/>
-            <p><milestone unit="testimony" spanTo="#lfd-nr-neuneu_15_end" xml:id="lfd-nr-neuneu_15"
-                />Knebel beſchloß über Weimar zu reiſen, um Wieland, deſſen Dichtergrazie ihn
+            <p><milestone unit="testimony" spanTo="#lfd-nr-neuneu_15_end" xml:id="lfd-nr-neuneu_15"/>Knebel beſchloß über Weimar zu reiſen, um Wieland, deſſen Dichtergrazie ihn
                 vorzüglich anlockte, perſönlich kennen zu lernen. Dieſer, und die unſterbliche
                 Herzogin Amalie, nahmen ihn äußerſt freundlich auf und er verlebte vierzehn
                 genußreiche Tage an dieſem Hofe. Als er ſich eben zur Abreiſe anſchickte, wurde ihm
@@ -91,8 +90,7 @@
                 Herder, Jean Paul und Knebel; ein Vorzug, um welchen ſelbſt Rom und Athen dieſes
                 Dörfchen beneiden dürften. Das innigſte Verhältniß fand wohl ſtatt zwiſchen ihm und
                 Herder, denn jede Freude und jedes Leid ward zwiſchen ihnen getheilt, kein
-                literariſches Unternehmen fand ohne vorangegangene gegenſeitige <pb n="328"
-                />Mittheilung ſtatt, und es wurde in der Herder’ſchen Familie kein häusliches Feſt
+                literariſches Unternehmen fand ohne vorangegangene gegenſeitige <pb n="328"/>Mittheilung ſtatt, und es wurde in der Herder’ſchen Familie kein häusliches Feſt
                 begangen, bei welchem nicht Knebel als Mitgenoſſe zugezogen wurde. Der Briefwechſel
                 zwiſchen ihm und Herder beweiſt, wie nahe ſich die Herzen dieſer beiden Freunde
                 ſtanden.</p>

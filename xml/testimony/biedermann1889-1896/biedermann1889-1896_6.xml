@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -76,8 +75,7 @@
                     mir wohl als Bild gedacht; und das wäre zu machen.« Ich empfand, daß Goethe
                     recht hatte, und fügte hinzu, daß ja dieser Moment auch eigentlich der Kern der
                     ganzen Situation sei, worauf alles ankomme.</p>
-                <p rend="indentchar-m4n0"> Noch hatte ich an dem Gelesenen zu bemerken, daß <pb
-                        n="11"/> diese Novelle von allen übrigen der ›Wanderjahre‹ einen ganz
+                <p rend="indentchar-m4n0"> Noch hatte ich an dem Gelesenen zu bemerken, daß <pb n="11"/> diese Novelle von allen übrigen der ›Wanderjahre‹ einen ganz
                     verschiedenen Character trage, indem darin alles Darstellung des Äußern, alles
                     real sei. »Sie haben recht,« sagte Goethe, »Innerliches finden Sie in dem
                     Gelesenen fast gar nicht, und in meinen übrigen Sachen ist davon fast zu
@@ -162,8 +160,7 @@
                 <p rend="indentchar-m4n0">
                     <milestone unit="testimony" spanTo="#graef_1456_end" xml:id="graef_1456"/>Ein
                     versiegeltes Paket lag auf dem Tische. Goethe legte seine Hand darauf. »Was ist
-                    das?« sagte er. »Es ist <rs>die ›Helena‹, die an Cotta zum Druck abgeht</rs>.« <pb n="37"
-                    /> Ich empfand bei diesen Worten mehr als ich sagen konnte, ich fühlte die
+                    das?« sagte er. »Es ist <rs>die ›Helena‹, die an Cotta zum Druck abgeht</rs>.« <pb n="37"/> Ich empfand bei diesen Worten mehr als ich sagen konnte, ich fühlte die
                     Bedeutung des Augenblicks; denn wie bei einem neuerbauten Schiff, das zuerst in
                     die See geht und wovon man nicht weiß, welche Schicksale es erleben wird, so ist
                     es auch mit dem Gedankenwerk eines großen Meisters, das zuerst in die Welt
@@ -182,8 +179,7 @@
                     die gründlichste Entfaltung des Einzelnen, wo jedes geradezu das sagt, was es
                     sagen soll. Allein der moderne, romantische Theil ist sehr schwer; denn eine
                     halbe Weltgeschichte steckt dahinter; die Behandlung ist bei so großem Stoff nur
-                    andeutend und macht sehr große Ansprüche an den Leser.« – »Aber doch,« sagte <pb
-                        n="38"/> Goethe, »ist alles sinnlich und wird, auf dem Theater gedacht,
+                    andeutend und macht sehr große Ansprüche an den Leser.« – »Aber doch,« sagte <pb n="38"/> Goethe, »ist alles sinnlich und wird, auf dem Theater gedacht,
                     jedem gut in die Augen fallen. Und mehr habe ich nicht gewollt. Wenn es nur so
                     ist, daß die Menge der Zuschauer Freude an der Erscheinung hat; dem Eingeweihten
                     wird zugleich der höhere Sinn nicht entgehen, wie es ja auch bei der
@@ -340,18 +336,15 @@
                     habe ich mich gefreut auch auf Stellen zu stoßen, die mir durchaus menschlich
                     und klar erschienen sind, wie z.B. seine Relation der Fabel des Ödip.«</p>
                 <p rend="indentchar-m4n0"> »Hierbei,« sagte Goethe, »mußte er sich freilich scharf
-                    an der Sache halten. <milestone unit="testimony" spanTo="#graef_1469_end"
-                        xml:id="graef_1469"/>Es giebt aber in seinem Buche nicht wenige Stellen, bei
+                    an der Sache halten. <milestone unit="testimony" spanTo="#graef_1469_end" xml:id="graef_1469"/>Es giebt aber in seinem Buche nicht wenige Stellen, bei
                     denen der Gedanke nicht rückt und fortschreitet und wobei sich die dunkele
                     Sprache immer auf demselbigen Fleck und immer in demselbigen Kreise bewegt,
-                    völlig so wie <rs>das Einmaleins der Hexe in meinem ›Faust‹</rs>.<anchor
-                        xml:id="graef_1469_end"/> Geben Sie mir doch einmal das Buch. Von seiner
+                    völlig so wie <rs>das Einmaleins der Hexe in meinem ›Faust‹</rs>.<anchor xml:id="graef_1469_end"/> Geben Sie mir doch einmal das Buch. Von seiner
                     sechsten Vorlesung, über den Chor, habe ich soviel wie gar nichts verstanden.
                     Was sagen Sie z.B. zu diesem, welches nahe am Ende steht:</p>
                 <p rend="indentchar-m4n0"> ›Diese Wirklichkeit (nämlich des Volkslebens) ist als die
                     wahre Bedeutung derselben deshalb auch allein nur ihre wahrhafte Wirklichkeit,
-                    die zugleich als sich selber die Wahrheit und Gewißheit, darum die allgemein <pb
-                        n="69"/> geistige Gewißheit ausmacht, welche Gewißheit zugleich die
+                    die zugleich als sich selber die Wahrheit und Gewißheit, darum die allgemein <pb n="69"/> geistige Gewißheit ausmacht, welche Gewißheit zugleich die
                     versöhnende Gewißheit des Chors ist, so daß allein in dieser Gewißheit, die sich
                     als das Resultat der gesammten Bewegung der tragischen Handlung erwiesen, der
                     Chor erst wahrhaft dem allgemeinen Volksbewußtsein gemäß sich verhält und als
@@ -391,8 +384,7 @@
                     stattgefunden.</p>
                 <p rend="indentchar-m4n0"> Überhaupt,« fuhr Goethe fort, »werden Sie bemerkt haben,
                     daß Hinrichs bei Betrachtung der griechischen Tragödie ganz von der Idee
-                    ausgeht, und daß er sich auch den Sophokles als einen solchen denkt, <pb n="71"
-                    /> der bei Erfindung und Anordnung seiner Stücke gleichfalls von einer Idee
+                    ausgeht, und daß er sich auch den Sophokles als einen solchen denkt, <pb n="71"/> der bei Erfindung und Anordnung seiner Stücke gleichfalls von einer Idee
                     ausging und danach seine Charactere und deren Geschlecht und Stand bestimmte.
                     Sophokles ging aber bei seinen Stücken keineswegs von einer Idee aus, vielmehr
                     ergriff er irgend eine längst fertige Sage seines Volks, worin bereits eine gute
@@ -552,8 +544,7 @@
                     wenigen Bruchstücke, aber diese geben mir von ihm gleichfalls eine so hohe Idee,
                     daß ich diesen großen Griechen für den einzigen Menschen halte, der mit Molière
                     wäre zu vergleichen gewesen.«</p>
-                <p rend="indentchar-m4n0"> »Ich bin glücklich,« erwiederte ich, »Sie so gut<pb
-                        n="79"/> über Molière reden zu hören. Das klingt freilich ein wenig anders
+                <p rend="indentchar-m4n0"> »Ich bin glücklich,« erwiederte ich, »Sie so gut<pb n="79"/> über Molière reden zu hören. Das klingt freilich ein wenig anders
                     als Herr von Schlegel! Ich habe noch in diesen Tagen in seinen ›Vorlesungen über
                     dramatische Poesie‹ mit großem Widerwillen verschluckt was er über Molière sagt.
                     Er behandelt ihn, wie Sie wissen, ganz von oben herab, als einen gemeinen
@@ -660,8 +651,7 @@
                     mehr den rechten Erfolg haben. Hoch, stark und schlankstämmig wird sie nach
                     vollendetem Wuchse dastehen, doch ohne ein solches Verhältniß zwischen Stamm und
                     Krone, um in der That schön zu sein.</p>
-                <p rend="indentchar-m4n0"> Wächst hinwieder die Eiche an feuchten, sumpfigen <pb
-                        n="104"/> Orten und ist der Boden zu nahrhaft, so wird sie, bei gehörigem
+                <p rend="indentchar-m4n0"> Wächst hinwieder die Eiche an feuchten, sumpfigen <pb n="104"/> Orten und ist der Boden zu nahrhaft, so wird sie, bei gehörigem
                     Raum, frühzeitig viele Äste und Zweige nach allen Seiten treiben; es werden
                     jedoch die widerstrebenden, retardirenden Einwirkungen fehlen, das Knorrige,
                     Eigensinnige, Zackige wird sich nicht entwickeln, und aus einiger Ferne gesehen
@@ -702,8 +692,7 @@
                     Naturbestimmung ist, Kinder zu gebären und Kinder zu säugen, nicht schön ohne
                     gehörige Breite des Beckens und ohne gehörige Fülle der Brüste. Doch wäre auch
                     ein Zuviel nicht schön, denn das würde über das Zweckmäßige hinausgehen.</p>
-                <p rend="indentchar-m4n0"> Warum konnten wir vorhin einige der Reitpferde,<pb
-                        n="106"/> die uns begegneten, schön nennen, als eben wegen der
+                <p rend="indentchar-m4n0"> Warum konnten wir vorhin einige der Reitpferde,<pb n="106"/> die uns begegneten, schön nennen, als eben wegen der
                     Zweckmäßigkeit ihres Baues? Es war nicht blos das Zierliche, Leichte, Graziöse
                     ihrer Bewegungen, sondern noch etwas mehr, worüber ein guter Reiter und
                     Pferdekenner reden müßte und wovon wir andern blos den allgemeinen Eindruck
@@ -730,8 +719,7 @@
                     Wetter war sehr, schön; die Frühlingssonne fing an mächtig zu werden und an
                     Büschen und Hecken schon allerlei Laub und Blüthen hervorzulocken. Goethe war
                     voller Gedanken und Hoffnungen eines genußreichen Sommers.</p>
-                <p rend="indentchar-m4n0"> Darauf bei Tische waren wir sehr heiter. <milestone
-                        unit="testimony" spanTo="#graef_1476_end" xml:id="graef_1476"/><rs>Der junge
+                <p rend="indentchar-m4n0"> Darauf bei Tische waren wir sehr heiter. <milestone unit="testimony" spanTo="#graef_1476_end" xml:id="graef_1476"/><rs>Der junge
                     Goethe hatte die ›Helena‹ seines Vaters gelesen und sprach darüber</rs> mit vieler
                     Einsicht eines natürlichen Verstandes. Über den im antiken Sinne gedichteten
                     Theil ließ er eine entschiedene Freude blicken, während ihm die opernartige
@@ -908,12 +896,10 @@
                     noch aus meinen weimarischen Eindrücken und Erinnerungen Schmerzliches und
                     Lästiges anklebte. Sehr treffend nennt er daher auch den ›Tasso‹ einen
                     gesteigerten ›Werther‹.</p>
-                <p rend="indentchar-m4n0"> Sodann <milestone unit="testimony"
-                        spanTo="#graef_1480_end" xml:id="graef_1480"/><rs>über den ›Faust‹ äußert er
+                <p rend="indentchar-m4n0"> Sodann <milestone unit="testimony" spanTo="#graef_1480_end" xml:id="graef_1480"/><rs>über den ›Faust‹ äußert er
                     sich</rs> nicht weniger geistreich, indem er nicht bloß das düstere, unbefriedigte
                     Streben der Hauptfigur, sondern auch den Hohn und die herbe Ironie des
-                    Mephistopheles als Theile meines eigenen Wesens bezeichnet.«<anchor
-                        xml:id="graef_1480_end"/></p>
+                    Mephistopheles als Theile meines eigenen Wesens bezeichnet.«<anchor xml:id="graef_1480_end"/></p>
                 <p rend="indentchar-m4n0"> In dieser und ähnlicher anerkennender Weise sprach Goethe
                     über Herrn Ampère sehr oft; wir faßten für ihn ein entschiedenes Interesse, wir
                     suchten uns seine Persönlichkeit klar zu machen, und wenn uns dieses auch nicht
@@ -1045,8 +1031,7 @@
                     <head><date>1827, 6. Mai.</date></head>
                 <head>Mittag bei Goethe</head>
                 
-                <p rend="indentchar-m4n0">Abermalige <milestone unit="testimony"
-                        spanTo="#graef_1481_end" xml:id="graef_1481"/>Tischgesellschaft bei Goethe,
+                <p rend="indentchar-m4n0">Abermalige <milestone unit="testimony" spanTo="#graef_1481_end" xml:id="graef_1481"/>Tischgesellschaft bei Goethe,
                     wobei dieselbigen Personen zugegen sind wie vorgestern. <rs>Man sprach sehr viel
                     über die ›Helena‹</rs> und den ›Tasso‹. Goethe erzählte uns darauf, wie er im Jahre
                     1797 den Plan gehabt, die Sage vom Tell als episches Gedicht in Hexametern zu
@@ -1071,8 +1056,7 @@
                     gleichgültige Dinge sind, als ob sie gar nicht existirten.</p>
                 <p rend="indentchar-m4n0"> Das Höhere und Bessere der menschlichen Natur dagegen,
                     die Liebe zum heimathlichen Boden, das Gefühl der Freiheit und Sicherheit unter
-                    dem Schutze vaterländischer Gesetze, das Gefühl ferner der Schmach, <pb n="133"
-                    /> sich von einem fremden Wüstling unterjocht und gelegentlich mißhandelt zu
+                    dem Schutze vaterländischer Gesetze, das Gefühl ferner der Schmach, <pb n="133"/> sich von einem fremden Wüstling unterjocht und gelegentlich mißhandelt zu
                     sehen, und endlich die zum Entschluß reifende Willenskraft, ein so verhaßtes
                     Joch abzuwerfen – alles dieses Höhere und Gute hatte ich den bekannten edlen
                     Männern Walther Fürst, Stauffacher, Winkelried und andern zugetheilt, und dieses
@@ -1091,8 +1075,7 @@
                     Und da ich andere Dinge zu thun hatte und die Ausführung meines Vorsatzes sich
                     immer weiter verschob, so trat ich meinen Gegenstand Schillern völlig ab, der
                     denn darauf sein bewundernswürdiges Gedicht schrieb.«</p>
-                <p rend="indentchar-m4n0"> Wir freuten uns dieser Mittheilung, die allen <pb n="134"
-                    /> interessant zu hören war. Ich machte bemerklich, daß es mir vorkomme, als ob
+                <p rend="indentchar-m4n0"> Wir freuten uns dieser Mittheilung, die allen <pb n="134"/> interessant zu hören war. Ich machte bemerklich, daß es mir vorkomme, als ob
                     die in Terzinen geschriebene prächtige Beschreibung des Sonnenausgangs in der
                     ersten Scene vom zweiten Theile des ›Faust‹ aus der Erinnerung jener
                     Natureindrücke des Vierwaldstättersees entstanden sein möchte.</p>
@@ -1267,8 +1250,7 @@
                     bedeutend und zum Ziele führend, sowie ich überhaupt bis jetzt in Byron noch
                     keine matte Zeile gefunden habe. Es ist mir immer als sähe ich ihn aus den
                     Meereswellen kommen, frisch und durchdrungen von schöpferischen Urkräften.« –
-                    »Sie haben ganz recht,« sagte Goethe, »es ist so.« – <milestone unit="testimony"
-                        spanTo="#graef_1498_end" xml:id="graef_1498"/>»Je mehr ich ihn lese,« fuhr
+                    »Sie haben ganz recht,« sagte Goethe, »es ist so.« – <milestone unit="testimony" spanTo="#graef_1498_end" xml:id="graef_1498"/>»Je mehr ich ihn lese,« fuhr
                     ich fort, »je mehr bewundere ich die Größe seines Talents, und Sie haben ganz
                     recht gethan, ihm in der ›Helena‹ das unsterbliche Denkmal der Liebe zu
                     setzen.«</p>
@@ -1327,8 +1309,7 @@
                     <lb/>a.<lb/>
                 </head>
                 
-                    <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1500_end"
-                            xml:id="graef_1500"/>Erst diesen Abend fand ich die rechte Stunde,
+                    <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1500_end" xml:id="graef_1500"/>Erst diesen Abend fand ich die rechte Stunde,
                         Goethen nach <rs>einem langen Zweigespräch über »Helena«</rs> Ihre [der Freifrau v.
                         Beaulieu] inhaltsreichen, geist-vollen Worte<anchor xml:id="N187"/>
                         <ref target="F187">
@@ -1352,12 +1333,10 @@
                 
                 <div><head>b.</head><lb/>
                 
-                <p rend="indentchar-m4n0">Goethe bemerkte: <milestone unit="testimony"
-                        spanTo="#graef_1499_end" xml:id="graef_1499"/>der letzte <rs>Chor in der Helena</rs>
+                <p rend="indentchar-m4n0">Goethe bemerkte: <milestone unit="testimony" spanTo="#graef_1499_end" xml:id="graef_1499"/>der letzte <rs>Chor in der Helena</rs>
                     sei bloß darum weit ausgeführter als die übrigen, weil ja jede Symphonie mit
                     einem Uni aller Instrumente brillant zu endigen strebe.</p>
-                <p rend="indentchar-m4n0"> Auf <rs>Faust</rs> zu reden kommend, sagte er: bei aller<pb
-                        n="164"/> Muße und Abtrennung von der Welt <rs>getrau' er sich noch jetzt
+                <p rend="indentchar-m4n0"> Auf <rs>Faust</rs> zu reden kommend, sagte er: bei aller<pb n="164"/> Muße und Abtrennung von der Welt <rs>getrau' er sich noch jetzt
                     denselben in drei Monaten zu beenden</rs>.<anchor xml:id="graef_1499_end"/></p>
                 <p rend="indentchar-m4n0"> Dann sprachen wir von Immermann's Recension der
                     Kleist'schen Schriften, die er sehr tadelte. »Die Herren schaffen und künsteln
@@ -1409,8 +1388,7 @@
                     <p rend="indentchar-m4n0"> – – – – – – – – – – – – – – – –</p>
                     <p rend="indentchar-m4n0"> Meine orientalische Reise wurde nun in Beirut wieder
                         aufgenommen; wir segelten nach Larneka in Cypern hinüber, dann bei Rhodus,
-                        Samos, Chios vorbei, an Kleinasien entlang bis Smyrna. Goethe verweilte<pb
-                            n="189"/> lange bei den weitläufigen Ruinen von Ephesus in der einst so
+                        Samos, Chios vorbei, an Kleinasien entlang bis Smyrna. Goethe verweilte<pb n="189"/> lange bei den weitläufigen Ruinen von Ephesus in der einst so
                         fruchtbaren, jetzt versumpften und menschenleeren Ebene des Kaystros. Daß
                         Konstantinopel an Schönheit der Lage mit Neapel wetteifere, ist bekannt; es
                         schien ihm zu gefallen, daß ich für Neapel wegen des Vesuv und des offenen
@@ -1452,8 +1430,7 @@
                         <ref target="F190">
                             <hi rend="sup">1</hi>
                         </ref> gedacht. Müller erzählte darüber, daß sie nach der unglücklichen
-                        Schlacht von Jena furchtlos in Weimar geblieben sei und Napoleon's <pb
-                            n="191"/> Besuch abgewartet habe. Dieser kam denn auch und fuhr sie mit
+                        Schlacht von Jena furchtlos in Weimar geblieben sei und Napoleon's <pb n="191"/> Besuch abgewartet habe. Dieser kam denn auch und fuhr sie mit
                         den Worten an: »Wie konnte Ihr Sohn<anchor xml:id="N191"/>
                         <ref target="F191">
                             <hi rend="sup">2</hi>
@@ -1497,8 +1474,7 @@
                     genannt, habe der König gesprochen, worauf Goethe geäußert: man müsse sich doch
                     den Rücken frei halten und so lehne er sich an die Griechen. Übrigens sei es ihm
                     unschätzbar den König persönlich gesehen zu haben; denn nun erst könne er sich
-                    dies merkwürdige, viel bewegliche Individuum auf dem Throne allmälich <pb
-                        n="193"/> erklären und construiren. In derselben Zeit zu leben und diese
+                    dies merkwürdige, viel bewegliche Individuum auf dem Throne allmälich <pb n="193"/> erklären und construiren. In derselben Zeit zu leben und diese
                     Individualität, die mit aller Energie seines Willens so mächtig auf die
                     Zeitgestaltung einwirke, nicht durchschaut zu haben, würde unersetzlicher
                     Verlust gewesen sein.</p>
@@ -1518,8 +1494,7 @@
                     <ref target="F192">
                         <hi rend="sup">3</hi>
                     </ref> nichts hervorbringen können, wie immer, wenn sein Gefühl zu mächtig
-                    aufgeregt sei. <milestone unit="testimony" spanTo="#graef_1518_end"
-                        xml:id="graef_1518"/>»Aus Norden« setzte er hinzu, »habe ich kürzlich die
+                    aufgeregt sei. <milestone unit="testimony" spanTo="#graef_1518_end" xml:id="graef_1518"/>»Aus Norden« setzte er hinzu, »habe ich kürzlich die
                     schönsten und <pb n="194"/> zartesten <rs>Äußerungen über meine ›Trilogie‹ und über
                     ›Helena‹</rs> vernommen. Jene hat man ›mit der Perlenschrift der Thränen geschrieben‹
                     genannt.«</p>
@@ -1632,8 +1607,7 @@
                     Versicherung.</p>
                 <p rend="indentchar-m4n0"> Ich verlebte darauf mit Goethe, theils in Berka, theils
                     in Tonndorf, einen höchst merkwürdigen Tag. Er war in den geistreichsten
-                    Mittheilungen unerschöpflich; auch <milestone unit="testimony"
-                        spanTo="#graef_1532_end" xml:id="graef_1532"/>über den <rs>zweiten Theil des
+                    Mittheilungen unerschöpflich; auch <milestone unit="testimony" spanTo="#graef_1532_end" xml:id="graef_1532"/>über den <rs>zweiten Theil des
                     ›Faust‹, woran er damals ernstlich zu arbeiten anfing</rs>, äußerte er viele
                         Gedanken,<anchor xml:id="graef_1532_end"/> und ich bedauere deshalb um so
                     mehr, daß in meinem Tagebuche sich nichts weiter notirt findet als diese
@@ -1650,8 +1624,7 @@
                         Eckermann</persName></head>
                 
                 <p rend="indentchar-m4n0">Im Theater »Das Bild« von Houwald. Ich sah zwei Acte und
-                    ging dann <milestone unit="testimony" spanTo="#graef_1536_end"
-                        xml:id="graef_1536"/>zu <rs>Goethe, der mir die zweite Scene seines neuen
+                    ging dann <milestone unit="testimony" spanTo="#graef_1536_end" xml:id="graef_1536"/>zu <rs>Goethe, der mir die zweite Scene seines neuen
                     ›Faust‹ vorlas</rs>.</p>
                 <p rend="indentchar-m4n0"> »Ich habe in dem Kaiser,« sagte er, »einen Fürsten
                     darzustellen gesucht, der alle möglichen Eigenschaften hat sein Land zu
@@ -1668,8 +1641,7 @@
                     schaffen weiß, ist bereits in den Händen wuchernder Juden, denen alles
                     verpfändet ist, sodaß auf den kaiserlichen Tisch vorweggegessenes Brot
                     kommt.</p>
-                <p rend="indentchar-m4n0"> Der Staatsrath will Sr. Majestät über alle diese <pb
-                        n="227"/> Gebrechen Vorstellungen thun und ihre Abhilfe berathen; allein der
+                <p rend="indentchar-m4n0"> Der Staatsrath will Sr. Majestät über alle diese <pb n="227"/> Gebrechen Vorstellungen thun und ihre Abhilfe berathen; allein der
                     gnädigste Herr ist sehr ungeneigt, solchen unangenehmen Dingen sein hohes Ohr zu
                     leihen; er möchte sich lieber amusiren. Hier ist nun das wahre Element für
                     Mephisto, der den bisherigen Narren schnell beseitigt und als neuer Narr und
@@ -1683,8 +1655,7 @@
             <pb n="263"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1140.</num></head> <milestone unit="page" type="startpage"
-                        n="263"/>
+                    <num type="biedermann-1">1140.</num></head> <milestone unit="page" type="startpage" n="263"/>
                     
                     <head><date>1827 oder 1828.</date></head>
                 <head>Mit <persName>Friedrich von Müller</persName> u.a.</head>
@@ -1756,8 +1727,7 @@
                         Ihnen in Weimar? Nicht wahr, es stickt (sic!) viel Bildung in dem Orte? Wir
                         haben denn auch wohl das unsere dazu gethan.«</p>
                     <p rend="indentchar-m4n0">
-                        <milestone unit="testimony" spanTo="#graef_1599_end" xml:id="graef_1599"
-                        />»Ew. Excellenz!« sagte ich fest; denn jetzt wollte ich doch etwas
+                        <milestone unit="testimony" spanTo="#graef_1599_end" xml:id="graef_1599"/>»Ew. Excellenz!« sagte ich fest; denn jetzt wollte ich doch etwas
                         Positives mitnehmen: »ich soll morgen, <rs>die zu ›Faust‹ gehörige ›Helena‹
                         vorlesen</rs>: ich habe mir zwar alle Mühe damit gegeben, aber alles verstehe ich
                         doch nicht. Möchten Sie mir nicht z.B. erklären, was eigentlich damit
@@ -1802,8 +1772,7 @@
                     als eine kleine Stockung, die durch einige Gläser Mineralwasser oder ein wenig
                     Salz zu heben ist. Aber laßt es nicht länger so fortschlendern, sondern thut
                     dazu!«</p>
-                <p rend="indentchar-m4n0"> Goethe mochte ganz recht haben, und ich sagte mir<pb
-                        n="272"/> selber, daß er recht habe; allein jene Unentschlossenheit und
+                <p rend="indentchar-m4n0"> Goethe mochte ganz recht haben, und ich sagte mir<pb n="272"/> selber, daß er recht habe; allein jene Unentschlossenheit und
                     Unlust wirkte auch in diesem Falle, und ich ließ wiederum unruhige Nächte und
                     schlechte Tage verstreichen, ohne das mindeste zur Abstellung meines Übels zu
                     thun.</p>
@@ -1995,16 +1964,14 @@
                     günstigen Bedingungen. Als mich vor zehn, zwölf Jahren, in der glücklichen Zeit
                     nach dem Befreiungskriege, die Gedichte des ›Diwan‹ in ihrer Gewalt hatten, war
                     ich productiv genug, um oft in einem Tage zwei bis drei zu machen; und auf
-                    freiem Felde, im Wagen oder im Gasthof, es war mir alles gleich. <milestone
-                        unit="testimony" spanTo="#graef_1610_end" xml:id="graef_1610"/>Jetzt, am
+                    freiem Felde, im Wagen oder im Gasthof, es war mir alles gleich. <milestone unit="testimony" spanTo="#graef_1610_end" xml:id="graef_1610"/>Jetzt, am
                     <rs>zweiten Theil meines ›Faust‹</rs> kann ich nur in den frühen Stunden des Tags
                     arbeiten, wo ich mich vom Schlaf erquickt und gestärkt fühle und die Fratzen des
                     täglichen Lebens mich noch nicht verwirrt haben. Und doch, was ist es, das ich
                     ausführe! Im allerglücklichsten Falle eine geschriebene Seite, in der Regel aber
                     nur soviel als man auf den Raum einer Handbreit schreiben könnte, und oft, bei
                     unproductiver Stimmung, noch weniger.«<anchor xml:id="graef_1610_end"/></p>
-                <p rend="indentchar-m4n0"> »Giebt es denn im allgemeinen,« sagte ich, »kein<pb
-                        n="282"/> Mittel, um eine productive Stimmung hervorzubringen oder, wenn sie
+                <p rend="indentchar-m4n0"> »Giebt es denn im allgemeinen,« sagte ich, »kein<pb n="282"/> Mittel, um eine productive Stimmung hervorzubringen oder, wenn sie
                     nicht mächtig genug wäre, sie zu steigern?«</p>
                 <p rend="indentchar-m4n0"> »Um diesen Punkt,« erwiederte Goethe, »steht es gar
                     wunderlich, und wäre darüber allerlei zu denken und zu sagen.</p>
@@ -2062,8 +2029,7 @@
                     natürliche Mittel seine productive Stimmung steigern könnte, ohne sie gerade zu
                     forciren. Ich war in meinem Leben sehr oft in dem Fall, bei gewissen
                     complicirten Zuständen zu keinem rechten Entschluß kommen zu können. Trank ich
-                    aber in solchen Fällen einige Gläser Wein, so war es mir klar, was zu thun<pb
-                        n="285"/> sei, und ich war auf der Stelle entschieden. Das Fassen eines
+                    aber in solchen Fällen einige Gläser Wein, so war es mir klar, was zu thun<pb n="285"/> sei, und ich war auf der Stelle entschieden. Das Fassen eines
                     Entschlusses ist aber doch auch eine Art Productivität, und wenn nun einige
                     Gläser Wein diese Tugend bewirkten, so dürfte ein solches Mittel doch nicht ganz
                     zu verwerfen sein.«</p>
@@ -2208,8 +2174,7 @@
                     und es haben seit Jahrtausenden so viele bedeutende Menschen gelebt und gedacht,
                     daß wenig Neues mehr zu finden und zu sagen ist. Meine Farbenlehre ist auch
                     nicht durchaus neu. Plato, Leonardo da Vinci und viele andere Treffliche haben
-                    im einzelnen vor mir dasselbige gefunden und gesagt; aber daß ich es auch <pb
-                        n="360"/> fand, daß ich es wieder sagte, und daß ich dafür strebte, in einer
+                    im einzelnen vor mir dasselbige gefunden und gesagt; aber daß ich es auch <pb n="360"/> fand, daß ich es wieder sagte, und daß ich dafür strebte, in einer
                     confusen Welt dem Wahren wieder Eingang zu verschaffen, das ist mein
                     Verdienst.</p>
                 <p rend="indentchar-m4n0"> Und dann: mau muß das Wahre immer wiederholen, weil auch
@@ -2233,8 +2198,7 @@
                     unbegreiflich, <pb n="361"/> und ich sehe nicht ein, welchen Nutzen und welche
                     Freude man an einer Lehre haben kann, wobei jeder Gedanke völlig stillsteht und
                     jede gesunde Anschauung durchaus verschwindet.«</p>
-                <p rend="indentchar-m4n0"> »Gute Seele,« sagte Goethe, <milestone unit="testimony"
-                        spanTo="#graef_1668_end" xml:id="graef_1668"/>»um Gedanken und Anschauungen
+                <p rend="indentchar-m4n0"> »Gute Seele,« sagte Goethe, <milestone unit="testimony" spanTo="#graef_1668_end" xml:id="graef_1668"/>»um Gedanken und Anschauungen
                     ist es den Leuten auch gar nicht zu thun. Sie sind zufrieden, wenn sie nur Worte
                     haben, womit sie verkehren, welches schon mein <rs>Mephistopheles</rs> gewußt und nicht
                     übel ausgesprochen hat:</p>
@@ -2273,8 +2237,7 @@
                     niederschrieb; es stecken Jahre von Nachdenken darin, und ich habe sie drei- bis
                     viermal versucht, ehe sie mir so gelingen wollte, wie sie jetzt ist.«</p>
                 <p>»Das Gedicht von den ›Glücklichen Gatten‹,« fuhr ich fort, »ist gleichfalls sehr
-                    reich an Motiven; es erscheinen darin ganze Landschaften und Menschenleben, <pb
-                        n="363"/> durchwärmt von dem Sonnenschein eines anmuthigen Frühlingshimmels,
+                    reich an Motiven; es erscheinen darin ganze Landschaften und Menschenleben, <pb n="363"/> durchwärmt von dem Sonnenschein eines anmuthigen Frühlingshimmels,
                     der sich über dem Ganzen ausbreitet.«</p>
                 <p>»Ich habe das Gedicht immer lieb gehabt,« sagte Goethe, »und es freut mich, daß
                     Sie ihm ein besonderes Interesse schenken. Und daß der Spaß zuletzt noch auf

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,10 +33,8 @@
                     habe. Vor einigen Tagen waren wir von halb 12, wo ich angezogen war, bis nachts
                     um 11 Uhr ununterbrochen beisammen. Er las mir seine Elegien, die zwar
                     schlüpfrig und nicht sehr decent sind, aber zu den besten Sachen gehören, die er
-                    gemacht hat. <milestone unit="testimony" spanTo="#graef_901_end"
-                        xml:id="graef_901"/>Sonst sprachen wir sehr viel von seinen und meinen
-                    Sachen, <rs>von anzufangenden und angefangenen Trauerspielen</rs> u. dgl.<anchor
-                        xml:id="graef_901_end"/> Ich habe ihm <pb n="153"/> meinen Plan zu den
+                    gemacht hat. <milestone unit="testimony" spanTo="#graef_901_end" xml:id="graef_901"/>Sonst sprachen wir sehr viel von seinen und meinen
+                    Sachen, <rs>von anzufangenden und angefangenen Trauerspielen</rs> u. dgl.<anchor xml:id="graef_901_end"/> Ich habe ihm <pb n="153"/> meinen Plan zu den
                     »Malthesern« gesagt, und nun läßt er mir keine Ruhe, daß ich ihn bis zum
                     Geburtstag der regierenden Herzogin, wo er ihn spielen lassen will, doch
                     vollenden möchte. Es kann auch ganz gut Rath dazu werden; denn er hat mir viel
@@ -88,8 +84,7 @@
                     oft ich will, zu ihm auf's Zimmer kommen, was wahrhaftig bei Goethe nichts
                     Geringes ist. Heute Morgen war ich schon vor 7 Uhr bei ihm.</p>
                 <p>– – – – – – – – – – – – –</p>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1044_end"
-                        xml:id="graef_1044"/>Goethe ist jetzt mit der neuen Ausgabe seiner gesammten
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1044_end" xml:id="graef_1044"/>Goethe ist jetzt mit der neuen Ausgabe seiner gesammten
                     Werke beschäftigt. Daß er den »Götz von Berlichingen« umgearbeitet hat, wird Dir
                     bekannt sein; er ist jetzt so angeschwollen, daß die Aufführung sechs Stunden
                     währt. Das erste Mal kamen wir halb 12 Uhr aus dem Theater; jetzt wird die

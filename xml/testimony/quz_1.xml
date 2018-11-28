@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,11 +27,9 @@
                     <num type="quz_1">23</num>
                 </head>
                 <head type="editorial">Avertissement über die Ausgabe von Goethes Schriften</head>
-                <head type="editorial">(JD 3, 1786 St 6, 575—78)<anchor xml:id="N1"/><ref
-                        target="#F1"><hi rend="sup">1</hi></ref>:</head>
+                <head type="editorial">(JD 3, 1786 St 6, 575—78)<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi></ref>:</head>
                 <p>
-                    <milestone unit="testimony" spanTo="#quz_I-23_end" xml:id="quz_I-23"/><hi
-                        rend="letter-spaced">Des Herrn G. R. von Göthe zu Weimar sämmtliche Werke in
+                    <milestone unit="testimony" spanTo="#quz_I-23_end" xml:id="quz_I-23"/><hi rend="letter-spaced">Des Herrn G. R. von Göthe zu Weimar sämmtliche Werke in
                         acht Bänden, bey Georg Joachim Göschen in Leipzig.</hi>
                 </p>
                 <p>Ohnstreitig wird dem Publiko die Nachricht sehr angenehm seyn, daß der Herr
@@ -42,12 +40,8 @@
                     mehrern Werken von dem Schriftsteller, den es schon von Anfange her unter seine
                     Lieblingsdichter gestellt hatte; man raffte daher ohne sein Wissen zusammen, was
                     man nur von ihm fand, oder glaubte, daß es von ihm seyn könne, druckte, und so
-                    entstanden die sogenannten Sammlungen seiner Werke<anchor xml:id="N2"/><ref
-                        target="#F2"><hi rend="sup">2</hi></ref>, <pb n="23" facs="quz_1_0023.jpg"
-                    />darinn Sachen zusammengestellt wurden, die er theils nicht für seine Arbeiten
-                    anerkannt hatte<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup"
-                        >1</hi></ref>, theils offenbar andern Verfassern zugehörten<anchor
-                        xml:id="N4"/><ref target="#F4"><hi rend="sup">2</hi></ref>; und überdieß
+                    entstanden die sogenannten Sammlungen seiner Werke<anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">2</hi></ref>, <pb n="23" facs="quz_1_0023.jpg"/>darinn Sachen zusammengestellt wurden, die er theils nicht für seine Arbeiten
+                    anerkannt hatte<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup">1</hi></ref>, theils offenbar andern Verfassern zugehörten<anchor xml:id="N4"/><ref target="#F4"><hi rend="sup">2</hi></ref>; und überdieß
                     nicht zur Hälfte complet waren, weil das Meiste von den Herrn Verfassers
                     Schriften bis jetzt noch ungedruckt lag.</p>
                 <p>Es sind eigene Veranlassungen, welche den Herrn Geheimen Rath von Göthe zu dem
@@ -55,8 +49,7 @@
                     Publiko die erste, ächte und vollständige Ausgabe seiner sämmtlichen Werke von
                     eigner Hand, zu schenken. Er erklärt sich selbst ausführlich darüber in einem
                     Briefe an einen Freund, und es ist mir erlaubt von folgender Stelle daraus
-                    öffentlichen Gebrauch zu machen<anchor xml:id="N5"/><ref target="#F5"><hi
-                            rend="sup">3</hi></ref>:</p>
+                    öffentlichen Gebrauch zu machen<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup">3</hi></ref>:</p>
                 <p>„Ihnen sind die Ursachen bekannt, welche mich endlich nöthigen eine Sammlung
                     meiner sämmtlichen Schriften, sowohl der schon gedruckten, als auch der noch
                     ungedruckten, herauszugeben.</p>
@@ -66,16 +59,14 @@
                         möchte<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup">4</hi></ref>;
                     von der andern Seite fängt man an meine ungedruckten Schriften, wovon ich
                     Freunden manchmal eine Copie mittheilte, stückweise ins Publikum zu
-                        bringen<anchor xml:id="N7"/><ref target="#F7"><hi rend="sup"
-                    >5</hi></ref>.</p>
+                        bringen<anchor xml:id="N7"/><ref target="#F7"><hi rend="sup">5</hi></ref>.</p>
                 <p>Da ich nicht viel geben kann, habe ich immer gewünscht das Wenige gut zu geben,
                     meine <pb n="24" facs="quz_1_0024.jpg"/>schon bekannten Werke des Beyfalls, den
                     sie erhalten, würdiger zu machen, an diejenigen, welche geendigt im Manuscripte
                     daliegen, bey mehrerer Freyheit und Muse den letzten Fleiß zu wenden, und in
                     glücklicher Stimmung die unvollendeten zu vollenden. Allein dieß scheinen in
                     meiner Lage fromme Wünsche zu bleiben; ein Jahr nach dem andern ist hingegangen,
-                    und selbst jetzt hat mich nur eine unangenehme Nothwendigkeit<anchor xml:id="N8"
-                        /><ref target="#F8"><hi rend="sup">1</hi></ref> zu dem Entschluß bestimmen
+                    und selbst jetzt hat mich nur eine unangenehme Nothwendigkeit<anchor xml:id="N8"/><ref target="#F8"><hi rend="sup">1</hi></ref> zu dem Entschluß bestimmen
                     können, den ich dem Publiko bekannt gemacht wünschte.</p>
                 <p>Sie erhalten in dieser Absicht eine Vertheilung meiner sämmtlichen Arbeiten in
                     acht Bänden.</p>
@@ -102,8 +93,7 @@
                     Stücke enthalten werden; wie sehr wünsche ich mir aber noch so viel Raum und
                     Ruhe um die angefangnen Arbeiten, die dem sechsten und siebenten Bande
                     zugetheilt sind, wo nicht sämmtlich doch zum Theil vollendet zu liefern; in
-                    welchem Falle die vier letzten Bände eine andere Gestalt gewinnen würden<anchor
-                        xml:id="N9"/><ref target="#F9"><hi rend="sup">1</hi></ref>. Das übrige
+                    welchem Falle die vier letzten Bände eine andere Gestalt gewinnen würden<anchor xml:id="N9"/><ref target="#F9"><hi rend="sup">1</hi></ref>. Das übrige
                     werden Sie nach Ihrer gefälligen Zusage gütig besorgen.“</p>
                 <p>Da diese ausführliche Erklärung des Herrn Verfassers — welche zugleich das
                     sicherste Certificat über die Aechtheit und meinen rechtmäßigen Besitz dieser
@@ -114,11 +104,9 @@
                     innern Werthe entsprechendes Aeussere erhalten. Der Herr Verfasser hat klein
                     Oktav zum Format gewählt. Sie sollen daher in solchem Format mit ganz neuen
                     deutschen Schriften gedruckt, mit 8 Kupfern von Chodowiecki und 8 Vignetten von
-                    Meil geziert werden<anchor xml:id="N10"/><ref target="#F10"><hi rend="sup"
-                            >2</hi></ref>.</p>
+                    Meil geziert werden<anchor xml:id="N10"/><ref target="#F10"><hi rend="sup">2</hi></ref>.</p>
                 <p>Ohngeachtet ich sie mit Röm. Kayserl., Kön. Preuss. und Churf. Sächs.
-                    allergnädigsten Privilegiis drucken werde<anchor xml:id="N11"/><ref
-                        target="#F11"><hi rend="sup">3</hi></ref>, so finde ich doch nöthig mich bey
+                    allergnädigsten Privilegiis drucken werde<anchor xml:id="N11"/><ref target="#F11"><hi rend="sup">3</hi></ref>, so finde ich doch nöthig mich bey
                     dieser Unternehmung gegen die Räuberey unserer ehrlosen Nachdrucker, welche auf
                     diese Beute gewiß lauren werden, durch den Weg der Subscription zu decken. Ich
                     bin gewiß, der vortrefliche Herr Verfasser hat zu viele Freunde und Verehrer in
@@ -126,8 +114,7 @@
                     erlauben, ihm dies <pb n="26" facs="quz_1_0026.jpg"/>Zeichen ihrer Hochachtung
                     gern geben, Subscribenten zu Sicherung dieser Ausgabe sammlen, und mir gütigst
                     melden sollten. Die Subscribentenliste wird dem letzten Bande beygefügt
-                        werden<anchor xml:id="N12"/><ref target="#F12"><hi rend="sup"
-                    >1</hi></ref>.</p>
+                        werden<anchor xml:id="N12"/><ref target="#F12"><hi rend="sup">1</hi></ref>.</p>
                 <p>Der Subscriptionspreiß dieser Ausgabe in klein Oktav für alle 8 Bände, wovon
                     jeder ohngefähr ein Alphabet stark werden wird, und wovon vier Bände auf Ostern
                     und die andern vier zwischen Johannis und Michaelis 1787. geliefert
@@ -152,8 +139,7 @@
                 <p><hi rend="letter-spaced">An die Herren Nachdrucker.</hi> Ich kann es mir zwar
                     leicht vorstellen, daß die hier angekündigten Werke auch eine ganz artige
                     Spekulation für Sie seyn werden; allein erlauben Sie mir doch, meine Herren,
-                    Ihnen, ehe Sie zum Werk schreiten, die Versiche<pb n="27" facs="quz_1_0027.jpg"
-                    />rung zu geben, daß ich auch schon ganz artige Maasregeln gegen Sie genommen
+                    Ihnen, ehe Sie zum Werk schreiten, die Versiche<pb n="27" facs="quz_1_0027.jpg"/>rung zu geben, daß ich auch schon ganz artige Maasregeln gegen Sie genommen
                     habe, und Muth genug besitze mit Aufopferung meines ganzen Vortheils Ihre
                     Hofnungen zu Wasser zu machen, wenn Sie mich in meinem rechtmäßigen Erwerbe
                     durch Ihre unrechtmäßige Industrie zu stöhren gedenken. Besitzen Sie noch
@@ -161,8 +147,7 @@
                     Unternehmung gänzlich auf. Sie sollen so blamirt werden, daß Ihr eigenes Weib,
                     Ihr eigenes Kind sie mit Verachtung ansehen und kein ehrlicher Mann mit Ihnen
                     aus einem Kruge trinken soll.</p>
-                <p>Leipzig, im Monat Julius, 1786. Georg Joachim Göschen.<anchor
-                        xml:id="quz_I-23_end"/></p>
+                <p>Leipzig, im Monat Julius, 1786. Georg Joachim Göschen.<anchor xml:id="quz_I-23_end"/></p>
             </div>
             <pb n="117" facs="quz_1_0117.jpg"/>
             <div type="letter">
@@ -175,13 +160,9 @@
                 <head type="editorial">Herder an Racknitz (M. Lengenfeld’sche Buchhandlung,
                     Antiquariats-Katalog 42, 1932 Nr 204):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-235_end" xml:id="quz_I-235"/>An seinen
-                    Werken arbeitet er fleißig: eben habe ich ein vortreffliches Stück, seinen <hi
-                        rend="letter-spaced">Egmont,</hi> vor mir. . . Auch seine <hi
-                        rend="letter-spaced">Iphigenie</hi> ist, wie sie gedruckt ist, ein ganz
-                    anderes Stück geworden. . . Nun liegen noch <hi rend="letter-spaced"
-                            ><rs>Faust</rs></hi> und <hi rend="letter-spaced">Tasso</hi> vor ihm, u.
-                    er wird sich auch dieser Bürde rühmlich entladen.<anchor xml:id="quz_I-235_end"
-                    /></p>
+                    Werken arbeitet er fleißig: eben habe ich ein vortreffliches Stück, seinen <hi rend="letter-spaced">Egmont,</hi> vor mir. . . Auch seine <hi rend="letter-spaced">Iphigenie</hi> ist, wie sie gedruckt ist, ein ganz
+                    anderes Stück geworden. . . Nun liegen noch <hi rend="letter-spaced"><rs>Faust</rs></hi> und <hi rend="letter-spaced">Tasso</hi> vor ihm, u.
+                    er wird sich auch dieser Bürde rühmlich entladen.<anchor xml:id="quz_I-235_end"/></p>
             </div>
             <pb n="184" facs="quz_1_0184.jpg"/>
             <div type="letter">
@@ -195,9 +176,7 @@
                 <head type="editorial">(NFG/GSA, Goethe-Akten 297,95):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-413_end" xml:id="quz_I-413"/>Hierbey
                     hab ich die Ehre Denselben die vorgeschriebene Anzahl des 6 Bandes gebunden zu
-                        übersenden<anchor xml:id="N14"/><ref target="#F14"><hi rend="sup"
-                        >8</hi></ref>. Des 7<hi rend="sup">ten</hi> Bandes 1 bis 3<hi rend="sup"
-                        >er</hi> Bogen erfolgen ebenfals mit. Der <rs>Faust</rs> wird 10
+                        übersenden<anchor xml:id="N14"/><ref target="#F14"><hi rend="sup">8</hi></ref>. Des 7<hi rend="sup">ten</hi> Bandes 1 bis 3<hi rend="sup">er</hi> Bogen erfolgen ebenfals mit. Der <rs>Faust</rs> wird 10
                         Bogen.<anchor xml:id="quz_I-413_end"/></p>
             </div>
             <pb n="185" facs="quz_1_0185.jpg"/>
@@ -213,8 +192,7 @@
                 <p><milestone unit="testimony" spanTo="#quz_I-414_end" xml:id="quz_I-414"/>Hierbey
                     empfangen Sie</p>
                 <p>11 Göthe ord[inair] 6<hi rend="sup">er</hi> [Band]</p>
-                <p>4 Göthe holl[ändisch] 6<hi rend="sup">er</hi>. . . <rs>Der 7<hi rend="sup"
-                            >te</hi> Theil von Göthe</rs> wird zur Meße gewiß fertig und dann können
+                <p>4 Göthe holl[ändisch] 6<hi rend="sup">er</hi>. . . <rs>Der 7<hi rend="sup">te</hi> Theil von Göthe</rs> wird zur Meße gewiß fertig und dann können
                     wir erst recht operiren und in Rezension und polit. Zeitungen trommeln. Dann
                     wäre denn auch dieser Druck von den Schultern und meine Außichten werden eine
                     schönere Gestalt gewinnen.<anchor xml:id="quz_I-414_end"/></p>
@@ -226,8 +204,7 @@
                     <num type="quz_1">421</num>
                 </head>
                 <head type="editorial">Verlagsanzeige Göschens über Beendigung der Goethe-Ausgabe
-                    (JLM 5, 1790, Intelligenzbl Nr 5, LX—LXII)<anchor xml:id="N15"/><ref
-                        target="#F15"><hi rend="sup">3</hi></ref>:</head>
+                    (JLM 5, 1790, Intelligenzbl Nr 5, LX—LXII)<anchor xml:id="N15"/><ref target="#F15"><hi rend="sup">3</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-421_end" xml:id="quz_I-421"/>Mit
                     diesen nun fertigen 7ten Theile ist die Sammlung der Schriften des Herrn Geh.
                     Raths von Göthe in 8 Theilen — der 8te Theil ist bereits ausgegeben — beendigt.
@@ -236,8 +213,7 @@
                     in dieser Ausgabe theils gänzlich umgearbeitet, theils vermehrt und geändert.
                     Claudina von Villa Bella, Erwin und Elmire könnte man ganz neue Werke nennen;
                     die Leiden Werthers haben beträchtliche Zusätze, Götz von Berlichingen, Stella,
-                    Clavigo die lezte Revision erhalten. In der Ankündigung dieser Ausgabe<anchor
-                        xml:id="N16"/><ref target="#F16"><hi rend="sup">4</hi></ref> konnte der
+                    Clavigo die lezte Revision erhalten. In der Ankündigung dieser Ausgabe<anchor xml:id="N16"/><ref target="#F16"><hi rend="sup">4</hi></ref> konnte der
                     Verleger die neuen, vorher noch nicht erschienenen Werke des Herrn von Göthe zum
                     Theil nur als Fragmente versprechen. Der Herr Verfasser hat sich aber geneigt
                     finden lassen, den größten Theil derselben zu vollenden. Die Gestalt, worin die
@@ -245,8 +221,7 @@
                     Verzug entschuldigen, welche bey der Erscheinung der einzelnen Theile der
                     Sammlung nothwendig war, wenn der Herr Verfasser die lezte Hand an dieselbe
                     legen wollte. Neue Stücke hat das Publikum überhaupt darin erhalten.</p>
-                <p>1) Zueignung an das teutsche Publikum<anchor xml:id="N17"/><ref target="#F17"><hi
-                            rend="sup">5</hi></ref>.</p>
+                <p>1) Zueignung an das teutsche Publikum<anchor xml:id="N17"/><ref target="#F17"><hi rend="sup">5</hi></ref>.</p>
                 <p>2) Die Mit<pb n="189" facs="quz_1_0189.jpg"/>schuldigen.</p>
                 <p>3) Iphigenie,</p>
                 <p>4) Die Geschwister.</p>
@@ -272,24 +247,19 @@
                     Umstände eine sehr elegante und kostbare Ausgabe für den begüterten Theil der
                     Nation möglich macht, — welche jedoch in Ansehung des Inhalts vor der jetzigen
                     keinen wesentlichen Vorzug haben wird — hat der Verleger einige Exemplare der
-                    gegenwärtigen Ausgabe auf holländisch Papier abdrucken lassen<anchor
-                        xml:id="N18"/><ref target="#F18"><hi rend="sup">1</hi></ref>. Diese
+                    gegenwärtigen Ausgabe auf holländisch Papier abdrucken lassen<anchor xml:id="N18"/><ref target="#F18"><hi rend="sup">1</hi></ref>. Diese
                     Exemplarien auf holländisch Papier werden aber erst in einem Jahre
-                        ausgegeben<anchor xml:id="N19"/><ref target="#F19"><hi rend="sup"
-                        >2</hi></ref>, weil die Kupfer von gegenwärtiger Taschenausgabe zu der auf
-                    holländischem Papier wieder neu gestochen werden<anchor xml:id="N20"/><ref
-                        target="#F20"><hi rend="sup">3</hi></ref>. Der Preiß dieser Ausgabe mit
+                        ausgegeben<anchor xml:id="N19"/><ref target="#F19"><hi rend="sup">2</hi></ref>, weil die Kupfer von gegenwärtiger Taschenausgabe zu der auf
+                    holländischem Papier wieder neu gestochen werden<anchor xml:id="N20"/><ref target="#F20"><hi rend="sup">3</hi></ref>. Der Preiß dieser Ausgabe mit
                     neugestochenen Kupfern ist 12 Rthlr. Es sind nur wenige Exemplare davon
                     abgedruckt und sie werden nicht ohne Vorausbezahlung verlassen. Die jezt
-                    vollendete Ausgabe kostet, wie man weiß, nun<pb n="190" facs="quz_1_0190.jpg"
-                    />mehro 8 Rthlr. Eigentlich kann solches niemand in Ansehung der hohen Preiße
+                    vollendete Ausgabe kostet, wie man weiß, nun<pb n="190" facs="quz_1_0190.jpg"/>mehro 8 Rthlr. Eigentlich kann solches niemand in Ansehung der hohen Preiße
                     der Papiere und der Kupfer von den vorzüglichsten Meistern, nach vortreflichen
                     Zeichnungen zu hoch finden; aber nicht einem jeden Liebhaber der Göthischen
                     Schriften, ist es leicht 8 Rthlr. dafür auszugeben. Auch für diese hat der
                     Verleger gesorgt und eine ganz wohlfeile Ausgabe auf Druckpapier mit einigen
                     Kupfern in 4 Bänden besorgt. Zwey Bände sind davon fertig. Die andern zwey
-                    folgen bald nach<anchor xml:id="N21"/><ref target="#F21"><hi rend="sup"
-                        >1</hi></ref>. Alle vier Bände, welche die 8 Bände der bessern Ausgabe
+                    folgen bald nach<anchor xml:id="N21"/><ref target="#F21"><hi rend="sup">1</hi></ref>. Alle vier Bände, welche die 8 Bände der bessern Ausgabe
                     enthalten, kosten 5 Rthlr. 16 gr.</p>
                 <p>Leipziger Ostermesse 1790.</p>
                 <p>Georg Joachim Göschen.<anchor xml:id="quz_I-421_end"/></p>
@@ -305,10 +275,8 @@
                 <head type="editorial">Lips an Göschen (DBM):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-429_end" xml:id="quz_I-429"/>Nun muß
                     ich Sie noch fragen, wie ich mich wegen den <rs>Octav Plättchen vom D.
-                        Faust</rs><anchor xml:id="N22"/><ref target="#F22"><hi rend="sup"
-                        >5</hi></ref> und der Vignette der Psiche des 6ten Bands zu verhalten habe,
-                    ob ich mich an Göthe halten muß, und es mit ihm abzumachen habe?<anchor
-                        xml:id="quz_I-429_end"/></p>
+                        Faust</rs><anchor xml:id="N22"/><ref target="#F22"><hi rend="sup">5</hi></ref> und der Vignette der Psiche des 6ten Bands zu verhalten habe,
+                    ob ich mich an Göthe halten muß, und es mit ihm abzumachen habe?<anchor xml:id="quz_I-429_end"/></p>
             </div>
             <pb n="331" facs="quz_1_0331.jpg"/>
             <div type="letter">
@@ -322,17 +290,13 @@
                     f):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-739_end" xml:id="quz_I-739"/>Wenn H.
                     v. Göthe wieder in Weimar ist, werde ich wohl das nähere erfahren; auch werde
-                    ich von Berlin aus an ihn schreiben<anchor xml:id="N23"/><ref target="#F23"><hi
-                            rend="sup">3</hi></ref>, u. wenn Sie nicht wollen, <rs>des Fausts</rs>
+                    ich von Berlin aus an ihn schreiben<anchor xml:id="N23"/><ref target="#F23"><hi rend="sup">3</hi></ref>, u. wenn Sie nicht wollen, <rs>des Fausts</rs>
                     gar nicht erwähnen. Ist u. kann mir mein so sehr verehrter Göthe darum abtrünnig
-                    werden, weil ein anderer Buchhändler ihn 4 Wochen bewirthet hat<anchor
-                        xml:id="N24"/><ref target="#F24"><hi rend="sup">4</hi></ref>, nun so sage
+                    werden, weil ein anderer Buchhändler ihn 4 Wochen bewirthet hat<anchor xml:id="N24"/><ref target="#F24"><hi rend="sup">4</hi></ref>, nun so sage
                     ich weiter nichts dazu. Nur glaube ich, dass dies ein jeder andere, der auch
                     kein Buchhändler gewesen wäre, mit Freuden u. ohne alles weitere Interesse
                     gethan haben würde, wenn so ein lieber grosser Mann hätte bei ihm einkehren
-                    wollen. Genug hiervon; ich warte die Sache geduldig ab<anchor xml:id="N25"/><ref
-                        target="#F25"><hi rend="sup">5</hi></ref>.<anchor xml:id="quz_I-739_end"
-                    /></p>
+                    wollen. Genug hiervon; ich warte die Sache geduldig ab<anchor xml:id="N25"/><ref target="#F25"><hi rend="sup">5</hi></ref>.<anchor xml:id="quz_I-739_end"/></p>
             </div>
             <pb n="340" facs="quz_1_0340.jpg"/>
             <div type="letter">
@@ -344,9 +308,7 @@
                 </head>
                 <head type="editorial">Berlin, Unger an Goethe (Biedermann 105):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-762_end" xml:id="quz_I-762"/>Für Ew.
-                    Excellenz Gewogenheit, mir bald einen Theil <rs>Manuscript zum 7<hi rend="sup"
-                            >ten</hi> Bande Ihrer neuen Schriften</rs> übersenden zu wollen<anchor
-                        xml:id="N26"/><ref target="#F26"><hi rend="sup">3</hi></ref>, sage ich Ihnen
+                    Excellenz Gewogenheit, mir bald einen Theil <rs>Manuscript zum 7<hi rend="sup">ten</hi> Bande Ihrer neuen Schriften</rs> übersenden zu wollen<anchor xml:id="N26"/><ref target="#F26"><hi rend="sup">3</hi></ref>, sage ich Ihnen
                     den gehorsamsten, innigsten Dank, nicht allein in meinem, sondern im Namen des
                     ganzen gebildeten Publikums, das gewiß mit großer Begierde diesem neuen Theil
                     entgegen sieht. Je eher ich daher Manuscript dazu erhalte, desto mehr Sorgfalt
@@ -357,17 +319,13 @@
                     umdrucken und in der Auflage ausschneiden zu lassen.</p>
                 <p>Erlauben Sie mir noch einen schon lange gehegten Wunsch vorzutragen. —</p>
                 <p>Sie äußerten vor einiger Zeit, daß Sie vielleicht etwas ausführen würden, welches
-                    besonders gedruckt und mit Kupfern von guten Meistern <pb n="341"
-                        facs="quz_1_0341.jpg"/>herausgegeben werden könnte<anchor xml:id="N27"/><ref
-                        target="#F27"><hi rend="sup">1</hi></ref>. Ich wünschte wohl, etwas zu
+                    besonders gedruckt und mit Kupfern von guten Meistern <pb n="341" facs="quz_1_0341.jpg"/>herausgegeben werden könnte<anchor xml:id="N27"/><ref target="#F27"><hi rend="sup">1</hi></ref>. Ich wünschte wohl, etwas zu
                     drukken, worauf ich die größte Sorgfalt u. Pracht aufwenden könnte, und wünschte
                     nichts sehnlicher, als einen Text von <hi rend="letter-spaced">Ihnen</hi> dazu
                     zu erhalten. Dieser allein nur könnte mir zur größten Anstrengung meiner Kunst
                     antreiben, und ich würde mich sehr glücklich schätzen, wenn Sie mir dazu Hofnung
-                    gäben. Nach einiger Zeit würde vielleicht dies besonders gedruckte Werk den 8<hi
-                        rend="sup">ten</hi> Band ausmachen, oder als 8<hi rend="sup">ter</hi> Band
-                    zugleich neben der Prachtausgabe erscheinen können<anchor xml:id="quz_I-762_end"
-                        /><anchor xml:id="N28"/><ref target="#F28"><hi rend="sup">2</hi></ref>?</p>
+                    gäben. Nach einiger Zeit würde vielleicht dies besonders gedruckte Werk den 8<hi rend="sup">ten</hi> Band ausmachen, oder als 8<hi rend="sup">ter</hi> Band
+                    zugleich neben der Prachtausgabe erscheinen können<anchor xml:id="quz_I-762_end"/><anchor xml:id="N28"/><ref target="#F28"><hi rend="sup">2</hi></ref>?</p>
             </div>
             <pb n="343" facs="quz_1_0343.jpg"/>
             <div type="letter">
@@ -381,13 +339,11 @@
                     Holzschnitt, die ich zur <pb n="344" facs="quz_1_0344.jpg"/>Stempelung meiner
                     Kalender für die Zukunft brauchen will. Ihre gütige Nachsicht bei meinen
                     Arbeiten macht mich so dreist, Ihnen auch eine so große Kleinigkeit zu
-                    übersenden. — Die neuern Holzschneider in England<anchor xml:id="N29"/><ref
-                        target="#F29"><hi rend="sup">1</hi></ref> haben in mir große Lust erregt,
+                    übersenden. — Die neuern Holzschneider in England<anchor xml:id="N29"/><ref target="#F29"><hi rend="sup">1</hi></ref> haben in mir große Lust erregt,
                     ein Gedicht in groß 8- oder Quart prächtig zu drukken, und solches mit 6 oder 8
                     großen Holzschnitten zu versehen. Ach, wenn Sie doch dieser große Dichter wären,
                     der hierzu geneigt wäre! — Sie erwähnten vor einiger Zeit daß Sie den <rs>Faust
-                        herausgeben würden</rs><anchor xml:id="N30"/><ref target="#F30"><hi
-                            rend="sup">2</hi></ref>. Schickt sich mein vorzuhabendes Unternehmen
+                        herausgeben würden</rs><anchor xml:id="N30"/><ref target="#F30"><hi rend="sup">2</hi></ref>. Schickt sich mein vorzuhabendes Unternehmen
                     dazu? Und wäre es nicht zu große Vermessenheit von mir, daß meine Arbeiten neben
                     den Ihrigen stünden. Allein da Sie schon öfter das Schicksal hatten, daß Ihre
                     Schriften mit sehr mittelmäßigen Verzierungen vermischt wurden, so wäre dies
@@ -402,8 +358,7 @@
                 <p>Ich glaubte oder hoffte, schon ein Theil Mspt. zum 7<hi rend="sup">ten</hi> Bande
                     vor meiner Abreise zu erhalten; meine Sehnsucht ist aber nicht gestillt worden;
                     nur durch Herrn Zelter erfuhr ich zu meiner größten Freude Ihr gütiges Andenken
-                    an mich<anchor xml:id="quz_I-775_end"/><anchor xml:id="N31"/><ref target="#F31"
-                            ><hi rend="sup">3</hi></ref>.</p>
+                    an mich<anchor xml:id="quz_I-775_end"/><anchor xml:id="N31"/><ref target="#F31"><hi rend="sup">3</hi></ref>.</p>
             </div>
             <pb n="369" facs="quz_1_0369.jpg"/>
             <div type="letter">
@@ -417,8 +372,7 @@
                 <p><milestone unit="testimony" spanTo="#quz_I-825_end" xml:id="quz_I-825"/>Ganz
                     beruhiget würde ich daher seyn wenn Sie den Hrn. Geh. Rat bestimmen könnten, daß
                     er mir zugleich die <rs>Zusicherung für seine künftigen Produkte gäbe, z. B. Faust</rs>
-                        pp<anchor xml:id="N32"/><ref target="#F32"><hi rend="sup"
-                        >1</hi></ref>.<anchor xml:id="quz_I-825_end"/></p>
+                        pp<anchor xml:id="N32"/><ref target="#F32"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_I-825_end"/></p>
             </div>
             <pb n="371" facs="quz_1_0371.jpg"/>
             <div type="letter">
@@ -432,8 +386,7 @@
                 <head type="editorial">(NFG/GSA, Goethe-Akten 299, 71):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-830_end" xml:id="quz_I-830"/>Einige
                     Ihrer Stuttgarter Verehrer glauben die <rs>Erscheinung des „Faust’s“</rs> nahe —
-                    dürfte ich mir schmeicheln, daß Sie mich auch mit diesem Verlag beehrten?<anchor
-                        xml:id="quz_I-830_end"/></p>
+                    dürfte ich mir schmeicheln, daß Sie mich auch mit diesem Verlag beehrten?<anchor xml:id="quz_I-830_end"/></p>
             </div>
             <pb n="374" facs="quz_1_0374.jpg"/>
             <div type="letter">
@@ -445,8 +398,7 @@
                 </head>
                 <head type="editorial">Tübingen, Cotta an Goethe (NFG/GSA, Goethe egg Br 257
                     I):</head>
-                <p><milestone unit="testimony" spanTo="#quz_I-837_end" xml:id="quz_I-837"
-                    />Wahrscheinlich haben Euer Excellenz während des Winters den <rs>Faust seiner
+                <p><milestone unit="testimony" spanTo="#quz_I-837_end" xml:id="quz_I-837"/>Wahrscheinlich haben Euer Excellenz während des Winters den <rs>Faust seiner
                         Vollendung nahe gebracht</rs>; die Gnade, welche mir Hochdieselbe stets
                     bezeugen, entschuldigt gewis auch den Wunsch, dieses seltene Produkt verlegen zu
                     dürfen, und die unterthänige Bitte diesen Wunsch gnädig zu realisiren. Ohne
@@ -474,8 +426,7 @@
                 <p><milestone unit="testimony" spanTo="#quz_I-838_end" xml:id="quz_I-838"/>In meinem
                         leztern<anchor xml:id="N33"/><ref target="#F33"><hi rend="sup">3</hi></ref>
                     habe ich schendlich vergessen, Ihnen, schäzbarster Freund, mein <rs>Anerbieten
-                        an Goethe</rs><anchor xml:id="N34"/><ref target="#F34"><hi rend="sup"
-                        >4</hi></ref> zu mel<pb n="375" facs="quz_1_0374-0375.jpg"/>den, da mich die
+                        an Goethe</rs><anchor xml:id="N34"/><ref target="#F34"><hi rend="sup">4</hi></ref> zu mel<pb n="375" facs="quz_1_0374-0375.jpg"/>den, da mich die
                     Post ereilte.</p>
                 <p>Es sind fl 4000 die ich als Grundhonorar offerirt, mit dem Zusaz, daß ich über
                     die Grösse des Ganzen nicht urtheilen könne, und daß ich mir schmeichele, er
@@ -496,10 +447,8 @@
                 <head type="editorial">Tübingen, Cotta an Goethe</head>
                 <head type="editorial">(NFG/GSA, Goethe egg Br 31, 430):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-841_end" xml:id="quz_I-841"/>Werden zu
-                    Ihren beiden neusten Producten<anchor xml:id="N35"/><ref target="#F35"><hi
-                            rend="sup">1</hi></ref> keine Kupfer zu liefern seyn? zu <rs>Faust</rs>
-                    hatten Sie einmal bestimmt<anchor xml:id="N36"/><ref target="#F36"><hi
-                            rend="sup">2</hi></ref>, und da möchte ich freilich wünschen, daß die
+                    Ihren beiden neusten Producten<anchor xml:id="N35"/><ref target="#F35"><hi rend="sup">1</hi></ref> keine Kupfer zu liefern seyn? zu <rs>Faust</rs>
+                    hatten Sie einmal bestimmt<anchor xml:id="N36"/><ref target="#F36"><hi rend="sup">2</hi></ref>, und da möchte ich freilich wünschen, daß die
                     Zeichnungen bald in geschäzte Hände zum Stechen kommen könten, weil die guten
                     Kupferstecher nur langsam arbeiten.<anchor xml:id="quz_I-841_end"/></p>
             </div>
@@ -515,8 +464,7 @@
                 <p><milestone unit="testimony" spanTo="#quz_I-842_end" xml:id="quz_I-842"/>Mit
                         <rs>Faust</rs> hoffe ich werden Hochdieselbe bald so weit seyn, daß man für
                     den Druk des ersten Theils sorgen könte: würden Sie daher nicht erlauben, daß
-                    eine vorläufige Anzeige davon bekant gemacht werden dürfte?<anchor
-                        xml:id="quz_I-842_end"/></p>
+                    eine vorläufige Anzeige davon bekant gemacht werden dürfte?<anchor xml:id="quz_I-842_end"/></p>
             </div>
             <pb n="377" facs="quz_1_0377.jpg"/>
             <div type="text">
@@ -528,14 +476,11 @@
                 </head>
                 <head type="editorial">Goethes Entwurf für ein Angebot an Cotta über eine neue
                     Gesamtausgabe, mit Stellungnahme Schillers (NFG/GSA, Goethe-Akten 302,
-                        2—3)<anchor xml:id="N37"/><ref target="#F37"><hi rend="sup"
-                    >2</hi></ref>:</head>
-                <p><milestone unit="testimony" spanTo="#quz_I-845_end" xml:id="quz_I-845"
-                    />Unterzeichneter hat die Absicht seine Schrifften neu heraus zu geben und zwar
+                        2—3)<anchor xml:id="N37"/><ref target="#F37"><hi rend="sup">2</hi></ref>:</head>
+                <p><milestone unit="testimony" spanTo="#quz_I-845_end" xml:id="quz_I-845"/>Unterzeichneter hat die Absicht seine Schrifften neu heraus zu geben und zwar
                     sollte von keiner vollendeten Prachtausgabe, vielmehr von einer sauberen, und
                     Geschmackvollen Handausgabe, mit deutschen Lettern, die Rede seyn.</p>
-                <p>Enthalten würde dieselbe alles was von meinen ästhetischen <pb n="378"
-                        facs="quz_1_0378.jpg"/>Arbeiten einige Dauer verdient, worunter sich auch
+                <p>Enthalten würde dieselbe alles was von meinen ästhetischen <pb n="378" facs="quz_1_0378.jpg"/>Arbeiten einige Dauer verdient, worunter sich auch
                     einiges ungedruckte befindet.</p>
                 <p>Zu vertheilen wären in sechszehen, oder wenn man will in zwölf Bände folgende
                     Werke:</p>
@@ -565,11 +510,9 @@
                 <p>Was wir bringen</p>
                 <p>Der Bürgergeneral</p>
                 <p>Scherz List und Rache.</p>
-                <p>Zauberflöte<anchor xml:id="N39"/><ref target="#F39"><hi rend="sup"
-                    >2</hi></ref>.</p>
+                <p>Zauberflöte<anchor xml:id="N39"/><ref target="#F39"><hi rend="sup">2</hi></ref>.</p>
                 <p>—</p>
-                <p>Puppenspiel<anchor xml:id="N40"/><ref target="#F40"><hi rend="sup"
-                    >3</hi></ref></p>
+                <p>Puppenspiel<anchor xml:id="N40"/><ref target="#F40"><hi rend="sup">3</hi></ref></p>
                 <pb n="379" facs="quz_1_0379.jpg"/>
                 <p><rs>Faust</rs>.</p>
                 <p>—</p>
@@ -609,8 +552,7 @@
                     getheilt und innerhalb dreyer <pb n="380" facs="quz_1_0380.jpg"/>Messen
                     geliefert.</p>
                 <p>Jedes Drittheil, mag es nun aus 4 oder 5 Bänden bestehen, kostete den Käufer 9
-                    rth und folglich netto 6 rth<anchor xml:id="N43"/><ref target="#F43"><hi
-                            rend="sup">1</hi></ref>. Für dieße 9 rth erhält der Käufer entweder 4
+                    rth und folglich netto 6 rth<anchor xml:id="N43"/><ref target="#F43"><hi rend="sup">1</hi></ref>. Für dieße 9 rth erhält der Käufer entweder 4
                     Bände zu 32—36 Bogen oder 5 Bände zu 25—30 Bogen, wobei also die Stärke der
                     Bände weder im Kaufpreiß noch im Contract mit dem Autor einen Unterschied
                     macht.</p>
@@ -628,8 +570,7 @@
                     des Verlegers begünstigt; wofür aber der leztere die Hofnung eines stärkeren
                     Absatzes haben würde.</p>
                 <p>Ich bemerke daß das Honorar welches ich vorschlage das doppelte von demjenigen
-                    ist, welches Wieland für seine Werke erhalten.<anchor xml:id="quz_I-845_end"
-                    /></p>
+                    ist, welches Wieland für seine Werke erhalten.<anchor xml:id="quz_I-845_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -640,14 +581,11 @@
                 </head>
                 <head type="editorial">H. Voß an Solger (ALG 11, 113 f):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-846_end" xml:id="quz_I-846"/>Göthe ist
-                    jetzt mit der neuen Ausgabe seiner gesamten Werke beschäftigt<anchor
-                        xml:id="N44"/><ref target="#F44"><hi rend="sup">2</hi></ref> . . . wir haben
+                    jetzt mit der neuen Ausgabe seiner gesamten Werke beschäftigt<anchor xml:id="N44"/><ref target="#F44"><hi rend="sup">2</hi></ref> . . . wir haben
                     bei dieser Gelegenheit Hoffnung, daß <rs>der ganze Faust</rs> erscheint, Göthe
                     wird ihn <pb n="381" facs="quz_1_0381.jpg"/>jetzt schwerlich als Fragment
-                    drucken lassen<anchor xml:id="N45"/><ref target="#F45"><hi rend="sup"
-                        >1</hi></ref>, besonders da er so manchmal die Empfindung im Herzen nährt,
-                    daß man jetzt eilen müsse, bevor die ewige Nacht eintritt.<anchor
-                        xml:id="quz_I-846_end"/></p>
+                    drucken lassen<anchor xml:id="N45"/><ref target="#F45"><hi rend="sup">1</hi></ref>, besonders da er so manchmal die Empfindung im Herzen nährt,
+                    daß man jetzt eilen müsse, bevor die ewige Nacht eintritt.<anchor xml:id="quz_I-846_end"/></p>
             </div>
             <pb n="385" facs="quz_1_0385.jpg"/>
             <div type="text">
@@ -658,10 +596,8 @@
                     <num type="quz_1">858</num>
                 </head>
                 <head type="editorial">Goethe an Cotta</head>
-                <head type="editorial">(NFG/GSA, Goethe-Akten 302, 4; vgl Br 19, 13—15)<anchor
-                        xml:id="N46"/><ref target="#F46"><hi rend="sup">1</hi></ref>:</head>
-                <p><milestone unit="testimony" spanTo="#quz_I-858_end" xml:id="quz_I-858"
-                    />Unterzeichneter hat die Absicht, seine Schriften neu herauszugeben, und zwar
+                <head type="editorial">(NFG/GSA, Goethe-Akten 302, 4; vgl Br 19, 13—15)<anchor xml:id="N46"/><ref target="#F46"><hi rend="sup">1</hi></ref>:</head>
+                <p><milestone unit="testimony" spanTo="#quz_I-858_end" xml:id="quz_I-858"/>Unterzeichneter hat die Absicht, seine Schriften neu herauszugeben, und zwar
                     sollte von keiner vollendeten Prachtausgabe, vielmehr von einer saubern und
                         <rs>geschmackvollen Handausgabe</rs> mit deutschen Lettern die Rede seyn.
                     Enthalten würde dieselbe alles, was von meinen ästhetischen Arbeiten einige
@@ -876,8 +812,7 @@
                     </row>
                     <row>
                         <cell/>
-                        <cell>Andre analoge Gedichte, ältere und <hi rend="letter-spaced"
-                                >neuere.</hi></cell>
+                        <cell>Andre analoge Gedichte, ältere und <hi rend="letter-spaced">neuere.</hi></cell>
                         <cell/>
                     </row>
                     <row>
@@ -893,8 +828,7 @@
                 </table>
                 <p>Wie die Lieferungen einzutheilen und was sonst noch weiter zu verabreden wäre,
                     ist fernerer Ueberlegung anheimgegeben.</p>
-                <p>Das neue ist roth unterstrichen<anchor xml:id="N47"/><ref target="#F47"><hi
-                            rend="sup">1</hi></ref>.<anchor xml:id="quz_I-858_end"/></p>
+                <p>Das neue ist roth unterstrichen<anchor xml:id="N47"/><ref target="#F47"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_I-858_end"/></p>
             </div>
             <pb n="395" facs="quz_1_0395.jpg"/>
             <div type="article">
@@ -905,8 +839,7 @@
                     <num type="quz_1">869</num>
                 </head>
                 <head type="editorial">Verlagsanzeige Cottas</head>
-                <head type="editorial">(JALZ Intelligenzbl Nr 111 vom 2. 10. 1805 Sp 933)<anchor
-                        xml:id="N48"/><ref target="#F48"><hi rend="sup">3</hi></ref>:</head>
+                <head type="editorial">(JALZ Intelligenzbl Nr 111 vom 2. 10. 1805 Sp 933)<anchor xml:id="N48"/><ref target="#F48"><hi rend="sup">3</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-869_end" xml:id="quz_I-869"/>Hr.
                     Geheimer Rath v. Goethe wird seine sämmtlichen Wercke in zwölf Bänden, welche in
                     drey Lieferungen erscheinen sollen, in unserem Verlage herausgeben. Die erste
@@ -945,8 +878,7 @@
                 <head type="editorial">Tübingen, Cotta an Goethe</head>
                 <head type="editorial">(NFG/GSA, Goethe-Akten 302, 15; 20):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-876_end" xml:id="quz_I-876"/>In der
-                    Anlage eine Probe, blos in Hinsicht auf Format, Schrift u. Einrichtung<anchor
-                        xml:id="N49"/><ref target="#F49"><hi rend="sup">6</hi></ref>. Hat diese
+                    Anlage eine Probe, blos in Hinsicht auf Format, Schrift u. Einrichtung<anchor xml:id="N49"/><ref target="#F49"><hi rend="sup">6</hi></ref>. Hat diese
                     Hochdero Beifall, so <pb n="402" facs="quz_1_0402.jpg"/>lasse ich die Schrift
                     ganz neu giessen. Wir kommen demunerachtet noch zu gehöriger Zeit mit der ersten
                     Lieferung und solte diese auch nicht zur Ostermesse pünktlich erscheinen können,
@@ -954,9 +886,7 @@
                     der Zalungstermin bleibt für mich doch der nämliche.</p>
                 <p>Wegen der <rs>Holzschnitte zu Faust</rs> wünschte ich bald möglich die
                     Zeichnungen — denn ich werde das Stechen selbst doch in Berlin von Gubitz müssen
-                    ausführen lassen und dieser Künstler will Zeit haben<anchor xml:id="N50"/><ref
-                        target="#F50"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_I-876_end"
-                    /></p>
+                    ausführen lassen und dieser Künstler will Zeit haben<anchor xml:id="N50"/><ref target="#F50"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_I-876_end"/></p>
             </div>
             <pb n="437" facs="quz_1_0437.jpg"/>
             <div type="letter">
@@ -987,8 +917,7 @@
                 <head type="editorial">(NFG/GSA, Goethe-Akten 302, 44):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-1019_end" xml:id="quz_I-1019"/>Das
                     Teufelskind, <rs>Faust</rs>, möchte ich wol durch einen genialischen Künstler
-                    mit einigen Kunstformen verzieren lassen<anchor xml:id="N51"/><ref target="#F51"
-                            ><hi rend="sup">1</hi></ref>. Es ist etwas Göttliches, was Sie der Welt
+                    mit einigen Kunstformen verzieren lassen<anchor xml:id="N51"/><ref target="#F51"><hi rend="sup">1</hi></ref>. Es ist etwas Göttliches, was Sie der Welt
                     damit schenken. Ich war bei dem Lesen in allen meinen geistigen u. physischen
                     Berührungen erschüttert.</p>
                 <p>Der Absaz der Werke geht so gut, daß wir uns nicht an die stipulirte
@@ -1006,14 +935,11 @@
                 </head>
                 <head type="editorial">Tübingen, Cotta an Goethe</head>
                 <head type="editorial">(NFG/GSA, Goethe-Akten 302, 50—51):</head>
-                <p><milestone unit="testimony" spanTo="#quz_I-1023_end" xml:id="quz_I-1023"
-                        /><rs>Faust</rs> lasse ich also ohne Kupfer — für dießmal wäre es ohnedieß
+                <p><milestone unit="testimony" spanTo="#quz_I-1023_end" xml:id="quz_I-1023"/><rs>Faust</rs> lasse ich also ohne Kupfer — für dießmal wäre es ohnedieß
                     zu spät — denn heute sind alle 8 Theile ausgesezt, um in etlichen Tagen die
-                    Meßreise anzutretten. Es ist eine grosse <pb n="440" facs="quz_1_0440.jpg"
-                    />Arbeit, die ich dießmal zu Tag förderte . . . Das Weitre meiner
+                    Meßreise anzutretten. Es ist eine grosse <pb n="440" facs="quz_1_0440.jpg"/>Arbeit, die ich dießmal zu Tag förderte . . . Das Weitre meiner
                     Verbindlichkeiten das ich in meinem lezten berührt, findet sich seiner
-                        Zeit<anchor xml:id="N53"/><ref target="#F53"><hi rend="sup"
-                        >1</hi></ref>.<anchor xml:id="quz_I-1023_end"/></p>
+                        Zeit<anchor xml:id="N53"/><ref target="#F53"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_I-1023_end"/></p>
             </div>
             <pb n="442" facs="quz_1_0442.jpg"/>
             <div type="article">
@@ -1023,18 +949,15 @@
                 <head type="editorial">
                     <num type="quz_1">1030</num>
                 </head>
-                <head type="editorial">Verlagsanzeige Cottas (MgSt 1808, Intelligenzbl Nr 12,46)<hi
-                        rend="sup">1</hi>:</head>
+                <head type="editorial">Verlagsanzeige Cottas (MgSt 1808, Intelligenzbl Nr 12,46)<hi rend="sup">1</hi>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-1030_end" xml:id="quz_I-1030"/>In der
                     J. G. Cotta’schen Buchhandlung in Tübingen sind zur Ostermesse 1808 erschienen:
                     . . .</p>
-                <p><hi rend="letter-spaced">Goethe’s</hi> Werke 2<hi rend="sup">te</hi>, 3<hi
-                        rend="sup">te</hi> Lieferung in 8 Bänden.</p>
+                <p><hi rend="letter-spaced">Goethe’s</hi> Werke 2<hi rend="sup">te</hi>, 3<hi rend="sup">te</hi> Lieferung in 8 Bänden.</p>
                 <p>Velinp. 40 fl. Schw[eizer] Pap. 33 fl. Schr[eib]Pap. 27 fl.</p>
                 <p>Weiß D[ruc]kp. 22 fl. Ord[inaires] Dkp. 16 fl. 30 kr.</p>
                 <p>Neuigkeiten:</p>
-                <p>. . . <rs>Goethe, Faust, brosch[iert] 2 fl. 24 kr.</rs><anchor
-                        xml:id="quz_I-1030_end"/></p>
+                <p>. . . <rs>Goethe, Faust, brosch[iert] 2 fl. 24 kr.</rs><anchor xml:id="quz_I-1030_end"/></p>
             </div>
             <pb n="443" facs="quz_1_0443.jpg"/>
             <div type="article">
@@ -1045,12 +968,10 @@
                     <num type="quz_1">1036</num>
                 </head>
                 <head type="editorial">Verlagsanzeige Cottas (MgSt 1808, Intelligenzbl Nr 21, 81
-                        f)<anchor xml:id="N54"/><ref target="#F54"><hi rend="sup"
-                    >3</hi></ref>:</head>
+                        f)<anchor xml:id="N54"/><ref target="#F54"><hi rend="sup">3</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-1036_end" xml:id="quz_I-1036"/>Im
                     Verlag der J. G. <hi rend="letter-spaced">Cotta</hi>’schen Buchhandlung in
-                    Tübingen sind von Michaelis 1807 bis 1808 erschienen: . . . <rs>von <hi
-                            rend="letter-spaced">Goethe’s Faust,</hi> eine Tragödie, geb[unden] 1
+                    Tübingen sind von Michaelis 1807 bis 1808 erschienen: . . . <rs>von <hi rend="letter-spaced">Goethe’s Faust,</hi> eine Tragödie, geb[unden] 1
                         Rthlr. 8 Gr. 2 fl. 24 kr.</rs></p>
                 <p>Von <hi rend="letter-spaced">Goethe’s</hi> Werke, 2te 3te Lief[erung] oder 5r bis
                     12r Bd. gr. 8.</p>
@@ -1058,8 +979,7 @@
                     <row>
                         <cell>Velinpapier</cell>
                         <cell>23 Rthlr.</cell>
-                        <cell>45 fl.<anchor xml:id="N55"/><ref target="#F55"><hi rend="sup"
-                                >4</hi></ref></cell>
+                        <cell>45 fl.<anchor xml:id="N55"/><ref target="#F55"><hi rend="sup">4</hi></ref></cell>
                     </row>
                     <row>
                         <cell>Schweizer Pap.</cell>
@@ -1107,8 +1027,7 @@
                     <hi rend="letter-spaced">Nota</hi>
                 </p>
                 <p>12 Werke 12 Bände weis Drukpp</p>
-                <p><rs>12 Faust gebunden</rs><anchor xml:id="N56"/><ref target="#F56"><hi rend="sup"
-                            >3</hi></ref>.<anchor xml:id="quz_I-1046_end"/></p>
+                <p><rs>12 Faust gebunden</rs><anchor xml:id="N56"/><ref target="#F56"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_I-1046_end"/></p>
             </div>
             <pb n="523" facs="quz_1_0523.jpg"/>
             <div type="letter">
@@ -1123,8 +1042,7 @@
                 <p><milestone unit="testimony" spanTo="#quz_I-1251_end" xml:id="quz_I-1251"/>Das
                     unterm 8 Jan. abgegangne Paket ist mit dem 6<hi rend="sup">ten</hi> Band der
                     Werke und einiges für den DamenCalender richtig eingegangen und mein dieß
-                    anzeigendes Schreiben<anchor xml:id="N57"/><ref target="#F57"><hi rend="sup"
-                            >1</hi></ref> scheint Hochdenselben nicht zugekommen zu seyn
+                    anzeigendes Schreiben<anchor xml:id="N57"/><ref target="#F57"><hi rend="sup">1</hi></ref> scheint Hochdenselben nicht zugekommen zu seyn
                         . . .<anchor xml:id="N58"/><ref target="#F58"><hi rend="sup">2</hi></ref>Daß
                     die absurde Fordrung an die neue Ausgabe in keinem der von mir abhangenden
                     Blättern erscheine ist schon besorgt: es wird aber sehr gut seyn, wenn
@@ -1137,10 +1055,8 @@
                     Teutschland keine durchgreifende Maasregel bewirken können, denn bis wir die
                     Zusage auf dem Bundestag ausgeführt erhalten, mag den Schriftstellern und
                     Verlegern noch mancher bedeutender Schaden zugefügt werden.</p>
-                <p>Wäre es nicht möglich, den <rs>Band, worinnen Faust vorkommt, also den 9<hi
-                            rend="sup">ten</hi></rs> vor den andern zum Druk zu erhalten damit wir
-                    auch hiebei der Gefahr einigermassen steuern.<anchor xml:id="quz_I-1251_end"
-                    /></p>
+                <p>Wäre es nicht möglich, den <rs>Band, worinnen Faust vorkommt, also den 9<hi rend="sup">ten</hi></rs> vor den andern zum Druk zu erhalten damit wir
+                    auch hiebei der Gefahr einigermassen steuern.<anchor xml:id="quz_I-1251_end"/></p>
             </div>
             <pb n="542" facs="quz_1_0542.jpg"/>
             <div type="article">
@@ -1151,8 +1067,7 @@
                     <num type="quz_1">1313</num>
                 </head>
                 <head type="editorial">Verlagsanzeige Cottas (MgSt 1817, Intelligenzbl Nr 3,
-                        10)<anchor xml:id="N59"/><ref target="#F59"><hi rend="sup"
-                    >2</hi></ref>:</head>
+                        10)<anchor xml:id="N59"/><ref target="#F59"><hi rend="sup">2</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-1313_end" xml:id="quz_I-1313"/>Im
                     Laufe des Jahrs 1816 sind in der J. G. Cotta’schen Buchhandlung in Stuttgart und
                     Tübingen erschienen: . . . Goethe von, Faust, eine Tragödie. 12. geb[un]d[en].
@@ -1160,8 +1075,7 @@
                 <p>Gedichte, 2 Thle. Neue Aufl. 12. 3 fl. . . .</p>
                 <p>Werke, Neue Aufl. 1te, 2te Lief[erung] oder 1r bis 8r Thl. 20 Thle. Velinp[apie]r
                     Subscriptions-Preis 66 fl.</p>
-                <p>Schreibpr. 52 fl. Weiß Drukpr. 40 fl. Ordin[air] 30 fl.<anchor
-                        xml:id="quz_I-1313_end"/></p>
+                <p>Schreibpr. 52 fl. Weiß Drukpr. 40 fl. Ordin[air] 30 fl.<anchor xml:id="quz_I-1313_end"/></p>
             </div>
             <pb n="580" facs="quz_1_0580.jpg"/>
             <div type="letter">
@@ -1173,21 +1087,17 @@
                 </head>
                 <head type="editorial">Stuttgart, Reichel an Cotta (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_I-1444_end" xml:id="quz_I-1444"/>In der
-                    ersten Hälfte von 1816 <rs>druckten wir 1500</rs><anchor xml:id="N60"/><ref
-                        target="#F60"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_I-1444_end"
-                    /></p>
+                    ersten Hälfte von 1816 <rs>druckten wir 1500</rs><anchor xml:id="N60"/><ref target="#F60"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_I-1444_end"/></p>
             </div>
             <pb n="588" facs="quz_1_0588.jpg"/>
             <div type="note">
                 <head type="editorial">
                     <num type="quz_1">1459</num>
                 </head>
-                <head type="editorial">1. Notizen und Berechnungen, die Ausgabe A betr. (SNM/CA, <pb
-                        n="589" facs="quz_1_0589.jpg"/>Druckauftragsbuch für den Zeitraum von
+                <head type="editorial">1. Notizen und Berechnungen, die Ausgabe A betr. (SNM/CA, <pb n="589" facs="quz_1_0589.jpg"/>Druckauftragsbuch für den Zeitraum von
                     1800—1810, Bl 10 Vs):</head>
                 <table>
-                    <head rend="right"><milestone unit="testimony" spanTo="#quz_I-1459_end"
-                            xml:id="quz_I-1459"/>Notiz am rechten Rand:</head>
+                    <head rend="right"><milestone unit="testimony" spanTo="#quz_I-1459_end" xml:id="quz_I-1459"/>Notiz am rechten Rand:</head>
                     <row>
                         <cell/>
                         <cell/>

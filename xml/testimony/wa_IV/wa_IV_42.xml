@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,8 +27,7 @@
                <date when="1827-01-19"/>
             </head>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1454_end" xml:id="graef_1454"
-                  next="#graef_1454_b"/>Hier nun zum letztenmal, mein Bester, <rs>eine Abtheilung
+               <milestone unit="testimony" spanTo="#graef_1454_end" xml:id="graef_1454" next="#graef_1454_b"/>Hier nun zum letztenmal, mein Bester, <rs>eine Abtheilung
                   von Helena</rs>; Sie gelangen dadurch unmittelbar bis zu der Axe, auf der das
                ganze Stück dreht. Das <rs>vollständige Manuscript</rs> wird vor Ende des Monats
                abgesendet. Es ist auch hier das alte Autorwesen: man getraut sich nicht Amen zu
@@ -104,8 +99,7 @@
                abwarten: die große Genauigkeit Ihrer sämmtlichen Einrichtungen bürgt ja auf's
                vollständigste für alles.</p>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1458_end" xml:id="graef_1458"
-                  next="#graef_1458_b"/>Die zugesagten <rs>Exemplare Faust</rs> erwarte mit
+               <milestone unit="testimony" spanTo="#graef_1458_end" xml:id="graef_1458" next="#graef_1458_b"/>Die zugesagten <rs>Exemplare Faust</rs> erwarte mit
                Vergnügen; auf den Pariser Abdruck bin ich neugierig. Auch bereiten sie dort eine
                neue Ausgabe der französischen Übersetzung Stapfers, begleitet von lithographirten
                Blättern von de la Croix. Zwey Probedrücke liegen vor, die wild und geistreich genug
@@ -131,8 +125,7 @@
                in Verbindung mit Ihnen wirksam denken kann, so scheint mir kein Zweifel, daß wenn
                Sie bey Ihrem unbegränzten Einflusse auch dieses Unternehmen zunächst kräftig
                begünstigen, gewiß in der deutschen Literatur unsere Bemühungen immer mehr von
-               Bedeutung seyn werden. Wie ich darüber denke läßt sich nicht in wenig Worte <pb
-                  n="27"/> fassen und wünsche lieber solches wirksam an den Tag zu legen. Auf die
+               Bedeutung seyn werden. Wie ich darüber denke läßt sich nicht in wenig Worte <pb n="27"/> fassen und wünsche lieber solches wirksam an den Tag zu legen. Auf die
                ausländische Literatur muß man besonders jetzt hinweisen, da jene sich um uns zu
                bekümmern anfangen.</p>
             <p rend="indentchar-m4n0">
@@ -169,10 +162,8 @@
                <date when="1827-01-27"/>
             </head>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1460_end" xml:id="graef_1460"
-                  next="#graef_1460_b"/>Mit wenigem vermelde, daß <rs>Helena</rs> abgegangen ist,
-               unmittelbar an Herrn v. Cotta. Möge das Ganze Gnade finden vor Ihren Augen.<anchor
-                  xml:id="graef_1460_end"/>
+               <milestone unit="testimony" spanTo="#graef_1460_end" xml:id="graef_1460" next="#graef_1460_b"/>Mit wenigem vermelde, daß <rs>Helena</rs> abgegangen ist,
+               unmittelbar an Herrn v. Cotta. Möge das Ganze Gnade finden vor Ihren Augen.<anchor xml:id="graef_1460_end"/>
             </p>
             <p rend="indentchar-m4n0">
                <pb n="34"/> Auch habe ich einen Brief an unsern Freund geschrieben, ganz in reinem
@@ -186,8 +177,7 @@
             <p rend="indentchar-m4n0"> Hätte man vor fünfzig Jahren zu gleicher Zeit ein paar
                tausend Acker mit Eichen angepflanzt, man müßte jetzt in einem löblichen Schatten
                spazieren gehen. Ein paar dergleichen stehn in meinem Garten am Stern.</p>
-            <p rend="indentchar-m4n0"> Manches Andere zunächst. <milestone unit="testimony"
-                  spanTo="#graef_1460_end_b" xml:id="graef_1460_b"/>Die letzte Abtheilung der zahmen
+            <p rend="indentchar-m4n0"> Manches Andere zunächst. <milestone unit="testimony" spanTo="#graef_1460_end_b" xml:id="graef_1460_b"/>Die letzte Abtheilung der zahmen
                Xenien, die noch zum vierten Theil gehören, geht diese Woche ab. Sodann bereite ich
                die zweyte Sendung, die auch schon zum Einpacken fertig liegt. Es ist mir ein
                wunderbares Gefühl wie auch dieses Geschäft zuzurücken anfängt und wie man das vor
@@ -222,8 +212,7 @@
             <p rend="indentchar-m4n0"> Festgedichte, Inschriften, Denk- und Sendeblätter, nöthige
                Bemerkungen und Aufklärungen zu den Gelegenheitsgedichten, Dramatisches,
                   <rs>Helena</rs>, zahme Xenien zweyte Hälfte.</p>
-            <p rend="indentchar-m4n0"> Geneigter Aufmerksamkeit auch Vorstehendes empfehlend.<anchor
-                  xml:id="quz_II-964_end"/>
+            <p rend="indentchar-m4n0"> Geneigter Aufmerksamkeit auch Vorstehendes empfehlend.<anchor xml:id="quz_II-964_end"/>
             </p>
             <p rend="indentchar-m4n0"> Weimar den 16. Februar 1827.</p>
             <p rend="right">J. W. v. Goethe.</p>
@@ -238,15 +227,13 @@
                <date when="1827-02-17"/>
             </head>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1463_end" xml:id="graef_1463"
-                  next="#graef_1463_b"/>Seit Ihrem werthen Schreiben vom 28. December v. J., mein
+               <milestone unit="testimony" spanTo="#graef_1463_end" xml:id="graef_1463" next="#graef_1463_b"/>Seit Ihrem werthen Schreiben vom 28. December v. J., mein
                Werthester, ist manches von hier abgegangen, welchem glückliche Ankunft und Aufnahme
                zu wünschen habe.</p>
             <p rend="indentchar-m4n0">
                <pb n="63"/> 1) Am 19. Januar <rs>ein Abschnitt Helena</rs>, an Sie gerichtet.</p>
             <p rend="indentchar-m4n0"> 2) Den 26. Januar, <rs>vollständiges Manuscript der
-                  Helena</rs> an Herrn v. Cotta, durch die fahrende Post.<anchor
-                  xml:id="graef_1463_end"/>
+                  Helena</rs> an Herrn v. Cotta, durch die fahrende Post.<anchor xml:id="graef_1463_end"/>
             </p>
             <p rend="indentchar-m4n0"> 3) Den 27. ejusdem Schreiben an denselben.</p>
             <p rend="indentchar-m4n0"> 4) Am gleichen Datum ein Schreiben an Sie mit weiterer
@@ -255,9 +242,7 @@
             <p rend="indentchar-m4n0"> Nun geht ab mit der sonntägigen fahrenden Post, unmittelbar
                an Herrn v. Cotta, ein Paquet enthaltend die zahmen Xenien und also den Schluß des
                vierten Bandes mit einigen Bemerkungen, so daß ich nun zu der ersten Lieferung nichts
-               weiter schuldig bin; <milestone unit="testimony" spanTo="#graef_1463_end_b"
-                  xml:id="graef_1463_b"/>die zweyte liegt zum Einpacken bereit.<anchor
-                  xml:id="graef_1463_end_b"/> Und so möge denn alles rasch und frisch vorwärts
+               weiter schuldig bin; <milestone unit="testimony" spanTo="#graef_1463_end_b" xml:id="graef_1463_b"/>die zweyte liegt zum Einpacken bereit.<anchor xml:id="graef_1463_end_b"/> Und so möge denn alles rasch und frisch vorwärts
                gehen. Die Wanderjahre rücken auch zu und es ist wunderbar genug, wenn ich jetzt
                begreife, daß dieses Werklein nicht eher zu Stande kommen konnte. Das neue Stück
                Kunst und Alterthum wird auch vor Ostern ausgegeben werden können, worin Ihrer
@@ -339,14 +324,12 @@
             <lb/>
             <p rend="centered">[Beilage.]</p>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1468_end" xml:id="graef_1468"
-               />Einzuschalten wären in <rs>Helena</rs> einige Zeilen, und zwar die letzten Worte
+               <milestone unit="testimony" spanTo="#graef_1468_end" xml:id="graef_1468"/>Einzuschalten wären in <rs>Helena</rs> einige Zeilen, und zwar die letzten Worte
                derselben folgendermaßen abzudrucken:</p>
             <p rend="centered">Helena.</p>
             <lb/>
             <p> Ein altes Wort bewährt sich leider auch an mir:</p>
-            <p> Daß Glück und Schönheit dauerhaft sich nicht vereint.<anchor xml:id="graef_1468_end"
-               />
+            <p> Daß Glück und Schönheit dauerhaft sich nicht vereint.<anchor xml:id="graef_1468_end"/>
             </p>
             <p> Zerrissen ist des Lebens wie der Liebe Band,</p>
             <p> Bejammernd beide sage schmerzlich Lebewohl</p>
@@ -417,8 +400,7 @@
                Wollen und Vollbringen erst wieder am Tage, und begriff, wie junge Leute Vergnügen und
                Trost finden können, in wohlgestellter Rede zu vernehmen, daß andere sich auch schon
                einmal so gequält haben wie sie selbst jetzt gequält sind. Die Übersetzung ist
-               merkwürdig, das wenige Mißverstandene ist nach meiner Bemerkung abgeändert, der <pb
-                  n="104"/> Ausdruck kommt nach und nach immer besser in Fluß, die letzten Acte und
+               merkwürdig, das wenige Mißverstandene ist nach meiner Bemerkung abgeändert, der <pb n="104"/> Ausdruck kommt nach und nach immer besser in Fluß, die letzten Acte und
                die passionirten Stellen sind vorzüglich gut.</p>
             <p rend="indentchar-m4n0"> Nun ist auch, mein Theuerster, dein Brief vom 23. März
                angekommen und ich habe darauf wie immer zu erwidern, daß es eine Freude sey mit dir
@@ -436,8 +418,7 @@
             <p rend="indentchar-m4n0"> Thun wir das aber nicht bis auf den heutigen Tag? An
                Erfahrung fehlt es uns nicht, aber an der Gemüthsruhe, wodurch das Erfahrne ganz
                allein klar, wahr, dauerhaft und nützlich wird. Man sehe die Lehre von Licht und
-               Farbe, wie sie vor meinen sichtlichen Augen Professor Fries in Jena vorträgt; es <pb
-                  n="105"/> ist die Hererzählung von Übereilungen, deren man sich seit mehr als
+               Farbe, wie sie vor meinen sichtlichen Augen Professor Fries in Jena vorträgt; es <pb n="105"/> ist die Hererzählung von Übereilungen, deren man sich seit mehr als
                hundert Jahren im Erklären und Theoretisiren schuldig macht. Hierüber mag ich
                öffentlich nichts mehr sagen, aber schreiben will ich's; irgend ein wahrhafter Geist
                ergreift es doch einmal.</p>
@@ -453,8 +434,7 @@
                Transport bringt die <hi rend="italic">
                   <rs>Helena,</rs> </hi>welches funfzigjährige Gespenst endlich im Druck zu sehen mir einen eignen
                Eindruck machen wird. In vier bis fünf Wochen habt ihr das Ganze; manches wird neu
-               seyn, manches neu erscheinen, und das Alte hoffentlich nicht veraltet.<anchor
-                  xml:id="graef_1470_end"/>
+               seyn, manches neu erscheinen, und das Alte hoffentlich nicht veraltet.<anchor xml:id="graef_1470_end"/>
             </p>
             <p rend="indentchar-m4n0"> In meiner Vorrede zu Manzoni's Werken bey Frommanns findest
                du nur eigentlich das Bekannte aus Kunst und Alterthum. Doch hab ich bey Gelegenheit des Trauerspiels Adelchi und der darin verflochtenen
@@ -503,8 +483,7 @@
                mögen gefallen lassen; und da einmal das Einbringen der deutschen Literatur, das
                sonst so hoch verpönt war, in Frankreich kein Hinderniß findet, so mögen sie denn
                auch die guten und schlimmen Wirkungen unsrer Productionen, die wir selbst
-               durchgenossen und durchgelitten haben, hinterdrein nachgenießen und erdulden.<anchor
-                  xml:id="graef_1466_end"/>
+               durchgenossen und durchgelitten haben, hinterdrein nachgenießen und erdulden.<anchor xml:id="graef_1466_end"/>
             </p>
             <p rend="indentchar-m4n0"> So weit war ich als mein letztes Schreiben abging gelangt.
                Nun aber erscheint unverhofft und unerwartet die uns höchst willkommene Übersetzung
@@ -557,8 +536,7 @@
                Haben Sie nun die Gefälligkeit <rs>den 12. und 13. Bogen hiernach absetzen zu lassen</rs>.
                Sollten die beiden letzten Blätter H und J zu viel Materie enthalten, so lassen Sie
                solche weg, ich sende dagegen kleinere Dinge, die den noch übrigen Raum füllen. Auch
-               kommt der 11. Bogen revidirt zurück, mit einer kleinen Einschaltung S. 168.<anchor
-                  xml:id="quz_IV-1898_end"/>
+               kommt der 11. Bogen revidirt zurück, mit einer kleinen Einschaltung S. 168.<anchor xml:id="quz_IV-1898_end"/>
             </p>
             <p rend="indentchar-m4n0"> Ferner der Bogen b zu Manzoni. Ich erbitte mir einige
                Exemplare Aushängebogen, wenn es Ihnen genehm ist, zu Mittheilung an Freunde und
@@ -586,8 +564,7 @@
                macht mir am Schluß, bey der Entfernung des Druckorts, mehr als billig zu schaffen.
                   <milestone unit="testimony" spanTo="#graef_1471_end" xml:id="graef_1471"/>Ich
                wünsche sehnlichst, daß die <rs>fünf Bändchen</rs> Ihnen manches angenehme Neue
-               bringen und Sie das Bekannte an vergangene glückliche Zeiten erinnern möge.<anchor
-                  xml:id="graef_1471_end"/> In Hoffnung freyerer Augenblicke,</p>
+               bringen und Sie das Bekannte an vergangene glückliche Zeiten erinnern möge.<anchor xml:id="graef_1471_end"/> In Hoffnung freyerer Augenblicke,</p>
             <p rend="centered">verehrend, vertrauend, treulichst</p>
             <p rend="indentchar-m4n0">Weimar den 2. April 1827.</p>
             <p rend="right">J. W. v. Goethe.</p>
@@ -659,8 +636,7 @@
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" spanTo="#graef_1482_end" xml:id="graef_1482"/><rs>Die
                   Bemühungen, welche dieser junge Mann erst meinem Faust und nachher der
-                  griechischen Literatur gewidmet</rs>, mußten mich für ihn interessiren<anchor
-                  xml:id="graef_1482_end"/> und eine nähere Beobachtung seines Lebens- und
+                  griechischen Literatur gewidmet</rs>, mußten mich für ihn interessiren<anchor xml:id="graef_1482_end"/> und eine nähere Beobachtung seines Lebens- und
                Studienganges nur dieses Interesse vermehren. Leider sah ich seine Hoffnungen, die er
                auf eine Anstellung in Berlin gefaßt hatte, zuletzt verschwinden und mußte für ihn
                auf irgend eine Weise Sorge zu tragen bisher aufgeben.</p>
@@ -754,15 +730,12 @@
                wenn sie mir nur nicht zuletzt ihre Siebensachen producirten, gerühmt und gefördert
                seyn wollten.</p>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1489_end" xml:id="graef_1489"
-                  next="#graef_1489_b"/>Wie ich im Stillen langmüthig einhergehe werden Sie an der
+               <milestone unit="testimony" spanTo="#graef_1489_end" xml:id="graef_1489" next="#graef_1489_b"/>Wie ich im Stillen langmüthig einhergehe werden Sie an der
                dreytausendjährigen <rs>Helena</rs> sehen, der ich nun auch schon sechzig Jahre
-               nachschleiche, um ihr einigermaßen etwas abzugewinnen.<anchor xml:id="graef_1489_end"
-               /> Unter den kleinen Dingen möge sich manches empfehlen; die Trilogie der Leidenschaft
+               nachschleiche, um ihr einigermaßen etwas abzugewinnen.<anchor xml:id="graef_1489_end"/> Unter den kleinen Dingen möge sich manches empfehlen; die Trilogie der Leidenschaft
                werden Sie nicht ohne Theilnahme vorüber lassen.</p>
             <p rend="indentchar-m4n0"> Ich bin in meinen Garten im Thale gezogen und genieße schon
-               gute Frucht von dieser Absonderung. <milestone unit="testimony"
-                  spanTo="#graef_1489_end_b" xml:id="graef_1489_b"/>Es liegen so manche Dinge die
+               gute Frucht von dieser Absonderung. <milestone unit="testimony" spanTo="#graef_1489_end_b" xml:id="graef_1489_b"/>Es liegen so manche Dinge die
                ich selbst werth achten muß, weil sie sich aus einer Zeit herschreiben die nicht
                wieder kommt, lange Jahre vor mir da, und <pb n="198"/> bedürfen eigentlich nur einer
                gewissen genialen Redaction. Vollständige Plane, schematisch aufgestellt, einzelnes
@@ -824,8 +797,7 @@
             <p rend="indentchar-m4n0"><rs>freundliche Aufnahme meiner letzten Sendung</rs> gibt mir die
                Zuversicht daß Sie auch der gegenwärtigen geneigte Aufmerksamkeit schenken
                   werden.<anchor xml:id="graef_1494_end"/> Wie mir denn nichts erwünschter seyn kann
-               als die fortwährende Theilnahme an meinen Bemühungen, deren treue Beharrlichkeit, <pb
-                  n="223"/> obgleich nur fragmentarisch, aus dem letzten Stücke von Kunst und
+               als die fortwährende Theilnahme an meinen Bemühungen, deren treue Beharrlichkeit, <pb n="223"/> obgleich nur fragmentarisch, aus dem letzten Stücke von Kunst und
                Alterthum hervorgeht.</p>
             <p rend="indentchar-m4n0"> Gar sehr wünschte ich wie in voriger Zeit einen Theil des
                Jahres in Jena zuzubringen, um mich durch lebhaftes Gespräch in manchen Studien fördern
@@ -854,8 +826,7 @@
                verehrter Freund, und läugne nicht, wie ich manchmal beunruhigt bin, daß ein
                gutes Geschick, das uns so lange mit einander und so nahe neben einander bleiben und wohnen
                läßt, uns beiderseits aus einander hält, ohne daß wir unternehmen und wagen dürfen,
-               öfter zusammen zu kommen. <milestone unit="testimony" spanTo="#graef_1502_end"
-                  xml:id="graef_1502"/>Ich tröste mich dadurch, daß ich immerfort darauf hinarbeite
+               öfter zusammen zu kommen. <milestone unit="testimony" spanTo="#graef_1502_end" xml:id="graef_1502"/>Ich tröste mich dadurch, daß ich immerfort darauf hinarbeite
                meinen Freunden von Zeit zu Zeit im Geiste zu erscheinen; wie ich mich denn besonders
                freue, wenn meine <rs>Helena</rs>, auf die ich undenkliche Zeit und Sorgfalt
                verwendet, die Aufmerksamkeit meiner Theuren auf sich zieht, sie zum Betrachten und
@@ -900,8 +871,7 @@
                   Eingreifen eines Rhythmus in den andern, möchte es freylich Schwierigkeit haben,
                   besonders in einem kleinen Format, das Ganze dem Auge gefällig und dem Sinn
                   deutlich zu machen</rs>; doch würde ein gewandter Maître en Page hier eine schöne
-               Gelegenheit finden, seine Gewandtheit darzuthun.<lb/><lb/><anchor
-                  xml:id="quz_II-946_end"/></p>
+               Gelegenheit finden, seine Gewandtheit darzuthun.<lb/><lb/><anchor xml:id="quz_II-946_end"/></p>
 
             <p rend="left">Weimar den 25. Januar 1827.</p>
             <p rend="center">J. W. v. Goethe.</p>
@@ -991,8 +961,7 @@
                <milestone unit="testimony" spanTo="#graef_1496_end" xml:id="graef_1496"/>Was du über
                Diction sagst, ist mir nicht unbekannt geblieben. Wenn die Menschen z.B. irgend ein
                theatralisches Gedicht loben wollen, so sagen sie: es habe eine sehr schöne Sprache;
-               was aber eigentlich gesprochen sey, davon nimmt man selten Kenntniß. Auch <pb n="378"
-               /> bey Gelegenheit der Helena haben sich einige sonst ganz verständige Personen
+               was aber eigentlich gesprochen sey, davon nimmt man selten Kenntniß. Auch <pb n="378"/> bey Gelegenheit der Helena haben sich einige sonst ganz verständige Personen
                hauptsächlich an den drey vier neuen Worten erfreut und wahrscheinlich schon im
                Stillen gedacht wie sie solche auch anbringen wollten. Das alles kann einen im
                sechzigsten Jahr schon berühmten Schriftsteller freylich nicht anfechten; doch ist es
@@ -1000,8 +969,7 @@
                Aufschnapper hat, welche nach der Diction greifen, weil sie denken, wenn man nur so
                spräche, so sey schon was gethan, wenn man auch nichts zu sagen hat. <rs>Ein Xenion
                   berührt auch diese Eigenheit unserer Tage; leider habe ich manches dieser Art um
-                  des lieben Friedens willen zurückbehalten</rs>.<anchor xml:id="graef_1496_end"
-               /></p>
+                  des lieben Friedens willen zurückbehalten</rs>.<anchor xml:id="graef_1496_end"/></p>
             <p>Vor einigen Tagen erging ich mich in folgenden Zeilen:<lb/><lb/> America, du hast es
                besser<lb/> Als unser Continent, das alte,<lb/> Hast keine verfallene Schlösser<lb/>
                Und keine Basalte.<lb/> Dich stört nicht im Innern,<lb/> Zu lebendiger Zeit,<lb/>

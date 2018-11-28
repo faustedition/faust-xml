@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-   xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,15 +85,13 @@
                <lb/>An <persName>Carl Friedrich Zelter</persName>
                <date when="1808-05-03"/>
             </head>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1075"
-                  spanTo="#graef_1075_end"/>Den 12. May gehe ich von hier weg. Ich kann also auf den
+            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1075" spanTo="#graef_1075_end"/>Den 12. May gehe ich von hier weg. Ich kann also auf den
                gegenwärtigen Brief hier keine Antwort mehr von Ihnen erwarten. Schicken Sie aber
                doch die Eberweinischen Gesänge, <rs>den Bogen von Faust</rs>, unter meiner Adresse hierher.
                Mein Haus Büreau besorgt das weitere. Einen Brief bitte ich mir nach Carlsbad zu
                senden, wo ich etwa den 15. anlange. Bey den drey Mohren ist mein Quartier.</p>
             <p rend="indentchar-m4n0"> Kommen auch die acht Bände meiner Werke nach meiner Abreise
-               an, so ist doch bestellt, daß Sie solche gleich erhalten.<anchor
-                  xml:id="graef_1075_end"/> Die wenige Aussicht, die Sie zu einem ruhigern Zustande
+               an, so ist doch bestellt, daß Sie solche gleich erhalten.<anchor xml:id="graef_1075_end"/> Die wenige Aussicht, die Sie zu einem ruhigern Zustande
                haben, macht mich oft nachdenklich, <pb n="58"/> ja confus. Man sieht wohl daß man
                nach und nach seine ganze Vorstellung verändern, die Hoffnung auf die Rückkehr des
                Alten völlig aufgeben, und sich für die übrige Zeit seines Lebens wo nicht erneuen,
@@ -216,8 +212,7 @@
             <p rend="indentchar-m4n0"> Bey dem schönen Wetter, das uns nach einer langen Pause
                hier wieder zu besuchen scheint, gedenke ich der schönen Gegend, in der Sie sich
                jetzt befinden, und freue mich Ihrer Zufriedenheit, deren Sie in Ihrem ländlichen
-               Aufenthalte genießen. Wenn Sie eine neue Aufforderung zur Thätigkeit ablehnen <pb
-                  n="95"/> konnten, so wird Ihnen die Abgeschiedenheit von der Welt gewiß auch ganz
+               Aufenthalte genießen. Wenn Sie eine neue Aufforderung zur Thätigkeit ablehnen <pb n="95"/> konnten, so wird Ihnen die Abgeschiedenheit von der Welt gewiß auch ganz
                gemäß seyn. Wenn Sie dann im Stillen die letzten zwanzig Jahre der deutschen
                Literatur nachholen, wie Ihnen erst jetzt Herders Ideen zu Hand gekommen sind; so
                werden Sie den merkwürdigen Gang, den diese große Masse genommen hat, klarer einsehn,
@@ -276,8 +271,7 @@
                gar vieles zusammen, das uns an die vorigen Zeiten erinnerte, das heiße Wetter und
                meine Heiterkeit, die er in Zwischenzeiten an mir nicht gewohnt gewesen. Wir schieden
                und ich wendete meine Bemühen besonders Morgens an Gegenstände die Ihnen, hoffe ich,
-               auch Freude machen sollen. <milestone unit="testimony" xml:id="graef_1088"
-                  spanTo="#graef_1088_end"/>Abends war ich viel mit Fr. v. Eibenberg und machte mir
+               auch Freude machen sollen. <milestone unit="testimony" xml:id="graef_1088" spanTo="#graef_1088_end"/>Abends war ich viel mit Fr. v. Eibenberg und machte mir
                abermals Vorwürfe daß ich Sie beyde nicht zusammengebracht. Ich lernte die Töchter
                der Herzoginn von Curland, erst später ihre Hoffräulein kennen. Ihr selbst wartete
                ich erst gestern auf, sie verreist Morgen frühe. Alle waren sehr freundlich und
@@ -337,8 +331,7 @@
                12. und damit mit der umgehenden Post wieder etwas fortgehe, soll nur kürzlich
                Einiges diktirt werden. Kurz nach Ihrer Abreise traf ich mit den Hoffräuleins der
                Herzogin von Curland auf der Wiese zusammen, besuchte sie einigemal und ließ mich
-               sodann ihrer Gebieterin vorstellen. <milestone unit="testimony" xml:id="graef_1090"
-                  spanTo="#graef_1090_end"/>Den Abend vor ihrer Abreise war ich noch dort, <rs>las
+               sodann ihrer Gebieterin vorstellen. <milestone unit="testimony" xml:id="graef_1090" spanTo="#graef_1090_end"/>Den Abend vor ihrer Abreise war ich noch dort, <rs>las
                Einiges vor</rs> und war so artig als ich seyn konnte;<anchor xml:id="graef_1090_end"/>
                dafür man mich denn auch recht gut behandelt und nach Löbichau eingeladen hat.
                Fräulein von <hi rend="italic">Knabenau</hi> ist wirklich ein merkwürdiges Wesen, von
@@ -373,8 +366,7 @@
                Wenn wir selbst nur wissen, was wir an uns und einander haben, ist es völlig
                hinreichend. <hi rend="italic">Peppinen</hi> grüßen Sie schönstens von mir. Auch
                Riemer empfiehlt sich zu freundlichem Andenken. Wir besuchen Sie beyde noch oft in
-               Gedanken und Worten, da es in Werken nicht mehr angehen will. <hi rend="italic"
-                  >Seckendorfen</hi> will ich schreiben. Er und <hi rend="italic">Stoll</hi> machen
+               Gedanken und Worten, da es in Werken nicht mehr angehen will. <hi rend="italic">Seckendorfen</hi> will ich schreiben. Er und <hi rend="italic">Stoll</hi> machen
                ein schlechtes Zugpaar aus. Ich fürchte, der Prometheus'sche Karren bleibt darüber
                stecken.</p>
             <p rend="right">G.</p>
@@ -389,14 +381,12 @@
             <p rend="indentchar-m4n0">Vor meiner Abreise von Carlsbad muß ich Ihnen, theuerste
                Freundinn, noch meinen lebhaften Dank sagen für den freundlichen Brief, den ich kurz
                nach meiner Ankunft erhielt und der mich seit der Zeit, in einsamen Stunden, manchmal
-               gar heiter angeblickt hat. <milestone unit="testimony" xml:id="graef_1090a"
-                  spanTo="#graef_1090a_end"/>Wie schätzenswerth ist es nicht zu erfahren, daß <rs>die
+               gar heiter angeblickt hat. <milestone unit="testimony" xml:id="graef_1090a" spanTo="#graef_1090a_end"/>Wie schätzenswerth ist es nicht zu erfahren, daß <rs>die
                wenigen Resultate unsres Lebens, die auf dem Papier mit gedruckten Lettern stehn
                bleiben, unsern Freunden wirklich etwas sind</rs>, unser Andenken erneuern und an die
                Stelle der Gegenwart treten. Haben Sie recht vielen Dank daß Sie Ihre Empfindungen
                und Gesinnungen so treu und kräftig aussprechen mögen. Nicht jedermann vermags und
-               unter den vermögenden sind nicht alle so wohlthätig.<anchor xml:id="graef_1090a_end"
-               /></p>
+               unter den vermögenden sind nicht alle so wohlthätig.<anchor xml:id="graef_1090a_end"/></p>
             <p rend="indentchar-m4n0">
                <pb n="143"/> Ich bin nun in der vierzehnten Woche hier. Ich wollte der Sommer ging
                von neuem an und ich wollte immer so fort mein Leben und Wesen hinführen. Das klingt

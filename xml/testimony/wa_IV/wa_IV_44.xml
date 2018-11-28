@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -43,8 +39,7 @@
                Erbgroßherzogin ist nach Berlin und wir erwarten und wünschen jeden Augenblick
                Nachricht von der glücklichen Niederkunft der Prinzeß Carl. Auch der treue Angehörige
                findet sich noch immer in dem Falle, seine <pb n="5"/> Tage nützlich und fruchtbar
-               zubringen zu können. <milestone unit="testimony" spanTo="#graef_1607_end"
-                  xml:id="graef_1607"/>Nach Ostern wartet <rs>abermals eine Lieferung meiner
+               zubringen zu können. <milestone unit="testimony" spanTo="#graef_1607_end" xml:id="graef_1607"/>Nach Ostern wartet <rs>abermals eine Lieferung meiner
                   Bändchen</rs> geziemend auf. Möge das Neue, was ich dem Bekannten hinzugefügt, zu
                guter Stunde behaglich genossen werden.<anchor xml:id="graef_1607_end"/>
             </p>
@@ -159,7 +154,7 @@
                Frege auf 10000 Thaler ausgestellt als:</p>
             <table rend="indented">
                <row>
-                  <cell >Vierter Termin der Werke</cell>
+                  <cell>Vierter Termin der Werke</cell>
                   <cell rend="right">7500.-</cell>
                </row>
                <row>
@@ -235,8 +230,7 @@
                Wünschenswertheste gelungen; mögen dir die Mittel zu so schönen Zwecken nicht allzu
                sauer werden.</p>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1623_end" xml:id="graef_1623"
-                  next="#graef_1623_b"/>Auf die Messe erscheint denn die <rs>dritte Lieferung meiner
+               <milestone unit="testimony" spanTo="#graef_1623_end" xml:id="graef_1623" next="#graef_1623_b"/>Auf die Messe erscheint denn die <rs>dritte Lieferung meiner
                   neuen Ausgabe</rs>; einiges Frische hie und da in diesen Bändchen darf ich wohl
                   empfehlen;<anchor xml:id="graef_1623_end"/> die folgende Lieferung ist auch schon
                nach Augsburg, und nun hab ich die fünfte auf der Seele, worin die umgewandelten
@@ -293,10 +287,8 @@
             </head>
             <p rend="indentchar-m4n0">Die Gelegenheit, welche sich mir darbietet, ein Blatt nach
                Petersburg zu bringen, damit es von da bequemer und gewisser zu Ihnen gelange, darf
-               ich nicht versäumen, und <milestone unit="testimony" spanTo="#graef_1624_end"
-                  xml:id="graef_1624" next="#graef_1624_b"/>ich ergreife sie um zu versichern, daß
-               Ihre glücklich angekommene Sendung mir zu ganz besonderm Vergnügen gereicht.<anchor
-                  xml:id="graef_1624_end"/>
+               ich nicht versäumen, und <milestone unit="testimony" spanTo="#graef_1624_end" xml:id="graef_1624" next="#graef_1624_b"/>ich ergreife sie um zu versichern, daß
+               Ihre glücklich angekommene Sendung mir zu ganz besonderm Vergnügen gereicht.<anchor xml:id="graef_1624_end"/>
             </p>
             <p rend="indentchar-m4n0"> Wenn man viele Lebensjahre ernstlich dazu angewendet hat,
                sich selbst auszubilden und die Spuren der Vorschritte seiner eigenen Denkweise in
@@ -387,8 +379,7 @@
                bringt euch dagegen auch das Mannichfaltigste, wovon euch die Spikerische Zeitung
                schon den Vorklang gegeben hat.</p>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1629_end" xml:id="graef_1629"
-                  next="#graef_1629_b"/>Die <rs>dritte Sendung meiner Werke</rs> empfehl ich dir und
+               <milestone unit="testimony" spanTo="#graef_1629_end" xml:id="graef_1629" next="#graef_1629_b"/>Die <rs>dritte Sendung meiner Werke</rs> empfehl ich dir und
                den Freunden, insofern sie etwas Neues bringt.<anchor xml:id="graef_1629_end"/> An
                der vierten wird gedruckt. Die erste Lieferung in<pb n="101"/> Octav tritt
                gleichfalls hervor und nimmt sich besonders in Velin sehr gut aus. Dir wird ein
@@ -526,8 +517,7 @@
             </head>
             <p rend="indentchar-m4n0">Ihr gehaltreicher Brief vom 18. April ist zur rechten Zeit bey
                mir angekommen und hat mich im Drange gar mannichfaltiger Umstände getroffen.
-                  <milestone unit="testimony" spanTo="#graef_1633_end" xml:id="graef_1633"
-                  next="#graef_1633_b"/>Ich erhole mich gegenwärtig einigermaßen, um die <rs>dritte
+                  <milestone unit="testimony" spanTo="#graef_1633_end" xml:id="graef_1633" next="#graef_1633_b"/>Ich erhole mich gegenwärtig einigermaßen, um die <rs>dritte
                      <pb n="137"/> Lieferung meiner Werke</rs> anzukündigen, der ich wie der vorigen
                eine gute Aufnahme hoffen darf. Das Neue, bisher noch nicht Gedruckte sey Ihnen
                besonders empfohlen.<anchor xml:id="graef_1633_end"/>
@@ -563,8 +553,7 @@
                zu ihren Zwecken zu Hülfe rufen wird. Da ich mich aber in solche Betrachtungen nicht
                einlassen darf, ob gleich bey solchem Zusammenstellen gar manches Erfreuliche und
                Nützliche zu sagen wäre, so habe ich einen jungen Freund ersucht, sich darüber
-               auszusprechen mit Rücksicht auf die unter uns geführten Gespräche.<anchor
-                  xml:id="graef_1633_end_b"/>
+               auszusprechen mit Rücksicht auf die unter uns geführten Gespräche.<anchor xml:id="graef_1633_end_b"/>
             </p>
             <p rend="indentchar-m4n0"> Es ist Dr. Eckermann, der sich bey uns aufhält und den ich
                als Hausgenossen anzusehen habe. Er macht die hier studirenden jungen Engländer mit
@@ -647,16 +636,14 @@
                aber doch mehr als alle Beschreibung einen schnellen Begriff gibt. Die Unterschriften
                bezüglich auf die oberen Buchstaben geben dir die nöthige Andeutung. Dein Freund aber
                dictirt Gegenwärtiges hinter den letzten, in's Unsichtbare verschwindenden Fenstern
-               des kleinen Schlößchens am letzten Felsende linker Hand; es ist eben dieß <pb n="226"
-               /> von der Herrschaft erst kurz acquirirte Privat-Erblehngut.</p>
+               des kleinen Schlößchens am letzten Felsende linker Hand; es ist eben dieß <pb n="226"/> von der Herrschaft erst kurz acquirirte Privat-Erblehngut.</p>
             <p rend="indentchar-m4n0"> Weiter gehen nun aber meine Kräfte nicht, dich mir näher zu
                bringen, und so vollführe was noch zu wünschen ist durch Neigung und
                Einbildungskraft. Es gibt noch hübschere Darstellungen von Dornburg, die aber jetzt
                nicht in meinem Bereich sind.</p>
             <p rend="indentchar-m4n0"> Daß ich in diesen zwanzig Tagen aus Unruhe, Neigung, Trieb
                und Langerweile gar manches geleistet habe, wirst du wohl glauben; leider ist es sehr
-               vielerlei, dergestalt daß es nicht leicht zur Erscheinung kommen wird. <milestone
-                  unit="testimony" spanTo="#graef_1638_end" xml:id="graef_1638"/>Meine nahe
+               vielerlei, dergestalt daß es nicht leicht zur Erscheinung kommen wird. <milestone unit="testimony" spanTo="#graef_1638_end" xml:id="graef_1638"/>Meine nahe
                Hoffnung, euch zu Michael die <rs>Fortsetzung von Faust</rs> zu geben, wird mir denn
                auch durch diese Ereignisse vereitelt. Wenn dieß Ding nicht fortgesetzt auf einen
                übermüthigen Zustand hindeutet, wenn es den Leser nicht auch nöthigt, sich über sich

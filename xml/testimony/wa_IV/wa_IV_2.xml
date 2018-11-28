@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-   xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -43,8 +41,7 @@
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" xml:id="graef_0850" spanTo="#graef_0850_end"/>Und so
                träume ich denn und gängle durchs Leben, führe garstige Prozesse <rs>schreibe
-                  Dramata</rs>, und Romanen <pb n="92"/> und dergleichen.<anchor
-                  xml:id="graef_0850_end"/> Zeichne und poussire und treibe es so geschwind es gehen
+                  Dramata</rs>, und Romanen <pb n="92"/> und dergleichen.<anchor xml:id="graef_0850_end"/> Zeichne und poussire und treibe es so geschwind es gehen
                will. Und ihr seyd geseegnet wie der Mann der den Herren fürchtet. Von mir sagen die
                Leute der Fluch Cains läge auf mir. Keinen Bruder hab ich erschlagen! Und ich dencke
                die Leute sind Narren. Da hast du lieber Kestner ein Stück Arbeit, das lies deinem
@@ -166,8 +163,7 @@
             </head>
             <p rend="right">[Frankfurt, zwischen 10. und 18. November 1773.]</p>
             <p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_111_end"
-                  xml:id="graef_111"/><rs>Der Torus ist angelegt</rs>; nun nur noch Flamme und
+            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_111_end" xml:id="graef_111"/><rs>Der Torus ist angelegt</rs>; nun nur noch Flamme und
                Windstoß; aber das hängt von den Göttern ab.<anchor xml:id="graef_111_end"/></p>
             <p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
             <lb/>
@@ -188,8 +184,7 @@
                einen Brief geschenckt hast. Wenn ich das gehofft hätte wäre mein Geschenck
                eigennützig gewesen. <pb n="135"/> Ich habe ihn wohl hundertmal geküßt. Es giebt
                Augenblicke wo man erst merkt wie lieb man seine Freunde hat.</p>
-            <p rend="indentchar-m4n0"> Ich kann euch die Freude nicht beschreiben die ich hatte <hi
-                  rend="italic">Mercken</hi> wieder zu sehn, er kam acht Tage eh ich's vermuthete,
+            <p rend="indentchar-m4n0"> Ich kann euch die Freude nicht beschreiben die ich hatte <hi rend="italic">Mercken</hi> wieder zu sehn, er kam acht Tage eh ich's vermuthete,
                und sas bey meinem Vater in der Stube ich kam nach Hause, ohne was zu wissen, tret
                ich hinein und höre seine Stimme eher als ich ihn sehe. Du kennst mich Lotte.</p>
             <p rend="indentchar-m4n0"> Die Stelle in deinem Brief die einen Winck enthält von
@@ -281,16 +276,14 @@
                besonders eine endlose Liebe zerrüttet, sich eine Kugel vor den Kopf schiesst. Dann
                hab ich ein Trauerspiel gearbeitet <hi rend="italic">Clavigo</hi>, moderne Aneckdote
                dramatisirt mit möglichster Simplizität und Herzenswahrheit; mein Held ein
-               unbestimmter, halb gros <pb n="172"/> halb kleiner Mensch, der Pendant zum <hi
-                  rend="italic">Weislingen</hi> im Götz, vielmehr Weislingen selbst in der ganzen
+               unbestimmter, halb gros <pb n="172"/> halb kleiner Mensch, der Pendant zum <hi rend="italic">Weislingen</hi> im Götz, vielmehr Weislingen selbst in der ganzen
                Rundheit einer Hauptperson; auch finden sich hier Scenen die ich im Götz um das
                Hauptinteresse nicht zu schwächen nur andeuten konnte. Auf Wielanden hab ich ein
                schändlich Ding drucken lassen, unterm Titel: <hi rend="italic">Götter, Helden</hi>
                und <hi rend="italic">Wieland, eine Farce.</hi> Ich turlupinire ihn auf eine garstige
                Weise über seine Mattherzigkeit in Darstellung iener Riesengestalten der
                marckigen Fabelwelt. Ich will fluchen euch nach und nach das Zeug durch Gelegenheit
-               nach Marseille zu spediren, übers Meer kann das Porto nicht viel tragen. <milestone
-                  unit="testimony" xml:id="graef_0851" spanTo="#graef_0851_end"/><rs>Noch einige
+               nach Marseille zu spediren, übers Meer kann das Porto nicht viel tragen. <milestone unit="testimony" xml:id="graef_0851" spanTo="#graef_0851_end"/><rs>Noch einige
                   Plane zu grosen Dramas hab ich erfunden</rs>, das heisst das interessante Detail
                dazu in der Natur gefunden und in meinem Herzen.<anchor xml:id="graef_0851_end"/>
                Mein <hi rend="italic">Cäsar</hi> der euch einst freuen wird, scheint sich auch zu
@@ -393,11 +386,8 @@
             </head>
             <p rend="right">[Frankfurt, Mitte October 1774.]</p>
             <p rend="indentchar-m4n0">Ich mag nicht zu Ihnen kommen liebe Tante, ich bin
-               unverträglich und unerträglich. Hier ist der geistliche Don Quixote. Was hören Sie von Friz? <pb
-                  n="202"/> Wann kommt er wohl. Grüsen Sie ihn herzlich. <milestone unit="testimony"
-                  xml:id="graef_0852" spanTo="#graef_0852_end"/>Ich habe sonst wohl <rs>noch
-                  allerley guts</rs>, sizze aber wieder drachenartig drüber.<anchor
-                  xml:id="graef_0852_end"/> Lebens halt wohl.</p>
+               unverträglich und unerträglich. Hier ist der geistliche Don Quixote. Was hören Sie von Friz? <pb n="202"/> Wann kommt er wohl. Grüsen Sie ihn herzlich. <milestone unit="testimony" xml:id="graef_0852" spanTo="#graef_0852_end"/>Ich habe sonst wohl <rs>noch
+                  allerley guts</rs>, sizze aber wieder drachenartig drüber.<anchor xml:id="graef_0852_end"/> Lebens halt wohl.</p>
             <p rend="right">G.</p>
             <lb/>
          </div>
@@ -421,8 +411,7 @@
                denen Prinzen viel, fühlt Gr. Görz was für mich? – Schreiben Sie mir ich bitte Sie
                vom Presidenten Hahn einige bedeutende Worte. In Vergleich mit andern Presidenten!
                ieden nach seiner Art. Ihre Worte über Klopstock sind herrlich. Lieben Sie mich.
-                  <milestone unit="testimony" xml:id="graef_0853" spanTo="#graef_0853_end"
-                  /><rs>Geben Sie meine Sachen nur nicht aus Händen</rs>. Es wäre nichts dran
+                  <milestone unit="testimony" xml:id="graef_0853" spanTo="#graef_0853_end"/><rs>Geben Sie meine Sachen nur nicht aus Händen</rs>. Es wäre nichts dran
                gelegen wenn nicht gewisse Leute was draus machten.<anchor xml:id="graef_0853_end"/>
                Und dann bitt ich Sie sondiren Sie mir wo möglich den Marckgrafen und Presidenten
                über meinen Schwager den Schlosser. Auch unbedeutende Worte geben Licht.</p>
@@ -438,11 +427,9 @@
                <date when="1775-01-13"/>
             </head>
             <p rend="right">Frankfurt 13. Januar 1775.</p>
-            <p rend="indentchar-m4n0">Lieber Knebel! <milestone unit="testimony" xml:id="graef_0854"
-                  spanTo="#graef_0854_end"/>Ich bitte Sie gar sehr um ein Wort von Ihnen und um
+            <p rend="indentchar-m4n0">Lieber Knebel! <milestone unit="testimony" xml:id="graef_0854" spanTo="#graef_0854_end"/>Ich bitte Sie gar sehr um ein Wort von Ihnen und um
                   <rs>meine Sachen</rs>. Wo sind Sie? Bin ich in gutem Andenken unter Ihnen? Addio;
-               ich habe einige sehr gute productive Tage gehabt.<anchor xml:id="graef_0854_end"
-               /></p>
+               ich habe einige sehr gute productive Tage gehabt.<anchor xml:id="graef_0854_end"/></p>
             <p rend="right">G.</p>
             <pb n="227"/>
             <lb/>
@@ -463,17 +450,14 @@
                Fassnachts Goethe, der Ihnen neulich einige dumpfe tiefe Gefühle vorstolperte, der
                nicht an Sie schreiben mag, der Sie auch manchmal vergißt, weil er sich in Ihrer
                Gegenwart ganz unausstehlich fühlt.</p>
-            <p rend="indentchar-m4n0"> Aber <milestone unit="testimony" xml:id="graef_0854a"
-                  spanTo="#graef_0854a_end"/>nun giebts noch einen, den im grauen Biber-Frack mit
+            <p rend="indentchar-m4n0"> Aber <milestone unit="testimony" xml:id="graef_0854a" spanTo="#graef_0854a_end"/>nun giebts noch einen, den im grauen Biber-Frack mit
                dem braunseidnen Halstuch und Stiefeln, der in der streichenden Februarluft schon den
                Frühling ahndet, dem nun bald seine liebe weite Welt wieder geöffnet wird, der immer
                in sich lebend, strebend und arbeitend, bald die unschuldigen Gefühle der Jugend in
                kleinen Gedichten, das kräfftige Gewürze des Lebens in mancherley Dramas, die
-               Gestalten seiner Freunde und seiner Gegenden und seines geliebten Hausraths <pb
-                  n="234"/> mit Kreide auf grauem Papier, nach seiner Maase auszudrücken sucht,
+               Gestalten seiner Freunde und seiner Gegenden und seines geliebten Hausraths <pb n="234"/> mit Kreide auf grauem Papier, nach seiner Maase auszudrücken sucht,
                weder rechts noch links fragt: was von dem gehalten werde was er machte? <rs>weil er
-                  arbeitend immer gleich eine Stufe höher steigt</rs>,<anchor
-                  xml:id="graef_0854a_end"/> weil er nach keinem Ideale springen, sondern seine
+                  arbeitend immer gleich eine Stufe höher steigt</rs>,<anchor xml:id="graef_0854a_end"/> weil er nach keinem Ideale springen, sondern seine
                Gefühle sich zu Fähigkeiten, kämpfend und spielend, entwickeln lassen will. Das ist
                der, dem Sie nicht aus dem Sinne kommen, der auf einmal am frühen Morgen einen Beruf
                fühlt Ihnen zu schreiben, dessen größte Glückseligkeit ist mit den besten Menschen
@@ -504,8 +488,7 @@
             </head>
             <p rend="indentchar-m4n0">Gott seegne dich lieber Bruder mit deinem Weibe, und wenn du
                an ihrem Herzen wohnst, denke mein und fühl dass ich dich liebe. Von meinen
-               Verworrenheiten ist schweer was zu sagen, <milestone unit="testimony"
-                  xml:id="graef_0854b" spanTo="#graef_0854b_end"/><rs>fleisig war ich eben nicht
+               Verworrenheiten ist schweer was zu sagen, <milestone unit="testimony" xml:id="graef_0854b" spanTo="#graef_0854b_end"/><rs>fleisig war ich eben nicht
                   zeither</rs>. Die Frühlingsluft, die so manchmal schon da über die Gärten herweht,
                arbeitet wieder an meinem Herzen, und ich hoffe es löst sich aus dem Gewürge wieder
                was ab. Habe lieb was von mir kommt.<anchor xml:id="graef_0854b_end"/> Du bist immer
@@ -668,8 +651,7 @@
                iunge Frau liegt auf dem Bette die der angenehmsten Hoffnung eines lieben Kindes
                entgegenschmerzet. Ade für heute. Es ist Nacht und der Mayn blinckt
                noch aus den dunklen Ufern.</p>
-            <p rend="indentchar-m4n0"> Offenbach. Sonntag d. 17ten Nachts zehen. – <milestone
-                  unit="testimony" xml:id="graef_0856" spanTo="#graef_0856_end"/>Ist der Tag
+            <p rend="indentchar-m4n0"> Offenbach. Sonntag d. 17ten Nachts zehen. – <milestone unit="testimony" xml:id="graef_0856" spanTo="#graef_0856_end"/>Ist der Tag
                leidlich und stumpf herumgegangen, da ich aufstund war mirs gut, <rs>ich machte eine
                   Scene an meinem Faust</rs>. Vergängelte ein paar Stunden. Verliebelte ein paar mit
                einem Mädgen davon dir die Brüder erzählen mögen, das ein seltsames Geschöpf ist. Ass
@@ -742,8 +724,7 @@
                geseegne. Leb indess wohl, Alter, und behelf dich im Leben. Kannst du mir zehen
                Carolin schicken, so thus mit den nächsten Kärgern. Ich bedarf ihrer und so weiter.
                Ich hab das Hohelied Salomons übersezt, welches ist die herrlichste Sammlung Liebeslieder, die Gott erschaffen hat. Die La Roche ist in Contrition, daß du ihr nicht
-               antwortest. Reit doch noch einmal herüber, eh ich gehe. <milestone unit="testimony"
-                  xml:id="graef_0859" spanTo="#graef_0859_end"/>Ich bin leidlich. <rs>Hab am Faust
+               antwortest. Reit doch noch einmal herüber, eh ich gehe. <milestone unit="testimony" xml:id="graef_0859" spanTo="#graef_0859_end"/>Ich bin leidlich. <rs>Hab am Faust
                   viel geschrieben</rs>.<anchor xml:id="graef_0859_end"/> Zimmermann grüßt dich; er
                ist Nachts durch Darmstadt kommen. Grüß Frau und Kinder.</p>
             <lb/>

@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,11 +21,7 @@
         <body>
 
 
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4172</num>. <lb/>
                     <lb/>An <persName>Friedrich Heinrich Jacobi</persName>
@@ -75,8 +69,7 @@
                 <p rend="indentchar-m4n0">
                     <milestone unit="testimony" spanTo="#graef_0954_end" xml:id="graef_0954"/><rs>Von
                     poetischen Ideen und Planen liegt manches<pb n="6"/> vor mir</rs>, es kommt auf gut
-                    Glück an, ob und wie bald etwas davon zur Ausführung gedeiht.<anchor
-                        xml:id="graef_0954_end"/></p>
+                    Glück an, ob und wie bald etwas davon zur Ausführung gedeiht.<anchor xml:id="graef_0954_end"/></p>
                 <p rend="indentchar-m4n0"> Mit einer sehr angenehmen Empfindung arbeite ich nunmehr
                     an der <hi rend="italic">Farbenlehre</hi>. Nachdem ich mich beynahe 10 Jahre mit
                     dem Einzelnen durchgequält habe, so sehe ich die Möglichkeit dieses schöne und
@@ -108,11 +101,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4227</num>. <lb/>
                     <lb/>An <persName>August Wilhelm Schlegel</persName>
@@ -155,11 +144,7 @@
                 <p rend="right">Goethe.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4234</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -168,21 +153,15 @@
                 <p rend="indentchar-m4n0">[11. April.]</p>
                 <p rend="indentchar-m4n0"> Es wäre mir erfreulich geworden, wenn Sie hätten kommen
                     können. Es wird wieder musicirt.</p>
-                <p rend="indentchar-m4n0"> Cottas Freyheit ist mir sehr angenehm. <milestone
-                        unit="testimony" spanTo="#graef_0956_end" xml:id="graef_0956"/>Ich habe
+                <p rend="indentchar-m4n0"> Cottas Freyheit ist mir sehr angenehm. <milestone unit="testimony" spanTo="#graef_0956_end" xml:id="graef_0956"/>Ich habe
                     einen Brief von ihm über <hi rend="italic">Faust</hi>, den Sie mir
                     wahrscheinlich zugezogen haben. Wofür ich aber danken muß. Denn wirklich habe
-                    ich auf diese Veranlassung das <rs>Werk heute vorgenommen und durchdacht</rs>.<anchor
-                        xml:id="graef_0956_end"/> Leben Sie recht wohl.</p>
+                    ich auf diese Veranlassung das <rs>Werk heute vorgenommen und durchdacht</rs>.<anchor xml:id="graef_0956_end"/> Leben Sie recht wohl.</p>
                 <p rend="right">G.</p>
                 <pb n="57"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4236</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -199,8 +178,7 @@
                     kleinen Concert eingeladen.</p>
                 <p rend="indentchar-m4n0">
                     <milestone unit="testimony" spanTo="#graef_962_end" xml:id="graef_0962"/><rs>Der
-                    Teufel den ich beschwöre gebärdet sich sehr wunderlich</rs>.<anchor
-                        xml:id="graef_962_end"/></p>
+                    Teufel den ich beschwöre gebärdet sich sehr wunderlich</rs>.<anchor xml:id="graef_962_end"/></p>
                 <p rend="indentchar-m4n0"> Am 16. Apr. 1800.</p>
                 <p rend="right">G.</p>
                 <lb/>
@@ -209,11 +187,7 @@
                 <pb n="59"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4277</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -229,8 +203,7 @@
                     zu zerstören. Es kann mich indessen auf dem Wege, auf dem wir sind, niemals
                     reuen dieses Unternehmen fortzuführen und durchzusetzen.</p>
                 <p rend="indentchar-m4n0">
-                    <milestone unit="testimony" xml:id="graef_0973" spanTo="#graef_0973_end"
-                    />Gestern habe ich einiges Geschäftsähnliche besorgt und <rs>heute einen kleinen
+                    <milestone unit="testimony" xml:id="graef_0973" spanTo="#graef_0973_end"/>Gestern habe ich einiges Geschäftsähnliche besorgt und <rs>heute einen kleinen
                     Knoten in Faust gelöst</rs>.<anchor xml:id="graef_0973_end"/> Könnte ich von jetzt an
                     noch 14 Tage hier bleiben, so sollte es damit ein ander Aussehen gewinnen;
                     allein ich bilde mir leider ein in Weimar nöthig zu seyn und opfere dieser
@@ -239,8 +212,7 @@
                     <pb n="96"/> Auch sonst sind diese Tage an mancherley Gutem von Außen nicht
                     unfruchtbar gewesen. Wir haben lange auf eine <hi rend="italic">Braut in
                         Trauer</hi> gesonnen. Tieck in seinem poetischen Journal erinnert mich an
-                    ein altes Marionettenstück, das ich auch in meiner Jugend gesehen habe: die <hi
-                        rend="italic">Höllenbraut</hi> genannt. Es ist ein Gegenstück zu Faust, oder
+                    ein altes Marionettenstück, das ich auch in meiner Jugend gesehen habe: die <hi rend="italic">Höllenbraut</hi> genannt. Es ist ein Gegenstück zu Faust, oder
                     vielmehr Don Juan. Ein äußerst eitles, liebloses Mädchen, das seine treuen
                     Liebhaber zu Grunde richtet, sich aber einem wunderlichen unbekannten Bräutigam
                     verschreibt, der sie denn zuletzt wie billig als Teufel abholt. Sollte hier
@@ -271,26 +243,20 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4284</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1800-09-12"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_0977_end"
-                        xml:id="graef_0977"/>Nach verschiedenen Abentheuern bin ich erst heute früh
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_0977_end" xml:id="graef_0977"/>Nach verschiedenen Abentheuern bin ich erst heute früh
                     wieder zu der jenaischen Ruhe gelangt und habe gleich etwas versucht, aber
                     nichts gethan. Glücklicherweise konnte ich diese acht Tage die Situationen fest
                     halten von denen Sie wissen, und <rs>meine <hi rend="italic">Helena</hi> ist
                     wirklich aufgetreten</rs>. Nun zieht mich aber das Schöne in der Lage meiner Heldin
                     so sehr an, daß es mich betrübt wenn ich es zunächst in eine Fratze verwandeln
                     soll. Wirklich fühle ich nicht geringe Lust eine ernsthafte Tragödie auf das
-                    Angefangene zu gründen; allein ich werde mich hüten die Obliegenheiten <pb
-                        n="103"/> zu vermehren, deren kümmerliche Erfüllung ohnehin schon die Freude
+                    Angefangene zu gründen; allein ich werde mich hüten die Obliegenheiten <pb n="103"/> zu vermehren, deren kümmerliche Erfüllung ohnehin schon die Freude
                     des Lebens wegzehrt.<anchor xml:id="graef_0977_end"/></p>
                 <p rend="indentchar-m4n0"> Ich wünsche daß Sie in Ihrer Unternehmung weiter gelangt
                     sind. Wäre es möglich daß Sie, collegialiter mit Meyern, etwas für die Anzeige
@@ -301,11 +267,7 @@
                 <pb n="104"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4285</num>. <lb/>
                     <lb/>An <persName>Wilhelm von Humboldt</persName>
@@ -322,8 +284,7 @@
                     Ihren Montserrat haben Sie uns ein großes Vergnügen gemacht. Die Darstellung ist
                     sehr gut geschrieben, man liest sie gern und man kann sie aus der
                     Einbildungskraft nicht los werden. <rs>Ich befinde mich seit der Zeit, ehe ich michs
-                    versehe, bey einem oder dem andern Ihrer Eremiten</rs>.<anchor
-                        xml:id="graef_0981_end"/></p>
+                    versehe, bey einem oder dem andern Ihrer Eremiten</rs>.<anchor xml:id="graef_0981_end"/></p>
                 <p rend="indentchar-m4n0">
                     <pb n="104"/> Wegen des Druckes bin ich in einiger Verlegenheit. Ich möchte den
                     Aufsatz nicht gern für die Propyläen verlieren; aber ins gegenwärtige Stück geht
@@ -343,8 +304,7 @@
                     gemäß, immer mehr und mehr zu nehmen auf dem Wege ist. Es scheint eben durch die
                     Künstler aller Nationen durchzugehen dasjenige ausdrücken zu wollen, was man
                     nicht ausdrucken kann noch soll.</p>
-                <p rend="indentchar-m4n0"> Gleichen Dank für alle Bemühungen, die Sie angewendet <pb
-                        n="105"/> haben, mir zu Abgüssen einiger griechischen Kunstwerke zu
+                <p rend="indentchar-m4n0"> Gleichen Dank für alle Bemühungen, die Sie angewendet <pb n="105"/> haben, mir zu Abgüssen einiger griechischen Kunstwerke zu
                     verhelfen, wir wollen denn unsere Begierde darnach mäßigen und zähmen.</p>
                 <p rend="indentchar-m4n0"> Suchen Sie doch übrigens ja einen Correspondenten in
                     Paris zu erhalten, damit man zeitig erführe was in Kunst und Wissenschaft dort
@@ -363,17 +323,12 @@
                     Schlegel und Schelling erregt hatten, abgegangen.</p>
                 <p rend="indentchar-m4n0"> Schiller ist poetisch thätig, ich bin es nicht so sehr
                     als ich wünschte. Die zur Production so nöthige Muße fehlt immer mehr je älter
-                    man wird. Grüßen Sie Ihre liebe Reisegefährtin. Möge doch eine gute <pb n="106"
-                    /> Gesundheit Ihr Geleitsmann bleiben! haben Sie ja die Güte uns den Zeitpunct
+                    man wird. Grüßen Sie Ihre liebe Reisegefährtin. Möge doch eine gute <pb n="106"/> Gesundheit Ihr Geleitsmann bleiben! haben Sie ja die Güte uns den Zeitpunct
                     Ihrer Ankunft näher zu bestimmen.</p>
                 <p rend="indentchar-m4n0"> Jena am 15. Sept. 1800.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4286</num>. <lb/>
                     <lb/>An <persName>Johann Friedrich Cotta</persName>
@@ -414,8 +369,7 @@
                 <p rend="indentchar-m4n0">
                     <milestone unit="testimony" spanTo="#graef_0982_end" xml:id="graef_0982"/>Ihre
                     freundliche Einladung ist freylich reizend genug; aber ich werde mich wohl
-                    einige Jahre vor allem hüten müssen, was mich so sehr zerstreuen kann, <pb
-                        n="108"/> wenn ich mit den Paar Arbeiten fertig werden will, die mir nun
+                    einige Jahre vor allem hüten müssen, was mich so sehr zerstreuen kann, <pb n="108"/> wenn ich mit den Paar Arbeiten fertig werden will, die mir nun
                     fast wie lästige Gespenster erscheinen, es ist <rs>der Faust und die Farbenlehre, an
                     beyden ist so viel vorgearbeitet</rs> daß ich nur Zeit zusammen geizen muß um sie los
                     zu werden.<anchor xml:id="graef_0982_end"/></p>
@@ -428,26 +382,20 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4287</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1800-09-16"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_0983"
-                        spanTo="#graef_0983_end"/>Der Trost, den Sie mir in Ihrem Briefe geben, daß
+                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_0983" spanTo="#graef_0983_end"/>Der Trost, den Sie mir in Ihrem Briefe geben, daß
                     <rs>durch die Verbindung des reinen und abentheuerlichen ein nicht ganz
                     verwerfliches poetisches Ungeheuer entstehen könne</rs>, hat sich durch die Erfahrung
                     schon an mir bestätigt, indem aus dieser Amalgamation seltsame Erscheinungen, an
                     denen ich selbst einiges Gefallen habe, hervortreten. Mich verlangt zu erfahren
                     wie es in vierzehn Tagen aussehen wird. Leider haben diese Erscheinungen eine so
                     große Breite als Tiefe, und sie würden mich eigentlich glücklich machen, wenn
-                    ich ein ruhiges halbes Jahr vor mir sehen könnte.<anchor xml:id="graef_0983_end"
-                    /></p>
+                    ich ein ruhiges halbes Jahr vor mir sehen könnte.<anchor xml:id="graef_0983_end"/></p>
                 <p rend="indentchar-m4n0">
                     <pb n="109"/> Mit Niethammern gehen die philosophischen Colloquia fort und ich
                     zweifle nicht daß ich auf diesem Wege zu einer Einsicht in die Philosophie
@@ -485,18 +433,13 @@
                 <pb n="111"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4289</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1800-09-23"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_0985"
-                        spanTo="#graef_0985_end"/>Ihr neulicher Besuch war mir sehr erfreulich;
+                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_0985" spanTo="#graef_0985_end"/>Ihr neulicher Besuch war mir sehr erfreulich;
                     unser Gespräch, so wie Meyers Vorlesung, haben mir Muth gemacht die erste
                     Expedition gleich bey Seite <pb n="112"/> zu schaffen. Briefe, Geld und Anzeige
                     sind abgegangen. An der Beurtheilung wird abgeschrieben und ich sinne nun auf
@@ -518,19 +461,14 @@
                 <p rend="indentchar-m4n0"> Grüßen Sie Meyern, an den ich heute nicht schreibe.</p>
                 <p rend="indentchar-m4n0"> Die philosophischen Colloquia werden immer interessanter
                     und ich kann hoffen, wenn ich mir nur Zeit lasse, das Ganze recht gut
-                    einzusehen. Wir wollen das möglichste thun um mit diesem <hi rend="italic"
-                        >dritten Wunder</hi> in das neue Jahrhundert einzutreten.</p>
+                    einzusehen. Wir wollen das möglichste thun um mit diesem <hi rend="italic">dritten Wunder</hi> in das neue Jahrhundert einzutreten.</p>
                 <p rend="indentchar-m4n0"> Leben Sie recht wohl und gedenken mein.</p>
                 <p rend="indentchar-m4n0"> Jena am 23. Sept. 1800.</p>
                 <p rend="right">G.</p>
                 <pb n="113"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4297</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -541,8 +479,7 @@
                     können, Sie werden sich aber wenig daran erbauen. Das Stoffartige jeder Sprache
                     so wie die Verstandsformen stehen so weit von der Production ab daß man gleich,
                     sobald man nur hineinblickt, einen so großen Umweg vor sich sieht daß man gern
-                    zufrieden ist wenn man sich wieder herausfinden kann. <milestone
-                        unit="testimony" xml:id="graef_0990" spanTo="#graef_0990_end"/><rs>In meiner
+                    zufrieden ist wenn man sich wieder herausfinden kann. <milestone unit="testimony" xml:id="graef_0990" spanTo="#graef_0990_end"/><rs>In meiner
                     Arbeit gehe ich auch nur so nach allgemeinen Eindrücken</rs>. Es muß jemand wie etwa
                     Humboldt den Weg gemacht haben, um uns etwa zum Gebrauch das Nöthige zu
                     überliefern. Ich wenigstens will warten bis er kommt und hoffe auch alsdann nur
@@ -565,11 +502,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4298</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -680,11 +613,7 @@
                 <pb n="128"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4299</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -695,8 +624,7 @@
                 <p rend="indentchar-m4n0">
                     <milestone unit="testimony" xml:id="graef_0992" spanTo="#graef_0992_end"/>Ob ich
                     gleich nicht gerade das zu Stande gebracht was ich mir vorgesetzt, so habe ich
-                    doch meine Zeit gut zugebracht und <rs>bin in manchem vorwärts gekommen</rs>.<anchor
-                        xml:id="graef_0992_end"/></p>
+                    doch meine Zeit gut zugebracht und <rs>bin in manchem vorwärts gekommen</rs>.<anchor xml:id="graef_0992_end"/></p>
                 <p rend="indentchar-m4n0"> Mögen Sie morgen Abend mich besuchen, so consultiren wir
                     zusammen, indeß die Welt sich am Bayard <pb n="128"/> ergötzt. Es muß nothwendig
                     unter uns dreyen noch erst ein Consilium gehalten werden, ehe ich an die
@@ -707,11 +635,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4307</num>. <lb/>
                     <lb/>An <persName>Carl Ludwig von Knebel</persName>
@@ -746,8 +670,7 @@
                     <milestone unit="testimony" xml:id="graef_0994" spanTo="#graef_0994_end"/>In
                     poeticis ist auch einiges gethan worden. <rs>An Faust habe ich verschiedentlich
                     gearbeitet</rs> und es scheint immer möglicher daß ich ihn noch werde vollenden
-                    können, so wunderbar und schwer die Aufgabe ist.<anchor xml:id="graef_0994_end"
-                    /></p>
+                    können, so wunderbar und schwer die Aufgabe ist.<anchor xml:id="graef_0994_end"/></p>
                 <p rend="indentchar-m4n0">
                     <pb n="137"/> Hast du von Tiecks Journal und romantischen Dichtungen noch nichts
                     gesehen, so kann ich dir einige Bände davon schicken. Erregt sonst etwas Neues
@@ -785,11 +708,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4314</num>. <lb/>
                     <lb/>An <persName>Johann Friedrich Cotta</persName>
@@ -842,8 +761,7 @@
                     den Faust betrifft</rs>, so ergeht es mir damit wie es uns oft bey Reisen geht daß
                     sich die Gegenstände weiter zu entfernen scheinen je weiter man vorrückt. Es ist
                     zwar <rs>dieses halbe Jahr über manches und nicht unbedeutendes geschehen</rs>; ich sehe
-                    aber noch nicht daß sich eine erfreuliche Vollendung so bald hoffen läßt.<anchor
-                        xml:id="graef_1001_end"/></p>
+                    aber noch nicht daß sich eine erfreuliche Vollendung so bald hoffen läßt.<anchor xml:id="graef_1001_end"/></p>
                 <p rend="indentchar-m4n0"> Der ich bald von Ihnen zu hören hoffe, und recht wohl zu
                     leben wünsche.</p>
                 <p rend="indentchar-m4n0"> Jena am 17. Nov. 1800.</p>
@@ -852,18 +770,13 @@
                 <pb n="146"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4315</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1800-11-18"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1003"
-                        spanTo="#graef_1003_end"/>Wohin sich die arme Poesie zuletzt noch flüchten
+                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1003" spanTo="#graef_1003_end"/>Wohin sich die arme Poesie zuletzt noch flüchten
                     soll weiß ich nicht, hier ist sie abermals in Gefahr von Philosophen,
                     Naturforschern und Consorten sehr in die Enge getrieben zu werden. Zwar kann ich
                     nicht läugnen daß ich die Herren selbst einlade und auffordere, und der bösen
@@ -878,8 +791,7 @@
                 <p rend="indentchar-m4n0"> Wenn Sie zu uns kommen so werden Sie viel Enthusiasmus
                     für das Festum Saeculare finden, man hat wirklich einige gute Gedanken gehabt
                     die vielleicht ausführbar sind.</p>
-                <p rend="indentchar-m4n0"> <rs>Zur Helena haben sich einige gute Motive gefunden</rs>,<anchor
-                        xml:id="graef_1003_end"/> und wenn ich ein Duzend Briefe die ich schuldig
+                <p rend="indentchar-m4n0"> <rs>Zur Helena haben sich einige gute Motive gefunden</rs>,<anchor xml:id="graef_1003_end"/> und wenn ich ein Duzend Briefe die ich schuldig
                     war, bey meinem hiesigen Aufenthalt los werde, so ist auch von der Seite was
                     gewonnen.</p>
                 <p rend="indentchar-m4n0">
@@ -888,11 +800,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4346</num>. <lb/>
                     <lb/>An <persName>Johann Friedrich Reichardt</persName>
@@ -930,8 +838,7 @@
                     anstellte. Auch hatte ich Zeit und Gelegenheit in den vergangnen vierzehn Tagen
                     mir manche von den Fäden zu vergegenwärtigen, die mich ans Leben, an Geschäfte,
                     an Wissenschaft und Kunst knüpfen. Keiner ist abgerissen wie es scheint, die
-                    Combination geht wie vor Alters fort, <milestone unit="testimony"
-                        xml:id="graef_1007" spanTo="#graef_1007_end"/>und <rs>die Production scheint
+                    Combination geht wie vor Alters fort, <milestone unit="testimony" xml:id="graef_1007" spanTo="#graef_1007_end"/>und <rs>die Production scheint
                     auch in einem Winkel zu lauren</rs>, um mich vielleicht bald durch ihre Wirkungen zu
                         erfreuen.<anchor xml:id="graef_1007_end"/></p>
                 <p rend="indentchar-m4n0"> Doch wollen wir uns indeß als Genesende behandeln und,
@@ -953,19 +860,14 @@
                 <p rend="right">Goethe.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4348</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1801-02-09"/>
                 </head>
                 <p rend="indentchar-m4n0">Halten Sie sich ja, daß dieser Sturm vorübergehe,
-                        <milestone unit="testimony" spanTo="#graef_1010_end" xml:id="graef_1010"
-                    />freylich hätte ich gehofft Sie heute Abend in meiner Einsamkeit zu sehen.
+                        <milestone unit="testimony" spanTo="#graef_1010_end" xml:id="graef_1010"/>freylich hätte ich gehofft Sie heute Abend in meiner Einsamkeit zu sehen.
                     Arbeiten möcht' und könnte ich wohl, besonders auch Ihnen zur Freude, wenn nicht
                     <rs>mein zerrißner Zustand mir fast alle Hoffnung und zugleich den Muth
                         benähme</rs>.<anchor xml:id="graef_1010_end"/></p>
@@ -978,11 +880,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4364</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -1007,8 +905,7 @@
                 <p rend="indentchar-m4n0">
                     <milestone unit="testimony" spanTo="#graef_1031_end" xml:id="graef_1031"/><rs>Mit
                     meinem Faust geht es sachte fort</rs>. Wenn ich auch täglich nur wenig mache, so
-                    suche ich mir doch den Sinn und den Antheil daran zu erhalten.<anchor
-                        xml:id="graef_1031_end"/></p>
+                    suche ich mir doch den Sinn und den Antheil daran zu erhalten.<anchor xml:id="graef_1031_end"/></p>
                 <p rend="indentchar-m4n0"> Wegen der Preisfrage sind wir ganz einig. Man könnte
                     verlangen</p>
                 <p rend="indentchar-m8n8">Eine gedrängte, lichtvolle Darstellung des Bestehenden im
@@ -1022,8 +919,7 @@
                     Hartmann erzählt hat, große Bewegung und Unzufriedenheit über unsere
                     Kunsturtheile. Wenn man das Detail vernimmt, so sieht man freylich in welcher
                     jämmerlichen Denkweise sie gefangen sind. Ihren Aufsatz haben sie für eine
-                    Arbeit von Böttiger erklärt. Wenn sie sich auf den Styl der bildenden <pb
-                        n="198"/> Kunst nicht besser verstehen, als den Styl des Schreibens, so
+                    Arbeit von Böttiger erklärt. Wenn sie sich auf den Styl der bildenden <pb n="198"/> Kunst nicht besser verstehen, als den Styl des Schreibens, so
                     sieht es freylich windig aus. Man macht sich immer eine Illusion über die
                     Menschen, besonders über seine Zeit. Die Confusion, die durch so viele
                     Individuen entsteht, deren jeder ein anderes Interesse hat dieses oder jenes
@@ -1036,18 +932,13 @@
                 <p rend="indentchar-m4n0"> Weimar am 11. März 1801.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4365</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1801-03-14"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1034_end"
-                        xml:id="graef_1034"/>Zuvörderst wünsche von Herzen Glück, daß die Arbeit gut
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1034_end" xml:id="graef_1034"/>Zuvörderst wünsche von Herzen Glück, daß die Arbeit gut
                     von statten geht, <rs>ich habe an Faust auch einiges gethan</rs> und so rückt man denn
                     immer, obgleich langsam, weiter.<anchor xml:id="graef_1034_end"/></p>
                 <p rend="indentchar-m4n0"> Hartmanns Aufenthalt ist vielleicht für uns nützlicher
@@ -1055,8 +946,7 @@
                     vorzüglichen Menschen kennen lernen. Übrigens fällt es mir manchmal ein daß man
                     auf die Kunst eigentlich eine geheime Gesellschaft fundiren sollte, wobey das
                     Lustige wäre, daß <pb n="199"/> sehr viele Künstler in die höhern Grade gar
-                    nicht kommen könnten, auch müßte man sie selbst dem Fähigsten nicht <hi
-                        rend="italic">geben</hi>, sondern wenn er endlich dahin gelangte ihm nur
+                    nicht kommen könnten, auch müßte man sie selbst dem Fähigsten nicht <hi rend="italic">geben</hi>, sondern wenn er endlich dahin gelangte ihm nur
                     erklären daß er sie erreicht habe. Sprechen, schreiben, drucken wird etwas
                     nützen aber nicht viel, indessen wollen wir uns auch dieses nicht reuen
                     lassen.</p>
@@ -1071,11 +961,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4366</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -1124,11 +1010,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4367</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -1157,23 +1039,17 @@
                     Trauer in Einem Product. Ich möchte nicht in der Haut des Verfassers
                     stecken.</p>
                 <p rend="indentchar-m4n0"> Zu Ihren Arbeiten wünsche ich viel Glück und freue mich
-                    auf die Zeiten wenn wir wieder zusammen seyn werden. <milestone unit="testimony"
-                        spanTo="#graef_1036_end" xml:id="graef_1036"/><rs>Faust hat noch keinen völligen
+                    auf die Zeiten wenn wir wieder zusammen seyn werden. <milestone unit="testimony" spanTo="#graef_1036_end" xml:id="graef_1036"/><rs>Faust hat noch keinen völligen
                     Stillstand erlitten</rs>.<anchor xml:id="graef_1036_end"/></p>
                 <p rend="indentchar-m4n0"> Weimar am 21. März 1801.</p>
                 <p rend="right">G.</p>
                 <pb n="203"/>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4371</num>. <lb/>
-                    <lb/>An <persName>Sara von Grotthus</persName>, verw. Wulff<date
-                        when="1801-03-28"/>
+                    <lb/>An <persName>Sara von Grotthus</persName>, verw. Wulff<date when="1801-03-28"/>
                 </head>
                 <p rend="right">Weimar, den 28. März 1801.</p>
                 <p rend="indentchar-m4n0">Durch die glückliche Ankunft Durchl. des Herzogs werde ich
@@ -1195,11 +1071,7 @@
                 <p rend="right">Goethe.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4376</num>. <lb/>
                     <lb/>An <persName>Friedrich Schiller</persName>
@@ -1236,8 +1108,7 @@
                     Ansprüche macht.</p>
                 <p rend="indentchar-m4n0"> Von Ihrer neusten Arbeit hoffe ich sehr viel Gutes. Das
                     Werk ist gut aufgefaßt und wenn Sie sich genug Muße geben, so wird es sich von
-                    selbst ründen. <milestone unit="testimony" xml:id="graef_1038"
-                        spanTo="#graef_1038_end"/><rs>An Faust ist in der Zeit auch etwas geschehen</rs>. Ich
+                    selbst ründen. <milestone unit="testimony" xml:id="graef_1038" spanTo="#graef_1038_end"/><rs>An Faust ist in der Zeit auch etwas geschehen</rs>. Ich
                     hoffe daß bald in der großen Lücke nur der Disputationsactus fehlen soll,
                     welcher denn freylich als ein eigenes Werk anzusehen ist und aus dem Stegreife
                     nicht entstehen wird.<anchor xml:id="graef_1038_end"/></p>
@@ -1267,11 +1138,7 @@
                 <p rend="right">G.</p>
                 <lb/>
             </div>
-            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:xi="http://www.w3.org/2001/XInclude"
-                xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg"
-                xmlns:math="http://www.w3.org/1998/Math/MathML"
-                xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
+            <div xmlns:f="http://faustedition.net/ns" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" type="letter">
                 <head>
                     <num type="wa-volume">15</num>/<num type="wa-letter">4456</num>. <lb/>
                     <lb/>An <persName>Johann Friedrich Rochlitz</persName>
@@ -1290,8 +1157,7 @@
                     <milestone unit="testimony" xml:id="graef_1041" spanTo="#graef_1041_end"/>Von
                     Faust kann ich nur so viel sagen: daß <rs>in den letzten Zeiten wohl manches daran
                     gearbeitet worden</rs>; in wie fern er sich aber seiner Vollendung, oder auch nur
-                    seiner Beendigung nahen dürfte, wüßte ich wirklich nicht zu sagen.<anchor
-                        xml:id="graef_1041_end"/></p>
+                    seiner Beendigung nahen dürfte, wüßte ich wirklich nicht zu sagen.<anchor xml:id="graef_1041_end"/></p>
                 <p rend="indentchar-m4n0"> Leben Sie recht wohl und erhalten mir ein
                     freundschaftliches Andenken.</p>
                 <p rend="indentchar-m4n0"> Weimar am 17. Dec. 1801.</p>

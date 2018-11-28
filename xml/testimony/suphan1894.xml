@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -46,14 +45,10 @@
                         
                         <cell><date from="1769" to="1775">de 1769 jusq. 1775</date></cell>
                         <cell><title rend="italic">Werther</title> Roman.<lb/>
-                            <milestone
-                                unit="testimony" xml:id="graef_1259" spanTo="#graef_1259_end"
-                            /><title rend="italic">Götz de Berlichingen,</title> tragedie, hors
+                            <milestone unit="testimony" xml:id="graef_1259" spanTo="#graef_1259_end"/><title rend="italic">Götz de Berlichingen,</title> tragedie, hors
                             des regles.<lb/><title rend="italic">Clavigo,</title>
                             tragedie<lb/><title rend="italic">Stella,</title> tragedie, selon
-                            les regles.<lb/><title rend="italic">Claudine</title> Opera<lb/><title
-                                rend="italic">Ervin et Elmire</title> Opera<lb/><rs><title
-                                    rend="italic">Faust</title></rs> Tableau hasardé du monde et des
+                            les regles.<lb/><title rend="italic">Claudine</title> Opera<lb/><title rend="italic">Ervin et Elmire</title> Opera<lb/><rs><title rend="italic">Faust</title></rs> Tableau hasardé du monde et des
                             moeurs, en forme dramatique.<lb/>Mainte petite production comique et
                             Satyrique.<anchor xml:id="graef_1259_end"/></cell>
                     </row>
@@ -62,8 +57,7 @@
                     <fw type="pageNum" rend="left">[18]</fw>
                     <row>
                         <cell><date from="1775" to="1780">de 1775 jusq. 1780</date></cell>
-                        <cell><title rend="italic">Elpenor</title> Tragedie fragment<lb/><title
-                            rend="italic">Les Oiseaux</title> Piece Satyrique, dans le sens
+                        <cell><title rend="italic">Elpenor</title> Tragedie fragment<lb/><title rend="italic">Les Oiseaux</title> Piece Satyrique, dans le sens
                             d’Aristophane.<lb/><title rend="italic">Lila</title>
                             Opera<lb/><title rend="italic">Frere et Soeur</title> Piece
                             sentimentale en un acte.<lb/><title rend="italic">Iphigenie en
@@ -76,9 +70,7 @@
                     
                     <row>
                         <cell><date from="1786" to="1788">de 1786 jusq. 1788</date></cell>
-                        <cell><title rend="italic">Edition complete en 8 volumes.</title><lb/><title
-                            rend="italic">Egmont</title> Tragedie hors des Regles<lb/><title
-                                rend="italic">Le Tasse</title> Tragedie selon les Regles</cell>
+                        <cell><title rend="italic">Edition complete en 8 volumes.</title><lb/><title rend="italic">Egmont</title> Tragedie hors des Regles<lb/><title rend="italic">Le Tasse</title> Tragedie selon les Regles</cell>
                     </row>
                     
                     <row>
@@ -92,15 +84,13 @@
                         <cell><title rend="italic">Elegies Romaines</title> dans le gout de
                             Properçe<lb/><title rend="italic">Epigrammes Venitiens</title>
                             d’apres le sens de Martial<lb/><title rend="italic">Reinekele
-                                Renard</title> traduit de l’ancien allemand.<lb/><title
-                                    rend="italic">Les entretiens des Emigrés.</title> Receuil de
+                                Renard</title> traduit de l’ancien allemand.<lb/><title rend="italic">Les entretiens des Emigrés.</title> Receuil de
                             Contes</cell>
                     </row>
                     
                     <row>
                         <cell><date from="1793" to="1797">de 1793 jusq. 1797</date></cell>
-                        <cell><title rend="italic">Alexis et Dora</title><lb/><title rend="italic"
-                            >Le nouveau Pausias</title> Elegies.<lb/><title rend="italic">La
+                        <cell><title rend="italic">Alexis et Dora</title><lb/><title rend="italic">Le nouveau Pausias</title> Elegies.<lb/><title rend="italic">La
                                 fiancée de Corinthe</title><lb/><title rend="italic">le Dien et la
                                     Bajadére</title> Ballades</cell>
                     </row>
@@ -108,9 +98,7 @@
                     <row>
                         <cell><date to="1800">jusq. a 1800</date></cell>
                         <cell><title rend="italic">Hermann et Dorothea,</title> Poeme epique en dix
-                            chants<lb/><title rend="italic">Euphrosyne</title> Elegie<lb/><title
-                                rend="italic">Achilleide</title> en deux chants<lb/><title
-                                    rend="italic">Palaeophron et Neoterpe</title> Comedie en Masques,
+                            chants<lb/><title rend="italic">Euphrosyne</title> Elegie<lb/><title rend="italic">Achilleide</title> en deux chants<lb/><title rend="italic">Palaeophron et Neoterpe</title> Comedie en Masques,
                             pour une Fete.<lb/>Traduction de <title rend="italic">Mahomet</title> et
                             de <title rend="italic">Tancrede</title></cell>
                     </row>
@@ -122,8 +110,7 @@
                     </row>
                     <row>
                         <cell><date when="1807">1807</date></cell>
-                        <cell>Plusieurs petits Contes et Nouvelles Nouvelles.<lb/><title
-                            rend="italic">Pandore</title> Drame Mythologique-allegorique</cell>
+                        <cell>Plusieurs petits Contes et Nouvelles Nouvelles.<lb/><title rend="italic">Pandore</title> Drame Mythologique-allegorique</cell>
                     </row>
                     <row>
                         <cell><date when="1809">1809</date></cell>
@@ -132,8 +119,7 @@
                     <row>
                         <cell><date when="1810">1810</date></cell>
                         <cell>Plusieures <title rend="italic">Poesies d’Occasion.</title> Surtout
-                            pour S. M. l’Imperatrice d’Autriche Louise.<lb/>Plusieures <title
-                                rend="italic">Ballades</title></cell>
+                            pour S. M. l’Imperatrice d’Autriche Louise.<lb/>Plusieures <title rend="italic">Ballades</title></cell>
                     </row>
                     <row>
                         <cell><date from="1813" to="1814">1813<lb/>1814</date></cell>
@@ -151,8 +137,7 @@
                     </row>
                     <row>
                         <cell><date from="1816" to="1818">jusq. 1818</date></cell>
-                        <cell>Plusieurs Tomes en prose, pour la plus part biographiques.<lb/><title
-                            rend="italic">Le Divan,</title> Collection de Poemes dans le Gout
+                        <cell>Plusieurs Tomes en prose, pour la plus part biographiques.<lb/><title rend="italic">Le Divan,</title> Collection de Poemes dans le Gout
                             Oriental, avec des Notes literaires</cell>
                     </row>
                     <row>

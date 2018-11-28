@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -56,8 +55,7 @@
                 <p rend="indentchar-m4n0"> Es schien ihm Bedürfniß diesen Abend recht viel, was mir
                     interessant sein möchte, mitzutheilen. »Man sollte das öfter thun«, sagte er;
                     »oft kann man damit einem Freunde Freude machen und mancher gute Gedanke keimt
-                    dabei auf. Nun, <milestone unit="testimony" spanTo="#graef_1878_end"
-                        xml:id="graef_1878"/>wenn ich nur erst meine Testamentssorge vom Herzen
+                    dabei auf. Nun, <milestone unit="testimony" spanTo="#graef_1878_end" xml:id="graef_1878"/>wenn ich nur erst meine Testamentssorge vom Herzen
                     habe, dann wollen wir wieder frisch auftreten. Zehn neue Bände meiner Schriften
                     sind fast schon parat. <rs>Vom zweiten Theil des ›Faust‹ der fünfte Act und der
                     zweite fast ganz</rs>; der vierte muß noch gemacht werden, doch im Nothfall könnte
@@ -77,8 +75,7 @@
                 <head>Mit <persName>Johann Peter
                         Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1881_end"
-                        xml:id="graef_1881"/>Heute bei Tische erzählte mir Goethe, daß er den
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1881_end" xml:id="graef_1881"/>Heute bei Tische erzählte mir Goethe, daß er den
                     <rs>vierten Act des ›Faust‹ angefangen habe und so fortzufahren gedenke</rs>, welches
                     mich sehr beglückte.<anchor xml:id="graef_1881_end"/></p>
                 <p rend="indentchar-m4n0"> Sodann sprach er mit großem Lobe über Karl Schöne, einen
@@ -123,8 +120,7 @@
                     <head><date when="1831-02-13">1831, 13. Februar.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1883_end"
-                        xml:id="graef_1883"/>Bei Goethe zu Tische. Er erzählt mir, <rs>daß er im vierten
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1883_end" xml:id="graef_1883"/>Bei Goethe zu Tische. Er erzählt mir, <rs>daß er im vierten
                     Act des ›Faust‹ fortfahre</rs>, und daß ihm jetzt der Anfang so gelungen, wie er es
                     gewünscht. »Das, was geschehen sollte,« sagte er, »hatte ich, wie Sie wissen,
                     längst; allein mit dem Wie war ich noch nicht ganz zufrieden, und da ist es mir
@@ -149,8 +145,7 @@
                     es bei einer solchen Composition bloß darauf an, daß die einzelnen Massen
                     bedeutend und klar seien, während es als ein Ganzes immer incommensurabel
                     bleibt, aber eben deswegen gleich einem unaufgelösten Problem die Menschen zu
-                    wiederholter Betrachtung immer wieder anlockt.«<anchor xml:id="graef_1883_end"
-                    /></p>
+                    wiederholter Betrachtung immer wieder anlockt.«<anchor xml:id="graef_1883_end"/></p>
                 <p rend="indentchar-m4n0"> Ich erzählte sodann von dem Brief eines jungen Militärs,
                     dem ich nebst andern Freunden gerathen hatte, in ausländische Dienste zu gehen,
                     und der nun, da er die fremden Zustände nicht nach seinem Sinne gefunden, auf
@@ -235,8 +230,7 @@
                     Wesen aus und erhebt uns über uns selbst, wenn wir solche Werke betrachten.
                     Dieser männliche Geist, von dem Sie sagen, findet sich auch ganz besonders in
                     den Rubens'schen Landschaften. Es sind freilich auch nur Bäume, Erdboden,
-                    Wasser, Felsen und Wolken, allein seine kräftige Gesinnung ist in die <pb n="15"
-                    /> Formen gefahren, und so sehen wir zwar immer die bekannte Natur, allein wir
+                    Wasser, Felsen und Wolken, allein seine kräftige Gesinnung ist in die <pb n="15"/> Formen gefahren, und so sehen wir zwar immer die bekannte Natur, allein wir
                     sehen sie von der Gewalt des Künstlers durchdrungen und nach seinem Sinne von
                     Neuem hervorgebracht.«</p>
                 <p rend="indentchar-m4n0"> »Allerdings,« sagte Goethe, »ist in der Kunst und Poesie
@@ -353,8 +347,7 @@
                     dasselbige sagen, so würden wir ihn auch da rühmen <pb n="31"/> müssen; denn
                     seine rhetorischen Talente und Künste hat er auch da bewiesen.«</p>
                 <p rend="indentchar-m4n0">
-                    <milestone unit="testimony" spanTo="#graef_1888_end" xml:id="graef_1888"
-                    />Schelling's ›Kabiren‹ brachten das Gespräch auf die <rs>›Classische
+                    <milestone unit="testimony" spanTo="#graef_1888_end" xml:id="graef_1888"/>Schelling's ›Kabiren‹ brachten das Gespräch auf die <rs>›Classische
                     Walpurgisnacht‹</rs>, und wie sich diese von den Brockenscenen des ersten Theils
                     unterscheide.</p>
                 <p rend="indentchar-m4n0"> »Die alte Walpurgisnacht,« sagte Goethe, »ist
@@ -374,8 +367,7 @@
                     lebendig sein, um alle jene Figuren wieder so frisch ins Leben treten zu lassen
                     und sie mit solcher Freiheit zu gebrauchen und zu behandeln, wie Sie es gethan
                     haben.«</p>
-                <p rend="indentchar-m4n0"> »Ohne eine lebenslängliche Beschäftigung mit der<pb
-                        n="32"/> bildenden Kunst,« sagte Goethe, »wäre es mir nicht möglich gewesen.
+                <p rend="indentchar-m4n0"> »Ohne eine lebenslängliche Beschäftigung mit der<pb n="32"/> bildenden Kunst,« sagte Goethe, »wäre es mir nicht möglich gewesen.
                     Das Schwierigste indessen war, sich bei so großer Fülle mäßig zu halten und alle
                     solche Figuren abzulehnen, die nicht durchaus zu meiner Intention paßten. So
                     habe ich z.B. von dem Minotaurus, den Harpyien und einigen andern Ungeheuern
@@ -404,26 +396,22 @@
                 <p rend="indentchar-m4n0"> »Wir wollen erwarten,« sagte Goethe, »was uns die Götter
                     Weiteres bringen. Es läßt sich in solchen Dingen nichts beschleunigen. Es kommt
                     darauf an, daß es den Menschen aufgehe, und daß Theaterdirectoren, Poeten und
-                    Componisten darin ihren Vortheil gewahr werden.«<anchor xml:id="graef_1888_end"
-                    /></p>
+                    Componisten darin ihren Vortheil gewahr werden.«<anchor xml:id="graef_1888_end"/></p>
                 <pb n="34"/>
                 <lb/>
             </div>
             <pb n="36"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1343.</num></head> <milestone unit="page" type="startpage"
-                        n="36"/>
+                    <num type="biedermann-1">1343.</num></head> <milestone unit="page" type="startpage" n="36"/>
                     
                     <head><date when="1831-03-02">1831, 2. März.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1890_end"
-                        xml:id="graef_1890"/>Heute bei Goethe zu Tische <rs>kam das Gespräch bald wieder
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1890_end" xml:id="graef_1890"/>Heute bei Goethe zu Tische <rs>kam das Gespräch bald wieder
                     auf das Dämonische</rs>, und er fügte zu dessen näherer Bezeichnung noch Folgendes
                     hinzu.</p>
-                <p rend="indentchar-m4n0"> »Das Dämonische,« sagte er, »ist dasjenige, was<pb n="37"
-                    /> durch Verstand und Vernunft nicht auszulösen ist. In meiner Natur liegt es
+                <p rend="indentchar-m4n0"> »Das Dämonische,« sagte er, »ist dasjenige, was<pb n="37"/> durch Verstand und Vernunft nicht auszulösen ist. In meiner Natur liegt es
                     nicht, aber ich bin ihm unterworfen.«</p>
                 <p rend="indentchar-m4n0"> »Napoleon,« sagte ich, »scheint dämonischer Art gewesen
                     zu sein.«</p>
@@ -493,10 +481,8 @@
                     jetzt schon in der ersten Scene haben, und man bedenkt nicht, daß es mit der
                     Poesie wie mit dem Seefahren ist, wo man erst vom Ufer stoßen und erst auf einer
                     gewissen Höhe sein muß, bevor man mit vollen Segeln gehen kann.«</p>
-                <p rend="indentchar-m4n0"> Goethe ließ etwas trefflichen Rheinwein kommen,<pb n="65"
-                    /> womit Frankfurter Freunde ihm zu seinem letzten Geburtstage ein Geschenk
-                    gemacht. <milestone unit="testimony" spanTo="#graef_1892_end"
-                        xml:id="graef_1892"/>Er erzählte mir dabei einige Anekdoten von Merck, der
+                <p rend="indentchar-m4n0"> Goethe ließ etwas trefflichen Rheinwein kommen,<pb n="65"/> womit Frankfurter Freunde ihm zu seinem letzten Geburtstage ein Geschenk
+                    gemacht. <milestone unit="testimony" spanTo="#graef_1892_end" xml:id="graef_1892"/>Er erzählte mir dabei einige Anekdoten von Merck, der
                     dem verstorbenen Großherzog nicht habe verzeihen können, daß er in der Ruhl bei
                     Eisenach eines Tages einen mittelmäßigen Wein vortrefflich gefunden.</p>
                 <p rend="indentchar-m4n0"> »Merck und ich,« fuhr Goethe fort, »waren immer
@@ -589,11 +575,9 @@
                     mit einem Punkte bekannt, den ich seit meinem Besuche bei Goethe gegen gar
                     niemand äußerte, indem man mir ununtersucht den Vorwurf der Eitelkeit machen
                     würde. Denke Dir, wie ernst bei aller Heiterkeit Goethe und ich gestimmt waren.
-                        <milestone unit="testimony" spanTo="#graef_1896_end" xml:id="graef_1896"
-                    />Als ich mit aller Wärme von dem Eindruck sprach, welchen sein <rs>›Faust‹</rs> auf mich
+                        <milestone unit="testimony" spanTo="#graef_1896_end" xml:id="graef_1896"/>Als ich mit aller Wärme von dem Eindruck sprach, welchen sein <rs>›Faust‹</rs> auf mich
                     machte und immer noch macht, da traten ihm, dem greisen Goethe, helle Thränen in
-                    sein offenes, schönes Auge, und seine Stimme zeugte von seiner Rührung.<anchor
-                        xml:id="graef_1896_end"/> Auch mich überwältigte mein Gefühl und mein Gemüth
+                    sein offenes, schönes Auge, und seine Stimme zeugte von seiner Rührung.<anchor xml:id="graef_1896_end"/> Auch mich überwältigte mein Gefühl und mein Gemüth
                     feierte, als er wieder die Rede ergriff. Dieß ist der dritte Sohn Gottes, der in
                     mein Gemüth herabstieg; der erste war – o den vergeß ich nicht –! der Augenblick
                     der Confirmation, der zweite – der Augenblick, <pb n="81"/> als ich das Gebet
@@ -618,16 +602,14 @@
                     <head><date>1831, 2. Mai.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1900_end"
-                        xml:id="graef_1900"/>Goethe erfreute mich mit der Nachricht, daß es ihm in
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1900_end" xml:id="graef_1900"/>Goethe erfreute mich mit der Nachricht, daß es ihm in
                     diesen Tagen gelungen, <rs>den bisher fehlenden Anfang des fünften Actes von ›Faust‹
                     so gut wie fertig zu machen</rs>.</p>
                 <p rend="indentchar-m4n0"> »Die Intention auch dieser Scenen,« sagte er, »ist über
                     dreißig Jahre alt; sie war von solcher Bedeutung, daß ich daran das Interesse
                     nicht verloren, allein so schwer auszuführen, daß ich mich davor fürchtete. Ich
                     bin nun durch manche Künste wieder in Zug gekommen, und wenn das Glück gut ist,
-                    so schreibe ich jetzt den vierten Act hintereinander weg.«<anchor
-                        xml:id="graef_1900_end"/></p>
+                    so schreibe ich jetzt den vierten Act hintereinander weg.«<anchor xml:id="graef_1900_end"/></p>
                 <p rend="indentchar-m4n0">
                     <pb n="83"/> Goethe erwähnte darauf eines bekannten Schriftstellers. »Es ist ein
                     Talent,« sagte er, »dem der Parteihaß als Alliance dient und das ohne ihn keine
@@ -647,15 +629,13 @@
             <pb n="93"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1375.</num></head> <milestone unit="page" type="startpage"
-                        n="93"/>
+                    <num type="biedermann-1">1375.</num></head> <milestone unit="page" type="startpage" n="93"/>
                     
                     <head><date when="1831-06-06">1831, 6. Juni.</date></head>
                 
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1914_end"
-                        xml:id="graef_1914"/>Goethe <rs>zeigte mir heute den bisher noch fehlenden
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1914_end" xml:id="graef_1914"/>Goethe <rs>zeigte mir heute den bisher noch fehlenden
                     Anfang des fünften Actes von ›Faust‹</rs>. Ich las bis zu der Stelle, wo die Hütte
                     von Philemon und Baucis verbrannt ist, und Faust in der Nacht, auf dem Balkon
                     seines Palastes stehend, den Rauch riecht, den ein leiser Wind ihm zuweht.</p>
@@ -719,8 +699,7 @@
                 <head>Mit <persName>Johann Peter
                         Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1947_end"
-                        xml:id="graef_1947"/><rs>Den noch fehlenden vierten Act [von ›Faust, Zweiter
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1947_end" xml:id="graef_1947"/><rs>Den noch fehlenden vierten Act [von ›Faust, Zweiter
                     Theil‹] vollendete Goethe darauf in den nächsten Wochen</rs> [nach dem 6. Juni],
                     sodaß im August der ganze zweite Theil geheftet und vollkommen fertig dalag.
                     Dieses Ziel, wonach er so lange gestrebt, endlich erreicht zu haben, machte
@@ -739,8 +718,7 @@
                     <head><date>1831 (?).</date></head>
                 <head>Mit <persName>Friedrich Wilhelm Riemer</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1962_end"
-                        xml:id="graef_1962"/>»<rs>Der zweite Theil [des ›Faust‹] sollte und konnte nicht
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1962_end" xml:id="graef_1962"/>»<rs>Der zweite Theil [des ›Faust‹] sollte und konnte nicht
                     so fragmentarisch sein, als der erste</rs>. Der Verstand hat mehr Forderungen daran,
                     als an den ersten, und in diesem Sinne mußte dem vernünftigen Leser<pb n="124"/>
                     entgegengearbeitet werden. Die Fabel mußte sich dem Ideellen nähern und zuletzt
@@ -753,8 +731,7 @@
                 <p rend="indentchar-m4n0"> Tizian, der große Colorist, malte im hohen Alter
                     diejenigen Stoffe, die er früher so concret nachzuahmen gewußt hatte, auch nur
                     in abstracto, z.B. den Sammet, nur als Idee davon – eine Anekdote, die Goethe
-                    mir mehrmals mit Beziehung auf sich erzählte.<anchor xml:id="graef_1962_end"
-                    /></p>
+                    mir mehrmals mit Beziehung auf sich erzählte.<anchor xml:id="graef_1962_end"/></p>
                 <pb n="125"/>
                 <lb/>
             </div>
@@ -817,8 +794,7 @@
                     uns die Munterkeit Alexei's Unannehmlichkeiten zuziehen könnte, aber in etwas
                     beruhigt durch seine erprobte Erfahrenheit im guten Ton, fuhr ich mit ihm nach
                     der Villa Goethes. Es begleitete uns dahin der Geheimrath B., der mit Goethe in
-                    vertrauten Beziehungen stand und, wie es schien, im freundschaftlichen <pb
-                        n="216"/> Auftrage des letzteren den Vermittler zwischen der bewundernden
+                    vertrauten Beziehungen stand und, wie es schien, im freundschaftlichen <pb n="216"/> Auftrage des letzteren den Vermittler zwischen der bewundernden
                     Neugierde der Fremden und der Person des Dichters, der so glücklich ist durch
                     seine Stellung im Staate und in der Gesellschaft gleich ausgezeichnet zu sein,
                     abgab ..... Der Empfang unseres ersten Besuchs war sehr förmlich und steif; die
@@ -864,8 +840,7 @@
                     weiden. Um mich für diesen Kunstgriff an ihm zu rächen, brachte ich durch eine
                     gewaltsame Wendung das Gespräch auf seine Schriften. Ich fragte ihn geradezu
                     über die kitzlichsten Materien mit einer Unbefangenheit, die mir sogleich über
-                    die ganze Gesellschaft ein Übergewicht gab. <milestone unit="testimony"
-                        spanTo="#graef_1963_end" xml:id="graef_1963"/>Ich brachte Fragen in
+                    die ganze Gesellschaft ein Übergewicht gab. <milestone unit="testimony" spanTo="#graef_1963_end" xml:id="graef_1963"/>Ich brachte Fragen in
                     Anregung, über welche sich die gelehrten Herren in Deutschland oft wacker
                     gestritten hatten, ohne daß der hohe Meister sich herabgelassen hätte, ihnen aus
                     dem Traum zu helfen. Mein Bruder unterstützte mich hierin in seiner lebhaften,
@@ -977,8 +952,7 @@
                     gegen den Überdruß, und Sie würden ihn <pb n="224"/> begreifen, wenn Sie nur
                     wenige Wochen mit ansehen könnten, wie mich täglich eine Anzahl von Fremden zu
                     bewundern verlangt, wovon viele meine Schriften nicht gelesen haben – wie fast
-                    alle Franzosen und Engländer – und die meisten mich nicht verstehen. <hi
-                        rend="italic">Sinn und Bedeutung meiner Schriften und meines Lebens ist der
+                    alle Franzosen und Engländer – und die meisten mich nicht verstehen. <hi rend="italic">Sinn und Bedeutung meiner Schriften und meines Lebens ist der
                         Triumph des Reinmenschlichen.</hi> Darum entschlage ich mich dessen nie und
                     genieße, was mir das Glück an Ruhm geboten, aber die süßere Frucht ist mir das
                         <hi rend="italic">Verstehen</hi> der gesunden Menschheit. Darum schätze ich
@@ -1054,8 +1028,7 @@
                     sagte er, »so will ich Ihnen nur gestehen, daß ich den Sinn von allem
                     Besprochenen in den Zweiten Theil meines <pb n="228"/> ›Faust‹ gelegt habe und
                     deshalb gewiß bin, daß dieser Schluß nach meinem Tode von meinen Landsleuten für
-                    das langweiligste Product meines Lebens wird erklärt werden.«<anchor
-                        xml:id="graef_1963_end"/></p>
+                    das langweiligste Product meines Lebens wird erklärt werden.«<anchor xml:id="graef_1963_end"/></p>
                 <p rend="indentchar-m4n0"> Und wunderbar! Einige Jahre nach dieser Unterredung bekam
                     ich gleichzeitig mit dem zweiten Bande des ›Faust‹ ein angesehenes deutsches
                     Blatt zur Hand, worin es hieß: So wie die physische Erscheinung dieses Buches
@@ -1067,8 +1040,7 @@
             <pb n="269"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1464.</num></head> <milestone unit="page" type="startpage"
-                        n="269"/>
+                    <num type="biedermann-1">1464.</num></head> <milestone unit="page" type="startpage" n="269"/>
                     
                     <head><date>1800, Mitte November.</date></head>
                 <head>Mit <persName>Friedrich Schlegel</persName></head>
@@ -1098,8 +1070,7 @@
             <pb n="358"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1533.</num></head> <milestone
-                        unit="page" type="startpage" n="358"/>
+                    <num type="biedermann-1">1533.</num></head> <milestone unit="page" type="startpage" n="358"/>
                     
                     <head><date>1820, Ende
                         September (?).</date></head>
@@ -1108,8 +1079,7 @@
                 
                 <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1226_end" xml:id="graef_1226"/>Zur Feier des
                     siebzigsten Geburtstages Goethes hatte der
-                    Staatsrath Schulz in seinem, in Schönhausen <pb
-                        n="359"/> bei Berlin gelegenen Landhause die
+                    Staatsrath Schulz in seinem, in Schönhausen <pb n="359"/> bei Berlin gelegenen Landhause die
                     näheren Freunde und Freundinnen des Dichters zu
                     einem festlichen Mittagsmahle versammelt. Reden,
                     Toaste und Gesänge fehlten nicht und meine Frau
@@ -1268,8 +1238,7 @@
                     Geigen finden, und das Cello des Fürsten Radziwill
                     würde sich gewiß Ihres Beifalls erfreuen.« – Meine
                     Frau erging sich aufs neue in lebhafter
-                    Schilderung des fürstlichen Componisten<pb n="364"
-                    /> und Virtuosen und fügte dann hinzu: »wir wollen
+                    Schilderung des fürstlichen Componisten<pb n="364"/> und Virtuosen und fügte dann hinzu: »wir wollen
                     es schon noch durchsetzen, daß Excellenz nach
                     Berlin kommen; ich habe mit Doris und Rosamunde
                     [Zelter's Töchtern] eine kleine Verschwörung
@@ -1289,8 +1258,7 @@
             <pb n="379"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1544.</num></head> <milestone unit="page" type="startpage"
-                        n="379"/>
+                    <num type="biedermann-1">1544.</num></head> <milestone unit="page" type="startpage" n="379"/>
                     
                     <head><date>1823, zwischen Ende Mai und Anfang Juli.</date></head>
                 <head>Mit <persName>Joseph Stieler</persName></head>
@@ -1312,8 +1280,7 @@
                     sind die Götter der Erde, nichts ist der Dichter: ein Buch muß er schreiben, um
                     vor das Publicum treten zu können; auf einer Tafel mit einem Blick vermag der
                     Künstler sich auszusprechen, die höchste und allgemeinste Wirkung zu erreichen.«
-                    – weiter bemerkte er: <milestone unit="testimony" spanTo="#graef_1631_end"
-                        xml:id="graef_1631"/>»Die bildende Kunst muß durch die Sinne des Gesichts
+                    – weiter bemerkte er: <milestone unit="testimony" spanTo="#graef_1631_end" xml:id="graef_1631"/>»Die bildende Kunst muß durch die Sinne des Gesichts
                     empfangen werden, sie ist folglich durch die technischen Vollkommenheiten
                     bedingt und ohne Zeichnung und Colorit, Schatten und Licht gar nicht denkbar.
                     Ich schätze wegen letzterem die Engländer (!) sehr. Ich halte diese Vorzüge
@@ -1330,8 +1297,7 @@
                     leiden, versicherte er; er trete nicht auseinander, er sei ihm zu altdeutsch und
                     Goethe fügte hinzu: »Dieses Gedicht hat man sooft darstellen gesucht, ich halte
                     aber dafür, daß es wenig für die bildende Kunst geeignet ist, weil es zu
-                    poetisch ist. Retzsch hat mehr das wirklich Darzustellende ergriffen.«<anchor
-                        xml:id="graef_1631_end"/></p>
+                    poetisch ist. Retzsch hat mehr das wirklich Darzustellende ergriffen.«<anchor xml:id="graef_1631_end"/></p>
                 <p rend="indentchar-m4n0"> Einen starken Anknüpfungspunkt mündlichen, wie später
                     schriftlichen Verkehrs zwischen beiden Männern bildete Goethes Farbenlehre. Der
                     Künstler (Stieler) – heißt es in dem Aufsatz [von Marggraff im ›Abendblatt der

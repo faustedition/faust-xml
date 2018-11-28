@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,35 +28,28 @@
                 <p>Es handelt sich um 24 Folio-Bogen, die in einem Halbfranz-Deckel eingeheftet sind
                     und von Eckermanns Hand die Aufschrift tragen:</p>
                 <p rend="centered">Faust am Hofe des Kaisers. (Des zweyten Theiles erste Abteilung.)
-                    In drey Acten. (Für die Bühne eingerichtet von Eckermann.) <anchor xml:id="N2"
-                        /><ref target="#F2"><hi rend="sup">2</hi>)</ref> In Musik gesetzt von C.
-                        Eberwein.<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup"
-                    >3</hi>)</ref></p>
+                    In drey Acten. (Für die Bühne eingerichtet von Eckermann.) <anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">2</hi>)</ref> In Musik gesetzt von C.
+                        Eberwein.<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup">3</hi>)</ref></p>
                 <pb n="VI" facs="tewes1901_r0006.jpg"/>
                 <p>In diese Bogen hat Eckermann nun den zerschnittenen Text der Cottaschen
-                    Taschenausgabe letzter Hand von Goethes Werken<anchor xml:id="N4"/><ref
-                        target="#F4"><hi rend="sup">1</hi>)</ref> eingeklebt und dazwischen und an
+                    Taschenausgabe letzter Hand von Goethes Werken<anchor xml:id="N4"/><ref target="#F4"><hi rend="sup">1</hi>)</ref> eingeklebt und dazwischen und an
                     den Rand die nötigen Bemerkungen mit Tinte geschrieben, sowie nachträglich mit
-                    Blei hinzugefügt<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup"
-                        >2</hi>)</ref>.</p>
+                    Blei hinzugefügt<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup">2</hi>)</ref>.</p>
                 <p>Einige andere Bemerkungen und verschiedene Namen, die sich auf die Aufführung
                     beziehen, sind später von einer zweiten und dritten Hand mit Blei eingetragen
                     und einige von einer vierten Hand gemachte Bleistift-Bemerkungen von einer
-                    fünften Hand mit Tinte nachgezogen worden<anchor xml:id="N6"/><ref target="#F6"
-                            ><hi rend="sup">3</hi>)</ref>.</p>
+                    fünften Hand mit Tinte nachgezogen worden<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup">3</hi>)</ref>.</p>
                 <p>Ausser den eingehefteten Bogen der fertigen Einrichtung und den dazu gehörigen
                     Entwürfen befand sich in dem Nachlasse eine vom 24. Januar 1834 datierte, den
                     ersten Akt betreffende Einrichtung ohne den Goetheschen Text, die als die
                     ursprüngliche anzusehen ist und ganz den Eindruck macht, als handele es sich um
                     ein eingefordertes Gutachten. Dieser 2½ Folio-Bogen umfassende Anfang stimmt in
                     der Hauptsache mit der vollständigen Einrichtung überein; er enthält jedoch
-                    verschiedene wichtige Bemerkungen, die in jener fehlen und des<pb n="VII"
-                        facs="tewes1901_r0007.jpg"/>halb mitgeteilt werden mussten. Da aber eine
+                    verschiedene wichtige Bemerkungen, die in jener fehlen und des<pb n="VII" facs="tewes1901_r0007.jpg"/>halb mitgeteilt werden mussten. Da aber eine
                     Herausschälung nicht thunlich war, so ist das vollständige Bruchstück am
                     Schlusse abgedruckt worden (1. Anlage S. 117 f.).</p>
                 <p>Diese Bühnen-Einrichtungen sind, wie aus der Datierung hervorgeht, im Jahre 1834
-                        entstanden<anchor xml:id="N7"/><ref target="#F7"><hi rend="sup"
-                        >1</hi>)</ref>. Ebenso ist die von Eckermann gedichtete neue Scene zwischen
+                        entstanden<anchor xml:id="N7"/><ref target="#F7"><hi rend="sup">1</hi>)</ref>. Ebenso ist die von Eckermann gedichtete neue Scene zwischen
                     Faust und Mephisto, wie deutlich aus der Bemerkung in der ersten Einrichtung (S.
                     123) ersichtlich ist, erst 1834 entstanden und nicht, wie man aus C. von
                     Beaulieu-Marconnays Angaben im 2. Bande des Goethe-Jahrbuchs (1881), S. 446
@@ -71,8 +64,7 @@
                     zu machen einestheils indem der griechische Tempel (als ein Zauberwerk)
                     zusammenstürzt und sodann dass <pb n="VIII" facs="tewes1901_r0008.jpg"/>ich für
                     Mephisto. noch einen ganz kurzen Epilog schreibe, worin er dem Publicum noch
-                    einiges zur weiteren Aufklärung sagt. Sobald Sie also das Buch<anchor
-                        xml:id="N9"/><ref target="#F9"><hi rend="sup">1</hi>)</ref> entbehren können
+                    einiges zur weiteren Aufklärung sagt. Sobald Sie also das Buch<anchor xml:id="N9"/><ref target="#F9"><hi rend="sup">1</hi>)</ref> entbehren können
                     bitte ich es mir auf ein paar Tage wieder aus. E.“</p>
                 <p>Im Druck sind, wie schon erwähnt, die Eckermannschen Bemerkungen in Borgis, der
                     Goethesche Text in Petit und die übrigen Zusätze und Namen (teils Borgis, teils
@@ -83,8 +75,7 @@
                     Quellen-Angabe die von E. gedichtete Scene zwischen Faust und Mephisto mitteilt,
                     die Kenntnis hatte, dass E. sich zu derselben Zeit — 1830 oder 1831 —, da Goethe
                     noch an der Beendigung des 4. und 5. Aktes arbeitete, mit einer Einrichtung des
-                    ersten Aktes für die Bühne beschäftigte, liess sich nicht feststellen<anchor
-                        xml:id="N10"/><ref target="#F10"><hi rend="sup">2</hi>)</ref>.</p>
+                    ersten Aktes für die Bühne beschäftigte, liess sich nicht feststellen<anchor xml:id="N10"/><ref target="#F10"><hi rend="sup">2</hi>)</ref>.</p>
                 <pb n="IX" facs="tewes1901_r0009.jpg"/>
                 <p>Dahingegen hat Eckermann selbst seine Bemerkungen über die Mütter im 2. Bande der
                     Gespräche (vgl. S. 93) unter Fortlassung der Einleitung wörtlich mitgeteilt und
@@ -97,8 +88,7 @@
                     Theater-Zettel Auskunft giebt, beziehen sich, wie schon hervorgehoben, die
                     eingeklammerten Bemerkungen und Namen der Mitwirkenden. Es hat auch eine
                     Wiederholung stattgefunden, aber nicht wie von Beaulieu-Marconnay angiebt, eine
-                    mehrfache, sondern nur eine einmalige am 28. September 1856<anchor xml:id="N11"
-                        /><ref target="#F11"><hi rend="sup">1</hi>)</ref>.</p>
+                    mehrfache, sondern nur eine einmalige am 28. September 1856<anchor xml:id="N11"/><ref target="#F11"><hi rend="sup">1</hi>)</ref>.</p>
                 <p>An dieser Stelle möchte ich noch mitteilen, dass Eckermann in den letzten Jahren
                     seines Lebens beabsichtigt hat, „Gespräche mit Goethe über den zweiten Theil des
                     Faust“ herauszugeben. Ueber die ersten Anfänge ist dieser Plan aber wohl nicht
@@ -124,8 +114,7 @@
                     vorlesen zu können, so wird es in noch erhötem Grade bei Schillern und jedem
                     anderen der Fall gewesen sein, denn Goethe war der Mann dazu, sich als
                     Vorlesender bewundern zu lassen, besonders in Dingen wie der Faust, welches als
-                    ein Stück seiner eigenen Seele zu betrachten <pb n="XI"
-                        facs="tewes1901_r0011.jpg"/>ist. Schon der Ton seiner Stimme war im hohen
+                    ein Stück seiner eigenen Seele zu betrachten <pb n="XI" facs="tewes1901_r0011.jpg"/>ist. Schon der Ton seiner Stimme war im hohen
                     Grade merkwürdig; bald wie ein Gelispel, bald wie das Rollen eines Donners,
                     durch alle denkbaren Naturlaute gehend, und dann wieder ging sie plötzlich zu
                     ganz anderen Dingen über, wie zum Beispiel bei dem Schnarchen der Greise,
@@ -142,8 +131,7 @@
                     merkwürdig und zu beachten. Den Ersten Theil des Faust schrieb Goethe wie er mir
                     vor Jahren erzählte auf Postpapier; und zwar hütete er sich, darin die geringste
                     Correctur zu machen, so dass das Manuscript als ein Muster von Reinheit
-                    anzusehen war. Diese saubere Handschrift <pb n="XII" facs="tewes1901_r0012.jpg"
-                    />Goethes hat sich sein Lebelang erhalten. Ohne Pedanterie, ohne steif zu
+                    anzusehen war. Diese saubere Handschrift <pb n="XII" facs="tewes1901_r0012.jpg"/>Goethes hat sich sein Lebelang erhalten. Ohne Pedanterie, ohne steif zu
                     erscheinen, wie bei einem der nach Accuratesse strebt, und dann diesem Ziel ein
                     solches Gepräge aufdrückt, dass man es jedem Worte ansieht: es ist darauf
                     abgesehen eine grosse Nettigkeit und Sauberkeit zu zeigen, und so wie man zu
@@ -156,14 +144,11 @@
                     aus einem Versuche, den er mit Blei gemacht hat und der folgende wohl auch für
                     die Gespräche über den zweiten Teil bestimmte Mitteilung betrifft:</p>
                 <p rend="indented">„Den ersten Theil des Faust hat Goethe im Jahre 1775 geschrieben
-                    und zwar in seinem 25. Jahre im ersten Feuer<anchor xml:id="N12"/><ref
-                        target="#F12"><hi rend="sup">1</hi>)</ref> seiner Jugend.“</p>
+                    und zwar in seinem 25. Jahre im ersten Feuer<anchor xml:id="N12"/><ref target="#F12"><hi rend="sup">1</hi>)</ref> seiner Jugend.“</p>
                 <p>Die Handschrift legt Zeugnis ab von dem Alter und Kräfteverfall des Schreibenden,
                     dem die wenigen Zeilen gewiss grosse Mühe bereitet haben. Und aus diesem Grunde
-                    hat Eckermann daher auch wohl von einer Fortsetzung Abstand genommen und die <pb
-                        n="XIII" facs="tewes1901_r0013.jpg"/>obige Bemerkung noch einmal seinem
-                    Sohne Karl diktiert<anchor xml:id="N13"/><ref target="#F13"><hi rend="sup"
-                            >1</hi>)</ref>.</p>
+                    hat Eckermann daher auch wohl von einer Fortsetzung Abstand genommen und die <pb n="XIII" facs="tewes1901_r0013.jpg"/>obige Bemerkung noch einmal seinem
+                    Sohne Karl diktiert<anchor xml:id="N13"/><ref target="#F13"><hi rend="sup">1</hi>)</ref>.</p>
                 <p>Alsdann enthält der Nachlass von Karl Eckermanns Hand den folgenden Anfang einer
                     Aeusserung Goethes, die es auch verdient, hier mitgeteilt zu werden:</p>
                 <p rend="indented">„<milestone unit="testimony" spanTo="#graef_1338_end" xml:id="graef_1338"/>Hier also der Anfang! Da Sie mich kennen, so werden Sie nicht
@@ -175,8 +160,7 @@
                     aus solchem scheinbaren Tode ein neues Leben anzuzünden. Ich musste hiebei eine
                     Zuflucht zu wohlthätigen mächtigen Geistern nehmen wie sie uns in der Gestalt
                     und im Wesen von Elfen überliefert sind. Es ist alles Mitleid und das tiefste
-                    Erbarmen. Da wird kein Gericht gehalten und da ist keine Frage, ob er es ver<pb
-                        n="XIV" facs="tewes1901_r0014.jpg"/>dient oder nicht verdient habe, wie es
+                    Erbarmen. Da wird kein Gericht gehalten und da ist keine Frage, ob er es ver<pb n="XIV" facs="tewes1901_r0014.jpg"/>dient oder nicht verdient habe, wie es
                     etwa von Menschen Richtern geschehen könnte. Bei den Elfen kommen solche Dinge
                     nicht in Erwägung. Ihnen ist es gleich, ob er ein Heiliger oder ein Böser in
                     Sünde versunkener ist, „ob er heilig ob er böse jammert sie der Unglücksmann“
@@ -194,8 +178,7 @@
                     finden suchte und bei allen Heroen des griechischen Alterthums sich nach ihr
                     erkundigte; wodurch die Schicksale und der Lebensgang dieser berühmten Schönheit
                     zur Sprache gebracht wurden. Hier muss zur Erwähnung kommen, an welchen der
-                    Heroen Faust sich wendet und was er von ihnen <pb n="XV"
-                        facs="tewes1901_r0015.jpg"/>ausforscht. Zweitens Mephistopheles, der auf
+                    Heroen Faust sich wendet und was er von ihnen <pb n="XV" facs="tewes1901_r0015.jpg"/>ausforscht. Zweitens Mephistopheles, der auf
                     diesem griechischen Blocksberg keine geringe Rolle spielt, und der in einem
                     grossen Reich von Ungeheuern und Hässlichkeiten vielerlei Berührungen findet,
                     die ihm zu schaffen machen. Seine nächste Absicht ist: die Phorkyaden
@@ -205,18 +188,15 @@
                     worden sind, geht auch aus dem verwendeten geschnittenen Papier hervor.</p>
                 <p>Von Eckermanns Hand liegt schliesslich noch eine Bemerkung vor, die ebenfalls zur
                     Sache gehört. Auf einem geschnittenen Bogen steht mit Tinte geschrieben:</p>
-                <p rend="indented">„Einem Band Gespräche mit Goethe über den <hi
-                        rend="letter-spaced">Zweiten Theil des Faust</hi> dürfte es zur Zierde
+                <p rend="indented">„Einem Band Gespräche mit Goethe über den <hi rend="letter-spaced">Zweiten Theil des Faust</hi> dürfte es zur Zierde
                     gereichen wenn Goethes Tagebuch über meinen täglichen Verkehr mit ihm, demselben
                     voranginge.“</p>
                 <p>Diese Bemerkung, die zeitlich den anderen nicht sehr fern steht, stammt noch aus
                     Eckermanns besseren Tagen; die Handschrift ist, wenn auch verändert und das
                     Alter verratend, doch klar und deutlich.</p>
                 <p>Leider sind Eckermanns Tagebücher nach dem Tode seines Sohnes Karl vernichtet
-                    worden, und somit ist die Quelle, aus der er schöpfte, und aus der <pb n="XVI"
-                        facs="tewes1901_r0016.jpg"/>wir noch weitere Aufschlüsse über „das grösste
-                    Werk deutscher Poesie“<anchor xml:id="N14"/><ref target="#F14"><hi rend="sup"
-                            >1</hi>)</ref> hätten gewinnen können, versiegt.</p>
+                    worden, und somit ist die Quelle, aus der er schöpfte, und aus der <pb n="XVI" facs="tewes1901_r0016.jpg"/>wir noch weitere Aufschlüsse über „das grösste
+                    Werk deutscher Poesie“<anchor xml:id="N14"/><ref target="#F14"><hi rend="sup">1</hi>)</ref> hätten gewinnen können, versiegt.</p>
                 <p>Zum Schluss versäume ich nicht, auch an dieser Stelle dem General-Intendanten des
                     Grossherzogl. Hoftheaters in Weimar, Herrn von Vignau, und dem Archivar des
                     Goethe- und Schiller-Archivs, ebendaselbst, Herrn Dr. Schüddekopf, meinen
@@ -239,8 +219,7 @@
                         der Partitur konnte ich nichts erfahren.</ref>
                 </p>
                 <p><anchor xml:id="F4"/><ref target="#N4"><hi rend="sup">1</hi>) 21. Bd. 1832. 16°,
-                        der Bogennorm nach kl. 8°. In der Weimarischen Ausgabe C<hi rend="sup"
-                            >1</hi> genannt. Im Druck Petit.</ref>
+                        der Bogennorm nach kl. 8°. In der Weimarischen Ausgabe C<hi rend="sup">1</hi> genannt. Im Druck Petit.</ref>
                 </p>
                 <p><anchor xml:id="F5"/><ref target="#N5"><hi rend="sup">2</hi>) Im Druck
                         Borgis.</ref>

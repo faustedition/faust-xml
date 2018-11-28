@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,13 +21,10 @@
             <pb n="329" facs="vollmer1876_0329.jpg"/>
             <div type="letter">
                 <head rend="centered"><num>286.</num> Cotta an Schiller.</head>
-                <head rend="right">(<hi rend="letter-spaced">Tübingen</hi>, <date when="1798-12-06"
-                        >6. Dec. 98.</date>) <hi rend="small">[nicht verz.]</hi></head>
-                <p>Ihr werthes v. 28.<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
-                        >1</hi></ref> November wolte ich nicht eher beantworten, als bis der darinn
+                <head rend="right">(<hi rend="letter-spaced">Tübingen</hi>, <date when="1798-12-06">6. Dec. 98.</date>) <hi rend="small">[nicht verz.]</hi></head>
+                <p>Ihr werthes v. 28.<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi></ref> November wolte ich nicht eher beantworten, als bis der darinn
                     angezeigte Nachfolger eintreffen würde; da aber Haſelmajer indeſſen geſchriben
-                    hat, ſo beeile ich mich Ihnen diß zu ſenden.<anchor xml:id="N2"/><ref
-                        target="#F2"><hi rend="sup">2</hi></ref> Ich ſchrib ihm, daß wegen
+                    hat, ſo beeile ich mich Ihnen diß zu ſenden.<anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">2</hi></ref> Ich ſchrib ihm, daß wegen
                     eingetrettenen Umſtänden der Druk ſchwerlich vor Einem Jahr beginnen werde: denn
                     ſo ſehr ich auch mit Ungeduld diſem entgegen ſehe, ſo könte ich es doch nicht
                     vertragen, wann Ihr Intereſſe darunter leiden ſolte, und das wäre unter diſen

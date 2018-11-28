@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,29 +21,23 @@
             <pb n="205" facs="jonas1892-1897_5_0205.jpg"/>
             <div type="letter">
                 <head><num>1208.</num> An Wolfgang von Goethe.</head>
-                <head rend="right"><hi rend="antiqua">Jena</hi> den <date when="1797-06-23">23. <hi
-                            rend="antiqua">Jun.</hi> [Freitag] 97.</date></head>
+                <head rend="right"><hi rend="antiqua">Jena</hi> den <date when="1797-06-23">23. <hi rend="antiqua">Jun.</hi> [Freitag] 97.</date></head>
                 <p><milestone unit="testimony" spanTo="#pniower_95_end" xml:id="pniower_95"/>Ihr <rs>Entſchluß an den Fauſt zu gehen</rs> iſt mir in der That überraſchend, beſonders
                     jetzt, da Sie ſich zu einer Reiſe nach Italien gürten. Aber ich hab es einmal
                     für immer aufgegeben, Sie mit der gewöhnlichen Logik zu meſſen, und bin alſo im
                     Voraus überzeugt, daß Ihr Genius ſich vollkommen gut aus der Sache ziehen
                     wird.</p>
-                <p>Ihre Aufforderung an mich, Ihnen meine Erwartungen und <hi rend="antiqua"
-                        >Desideria</hi> mitzutheilen, iſt nicht leicht zu erfüllen; aber ſoviel ich
+                <p>Ihre Aufforderung an mich, Ihnen meine Erwartungen und <hi rend="antiqua">Desideria</hi> mitzutheilen, iſt nicht leicht zu erfüllen; aber ſoviel ich
                     kann, will ich Ihren Faden aufzufinden ſuchen, und wenn auch das nicht geht, ſo
                     will ich mir einbilden, als ob ich die <hi rend="antiqua">Fragmente</hi> von
                     Fauſt zufällig fände und ſolche auszuführen hätte. So viel bemerke ich hier nur,
                     daß der Fauſt, das Stück nehmlich, bei aller ſeiner dichteriſchen Individualität
                     die Foderung an eine <hi rend="antiqua">Symboli</hi>ſche Bedeutſamkeit nicht
-                    ganz von ſich weiſen kann, wie auch wahrſcheinlich Ihre eigene Idee iſt. Die <hi
-                        rend="antiqua">Duplicität</hi> der menſchlichen Natur und das verunglückte
+                    ganz von ſich weiſen kann, wie auch wahrſcheinlich Ihre eigene Idee iſt. Die <hi rend="antiqua">Duplicität</hi> der menſchlichen Natur und das verunglückte
                     Beſtreben das Göttliche und <hi rend="antiqua">Phys</hi>iſche im Menſchen zu
                     vereinigen, verliert man nicht aus den Augen; und weil die Fabel ins Grelle und
                     Formloſe geht und gehen muß, ſo will man nicht bei dem Gegenſtand ſtille ſtehen,
-                    ſondern von ihm zu Id<hi rend="antiqua">ee</hi>n geleitet werden. <pb n="206"
-                        facs="jonas1892-1897_5_0206.jpg"/>Kurz, die Anfoderungen an den <hi
-                        rend="antiqua">Faust</hi> ſind zugleich <hi rend="antiqua"
-                        >philosophisch</hi> und <hi rend="antiqua">poeti</hi>ſch, und Sie mögen ſich
+                    ſondern von ihm zu Id<hi rend="antiqua">ee</hi>n geleitet werden. <pb n="206" facs="jonas1892-1897_5_0206.jpg"/>Kurz, die Anfoderungen an den <hi rend="antiqua">Faust</hi> ſind zugleich <hi rend="antiqua">philosophisch</hi> und <hi rend="antiqua">poeti</hi>ſch, und Sie mögen ſich
                     wenden wie Sie wollen, ſo wird Ih<hi rend="antiqua">nen</hi> die Natur des
                     Gegenſtandes eine <hi rend="antiqua">philosoph</hi>iſche Behandlung auflegen,
                     und die Einbildungskraft wird ſich zum Dienſt einer Vernunftidee bequemen
@@ -63,19 +57,13 @@
                 <head rend="right"><hi rend="antiqua">Jena</hi>
                     <date when="1797-06-26">26. <hi rend="antiqua">Juni</hi> [Montag]
                     97.</date></head>
-                <p>Wenn ich Sie neulich recht verſtanden habe, ſo haben Sie die Idee, Ihr neues <hi
-                        rend="antiqua">ep</hi>iſches Gedicht, die <hi rend="antiqua">Jagd,</hi> in
+                <p>Wenn ich Sie neulich recht verſtanden habe, ſo haben Sie die Idee, Ihr neues <hi rend="antiqua">ep</hi>iſches Gedicht, die <hi rend="antiqua">Jagd,</hi> in
                     Reimen und Strophen zu behandeln. Ich vergaß neulich, ein Wort darüber zu ſagen,
                     aber dieſe Idee leuchtet mir ein, und ich glaube ſogar, daß dieß die Bedingung
-                    ſeyn wird, unter welcher allein dieſes neue Gedicht neben Ihrem <hi
-                        rend="antiqua">Hermann</hi> beſtehen kann. Außerdem, daß ſelbſt der Gedanke
+                    ſeyn wird, unter welcher allein dieſes neue Gedicht neben Ihrem <hi rend="antiqua">Hermann</hi> beſtehen kann. Außerdem, daß ſelbſt der Gedanke
                     des Gedichts zur <hi rend="antiqua">modernen</hi> Dichtkunſt geeignet iſt und
-                    alſo auch die beliebte Strophenform begünſtigt, ſo ſchließt die neue <hi
-                        rend="antiqua">metri</hi>ſche Form ſchon die <hi rend="antiqua"
-                        >Concurrenz</hi> und Vergleichung aus; ſie giebt dem Leſer eben ſowohl als
-                    dem Dichter eine ganz andere Stimmung, es iſt ein <hi rend="antiqua"
-                        >Concert</hi> auf einem ganz andern Inſtrument. Zugleich <hi rend="antiqua"
-                        >participiert</hi> es alsdann von gewiſſen Rechten des romantiſchen
+                    alſo auch die beliebte Strophenform begünſtigt, ſo ſchließt die neue <hi rend="antiqua">metri</hi>ſche Form ſchon die <hi rend="antiqua">Concurrenz</hi> und Vergleichung aus; ſie giebt dem Leſer eben ſowohl als
+                    dem Dichter eine ganz andere Stimmung, es iſt ein <hi rend="antiqua">Concert</hi> auf einem ganz andern Inſtrument. Zugleich <hi rend="antiqua">participiert</hi> es alsdann von gewiſſen Rechten des romantiſchen
                     Gedichts, ohne <pb n="207" facs="jonas1892-1897_5_0207.jpg"/>daß es eigentlich
                     eines wäre, es darf ſich wo nicht des wunderbaren, doch des Seltſamen und
                     überraſchenden mehr bedienen, und die Löwen und Tieger-Geſchichte, die mir immer
@@ -93,8 +81,7 @@
                     den Verſtand in Verlegenheit ſetzen. Was mich daran ängſtigt iſt, daß mir der
                     Fauſt ſeiner Anlage nach auch eine <hi rend="antiqua">Totalität</hi> der Materie
                     nach zu erfodern ſcheint, wenn am Ende die <hi rend="antiqua">Idee</hi>
-                    ausgeführt erſcheinen ſoll, und für eine ſo hoch aufquellende <hi rend="antiqua"
-                        >Masse</hi> finde ich keinen <hi rend="antiqua">poet</hi>iſchen Reif, der
+                    ausgeführt erſcheinen ſoll, und für eine ſo hoch aufquellende <hi rend="antiqua">Masse</hi> finde ich keinen <hi rend="antiqua">poet</hi>iſchen Reif, der
                     ſie zuſammenhält. Nun, Sie werden ſich ſchon zu helfen wiſſen.</p>
                 <p>Zum Beyſpiel, es gehörte ſich meines Bedünkens, daß der Fauſt in das handelnde
                     Leben geführt würde, und welches Stück Sie auch aus dieſer Maſſe erwählen, ſo
@@ -102,20 +89,15 @@
                     zu erfodern.</p>
                 <p>In Rückſicht auf die Behandlung finde ich die große Schwierigkeit, zwiſchen dem
                     Spaß und dem Ernſt glücklich durchzukommen; Verſtand und Vernunft ſcheinen mir
-                    in dieſem Stoff auf Tod und Leben miteinander zu ringen. Bei der jetzigen <hi
-                        rend="antiqua">fragmentar</hi>iſchen Geſtalt des Fauſts fühlt man dieſes
+                    in dieſem Stoff auf Tod und Leben miteinander zu ringen. Bei der jetzigen <hi rend="antiqua">fragmentar</hi>iſchen Geſtalt des Fauſts fühlt man dieſes
                     ſehr, aber man verweißt die Erwartung auf das entwickelte Ganze. Der Teufel
                     behält durch ſeinen <hi rend="antiqua">Realism</hi> vor dem Verſtand, und der
-                    Fauſt vor dem Herzen Recht. Zuweilen aber <pb n="208"
-                        facs="jonas1892-1897_5_0208.jpg"/>ſcheinen ſie ihre Rollen zu tauſchen und
+                    Fauſt vor dem Herzen Recht. Zuweilen aber <pb n="208" facs="jonas1892-1897_5_0208.jpg"/>ſcheinen ſie ihre Rollen zu tauſchen und
                     der Teufel nimmt die Vernunft gegen den Fauſt in Schutz.</p>
-                <p>Eine Schwierigkeit finde ich auch darin, daß der Teufel durch ſeinen <hi
-                        rend="antiqua">Character,</hi> der realiſtiſch iſt, ſeine <hi rend="antiqua"
-                        >Ex</hi>iſtenz, die idealiſtiſch iſt, aufhebt. Die Vernunft nur kann ihn
+                <p>Eine Schwierigkeit finde ich auch darin, daß der Teufel durch ſeinen <hi rend="antiqua">Character,</hi> der realiſtiſch iſt, ſeine <hi rend="antiqua">Ex</hi>iſtenz, die idealiſtiſch iſt, aufhebt. Die Vernunft nur kann ihn
                     glauben, und der Verſtand nur kann ihn ſo, wie er da iſt, gelten laſſen und
                     begreifen.</p>
-                <p>Ich bin überhaupt ſehr erwartend, wie die Volksfabel ſich dem <hi rend="antiqua"
-                        >philosophi</hi>ſchen Theil des Ganzen anſchmiegen wird.<anchor xml:id="pniower_99_end"/></p>
+                <p>Ich bin überhaupt ſehr erwartend, wie die Volksfabel ſich dem <hi rend="antiqua">philosophi</hi>ſchen Theil des Ganzen anſchmiegen wird.<anchor xml:id="pniower_99_end"/></p>
                 <p>Hier ſende ich meine Ballade. Es iſt ein Gegenſtück zu Ihren Kranichen. Schreiben
                     Sie mir doch, wie es ums <hi rend="antiqua">Barometer</hi> ſteht; ich wünſchte
                     zu wiſſen, ob wir endlich dauerhaftes Wetter hoffen können. Leben Sie recht
@@ -131,10 +113,8 @@
                     ſind. Das Tadelnswürdige an ſeiner Arbeit iſt mir ſehr lebhaft aufgefallen, aber
                     ich wußte nicht recht, ob das Gute auch Stich halten würde, das ich darinn zu
                     bemerken glaubte. Aufrichtig, ich fand in dieſen Gedichten viel von meiner
-                    eigenen ſonſtigen Geſtalt, und es iſt nicht das erſte<pb n="211"
-                        facs="jonas1892-1897_5_0211.jpg"/>mal, daß mich der Verfaßer an mich mahnte.
-                    Er hat eine heftige Subjectivität, und verbindet damit einen gewißen <hi
-                        rend="antiqua">philosoph</hi>iſchen Geiſt und Tiefſinn. Sein Zuſtand iſt
+                    eigenen ſonſtigen Geſtalt, und es iſt nicht das erſte<pb n="211" facs="jonas1892-1897_5_0211.jpg"/>mal, daß mich der Verfaßer an mich mahnte.
+                    Er hat eine heftige Subjectivität, und verbindet damit einen gewißen <hi rend="antiqua">philosoph</hi>iſchen Geiſt und Tiefſinn. Sein Zuſtand iſt
                     gefährlich, da ſolchen Naturen ſo gar ſchwer beyzukommen iſt. Indeſſen finde ich
                     in dieſen neuern Stücken doch den Anfang einer gewißen Verbeßerung, wenn ich ſie
                     gegen ſeine vormaligen Arbeiten halte; denn kurz, es iſt Hölderlin, den Sie vor
@@ -153,29 +133,22 @@
                     was an ihr. Ich muß mich doch wirklich drüber wundern, wie unſere Weiber jetzt,
                     auf bloß dilettantiſchem Wege, eine gewiſſe Schreibgeſchicklichkeit ſich zu
                     verſchaffen wißen, die der Kunſt nahe kommt.</p>
-                <p>Kennen Sie etwa einen gewiſſen <hi rend="antiqua">Ahl</hi>warth, <hi
-                        rend="antiqua">Rector</hi> in <hi rend="antiqua">Anclam,</hi> durch
+                <p>Kennen Sie etwa einen gewiſſen <hi rend="antiqua">Ahl</hi>warth, <hi rend="antiqua">Rector</hi> in <hi rend="antiqua">Anclam,</hi> durch
                     Ueberſetzungen des Kallimachos? Er hat ſich zu den <hi rend="antiqua">Horen</hi>
                     angeboten und beruft ſich auf <hi rend="antiqua">Voss,</hi> der ihn an mich
                     gewieſen. Er überſetzt aus alten und neuen Sprachen, und auch im Merkur 95 ſoll
-                    mehreres aus <hi rend="antiqua">Euripides, Ovid</hi> u auch aus <hi
-                        rend="antiqua">Camoens</hi> von ihm ſtehen. Wenn Sie <hi rend="antiqua"
-                        >Böttiger</hi> ſehen, ſo ſeyen Sie doch ſo gütig, ihn nach dieſem <hi
-                        rend="antiqua">Subject</hi> zu fragen, und uns jene Merkur Stücke durch ihn
-                    zu verſchaffen. Er bietet mir <hi rend="antiqua">Hero</hi> u. <hi rend="antiqua"
-                        >Leander</hi> und einige <hi rend="letter-spaced">engliſche</hi>
+                    mehreres aus <hi rend="antiqua">Euripides, Ovid</hi> u auch aus <hi rend="antiqua">Camoens</hi> von ihm ſtehen. Wenn Sie <hi rend="antiqua">Böttiger</hi> ſehen, ſo ſeyen Sie doch ſo gütig, ihn nach dieſem <hi rend="antiqua">Subject</hi> zu fragen, und uns jene Merkur Stücke durch ihn
+                    zu verſchaffen. Er bietet mir <hi rend="antiqua">Hero</hi> u. <hi rend="antiqua">Leander</hi> und einige <hi rend="letter-spaced">engliſche</hi>
                     Ueberſetzungen aus d <pb n="212" facs="jonas1892-1897_5_0212.jpg"/>Engliſchen
                     an, und es wäre mir lieb wenn ich ihn brauchen könnte.</p>
                 <p><milestone unit="testimony" spanTo="#pniower_103_end" xml:id="pniower_103"/>Ich wünſchte daß die zwey leidlich heitern Tage, die wir wieder genoßen haben,
                     bey Ih<hi rend="antiqua">nen</hi> fruchtbarer geweſen ſeyn möchten als bey mir.
                     Meine Krämpfe regten ſich ſeit einigen Tagen wieder ſtärker, und ließen mich
-                    nicht ſchlafen. Ich wollte an den <rs>Fauſt</rs> denken, aber der Teufel in <hi
-                        rend="antiqua">Natura</hi> wollte den <hi rend="antiqua">poeti</hi>ſchen
+                    nicht ſchlafen. Ich wollte an den <rs>Fauſt</rs> denken, aber der Teufel in <hi rend="antiqua">Natura</hi> wollte den <hi rend="antiqua">poeti</hi>ſchen
                     nicht aufkommen laſſen.<anchor xml:id="pniower_103_end"/></p>
                 <p>Leben Sie recht wohl.</p>
                 <p rend="right">S.</p>
-                <p>Ich habe einige <hi rend="antiqua">Reminiscenzen</hi> aus einer Reiſe durch <hi
-                        rend="antiqua">Nordamerika</hi> von <hi rend="antiqua">Thomas Carver,</hi>
+                <p>Ich habe einige <hi rend="antiqua">Reminiscenzen</hi> aus einer Reiſe durch <hi rend="antiqua">Nordamerika</hi> von <hi rend="antiqua">Thomas Carver,</hi>
                     und mir iſt, als wenn ſich dieſe Völkernatur in einem Lied artig darſtellen
                     ließe. Dazu müßte ich aber jenen <hi rend="antiqua">Carver</hi> noch einmal
                     anſehen. Ich hatte ihn von <hi rend="antiqua">Knebeln,</hi> der aber wie ich
@@ -191,8 +164,7 @@
                 <p>Hirt hat mich in dieſen drey Tagen recht intereſſant beſchäftigt und mir manches
                     zurückgelaſſen, worüber ich noch lange zu denken haben werde. Seine Urtheile,
                     wenn ſie auch etwas befangen ſind, ruhen auf einer vielfältigen und
-                    fortgeſetzten Anſchauung, und ſprechen in wenig Worten fruchtbare R<hi
-                        rend="antiqua">e</hi>ſultate einer lebendigen Beobachtung und eines
+                    fortgeſetzten Anſchauung, und ſprechen in wenig Worten fruchtbare R<hi rend="antiqua">e</hi>ſultate einer lebendigen Beobachtung und eines
                     gründlichen Studiums aus. Mir däucht, daß er in der Hauptſache mit Ihnen und
                     Meiern ziemlich einig iſt, wenigſtens kann man lange mit ihm über das tiefſte
                     und innerſte ſprechen, ohne auf eine Dißonanz zu ſtoßen oder ſich unverſtändlich
@@ -203,8 +175,7 @@
                 <pb n="214" facs="jonas1892-1897_5_0214.jpg"/>
                 <p>Gegen <hi rend="antiqua">Michel Ange</hi> iſt er ſehr eingenommen, und mir
                     däucht, daß er ihn viel zu tief herabſetzt, wenn er ihm bloß einen Zeitwerth
-                    zugeſteht. Indeſſen habe ich auch bei dem harten Urtheil über <hi rend="antiqua"
-                        >M. Ange</hi> ſein Raiſonnement ſehr verſtändig gefunden, und zweifle bloß
+                    zugeſteht. Indeſſen habe ich auch bei dem harten Urtheil über <hi rend="antiqua">M. Ange</hi> ſein Raiſonnement ſehr verſtändig gefunden, und zweifle bloß
                     an der richtigen Angabe des <hi rend="antiqua">Factums</hi> worauf er es
                     gründet.</p>
                 <p>Uebrigens weiß ich noch nicht recht, was ich von Hirten eigentlich denken ſoll
@@ -213,16 +184,14 @@
                     ſcheint mir die Wärme und Lebhaftigkeit, mit der er manches darzuſtellen wußte,
                     nicht ſo eigentlich in ſeiner Natur zu liegen.</p>
                 <p>Laſſen Sie Sich doch von ihm etwas vom Mahler Müller erzählen, wenn es noch nicht
-                    geſchehen iſt. Es iſt kurzweilig genug, wie der Aufſatz in den <hi
-                        rend="antiqua">Horen</hi> gegen <hi rend="antiqua">Fernow</hi> entſtanden
+                    geſchehen iſt. Es iſt kurzweilig genug, wie der Aufſatz in den <hi rend="antiqua">Horen</hi> gegen <hi rend="antiqua">Fernow</hi> entſtanden
                     iſt.</p>
                 <p><milestone unit="testimony" spanTo="#pniower_105_end" xml:id="pniower_105"/>Ich wünſche morgen von Ihnen zu hören daß der <rs><hi rend="antiqua">Faust</hi>
                     vorgerückt</rs> iſt.<anchor xml:id="pniower_105_end"/> Mir hat <hi rend="antiqua">Hirts</hi> Anweſenheit in dieſen
                     Tagen eine kleine Zerſtreuung gemacht, nur der Einfall mit dem
                     Nordamerikaniſchen Lied iſt ausgeführt worden; ich lege das Liedchen bey, das
                     der Veränderung wegen mit paſſieren mag.</p>
-                <p>Hier folgt der Bücherzettel, nebſt einem Brief von <hi rend="antiqua"
-                        >Humboldt.</hi> Die Bücher werden Sie durch meinen Schwager erhalten, dem
+                <p>Hier folgt der Bücherzettel, nebſt einem Brief von <hi rend="antiqua">Humboldt.</hi> Die Bücher werden Sie durch meinen Schwager erhalten, dem
                     ich heut ein <hi rend="antiqua">Paquet</hi> ſende.</p>
                 <p>Leben Sie recht wohl. Sch.</p>
             </div>
@@ -243,8 +212,7 @@
                     Sie auch ſicherlich nicht ſo, wie Sie zu ihm kommen; er übt und ſchärft irgend
                     eine neue Kraft in Ihnen und ſo kommen Sie reicher und feuriger zu Ihrem neuen
                     Werke.<anchor xml:id="pniower_109_end"/></p>
-                <p>An den Wallenſtein werde ich mich ſo ſehr halten als ich kann, aber das <hi
-                        rend="antiqua">patholog</hi>iſche Intereſſe der Natur an einer ſolchen
+                <p>An den Wallenſtein werde ich mich ſo ſehr halten als ich kann, aber das <hi rend="antiqua">patholog</hi>iſche Intereſſe der Natur an einer ſolchen
                     Dichterarbeit hat viel angreifendes für mich. Glücklicherweiſe alteriert meine
                     Kränklichkeit nicht meine Stimmung, aber ſie macht, daß ein lebhafter Antheil
                     mich ſchneller erſchöpft und in Unordnung bringt. Gewöhnlich muſſ ich daher
@@ -256,14 +224,11 @@
                 <p>Dieſe beſchäftigen mich jetzt zuweilen, wenn ich von der Arbeit ausruhe. Es iſt
                     etwas ſehr anziehendes für mich in ſolchen Stoffen, welche ſich von ſelbſt
                     iſolieren und eine Welt für ſich ausmachen. Ich habe dieſen Umſtand im
-                    Wallenſtein ſehr benutzt, und in den Maltheſern wird er mich noch mehr <pb
-                        n="296" facs="jonas1892-1897_5_0296.jpg"/>begünſtigen. Nicht nur daß dieſer
-                    Orden wirklich ein <hi rend="antiqua">Individuum</hi> ganz <hi rend="antiqua"
-                        >ſui generis</hi> iſt, ſo iſt er es im <hi rend="antiqua">Moment</hi> der
+                    Wallenſtein ſehr benutzt, und in den Maltheſern wird er mich noch mehr <pb n="296" facs="jonas1892-1897_5_0296.jpg"/>begünſtigen. Nicht nur daß dieſer
+                    Orden wirklich ein <hi rend="antiqua">Individuum</hi> ganz <hi rend="antiqua">ſui generis</hi> iſt, ſo iſt er es im <hi rend="antiqua">Moment</hi> der
                     dramatiſchen Handlung noch mehr. Alle <hi rend="antiqua">Communication</hi> mit
                     der übrigen Welt iſt durch die Blokade abgeſchnitten, er iſt bloß auf ſich
-                    ſelbſt, auf die Sorge für ſeine <hi rend="antiqua">Ex</hi>iſtenz <hi
-                        rend="antiqua">concentr</hi>iert, und nur die Eigenſchaften, die ihn zu dem
+                    ſelbſt, auf die Sorge für ſeine <hi rend="antiqua">Ex</hi>iſtenz <hi rend="antiqua">concentr</hi>iert, und nur die Eigenſchaften, die ihn zu dem
                     Orden machen der er iſt, können in dieſem <hi rend="antiqua">Moment</hi> ſeine
                     Erhaltung bewirken.</p>
                 <p>Dieſes Stück wird eben ſo einfach behandelt werden müſſen, als der Wallenſtein
@@ -293,16 +258,13 @@
                 <head rend="right">Jena, <date when="1797-12-25">25. Dec. [Montag] 97.</date></head>
                 <p>Ich bin zu Anfang dieſer vorigen Woche mit einem ſtarken Erbrechen und Durchfall
                     befallen worden und fürchtete ernſtlich krank zu werden. Der Zufall iſt aber
-                    glücklich vorübergegangen. Es iſt wie ich höre ein <hi rend="antiqua"
-                        >epidemi</hi>ſches Uebel in unſern Gegenden <pb n="307"
-                        facs="jonas1892-1897_5_0307.jpg"/>und hat alſo mit meiner übrigen Krankheit
+                    glücklich vorübergegangen. Es iſt wie ich höre ein <hi rend="antiqua">epidemi</hi>ſches Uebel in unſern Gegenden <pb n="307" facs="jonas1892-1897_5_0307.jpg"/>und hat alſo mit meiner übrigen Krankheit
                     wie es ſcheint nichts zu thun. Indeſſen hat mir der Anfall den Kopf für die
                     ganze Woche verdorben, und einen Stillſtand in meiner Thätigkeit verurſacht, die
                     ohnehin ſo oft unterbrochen wird. Gott gebe nur, daß ich wenigſtens im nächſten
                     Jahr mit dem Wallenſtein fertig werde. Hätte ich drey geſunde Monate, ſo ſollte
                     er vollendet ſeyn, aber meine Unpäßlichkeit, beſonders die Schlafloſigkeiten
-                    nehmen mir immer den dritten Tag, und rauben meiner Arbeit die <hi
-                        rend="antiqua">Suite,</hi> die ſo höchſt nöthig iſt, um in einer
+                    nehmen mir immer den dritten Tag, und rauben meiner Arbeit die <hi rend="antiqua">Suite,</hi> die ſo höchſt nöthig iſt, um in einer
                     Gleichförmigkeit der Stimmung zu bleiben.</p>
                 <p>Ich habe lange nichts von euch gehört. Schreib mir doch bald wieder. Meine Kinder
                     und Lottchen ſind wohl.</p>
@@ -348,11 +310,9 @@
                     ſeiner Kunſt ſo <pb n="370" facs="jonas1892-1897_5_0370.jpg"/>ſehr aus den Augen
                     ſetzen kann, um in einer ſo froſtigen, handlungsleeren und unnatürlichen Fratze
                     ſich vor dem <hi rend="antiqua">Publicum</hi> abzuquälen. Dazu kommt noch, daß
-                    Ifland in ſeinem Leben nie eine Schwärmerey oder irgend eine e<hi rend="antiqua"
-                        >x</hi>altierte Stimmung weder zu fühlen noch darzuſtellen vermocht hat, und
+                    Ifland in ſeinem Leben nie eine Schwärmerey oder irgend eine e<hi rend="antiqua">x</hi>altierte Stimmung weder zu fühlen noch darzuſtellen vermocht hat, und
                     als Liebhaber immer abſcheulich war.</p>
-                <p>Doch Sie werden ja ſehen, und vielleicht iſt auch an den <hi rend="antiqua"
-                        >Pygmalion</hi> nicht gedacht worden.</p>
+                <p>Doch Sie werden ja ſehen, und vielleicht iſt auch an den <hi rend="antiqua">Pygmalion</hi> nicht gedacht worden.</p>
                 <p><milestone unit="testimony" spanTo="#pniower_128_end" xml:id="pniower_128"/>Zu den <rs>Fortſchritten im Fauſt</rs> wünſche ich Glück. Dieſe theatraliſche
                     Zerſtreuungen ſollen Sie, denk ich, eher darin fördern als ſtören.<anchor xml:id="pniower_128_end"/> Leben Sie
                     recht wohl. Meine Frau grüßt ſchönſtens.</p>
@@ -365,22 +325,17 @@
                         [Freitag] 98.</date></head>
                 <p>Ich ſende Ihnen hier <hi rend="antiqua">Cottas</hi> Antwort auf meine Anfrage
                     wegen der zu verlegenden kleinen Abhandlungen. Es iſt ihm, wie Sie ſehen, zuviel
-                    daran gelegen etwas von Ihnen zum Verlag zu bekommen, als daß er ſeine <hi
-                        rend="antiqua">Desideria</hi> und Wünſche bei dieſem Werke ganz offen hätte
+                    daran gelegen etwas von Ihnen zum Verlag zu bekommen, als daß er ſeine <hi rend="antiqua">Desideria</hi> und Wünſche bei dieſem Werke ganz offen hätte
                     heraus ſagen ſollen. Soviel aber zeigt ſich, daß er bei dem überwiegenden
                     kunſtwißenſchaftlichen Innhalt ein zu eingeſchränktes Publikum fürchtet, und
                     deßwegen einen mehr allgemeinen Innhalt wünſcht. <milestone unit="testimony" spanTo="#pniower_129_end" xml:id="pniower_129"/>Ich kann ihm darinn als
                     Buchhändler gar nicht Unrecht geben; da aber auf der andern Seite von dem Plane
-                    des Werks nichts erlaſſen werden kann, ſo wäre mein Vorſchlag, Ihm die <hi
-                        rend="antiqua">Expectanz</hi> auf ihr nächſtes poetiſches Werk, etwa den
+                    des Werks nichts erlaſſen werden kann, ſo wäre mein Vorſchlag, Ihm die <hi rend="antiqua">Expectanz</hi> auf ihr nächſtes poetiſches Werk, etwa den
                     <rs>Fauſt</rs> zu geben, oder es ihm lieber gleich zu ver<hi rend="antiqua">accord</hi>ieren. Wenn ich bei dieſer Gelegenheit einen Vorſchlag zu thun
                     hätte, ſo würde ich für den Bogen der theoretiſchen Abhandlungen, ohngefehr
                     gedruckt wie Meiſters Lehrjahre, Vier Louisdors und für den Bogen vom Fauſt acht
-                    Louisdors zu fodern rathen. Wenn Sie aber denken daß <hi rend="antiqua"
-                        >Unger</hi> oder <hi rend="antiqua">Vieweg</hi> beßer bezahlen, ſo kann <hi
-                        rend="antiqua">Cotta</hi> es auch, und ich erwarte nur, daß Sie ein Gebot
-                    thun, ſo will ich es <hi rend="antiqua">Cotta</hi>, der jetzt in <hi
-                        rend="antiqua">Leipzig</hi> iſt ſogleich melden.<anchor xml:id="pniower_129_end"/></p>
+                    Louisdors zu fodern rathen. Wenn Sie aber denken daß <hi rend="antiqua">Unger</hi> oder <hi rend="antiqua">Vieweg</hi> beßer bezahlen, ſo kann <hi rend="antiqua">Cotta</hi> es auch, und ich erwarte nur, daß Sie ein Gebot
+                    thun, ſo will ich es <hi rend="antiqua">Cotta</hi>, der jetzt in <hi rend="antiqua">Leipzig</hi> iſt ſogleich melden.<anchor xml:id="pniower_129_end"/></p>
                 <p>Wie ich höre ſo ſpielt Ifland heute <hi rend="antiqua">Pygmalion.</hi> Daß er
                     ſeinen <hi rend="antiqua">Calcul</hi> auf das <hi rend="antiqua">Publicum</hi>
                     wohl zu machen verſtehe, habe ich nie gezweifelt. Er wird auch in dieſer Rolle
@@ -393,10 +348,8 @@
                     ordentlich in <pb n="373" facs="jonas1892-1897_5_0373.jpg"/>einem poetiſchen
                     Meere, aus dieſer Simmung fällt man auch in keinem einzigen Punkte und alles iſt
                     ideal bei der ſinnlichſten Wahrheit. Uebrigens muß einem, wenn man ſich in
-                    einige Geſänge hineingeleſen hat, der Gedanke an eine <hi rend="antiqua"
-                        >Rapsod</hi>iſche Aneinanderreihung und an einen verſchiedenen Urſprung
-                    nothwendig barbariſch vorkommen, denn die herrliche <hi rend="antiqua"
-                        >Continuität</hi> und <hi rend="antiqua">Reciprocität</hi> des Ganzen und
+                    einige Geſänge hineingeleſen hat, der Gedanke an eine <hi rend="antiqua">Rapsod</hi>iſche Aneinanderreihung und an einen verſchiedenen Urſprung
+                    nothwendig barbariſch vorkommen, denn die herrliche <hi rend="antiqua">Continuität</hi> und <hi rend="antiqua">Reciprocität</hi> des Ganzen und
                     ſeiner Theile iſt eine ſeiner wirkſamſten Schönheiten.</p>
                 <p>Die unterſtrichene Stelle in <hi rend="antiqua">Humboldts</hi> Briefe den ich
                     Ihnen zurückſende, iſt ihm vermuthlich ſelbſt noch nicht ſo recht klar geweſen,
@@ -407,8 +360,7 @@
                     Adhärentien, nehmlich des Witzes, der Beobachtung <hi rend="antiqua">etc.</hi>
                     ſey, ohne verhältnißmäßige Mitwirkung des Ideenvermögens, und daß ſie mehr
                     phyſiſch als moraliſch rührbar ſeien. Das iſt keine Frage daß ſie beßere
-                    Realiſten als Idealiſten ſind, und ich nehme daraus ein ſiegendes <hi
-                        rend="antiqua">Argument,</hi> daß der Realism keinen Poeten machen kann.</p>
+                    Realiſten als Idealiſten ſind, und ich nehme daraus ein ſiegendes <hi rend="antiqua">Argument,</hi> daß der Realism keinen Poeten machen kann.</p>
                 <p>Leben Sie recht wohl für heute, und möchten Sie in dem Gewühl von Menſchen, das
                     Sie jetzt öfters umgiebt, ſich recht angenehm unterhalten.</p>
                 <p rend="right">Sch.</p>
@@ -433,8 +385,7 @@
                     über meine Erwartung und Vorherſagung davon getragen, iſt mir noch nicht
                     begreiflich, und es wird mir ſchwer ſelbſt Ihnen etwas aufs Wort zu glauben, was
                     mir den Glauben an meine beſtimmteſten Begriffe und Ueberzeugungen rauben würde.
-                    Indeſſen iſt hier nichts mehr zu ſagen, da Sie meinen Beweiſen <hi
-                        rend="antiqua">a priori</hi> ein <hi rend="antiqua">Factum</hi>
+                    Indeſſen iſt hier nichts mehr zu ſagen, da Sie meinen Beweiſen <hi rend="antiqua">a priori</hi> ein <hi rend="antiqua">Factum</hi>
                     entgegenſetzen können, wogegen ich, da ich ſelbſt es nicht mit bezeugen kann,
                     auch nichts einwenden darf. Uebrigens habe ich es lediglich mit Ihrem Urtheil zu
                     thun, denn <pb n="376" facs="jonas1892-1897_5_0376.jpg"/>die übrige öffentliche
@@ -452,9 +403,7 @@
                     Willen und an Kräften fehlt es ihm keineswegs, etwas bedeutendes zu
                     unternehmen.<anchor xml:id="pniower_131_end"/></p>
                 <p>Es iſt mir dieſer Tage in der Odyſſee eine Stelle aufgefallen, welche auf ein
-                    Gedicht das verloren gegangen ſchließen läßt, und deſſen <hi rend="antiqua"
-                        >Thema</hi> der Ilias vorhergeht. Sie ſteht im achten Buch der Odyſſ<hi
-                        rend="antiqua">ee</hi> vom 72ſten Verſe an. Vielleicht wißen Sie mehreres
+                    Gedicht das verloren gegangen ſchließen läßt, und deſſen <hi rend="antiqua">Thema</hi> der Ilias vorhergeht. Sie ſteht im achten Buch der Odyſſ<hi rend="antiqua">ee</hi> vom 72ſten Verſe an. Vielleicht wißen Sie mehreres
                     davon.</p>
                 <p>Möchten Sie nur erſt wieder in Ihrer homeriſchen Welt leben. Ich zweifle nicht im
                     geringſten, daß Ihnen dieſen Sommer und Herbſt noch einige Geſänge gelingen
@@ -473,10 +422,8 @@
                     zu halten und es iſt mir nach Wunſch gelungen. Nun ſitze ich endlich wieder hier
                     in meinem ländlichen Eigenthum, die Beſuche haben ſich aber zufällig ſo gehäuft,
                     daß ich in dieſen 2 Tagen mehr Geräuſch erfahren habe als den ganzen Winter.
-                    Einen darunter, einen Joſeph von Retzer <pb n="379"
-                        facs="jonas1892-1897_5_0379.jpg"/>aus Wien haben Sie vielleicht auch
-                    geſehen, denn er iſt nach Weimar gereißt. Ein klägliches <hi rend="antiqua"
-                        >Subject,</hi> das aber durch die Erinnerung an ein bereits vergeſſenes
+                    Einen darunter, einen Joſeph von Retzer <pb n="379" facs="jonas1892-1897_5_0379.jpg"/>aus Wien haben Sie vielleicht auch
+                    geſehen, denn er iſt nach Weimar gereißt. Ein klägliches <hi rend="antiqua">Subject,</hi> das aber durch die Erinnerung an ein bereits vergeſſenes
                     Zeitalter einigermaßen merkwürdig wird. Einen Herrn <hi rend="antiqua">Prof.
                         Morgenstern</hi> aus Halle, der neulich hier war, haben Sie bei ſich gehabt,
                     wie mir meine Frau ſagt. Dieß iſt eine Woltmann ähnliche Natur, auch ſo kokett
@@ -512,8 +459,7 @@
                     lange verzögert worden.</p>
                 <p>Es iſt allerdings ein beträchtlicher Geldverluſt für mich, wenn der Wallenſtein
                     auf Oſtern erſcheint, und da ich weiß daß Sie mir dieſen gern erſparen, ſo
-                    rechne ich auf Ihre freund<pb n="471" facs="jonas1892-1897_5_0471.jpg"
-                    />ſchaftliche Nachgiebigkeit. Ich habe Ifland, der mir 60 Ldors für die drei
+                    rechne ich auf Ihre freund<pb n="471" facs="jonas1892-1897_5_0471.jpg"/>ſchaftliche Nachgiebigkeit. Ich habe Ifland, der mir 60 Ldors für die drei
                     Stücke giebt, ſchon vorläufig wegen des Druks zu beruhigen geſucht, jedoch in
                     unbeſtimmten Ausdrücken. Die Theater zu Francfurt, Wien und Grätz haben ſich
                     auch ſchon darum gemeldet, und ich bin gewiß, daß auch die Hamburger, Leipziger
@@ -525,8 +471,7 @@
                     1800 zu warten iſt nicht nöthig der Theater wegen, aber ein früherer Termin wie
                     Michaelis 1799 würde den Theatern zu kurz ſeyn. Wenn Sie mit dieſem Vorſchlag
                     zufrieden ſind, ſo ſoll es unabänderlich dabey bleiben, und ich werde Ihre
-                    Geſinnung daraus abnehmen, daß Sie innliegendes <hi rend="antiqua"
-                        >Inseratum</hi> in die allgemeine Zeitung ſetzen. Wenn ich es darinn finde,
+                    Geſinnung daraus abnehmen, daß Sie innliegendes <hi rend="antiqua">Inseratum</hi> in die allgemeine Zeitung ſetzen. Wenn ich es darinn finde,
                     und nicht eher, will ich dann bei den Theatern die Verfügungen treffen.</p>
                 <p>Zugleich aber iſt es billig, daß ich Ihnen die Ihnen noch zu zahlende Summe von
                     jetzt an ordentlich verintereſſiere oder zurückzahle, denn da ich durch den
@@ -539,8 +484,7 @@
                     intereſſierter kleinlicher Menſch wie ich ſehe, dem ich nun gute Luſt hätte den
                     Preiß zu erhöhen, wenn er ſich noch einmal um das Stück melden ſollte.</p>
                 <p><milestone unit="testimony" spanTo="#pniower_138_end" xml:id="pniower_138"/>Göthe hat an ſeinem <rs>Fauſt noch viel Arbeit</rs> eh er fertig wird. Ich bin oft hinter
-                    ihm her, ihn zu beendigen und ſeine <pb n="472" facs="jonas1892-1897_5_0472.jpg"
-                    />Abſicht iſt wenigſtens, daß dieſes nächſten Sommer geſchehen ſoll. Es wird
+                    ihm her, ihn zu beendigen und ſeine <pb n="472" facs="jonas1892-1897_5_0472.jpg"/>Abſicht iſt wenigſtens, daß dieſes nächſten Sommer geſchehen ſoll. Es wird
                     freilich eine koſtbare Unternehmung ſeyn. Das Werk iſt weitläuftig 20—30 Bogen
                     gewiß, es ſollen Kupfer dazu kommen, und er rechnet auf ein derbes Honorar. Es
                     iſt aber auch ein ungeheurer Abſatz zu erwarten. Es wird gar keine Frage ſeyn,

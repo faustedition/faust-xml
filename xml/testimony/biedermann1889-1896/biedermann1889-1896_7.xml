@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,8 +21,7 @@
             <pb n="1"/>
             <div type="conversation">
                
-                    <head><num type="biedermann-1">1175.</num></head> <milestone unit="page" type="startpage"
-                        n="1"/>
+                    <head><num type="biedermann-1">1175.</num></head> <milestone unit="page" type="startpage" n="1"/>
                     
                     <head><date>1829, Ende Januar.</date></head>
                     <head>Mit <persName>Johann Peter Eckermann</persName></head>
@@ -31,8 +29,7 @@
                 
                 <p rend="indentchar-m4n0">Ich bin jetzt mehr bei Goethe, als je; seit vierzehn Tagen
                     esse ich jeden Mittag mit ihm allein und erquicke mich an seinen himmlischen
-                    Gesprächen. <milestone unit="testimony" spanTo="#graef_1691_end"
-                        xml:id="graef_1691"/>In den letzten Tagen hat Goethe sich einige Male nach
+                    Gesprächen. <milestone unit="testimony" spanTo="#graef_1691_end" xml:id="graef_1691"/>In den letzten Tagen hat Goethe sich einige Male nach
                     Ihnen [Auguste Kladzig] erkundigt, welches ich Ihnen sagen muß. Er erzählte mir
                     nämlich, daß <rs>der »Faust« in Braunschweig auf die Bühne gebracht worden</rs> und
                     zeigte mir einen Brief von Klingemann, worin dieser schrieb, mit wie großem
@@ -61,8 +58,7 @@
                     <head><date when="1829-02-10">1829, 10. Februar.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1696_end"
-                        xml:id="graef_1696"/>Ich fand Goethe umringt von Karten und Plänen in Bezug
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1696_end" xml:id="graef_1696"/>Ich fand Goethe umringt von Karten und Plänen in Bezug
                     auf den Bremer Hafenbau, für welches großartige Unternehmen er ein besonderes
                     Interesse zeigte.</p>
                 <p rend="indentchar-m4n0"> Sodann viel über Merck gesprochen, von welchem er mir
@@ -94,8 +90,7 @@
                 <p rend="indentchar-m4n0"> »Der ›Faust‹ entstand mit meinem ›Werther‹; ich brachte
                     ihn im Jahre 1775 mit nach Weimar. Ich hatte ihn auf Postpapier geschrieben und
                     nichts daran gestrichen; denn ich hütete mich, eine Zeile niederzuschreiben, die
-                    nicht gut war und die nicht bestehen konnte.«<anchor xml:id="graef_1696_end"
-                    /></p>
+                    nicht gut war und die nicht bestehen konnte.«<anchor xml:id="graef_1696_end"/></p>
                 <pb n="11"/>
                 <lb/>
             </div> 
@@ -136,8 +131,7 @@
                 <p rend="indentchar-m4n0"> Das Gespräch kam auf Zelter. »Ich habe einen Brief von
                     ihm,« sagte Goethe; »er schreibt unter anderm, daß die Aufführung des ›Messias‹
                     ihm durch eine seiner Schülerinnen verdorben sei, die eine Arie zu weich, zu
-                    schwach, zu sentimental gesungen. <milestone unit="testimony"
-                        spanTo="#graef_1697_end" xml:id="graef_1697"/>Das Schwache ist <pb n="13"/>
+                    schwach, zu sentimental gesungen. <milestone unit="testimony" spanTo="#graef_1697_end" xml:id="graef_1697"/>Das Schwache ist <pb n="13"/>
                     ein Characterzug unsers Jahrhunderts. Ich habe die Hypothese, daß es in
                     Deutschland eine Folge der Anstrengung ist, die Franzosen los zu werden. Maler,
                     Naturforscher, Bildhauer, Musiker, Poeten, es ist, mit wenigen Ausnahmen, alles
@@ -174,15 +168,13 @@
                     entlarvt hatte, behauptete Lavater, dies sei ein anderer Cagliostro, der
                     Wunderthäter Cagliostro sei eine heilige Person.</p>
                 <p rend="indentchar-m4n0">
-                    <milestone unit="testimony" spanTo="#graef_1698_end" xml:id="graef_1698"
-                    />Lavater war ein herzlich guter Mann, allein er war gewaltigen Täuschungen
+                    <milestone unit="testimony" spanTo="#graef_1698_end" xml:id="graef_1698"/>Lavater war ein herzlich guter Mann, allein er war gewaltigen Täuschungen
                     unterworfen, und die ganz strenge Wahrheit war nicht seine Sache, er belog sich
                     und andere. Es kam zwischen mir und ihm deshalb zum völligen Bruch. Zuletzt habe
                     ich ihn noch in Zürich gesehen, ohne von ihm gesehen zu werden. Verkleidet ging
                     ich in einer Allee, ich sah ihn auf mich zukommen, ich bog außerhalb, er ging an
                     mir vorüber <pb n="19"/> und kannte mich nicht. Sein Gang war wie der eines
-                    Kranichs, weswegen er auf dem <rs>Blocksberg</rs> als Kranich vorkommt.«<anchor
-                        xml:id="graef_1698_end"/></p>
+                    Kranichs, weswegen er auf dem <rs>Blocksberg</rs> als Kranich vorkommt.«<anchor xml:id="graef_1698_end"/></p>
                 <p rend="indentchar-m4n0"> Ich fragte Goethe, ob Lavater eine Tendenz zur Natur
                     gehabt, wie man fast wegen seiner ›Physiognomik‹ schließen sollte. »Durchaus
                     nicht,« antwortete Goethe, »seine Richtung ging bloß auf das Sittliche,
@@ -439,8 +431,7 @@
                     angeborenen Sinn für die Gestalt, die Verhältnisse und die Farbe, sodaß es alles
                     dieses unter weniger Anleitung sehr bald und richtig macht. Besonders hat es den
                     Sinn für das Körperliche, und den Trieb, es durch die Beleuchtung handgreiflich
-                    zu machen. Auch in den Zwischenpausen der Übung schreitet es fort und <pb n="81"
-                    /> wächst im Innern. Ein solches Talent ist nicht schwer zu erkennen, am besten
+                    zu machen. Auch in den Zwischenpausen der Übung schreitet es fort und <pb n="81"/> wächst im Innern. Ein solches Talent ist nicht schwer zu erkennen, am besten
                     aber erkennt es der Meister.«</p>
                 <p rend="indentchar-m4n0"> »Ich habe diesen Morgen das Fürstenhaus besucht,« fuhr
                     Goethe sehr heiter fort; »die Zimmer der Großherzogin sind höchst geschmackvoll
@@ -494,8 +485,7 @@
                     <head><date>1829, April.</date></head>
                 <head>Mit <persName>Hans von Gagern und dessen Sohn Max</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1705_end"
-                        xml:id="graef_1705"/>Als mein Vater im April 1829 mich [Max] als einen
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1705_end" xml:id="graef_1705"/>Als mein Vater im April 1829 mich [Max] als einen
                     Göttinger Studenten auf einer Reise nach Berlin <pb n="96"/> mitnahm und in
                     Weimar Goethe vorstellte, kam es zu folgendem Dreigespräch:</p>
                 <p rend="indentchar-m4n0">
@@ -545,14 +535,11 @@
                     an exercise while learning the language. On my mentioning that Lord Leveson
                     Grower had not ventured to translate the ›Prologue in Heaven‹ he seemed
                     surprised. »How so? that is quite unobjectionable. The idea is in Job.« He did
-                    not perceive that that was the aggravation, not the excuse.<anchor
-                        xml:id="graef_1711_end"/> He was surprised, when I told him, that the
-                    ›Sorrows of Werter‹ was a mistranslation – sorrow being <hi rend="italic"
-                        >Kummer</hi> – <hi rend="italic">Leiden</hi> is sufferings.</p>
+                    not perceive that that was the aggravation, not the excuse.<anchor xml:id="graef_1711_end"/> He was surprised, when I told him, that the
+                    ›Sorrows of Werter‹ was a mistranslation – sorrow being <hi rend="italic">Kummer</hi> – <hi rend="italic">Leiden</hi> is sufferings.</p>
                 <p rend="indentchar-m4n0"> I spoke with especial admiration of his ›Carnival at
                     Rome‹. »I shall be there next winter, and shall be glad if the thing gives me
-                    half the pleasure <pb n="108"/> I had in reading the description.« – »Ay, <hi
-                        rend="italic">mein Lieber</hi>, but it wont do that! To let you into a
+                    half the pleasure <pb n="108"/> I had in reading the description.« – »Ay, <hi rend="italic">mein Lieber</hi>, but it wont do that! To let you into a
                     secret, nothing can be more wearisome (<hi rend="italic">ennuyant</hi>) than
                     that Carnival. I wrote that account really to relieve myself. My lodgings were
                     in the Corso. I stood on the balcony, and jotted down everything I saw. There is
@@ -563,8 +550,7 @@
                     he has in print called his, ›<hi rend="italic">Actenstücke</hi>‹ (documents);
                     that is tavernbills, accounts, advertisements &amp;c. And he repeated his
                     remark, that it is by the laborious collection of facts that even a poetical
-                    view of nature is to be corrected and authenticated. <milestone unit="testimony"
-                        spanTo="#graef_1718_end" xml:id="graef_1718"/>I mentioned <rs>Marlowe's ›Faust‹</rs>.
+                    view of nature is to be corrected and authenticated. <milestone unit="testimony" spanTo="#graef_1718_end" xml:id="graef_1718"/>I mentioned <rs>Marlowe's ›Faust‹</rs>.
                     He burst out into an exclamation of praise. »How greatly is it all planned!« He
                     had thought of translating it.<anchor xml:id="graef_1718_end"/> He was fully
                     aware that Shakespeare did not stand alone.</p>
@@ -589,8 +575,7 @@
                     to find that Goethe preferred to all the other serious poems of Byron, the
                     ›Heaven and Earth‹, though it seemed almost satire when he exclaimed, »A bishop
                     might have written it!« He added, »Byron should have lived to execute his
-                    vocation.« – »And that was?« I asked. »To dramatize the Old Testament. What <pb
-                        n="110"/> a subject under his hands would the Tower of Babel have been!« He
+                    vocation.« – »And that was?« I asked. »To dramatize the Old Testament. What <pb n="110"/> a subject under his hands would the Tower of Babel have been!« He
                     continued: »You must not take it ill; but Byron was indebted for the profound
                     views he took of the Bible to the ennui he suffered from it at school.« Goethe,
                     it will be remembered, in one of his ironical epigrams, derives his poetry from
@@ -631,9 +616,7 @@
                 <p rend="indentchar-m4n0"> Goethe concurred in my suggested praise of Stanzas Xlll,
                     XIV, XV. Indeed Goethe was in this like Coleridge, that he was by no means
                     addicted to contradiction. This encourages those who might not otherwise venture
-                    on obtruding a sentiment. <milestone unit="testimony" spanTo="#graef_1721_end"
-                        xml:id="graef_1721"/>He did not reject the preference I expressed for <pb
-                        n="112"/> Byron's satirical poems, nor my suggestion that to ›Don Juan‹ a
+                    on obtruding a sentiment. <milestone unit="testimony" spanTo="#graef_1721_end" xml:id="graef_1721"/>He did not reject the preference I expressed for <pb n="112"/> Byron's satirical poems, nor my suggestion that to ›Don Juan‹ a
                     motto might have been taken from <rs>Mephistopheles' speech</rs> aside to the student who
                     asked his opinion of medicine:</p>
                 <lb/>
@@ -642,8 +625,7 @@
                     <hi rend="italic">Ich bin des trockenen Zeugs doch satt,</hi>
                 </p>
                 <p>
-                    <hi rend="italic"> Ich will den ächten Teufel spielen.</hi><anchor
-                        xml:id="graef_1721_end"/>
+                    <hi rend="italic"> Ich will den ächten Teufel spielen.</hi><anchor xml:id="graef_1721_end"/>
                 </p>
                 <lb/>
                 <p>Byron's verses on George IV, he said, where the sublime of hatred. I took an
@@ -673,8 +655,7 @@
                     here. A time will come when you can no longer enjoy it. Take care that it comes
                     here hereafter. This I promised. And I have in my will given it to the Grand
                     Duke, in trust, for the public library at Weimar. Goethe expressed to me his
-                    pleasure that I had retained so lively a recollection of Weimar at its ›<hi
-                        rend="italic">schöne Zeit</hi>‹, when Schiller, Herder and Wieland all
+                    pleasure that I had retained so lively a recollection of Weimar at its ›<hi rend="italic">schöne Zeit</hi>‹, when Schiller, Herder and Wieland all
                     lived. I remember no other mention of Herder, nor did I expect it. Goethe spoke
                     of Wieland as a man of genius, and of Schiller with great regard. He said that
                     Schiller's rendering of the witch-scenes in ›Macbeth‹ was ›detestable‹. But it
@@ -710,8 +691,7 @@
                     es aber nicht, oder wollte es nicht hören – genug, er sagte kein Wort. Ich
                     konnte mich aber nicht halten und begann mich auszusprechen. Auf dem ganzen Wege
                     vom Theater zur Soirée hörte er zwar zu, blieb aber stumm wie eine Mauer. Das
-                    verwirrte mich einwenig und kühlte meinen Eifer ab. Und <milestone
-                        unit="testimony" spanTo="#graef_1724_end" xml:id="graef_1724"/>als ihn
+                    verwirrte mich einwenig und kühlte meinen Eifer ab. Und <milestone unit="testimony" spanTo="#graef_1724_end" xml:id="graef_1724"/>als ihn
                     Goethe fragte, welchen Eindruck er vom <rs>›Faust‹ auf der Bühne</rs>, für die er doch
                     nicht geschrieben wurde, erhalten habe, erging er sich zwar über die einzelnen
                     Scenen, erwähnte aber des Ganzen mit keinem Worte. Und Goethe mochte darüber
@@ -727,8 +707,7 @@
                     erzählen, was mir ein solches dankbares Anblicken und Lächeln und zuletzt ein
                     Gespräch (zwar nicht über den ›Faust‹, sondern über das Klima bei uns und in
                     Italien, über den Einfluß, den das Klima auf ihn einst übte und auf jeden
-                    Ankömmling aus dem Norden üben muß) verschaffte.<anchor xml:id="graef_1724_end"
-                    /></p>
+                    Ankömmling aus dem Norden üben muß) verschaffte.<anchor xml:id="graef_1724_end"/></p>
                 <pb n="140"/>
                 <lb/>
             </div>
@@ -753,14 +732,12 @@
                     entspringenden skeptischen Zweifel angedeutet werden sollen; und dergleichen
                     mehr. In den Liebesscenen war denn auch richtig das ewige Hin und Hergelaufe,
                     was jede Einheit theatralischer Sammlung zerreißt, ungeändert verblieben. Kurz
-                    es war halt eben nichts gethan, sondern nur gestrichen, und <milestone
-                        unit="testimony" spanTo="#graef_1726_end" xml:id="graef_1726"/>ich hatte den
+                    es war halt eben nichts gethan, sondern nur gestrichen, und <milestone unit="testimony" spanTo="#graef_1726_end" xml:id="graef_1726"/>ich hatte den
                     Muth, meine Kritik der Excellenz deutsch und ehrlich in den Bart zu werfen, auch
                     nicht zu verschweigen, daß ich meine <rs>Umarbeitung</rs> für ungleich dramatischer,
                     concentrirter, besser und wirksamer hielte, worauf denn ein: »Ihr junges Volk
                     versteht es freilich viel besser!« – doch sonder Groll – und am Schlusse das
-                    obligate: »Nun, nun! Das ist ja ganz schön« lächelnd erfolgte.<anchor
-                        xml:id="graef_1726_end"/></p>
+                    obligate: »Nun, nun! Das ist ja ganz schön« lächelnd erfolgte.<anchor xml:id="graef_1726_end"/></p>
                 <pb n="142"/>
                 <lb/>
             </div>
@@ -773,8 +750,7 @@
                     <head><date>1829, 16. October und w.</date></head>
                 <head>Mit <persName>Friedrich Förster</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1618_end"
-                        xml:id="graef_1618"/>»Wenn mich auch« – äußerte Goethe heute zu mir – »keine
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1618_end" xml:id="graef_1618"/>»Wenn mich auch« – äußerte Goethe heute zu mir – »keine
                     andere Nation mit Besuchern so belästigt und mitunter auch durch die bloße
                     Neugier langweilt, wie die englische, so muß ich doch auch zugeben, und hab' es
                     auch schon selbst oft erfahren, daß kein anderer Landsmann, was splendide
@@ -807,15 +783,13 @@
                     <head><date>1829, 17. October und folgends.</date></head>
                 <head>Mit <persName>Friedrich Förster</persName> u.a.</head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1619_end"
-                        xml:id="graef_1619"/>Am folgenden Tage fand ich mich zu der mir bestimmten
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1619_end" xml:id="graef_1619"/>Am folgenden Tage fand ich mich zu der mir bestimmten
                     Stunde ein, <rs>las zuerst die ›Zueignung‹ vor</rs>, welche Goethe sehr gelungen fand und
                     derselben den Vorzug vor einer, ihm ebenfalls in diesen Tagen zugeschickten
                     französischen Übersetzung [von Stapfer] (mit lityhgraphirten Illustrationen in
                     Folio [von Delacroix]) zuerkannte. Als ich ferner mittheilte, wie es mich im
                     hohen Grade befremdet habe, daß die prachtvolle Eröffnungsscene im Himmel in der
-                    Übersetzung fehle, da sie mir doch zum Verständniß der Tragödie von <pb n="156"
-                    /> höchster Bedeutung, ja unerläßlich zu sein scheine und außerdem als das
+                    Übersetzung fehle, da sie mir doch zum Verständniß der Tragödie von <pb n="156"/> höchster Bedeutung, ja unerläßlich zu sein scheine und außerdem als das
                     Erhabenste und Heiligste, was jemals gedichtet worden sei, bewundert werde, mir
                     auch die Schwierigkeit der Übertragung in's Englische nicht unüberwindlich
                     erscheine, bemerkte Goethe: »Nicht die Schwierigkeit der Übersetzung wird den
@@ -958,8 +932,7 @@
                     über die Compositionen des Fürsten Radziwill und über die Proben und ersten
                     Versuche, später auch über die gelugenen Aufführung in Euren königlichen
                     Schlössern und fürstlichen Palästen erhalten, die mich wohl verlocken könnten;
-                    indessen wollen wir es noch weiter bedenken.«<anchor xml:id="graef_1619_end"
-                    /></p>
+                    indessen wollen wir es noch weiter bedenken.«<anchor xml:id="graef_1619_end"/></p>
                 <lb/>
                 <p>
                     <anchor xml:id="F216"/>
@@ -986,8 +959,7 @@
                     <head><date when="1829-12-06">1829, 6. December.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1744_end"
-                        xml:id="graef_1744"/>Heute nach Tische <rs>las Goethe mir die erste Scene vom
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1744_end" xml:id="graef_1744"/>Heute nach Tische <rs>las Goethe mir die erste Scene vom
                     zweiten Act des ›Faust‹</rs>.</p>
                 <p rend="indentchar-m4n0"> – – – – – – – – – – – – – – – – –</p>
                 <p rend="indentchar-m4n0">
@@ -1041,8 +1013,7 @@
                     <head><date when="1829-12-16">1829, 16. December.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1755_end"
-                        xml:id="graef_1755"/>Heute nach Tische <rs>las Goethe mir die zweite Scene des
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1755_end" xml:id="graef_1755"/>Heute nach Tische <rs>las Goethe mir die zweite Scene des
                     zweiten Actes von ›Faust‹</rs>, wo Mephistopheles zu Wagner geht, der durch chemische
                     Künste einen Menschen zu machen im Begriff ist. Das Werk gelingt, der Homunculus
                     erscheint in der Flasche als leuchtendes Wesen und ist sogleich thätig. Wagner's
@@ -1215,8 +1186,7 @@
                     personificirt, die an keine Zeit, an keinen Ort und an keine Person gebunden
                     ist. Derselbige Geist, dem es später beliebt Euphorion zu sein, erscheint jetzt
                     als Knabe Lenker, und er ist darin den Gespenstern ähnlich, die überall
-                    gegenwärtig sein und zu jeder Stunde hervortreten können.«<anchor
-                        xml:id="graef_1757_end"/></p>
+                    gegenwärtig sein und zu jeder Stunde hervortreten können.«<anchor xml:id="graef_1757_end"/></p>
                 <pb n="174"/>
                 <lb/>
             </div> 
@@ -1231,8 +1201,7 @@
                 <head>Mit <persName>Johann Peter Eckermann</persName> und <persName>August von Goethe</persName>
                 </head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1759_end"
-                        xml:id="graef_1759"/>Heute nach Tische <rs>las Goethe mir die Scene vom
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1759_end" xml:id="graef_1759"/>Heute nach Tische <rs>las Goethe mir die Scene vom
                     Papiergelde</rs>.</p>
                 <p rend="indentchar-m4n0">
                     <pb n="174"/> »Sie erinnern sich,« sagte er, »daß bei der Reichsversammlung das
@@ -1272,8 +1241,7 @@
                     <head><date when="1829-12-30">1829, 30. December.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1764_end"
-                        xml:id="graef_1764"/>Heute nach Tische <rs>las Goethe mir die fernere Scene</rs>.</p>
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1764_end" xml:id="graef_1764"/>Heute nach Tische <rs>las Goethe mir die fernere Scene</rs>.</p>
                 <p rend="indentchar-m4n0"> »Nachdem sie nun am kaiserlichen Hofe Geld haben,« sagte
                     er, »wollen sie amüsirt sein. Der Kaiser wünscht Paris und Helena zu sehen, und
                     zwar sollen sie durch Zauberkünste in Person erscheinen. Da aber Mephistopheles
@@ -1281,8 +1249,7 @@
                     Gewalt hat, so bleibt dieses Werk Fausten zugeschoben, dem es auch vollkommen
                     gelingt. Was aber Faust unternehmen muß, um die Erscheinung möglich zu machen,
                     ist noch nicht ganz vollendet, und ich lese es Ihnen das nächste Mal. Die
-                    Erscheinung von Paris und Helena selbst aber sollen Sie heute hören.«<anchor
-                        xml:id="graef_1764_end"/></p>
+                    Erscheinung von Paris und Helena selbst aber sollen Sie heute hören.«<anchor xml:id="graef_1764_end"/></p>
                 <pb n="176"/>
                 <lb/>
             </div>
@@ -1294,8 +1261,7 @@
                 <head>Mit <persName>Johann Peter
                         Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1768_end"
-                        xml:id="graef_1768"/>Goethe zeigte mir das englische Taschenbuch ›Keepsake‹
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1768_end" xml:id="graef_1768"/>Goethe zeigte mir das englische Taschenbuch ›Keepsake‹
                     für 1830, mit sehr schönen Kupfern und einigen höchst interessanten Briefen von
                     Lord Byron, die ich zum Nachtisch las. Er selbst hatte derweil <rs>die neueste
                     französische Übersetzung seines ›Faust‹ von Gérard</rs> zur Hand genommen, worin er
@@ -1333,8 +1299,7 @@
                     <head><date when="1830-01-10">1830, 10. Januar.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1776_end"
-                        xml:id="graef_1776"/>Heute zum Nachtisch bereitete Goethe mir einen hohen
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1776_end" xml:id="graef_1776"/>Heute zum Nachtisch bereitete Goethe mir einen hohen
                     Genuß, indem <rs>er mir die Scene vorlas, wo Faust zu den Müttern geht</rs>.</p>
                 <p rend="indentchar-m4n0"> Das Neue, Ungeahnte des Gegenstandes, sowie die Art und
                     Weise wie Goethe mir die Scene vortrug, ergriff mich wundersam, sodaß ich mich
@@ -1353,8 +1318,7 @@
                     Plutarch gefunden, daß im griechischen Alterthume von Müttern als Gottheiten die
                     Rede gewesen. Dies ist alles, was ich der Überlieferung verdanke, das übrige ist
                     meine eigene Erfindung. Ich gebe Ihnen das Manuscript mit nach Hause, studiren
-                    Sie alles wohl und sehen Sie zu, wie Sie zurechtkommen.«<anchor
-                        xml:id="graef_1776_end"/></p>
+                    Sie alles wohl und sehen Sie zu, wie Sie zurechtkommen.«<anchor xml:id="graef_1776_end"/></p>
                 <pb n="180"/>
                 <lb/>
             </div>
@@ -1372,8 +1336,7 @@
                     »der einen merkwürdigen Eingang hat und wovon ich Ihnen erzählen muß.</p>
                 <p rend="indentchar-m4n0"> ›Ich habe eine Erfahrung gemacht‹, schreibt er, ›die mir
                     nicht verloren sein soll.‹ Was aber folgt auf solchen Eingang? Es handelt sich
-                    um nichts Geringeres als den Verlust von wenigstens tausend Thalern. Den<pb
-                        n="184"/> Schacht, wo es durch weichern Boden und Gestein zwölfhundert Fuß
+                    um nichts Geringeres als den Verlust von wenigstens tausend Thalern. Den<pb n="184"/> Schacht, wo es durch weichern Boden und Gestein zwölfhundert Fuß
                     tief zum Steinsalz hinabgeht, hat er unvorsichtigerweise an den Seiten nicht
                     unterstützt; der weichere Boden hat sich abgelöst und die Grube unten so
                     verschlämmt, daß es jetzt einer höchst kostspieligen Operation bedarf, um den
@@ -1412,8 +1375,7 @@
                     auf seinen Körper zu bringen; dann wie er die Gedichte geschrieben, den Setzer
                     nachgeäfft und den Anstand und die Würde des Schreibenden hervorgehoben; auch
                     wie es sein Lieblingszeitvertreib gewesen, im Fenster zu liegen, die
-                    Vorbeigehenden zu mustern und ihren Anzug in Gedanken so zu verändern, <pb
-                        n="186"/> daß es höchst lächerlich gewesen sein würde, wenn die Leute sich
+                    Vorbeigehenden zu mustern und ihren Anzug in Gedanken so zu verändern, <pb n="186"/> daß es höchst lächerlich gewesen sein würde, wenn die Leute sich
                     so gekleidet hätten.</p>
                 <p rend="indentchar-m4n0"> »Und dann sein gewöhnlicher Spaß mit dem Postboten,«
                     sagte Goethe, »wie gefällt Ihnen der, ist der nicht auch lustig?«</p>
@@ -1634,8 +1596,7 @@
                     von Goethe mit ihren Söhnen hinaufgegangen war, blieb ich mit Goethe allein.
                         <milestone unit="testimony" spanTo="#graef_1803_end" xml:id="graef_1803"/><rs>Er
                     erzählte mir von seiner ›Classischen Walpurgisnacht‹</rs>, daß er damit jeden Tag
-                    weiter komme, und daß ihm wunderbare Dinge über die Erwartung gelängen.<anchor
-                        xml:id="graef_1803_end"/> Dann zeigte er mir einen Brief des Königs von
+                    weiter komme, und daß ihm wunderbare Dinge über die Erwartung gelängen.<anchor xml:id="graef_1803_end"/> Dann zeigte er mir einen Brief des Königs von
                     Bayern, den er heute erhalten, und den ich mit großem Interesse las. Die edle
                     treue Gesinnung des Königs sprach sich in jeder Zeile aus, und Goethen schien es
                     besonders wohlzuthun, daß der König gegen ihn sich fortwährend so gleich bleibe.
@@ -1648,8 +1609,7 @@
                     zurück!‹ Übrigens habe sie fortgelebt und sei neunzig Jahre alt geworden,
                     nachdem sie bis in ihr achtzigstes Hunderte von Liebhabern beglückt und zur
                     Verzweiflung gebracht.</p>
-                <p rend="indentchar-m4n0"> Goethe spricht darauf über Gozzi und dessen Theater <pb
-                        n="209"/> zu Venedig, wobei die improvisirenden Schauspieler bloß die Sujets
+                <p rend="indentchar-m4n0"> Goethe spricht darauf über Gozzi und dessen Theater <pb n="209"/> zu Venedig, wobei die improvisirenden Schauspieler bloß die Sujets
                     erhielten. Gozzi habe die Meinung gehabt, es gebe nur sechsunddreißig tragische
                     Situationen; Schiller habe geglaubt, es gebe mehr, allein es sei ihm nicht
                     einmal gelungen, nur so viele zu finden.</p>
@@ -1711,8 +1671,7 @@
                     <milestone unit="testimony" spanTo="#graef_1812_end" xml:id="graef_1812"/>Goethe
                     sagte mir sodann, <rs>daß er in die Erscheinung der Helena noch einen Zug
                     hineingebracht</rs>, um ihre Schönheit zu erhöhen, welches durch eine Bemerkung von
-                    mir veranlaßt worden und meinem Gefühl zur Ehre gereiche.<anchor
-                        xml:id="graef_1812_end"/></p>
+                    mir veranlaßt worden und meinem Gefühl zur Ehre gereiche.<anchor xml:id="graef_1812_end"/></p>
                 <p rend="indentchar-m4n0"> Nach Tische zeigte Goethe mir den Umriß eines Bildes von
                     Cornelius, den Orpheus vor Plutos Throne darstellend, um die Eurydice zu
                     befreien. Das Bild erschien uns wohl überlegt und das Einzelne vortrefflich
@@ -1747,8 +1706,7 @@
                     dankte ich ihm in französischer Sprache – denn in der deutschen fühlte ich mich
                     nicht sicher genug, mit Goethe zu sprechen – für die theuersten Erinnerungen
                     meiner Reise, welche ich ihm zu verdanken hätte.</p>
-                <p rend="indentchar-m4n0"> »Mit Befriedigung sehe ich immer Fremde bei mir,<pb
-                        n="225"/> welche mich besuchen wollen,« – erwiederte Goethe auch in
+                <p rend="indentchar-m4n0"> »Mit Befriedigung sehe ich immer Fremde bei mir,<pb n="225"/> welche mich besuchen wollen,« – erwiederte Goethe auch in
                     französischer Sprache, die er mit Leichtigkeit handhabte. – »Ihre Gesellschaft
                     vertritt gewissermaßen die Annehmlichkeit des Reisens, die ich mir in meinem
                     Alter nicht erlauben darf. Ich unterrede mich mit Ihnen, und so reise ich auch,
@@ -1787,8 +1745,7 @@
                     er diese überwindet und für immer von der Welt scheidet, unter den Ordensbrüdern
                     von Clugny sich verliert, selbst den alten Namen ändert und ein Mönch des elften
                     Jahrhunderts wird. Da widerhallt das Kloster von der Kunde, daß Boten eines
-                    fernen Volkes gekommen seien, welche ihren Fürsten suchen. Kasimir, <pb n="227"
-                    /> in der klösterlichen Demuth verharrend, wollte sich noch verborgen halten.
+                    fernen Volkes gekommen seien, welche ihren Fürsten suchen. Kasimir, <pb n="227"/> in der klösterlichen Demuth verharrend, wollte sich noch verborgen halten.
                     Die polnischen Abgesandten können ihn unter der zahlreichen Schaar der Mönche
                     nicht erkennen, aber ihre Thränen, ihr Bericht von dem Unglück des Landes
                     erwecken in dem jungen Fürsten neue Gefühle: eine Zähre erglänzt im Auge eines
@@ -1846,12 +1803,10 @@
                     Dichters nicht in Anspruch nehmen wollte erhob ich mich, um zu gehen, aber
                     Goethe beliebte mich noch zurückzuhalten und that weitere Fragen inbetreff
                     Frankreichs, dessen bedeutenderer Schriftsteller und des <pb n="230"/> Zustandes
-                    der Künste. <milestone unit="testimony" spanTo="#graef_1846_end"
-                        xml:id="graef_1846"/>Als ich der <rs>ausgezeichneten Bilder Scheffer's erwähnte,
+                    der Künste. <milestone unit="testimony" spanTo="#graef_1846_end" xml:id="graef_1846"/>Als ich der <rs>ausgezeichneten Bilder Scheffer's erwähnte,
                     welche Faust und Gretchen darstellen</rs>, fragte er mich, welchen Charakter der
                     Maler ihnen gegeben, ob er des Dichters Absicht verstanden, und ob dies Faust
-                    und Gretchen Goethe's oder Scheffer's seien.<anchor xml:id="graef_1846_end"
-                    /></p>
+                    und Gretchen Goethe's oder Scheffer's seien.<anchor xml:id="graef_1846_end"/></p>
                 <p rend="indentchar-m4n0"> Nach dieser einstündigen Unterredung nahm ich von dem
                     Dichter Abschied.</p>
             </div>
@@ -1900,8 +1855,7 @@
                     <head><date when="1830-03-06">1830, 6. März.</date></head>
                 <head>Mit <persName>Friedrich Soret</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1824_end"
-                        xml:id="graef_1824"/>Goethe liest seit einiger Zeit die ›Memoiren‹ von
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1824_end" xml:id="graef_1824"/>Goethe liest seit einiger Zeit die ›Memoiren‹ von
                     Saint-Simon.</p>
                 <p rend="indentchar-m4n0"> »Mit dem Tode von Ludwig dem Vierzehnten,« sagte er mir
                     vor einigen Tagen, »habe ich jetzt halt gemacht. Bis dahin hat mich das Dutzend
@@ -1958,8 +1912,7 @@
                 <head>Mit <persName>Johann Peter
                         Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1826_end"
-                        xml:id="graef_1826"/>Um 12 Uhr zu Goethe, den ich heute besonders frisch und
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1826_end" xml:id="graef_1826"/>Um 12 Uhr zu Goethe, den ich heute besonders frisch und
                     kräftig fand. Er eröffnete mir, daß er seine <rs>›Classische Walpurgisnacht‹</rs> habe
                     zurücklegen müssen, um die letzte Lieferung fertig zu machen. »Hierbei aber,«
                     sagte er, »bin ich klug gewesen, daß ich aufgehört habe, wo ich noch in gutem
@@ -1995,8 +1948,7 @@
                     wozu er mich getrieben, und Sie können es sich zurechnen, wenn ich den zweiten
                     Theil des ›Faust‹ zustande bringe. Ich habe es Ihnen schon oft gesagt, aber ich
                     muß es wiederholen, damit Sie es wissen.« Ich freute <pb n="241"/> mich dieser
-                    Worte, im Gefühl, daß daran viel Wahres sein möge.<anchor
-                        xml:id="graef_1826_end"/></p>
+                    Worte, im Gefühl, daß daran viel Wahres sein möge.<anchor xml:id="graef_1826_end"/></p>
                 <p rend="indentchar-m4n0"> Beim Nachtisch öffnete Goethe eins der Packete. Es waren
                     die Gedichte von Émile Deschamps, begleitet von einem Brief, den Goethe mir zu
                     lesen gab. Hier sah ich nun zu meiner Freude, welcher Einfluß Goethen auf das
@@ -2075,8 +2027,7 @@
                     ist, daß man lerne sich selbst zu beherrschen. Wollte ich mich ungehindert gehen
                     lassen, so läge es wohl in mir, mich selbst und meine Umgebung zu Grunde zu
                     richten.«</p>
-                <p rend="indentchar-m4n0"> Wir sprachen sodann über krankhafte körperliche<pb
-                        n="276"/> Zustände und über die Wechselwirkung zwischen Körper und
+                <p rend="indentchar-m4n0"> Wir sprachen sodann über krankhafte körperliche<pb n="276"/> Zustände und über die Wechselwirkung zwischen Körper und
                     Geist.</p>
                 <p rend="indentchar-m4n0">
                     <milestone unit="testimony" spanTo="#graef_1834_end" xml:id="graef_1834"/>»Es
@@ -2110,8 +2061,7 @@
                     classisch und im antiken Sinne sei, als man vielleicht glauben möchte. Die
                     Schlegel ergriffen die Idee und trieben sie weiter, sodaß sie sich denn jetzt
                     über die ganze Welt ausgedehnt hat und nun jedermann von Classicismus und
-                    Romanticismus redet, woran vor funfzig Jahren niemand dachte.«<anchor
-                        xml:id="graef_1834_end"/></p>
+                    Romanticismus redet, woran vor funfzig Jahren niemand dachte.«<anchor xml:id="graef_1834_end"/></p>
                 <p rend="indentchar-m4n0"> Ich lenkte das Gespräch wieder auf den Cyklus der zwölf
                     Figuren, und Goethe sagte mir noch einiges zur Ergänzung.</p>
                 <p rend="indentchar-m4n0"> »Den Adam müßte man bilden wie ich gesagt, jedoch nicht
@@ -2151,8 +2101,7 @@
                     Cordellier-Delaroue]. »Das Gedicht ist voller Geist und Verwegenheit,« sagte
                     Goethe, »und Sie müssen es sehen. Es ist als hätte der <rs>Mephistopheles</rs> dem Poeten
                     dazu die Tinte präparirt. Es ist groß, wenn er es geschrieben ohne den <rs>›Faust‹</rs>
-                    gelesen zu haben, und ebenso groß, wenn er ihn gelesen.«<anchor
-                        xml:id="graef_1838_end"/></p>
+                    gelesen zu haben, und ebenso groß, wenn er ihn gelesen.«<anchor xml:id="graef_1838_end"/></p>
                 <pb n="281"/>
                 <lb/>
             </div> 
@@ -2195,8 +2144,7 @@
                         rechten Käufer kämen u.s.w.</p>
                     <p rend="indentchar-m4n0"> Nach Tische fing er dann aufeinmal an: »Gute Kinder –
                         hübsche Kinder – muß immer lustig sein – tolles Volk!« und dazu machte er
-                        Augen, wie der alte Löwe, wenn er einschlafen will. Dann mußte ich <pb
-                            n="305"/> ihm vorspielen, und er meinte: wie das so sonderbar sei, daß
+                        Augen, wie der alte Löwe, wenn er einschlafen will. Dann mußte ich <pb n="305"/> ihm vorspielen, und er meinte: wie das so sonderbar sei, daß
                         er so lange keine Musik gehört habe; nun hätten wir die Sache immer
                         weitergeführt und er wisse nichts davon; ich müsse ihm darüber viel
                         erzählen: »denn wir wollen doch auch einmal vernünftig miteinander darüber
@@ -2275,9 +2223,7 @@
                         sprechen; denn ich sei über meine Sache so klar, und da müsse er ja vieles
                         von mir lernen. Ich wurde noch einmal so lang, als Ottilie mir das
                         wiedersagte, und da er mir's gestern gar selbst wiederholte und meinte, es
-                        sei ihm noch vieles auf dem Herzen, über das ich ihn aufklären müsse, <hi
-                            rend="italic">so sagte</hi> ich »O ja!« und <hi rend="italic"
-                            >dachte</hi>: es soll mir eine unvergeßliche Ehre sein.</p></div> 
+                        sei ihm noch vieles auf dem Herzen, über das ich ihn aufklären müsse, <hi rend="italic">so sagte</hi> ich »O ja!« und <hi rend="italic">dachte</hi>: es soll mir eine unvergeßliche Ehre sein.</p></div> 
                 
                 <div><head>c.</head><lb/>
                 
@@ -2319,8 +2265,7 @@
                         Worte klangen mir wundersüß. Kurz, es war eins von den Gesprächen, die man
                         in seinem Leben nicht vergessen kann.</p>
                     <p rend="indentchar-m4n0">
-                        <milestone unit="testimony" spanTo="#graef_1848_end" xml:id="graef_1848"
-                        />Den andern Tag schenkte er mir <rs>einen Bogen seines Manuscripts von ›Faust‹</rs>
+                        <milestone unit="testimony" spanTo="#graef_1848_end" xml:id="graef_1848"/>Den andern Tag schenkte er mir <rs>einen Bogen seines Manuscripts von ›Faust‹</rs>
                         und hatte darunter geschrieben:</p>
                     <lb/>
                     <p rend="indentchar-m4n0">
@@ -2370,8 +2315,7 @@
                 <p rend="indentchar-m4n0">Nachmittags von 4 bis 6 Uhr war ich bei ihm, wo ich ihn
                     sehr heiter und mittheilend fand. »Ich bin wohl spät vernünftig geworden, aber
                     ich bin es nun doch.« Er theilte mir die Reiseroute seines Sohnes an den
-                    Comersee und die Borromäischen Inseln mit. <milestone unit="testimony"
-                        spanTo="#graef_1850_end" xml:id="graef_1850"/>»Eckermann versteht am besten
+                    Comersee und die Borromäischen Inseln mit. <milestone unit="testimony" spanTo="#graef_1850_end" xml:id="graef_1850"/>»Eckermann versteht am besten
                     literarische Productionen mir zu extorquiren durch den verständigen Antheil, den
                     er an dem bereits Geleisteten, bereits Begonnenen nimmt. So ist er vorzüglich
                     <rs>Ursache, daß ich den ›Faust‹ fortsetze</rs>, daß die zwei ersten Acte des zweiten
@@ -2441,12 +2385,10 @@
                         <hi rend="sup">3</hi>
                     </ref>
                 </p>
-                <p rend="indentchar-m4n0"> Bonnet nannte er den wackern, guten Naturhans! <milestone
-                        unit="testimony" spanTo="#graef_1855_end" xml:id="graef_1855"/>»Voltaire,
+                <p rend="indentchar-m4n0"> Bonnet nannte er den wackern, guten Naturhans! <milestone unit="testimony" spanTo="#graef_1855_end" xml:id="graef_1855"/>»Voltaire,
                     einer der größten Geister, hatte im hohen Alter die Schwachheit, noch ein neues
                     Trauerspiel von sich aufführen zu lassen; ich dagegen spüre immer mehr Neigung,
-                    <rs>das Beste was ich gemacht und noch machen kann</rs>, zu secretiren.«<anchor
-                        xml:id="graef_1855_end"/></p>
+                    <rs>das Beste was ich gemacht und noch machen kann</rs>, zu secretiren.«<anchor xml:id="graef_1855_end"/></p>
                 <p rend="indentchar-m4n0"> Er erzählte von der ehemaligen Freitagsabendgesellschaft
                     bei sich zu literarischen Zwecken. Der Herzog habe öfters beigewohnt und einst,
                     als ihm eine Vorlesung des Staatsraths, damaligen Hofmedicus Hufeland sehr

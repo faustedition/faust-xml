@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,8 +30,7 @@
                     die französischen Schriftsteller besäßen alles, nur nicht Geschmack; so wie wir
                     denn auch aus dem jetzt lebenden Paris zu erfahren hatten, daß die neuesten
                     Autoren sämmtlich des Geschmacks ermangelten, und Voltaire selbst diesem
-                    höchsten Tadel nicht ganz entgehen könne. <milestone unit="testimony"
-                        spanTo="#graef_1116_end" xml:id="graef_1116"/>Schon früher und wiederholt
+                    höchsten Tadel nicht ganz entgehen könne. <milestone unit="testimony" spanTo="#graef_1116_end" xml:id="graef_1116"/>Schon früher und wiederholt
                     auf die Natur gewiesen, wollten wir daher nichts gelten lassen als Wahrheit und
                     Aufrichtigkeit des Gefühls, und der rasche derbe Ausdruck desselben,</p>
                 <lb/>
@@ -43,8 +41,7 @@
                 <p>war Losung und Feldgeschrei, woran sich die Glieder unserer kleinen akademischen
                     Horde zu erkennen und zu erquicken pflegten. Diese Maxime lag zum Grund allen
                     unsern geselligen Gelagen, bei welchen uns denn freilich manchen Abend Vetter
-                    Michel in seiner wohlbekannten Deutschheit zu besuchen nicht verfehlte.<anchor
-                        xml:id="graef_1116_end"/></p>
+                    Michel in seiner wohlbekannten Deutschheit zu besuchen nicht verfehlte.<anchor xml:id="graef_1116_end"/></p>
             </div>
             
             <!-- Testimony graef_1143 -->
@@ -65,14 +62,12 @@
                     Berlichingen baute sich nach und nach in meinem Geiste zusammen, das Studium des
                     funfzehnten und sechzehnten Jahrhunderts beschäftigte mich, und jenes
                     Münstergebäude hatte einen sehr ernsten Eindruck in mir zurückgelassen, der als
-                    Hintergrund zu solchen Dichtungen gar wohl dastehn konnte.<anchor
-                        xml:id="graef_1143_end"/></p>
+                    Hintergrund zu solchen Dichtungen gar wohl dastehn konnte.<anchor xml:id="graef_1143_end"/></p>
             </div>
             
             <!-- Testimony graef_1151-->
             <div>
-                <p><milestone unit="testimony" spanTo="#graef_1151_end" xml:id="graef_1151"
-                />Vorübergehend will ich nur, der Folge wegen, noch eines guten Gesellen
+                <p><milestone unit="testimony" spanTo="#graef_1151_end" xml:id="graef_1151"/>Vorübergehend will ich nur, der Folge wegen, noch eines guten Gesellen
                     gedenken, der, obgleich von keinen außerordentlichen Gaben, doch auch mitzählte.
                     Er hieß Wagner, erst ein Glied der Straßburger, dann der Frankfurter
                     Gesellschaft; nicht ohne Geist, Talent und Unterricht. Er zeigte sich als ein
@@ -84,8 +79,7 @@
                     wegschnappte; es verdroß mich, ohne daß ich's ihm nachgetragen hätte. Ich habe
                     dergleichen Gedankenraub und Vorwegnahmen nachher noch oft genug erlebt, und
                     hatte mich, bei meinem Zaudern und Beschwätzen so manches Vorgesetzten und
-                    Eingebildeten, nicht mit Recht zu beschweren.<anchor xml:id="graef_1151_end"
-                    /></p>
+                    Eingebildeten, nicht mit Recht zu beschweren.<anchor xml:id="graef_1151_end"/></p>
             </div>
             
             <!-- Testimony graef_1118-->
@@ -98,16 +92,16 @@
                 
                 <lb/>
                 
-                <p>Liederlicher Tanzboden &#0160;&#0160;&#0160; Übung daselbst im Drehen und Walzen
-                    &#0160;&#0160;&#0160; <milestone unit="testimony" spanTo="#graef_1118_end" xml:id="graef_1118"/><hi rend="italic">Acouchement</hi> &#0160;&#0160;&#0160;
-                    Fortsetzung der übrigen Natur- und Medicinischen Studien. &#0160;&#0160;&#0160;
-                    Unendliche Zerstreuung. &#0160;&#0160;&#0160; <rs>Vorbild zum Schüler im Faust</rs>.
-                    &#0160;&#0160;&#0160; Andringen der Französischen Literatur
-                    &#0160;&#0160;&#0160; Disputation.<anchor xml:id="graef_1118_end"/> Herder &#0160;&#0160;&#0160; Friederike
-                    Brion. &#0160;&#0160;&#0160; Wagner. &#0160;&#0160;&#0160; Schöpflin Koch
-                    &#0160;&#0160;&#0160; Lenz &#0160;&#0160;&#0160; Reise nach Colmar, Ensisheim
-                    u.s.w. &#0160;&#0160;&#0160; Wallfahrt auf den Ottilienberg
-                    &#0160;&#0160;&#0160; Wiederaufgenommenes Studium des Homer.</p>
+                <p>Liederlicher Tanzboden     Übung daselbst im Drehen und Walzen
+                        <milestone unit="testimony" spanTo="#graef_1118_end" xml:id="graef_1118"/><hi rend="italic">Acouchement</hi>    
+                    Fortsetzung der übrigen Natur- und Medicinischen Studien.    
+                    Unendliche Zerstreuung.     <rs>Vorbild zum Schüler im Faust</rs>.
+                        Andringen der Französischen Literatur
+                        Disputation.<anchor xml:id="graef_1118_end"/> Herder     Friederike
+                    Brion.     Wagner.     Schöpflin Koch
+                        Lenz     Reise nach Colmar, Ensisheim
+                    u.s.w.     Wallfahrt auf den Ottilienberg
+                        Wiederaufgenommenes Studium des Homer.</p>
             </div>
         </body>
     </text>

@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:f="http://faustedition.net/ns"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -859,8 +852,7 @@
             
             <list>
                <headLabel rend="left">Januar</headLabel>
-               <label><milestone unit="testimony" spanTo="#graef_891_end" xml:id="graef_891"
-               />10. Leipzig</label>
+               <label><milestone unit="testimony" spanTo="#graef_891_end" xml:id="graef_891"/>10. Leipzig</label>
                <item><rs>Göschen den Faust</rs>.<anchor xml:id="graef_891_end"/></item>
                <gap/>
                <label>23. Gotha</label>
@@ -873,10 +865,8 @@
             <pb n="394"/>
             <list>
                <headLabel rend="left">Juni</headLabel>
-               <label>21.<milestone unit="testimony" spanTo="#graef_897_end" xml:id="graef_897"
-               /> Leipzig</label>
-               <item><rs>Göschen. Den 7. Theil abzusenden</rs>.<anchor xml:id="graef_897_end"
-               /></item>
+               <label>21.<milestone unit="testimony" spanTo="#graef_897_end" xml:id="graef_897"/> Leipzig</label>
+               <item><rs>Göschen. Den 7. Theil abzusenden</rs>.<anchor xml:id="graef_897_end"/></item>
             </list>
          </div>
       </body>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -165,7 +164,7 @@
                   <l n="18">Wirſt finden was von meiner Muſ’,</l>
                   <l n="19">Und freut mich recht von Herzensgrund,</l>
                   <l n="20">Wenn Dir der Dreck gefallen kunnt.</l>
-                  <milestone unit="testimony" xml:id="pniower_7" spanTo="#pniower_7_end" /><l n="21">Schick’ mir dafür den <rs>Doctor Fauſt</rs>,</l>
+                  <milestone unit="testimony" xml:id="pniower_7" spanTo="#pniower_7_end"/><l n="21">Schick’ mir dafür den <rs>Doctor Fauſt</rs>,</l>
                   <l n="22">Sobald Dein Kopf ihn ausgebrauſt.</l><anchor xml:id="pniower_7_end"/>
                </lg>
             </div>

@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,8 +30,7 @@
                <lb/>An <persName>Johann Friedrich Cotta</persName>
                <date when="1826-04-16"/>
             </head>
-            <p rend="indentchar-m8n8"><milestone unit="testimony" spanTo="#quz_II-748_end"
-                  xml:id="quz_II-748"/>Ew. Hochwohlgebornen</p>
+            <p rend="indentchar-m8n8"><milestone unit="testimony" spanTo="#quz_II-748_end" xml:id="quz_II-748"/>Ew. Hochwohlgebornen</p>
             <p rend="indentchar-m4n0">verfehle nicht zu vermelden, daß ich auf Dero neuerlich
                gefälliges Schreiben vom 8. April mich nunmehr anschicke die ganze contractmäßige
                Summe erster Lieferung von denen Herren Frege &amp; Compagnie zu beziehen, wofür den
@@ -67,8 +62,7 @@
          <pb n="11"/>
          <div type="letter">
             <head> [Beilage.] <lb/></head>
-            <p rend="centered"><milestone unit="testimony" spanTo="#quz_II-748a_end"
-                  xml:id="quz_II-748a"/>Bemerkungen</p>
+            <p rend="centered"><milestone unit="testimony" spanTo="#quz_II-748a_end" xml:id="quz_II-748a"/>Bemerkungen</p>
             <p><rs>zu dem abgesendeten revidirten Exemplar meiner Werke, die fünf ersten
                Bände.</rs></p>
             <p rend="indentchar-m4n0">1) In der Rechtschreibung ist hauptsächlich geändert das ss in
@@ -95,10 +89,8 @@
                die Blätter sind durchaus auf der Vorderseite paginirt; die Nummern auf der Rückseite
                bedeuten nichts. Eben so sind auch die Sterne von keiner Bedeutung, die auf einigen
                Blättern oben in den Ecken stehen. Der prosaische Nachtrag folgt unmittelbar.</p>
-            <p rend="indentchar-m4n0"> Man wünscht, daß ein umsichtiger mit der Typographie <pb
-                  n="13"/> wohlbekannter Literator bald möglich das Manuscript durchsehe und was
-               irgend noch zu berichtigen wäre gefällig anzeigte.<anchor xml:id="quz_II-748a_end"
-               /></p>
+            <p rend="indentchar-m4n0"> Man wünscht, daß ein umsichtiger mit der Typographie <pb n="13"/> wohlbekannter Literator bald möglich das Manuscript durchsehe und was
+               irgend noch zu berichtigen wäre gefällig anzeigte.<anchor xml:id="quz_II-748a_end"/></p>
             <p rend="indentchar-m4n0"> Weimar den 14. April 1826.</p>
             <p rend="right">J. W. v. Goethe.</p>
          </div>
@@ -136,8 +128,7 @@
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" spanTo="#graef_1370a_end" xml:id="graef_1370a"/>Eine
                   <rs>Recension der Übersetzung meiner dramatischen Arbeiten</rs> hat mir auch viel
-               Vergnügen gemacht. Verhalt' ich mich doch selbst gegen meine Productionen <pb n="30"
-               /> ganz anders, als zur Zeit, da ich sie concipirte. Nun bleibt es höchst merkwürdig,
+               Vergnügen gemacht. Verhalt' ich mich doch selbst gegen meine Productionen <pb n="30"/> ganz anders, als zur Zeit, da ich sie concipirte. Nun bleibt es höchst merkwürdig,
                wie sie sich zu einer fremden Nation verhalten und zwar so spät, bey ganz veränderten
                Ansichten der Zeit.<anchor xml:id="graef_1370a_end"/></p>
             <p rend="indentchar-m4n0"> Was auf mich besonders erfreulich wirkt, das ist der
@@ -252,8 +243,7 @@
                <milestone unit="testimony" spanTo="#graef_1391_end" xml:id="graef_1391"/>Die
                bevorstehende Ausgabe meiner sämmtlichen Werke erinnert mich täglich daran zu denken,
                was ich etwa meinen geprüften Freunden Neues und Erfreuliches <pb n="68"/>
-               <rs>von dem bisher gesparten Vorrathe mittheilen</rs> könnte.<anchor
-                  xml:id="graef_1391_end"/></p>
+               <rs>von dem bisher gesparten Vorrathe mittheilen</rs> könnte.<anchor xml:id="graef_1391_end"/></p>
             <p rend="indentchar-m4n0"> Mit wiederholten tausendfältigen Empfehlungen
                unwandelbar.</p>
             <p rend="right">treugesinnt</p>
@@ -269,8 +259,7 @@
             </head>
             <p rend="indentchar-m4n0">Hiebey also die zweyte Hälfte des Heftes. Möge das, was Ihre
                Angelegenheit betrifft, einigermaßen genugthuend und von dem Übrigen dieses und jenes
-               erfreulich seyn. <milestone unit="testimony" spanTo="#graef_1407_end"
-                  xml:id="graef_1407"/>Ich habe mir indessen große Mühe aufgeladen, um den vierten
+               erfreulich seyn. <milestone unit="testimony" spanTo="#graef_1407_end" xml:id="graef_1407"/>Ich habe mir indessen große Mühe aufgeladen, um den vierten
                Band der ersten Lieferung der neuen Ausgabe recht gewichtig zu machen und <rs>eine
                   seit zwanzig Jahren ruhende Arbeit wieder aufgenommen: <hi rend="italic">Helena,
                      ein Zwischenspiel zu Faust</hi></rs>, in die zweyte Abtheilung gehörig, ruhend
@@ -321,14 +310,12 @@
                Zweifel, die unsereinem aufstoßen, der <pb n="153"/> von der ganzen Technik nichts
                versteht; deshalb man unschlüssig wird, wo der Eingeweihte keinen Anstand nimmt.</p>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1409_end" xml:id="graef_1409"/><rs>Von <hi
-                     rend="italic">Helena</hi> nächstens mehr. In der Anzeige stand nichts davon,
+               <milestone unit="testimony" spanTo="#graef_1409_end" xml:id="graef_1409"/><rs>Von <hi rend="italic">Helena</hi> nächstens mehr. In der Anzeige stand nichts davon,
                   denn sie ward erst kurz vor ihrer Ankunft fertig, und ich hätte sie Ihnen gar zu
                   gern vorgelegt. Sie soll in den vierten Band kommen</rs>, unmittelbar vor die
                letzte Abtheilung der zahmen Xenien. Es wird daraus mein eifriges Bestreben
                hervorgehen, unser Unternehmen so werth zu machen als möglich; und da darf ich denn
-               wohl hoffen, daß auch mir und den Meinigen das Gebührende zu Gute komme.<anchor
-                  xml:id="graef_1409_end"/></p>
+               wohl hoffen, daß auch mir und den Meinigen das Gebührende zu Gute komme.<anchor xml:id="graef_1409_end"/></p>
             <p rend="indentchar-m4n0"> Gar manches hätte ich zu schreiben, und wie der Zweck, den
                ich auch schon in dem letzten Stück von Kunst und Alterthum verfolgte, durch das
                Morgenblatt zu erreichen wäre; ich müßte nur erst völlig vergessen, daß es lange Zeit
@@ -407,8 +394,7 @@
 
          <pb n="164"/>
          <div type="letter">
-            <head rend="zenoPC"><num type="wa-volume">41</num><num type="wa-letter"
-               >142</num>.</head>
+            <head rend="zenoPC"><num type="wa-volume">41</num><num type="wa-letter">142</num>.</head>
             <head>An <persName>Kaspar von Sternberg</persName></head>
 
             <head rend="right">[26. September 1826.]</head>
@@ -454,8 +440,7 @@
                möge nun erfreuen, aufregen und Gedanken veranlassen, die es nicht bringt.</p>
             <p rend="indentchar-m4n0"> Ich habe diese schönen Sommerwochen her ein
                körperlich-zufälliges Übel geduldet, ohne eigentlich zu leiden. Billigen Forderungen
-               an meine Geisteskräfte konnte ich genugthun. <milestone unit="testimony"
-                  spanTo="#graef_1411_end" xml:id="graef_1411"/>Ich habe <rs>einiges hervorgebracht,
+               an meine Geisteskräfte konnte ich genugthun. <milestone unit="testimony" spanTo="#graef_1411_end" xml:id="graef_1411"/>Ich habe <rs>einiges hervorgebracht,
                   das sich aufweisen läßt, manches Andere in's Ganze gearbeitet</rs>, in der
                Absicht, daß die ersten Sendungen meiner Werke immer bedeutender werden
                   möchten,<anchor xml:id="graef_1411_end"/> sodann um den übrigen auch manchen
@@ -542,8 +527,7 @@
                herkömmlich freundlicher Aufnahme. Die Herausgabe meiner sämmtlichen Werke, wovon
                einige Anzeigen beyliegen, hielt mich ab, früher damit hervorzutreten, indessen
                hoffe, daß ich meine Zeit auch<pb n="179"/> zur Freude meiner werthen Abwesenden
-               verwendet habe, <milestone unit="testimony" spanTo="#graef_1414_end"
-                  xml:id="graef_1414"/>wie ich denn besonders <rs>die ersten fünf Bände vorzüglich
+               verwendet habe, <milestone unit="testimony" spanTo="#graef_1414_end" xml:id="graef_1414"/>wie ich denn besonders <rs>die ersten fünf Bände vorzüglich
                   auszustatten</rs> glücklich genug bin.<anchor xml:id="graef_1414_end"/></p>
             <p rend="indentchar-m4n0"> In die Natur konnt ich nur Seitenblicke werfen, aber auch so
                schon haben sich meine früheren Ansichten bestätigt und erweitert. An Mitarbeiter ist
@@ -566,8 +550,7 @@
                <num type="wa-volume">41</num><num type="wa-letter">155</num>. <lb/>
                <lb/>An <persName>Carl Wilhelm Göttling</persName>
             </head>
-            <p rend="indentchar-m8n8"><milestone unit="testimony" spanTo="#graef_1415_end"
-                  xml:id="graef_1415"/>Ew. Wohlgeboren</p>
+            <p rend="indentchar-m8n8"><milestone unit="testimony" spanTo="#graef_1415_end" xml:id="graef_1415"/>Ew. Wohlgeboren</p>
             <p rend="indentchar-m4n0">nehme mir die Freyheit eine schöne Dame zuzuführen, die sich
                denn selbst einleiten und einschmeicheln möge.</p>
             <p rend="indentchar-m4n0"> Eigentlich aber zu reden wünsche diesem sonderbaren Werke
@@ -576,8 +559,7 @@
                   Fehlerhafte der reimlos rhythmischen<pb n="187"/> Stellen allerdings zu tilgen
                   seyn möchte, so würde man dabey doch nicht allzu genau verfahren</rs>; bisher habe
                ich es mit Professor Riemer durchgegangen, bis wir müde wurden. Möchten Ew.
-               Wohlgeboren es Ihrer gewohnten Aufmerksamkeit werth achten.<anchor
-                  xml:id="graef_1415_end"/></p>
+               Wohlgeboren es Ihrer gewohnten Aufmerksamkeit werth achten.<anchor xml:id="graef_1415_end"/></p>
             <p rend="right">ergebenst</p>
             <p rend="indentchar-m4n0">Weimar den 30. September 1826.</p>
             <p rend="right">J. W. v. Goethe.</p>
@@ -599,8 +581,7 @@
                Dritten theilnehmen lassen; oder auch, was den Vertrieb betrifft, ein anderes als mit
                allen andern Buchhändlern eingetretenes Verhältniß eingehen.</p>
             <p rend="indentchar-m4n0"> Ich habe selbst nach Wien geschrieben, um auch über den
-               vorliegenden Fall ganz in's Klare zu kommen. <milestone unit="testimony"
-                  spanTo="#graef_1418_end" xml:id="graef_1418"/>Ferner muß ich denn auch mich über
+               vorliegenden Fall ganz in's Klare zu kommen. <milestone unit="testimony" spanTo="#graef_1418_end" xml:id="graef_1418"/>Ferner muß ich denn auch mich über
                den Punct, daß Herr v. Cotta denkt, man könne die zwey letzten Bände der ersten
                Lieferung weglassen und die zwey ersten der folgenden dafür anschließen, deutlich
                erklären: daß ich darin nicht einwilligen kann. Gerade dieses Überspringen ist mit
@@ -634,8 +615,7 @@
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" spanTo="#graef_1419_end" xml:id="graef_1419"/>Ich habe
                den ganzen Sommer zu Hause zugebracht und ungestört an der Ausgabe meiner Werke
-               fortgearbeitet. Erinnern Sie sich wohl noch, mein Theuerster, einer dramatischen <hi
-                  rend="italic">Helena</hi>, die im zweyten Theil von Faust erscheinen sollte? Aus
+               fortgearbeitet. Erinnern Sie sich wohl noch, mein Theuerster, einer dramatischen <hi rend="italic">Helena</hi>, die im zweyten Theil von Faust erscheinen sollte? Aus
                Schillers Briefen vom Anfang des Jahrhunderts sehe ich, daß ich ihm den Anfang
                vorzeigte, auch, daß er mich zur Fortsetzung treulich ermahnte. Es ist eine meiner
                ältesten Conceptionen, sie ruht auf der Puppenspiel-Überlieferung, daß Faust den
@@ -654,8 +634,7 @@
             <lb/>
             <p rend="indentchar-m4n0">Das heißt denn freylich wenig gesagt, und doch genug, hoff
                ich, um <rs>Ihre Aufmerksamkeit auf die erste Lieferung lebhafter zu richten, die ich
-                  von meinen Arbeiten zu Ostern darzubieten gedenke</rs>.<anchor
-                  xml:id="graef_1419_end"/></p>
+                  von meinen Arbeiten zu Ostern darzubieten gedenke</rs>.<anchor xml:id="graef_1419_end"/></p>
             <p rend="indentchar-m4n0"> Dann frag ich mit mehr Zuversicht: Sie erinnern sich wohl
                noch eines epischen Gedichts, das ich gleich nach Beendigung von Herrmann und
                Dorothea im Sinn hatte: Bey einer modernen Jagd kamen Tiger und Löwe mit in's Spiel;
@@ -685,8 +664,7 @@
                Theilen, als zwey Bände zusammenzufassen und zu vereinigen, bey welcher Arbeit mir
                nichts erfreulicher seyn könnte als den Hauptwanderer, Ihren hochverehrten Herrn
                Bruder, bey uns zu begrüßen und von seiner immergleichen Thätigkeit unmittelbar zu
-               vernehmen; wie ich denn auch Ihrer theuern Frau Gemahlin die besten Nachwirkungen <pb
-                  n="205"/> der in so hohen Regionen gesuchten Cur herzlich anzuwünschen nicht
+               vernehmen; wie ich denn auch Ihrer theuern Frau Gemahlin die besten Nachwirkungen <pb n="205"/> der in so hohen Regionen gesuchten Cur herzlich anzuwünschen nicht
                unterlasse.</p>
             <p rend="indentchar-m4n0"> und so für und für</p>
             <p rend="right">in treulichster Theilnahme</p>
@@ -700,8 +678,7 @@
                <num type="wa-volume">41</num><num type="wa-letter">176</num>. <lb/>
                <lb/>An <persName>Sulpiz Boisserée</persName>
             </head>
-            <p rend="centered"><milestone unit="testimony" spanTo="#graef_1420_end"
-                  xml:id="graef_1420"/>(Fortsetzung.)</p>
+            <p rend="centered"><milestone unit="testimony" spanTo="#graef_1420_end" xml:id="graef_1420"/>(Fortsetzung.)</p>
             <p rend="indentchar-m4n0">Verzeihen Sie, mein Bester, wenn ich Ihnen exaltirt scheine;
                aber da mich Gott und seine Natur so viele Jahre mir selbst gelassen haben, so weiß
                ich nichts Besseres zu thun, als meine dankbare Anerkennung durch jugendliche
@@ -745,7 +722,7 @@
                diese 3 Foliobände Manuscript noch einige Lustra liegen; denn es wäre Schade, wenn
                man einiger Rücksichten wegen die erbaulichsten Spitzen abstumpfen wollte. Übrigens
                ist alles höchst unschuldig, nur Dünkel und Vorurtheil hätten sich zu beschweren und
-               beide verflüchtigen sich mit der Zeit. &#8211; Um baldige aufmunternde Erwiderung
+               beide verflüchtigen sich mit der Zeit. – Um baldige aufmunternde Erwiderung
                bittet,</p>
             <p rend="right">und so fortan!</p>
             <p rend="indentchar-m4n0">Weimar den 22. October 1826.</p>
@@ -763,8 +740,7 @@
                und wenig Abänderungen. Daß die durchgestrichene Stelle wegbleibe, werden Sie
                billigen, wenn Sie in Betracht ziehen, daß schon Seite 10 der ersten Anzeige dasselbe
                mit meines Namens Unterschrift gesagt worden und eine Wiederholung zudringlich
-               scheinen möchte. <milestone unit="testimony" spanTo="#graef_1422_end"
-                  xml:id="graef_1422" next="#graef_1422_b"/>Die Helena habe ich etwas ausführlicher
+               scheinen möchte. <milestone unit="testimony" spanTo="#graef_1422_end" xml:id="graef_1422" next="#graef_1422_b"/>Die Helena habe ich etwas ausführlicher
                angezeigt, damit kluge Leute eher ahnden, was es damit solle. Für Sie, mein Bester,
                will ich <pb n="218"/> den Vorhang noch etwas weiter lüpfen, indem ich eine Stelle
                aus Professor Göttlings Brief abschreiben lasse, der die Gefälligkeit hat, meine
@@ -811,8 +787,7 @@
                dieses schönen Weibes beginnen läßt. Dann die romantische Form, deren würdigster
                Vertreter Faust als eigenthümlichstes germanisches Erzeugniß ist pp.</p>
             <lb/>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1422_end_b"
-                  xml:id="graef_1422_b"/>(<rs>Weiter darf ich vor der Hand nichts mittheilen, ohne
+            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1422_end_b" xml:id="graef_1422_b"/>(<rs>Weiter darf ich vor der Hand nichts mittheilen, ohne
                   das Räthsel zu verrathen</rs>, obgleich die Auflösung schon aus dem Titel sich
                vermuthen läßt.)<anchor xml:id="graef_1422_end_b"/></p>
          </div>
@@ -852,8 +827,7 @@
                und Kunst mir zu statten kommen.</p>
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" spanTo="#graef_1425_end" xml:id="graef_1425"/>Gar manches
-               treibt und drängt, sogar <rs>Mephistopheles regt sich wieder</rs>.<anchor
-                  xml:id="graef_1425_end"/></p>
+               treibt und drängt, sogar <rs>Mephistopheles regt sich wieder</rs>.<anchor xml:id="graef_1425_end"/></p>
             <p rend="indentchar-m4n0"> Tausend Gruß und Lebewohl.</p>
             <p rend="right">eiligst und treulichst</p>
             <p rend="indentchar-m4n0">Weimar den 10. November 1826.</p>
@@ -884,8 +858,7 @@
                so lange studirten Modell endlich geglückt ist, so wird nun des Ausführens und
                Ciselirens kein Ende. Möge indessen der Eintritt in den Porticus erfreulich seyn und
                Sie sich eine Weile daran ergetzen; wenigstens gibt er ein Vorgefühl des Innern, wenn
-               auch darin manches Mysteriöse möchte verschlossen seyn.<anchor
-                  xml:id="graef_1428_end"/></p>
+               auch darin manches Mysteriöse möchte verschlossen seyn.<anchor xml:id="graef_1428_end"/></p>
             <p rend="indentchar-m4n0"> Nun aber vermelde, daß unser wackerer Ober-Baudirector
                glücklich angelangt ist und viel zu erzählen hat, wie er durch unsre Empfehlungen
                nach allen <pb n="235"/> Seiten Raum gewonnen und überall die beste Aufnahme gefunden
@@ -915,8 +888,7 @@
                <num type="wa-volume">41</num><num type="wa-letter">217</num>. <lb/>
                <lb/>An <persName>Sulpiz Boisserée</persName>
             </head>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1433_end"
-                  xml:id="graef_1433" next="#graef_1433_b"/><rs>Die gute und reine Aufnahme meiner
+            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1433_end" xml:id="graef_1433" next="#graef_1433_b"/><rs>Die gute und reine Aufnahme meiner
                   eintretenden Helena</rs>, wenn schon gehofft und vorausgesehen, war mir höchst
                erfreulich. Hier abermals ein Schritt weiter, und ich denke, es muß Ihnen angenehm
                seyn zu sehen, wie das Räthsel sich verwickelt und entwickelt, wie Ihre Vermuthungen
@@ -1061,8 +1033,7 @@
                und Gedruckte zuzusenden dergl. bey uns von mehrern oder mindern Interesse
                vorkommt.</p>
             <lb/>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1395_end"
-                  xml:id="graef_1395"/><rs>Über Helena nächstens mehr, das Werk ist
+            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1395_end" xml:id="graef_1395"/><rs>Über Helena nächstens mehr, das Werk ist
                   abgeschlossen</rs> und ist so seltsam und problematisch als ich je etwas
                geschrieben habe. Vielleicht geben wir im Laufe dieses halben Jahrs davon irgend wo
                einige nähere Kenntniß.<lb/><lb/> Das Merkwürdigste bey diesem Stück ist daß es ohne

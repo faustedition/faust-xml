@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-   xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -102,8 +100,7 @@
             </p>
             <p rend="indentchar-m8n12"> Achilleis. Erster Gesang.</p>
             <lb/>
-            <p rend="centered"><milestone unit="testimony" xml:id="graef_1045"
-                  spanTo="#graef_1045_end"/>X.</p>
+            <p rend="centered"><milestone unit="testimony" xml:id="graef_1045" spanTo="#graef_1045_end"/>X.</p>
             <p rend="indentchar-m8n12"><rs>Faust. Fragment, um die Hälfte vermehrt</rs>.</p>
             <p rend="indentchar-m8n12"> Puppenspiel. Vermehrt.</p>
             <p rend="indentchar-m8n12"> Andere analoge Gedichte, ältere und neuere.</p>
@@ -116,8 +113,7 @@
             <p rend="indentchar-m8n12">Desgleichen.</p>
             <p rend="indentchar-m4n0">Wie die Lieferungen einzutheilen und was sonst noch weiter zu
                verabreden wäre, ist fernerer Überlegung anheimgegeben.</p>
-            <p rend="indentchar-m4n0"> Das neue ist roth unterstrichen.<anchor
-                  xml:id="graef_1045_end"/></p>
+            <p rend="indentchar-m4n0"> Das neue ist roth unterstrichen.<anchor xml:id="graef_1045_end"/></p>
             <p rend="indentchar-m4n0"> Weimar den 1. May 1805.</p>
             <p rend="right">G.</p>
             <pb n="16"/>
@@ -167,8 +163,7 @@
                <milestone unit="testimony" xml:id="graef_1046" spanTo="#graef_1046_end"/>Was ich in
                den vierten Band bringe, darüber bin ich mit mir selbst noch nicht einig. <rs>Ist es
                   mir einigermaßen möglich; so tret ich gleich mit Faust hervor</rs>. Er und die übrigen
-               Holzschnittartigen Späße machen ein gutes Ganze und würden bey der ersten <pb n="66"
-               /> Lieferung gleich ein lebhafteres Interesse erregen. Bezeichnen Sie mir den letzten
+               Holzschnittartigen Späße machen ein gutes Ganze und würden bey der ersten <pb n="66"/> Lieferung gleich ein lebhafteres Interesse erregen. Bezeichnen Sie mir den letzten
                Termin, wann Sie das Manuscript vom vierten Bande haben müssen, damit ich
                einigermaßen meinen Überschlag machen kann.<anchor xml:id="graef_1046_end"/></p>
             <p rend="indentchar-m4n0"> Sagen Sie mir doch auch ein Wort, wie es in Ihrer Gegend
@@ -178,8 +173,7 @@
             <p rend="indentchar-m4n0"> W. d. 30. Sept. 1805.</p>
             <p rend="right">Goethe.</p>
             <lb/>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#quz_I-870a_end"
-                  xml:id="quz_I-870a"/>Nach Herrn Cotta's Wunsch ist zu meiner Erklärung d. d.
+            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#quz_I-870a_end" xml:id="quz_I-870a"/>Nach Herrn Cotta's Wunsch ist zu meiner Erklärung d. d.
                Lauchstedt d. 12. Aug. 1805, und zwar was den fünften Punkt betrifft folgendes
                hinzuzufügen. Da nach beyderseitiger Intention die letzte Lieferung 1808 erscheinen
                soll, so sollen die auf Ostern gedachten Jahres zu bezahlenden letzten 3000 rh. an
@@ -278,16 +272,14 @@
             <p rend="indentchar-m4n0"> Ist es Ihnen bequemer, und hoffen Sie dadurch die Correctheit
                und übrige Anständigkeit des Druckes besser besorgen zu können; so habe ich gar
                nichts dagegen, wenn Sie damit noch einige Monate zaudern, und sey Ihnen dieses ganz
-               überlassen. <milestone unit="testimony" xml:id="graef_1048" spanTo="#graef_1048_end"
-               />Der vierte Band der ersten Lieferung soll auch in wenigen Wochen fertig seyn; doch
+               überlassen. <milestone unit="testimony" xml:id="graef_1048" spanTo="#graef_1048_end"/>Der vierte Band der ersten Lieferung soll auch in wenigen Wochen fertig seyn; doch
                laß ich ihn bey mir liegen, bis Sie ihn verlangen. <rs>Er wird den Faust enthalten,
                   insofern dieser jetzt mittheilbar ist</rs>, dagegen aber auch der dünnste von den
                vieren werden, wie der dritte der dickste. Bey einer solchen Reihe von Bänden, wo es
                angenehm ist, das Gehörige beysammen zu haben, läßt sich's freylich so genau nicht
                   einrichten.<anchor xml:id="graef_1048_end"/></p>
             <p rend="indentchar-m4n0"> An den Damen-Calender will ich denken. Vielleicht bring' ich
-               wieder irgend so etwas zum Eingange wie vor dem Jahre. Das gute Glück muß es <pb
-                  n="107"/> aber herbeyführen: denn was alles noch vorräthig läge, paßt nicht in
+               wieder irgend so etwas zum Eingange wie vor dem Jahre. Das gute Glück muß es <pb n="107"/> aber herbeyführen: denn was alles noch vorräthig läge, paßt nicht in
                diesen Kreis.</p>
             <p rend="indentchar-m4n0"> Daß ich in der Zwischenzeit hundertmal an Sie gedacht habe,
                können Sie leicht denken. Ließe sich's denn nicht einrichten, daß Sie, zur Messe
@@ -365,8 +357,7 @@
             <p rend="right">Jena den 18. August 1806.</p>
             <p rend="indentchar-m4n0">Mit der fahrenden Post geht der vierte Band meiner Werke an
                Sie ab. Es fehlt daran nur noch Elpenor, ein Fragment, welches ich mit der reitenden
-               bald nachschicke. <milestone unit="testimony" xml:id="graef_1063"
-                  spanTo="#graef_1063_end"/>Es liegt auch in dem Pakete ein Verzeichniß der Stücke,
+               bald nachschicke. <milestone unit="testimony" xml:id="graef_1063" spanTo="#graef_1063_end"/>Es liegt auch in dem Pakete ein Verzeichniß der Stücke,
                welche in die vier Bände der zweyten Lieferung kommen. <rs>Der vierte, worin Faust
                   befindlich, ist schon in Ihren Händen</rs>. Die drey ersten <pb n="176"/> erhalten
                Sie hoffentlich noch vor Michael, so daß, wenn Sie es räthlich finden, die acht Bände
@@ -403,8 +394,7 @@
                die bequemen Stunden, in denen wir uns mit Hoffnung schmeichelten, unsre Versuche zu
                vollenden, und was wir nur entworfen hatten, auszuführen.</p>
             <p rend="indentchar-m4n0"> Mit der montägigen fahrenden Post geht nicht allein Elpenor
-               an Sie ab, sondern es folgt auch der 5. 6. u. 7. Theil meiner Werke. <milestone
-                  unit="testimony" xml:id="graef_1066" spanTo="#graef_1066_end"/>Der 8. ist schon in
+               an Sie ab, sondern es folgt auch der 5. 6. u. 7. Theil meiner Werke. <milestone unit="testimony" xml:id="graef_1066" spanTo="#graef_1066_end"/>Der 8. ist schon in
                Ihren Händen. Sie können deswegen, wenn es Ihre Convenienz ist, <rs>mit dem Druck
                   sogleich fortfahren</rs><anchor xml:id="graef_1066_end"/>, ja ich denke, in
                weniger Zeit das übrige dergestalt bereit zu halten, daß weiter kein Aufenthalt
@@ -456,11 +446,9 @@
                soweit, daß ich, ohne freundliche treu fortgesetzte Beyhülfe, diese zwölf Bändchen
                gar nicht zusammengebracht hätte. Jetzt haben wir sie aber meist hinter uns und bis
                Einen kommen sie diese Tage sämmtlich in Cotta's Hände. Da mag nun weiter aus uns
-               werden, was will, so wäre doch soviel gerettet. <milestone unit="testimony"
-                  xml:id="graef_1069" spanTo="#graef_1069_end"/>Ich freue mich zum Voraus auf den
+               werden, was will, so wäre doch soviel gerettet. <milestone unit="testimony" xml:id="graef_1069" spanTo="#graef_1069_end"/>Ich freue mich zum Voraus auf den
                Spaß, den Ihnen <rs>der fortgesetzte Faust</rs> machen wird. Es sind Dinge darin, die
-               Ihnen auch von musikalischer Seite interessant seyn werden.<anchor
-                  xml:id="graef_1069_end"/></p>
+               Ihnen auch von musikalischer Seite interessant seyn werden.<anchor xml:id="graef_1069_end"/></p>
             <p rend="indentchar-m4n0"> Können Sie mir das Verzeichniß der von Berlin weggeführten
                Kunstschätze ertheilen, so geschieht mir ein Gefallen. Wenn man nur weiß, wo sie
                aufbewahrt werden, so sind sie uns nicht verloren.</p>
@@ -479,8 +467,7 @@
                <date when="1807-08-28"/>
             </head>
             <p rend="right">Carlsbad, den 28. August 1807.</p>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1069a"
-                  spanTo="#graef_1069a_end"/>Indem ich Ihnen, mein werthester Herr Müller, Ihre
+            <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1069a" spanTo="#graef_1069a_end"/>Indem ich Ihnen, mein werthester Herr Müller, Ihre
                Vorlesungen zurückschicke, möchte ich diese Hefte gern mit etwas Freundlichem und
                etwas Bedeutendem begleiten. Das erste wird mir leicht, das zweyte im gegenwärtigen
                Augenblicke schwer; doch können Sie ja selbst wissen, was ich Ihnen auf beyde Weise
@@ -598,8 +585,7 @@
             <p rend="indentchar-m4n0"> Soviel, mein liebster, für dießmal. Ich packe ein, um wieder
                nach Weimar zu gehen. Hier ist es mir ganz gut geworden, und was Sie wohl nicht
                rathen würden, ich bin ins Sonettenmachen hineingekommen. Davon schicke ich Ihnen
-               gelegentlich ein Dutzend, mit der einzigen Bedingung, daß sie Niemand sieht und <pb
-                  n="476"/> daß keine Abschrift genommen wird. Möchten Sie aber eins davon
+               gelegentlich ein Dutzend, mit der einzigen Bedingung, daß sie Niemand sieht und <pb n="476"/> daß keine Abschrift genommen wird. Möchten Sie aber eins davon
                componiren, so würde es mich recht glücklich machen. Ich mag gar zu gern meine
                Productionen auf Ihrem Elemente schwimmen sehen. Sagen Sie mir bald wieder etwas,
                wenn es auch nicht viel ist. Ein Freundeswort ist in diesen trüben und kurzen Tagen
@@ -760,8 +746,7 @@
                
                <row>
                   <cell/>
-                  <cell><milestone unit="testimony" spanTo="#graef_1064_end"
-                     xml:id="graef_1064"/> Achter Band.</cell>
+                  <cell><milestone unit="testimony" spanTo="#graef_1064_end" xml:id="graef_1064"/> Achter Band.</cell>
                </row>
                
                <row>
@@ -786,11 +771,9 @@
          <!--Testimony gräf_1067, WA IV, 19, 513 -->
          
          <div>
-            <p rend="centered"><milestone unit="testimony" spanTo="#graef_1067_end"
-               xml:id="graef_1067"/>Achter Band.<lb/>
+            <p rend="centered"><milestone unit="testimony" spanTo="#graef_1067_end" xml:id="graef_1067"/>Achter Band.<lb/>
                <rs>Faust und Zubehör.<lb/>
-                  <lb/>Ist schon in Herrn Cotta's Händen.</rs><anchor xml:id="graef_1067_end"
-                  /></p>
+                  <lb/>Ist schon in Herrn Cotta's Händen.</rs><anchor xml:id="graef_1067_end"/></p>
             <milestone unit="section" rendition="#hr"/>
             <p rend="centered">--------------------------------------------------</p>
             

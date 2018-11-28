@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,18 +22,15 @@
         <body>
             <pb n="77" facs="quz_2_0077.jpg"/>
             <div type="text">
-                <head type="editorial">[<date when="1823-09-00">Ende Sept 1823</date>/<date
-                        when="1823-10-00">Anf Okt 1823</date>?]</head>
+                <head type="editorial">[<date when="1823-09-00">Ende Sept 1823</date>/<date when="1823-10-00">Anf Okt 1823</date>?]</head>
                 <head type="editorial">
                     <num type="quz_2">146</num>
                 </head>
                 <head type="editorial">Eckermann über seine Beziehungen zu Goethe (Tewes
-                        253f)<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
-                    >5</hi></ref>:</head>
+                        253f)<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">5</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_II-146_end" xml:id="quz_II-146"/>Im
                     Jahre 1823. kam ich nach Weimar. Nicht um diese Stadt zu meinem Wohnort zu
-                    wählen, sondern bloß um einen Besuch bei <pb n="78" facs="quz_2_0078.jpg"
-                    />Goethe zu machen und dann in mein Vaterland zurückzukehren. – Es schien aber
+                    wählen, sondern bloß um einen Besuch bei <pb n="78" facs="quz_2_0078.jpg"/>Goethe zu machen und dann in mein Vaterland zurückzukehren. – Es schien aber
                     von dem Lenker meines Lebens anders beschlossen zu seyn.</p>
                 <p>Goethes Persönlichkeit übte auf mich eine so anziehende Gewalt aus, daß ich
                     seinem Wunsche hier zu bleiben und an seiner literarischen Thätigkeit Theil zu
@@ -57,13 +54,11 @@
                     mit allen noch übrigen Kräften auf die Hervorbringung von neuen Dingen wenden,
                     und vor allen den Faust und Wahrheit und Dichtung fertig machen.“</p>
                 <p>Ich war damals in meinem dreißigsten Jahre. Meine erste Schrift: Beiträge zur
-                    Poesie war soeben im Cottaschen Verlag erschienen<anchor xml:id="N2"/><ref
-                        target="#F2"><hi rend="sup">1</hi></ref> und erlebte das Glück einer
+                    Poesie war soeben im Cottaschen Verlag erschienen<anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">1</hi></ref> und erlebte das Glück einer
                     rühmlichen Anerkennung in allen ersten literarischen Blättern. Ich war voll von
                     neuen schriftstellerischen Vorsätzen, ich fühlte in mir Trieb und Kraft mich
                     nach allen Seiten hin zu versuchen und mir einen Namen zu machen; allein ich
-                    unterdrückte meine liebsten Wünsche, indem ich mir <pb n="79"
-                        facs="quz_2_0079.jpg"/>sagte, daß wenn ich Goethe durch die Übernahme jener
+                    unterdrückte meine liebsten Wünsche, indem ich mir <pb n="79" facs="quz_2_0079.jpg"/>sagte, daß wenn ich Goethe durch die Übernahme jener
                     Arbeiten frei mache und in den Stand setze noch viel Großes hervorzubringen, ich
                     nicht allein die letzten Lebensjahre des hohen Mannes verschönern, sondern auch
                     der deutschen Literatur einen größeren Dienst leisten würde, als durch eigene
@@ -74,9 +69,7 @@
                 <p>Die Liebe zu meiner Heimath und ein sehnliches Verlangen dahin zurückzukehren war
                     indeß oft zu nicht geringer Qual in mir lebendig gewesen, allein ich suchte mich
                     zu beschwichtigen, indem ich die Überzeugung in mir weckte, daß ich hier in
-                    besonderem Grade nützlich sey, und ich tröstete mich mit dem Wahlspruch: <hi
-                        rend="letter-spaced">Wo ich wirke</hi> ist mein Vaterland.<anchor
-                        xml:id="quz_II-146_end"/></p>
+                    besonderem Grade nützlich sey, und ich tröstete mich mit dem Wahlspruch: <hi rend="letter-spaced">Wo ich wirke</hi> ist mein Vaterland.<anchor xml:id="quz_II-146_end"/></p>
             </div>
             <pb n="140" facs="quz_2_0140.jpg"/>
             <div type="diary">
@@ -88,8 +81,7 @@
                 </head>
                 <head type="editorial">Riemers Tagebuch (Pollmer 37):</head>
                 <p><milestone unit="testimony" spanTo="#quz_II-367_end" xml:id="quz_II-367"/>Abends
-                    bei Goethe, brachte ihm die <rs>neue Helena</rs> zurück.<anchor
-                        xml:id="quz_II-367_end"/></p>
+                    bei Goethe, brachte ihm die <rs>neue Helena</rs> zurück.<anchor xml:id="quz_II-367_end"/></p>
             </div>
             <pb n="189" facs="quz_2_0189.jpg"/>
             <div type="letter">
@@ -106,19 +98,15 @@
                 <p>habe die Ehre hierbei den neunten und zehnten Band der Werke zurück zu
                         senden<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup">5</hi></ref>;
                     ich erlaube mir folgende Bemerkungen anzuschließen.</p>
-                <p><hi rend="letter-spaced">Neunter Band</hi><anchor xml:id="N4"/><ref target="#F4"
-                            ><hi rend="sup">6</hi></ref>. +S. 36, Z. 5<anchor xml:id="N5"/><ref
-                        target="#F5"><hi rend="sup">7</hi></ref> scheint statt „dann“ stehen zu
+                <p><hi rend="letter-spaced">Neunter Band</hi><anchor xml:id="N4"/><ref target="#F4"><hi rend="sup">6</hi></ref>. +S. 36, Z. 5<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup">7</hi></ref> scheint statt „dann“ stehen zu
                     müssen „<hi rend="letter-spaced">denn</hi>“. S. 39, 9 habe ich die Interpunction
                     geändert, <pb n="190" facs="quz_2_0190.jpg"/>in so fern nach „gequält“ ein Punct
                     stand. +Sollten nicht in <rs>Gretchen’s Lied</rs> S. 169 die beiden letzten Strophen,
                     welche verbunden gedruckt sind, durch einen Zwischenraum geschieden werden, wie
                     es mit Str. 6 und 7 geschehen ist, obgleich nur eine sehr schwache Interpunction
                     sie scheidet? +S. 172 in den Worten: „<hi rend="letter-spaced">Natur</hi> ist
-                    Schall und Rauch Umnebelnd Himmelsglut“ ist wohl ein Druckfehler für: „<hi
-                        rend="letter-spaced">Name</hi> ist Schall und Rauch“ u.s.w., wie ich in der
-                    Leipziger Ausgabe<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup"
-                        >1</hi></ref> selbst gelesen zu haben glaube. Ich vermuthete erst, der Sinn
+                    Schall und Rauch Umnebelnd Himmelsglut“ ist wohl ein Druckfehler für: „<hi rend="letter-spaced">Name</hi> ist Schall und Rauch“ u.s.w., wie ich in der
+                    Leipziger Ausgabe<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup">1</hi></ref> selbst gelesen zu haben glaube. Ich vermuthete erst, der Sinn
                     sei etwa: der Name Natur, womit etwa der Inbegriff Gottes und der Welt zugleich
                     angedeutet wäre, ist nur Schall und Rauch; allein ich habe bald eingesehen, daß
                     eine solche Idee nicht in jene <rs>Rede des Faust</rs> passen könne. Das äusere Argument,
@@ -126,32 +114,25 @@
                     „Natur“ rhythmisch erfordert werde, nicht ein Trochäus wie „Name“, erschien mir
                     auch als kein bedeutendes, da Faust noch sonst in jener Rede einzelne Verse
                     dactylisch und trochäisch beginnt, wie „Faßt und erhält er nicht“ oder „Liegt
-                    die Erde nicht“. +S. 187, 14 sollte vielleicht stehen: „<hi rend="letter-spaced"
-                        >Laß</hi> unsern <hi rend="letter-spaced">Herrn</hi> Gott“ statt „<hi
-                        rend="letter-spaced">Laßt</hi> unsern <hi rend="letter-spaced">Herr</hi>
+                    die Erde nicht“. +S. 187, 14 sollte vielleicht stehen: „<hi rend="letter-spaced">Laß</hi> unsern <hi rend="letter-spaced">Herrn</hi> Gott“ statt „<hi rend="letter-spaced">Laßt</hi> unsern <hi rend="letter-spaced">Herr</hi>
                     Gott“ und +S. 195, 5 (v.u.): „Strecken sie Polypenfasern“ statt: „Stecken sie“
                     u.s.w. S. 198, 13[14] war ich ungewiß, ob das Präsens oder Imperfect zu setzen
-                    sei in: „Die <hi rend="letter-spaced">macht</hi> ein Paar Augen“ oder: „Die <hi
-                        rend="letter-spaced">macht’</hi> ein Paar Augen“. +S. 201, 3 steht: „Platz,
+                    sei in: „Die <hi rend="letter-spaced">macht</hi> ein Paar Augen“ oder: „Die <hi rend="letter-spaced">macht’</hi> ein Paar Augen“. +S. 201, 3 steht: „Platz,
                     Junker Voland kommt“. Ich weiß nicht, ob Ew. Excellenz mit Fleiß die Form
                     „Voland“ der sonst allein, besonders in den älteren Denkmälern der deutschen
                     Sprache vorkommenden „Valand“ vorgezogen haben. Die letztere hat, wie es
                     scheint, das etymologische mehr für sich, man mag es nun von der alten Form
                     Vahen (Fahen, fangen), wo es auch sprachlich einen Gegensatz zu dem ähnlich
                     gebildeten „Heiland“ gibt, in so fern dieser der Erretter, jener der Verderber,
-                    oder man mag es von <hi rend="letter-spaced">val</hi> und <hi
-                        rend="letter-spaced">Ant</hi> ableiten, wo jenes <hi rend="letter-spaced"
-                        >böse,</hi> dieses einen <hi rend="letter-spaced">Geist, Wesen</hi> (wovon
+                    oder man mag es von <hi rend="letter-spaced">val</hi> und <hi rend="letter-spaced">Ant</hi> ableiten, wo jenes <hi rend="letter-spaced">böse,</hi> dieses einen <hi rend="letter-spaced">Geist, Wesen</hi> (wovon
                     noch unser Ahndung) bezeichnet; stets bleibt doch das a im Stamm. +S. 244, 2
                     (v.u.) muß es wohl heißen: „Nehme man <hi rend="letter-spaced">auch</hi> fremde
                     Gemüthsart an“ und +S. 294, 4 [v.u.] vielleicht „davon“ oder „dafür“ statt
                     „davor“.</p>
                 <pb n="191" facs="quz_2_0191.jpg"/>
-                <p><hi rend="letter-spaced">Zehnter Band</hi><anchor xml:id="N7"/><ref target="#F7"
-                            ><hi rend="sup">1</hi></ref>. S. 9, 2 und 13 sperrt sich in dem Orakel
+                <p><hi rend="letter-spaced">Zehnter Band</hi><anchor xml:id="N7"/><ref target="#F7"><hi rend="sup">1</hi></ref>. S. 9, 2 und 13 sperrt sich in dem Orakel
                     der Pentameter etwas. Sollte nicht, da sich S. 58 derselbe Pentameter mit der
-                    Veränderung: „seine Geweide gibt her“ findet, die Verkürzung der Länge <hi
-                        rend="letter-spaced">gibt</hi> durch ein iambisches Verbum, etwa wie in
+                    Veränderung: „seine Geweide gibt her“ findet, die Verkürzung der Länge <hi rend="letter-spaced">gibt</hi> durch ein iambisches Verbum, etwa wie in
                     „seine Geweide verliert“ vermieden werden können? +S. 29, 17 möchte wohl statt
                     „elysäisch“ zu schreiben seyn „elyseisch“ oder noch besser, wie denn diese Form
                     später in demselben Stücke vorkommt +„elysisch“. +S. 57, 15 ist mir aufgefallen:
@@ -161,8 +142,7 @@
                     so lang’ als mirs denkt“ nicht ganz deutlich. +S. 318 fehlt im
                     Personenverzeichnisse der Amtmann, welcher +S. 347 auftritt.</p>
                 <p>Die Genitive wie „köstlichen Sinnes“ habe ich Ew. Excellenz Ansicht gemäß nicht
-                    mehr geändert, wo sie vorkamen<anchor xml:id="N8"/><ref target="#F8"><hi
-                            rend="sup">2</hi></ref>; ich würde auch nicht auf den Einfall gekommen
+                    mehr geändert, wo sie vorkamen<anchor xml:id="N8"/><ref target="#F8"><hi rend="sup">2</hi></ref>; ich würde auch nicht auf den Einfall gekommen
                     seyn, wenn ich nicht auch die andere Form „köstliches Sinnes“ von Ew. Excellenz
                     gebraucht gefunden hätte. Ich habe allerdings nicht bedacht, daß Ew. Excellenz
                     beider Formen sich nebeneinander bedienen konnten. Wie pedantisch muß ich nun in
@@ -184,19 +164,13 @@
                 <p><milestone unit="testimony" spanTo="#quz_II-927_end" xml:id="quz_II-927"/>Euer
                     Excellenz</p>
                 <p>habe ich die Gnade, die durch Freund Boissere gewünschte Übersicht der bisherigen
-                        Unterzeichnungen<anchor xml:id="N9"/><ref target="#F9"><hi rend="sup"
-                        >1</hi></ref> zu übersenden – die, wenn man bedenkt, daß der Termin bis
+                        Unterzeichnungen<anchor xml:id="N9"/><ref target="#F9"><hi rend="sup">1</hi></ref> zu übersenden – die, wenn man bedenkt, daß der Termin bis
                     Ostern verlängert worden ist, und daß mithin der wenigere Theil der Buchhändler
                     schon Anzeige gemacht hat, immerhin als bedeutend angesehen werden darf.</p>
                 <p>Eine große Schwierigkeit finde ich bei mehrern Buchhändlern, welche mit dem
                     Rabbat von 1/4 nicht einmal zufrieden seyn wollen; verwöhnt durch die Verleger
-                    der wohlfeilen Übersezungen von W. Scott<anchor xml:id="N10"/><ref target="#F10"
-                            ><hi rend="sup">2</hi></ref>, welche 1/3 Rabbat und noch das 13<hi
-                        rend="sup">te</hi> gratis geben.</p>
-                <p><rs>Die Ex von Faust<anchor xml:id="N11"/><ref target="#F11"><hi rend="sup"
-                        >3</hi></ref> mit einem Pariser Nachdruk vermehrt</rs><anchor xml:id="N12"/><ref
-                        target="#F12"><hi rend="sup">4</hi></ref> gehen über Leipzig ab.<anchor
-                        xml:id="quz_II-927_end"/></p>
+                    der wohlfeilen Übersezungen von W. Scott<anchor xml:id="N10"/><ref target="#F10"><hi rend="sup">2</hi></ref>, welche 1/3 Rabbat und noch das 13<hi rend="sup">te</hi> gratis geben.</p>
+                <p><rs>Die Ex von Faust<anchor xml:id="N11"/><ref target="#F11"><hi rend="sup">3</hi></ref> mit einem Pariser Nachdruk vermehrt</rs><anchor xml:id="N12"/><ref target="#F12"><hi rend="sup">4</hi></ref> gehen über Leipzig ab.<anchor xml:id="quz_II-927_end"/></p>
             </div>
             <pb n="434" facs="quz_2_0434.jpg"/>
             <div type="letter">
@@ -220,8 +194,7 @@
                     gewönlich auf die OsterMesse gerechnet, weil die Gelder jezt dahin zu schaffen,
                     dann von dort zurükzuziehen bedeutende BankierKosten verursachen – ist es
                     inzwischen nicht anders zu ma<pb n="435" facs="quz_2_0435.jpg"/>chen, so ist
-                    Herr Frege und Cp. wie gewönlich zur Ausbezahlung beauftragt.<anchor
-                        xml:id="quz_II-980_end"/></p>
+                    Herr Frege und Cp. wie gewönlich zur Ausbezahlung beauftragt.<anchor xml:id="quz_II-980_end"/></p>
             </div>
             <pb n="436" facs="quz_2_0436.jpg"/>
             <div type="letter">
@@ -246,17 +219,14 @@
                     arbeiten wir stark, und wird derselbe im Laufe dieser Woche ausgesezt werden.
                     Dann beginnen wir den fünften, und dieser ist eigentlich die Hauptursache unsres
                     heutigen Schreibens. Dieser Band giebt 34 bis 36 Bogen zu 16 Seiten gerechnet,
-                    was wir Hn. Geh. Hofr. v. Cotta anzeigten<anchor xml:id="N14"/><ref
-                        target="#F14"><hi rend="sup">1</hi></ref>, und dieser uns auftrug, Ew.
+                    was wir Hn. Geh. Hofr. v. Cotta anzeigten<anchor xml:id="N14"/><ref target="#F14"><hi rend="sup">1</hi></ref>, und dieser uns auftrug, Ew.
                     Excellenz sogleich zu schreiben, ob nicht vielleicht hier ein Irrthum obwalte,
-                    so daß dieser Band in zwey zu theilen seyn möchte<anchor xml:id="N15"/><ref
-                        target="#F15"><hi rend="sup">2</hi></ref>.</p>
+                    so daß dieser Band in zwey zu theilen seyn möchte<anchor xml:id="N15"/><ref target="#F15"><hi rend="sup">2</hi></ref>.</p>
                 <p>Den Aushängebogen des dritten Bandes werden wir ein Verzeichniß der Wörter
                     beilegen, die wir in demselben nicht übereinstimmend geschrieben gefunden haben,
                     theils mit diesem Bande selbst, theils mit den beiden ersten.</p>
                 <p><rs>Das Gedicht Helena</rs> werden wir suchen nach Wunsch von Ew. Excellenz im Druck zu
-                        arrangiren<anchor xml:id="N16"/><ref target="#F16"><hi rend="sup"
-                        >3</hi></ref>.<anchor xml:id="quz_II-991_end"/></p>
+                        arrangiren<anchor xml:id="N16"/><ref target="#F16"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_II-991_end"/></p>
             </div>
             <pb n="445" facs="quz_2_0445.jpg"/>
             <div type="letter">
@@ -273,26 +243,21 @@
                 <p>habe ich die Ehre, mit diesem auch die Aushängebogen No. 15. bis 25. Ende des IV.
                     Bandes und No. 1–4 vom V. Bande zu übersenden sous bande welche 15 Bogen wir in
                     diesen 8 Tagen gedruckt haben. Ich weiß nicht, ob ich Ew. Excellenz schon
-                    anzeigte, daß wir in dem Festgedicht<anchor xml:id="N17"/><ref target="#F17"><hi
-                            rend="sup">2</hi></ref> nöthig fanden, den Titel Prolog<anchor
-                        xml:id="N18"/><ref target="#F18"><hi rend="sup">3</hi></ref> einzuschalten,
+                    anzeigte, daß wir in dem Festgedicht<anchor xml:id="N17"/><ref target="#F17"><hi rend="sup">2</hi></ref> nöthig fanden, den Titel Prolog<anchor xml:id="N18"/><ref target="#F18"><hi rend="sup">3</hi></ref> einzuschalten,
                     da er in der vorausgehenden Einleitung schon vorkam, als Ueberschrift wie auch
-                    jene: Festgedicht<anchor xml:id="N19"/><ref target="#F19"><hi rend="sup"
-                        >4</hi></ref> und Epilog, welche beide leztere dann auch als Titel
+                    jene: Festgedicht<anchor xml:id="N19"/><ref target="#F19"><hi rend="sup">4</hi></ref> und Epilog, welche beide leztere dann auch als Titel
                     vorkommen.</p>
                 <p>Ferner habe ich die Ehre, den Empfang von Ew. Excellenz gütigem Schreiben vom 18.
                     am 24. dieß anzuzeigen. 2 Stunden später, wäre die <rs>Veränderung in dem Gedicht
                     Helena</rs> zu spät angekommen. Daß diejenige zu dem Gedicht No. 38. in den
                     Inschriften zu spät kommen mußte, werden Ew. Excellenz aus den inzwischen
-                    erhalten habenden Aushängebogen, die ich schon am <pb n="446"
-                        facs="quz_2_0446.jpg"/>22. absandte ersehen haben. Wir haben daher die
+                    erhalten habenden Aushängebogen, die ich schon am <pb n="446" facs="quz_2_0446.jpg"/>22. absandte ersehen haben. Wir haben daher die
                     nachträgliche Notiz bei der Zeile <hi rend="letter-spaced">Aufklärende
                         Bemerkungen</hi> im Inhaltsverzeichniß <hi rend="letter-spaced">als
                         Note</hi> zugefügt, und hoffen Ew. Excellenz Zustimmung dazu zu
                     erhalten.</p>
                 <p>Bei Fertigung des Inhaltsverzeichnisses des IV. Bandes fanden wir im
-                    M[anu]s[cri]pt des Inhalts auch aufgeführt: Prometheus, ein Fragment<anchor
-                        xml:id="N20"/><ref target="#F20"><hi rend="sup">1</hi></ref>; da dieses aber
+                    M[anu]s[cri]pt des Inhalts auch aufgeführt: Prometheus, ein Fragment<anchor xml:id="N20"/><ref target="#F20"><hi rend="sup">1</hi></ref>; da dieses aber
                     bei dem <hi rend="letter-spaced">Mspt.</hi> desselben sich nicht vorfand, und
                         <rs>die Pagina von Faust auf Nausikaa</rs> im Dramatischen keine Lücke
                     hatte, sondern zusammenpaßte, wir es also auch nicht hatten gewahr werden
@@ -536,8 +501,7 @@
                 </table>
                 <p>Sodann wäre eine bestimmtere Vorschrift über folgende Fälle wünschenswerth:</p>
                 <p>1. soll <hi rend="letter-spaced">in der Regel</hi> alles, jemand, viele, manche,
-                    niemand, jeder, keiner pp. mit <hi rend="letter-spaced">großen</hi> oder <hi
-                        rend="letter-spaced">kleinen</hi> Anfangsbuchstaben geschrieben werden?</p>
+                    niemand, jeder, keiner pp. mit <hi rend="letter-spaced">großen</hi> oder <hi rend="letter-spaced">kleinen</hi> Anfangsbuchstaben geschrieben werden?</p>
                 <p>2. Wie soll es in gleicher Beziehung mit den an der Stelle von Substantiven
                     stehenden Adjectiven gehalten werden?</p>
                 <p>3. sollen die aus dem Lat. stammenden Zeitwörter studiren, memoriren pp. oder
@@ -546,8 +510,7 @@
                 <p>heitern oder heitren pp.</p>
                 <p>sammeln oder sammlen pp.</p>
                 <p>zu schreiben?</p>
-                <p>5. Soll bei Zeitwörtern, wo in bestimmten Beugungsfällen das <hi rend="underline"
-                        >e</hi> herausgeworfen wird z. B. löst oder lös’t pp. geschrieben
+                <p>5. Soll bei Zeitwörtern, wo in bestimmten Beugungsfällen das <hi rend="underline">e</hi> herausgeworfen wird z. B. löst oder lös’t pp. geschrieben
                     werden?</p>
                 <p>6. Soll in ähnlicher Beziehung bei Substantiven z. B. Ros’ oder Ros p.
                     stehen?</p>
@@ -555,8 +518,7 @@
                 <p>Bis jezt wurde in diesen sieben Fällen in der Regel das Mscr. getreu befolgt,
                     ungeachtet in diesem bei der vielfachen Ungleichheit nicht immer ein bestimmter
                     Grundsatz geleitet zu haben schien.</p>
-                <p>Bei den einzeln aufgeführten Wörtern aber wurde jedesmal die <hi
-                        rend="letter-spaced">zuerst</hi> bemerkte Schreibart gebraucht, theils als
+                <p>Bei den einzeln aufgeführten Wörtern aber wurde jedesmal die <hi rend="letter-spaced">zuerst</hi> bemerkte Schreibart gebraucht, theils als
                     die gewöhnlichere, theils aber u. hauptsächlich – weil diese meist in den zwei
                     ersten Bänden, bei denen als schon mehrmal gedruckt, eine genauere Revision
                     vorausgesetzt werden konnte, gebraucht worden war.</p>
@@ -575,15 +537,13 @@
                     sende heute den ersten Bogen von Goethe XII. Band zur Corr[ektur] an Hrn. D.
                     Kolb. In diesem Bande beginnt der <rs>Faust</rs>. Dabei nun ist mir eingefallen,
                     ob nicht vielleicht 1000 oder 1500 <rs>besondere Abdrucke des Faust</rs> gemacht
-                    werden sollen? Es sind bei uns noch 472 vorräthig<anchor xml:id="N23"/><ref
-                        target="#F23"><hi rend="sup">3</hi></ref>. 1500 geben etwa durchs ganze
+                    werden sollen? Es sind bei uns noch 472 vorräthig<anchor xml:id="N23"/><ref target="#F23"><hi rend="sup">3</hi></ref>. 1500 geben etwa durchs ganze
                     durch <pb n="528" facs="quz_2_0528.jpg"/>gerechnet 1 1/2 Tag Arbeit für die
                     große Maschine, und da der Zweite Theil angehängt wird, so wird man künftig wohl
                     den Faust kaufen mit dem Zweiten Theil, und der erste wird liegen bleiben. Sogar
                     auf Velinpapier sollte eine Anzahl gedruckt werden, ich glaube daß sie Abgang
                     fänden, natürlich muß die Norm „<hi rend="letter-spaced">Goethes Werke</hi>“
-                    hinweg und ein eigner Titel dazu<anchor xml:id="N24"/><ref target="#F24"><hi
-                            rend="sup">1</hi></ref>.<anchor xml:id="quz_II-1222_end"/></p>
+                    hinweg und ein eigner Titel dazu<anchor xml:id="N24"/><ref target="#F24"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_II-1222_end"/></p>
             </div>
             <pb n="533" facs="quz_2_0533.jpg"/>
             <div type="letter">
@@ -609,12 +569,10 @@
                 <p>XV. 1 D° No. 1–8 incl.</p>
                 <p>Den Empfang der ersten Scenen des Faust II. Theil zeige ich Ew. Exc. ganz
                     gehorsamst an; ich werde suchen, wie bei der Helena Dero Wünschen zu
-                        entsprechen<anchor xml:id="N25"/><ref target="#F25"><hi rend="sup"
-                        >1</hi></ref>. Noch in dieser Woche beginnt der Satz dieses II. Theiles, und
+                        entsprechen<anchor xml:id="N25"/><ref target="#F25"><hi rend="sup">1</hi></ref>. Noch in dieser Woche beginnt der Satz dieses II. Theiles, und
                     ich bitte um baldige Nachsendung des Uebrigen.</p>
                 <p>Ebenso gelange ich mit den XV. Band in nächster Woche bis an die Novelle, die ich
-                    daher ebenfalls gütigst einzusenden gehorsamst bitte.<anchor
-                        xml:id="quz_II-1241_end"/></p>
+                    daher ebenfalls gütigst einzusenden gehorsamst bitte.<anchor xml:id="quz_II-1241_end"/></p>
             </div>
             <pb n="538" facs="quz_2_0538.jpg"/>
             <div type="letter">
@@ -630,15 +588,10 @@
                     Excellenz</p>
                 <p>habe ich die Ehre den Empfang der mir unterm 16. Febr. angezeigten M[anu]s[cri]pt
                     Sendung anzuzeigen. Was noch zu Faust ankam, sind nicht mehr als 2 Seiten des
-                    Mspts. nämlich 1 Bog. in Folio<anchor xml:id="N26"/><ref target="#F26"><hi
-                            rend="sup">3</hi></ref>, dessen zweites Blatt <hi rend="letter-spaced"
-                        >weiß</hi> war. Da nun <rs>dieses Mspt (zu Faust)</rs> alles keine Paginas hat, so
+                    Mspts. nämlich 1 Bog. in Folio<anchor xml:id="N26"/><ref target="#F26"><hi rend="sup">3</hi></ref>, dessen zweites Blatt <hi rend="letter-spaced">weiß</hi> war. Da nun <rs>dieses Mspt (zu Faust)</rs> alles keine Paginas hat, so
                     kann ich nicht wissen, ob nicht vielleicht etwas dazwischen fehlt, da Ew.
-                    Excellenz zu schreiben die Güte haben: „sie sendeten noch <hi
-                        rend="letter-spaced">Einiges</hi> zu (Goethes) Faust 2<hi rend="sup"
-                        >ter</hi> Theil. Ich gebe daher davon Ew. Excellenz folgende Notiz: Was ich
-                    bis jezt in Händen hatte, schließt mit der Rede des <hi rend="letter-spaced"
-                        >Plutus,</hi> welche beginnt:</p>
+                    Excellenz zu schreiben die Güte haben: „sie sendeten noch <hi rend="letter-spaced">Einiges</hi> zu (Goethes) Faust 2<hi rend="sup">ter</hi> Theil. Ich gebe daher davon Ew. Excellenz folgende Notiz: Was ich
+                    bis jezt in Händen hatte, schließt mit der Rede des <hi rend="letter-spaced">Plutus,</hi> welche beginnt:</p>
                 <p>
                     <hi rend="letter-spaced">Schrecken ist genug verbreitet,</hi>
                 </p>
@@ -665,11 +618,8 @@
                     darüber anzufragen, und zugleich darauf aufmerksam zu machen, ob hier nicht zu
                     sagen seyn möchte, <hi rend="letter-spaced">daß eine weitere Fortsetzung später
                         noch folgen wird?</hi></p>
-                <p>Auch bei dem übrigen Manuscript für den XV. Band<anchor xml:id="N27"/><ref
-                        target="#F27"><hi rend="sup">1</hi></ref> habe ich <hi rend="letter-spaced"
-                        >den</hi> Zweifel, ob die Worte: „<hi rend="letter-spaced">Die
-                    Novelle.</hi>“ mit abgedruckt werden. Der Artikel „<hi rend="letter-spaced"
-                        >Die</hi>“ macht mich irre, indem diese Ueberschrift somit sagt, daß dieser
+                <p>Auch bei dem übrigen Manuscript für den XV. Band<anchor xml:id="N27"/><ref target="#F27"><hi rend="sup">1</hi></ref> habe ich <hi rend="letter-spaced">den</hi> Zweifel, ob die Worte: „<hi rend="letter-spaced">Die
+                    Novelle.</hi>“ mit abgedruckt werden. Der Artikel „<hi rend="letter-spaced">Die</hi>“ macht mich irre, indem diese Ueberschrift somit sagt, daß dieser
                     Aufsatz „<hi rend="letter-spaced">Die Novelle.</hi>“ betitelt ist, wie der
                     vorhergehende „<hi rend="letter-spaced">Die guten Weiber</hi>“ heißt. Mein
                     Zweifel ist also der: Ob der Aufsatz nicht eine andere Ueberschrift erhält,
@@ -685,10 +635,8 @@
                 <p>Ich war auf 8 Tage in Geschäften in München, daher die Empfangsanzeige erst heute
                     erfolgt.</p>
                 <p>Die folgende Lieferung betreffend, so glaube ich dieselbe, so wie Ew. Excellenz
-                    sie geordnet wissen wollen, ganz gut<anchor xml:id="N28"/><ref target="#F28"><hi
-                            rend="sup">2</hi></ref>, und habe Dero Schreiben darüber Hrn. Baron v.
-                    Cotta nach Stuttgart gesandt, dessen Antwort ich noch erwarte.<anchor
-                        xml:id="quz_II-1251_end"/></p>
+                    sie geordnet wissen wollen, ganz gut<anchor xml:id="N28"/><ref target="#F28"><hi rend="sup">2</hi></ref>, und habe Dero Schreiben darüber Hrn. Baron v.
+                    Cotta nach Stuttgart gesandt, dessen Antwort ich noch erwarte.<anchor xml:id="quz_II-1251_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -702,25 +650,19 @@
                     nun aber der <rs>Faust</rs>, laut Goethes Brief . . . noch nicht geendet
                         ist<anchor xml:id="N29"/><ref target="#F29"><hi rend="sup">3</hi></ref>, so
                     frage ich an, was ist damit zu machen, hinsichtlich der 1500 besondern
-                        Abdrucke<anchor xml:id="N30"/><ref target="#F30"><hi rend="sup"
-                    >4</hi></ref>, denn dort kann uns das nichts helfen, <hi rend="letter-spaced"
-                        >dort</hi> muß der Faust ganz seyn? . . . Ich komme noch einmal auf den
+                        Abdrucke<anchor xml:id="N30"/><ref target="#F30"><hi rend="sup">4</hi></ref>, denn dort kann uns das nichts helfen, <hi rend="letter-spaced">dort</hi> muß der Faust ganz seyn? . . . Ich komme noch einmal auf den
                     Faust zurück. Hr. Prof. Lebret sagt mir soeben, wie er glaube, daß wenn <rs>in den
                     besondern Abdrucken des Faust der erste Theil <hi rend="letter-spaced">aus</hi>
                     sey, nun erst <hi rend="letter-spaced">Helena</hi> als Zwischenspiel zu Faust</rs>
-                        <pb n="540" facs="quz_2_0540.jpg"/>kommen müsse, ehe Faust 2<hi rend="sup"
-                        >ter</hi> Theil kommen könne. Er hält das für die besondere Ausgabe des
+                        <pb n="540" facs="quz_2_0540.jpg"/>kommen müsse, ehe Faust 2<hi rend="sup">ter</hi> Theil kommen könne. Er hält das für die besondere Ausgabe des
                     Faust durchaus nöthig, und zwar spreche die neueste Nummer des „Globe“ davon,
                     daß Faust nun nach dem Schluß des ersten Theils, von Mephistopheles das schönste
                     Weib der Erde verlangt habe, und nun gehe im Zweiten Theil erst die Dichtung in
-                    die moderne Zeit über<anchor xml:id="N31"/><ref target="#F31"><hi rend="sup"
-                            >1</hi></ref>.</p>
+                    die moderne Zeit über<anchor xml:id="N31"/><ref target="#F31"><hi rend="sup">1</hi></ref>.</p>
                 <p>Ich glaube fast selbst, daß das der besondern Ausgabe nützlich wäre, und ich
                     bitte daher hierüber um Ordre. Muß die Helena da hinein, so muß ich diese erst
                     wieder setzen lassen. Da nun aber ohnehin Hr. v. Goethe den II. Theil des Faust
-                    jezt nicht beendiget, so möchte es wohl das Gerathenste seyn, den <hi
-                        rend="letter-spaced">besondern</hi> Abdruck mit dem <hi rend="letter-spaced"
-                        >ersten</hi> Theil zu schließen und mit Anfügung der Helena und des Zweiten
+                    jezt nicht beendiget, so möchte es wohl das Gerathenste seyn, den <hi rend="letter-spaced">besondern</hi> Abdruck mit dem <hi rend="letter-spaced">ersten</hi> Theil zu schließen und mit Anfügung der Helena und des Zweiten
                     Theils zu warten bis Hr. v. Goethe den Zweiten Theil in den nächsten Lieferungen
                     vollends beendiget hat.<anchor xml:id="quz_II-1252_end"/></p>
             </div>
@@ -733,8 +675,7 @@
                     <num type="quz_2">1334</num>
                 </head>
                 <head type="editorial">Riemers Tagebuch (Pollmer 54):</head>
-                <p><milestone unit="testimony" spanTo="#quz_II-1334_end" xml:id="quz_II-1334"
-                    />Abends bei Goethe. Von seinen Werken, Wanderjahren, <rs>Faust (wovon der
+                <p><milestone unit="testimony" spanTo="#quz_II-1334_end" xml:id="quz_II-1334"/>Abends bei Goethe. Von seinen Werken, Wanderjahren, <rs>Faust (wovon der
                         letzte Akt beinahe fertig</rs>; die Helena mache den 3. Akt). Also noch der
                     Übergang zum zweiten und dritten übrig. Würde es auch fertig machen, wenn er
                     dazu kommen könnte.<anchor xml:id="quz_II-1334_end"/></p>
@@ -751,8 +692,7 @@
                     (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_II-1638_end" xml:id="quz_II-1638"/>Hiebei ein <rs>Exemplar von Goethe Faust</rs>, neue Auflage, besondere Abdrucke
                     aus den Werken. – Desgl. auch ein Ex. auf Velin, davon 100 gedruckt
-                        wurden<anchor xml:id="N32"/><ref target="#F32"><hi rend="sup"
-                        >1</hi></ref>.<anchor xml:id="quz_II-1638_end"/></p>
+                        wurden<anchor xml:id="N32"/><ref target="#F32"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_II-1638_end"/></p>
             </div>
             <pb n="637" facs="quz_2_0637.jpg"/>
             <div type="letter">
@@ -765,8 +705,7 @@
                 <head type="editorial">Augsburg, Reichel an die Cottasche Buchhandlung
                     (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_II-1659_end" xml:id="quz_II-1659"/>Von
-                    der <rs>neuen Ausgabe von Goethes Faust</rs><anchor xml:id="N33"/><ref
-                        target="#F33"><hi rend="sup">1</hi></ref> lasse ich nunmehr 100 Druckpapier
+                    der <rs>neuen Ausgabe von Goethes Faust</rs><anchor xml:id="N33"/><ref target="#F33"><hi rend="sup">1</hi></ref> lasse ich nunmehr 100 Druckpapier
                     binden. Wenn von Velin welche gemacht werden sollen, so bitte ich um
                         Ordre.<anchor xml:id="quz_II-1659_end"/></p>
             </div>
@@ -779,17 +718,13 @@
                     <num type="quz_2">1777</num>
                 </head>
                 <head type="editorial">Eckermanns Tagebuch (Houben III 1, 471):</head>
-                <p><milestone unit="testimony" spanTo="#quz_II-1777_end" xml:id="quz_II-1777"
-                    />Sodann eröffnet er mir daß er seine Walpurgisnacht habe zurücklegen müssen um
+                <p><milestone unit="testimony" spanTo="#quz_II-1777_end" xml:id="quz_II-1777"/>Sodann eröffnet er mir daß er seine Walpurgisnacht habe zurücklegen müssen um
                     die letzte Lieferung fertig zu machen. Die Nachricht über das Diderotsche
-                    Manuscript und seine Übersetzung desselben<anchor xml:id="N34"/><ref
-                        target="#F34"><hi rend="sup">2</hi></ref> wolle er umschreiben und
-                        erweitern<anchor xml:id="N35"/><ref target="#F35"><hi rend="sup"
-                        >3</hi></ref>. Mir selbst überträgt er die Redaction des 38. und 39sten
+                    Manuscript und seine Übersetzung desselben<anchor xml:id="N34"/><ref target="#F34"><hi rend="sup">2</hi></ref> wolle er umschreiben und
+                        erweitern<anchor xml:id="N35"/><ref target="#F35"><hi rend="sup">3</hi></ref>. Mir selbst überträgt er die Redaction des 38. und 39sten
                     Bandes. „Wenn wir uns dazu halten, sagt er, können wir in 3 bis 4 Wochen fertig
                     seyn so daß die Lieferung Ostern abgehen kann. Ich nehme sodann meine klassische
-                    Walpurgisnacht wieder auf und gehe im <rs>Faust</rs> vor.“<anchor
-                        xml:id="quz_II-1777_end"/></p>
+                    Walpurgisnacht wieder auf und gehe im <rs>Faust</rs> vor.“<anchor xml:id="quz_II-1777_end"/></p>
             </div>
             <pb n="693" facs="quz_2_0693.jpg"/>
             <div type="text">
@@ -800,10 +735,8 @@
                     <num type="quz_2">1925</num>
                 </head>
                 <head type="editorial">Nachtrag zu Goethes Testament (Tewes 272f):</head>
-                <p><milestone unit="testimony" spanTo="#quz_II-1925_end" xml:id="quz_II-1925"
-                    />Nachstehend habe ich nun die in meinem Testament mir vorbehaltene Aufklärung
-                    und nähere Bestimmung verschiedener Punkte<anchor xml:id="N36"/><ref
-                        target="#F36"><hi rend="sup">1</hi></ref>, nicht weniger eine genauere
+                <p><milestone unit="testimony" spanTo="#quz_II-1925_end" xml:id="quz_II-1925"/>Nachstehend habe ich nun die in meinem Testament mir vorbehaltene Aufklärung
+                    und nähere Bestimmung verschiedener Punkte<anchor xml:id="N36"/><ref target="#F36"><hi rend="sup">1</hi></ref>, nicht weniger eine genauere
                     Anordnung, wegen künftigen Benehmens in verschiedenen Angelegenheiten hiemit
                     verfassen und Codicillarisch jener Willensmeinung hinzufügen wollen, damit bey
                     so complicirten Zuständen, künftighin sachgemäß verfahren werden möge.</p>
@@ -814,12 +747,10 @@
                     abgethan.</p>
                 <p>Aber hier ist noch ein Zweites zu erwähnen: Durch eine spätere Verabredung wurde
                     dem Verfasser, sobald 20000 Exemplare abgesetzt wären, an den darüber
-                    abzusetzenden von jedem Exemplare ein bedeutendes Benefiz zugestanden<anchor
-                        xml:id="N37"/><ref target="#F37"><hi rend="sup">2</hi></ref>. Die Erfahrung
+                    abzusetzenden von jedem Exemplare ein bedeutendes Benefiz zugestanden<anchor xml:id="N37"/><ref target="#F37"><hi rend="sup">2</hi></ref>. Die Erfahrung
                     hat jedoch gelehrt, daß man sich viel zu große Hoffnung von dem Absatz dieser
                         <pb n="694" facs="quz_2_0694.jpg"/>Ausgabe gemacht und die Anzahl jener Ex.
-                    als wirklich abgesetzt wohl niemals erreicht werden dürfte<anchor xml:id="N38"
-                        /><ref target="#F38"><hi rend="sup">1</hi></ref>.</p>
+                    als wirklich abgesetzt wohl niemals erreicht werden dürfte<anchor xml:id="N38"/><ref target="#F38"><hi rend="sup">1</hi></ref>.</p>
                 <p>Die J.G. Cottasche Buchhandlung sendet von Messe zu Messe, die Berechnung und hat
                     ein künftiger Geschäftsführer auf eine Fortsetzung dieses Einsendens Acht zu
                     haben und wenn es auch nur der Notiz wegen wäre.</p>
@@ -827,16 +758,13 @@
                 <p>Die meiste Aufmerksamkeit verdienen die, aus Manuscripten, gesammelten
                     Druckschriften bestehenden Zehn bis zwölf Bände, welche in Gefolg der Vierzig
                     heraus gegeben werden könnten. Sie bestehen</p>
-                <p>1., Götz von Berlichingen, erstes Manuscript<anchor xml:id="N39"/><ref
-                        target="#F39"><hi rend="sup">2</hi></ref>.</p>
+                <p>1., Götz von Berlichingen, erstes Manuscript<anchor xml:id="N39"/><ref target="#F39"><hi rend="sup">2</hi></ref>.</p>
                 <p>2., Derselbe für das Theater bearbeitet.</p>
                 <p>3., <rs>Faust, zweiter Theil; der zweyte und dritte Act vollendet, so daß nunmehr
                     Helena, als Heroine, im dritten Act auftritt</rs>.</p>
-                <p>4., Schweitzerreise v. Jahre 1797<anchor xml:id="N40"/><ref target="#F40"><hi
-                            rend="sup">3</hi></ref>.</p>
+                <p>4., Schweitzerreise v. Jahre 1797<anchor xml:id="N40"/><ref target="#F40"><hi rend="sup">3</hi></ref>.</p>
                 <p>5., Kunst und Alterthum, sowohl das Gedruckte, als Neue Dinge enthaltend.</p>
-                <p>6., Neueste kleine Gedichte<anchor xml:id="N41"/><ref target="#F41"><hi
-                            rend="sup">4</hi></ref>.</p>
+                <p>6., Neueste kleine Gedichte<anchor xml:id="N41"/><ref target="#F41"><hi rend="sup">4</hi></ref>.</p>
                 <p>7., Allgemeine Naturlehre.</p>
                 <p>8., Entwurf einer Farbenlehre (wenn man auch den historischen und polemischen
                     Theil weglassen wollte.)</p>
@@ -856,8 +784,7 @@
                     erlangen suchen, für diese späteren Sendungen ein höheres Honorar zu
                     erreichen.</p>
                 <p>Auch wäre Theilnahme des Herrn Professor Riemer hieran zu besprechen und zu
-                        bestimmen<anchor xml:id="N42"/><ref target="#F42"><hi rend="sup"
-                        >1</hi></ref>.<anchor xml:id="quz_II-1925_end"/></p>
+                        bestimmen<anchor xml:id="N42"/><ref target="#F42"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_II-1925_end"/></p>
             </div>
             <pb n="705" facs="quz_2_0705.jpg"/>
             <div type="text">
@@ -867,8 +794,7 @@
                 <head type="editorial">
                     <num type="quz_2">1982</num>
                 </head>
-                <head type="editorial">Abkommen zwischen Goethe und Eckermann (Tewes 269–271)<anchor
-                        xml:id="N43"/><ref target="#F43"><hi rend="sup">4</hi></ref>:</head>
+                <head type="editorial">Abkommen zwischen Goethe und Eckermann (Tewes 269–271)<anchor xml:id="N43"/><ref target="#F43"><hi rend="sup">4</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_II-1982_end" xml:id="quz_II-1982"/>Zu nächster Ausgabe eines
                     Nachtrags zu meinen Werken liegen bereit, oder werden redigirt, ajustirt zu
                     diesem Zwecke.</p>
@@ -923,8 +849,7 @@
                 <p>Weimar d. 15.ten May 1831.</p>
                 <p>J.W. Goethe.</p>
                 <p>Dr. Eckermann. <hi rend="italic">Nachschrift:</hi> Heute ward der Schlüssel des
-                    Kästchens No. 1 an Dr. Eckermann übergeben<anchor xml:id="N45"/><ref
-                        target="#F45"><hi rend="sup">1</hi></ref>. Weimar d. 10. Juni 1831.</p>
+                    Kästchens No. 1 an Dr. Eckermann übergeben<anchor xml:id="N45"/><ref target="#F45"><hi rend="sup">1</hi></ref>. Weimar d. 10. Juni 1831.</p>
                 <p>J.W. Goethe.</p>
                 <p>Dr. Eckermann.<anchor xml:id="quz_II-1982_end"/></p>
             </div>

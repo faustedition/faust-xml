@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,8 +39,7 @@
                     <milestone unit="testimony" spanTo="#graef_902_end" xml:id="graef_902"/><rs>Von Faust kann
                     ich jetzt nichts mittheilen, ich wage nicht das Packet aufzuschnüren das ihn gefangen
                     hält. Ich könnte nicht abschreiben ohne auszuarbeiten und dazu fühle ich mir keinen
-                    Muth</rs>. Kann mich künftig etwas dazu vermögen; so ist es gewiß Ihre Theilnahme.<anchor
-                        xml:id="graef_902_end"/></p>
+                    Muth</rs>. Kann mich künftig etwas dazu vermögen; so ist es gewiß Ihre Theilnahme.<anchor xml:id="graef_902_end"/></p>
                 <p rend="indentchar-m4n0"> Daß Herr v. Humbold mit unsern homerischen Unterhaltungen
                     zufrieden ist, beruhigt mich sehr, denn ich habe mich nicht ohne Sorge dazu
                     entschlossen. Ein gemeinsamer Genuß hat so große Reize und doch wird er so oft durch die
@@ -85,10 +83,8 @@
                     früh als möglich zukomme und damit ich den Roman wieder zurück erhalte, mit welchem ich
                     auch nicht länger zaudern darf.</p>
                 <p rend="indentchar-m4n0"> Ich sehe voraus, daß ich Anfangs September nach Ilmenau muß und
-                    daß ich unter zehn bis vierzehn Tagen dort nicht loskomme, bis dahin liegt noch <pb
-                        n="286"/> vielerley auf mir und ich wünschte noch von Ihnen zu wissen, was Sie zu
-                    den Horen bedürfen. <milestone unit="testimony" spanTo="#graef_903_end"
-                        xml:id="graef_903"/>Soviel ich übersehe könnte ich folgendes leisten:</p>
+                    daß ich unter zehn bis vierzehn Tagen dort nicht loskomme, bis dahin liegt noch <pb n="286"/> vielerley auf mir und ich wünschte noch von Ihnen zu wissen, was Sie zu
+                    den Horen bedürfen. <milestone unit="testimony" spanTo="#graef_903_end" xml:id="graef_903"/>Soviel ich übersehe könnte ich folgendes leisten:</p>
                 <lb/>
                 <p rend="indentchar-m0n4">August. Unterhaltungen, Schluß der letzten Geschichte.</p>
                 <p rend="indentchar-m8n12">Hymnus, den ich mir zu diesem Ende zurück erbitte.</p>

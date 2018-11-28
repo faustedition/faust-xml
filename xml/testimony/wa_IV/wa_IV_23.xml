@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -34,8 +33,7 @@
                     für das freundliche und gnädige Schreiben danken.</p>
                 <p rend="indentchar-m4n0"> Hier interessirt uns hauptsächlich die handschriftlich
                     bekannte Correspondenz des Herrn Baron von Grimm. Es bleibt immer ein höchst
-                    bedeutendes Werk, ein reiches Document einer einzigen Zeit. Jedermann <pb
-                        n="114"/> kann sich daraus etwas anders zueignen, und doch ist es nicht
+                    bedeutendes Werk, ein reiches Document einer einzigen Zeit. Jedermann <pb n="114"/> kann sich daraus etwas anders zueignen, und doch ist es nicht
                     ungerecht zu sagen: man erfährt viel dadurch, aber man lernt nichts daraus.</p>
                 <p rend="indentchar-m4n0"> Ich habe mir den Spaß gemacht, alle Worte auszuziehen,
                     wodurch Menschen sowohl als literarische und sociale Gegenstände verkleinert,
@@ -62,8 +60,7 @@
                     in Rapport setzen. Von seiner wahren Stärke ist noch wenig Begriff unter uns
                     (vid. des Herrn Schulze christliche Saalbaderey über den standhaften Prinzen).
                         <hi rend="italic">Das Leben ein Traum</hi> ist wieder fürtrefflich und
-                    glücklich aufgeführt worden. <milestone unit="testimony" xml:id="graef_1144"
-                        spanTo="#graef_1144_end"/>Einsiedel hat den <hi rend="italic">wundervollen
+                    glücklich aufgeführt worden. <milestone unit="testimony" xml:id="graef_1144" spanTo="#graef_1144_end"/>Einsiedel hat den <hi rend="italic">wundervollen
                         Magus</hi> übersetzt. Es ist <rs>das Sujet vom Doctor Faust mit einer
                     unglaublichen Großheit behandelt</rs>.<anchor xml:id="graef_1144_end"/></p>
                 <p rend="indentchar-m4n0"> Für dießmal nicht weiter. Sobald wir Gewißheit haben,
@@ -169,8 +166,7 @@
                 <p rend="indentchar-m8n12"> Der Zauberflöte zweyter Theil.</p>
                 <lb/>
                 <p rend="centered">
-                    <hi rend="italic"><milestone unit="testimony" xml:id="graef_1148"
-                            spanTo="#graef_1148_end"/>Achter Band.</hi>
+                    <hi rend="italic"><milestone unit="testimony" xml:id="graef_1148" spanTo="#graef_1148_end"/>Achter Band.</hi>
                 </p>
                 <p rend="indentchar-m8n12"><rs>Faust</rs>.<anchor xml:id="graef_1148_end"/></p>
                 <p rend="indentchar-m8n12"> Puppenspiel. Jahrmarkt von Plundersweilern.</p>
@@ -240,8 +236,7 @@
                     Nachdrucker noch in diese Sammlung aufnehmen wolle?</p>
                 <p rend="indentchar-m8n8">Cellini.</p>
                 <p rend="indentchar-m8n8"> Rameaus Neffe pp.</p>
-                <p rend="indentchar-m4n0">Ferner ob man einen Band bilden wolle von <hi
-                        rend="italic">Theoretischen und kritischen Aufsätzen</hi> die an mehreren
+                <p rend="indentchar-m4n0">Ferner ob man einen Band bilden wolle von <hi rend="italic">Theoretischen und kritischen Aufsätzen</hi> die an mehreren
                     Orten zerstreut liegen.</p>
                 <p rend="indentchar-m4n0">
                     <pb n="136"/> Ferner ob man die völlige Umarbeitung des</p>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,8 +24,7 @@
             <div type="article">
                 <head rend="centered"><hi rend="antiqua">Notice ſur la vie et les Ouvrages de Goethe
                         par Albert Stapfer.</hi></head>
-                <p><milestone unit="testimony" spanTo="#graef_1399a_end" xml:id="graef_1399a"
-                        next="#graef_1399a_b"/>Die dem erſten Theile jener <rs>Ueberſetzung meiner
+                <p><milestone unit="testimony" spanTo="#graef_1399a_end" xml:id="graef_1399a" next="#graef_1399a_b"/>Die dem erſten Theile jener <rs>Ueberſetzung meiner
                     dramatiſchen Werke</rs> vorgeſetzte Notiz, meine Lebensereigniſſe und
                     ſchriftſtelleriſche Laufbahn betreffend, durfte ich bey dieſer Gelegenheit auch
                     nicht außer Acht laſſen.<anchor xml:id="graef_1399a_end"/> Hier gab es
@@ -59,10 +58,8 @@
                     Wege zu gewiſſen Anſichten über ſeinen Gegenſtand gelangte, die denjenigen in
                     Verwunderung ſetzen der ſie vor allen andern hätte gewinnen ſollen, und dem ſie
                     doch entgangen ſind, eben weil ſie zu nahe lagen.</p>
-                <p><milestone unit="testimony" spanTo="#graef_1399a_end_b" xml:id="graef_1399a_b"
-                    />Jene Recenſion, deren Auszug wir oben mitzutheilen angefangen, ſind wir, wie
-                    es ſich ergiebt, eben dieſen Bemühungen ſchul<pb n="174" facs="kua_5-3_0174.jpg"
-                    />dig. Recenſion und Notiz ſind übereinſtimmend, nicht gleichlautend, und für
+                <p><milestone unit="testimony" spanTo="#graef_1399a_end_b" xml:id="graef_1399a_b"/>Jene Recenſion, deren Auszug wir oben mitzutheilen angefangen, ſind wir, wie
+                    es ſich ergiebt, eben dieſen Bemühungen ſchul<pb n="174" facs="kua_5-3_0174.jpg"/>dig. Recenſion und Notiz ſind übereinſtimmend, nicht gleichlautend, und für
                     mich gerade in dem Augenblick höchſt bedeutend, da es mir zur Pflicht geworden
                     mich mit mir ſelbſt, meinem Geleiſteten und Vollbrachten, wie dem Verfehlten und
                     dem Verſäumten zu beſchäftigen.<anchor xml:id="graef_1399a_end_b"/></p>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -30,19 +30,15 @@
                 <p><milestone unit="testimony" spanTo="#graef_1762_end" xml:id="graef_1762"/>Dieſe
                     wie gefundene Lectüre gab uns gegenſeitigen Stoff zur Unterhaltung über Tiſche,
                     oder auf Spaziergängen; und bei einer ſolchen Gelegenheit mögen auch die
-                    räthſelhaften <rs><hi rend="letter-spaced">„Mütter“</hi> im <hi rend="letter-spaced"
-                        >Fauſt</hi></rs> zuerſt in G’s. Gedächtniß hangen geblieben ſeyn.
+                    räthſelhaften <rs><hi rend="letter-spaced">„Mütter“</hi> im <hi rend="letter-spaced">Fauſt</hi></rs> zuerſt in G’s. Gedächtniß hangen geblieben ſeyn.
                     Denn als er wohl zwanzig Jahre nachher mich darüber befragte — vielleicht um die
                     Zeit als er am Fauſt arbeitend davon Gebrauch machen wollte — wußte ich nicht
-                    gleich zu ſagen wo ſie vorkämen; er aber erinnerte ſich im <hi
-                        rend="letter-spaced">Plutarch</hi> davon geleſen zu haben.<anchor
-                        xml:id="bie3_3461_end"/> Anfangs konnte ich die Stellen nicht finden, und
+                    gleich zu ſagen wo ſie vorkämen; er aber erinnerte ſich im <hi rend="letter-spaced">Plutarch</hi> davon geleſen zu haben.<anchor xml:id="bie3_3461_end"/> Anfangs konnte ich die Stellen nicht finden, und
                     unterließ oder vergaß das weitere Suchen; nach ſeinem Tode aber, als ich das
                         <rs>Manuſcript des Fauſt</rs> durchging, wachte Erinnerung und Forſchluſt
                     wieder auf; ich fand beide Stellen, unterließ aber ſie zu allegiren, weil ſie
                     für den Gebrauch den G. von jenen myſtiſchen Dämonen gemacht hat, von keiner
-                    Aufklärung ſind, da ſeine Gedankenweſen viel was anderes bedeuten.<anchor
-                        xml:id="graef_1762_end"/></p>
+                    Aufklärung ſind, da ſeine Gedankenweſen viel was anderes bedeuten.<anchor xml:id="graef_1762_end"/></p>
             </div>
         </body>
     </text>

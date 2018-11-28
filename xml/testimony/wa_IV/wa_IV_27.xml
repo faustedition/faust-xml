@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,8 +32,7 @@
                     gehofft, bis das eingelaufene Schreiben mir das Gegentheil meldete. Sehr gern
                     hätte über so manches gesprochen und mich zugleich von Ihrem Wohlbefinden
                     überzeugt.</p>
-                <p rend="indentchar-m4n0"> Das <hi rend="italic">Rhein</hi>– und <hi rend="italic"
-                        >Maynheft</hi> ist denn endlich auch, nach überwundenen mancherley
+                <p rend="indentchar-m4n0"> Das <hi rend="italic">Rhein</hi>– und <hi rend="italic">Maynheft</hi> ist denn endlich auch, nach überwundenen mancherley
                     Hindernissen, vom Stapel gelaufen und scheint sich einer guten Aufnahme zu
                     erfreuen. Von Herrn Frommann habe davon erhalten</p>
                 <p rend="indentchar-m8n8">
@@ -47,10 +45,8 @@
                 <p>Zwölf Exemplare weißes Druckpapier waren zufällig in den einen Ballen gerathen
                     und sind dem Buchhändler Hoffmann auf sein Verlangen übergeben worden, indem er
                     versicherte, daß er mit Ihrem Commis deshalb Verabredung getroffen habe.</p>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1172"
-                        spanTo="#graef_1172_end"/>Für die baldige <rs>Nachricht, der 9. Band sey
-                    angekommen</rs>, danke zum schönsten, der 10. folgt nächstens.<anchor
-                        xml:id="graef_1172_end"/></p>
+                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1172" spanTo="#graef_1172_end"/>Für die baldige <rs>Nachricht, der 9. Band sey
+                    angekommen</rs>, danke zum schönsten, der 10. folgt nächstens.<anchor xml:id="graef_1172_end"/></p>
                 <p rend="indentchar-m4n0"> Was die Anstände und Bedenklichkeiten des Herrn
                     Revidenten betrifft, so ist damit ganz recht verfahren worden und ich danke für
                     die Aufmerksamkeit. Wegen der Interpunction lege ein Blatt bey. Einige in den
@@ -58,8 +54,7 @@
                     vielleicht zeigen wir solche im Morgenblatt an.</p>
                 <p rend="indentchar-m4n0"> Mögen Sie mir das Original der zwey ersten Bände
                     schicken, so könnte es mir nützlich seyn.</p>
-                <p rend="indentchar-m4n0"> Da Herr <hi rend="italic">Frommann</hi> die <hi
-                        rend="italic">italiänische Reise</hi> wegen Mangel an Druckergesellen nicht
+                <p rend="indentchar-m4n0"> Da Herr <hi rend="italic">Frommann</hi> die <hi rend="italic">italiänische Reise</hi> wegen Mangel an Druckergesellen nicht
                     fördern können, so habe ich das Manuscript wieder zurückgenommen, indem der
                     eintretende Sommer und eine wahrscheinliche Abwesenheit mich hindern würde die
                     Revision zu besorgen, auch ist Professor Riemer, der mir hierin<pb n="45"/>
@@ -68,8 +63,7 @@
                     Italiänischen kundiger Corrector würde der Sache genug thun.</p>
                 <p rend="indentchar-m4n0"> Nächstens gehen auch die für den Damencalender bestimmten
                     Gedichte des <hi rend="italic">Divans</hi> ab. Ich werde suchen die zartesten
-                    herauszuheben und durch Stellung zu verbinden. Andere aus dem Buche des <hi
-                        rend="italic">Unmuths</hi> und des <hi rend="italic">Schenken</hi> können
+                    herauszuheben und durch Stellung zu verbinden. Andere aus dem Buche des <hi rend="italic">Unmuths</hi> und des <hi rend="italic">Schenken</hi> können
                     gelegentlich im Morgenblatt erscheinen.</p>
                 <p rend="indentchar-m4n0"> Der doppelt große Verlust, den ich dieses Jahr durch den
                     Tod der Erbgroßherzogin von Mecklenburg und der Kaiserin von Österreich
@@ -142,11 +136,9 @@
                     äußeres und mit nichts gefüttert, weder mit Charakter, noch Liebe, weder mit
                     Gefühl noch Geschmack. Deswegen klebt's mit Lust an der Erde und begreift nicht
                     warum es sich nicht vom Boden heben kann. Er hat das allerletzte Elend von Prosa
-                    in einer kleinen Oper componirt, mit Behagen und Selbstgenügsamkeit. <milestone
-                        unit="testimony" xml:id="graef_1173" spanTo="#graef_1173_end"/><rs>Was ich mit
+                    in einer kleinen Oper componirt, mit Behagen und Selbstgenügsamkeit. <milestone unit="testimony" xml:id="graef_1173" spanTo="#graef_1173_end"/><rs>Was ich mit
                     Faust vorhatte sollte er nicht begreifen</rs>, aber er <pb n="52"/> sollte mir folgen
-                    und meinen Willen thun, dann hätte er gesehn was es heiße.<anchor
-                        xml:id="graef_1173_end"/> Diese Menschenrace, die, bey so manchen Vorzügen,
+                    und meinen Willen thun, dann hätte er gesehn was es heiße.<anchor xml:id="graef_1173_end"/> Diese Menschenrace, die, bey so manchen Vorzügen,
                     des eigentlichen Besten ermangelt, begreift nicht warum es mit ihr nicht rucken
                     will; nun suchen sie es durch Intrigue zu erreichen und Augenblicks verletzen
                     sie, durch Dünkel und Ungeschicklichkeit, den erworbenen Gönner und so zerstiebt
@@ -176,11 +168,8 @@
                 <p rend="indentchar-m4n0">Beykommendes bietet man dem Morgenblatte unentgeltlich an.
                     Sollte man Bedenken tragen den Aufsatz einzurücken, so erbitte mir solchen
                     baldigst wieder zurück.</p>
-                <p rend="indentchar-m4n0"> Dabey <milestone unit="testimony" xml:id="graef_1178"
-                        spanTo="#graef_1178_end"/>vermelde daß die <rs>wohlgerathenen Kupfer zu <pb
-                        n="211"/> Faust glücklich angelangt</rs> sind, wofür Ew. Wohlgeb. verbindlichsten
-                    Dank abstatte. Auch hat Madame Huber sich recht wohl und zart gehalten.<anchor
-                        xml:id="graef_1178_end"/> Grüßen Sie diese werthe Frau zum schönsten. Ich
+                <p rend="indentchar-m4n0"> Dabey <milestone unit="testimony" xml:id="graef_1178" spanTo="#graef_1178_end"/>vermelde daß die <rs>wohlgerathenen Kupfer zu <pb n="211"/> Faust glücklich angelangt</rs> sind, wofür Ew. Wohlgeb. verbindlichsten
+                    Dank abstatte. Auch hat Madame Huber sich recht wohl und zart gehalten.<anchor xml:id="graef_1178_end"/> Grüßen Sie diese werthe Frau zum schönsten. Ich
                     vergesse nie daß sie sich jederzeit mit Neigung und Wohlwollen gegen mich
                     erwiesen hat.</p>
                 <p rend="indentchar-m4n0"> Das Beste wünschend</p>
@@ -208,8 +197,7 @@
                     werde, so möge Beykommendes sogleich abgehen,<anchor xml:id="graef_1181_end"/>
                     eh ich noch das liebliche Lied zu einer freundlichen Zither vernommen habe.
                     Dieser Winter liegt leider sehr klanglos um mich her, daher mir sehr oft der
-                    Eintritt in das rothe Männchen als höchst wünschenswerth wo nicht gar <pb
-                        n="228"/> als nothwendig erscheint. Denn ob gleich ein jeder gar wohl thut,
+                    Eintritt in das rothe Männchen als höchst wünschenswerth wo nicht gar <pb n="228"/> als nothwendig erscheint. Denn ob gleich ein jeder gar wohl thut,
                     an dem Orte wo er sich befindet fest zu halten und nach Möglichkeit zu wirken;
                     so ist die Versuchung doch gar zu groß, offne Freundesarme und Thore in der
                     Ferne mit der zutraulichsten Gewißheit vor sich zu sehen. Möge es Ihnen allen
@@ -234,8 +222,7 @@
                         wird sich alles geschwind gestalten.</p>
                     <p rend="indentchar-m4n0">
                         <pb n="233"/>
-                        <milestone unit="testimony" xml:id="graef_1183" spanTo="#graef_1183_end"
-                        />Die Leser und Meiner, die mir dein letzter Brief vorführt, mögen zu den
+                        <milestone unit="testimony" xml:id="graef_1183" spanTo="#graef_1183_end"/>Die Leser und Meiner, die mir dein letzter Brief vorführt, mögen zu den
                         Gesellen in Auerbachs Hof gehören, von denen Mephistopheles schon vor 50
                         Jahren gesagt hat: alles spüren die Kerle nur nicht den Teufel und wenn er
                         ihnen noch so nah ist.</p>
@@ -260,8 +247,7 @@
                     <p rend="indentchar-m4n0"> Da der Hauptbegriff des Lutherthums sehr würdig
                         begründet ist, so giebt er schönen Anlaß sowohl zu dichterischer als
                         musikalischer Behandlung. Dieser Grund nun beruht auf dem entschiedenen
-                            Gegensatz<pb n="234"/> von <hi rend="italic">Gesetz</hi> und <hi
-                            rend="italic">Evangelium</hi>, sodann auf der Vermittelung solcher
+                            Gegensatz<pb n="234"/> von <hi rend="italic">Gesetz</hi> und <hi rend="italic">Evangelium</hi>, sodann auf der Vermittelung solcher
                         Extreme. Setzt man nun, um auf einen höheren Standpunct zu gelangen, anstatt
                         jener zwey Worte die Ausdrücke <hi rend="italic">Nothwendigkeit</hi> und
                         Freyheit, mit ihren Synonymen, mit ihrer Entfernung und Annäherung; so
@@ -279,8 +265,7 @@
                         Weltspiegel zu betrachten; welches ihr eigentlich nicht schwer fallen
                         sollte.</p>
                     <p rend="indentchar-m4n0"> Diese Conceptionen in einem singbaren Gedichte
-                        auszusprechen, würde ich mit dem Donner auf Sinai, mit dem: <hi
-                            rend="italic">Du sollst</hi>! beginnen; mit Christi Auferstehung aber,
+                        auszusprechen, würde ich mit dem Donner auf Sinai, mit dem: <hi rend="italic">Du sollst</hi>! beginnen; mit Christi Auferstehung aber,
                         und dem: <hi rend="italic">Du wirst</hi>! schließen.</p>
                     <p rend="indentchar-m4n0"> Zu mehrerer Erläuterung meines Plans setze die
                         Folgenreihe des Ganzen hieher.</p>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!--and now:--><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!--and now:--><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -56,8 +56,7 @@
                     dictates from memoranda on a card or scrap of paper, as he walks up and down his
                     room. Of his views in physics and comparative anatomy, he has published little,
                     but a programme by a medical professor at Jena (Oken) has lately made a great
-                    noise, in which the doctrine that the brain is formed from the <hi rend="italic"
-                        >medulla spinalis</hi> was, no doubt, from hints first given by Goethe.</p>
+                    noise, in which the doctrine that the brain is formed from the <hi rend="italic">medulla spinalis</hi> was, no doubt, from hints first given by Goethe.</p>
                 <p>Among the many unpublished things he has on hand, are parts of a <rs>continuation
                         of “Faust,”</rs> which Riemer had seen, in which the Devil brings Faust to
                     court and makes him a great man; and some poems in the Persian style and taste

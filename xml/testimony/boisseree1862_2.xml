@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,8 +22,7 @@
         <body>
             <pb n="449" facs="boisseree1862_2_0449.jpg"/>
             <div type="letter">
-                <head rend="centered">Auszug aus einem Briefe Herrn Profeſſor Göttlings am <date
-                        when="1826-10-27">27. Oktober 1826</date>.</head>
+                <head rend="centered">Auszug aus einem Briefe Herrn Profeſſor Göttlings am <date when="1826-10-27">27. Oktober 1826</date>.</head>
                 <p><milestone unit="testimony" spanTo="#pniower_476_end" xml:id="pniower_476"/>Ew.
                     ſende hierbei das <rs>Manuſcript der Helena</rs> zurück; ich habe dieß ſinnvolle Gedicht
                     etwas länger behalten, um mich des Ganzen deſto mehr zu verſichern und am

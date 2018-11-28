@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-   xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -144,8 +143,7 @@
                genauer anzusehen. Da kam der Alte freundlich auf mich zu, entblößte das Haupt ein
                wenig, was ich natürlich anständig erwiederte, und redete mich folgendermaßen an:
                ›Nicht wahr, Sie nennen sich Herr Goethe?‹ – Schon recht. – ›Aus Weimar?‹ – Schon
-               recht. – <milestone unit="testimony" spanTo="#graef_1062_end" xml:id="graef_1062"
-               />›Nicht wahr, Sie haben Bücher geschrieben?‹ – O ja. – ›Und Verse gemacht?‹ – Auch.
+               recht. – <milestone unit="testimony" spanTo="#graef_1062_end" xml:id="graef_1062"/>›Nicht wahr, Sie haben Bücher geschrieben?‹ – O ja. – ›Und Verse gemacht?‹ – Auch.
                – ›Es soll schön sein.‹ – Hm! – ›Haben Sie denn viel geschrieben?‹ – Hm! es mag so
                angehen. – ›Ist das Versemachen schwer?‹ – So, so! – ›Es kommt wohl halter auf die
                Laune an? ob man gut gegessen und getrunken hat, nicht wahr?‹ – Es ist mir fast so
@@ -207,10 +205,8 @@
                Männern, die damals in Berlin lebten, das Militär ausgenommen, entweder in Verkehr
                oder doch in Berührung gewesen. Goethe schien mit mei ner Auffassung der Dinge und
                mit meinen Urtheilen über die Menschen keineswegs unzufrieden zu sein.</p>
-            <p rend="indentchar-m4n0"> Er hörte mich ruhig an, ließ zuweilen ein beifälliges <pb
-                  n="43"/> »Hm! Hm!« vernehmen und sprach sich auch wohl zustimmend aus, bald
-               erläuternd, bald bestätigend. <milestone unit="testimony" spanTo="#graef_1065_end"
-                  xml:id="graef_1065"/>Damals hatte ich die Gewohnheit, meine ausgesprochenen
+            <p rend="indentchar-m4n0"> Er hörte mich ruhig an, ließ zuweilen ein beifälliges <pb n="43"/> »Hm! Hm!« vernehmen und sprach sich auch wohl zustimmend aus, bald
+               erläuternd, bald bestätigend. <milestone unit="testimony" spanTo="#graef_1065_end" xml:id="graef_1065"/>Damals hatte ich die Gewohnheit, meine ausgesprochenen
                Ansichten, Meinungen oder Urtheile mit einem tüchtigen Worte aus dem »Faust« zu
                bekräftigen; eine Gewohnheit, der ich nicht gänzlich entsagt habe bis diesen Tag. Ich
                muß aber bemerken, daß hier <rs>nur von dem alten »Faust« die Rede ist, von dem
@@ -286,8 +282,7 @@
                dem Fragmente habe er sich schon von dem Unendlichen, oder dem Absoluten, nicht nur
                losgerissen, sondern er sei auch schon von dem Gefühle des Unglückes dieser
                Losreißung durchdrungen. In ihm sei die Sehnsucht nach der Wiedervereinigung erwacht;
-               aus dieser Sehnsucht sei sein Durst nach Wissen und Erkennen hervorgegangen; <pb
-                  n="47"/> er habe in demselben nach allen Seiten ausgegriffen, und alle
+               aus dieser Sehnsucht sei sein Durst nach Wissen und Erkennen hervorgegangen; <pb n="47"/> er habe in demselben nach allen Seiten ausgegriffen, und alle
                Wissenschaften »durchaus mit heißem Bemühn studirt«. Aber er habe das Unendliche
                nicht zu erkennen vermocht; denn das Unendliche sei nicht zu erkennen, sondern es
                müsse angeschaut und gelebt werden. Deßwegen habe er Zweifel gegen all sein Wissen
@@ -403,8 +398,7 @@
                bestimmte Dichtungsgattung umfassend, so lange dieser Gattung andere Gattungen
                gegenüber ständen, so lange könne und dürfe die Weltgeschichte nicht als Tragödie
                bearbeitet werden, und eben so wenig als Komödie oder als Schäferspiel. Denn die
-               Weltgeschichte sei, der Idee nach, alles, und Tragödien und Komödien seien kleine <pb
-                  n="53"/> Theile derselben. Auch scheine mir die Einschränkung, daß es nicht die
+               Weltgeschichte sei, der Idee nach, alles, und Tragödien und Komödien seien kleine <pb n="53"/> Theile derselben. Auch scheine mir die Einschränkung, daß es nicht die
                Weltgeschichte sei, die dargestellt werde, sondern der Geist der Weltgeschichte,
                oder, wie auch gesagt worden, der Geist der Menschheit, nicht weiter zu führen; denn
                leiblich erscheine der Geist der Menschheit doch nicht in dem Fragmente, und werde
@@ -848,8 +842,7 @@
                habe, dieses sogenannte Fragment gehöre keinesweges einem Ganzen an, aus welchem es
                als Bruchstücke, gleichsam zur Probe mitgetheilt wäre und sei auch nicht im Geist
                eines Ganzen gedichtet, ja es sei kein dramatisches Werk, möge man es eine Tragödie
-               nennen oder anders, das irgend eine Idee, irgend einen Gedanken, abgerundet <pb
-                  n="74"/> und vollendet darstellen und zur Anschauung bringen solle, – es sei kein
+               nennen oder anders, das irgend eine Idee, irgend einen Gedanken, abgerundet <pb n="74"/> und vollendet darstellen und zur Anschauung bringen solle, – es sei kein
                solches dramatisches Werk möglich, in welches diese Bruchstücke dergestalt eingefugt
                werden könnten, daß sie als organische Theile des Ganzen, ergänzend und ergänzt,
                erscheinen könnten. Allerdings könnten noch viele Scenen hinzugefügt werden, im
@@ -925,8 +918,7 @@
             <p>So weit habe ich Goethes Unterhaltung mit mir, wenige Tage nach derselben,
                aufgeschrieben, und hier nur einiges, im Besondern einzelne Namen, ausgelassen, und
                einige Sätze abgekürzt. Als jetzt eine kleine Pause entstand und ich Goethen
-               bestimmter ins Angesicht schauete, kam mir vor, als ob seine Züge weniger <pb n="78"
-               /> freundlich seien, als früher. Zwar hatte ich auch während des Gespräches zuweilen
+               bestimmter ins Angesicht schauete, kam mir vor, als ob seine Züge weniger <pb n="78"/> freundlich seien, als früher. Zwar hatte ich auch während des Gespräches zuweilen
                bemerkt, daß seine Augen stark hin und her rollten, aber das war auch am vorigen
                Abende bei der heitersten Stimmung der Fall gewesen, und darum hatte ich weder auf
                dieses Rollen, noch auf eine Veränderung der Stimme zum Kurzen und Scharfen hin
@@ -1303,8 +1295,7 @@
             <pb n="97"/>
             <p>Da ich selbst noch nichts in der Geschichte geleistet habe, Ew. Excellenz, so darf
                ich ja wohl meine Meinung aussprechen; denn ich rede nicht pro domo mea. Ich glaube
-               wirklich, daß Geschichte nicht würdig geschrieben werden könne, ohne eine wahre <hi
-                  rend="italic">poiêsis</hi>, und daß Niemand ein Historiker sein könne im schönsten
+               wirklich, daß Geschichte nicht würdig geschrieben werden könne, ohne eine wahre <hi rend="italic">poiêsis</hi>, und daß Niemand ein Historiker sein könne im schönsten
                Sinne des Wortes, dem die schöpferische oder dichterische Kraft fehlt. Denn er muß ja
                die Welt der Vergangenheit vor Augen haben, in welcher die Ereignisse stattfanden,
                die er darstellen will, und die er nur in der Anschauung dieser Welt darstellen und
@@ -1411,8 +1402,7 @@
                bewundern pflegt. Sie werden späteren Geschlechtern gefallen, wenn Sie auch den Tadel
                Ihrer Zeitgenossen zu erdulden haben sollten. Jedenfalls hoffe ich von Ihrer
                Anstellung in Jena Gutes für Sie selbst und für die Universität. Und nun« (mir die
-               Hand reichend) »leben Sie recht wohl. Auf baldiges Wiedersehen!«<anchor
-                  xml:id="graef_1065_end"/></p>
+               Hand reichend) »leben Sie recht wohl. Auf baldiges Wiedersehen!«<anchor xml:id="graef_1065_end"/></p>
             <p>Ich mochte mich 12 bis 16 Schritte entfernt haben, als Goethe mir nachrief: »Herr
                Professor Luden.« – Rasch kehrte ich um, und fragte nach seinen Befehlen. »Ich habe
                Sie,« sagte er »gebeten, mich in Weimar zu besuchen, habe aber vergessen
@@ -1449,8 +1439,7 @@
                <milestone unit="testimony" spanTo="#graef_1095_end" xml:id="graef_1095"/>Hierauf kam
                er auf J. H. Voß zu sprechen, dessen Charakter sich erst später »versteinert« habe.
                »Für seine Angriffe in der Recension über ›des Knaben Wunderhorn‹ [Morgenblatt 1808
-               Nr. 283 f.] <rs>will ich ihn auch noch einst auf den Blocksberg citiren</rs>.«<anchor
-                  xml:id="graef_1095_end"/></p>
+               Nr. 283 f.] <rs>will ich ihn auch noch einst auf den Blocksberg citiren</rs>.«<anchor xml:id="graef_1095_end"/></p>
             <p rend="indentchar-m4n0"> Zum Behufe der geschichtlichen Ausarbeitung über die
                Farbenlehre studirte Goethe die Zeitgeschichte aller einschlagenden großen
                Schriftsteller. Wie er jene ansah, davon gab er mir eine Probe durch die Einleitung
@@ -1472,12 +1461,10 @@
                <lb/>
                <date when="1810-11-13">1810, 13. November.</date>
             </head>
-            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1108_end"
-                  xml:id="graef_1108"/>Mittags mit Goethe allein gegessen. <rs>Über die Aufführung und
+            <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1108_end" xml:id="graef_1108"/>Mittags mit Goethe allein gegessen. <rs>Über die Aufführung und
                Besetzung von Faust</rs>.</p>
             <p rend="indentchar-m4n0"> Beides wurde nachher von mir und Wolff noch näher verabredet
-               und das Taschenexemplar danach eingerichtet, wenigstens zum Theil.<anchor
-                  xml:id="graef_1108_end"/></p>
+               und das Taschenexemplar danach eingerichtet, wenigstens zum Theil.<anchor xml:id="graef_1108_end"/></p>
             <pb n="345"/>
             <lb/>
          </div>
@@ -1504,8 +1491,7 @@
                in Jena zu, um an Hackert's Leben fleißig zu arbeiten, das die Ostermesse erscheinen
                soll. <milestone unit="testimony" spanTo="#graef_1114_end" xml:id="graef_1114"/>Er
                hat von Dresden aus <rs>Compositionen zu seinem »Faust« erhalten</rs>, mit denen er sehr
-               zufrieden ist: die Hexenküche und den Spaziergang vorstellend.<anchor
-                  xml:id="graef_1114_end"/></p>
+               zufrieden ist: die Hexenküche und den Spaziergang vorstellend.<anchor xml:id="graef_1114_end"/></p>
          </div>
       </body>
    </text>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,16 +22,13 @@
         <body>
             <pb n="149" facs="gjb_18_0149.jpg"/>
             <div type="conversation">
-                <p><hi rend="italic">R.</hi> 22. Juni 1808.<anchor xml:id="N1"/><ref target="#F1"
-                            ><hi rend="sup">1</hi></ref> Goethes Faust ist allerdings eine wahre und
-                    köstliche Bereicherung der deutschen Literatur. <pb n="150"
-                        facs="gjb_18_0150.jpg"/>Eine Welt bewegt sich hier im Spiegel einer echt
+                <p><hi rend="italic">R.</hi> 22. Juni 1808.<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi></ref> Goethes Faust ist allerdings eine wahre und
+                    köstliche Bereicherung der deutschen Literatur. <pb n="150" facs="gjb_18_0150.jpg"/>Eine Welt bewegt sich hier im Spiegel einer echt
                     poetischen Seele vor uns. Nur das Intermezzo gegen den Schluß des Ganzen scheint
                     mir, aller hübschen Einfälle ungeachtet, Goethes oder wenigstens dieses Platzes
                     unwerth, zu geschweigen, daß man die meisten Beziehungen desselben nach wenigen
                     Jahren nicht einmal mehr verstehen wird. Auch zerreißt es die tragischen Scenen
-                    viel zu sehr und, bei seiner Länge, sogar widrig. <milestone unit="testimony"
-                        spanTo="#pniower_273_end" xml:id="pniower_273"/>Ob noch mehr
+                    viel zu sehr und, bei seiner Länge, sogar widrig. <milestone unit="testimony" spanTo="#pniower_273_end" xml:id="pniower_273"/>Ob noch mehr
                     zurückgeblieben? Ich glaube ja! theils aus einigen frühern Aeußerungen Gs gegen
                     mich, die auf das jetzt Hinzugekommene nicht recht passen, theils weil
                         <rs>Faust</rs> hier doch nur durch eine Stufe hinauf- oder vielmehr
@@ -41,11 +38,9 @@
             </div>
             <pb n="156" facs="gjb_18_0156.jpg"/>
             <div type="conversation">
-                <p><hi rend="italic">R.</hi> 24. Nov. 1831. <milestone unit="testimony"
-                        spanTo="#graef_1913_end" xml:id="graef_1913"/>Von Goethes neuem
+                <p><hi rend="italic">R.</hi> 24. Nov. 1831. <milestone unit="testimony" spanTo="#graef_1913_end" xml:id="graef_1913"/>Von Goethes neuem
                         <rs>Faust</rs> hätte ich Vieles zu melden: ich habe aber dem Dichter das
-                    Wort geben müssen, nichts im Voraus verlauten zu lassen.<anchor
-                        xml:id="graef_1913_end"/> Soviel glaube ich indessen verantworten zu können:
+                    Wort geben müssen, nichts im Voraus verlauten zu lassen.<anchor xml:id="graef_1913_end"/> Soviel glaube ich indessen verantworten zu können:
                     Wer zu dem Werke viel mitbringt und das Viele ihm zuwenden will, der wird nicht
                     nur erstaunen, sondern auch sobald nicht fertig werden, es ganz durchzudenken
                     und durchzuempfinden. Wer es liest, wie etwa ein Raupachsches Drama, der wird

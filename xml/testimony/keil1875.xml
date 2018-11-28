@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!--and now:--><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!--and now:--><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -32,8 +32,7 @@
         <body>
             <div>
                 <head>7. <hi rend="bold">Schreiben eines Politikers an die Geſellſchaft</hi></head>
-                <p>am 6. Januar 1776.<note place="foot" xml:id="ftn1" n="1"><p rend="footnote text"
-                                ><ref type="footnote">1)</ref> Eine jener ſ. g. Matinées, mit denen
+                <p>am 6. Januar 1776.<note place="foot" xml:id="ftn1" n="1"><p rend="footnote text"><ref type="footnote">1)</ref> Eine jener ſ. g. Matinées, mit denen
                             die genialen Schöngeiſter Weimars ihre Eigenheiten launig-ſatyriſch zu
                             geißeln liebten. „Wir machen des Teufels Zeug“, ſchrieb Goethe am 8.
                             März 1776 an Merck. Einſiedel charakteriſirte mit Obigem unter dem Namen
@@ -89,8 +88,7 @@
                 <p>Hoff’, da ihr trinkt viel Punſch und Wein</p>
                 <p>’s wird unter euch kein’ Rangſucht ſeyn. — —</p>
                 <p>Zuerſt alſo: von ohngefehr</p>
-                <p>Läuft mir ein langer Burſch <note place="foot" xml:id="ftn2" n="2"><p
-                            rend="footnote text"><ref type="footnote">1)</ref> Ober-Forſtmeiſter und
+                <p>Läuft mir ein langer Burſch <note place="foot" xml:id="ftn2" n="2"><p rend="footnote text"><ref type="footnote">1)</ref> Ober-Forſtmeiſter und
                             Cammerherr von Wedel. (Anmerkung Goethe’s.)</p></note> die Queer</p>
                 <p>Von ungeſchlachter roher Arth</p>
                 <p>Thut altklug ſchon; hat kaum ’en Barth,</p>
@@ -106,8 +104,7 @@
                 <p>Ein Weib ihn zur raison wird bringen. —</p>
                 <p>Wend mich nun dorthin, weiter unten</p>
                 <p>Zu einem andern Vagabunden.</p>
-                <p>Der Knabe <note place="foot" xml:id="ftn3" n="3"><p rend="footnote text"><ref
-                                type="footnote">2)</ref> Hofrath von Einſiedel, der Autor ſelbſt.
+                <p>Der Knabe <note place="foot" xml:id="ftn3" n="3"><p rend="footnote text"><ref type="footnote">2)</ref> Hofrath von Einſiedel, der Autor ſelbſt.
                             (Anmerkung Goethe’s.)</p></note> mit der platten Stirn,</p>
                 <p>Hält Wunderding von ſeinem Gehirn.</p>
                 <pb n="30"/>
@@ -124,8 +121,7 @@
                 <p>Schleicht jämmerlich bey Hofe rum:</p>
                 <p>Iſt halb verrückt, halb toll, halb dumm. —</p>
                 <p>Doch ſchlimmer als die alleſammt,</p>
-                <p>Iſt jener dort<note place="foot" xml:id="ftn4" n="4"><p rend="footnote text"><ref
-                                type="footnote">1)</ref> Hauptmann von Knebel. (Anmerkung
+                <p>Iſt jener dort<note place="foot" xml:id="ftn4" n="4"><p rend="footnote text"><ref type="footnote">1)</ref> Hauptmann von Knebel. (Anmerkung
                             Goethe’s.)</p></note>: zur Höll’ verdammt;</p>
                 <p>Der ſeine Schand ſelbſt etalirt</p>
                 <p>Das Aergſt’ von ſich im Munde führt.</p>
@@ -142,21 +138,18 @@
                 <p>Auch misbehäglich mich anſticht,</p>
                 <pb n="31"/>
                 <p>Der Philoſophen Angeſicht;</p>
-                <p>Der eine<note place="foot" xml:id="ftn5" n="5"><p rend="footnote text"><ref
-                                type="footnote">1)</ref> Wieland. (Anmerkung Goethe’s.)</p></note>
+                <p>Der eine<note place="foot" xml:id="ftn5" n="5"><p rend="footnote text"><ref type="footnote">1)</ref> Wieland. (Anmerkung Goethe’s.)</p></note>
                     ſchwärmt und Unſinn ſchwätzt,</p>
                 <p>Euch auf ſein Steckenpferdlein ſetzt</p>
                 <p>Und eure Fantaſie rum hetzt;</p>
                 <p>Beliebt’s euch, das nicht zu goutiren</p>
                 <p>Thut er euch launiſch exorciren.</p>
-                <p>Der Andre<note place="foot" xml:id="ftn6" n="6"><p rend="footnote text"><ref
-                                type="footnote">2)</ref> Hofrath Albrecht. (Anmerkung
+                <p>Der Andre<note place="foot" xml:id="ftn6" n="6"><p rend="footnote text"><ref type="footnote">2)</ref> Hofrath Albrecht. (Anmerkung
                         Goethe’s.)</p></note> analitiſch kalt,</p>
                 <p>Braucht an der Sinnlichkeit Gewalt;</p>
                 <p>Nie ſeinen ſpitzen Reden traut,</p>
                 <p>Auch ſich’s dabey gar ſchlecht verdaut. —</p>
-                <p>Dem Ausbund<note place="foot" xml:id="ftn7" n="7"><p rend="footnote text"><ref
-                                type="footnote">3)</ref> Goethe. (Anmerkung Goethe’s.)</p></note>
+                <p>Dem Ausbund<note place="foot" xml:id="ftn7" n="7"><p rend="footnote text"><ref type="footnote">3)</ref> Goethe. (Anmerkung Goethe’s.)</p></note>
                     aller, dort von Weiten</p>
                 <p>Möcht’ ich auch ein Süpplein zubereiten,</p>
                 <p>Fürcht nur ſein ungeſchliffnes Reiten;</p>
@@ -185,16 +178,14 @@
                 <p>(Thät mich hinter meinen Damm verſchanzen)</p>
                 <p>Aber wär ich der Herr im Land</p>
                 <p>Würd’ er, und all ſein Zeugs verbannt. — —</p>
-                <p>Nun denk man ſich ’en Fürſtenſohn<note place="foot" xml:id="ftn8" n="8"><p
-                            rend="footnote text"><ref type="footnote">1)</ref> Herzog. (Anmerkung
+                <p>Nun denk man ſich ’en Fürſtenſohn<note place="foot" xml:id="ftn8" n="8"><p rend="footnote text"><ref type="footnote">1)</ref> Herzog. (Anmerkung
                             Goethe’s.)</p></note>,</p>
                 <p>Der ſo vergißt Geburth und Thron,</p>
                 <p>Und lebt mit ſolchen lockern Geſellen</p>
                 <p>Die dem lieben Gott die Zeit abprellen;</p>
                 <p>Die thun als wärn ſie ſeines Gleichen,</p>
                 <p>Ihm nicht einmal den Fuchsſchwanz ſtreichen,</p>
-                <p>Die des Bruders<note place="foot" xml:id="ftn9" n="9"><p rend="footnote text"
-                                ><ref type="footnote">2)</ref> Prinz Conſtantin. (Anmerkung
+                <p>Die des Bruders<note place="foot" xml:id="ftn9" n="9"><p rend="footnote text"><ref type="footnote">2)</ref> Prinz Conſtantin. (Anmerkung
                             Goethe’s.)</p></note> Reſpect ſo ganz verkennen,</p>
                 <p>Tout court ihn Bruder Herz thun nennen,</p>
                 <p>Glaub’n es wohne da Menſchenverſtand</p>
@@ -204,8 +195,7 @@
                 <p>Sind ohne Plan und Politik</p>
                 <p>Verhunz’n unſer beſtes Meiſterſtück;</p>
                 <p>Daß es iſt ein Jammer anzuſehn</p>
-                <p>Wie alle Projecte ä.. lings<note place="foot" xml:id="ftn10" n="10"><p
-                            rend="footnote text"><ref type="footnote">3)</ref> Im Original
+                <p>Wie alle Projecte ä.. lings<note place="foot" xml:id="ftn10" n="10"><p rend="footnote text"><ref type="footnote">3)</ref> Im Original
                             ausgeſchrieben.</p></note> gehn. —</p>
                 <pb n="33"/>
                 <p>Hoff’ aber ich hab ſie ſchön curirt,</p>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!--and now:--><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!--and now:--><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,8 +33,7 @@
             <pb n="135"/>
             <div>
                 <head><hi rend="bold">1822.</hi></head>
-                <p>337. <milestone unit="testimony" spanTo="#pniower_337_end" xml:id="pniower_337"
-                    />Zum 1. Mai findet sich im Tagebuch die Notiz: ‘Nach Tische Gedanken an eine
+                <p>337. <milestone unit="testimony" spanTo="#pniower_337_end" xml:id="pniower_337"/>Zum 1. Mai findet sich im Tagebuch die Notiz: ‘Nach Tische Gedanken an eine
                     neue Ausgabe meiner Werke’. Und sogleich begann Goethe einen Vorschlag zu dieser
                     Ausgabe zu schematisieren und die Paralipomena zu sortieren (2. Mai). Nach
                     einigen Tagen (7. Mai) überliess er die Ordnung der Papiere seinem Sekretär
@@ -59,13 +58,10 @@
                 <p><hi rend="italic">ε. — Paralipomena zu Faust</hi></p>
                 <pb n="136"/>
                 <p><hi rend="italic">ζ — Walpurgisnachts- Traum</hi></p>
-                <p><hi rend="italic">(meist von meiner</hi> [d. h. Kräuters] <hi rend="italic"
-                        >Hand)</hi></p>
-                <p><hi rend="italic">η — <rs>Fortsetzung Fausts</rs>. (2</hi><hi
-                        rend="italic superscript">r</hi><hi rend="italic">__Thl)</hi></p>
+                <p><hi rend="italic">(meist von meiner</hi> [d. h. Kräuters] <hi rend="italic">Hand)</hi></p>
+                <p><hi rend="italic">η — <rs>Fortsetzung Fausts</rs>. (2</hi><hi rend="italic superscript">r</hi><hi rend="italic">__Thl)</hi></p>
                 <p>— <hi rend="italic">Einzelne Blätter zu Faust.</hi></p>
-                <p>Die letzte Zeile scheint später nachgetragen zu sein. Mit <hi rend="italic"
-                        >δ</hi> ist wohl die Werke 14, 320 unter Nr. 5 beschriebene Handschrift
+                <p>Die letzte Zeile scheint später nachgetragen zu sein. Mit <hi rend="italic">δ</hi> ist wohl die Werke 14, 320 unter Nr. 5 beschriebene Handschrift
                     gemeint, die freilich nicht Quartformat zeigt, sondern ein Folioheft bildet
                     (oben Nr. 307). Mit <hi rend="italic">ζ</hi> hatte Kräuter wohl die als
                     Paralipomenon 40 und 47 (Werke 14, 302, 304) abgedruckten Einlagen (oben Nr.
@@ -75,8 +71,7 @@
             <div>
                 <pb n="175"/>
                 <p>490. Tagebuch. 19. December.</p>
-                <p><milestone unit="testimony" spanTo="#pniower_490_end" xml:id="pniower_490"/><hi
-                        rend="italic">Hrn. Dr. Sulpis Boisserée, <rs>einem Abschnitt
+                <p><milestone unit="testimony" spanTo="#pniower_490_end" xml:id="pniower_490"/><hi rend="italic">Hrn. Dr. Sulpis Boisserée, <rs>einem Abschnitt
                         Helena</rs>.</hi></p>
                 <p>An diesem Tage wurde die dritte Lage von H<hi rend="superscript">III</hi>
                     abgesandt, die die Verse 8754—8908 enthielt. Am 28. dankt Boisserée für diese

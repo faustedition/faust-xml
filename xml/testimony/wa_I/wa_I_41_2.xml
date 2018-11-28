@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -38,8 +37,7 @@
                     wir selbst, gar wohl ergötzen, erbauen und unsrer unbestrittenen Vorzüge
                     genießen. Lassen wir uns ferner von den Einzelnheiten in oben genannter
                     Zeitschrift nicht hinreißen, so ist es höchst interessant, eine Gesellschaft
-                    gebildeter, erfahrner, kluger, geschmackreicher Männer zu bemerken, denen <pb
-                        n="233"/> man nicht in allen Capiteln beizustimmen braucht, um von ihren
+                    gebildeter, erfahrner, kluger, geschmackreicher Männer zu bemerken, denen <pb n="233"/> man nicht in allen Capiteln beizustimmen braucht, um von ihren
                     Einsichten Vortheil zu ziehen: wie sich denn gegen die mitgetheilte Stelle immer
                     noch anführen ließe, daß die griechische Mythologie als höchst gestaltet, als
                     Verkörperung der tüchtigsten reinsten Menschheit mehr empfohlen zu werden
@@ -78,8 +76,7 @@
                     Künstler die übrigen wilden, ahnungsvollen und seltsamen Situationen
                     gleichfalls, und wenn er sich dem Zartern auf irgend eine Weise zu fügen
                     versteht, so haben wir ein wundersames, in jenes paradoxe Gedicht harmonisch
-                    eingreifendes Kunstwerk nächstens zu erwarten.<anchor xml:id="graef_1431_end"
-                    /></p>
+                    eingreifendes Kunstwerk nächstens zu erwarten.<anchor xml:id="graef_1431_end"/></p>
             </div>
             
             
@@ -136,8 +133,7 @@
                 <p>Die alte Legende sagt nämlich, und das Puppenspiel verfehlt nicht, die Scene
                     vorzuführen, daß Faust in seinem herrischen Übermuth durch Mephistopheles den
                     Besitz der schönen Helena von Griechenland verlangt <pb n="292"/> und dieser ihm
-                    nach einigem Widerstreben willfahrt habe. <milestone unit="testimony"
-                        spanTo="#graef_1461_end" xml:id="graef_1461"/>Ein solches bedeutendes Motiv
+                    nach einigem Widerstreben willfahrt habe. <milestone unit="testimony" spanTo="#graef_1461_end" xml:id="graef_1461"/>Ein solches bedeutendes Motiv
                     in unserer Ausführung nicht zu versäumen, war uns Pflicht, und wie wir uns
                     derselben zu entledigen gesucht, wird aus dem Zwischenspiel hervorgehen. Was
                     aber zu einer solchen Behandlung die nähere Veranlassung gegeben, und wie nach
@@ -152,8 +148,7 @@
             
             <!-- Testimony graef_1239, WA I, 41.2, 400-402 -->
             <div>
-                <head><milestone unit="testimony" spanTo="#graef_1239_end" xml:id="graef_1239"
-                    next="#graef_1239_b"/>Vorschlag zu einer vollständigen Ausgabe zu Goethe's
+                <head><milestone unit="testimony" spanTo="#graef_1239_end" xml:id="graef_1239" next="#graef_1239_b"/>Vorschlag zu einer vollständigen Ausgabe zu Goethe's
                     Nachlaß <lb/>von ihm selbst entworfen.<anchor xml:id="graef_1239_end"/></head>
                 
                 <table>
@@ -161,7 +156,7 @@
                         <cell>Lessings Abscheiden.<lb/></cell>
                     </row>
                     <row>
-                        <cell>Durch seinen Bruder revidirt und in &#0160;&#0160;&#0160; Bänden
+                        <cell>Durch seinen Bruder revidirt und in     Bänden
                             herausgegeb.<lb/></cell>
                     </row>
                     <row>
@@ -197,8 +192,7 @@
                         <cell>Aber jedem außer mir selbst kaum zu brauchen. <lb/></cell>
                     </row>
                     <row>
-                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_b"
-                            xml:id="graef_1239_b" next="#graef_1239_c"/>Übersicht meines
+                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_b" xml:id="graef_1239_b" next="#graef_1239_c"/>Übersicht meines
                             schriftlichen Nachlasses.<lb/></cell>
                     </row>
                     <row>
@@ -242,8 +236,7 @@
                     </row>
                     <pb n="401"/>
                     <row>
-                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_c"
-                            xml:id="graef_1239_c" next="graef_1239_d"/>Ungedruckte.<lb/></cell>
+                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_c" xml:id="graef_1239_c" next="graef_1239_d"/>Ungedruckte.<lb/></cell>
                     </row>
                     <row>
                         <cell>Paralipomena.<anchor xml:id="graef_1239_end_c"/><lb/></cell>
@@ -258,8 +251,7 @@
                         <cell>Loge.<lb/></cell>
                     </row>
                     <row>
-                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_d"
-                            xml:id="graef_1239_d" next="graef_1239_e"/>Ans Theater
+                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_d" xml:id="graef_1239_d" next="graef_1239_e"/>Ans Theater
                             geknüpft.<anchor xml:id="graef_1239_end_d"/><lb/></cell>
                     </row>
                     <row>
@@ -272,8 +264,7 @@
                         <cell>Gott und Welt.<lb/></cell>
                     </row>
                     <row>
-                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_e"
-                            xml:id="graef_1239_e" next="graef_1239_f"/><rs>Zu Faust</rs>. Zahme
+                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_e" xml:id="graef_1239_e" next="graef_1239_f"/><rs>Zu Faust</rs>. Zahme
                             Xenien.<anchor xml:id="graef_1239_end_e"/><lb/></cell>
                     </row>
                     <row>
@@ -299,8 +290,7 @@
                             Inhalts.<lb/></cell>
                     </row>
                     <row>
-                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_f"
-                            xml:id="graef_1239_f"/>Götz von Berlichingen erstes
+                        <cell><milestone unit="testimony" spanTo="#graef_1239_end_f" xml:id="graef_1239_f"/>Götz von Berlichingen erstes
                             Manuscript.<lb/></cell>
                     </row>
                     <row>
