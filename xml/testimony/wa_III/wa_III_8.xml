@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:f="http://faustedition.net/ns"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -124,10 +117,7 @@
          <pb n="192"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1822-05-02"/>2. <milestone unit="testimony"
-                          spanTo="#graef_1240_end"
-                          xml:id="graef_1240"
-                          next="#graef_1240_b"/>Vorschlag zu einer <rs>neuen Ausgabe meiner Werke</rs>
+                        <date when="1822-05-02"/>2. <milestone unit="testimony" spanTo="#graef_1240_end" xml:id="graef_1240" next="#graef_1240_b"/>Vorschlag zu einer <rs>neuen Ausgabe meiner Werke</rs>
                            schematisirt.<anchor xml:id="graef_1240_end"/> Herr Landrath von Lyncker.
                         Sendete Rath Völkel die 150 Thlr. gegen Quittung. Um 12 Uhr Maler Kolbe das
                         Porträt anfangend, Mittag zu zwey. <milestone unit="testimony" spanTo="#graef_1240_end_b" xml:id="graef_1240_b"/>Nach Tische die
@@ -253,8 +243,7 @@
          <!--Testimony graef_1241 , WA III, 8, 372-->
          <div>
             <list>
-               <head>"<hi rend="italic">Paralipomena.</hi> Drey Kapseln 4° <hi rend="italic"
-                  >oblig.</hi></head>
+               <head>"<hi rend="italic">Paralipomena.</hi> Drey Kapseln 4° <hi rend="italic">oblig.</hi></head>
                <label n="a"><hi rend="italic">a.</hi></label>
                <item> Occasionis. Mit erklärenden Nachrichten von ihrer Entstehung.</item>
                <label n="b"><hi rend="italic">b.</hi></label>

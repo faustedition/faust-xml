@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -34,8 +34,7 @@
             <fw><hi rend="bold">309</hi></fw>
             <head><milestone unit="testimony" spanTo="#tille_309_end" xml:id="tille_309"/><hi rend="bold">1778. Theater-Journal für Deutschland</hi></head>
             <p>Theater-Journal für Deutſchland Sechſtes Stück. Gotha bey Carl Wilhelm Ettinger,
-                    1778.<note place="foot" xml:id="ftn1" n="1"><p rend="footnote text"><hi
-                            rend="footnote_reference">1)</hi> Herausgegeben von N. A. O. Reichard.
+                    1778.<note place="foot" xml:id="ftn1" n="1"><p rend="footnote text"><hi rend="footnote_reference">1)</hi> Herausgegeben von N. A. O. Reichard.
                         D. H.</p></note></p>
             <p>S. 18</p>
             <p>3.</p>
@@ -45,8 +44,7 @@
             <p>Was meinen Sie? Ließe ſich das muſikaliſche Duodrama nicht auch komiſch behandeln?
                 Ich ſollte denken, und habe auch ſchon <pb n="709"/>ein paar Verſuche gemacht. Von einem
                 derſelben theil’ ich Ihnen hier den Auszug nebſt ein paar Scenen mit. Wenn Sie
-                wollen, können Sie ſie in Ihrem Theaterjournal abdrucken laſſen. Es iſt <hi
-                    rend="bold">Doktor Fauſt.</hi> Daß Sie aber ja keinen Fauſt von der Art
+                wollen, können Sie ſie in Ihrem Theaterjournal abdrucken laſſen. Es iſt <hi rend="bold">Doktor Fauſt.</hi> Daß Sie aber ja keinen Fauſt von der Art
                 erwarten, wie ihn <hi rend="bold">Leßing, Göthe</hi> und <hi rend="bold">Müller</hi>
                 bearbeiten. Zu einem ſolchen hab ich nicht die Kräfte; [19] auch wär er für meine
                 Abſicht ganz unbrauchbar geweſen. Mein Fauſt ſollte nichts ſeyn, als eine
@@ -93,19 +91,12 @@
                 hältſt, Dein Zögling zu werden. Ich habe mich den Wiſſenſchaften geweiht, gern
                 gelernt im Tempel der Muſen — ſuchte Wahrheit. —</p>
             <p><hi rend="bold">Fauſt.</hi> Und fandſt ſie nicht? Ich glaube Dir. Auch ich habe lange
-                geforſcht, durchwanderte alle Künſte und Wiſſenſchaften. Ich ward <hi rend="bold"
-                    >Theolog;</hi> ſchlug nach, durchdachte alles, prüfte alles, <hi rend="bold"
-                    >Polemik, Exegeſe, Dogmatik;</hi> alles <hi rend="bold">Tand!</hi> nichts, das
-                Gottheit witterte! Ich ward <hi rend="bold">Juriſt;</hi> wollte <hi rend="bold"
-                    >Gerechtigkeit kennen lernen,</hi> und lernte <hi rend="bold">Gerechtigkeit
+                geforſcht, durchwanderte alle Künſte und Wiſſenſchaften. Ich ward <hi rend="bold">Theolog;</hi> ſchlug nach, durchdachte alles, prüfte alles, <hi rend="bold">Polemik, Exegeſe, Dogmatik;</hi> alles <hi rend="bold">Tand!</hi> nichts, das
+                Gottheit witterte! Ich ward <hi rend="bold">Juriſt;</hi> wollte <hi rend="bold">Gerechtigkeit kennen lernen,</hi> und lernte <hi rend="bold">Gerechtigkeit
                     verdrehen;</hi> fand einen Götzen von den Händen des Eigendünkels und des
-                Intreſſe geformt, <hi rend="bold">Baſtard</hi> der Gerechtigkeit, <hi rend="bold"
-                    >nicht ſie ſelbſt.</hi> Ich ward <hi rend="bold">Arzt;</hi> wollte <hi
-                    rend="bold">menſchlichen Bau</hi> kennen lernen, lernen die Mittel, dem
-                menſchlichen Gebäude <hi rend="bold">nachzuhelfen,</hi> wenn es <hi rend="bold"
-                    >ſinkt;</hi> aber ich fand nicht, was ich ſuchte, fand nichts, als die Kunſt:
-                den Menſchen nach <hi rend="bold">Methode zu morden.</hi> Ich ward <hi rend="bold"
-                    >Philoſoph;</hi> wollte <hi rend="bold">Menſchenſeele</hi> kennen <pb n="711"/>lernen,
+                Intreſſe geformt, <hi rend="bold">Baſtard</hi> der Gerechtigkeit, <hi rend="bold">nicht ſie ſelbſt.</hi> Ich ward <hi rend="bold">Arzt;</hi> wollte <hi rend="bold">menſchlichen Bau</hi> kennen lernen, lernen die Mittel, dem
+                menſchlichen Gebäude <hi rend="bold">nachzuhelfen,</hi> wenn es <hi rend="bold">ſinkt;</hi> aber ich fand nicht, was ich ſuchte, fand nichts, als die Kunſt:
+                den Menſchen nach <hi rend="bold">Methode zu morden.</hi> Ich ward <hi rend="bold">Philoſoph;</hi> wollte <hi rend="bold">Menſchenſeele</hi> kennen <pb n="711"/>lernen,
                     <hi rend="bold">Wahrheit beym Flügel ergreifen, Weisheit bey der Stirn
                     faſſen;</hi> und fand <hi rend="bold">Schatten, Dunſt; Narrheit in ein Syſtem
                     geknetet.</hi></p>
@@ -649,8 +640,7 @@
                 ſeiner Stube einen ſeltſamen Schatten an der Wand vorüberfahren, und des Nachts hin
                 und wieder viele Lichter bis an ſein Bette, gleichſam fliegen, ſah, auch öfters
                 leiſe Stimmen hörte. Doch hatte er nicht das Herz, dieſe Geiſter anzureden, ſondern
-                hoffte durch das Cryſtallglas, das er von dem damals berühmten Cryſtallſeher, <hi
-                    rend="bold">Chriſtoph Hayllingern,</hi> erhandelt hatte, noch mehr Licht zu
+                hoffte durch das Cryſtallglas, das er von dem damals berühmten Cryſtallſeher, <hi rend="bold">Chriſtoph Hayllingern,</hi> erhandelt hatte, noch mehr Licht zu
                 bekommen. Endlich begab er ſich bey heitrem Tage an ſeinen Kreuz- oder Scheideweg,
                 wo fünf Straßen zuſammenſtießen, und brachte daſelbſt den Nachmittag zu, worauf er
                 ſeine Zaubercirkel und Reife verfertigte, und nachdem er ſich in den mittelſten
@@ -661,8 +651,7 @@
                 endlich ſah er, wider alles Verhoffen, ein Geſpenſt um den Kreiß [85] wandern, dem
                 er zurief: „Ob es ihm dienen wolle oder nicht;“ welches der Geiſt zu thun verſprach,
                 wenn <hi rend="bold">Fauſt</hi> einige Punkte eingehn würde, worüber ſie ſich
-                Morgens in Fauſts Hauſe des nähern bereden wollten. Hierauf zertrat <hi rend="bold"
-                    >Fauſt</hi> ſeine Cirkel, und ging, in Erwartung kommender Dinge, nach
+                Morgens in Fauſts Hauſe des nähern bereden wollten. Hierauf zertrat <hi rend="bold">Fauſt</hi> ſeine Cirkel, und ging, in Erwartung kommender Dinge, nach
                 Hauſe.</p>
             <p>Um Mittag erſchien der Geiſt in <hi rend="bold">Fauſts</hi> Zimmer, und nahm ſeinen
                 Platz bey dem Ofen. Auf <hi rend="bold">Fauſts</hi> wiederholte Beſchwörungen kam er
@@ -683,8 +672,7 @@
                 Sakramente gebrauchen, 5. wie auch den Eheſtand haſſen, und ſich weder in denſelben
                 einlaſſen, noch gar ihn ehelich vollziehen ſollte. Zur Vergeltung wolle er ihm alle
                 nur erſinnliche Luſt ſeine ganze Lebenszeit hindurch verſchaffen, und zu dem
-                erfahrenſten und berühmteſten Manne machen. Der Geiſt verſchwand; <hi rend="bold"
-                    >Fauſt</hi> öfnete ſich eine Ader, und ſchrieb mit ſeinem Blute und ſeiner Hand
+                erfahrenſten und berühmteſten Manne machen. Der Geiſt verſchwand; <hi rend="bold">Fauſt</hi> öfnete ſich eine Ader, und ſchrieb mit ſeinem Blute und ſeiner Hand
                 den Vertrag, worinn er obige Punkte einging, und ſich auf 24. Jahr „dem irrdiſchen
                 Gott, den die Welt den Teufel zu nennen pflegt,“ dergeſtalt zu eigen ergab, daß der
                 Teufel, nach Verlauf dieſer Zeit, dieſes ſein Unterpfand, Leib und Seele, angreifen,
@@ -697,10 +685,8 @@
                 ſich ſetzen geheißen, warum er ihn aller Herrlichkeit beraubt, und zu einem
                 Menſchenkinde gemacht habe? Doch weil er ein Spiritus familiaris, und gern in
                 Geſellſchaft der Menſchen ſey, auch ſeinen Obern Gehorſam leiſten müſſe, ſo wolle er
-                ihm getreulich dienen, und ſollte er nur, wenn er ſeiner benöthigt wäre, <hi
-                    rend="bold">Mephiſtophiles,</hi> rufen; er werde nicht weit ſeyn. Einen Famulum
-                könne er neben <pb n="729"/>ſich leiden, aber keine Magd nicht. Mit dem allen war <hi
-                    rend="bold">Fauſt</hi> anfangs ſehr wohl zufrieden, allein bey dem zweytenmale
+                ihm getreulich dienen, und ſollte er nur, wenn er ſeiner benöthigt wäre, <hi rend="bold">Mephiſtophiles,</hi> rufen; er werde nicht weit ſeyn. Einen Famulum
+                könne er neben <pb n="729"/>ſich leiden, aber keine Magd nicht. Mit dem allen war <hi rend="bold">Fauſt</hi> anfangs ſehr wohl zufrieden, allein bey dem zweytenmale
                 wollte er mißtrauiſch werden, und dem Geiſte ſogar ein Schellchen anhängen, damit er
                 ihn konnte kommen hören. Dies ſtand aber jenem nicht an, und er widerſetzte ſich ſo
                 nachdrücklich, daß <hi rend="bold">Fauſt</hi> gelindere Saiten aufzog.</p>
@@ -721,8 +707,7 @@
                 ſ. w. Dieſen Park aber bekamen nur wenige ſeiner vertrauteſten Bekannten zu ſehn. In
                 Aſtronomie, Rechenkunſt. Calenderprophezeyungen, Nativitätſtellen kam ihm kein
                 Menſch gleich. Jedermann, Fremde und Innländer, frugen ihn [89] um Rath, und ſeine
-                Reden und Schriften galten für Orakel. So prophezeyte er dem Prälaten, <hi
-                    rend="bold">Azzolini,</hi> zu Pavia, daß er Kardinal werden würde, und dieſer
+                Reden und Schriften galten für Orakel. So prophezeyte er dem Prälaten, <hi rend="bold">Azzolini,</hi> zu Pavia, daß er Kardinal werden würde, und dieſer
                 ſchickte ihm hernach zur Erkenntlichkeit 200. Kronen.</p>
             <p>Er bediente ſich außerdem ſeiner Kunſt ſehr oft zu lächerlichen und luſtigen
                 Streichen, von denen wir einige abſchreiben wollen. So fuhr er auf ſeinem berufenen
@@ -730,8 +715,7 @@
                 brachte ſie glücklich hin und zurücke, außer einen, der das verſprochene
                 Stillſchweigen gebrochen hatte, und ſich bedankete, als man ihm <pb n="730"/>das Handwaſſer,
                 dem damaligen Gebrauch nach, auf fürſtlichen Befehl reichte. Er mußte alſo
-                zurückbleiben, und ins Gefängniß wandern. Den andern Morgen aber kam <hi rend="bold"
-                    >D. Fauſt,</hi> zauberte die Wache in Schlaf, öffnete Schloß und Riegel, warf
+                zurückbleiben, und ins Gefängniß wandern. Den andern Morgen aber kam <hi rend="bold">D. Fauſt,</hi> zauberte die Wache in Schlaf, öffnete Schloß und Riegel, warf
                 ſeinen Mantel um den ſchlafenden Freyherrn, und brachte ihn durch die Luft nach
                 Wittenberg zu ſeinem Vetter zurück, der ihn anſehnlich davor beſchenkte.</p>
             <p>Da ſich <hi rend="bold">Mephiſtophiles</hi> weigerte, ihm ſo viel Geld zu ſchaffen,
@@ -746,8 +730,7 @@
                 Weinſchrötern zu, wie ſie vergebens bemüht waren, ein ungeheures Faß aus dem Keller
                 heraufzuſchroten. <hi rend="bold">Fauſt</hi> und ſeine Geſellſchaft trieben ihr
                 Geſpötte darüber, und lachten ſie mit ihrer Ohnmacht aus. Die Schröter geriethen in
-                Zorn, und der Herr des Kellers<note place="foot" xml:id="ftn2" n="2"><p
-                        rend="footnote text"><hi rend="footnote_reference">1)</hi> Im Text Kellners.
+                Zorn, und der Herr des Kellers<note place="foot" xml:id="ftn2" n="2"><p rend="footnote text"><hi rend="footnote_reference">1)</hi> Im Text Kellners.
                         D. H.</p></note> forderte jene auf, es beſſer zu machen, mit dem Zuſatze,
                 ihnen das Faß Wein zu ſchenken, wenn ſie es aus dem Keller zu ſchaffen im Stande
                 wären. <hi rend="bold">Fauſt</hi> ging ſogleich die Wette ein, ſetzte ſich aufs Faß,
@@ -762,15 +745,12 @@
             <p>Des Teufels Lohn empfangen davon.</p>
             <p>Anno Domini MXXV.</p>
             <pb n="731"/>
-            <p>Zu Wien gab er vielen Freunden ein herrliches Feſt<note place="foot" xml:id="ftn3"
-                    n="3"><p rend="footnote text"><hi rend="footnote_reference">1)</hi> Im Text
+            <p>Zu Wien gab er vielen Freunden ein herrliches Feſt<note place="foot" xml:id="ftn3" n="3"><p rend="footnote text"><hi rend="footnote_reference">1)</hi> Im Text
                         Feſtin. D. H.</p></note>, in einem prächtigen Pallaſt. Die Gäſte tanzten,
                 trunken und waren fröligen Muths; wie es aber gegen Nacht kam, fingen ſie alle an
                 einzuſchlafen. Beym Erwachen lagen ſie im Galgen, und unter lauter Todesgebeinen der
                 Gehangenen. — Die Helden in Homers Heldengedichten citirte er alle in verſchiedener
-                erfurtiſcher Studenten Gegenwart; den Beſchluß machte Polyphemus<note place="foot"
-                    xml:id="ftn4" n="4"><p rend="footnote text"><hi rend="footnote_reference"
-                            >2)</hi> Im Text Polyphenus. D. H.</p></note>, der an dem Schenkel eines
+                erfurtiſcher Studenten Gegenwart; den Beſchluß machte Polyphemus<note place="foot" xml:id="ftn4" n="4"><p rend="footnote text"><hi rend="footnote_reference">2)</hi> Im Text Polyphenus. D. H.</p></note>, der an dem Schenkel eines
                 Kindes zu nagen ſchien. — Dem Kayſer <hi rend="bold">Maximilian</hi> that er ein
                 gleiches zu Inſpruck. Er zeigte ihm Alexander den Großen und ſeine Gemahlin. „Erſter
                 erſchien, ſagt unſer Geſchichtſchreiber, in einem köſtlichen Harniſch, und machte
@@ -779,8 +759,7 @@
                 am Halſe.“ — Einem Bauer, der ihm nicht ausweichen wollte, verſchluckte er ein
                 halbes Fuder Heu, und doch behielt jener ſo viel, als er haben ſollte. — Einem
                 gottesfürchtigen Nachbar, der ihn zur Bekehrung ermahnte, bannte er einen Kobold ins
-                Haus, und ein gleiches Schickſal traf zu <hi rend="bold">Gotha</hi> einen Wirth, <hi
-                    rend="bold">Valentin Hohenmeyer,</hi> als dieſer ihm wegen zu genauer
+                Haus, und ein gleiches Schickſal traf zu <hi rend="bold">Gotha</hi> einen Wirth, <hi rend="bold">Valentin Hohenmeyer,</hi> als dieſer ihm wegen zu genauer
                 Bekanntſchaft mit ſeiner Frau das Haus verbot. — Zu Wien wettete er mit einem
                 Schiffer, daß er das Schiff durch einen Affen die Donau hinauf ziehen wollte, ließ
                 die Pferde abſpannen, und gewann die Wette. — Einem Edelmann, der in der Türkey
@@ -811,8 +790,7 @@
                 Fürſt der Hölle, kündigte ihm den Dienſt auf, und hielt ihm ſein Verbrechen vor.
                 Damit er ihm aber nicht die Schuld ſeiner Verdammniß zuſchreibe, ſo citirte er ihn
                 zugleich vor das ſtrenge Gericht Gottes, da Red und Antwort zu geben, ob er kein
-                Recht an dem, ihm mit ſeinem Blut verſchriebenen, Pfande habe. <hi rend="bold"
-                    >Fauſt</hi> wollte für Angſt und Gram vergehen, und ob ihm gleich der Teufel und
+                Recht an dem, ihm mit ſeinem Blut verſchriebenen, Pfande habe. <hi rend="bold">Fauſt</hi> wollte für Angſt und Gram vergehen, und ob ihm gleich der Teufel und
                     <hi rend="bold">Mephiſtophiles</hi> ſelbſt zuredeten, und ihm vorſtelleten, daß
                 ſeine Traurigkeit das Herz nur noch mehr beſchwere, auch ſein eigener Famulus ihm
                 noch einige Hofnung zur Seeligkeit machte, und deswegen insgeheim einen gelehrten
@@ -828,14 +806,12 @@
                 Schickſal ihm jetzt bevorſtehe. Er empfahl ihnen, ſich an ſeinem Beyſpiel zu
                 ſpiegeln, nahm Abſchied, und bat ſie, ſeinen Leib, wo ſie ihn finden würden, zur
                 Erde zu beſtatten. Um Mitternacht erhub ſich ein ſolcher Sturmwind, daß das ganze
-                Haus davon wankete, und ſich niemand im Bette ſicher traute. In <hi rend="bold"
-                    >Fauſt’s</hi> Stube aber hörte man ein gräuliches Ziſchen und Pfeiffen, als ob
+                Haus davon wankete, und ſich niemand im Bette ſicher traute. In <hi rend="bold">Fauſt’s</hi> Stube aber hörte man ein gräuliches Ziſchen und Pfeiffen, als ob
                 lauter Schlangen und Ottern darinn wären, imgleichen ein gewaltiges Schlagen,
                 Stoßen, Hin- und Wiederwerfen, wobey <hi rend="bold">Fauſt</hi> „Zeter und Mordio“
                 ſchrie. Den Morgen darauf ſah man Tiſch, Wände und Bänke mit Blut und Gehirn
                 beſudelt, auf der Erde lagen die Zähne, und der Körper auf einem nahen Miſthaufen
-                zerſchmettert, und an allen Gliedern zerbrochen. Die Gäſte, <hi rend="bold"
-                    >Fauſt’s</hi> [96] letztere Bitte eingedenk, beſtachen den Wirth und Pfarrer,
+                zerſchmettert, und an allen Gliedern zerbrochen. Die Gäſte, <hi rend="bold">Fauſt’s</hi> [96] letztere Bitte eingedenk, beſtachen den Wirth und Pfarrer,
                 und nachdem ſie den Leichnam in eine Leinwand genäht hatten, ließen ſie ihn
                 beerdigen. Allein bey dem Begräbniß erhub ſich ein ſolcher Sturm, daß alle Anweſende
                 gleich muthmaßeten, der Todte müſſe eben nicht die ſeeligſte Fahrt von hinnen

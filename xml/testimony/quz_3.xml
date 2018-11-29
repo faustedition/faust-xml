@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,18 +33,12 @@
                 </head>
                 <head type="editorial">Müller an J. F. Cotta (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-1_end" xml:id="quz_III-1"/>Das
-                    Testament ist eröfnet<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
-                            >1</hi></ref>, ich bin deßen Vollstrecker u. es enthält viel für <hi
-                        rend="letter-spaced">Sie</hi> wichtiges.</p>
-                <p>Kommen Sie doch ja, wie man uns hoffen läßt, zur Ostermeße über Weimar<anchor
-                        xml:id="N2"/><ref target="#F2"><hi rend="sup">2</hi></ref>; dann will ich
+                    Testament ist eröfnet<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi></ref>, ich bin deßen Vollstrecker u. es enthält viel für <hi rend="letter-spaced">Sie</hi> wichtiges.</p>
+                <p>Kommen Sie doch ja, wie man uns hoffen läßt, zur Ostermeße über Weimar<anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">2</hi></ref>; dann will ich
                     Ihnen alles vorlegen; <rs>Faust</rs> u. der 4<hi rend="sup">te</hi> Theil „aus
                     meinem Leben“ sind <hi rend="letter-spaced">ganz</hi> vollendet, das Meiste
-                    übrige, u. mehr als wir ahndeten, ebenfalls<anchor xml:id="N3"/><ref
-                        target="#F3"><hi rend="sup">3</hi></ref>. Die Redaktion ist zwischen Riemer
-                    u. Eckermann vertheilt, aber es ist wenig mehr daran zu thun<anchor xml:id="N4"
-                        /><ref target="#F4"><hi rend="sup">4</hi></ref>.<anchor
-                        xml:id="quz_III-1_end"/></p>
+                    übrige, u. mehr als wir ahndeten, ebenfalls<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup">3</hi></ref>. Die Redaktion ist zwischen Riemer
+                    u. Eckermann vertheilt, aber es ist wenig mehr daran zu thun<anchor xml:id="N4"/><ref target="#F4"><hi rend="sup">4</hi></ref>.<anchor xml:id="quz_III-1_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -62,14 +56,10 @@
                     wünschens- und an<pb n="20" facs="quz_3_0020.jpg"/>nehmenswerth finden
                         muß<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup">1</hi></ref>. Ueber
                     dies Alles wird sich nähere Auskunft geben lassen, sobald nur einigermaßen
-                    ermittelt ist, was sich zunächst zum Druck eignet. Denn außer <hi
-                        rend="letter-spaced"><rs>Faust,</rs></hi> der bis zur Ankunft in Weimar
+                    ermittelt ist, was sich zunächst zum Druck eignet. Denn außer <hi rend="letter-spaced"><rs>Faust,</rs></hi> der bis zur Ankunft in Weimar
                     fortgeführten ausführlichen <hi rend="letter-spaced">Lebensbeschreibung,</hi>
-                    sind auch <hi rend="letter-spaced">Gedichte</hi> und außerdem ins <hi
-                        rend="letter-spaced">Wissenschaftliche</hi> gehörende prosaische <hi
-                        rend="letter-spaced">Aufsätze</hi> vorhanden, die wie gesagt eine Sichtung
-                    u. Prüfung erfordern<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup"
-                        >2</hi></ref>.<anchor xml:id="quz_III-2_end"/></p>
+                    sind auch <hi rend="letter-spaced">Gedichte</hi> und außerdem ins <hi rend="letter-spaced">Wissenschaftliche</hi> gehörende prosaische <hi rend="letter-spaced">Aufsätze</hi> vorhanden, die wie gesagt eine Sichtung
+                    u. Prüfung erfordern<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup">2</hi></ref>.<anchor xml:id="quz_III-2_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -82,8 +72,7 @@
                     Houben I 2, 7 f):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-3_end" xml:id="quz_III-3"/>Die
                         <rs>Abschrift des Fausts</rs> rückt gut vor so daß bereits 24. Bogen
-                    geschrieben sind<anchor xml:id="N7"/><ref target="#F7"><hi rend="sup"
-                        >3</hi></ref>.<anchor xml:id="quz_III-3_end"/></p>
+                    geschrieben sind<anchor xml:id="N7"/><ref target="#F7"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_III-3_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -96,54 +85,42 @@
                     Konzept):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-4_end" xml:id="quz_III-4"/>Für jetzt
                     kommt es auf Erledigung einiger dringenden Vorfragen an, von denen die weitern
-                    Operationen abhängen<anchor xml:id="N8"/><ref target="#F8"><hi rend="sup"
-                        >4</hi></ref>:</p>
+                    Operationen abhängen<anchor xml:id="N8"/><ref target="#F8"><hi rend="sup">4</hi></ref>:</p>
                 <p>1.) Sind Ew. Hochwohlgeboren gemeint, für die nachgelassenen Goetheschen Werke
                     wiederum eine eigne Subscription zu eröffnen?</p>
                 <p>Ich sollte ohnmaßgeblich glauben, daß es an einer blosen Ankündigung genügen
                     würde, um welchen Preiß die Subscribenten auf die ersten 40. Bände nun die
                     folgenden erhalten sollen, und welches dagegen der Ladenpreiß seyn soll; denn an
                     Absatz kann u. wird es ohnehin nicht mangeln.</p>
-                <p>2.) Wollen Sie wiederum Lieferungen zu 5. Bänden machen und <hi
-                        rend="letter-spaced">wann</hi> soll die <hi rend="letter-spaced">erste</hi>
+                <p>2.) Wollen Sie wiederum Lieferungen zu 5. Bänden machen und <hi rend="letter-spaced">wann</hi> soll die <hi rend="letter-spaced">erste</hi>
                     erscheinen?</p>
                 <p>Ich muß im beiderseitigen <pb n="21" facs="quz_3_0021.jpg"/>Interesse wünschen,
                     schon zu Michaelis.</p>
                 <p>Denn die 15—16. Bände, die der zum Druck bestimmte Nachlaß stark seyn möchte,
-                    liegen zum allergrösten Theil bereits ganz druckfertig vor<anchor xml:id="N9"
-                        /><ref target="#F9"><hi rend="sup">1</hi></ref>.</p>
-                <p>3.) Sind Sie mit folgender <rs>Auswahl für die <hi rend="letter-spaced"
-                            >erste</hi> Lieferung</rs> zufrieden<anchor xml:id="N10"/><ref
-                        target="#F10"><hi rend="sup">2</hi></ref>:</p>
+                    liegen zum allergrösten Theil bereits ganz druckfertig vor<anchor xml:id="N9"/><ref target="#F9"><hi rend="sup">1</hi></ref>.</p>
+                <p>3.) Sind Sie mit folgender <rs>Auswahl für die <hi rend="letter-spaced">erste</hi> Lieferung</rs> zufrieden<anchor xml:id="N10"/><ref target="#F10"><hi rend="sup">2</hi></ref>:</p>
                 <p>41<hi rend="sup">r</hi>. Band, zweiter Theil des Faust in 5. Abtheilungen.</p>
-                <p>42<hi rend="sup">r</hi>. Band, a.) Urerstes, nie gedrucktes Manuscript des „<hi
-                        rend="letter-spaced">Gottfried</hi> von Berlichingen“,</p>
+                <p>42<hi rend="sup">r</hi>. Band, a.) Urerstes, nie gedrucktes Manuscript des „<hi rend="letter-spaced">Gottfried</hi> von Berlichingen“,</p>
                 <p>b.) letzte Bearbeitung des <hi rend="letter-spaced">Götz</hi> von Berlichingen
                     für die Bühne.</p>
-                <p>43. Band. Aus meinem Leben 4<hi rend="sup">r</hi>. Band. 1774. 1775<anchor
-                        xml:id="N11"/><ref target="#F11"><hi rend="sup">3</hi></ref>.</p>
+                <p>43. Band. Aus meinem Leben 4<hi rend="sup">r</hi>. Band. 1774. 1775<anchor xml:id="N11"/><ref target="#F11"><hi rend="sup">3</hi></ref>.</p>
                 <pb n="22" facs="quz_3_0022.jpg"/>
                 <p>44. Band und</p>
                 <p>45. Band, einzelne Aufsätze über Kunst und Literatur, sowohl bisher ungedruckte,
                     als aus Kunst und Alterthum entnommene.</p>
                 <p>Für die 2<hi rend="sup">te</hi> Lieferung blieben dann:</p>
                 <p>a.) Schweitzer Reise von 1797. (nie gedruckt.)</p>
-                <p>b.) Damit Verwandtes<anchor xml:id="N12"/><ref target="#F12"><hi rend="sup"
-                            >1</hi></ref>,</p>
+                <p>b.) Damit Verwandtes<anchor xml:id="N12"/><ref target="#F12"><hi rend="sup">1</hi></ref>,</p>
                 <p>c.) Aeltere, ungedruckte Gedichte,</p>
                 <p>d.) neuere und neueste,</p>
                 <p>e.) Recensionen der letztern Jahre in die Wiener und Berliner Jahrbücher
-                        geliefert<anchor xml:id="N13"/><ref target="#F13"><hi rend="sup"
-                        >2</hi></ref>.</p>
+                        geliefert<anchor xml:id="N13"/><ref target="#F13"><hi rend="sup">2</hi></ref>.</p>
                 <p>f.) Fortsetzung der Aufsätze über Kunst u. Literatur wie im 44. und 45.
                     Bande.</p>
                 <p>Sollten Sie es wünschen, so könnte ein und anderes aus der 1<hi rend="sup">n</hi>
                     Lieferung an die 2<hi rend="sup">e</hi> versetzt werden und umgewandt; nur ist
-                    es wesentlich, daß die erste Lieferung mit dem <hi rend="letter-spaced"
-                        >Faust</hi> beginne<anchor xml:id="N14"/><ref target="#F14"><hi rend="sup"
-                            >3</hi></ref>.</p>
-                <p>Alles <hi rend="letter-spaced">Naturwissenschaftliche</hi> bliebe für die 3<hi
-                        rend="sup">te</hi> Lieferung <hi rend="letter-spaced">zusammen,</hi>
+                    es wesentlich, daß die erste Lieferung mit dem <hi rend="letter-spaced">Faust</hi> beginne<anchor xml:id="N14"/><ref target="#F14"><hi rend="sup">3</hi></ref>.</p>
+                <p>Alles <hi rend="letter-spaced">Naturwissenschaftliche</hi> bliebe für die 3<hi rend="sup">te</hi> Lieferung <hi rend="letter-spaced">zusammen,</hi>
                     nämlich:</p>
                 <p>a.) die ganz überarbeitete u. auf 2. Bände reducirte Farbenlehre,</p>
                 <pb n="23" facs="quz_3_0023.jpg"/>
@@ -151,8 +128,7 @@
                 <p>c.) Mineralogie und Geologie,</p>
                 <p>d.) Meteorologie,</p>
                 <p>e.) Naturwissenschaft im Allgemeinen, (von grosem Umfang)</p>
-                <p>Ew. Hochwohlgeboren wird es von selbst einleuchten, daß bei gerade jetzt <hi
-                        rend="letter-spaced">gesteigertem</hi> Interesse des Publicums, es von
+                <p>Ew. Hochwohlgeboren wird es von selbst einleuchten, daß bei gerade jetzt <hi rend="letter-spaced">gesteigertem</hi> Interesse des Publicums, es von
                     Wichtigkeit ist, daß wir aufs baldigste über diese Vorfragen übereinkommen.</p>
                 <p>Ich enthalte mich billig vorerst den Geldpunct zu berühren, da ich, bey dem
                     erprobten Vertrauen in Ihre Denkart und Handlungsweise, überzeugt bin, daß
@@ -166,8 +142,7 @@
                 <head type="editorial">
                     <num type="quz_3">5</num>
                 </head>
-                <head type="editorial">Eckermann an J. F. Cotta (Tewes 281—283; Entwurf)<anchor
-                        xml:id="N15"/><ref target="#F15"><hi rend="sup">1</hi></ref>:</head>
+                <head type="editorial">Eckermann an J. F. Cotta (Tewes 281—283; Entwurf)<anchor xml:id="N15"/><ref target="#F15"><hi rend="sup">1</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-5_end" xml:id="quz_III-5"/>Sehr bald
                     nach Goethes Scheiden und nachdem man sich ein wenig gefaßt hatte und zu einer
                     näheren Durchsicht seiner nachgelassenen literarischen Schätze kam, war es
@@ -182,10 +157,8 @@
                     Meisters würdig wäre. <rs>Der zweyte Theil des Faust in 5. Acten</rs> ist wohl
                     das Bedeutendste. Er ward im July 1831. vollendet, und nachdem Goethe im Laufe
                     des vorigen Winters noch hie und da einige Kleinigkeiten verbessert, <rs>hat er
-                        das Werk für fertig erklärt</rs><anchor xml:id="N16"/><ref target="#F16"><hi
-                            rend="sup">2</hi></ref>. Ich habe nun für den Druck eine Abschrift
-                    machen lassen<anchor xml:id="N17"/><ref target="#F17"><hi rend="sup"
-                        >3</hi></ref>, die auch bereits geheftet daliegt und die ich nun revidire.
+                        das Werk für fertig erklärt</rs><anchor xml:id="N16"/><ref target="#F16"><hi rend="sup">2</hi></ref>. Ich habe nun für den Druck eine Abschrift
+                    machen lassen<anchor xml:id="N17"/><ref target="#F17"><hi rend="sup">3</hi></ref>, die auch bereits geheftet daliegt und die ich nun revidire.
                     Dieser zweyte Theil bildet einen Band von 3. bis 400. Seiten . . . Sodann ist
                     ein 4.<hi rend="sup">r</hi> Theil aus seinem Leben merkwürdig, indem er aus
                     seiner Jugendzeit den letzten Aufenthalt in seiner Heimath in den Jahren 1774
@@ -196,23 +169,18 @@
                     Lili, wodurch das Ganze den Character des Romanes erhält. Auch dieses
                     vortreffliche Werk ist fast ganz vollendet und sind nur hie und da noch einige
                     kleine Incongruitäten ins Gleiche zu bringen, welches ich mit Goethe mündlich
-                        besprochen<anchor xml:id="N18"/><ref target="#F18"><hi rend="sup"
-                        >1</hi></ref> und mein nächstes Geschäft seyn soll<anchor xml:id="N19"/><ref
-                        target="#F19"><hi rend="sup">2</hi></ref>. Da der Verewigte mich zum
-                    Herausgeber seines literarischen Nachlasses ernannt<anchor xml:id="N20"/><ref
-                        target="#F20"><hi rend="sup">3</hi></ref> und mir nicht bloß die Redaction
+                        besprochen<anchor xml:id="N18"/><ref target="#F18"><hi rend="sup">1</hi></ref> und mein nächstes Geschäft seyn soll<anchor xml:id="N19"/><ref target="#F19"><hi rend="sup">2</hi></ref>. Da der Verewigte mich zum
+                    Herausgeber seines literarischen Nachlasses ernannt<anchor xml:id="N20"/><ref target="#F20"><hi rend="sup">3</hi></ref> und mir nicht bloß die Redaction
                     der einzelnen Bände, sondern auch die Bestimmung der Folge derselben übertragen
                         hat<anchor xml:id="N21"/><ref target="#F21"><hi rend="sup">4</hi></ref>, so
                     denke ich den Faust an die Spitze der ersten, und diesen 4.<hi rend="sup">n</hi>
-                    Theil seines Lebens an die Spitze der zweyten Lieferung<anchor xml:id="N22"
-                        /><ref target="#F22"><hi rend="sup">5</hi></ref> zu stellen.</p>
+                    Theil seines Lebens an die Spitze der zweyten Lieferung<anchor xml:id="N22"/><ref target="#F22"><hi rend="sup">5</hi></ref> zu stellen.</p>
                 <p>Es würde zu weit führen wenn ich in diesem Detail von jedem der übrigen Bände des
                     Goetheschen Nachlasses reden wollte und ich will mich beschränken solche nur im
                     allgemeinen nahmhaft zu machen.</p>
                 <p>Es wird also außer dem genannten noch zum Druck redigirt und fertig gemacht
                     werden:</p>
-                <p>1., Das erste Manuscript von Götz von Berlichingen, das <hi rend="letter-spaced"
-                        >Goethe</hi> an <hi rend="letter-spaced">Herder</hi> sandte und noch ganz in
+                <p>1., Das erste Manuscript von Götz von Berlichingen, das <hi rend="letter-spaced">Goethe</hi> an <hi rend="letter-spaced">Herder</hi> sandte und noch ganz in
                     seiner ursprünglichen Gestalt da ist.</p>
                 <p>2., Götz von Berlichingen für die Bühne.</p>
                 <p>3., Ein bis Zwey Bände noch ungedruckter älterer und neuerer Gedichte.</p>
@@ -258,8 +226,7 @@
                 <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 661, 19):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-17_end" xml:id="quz_III-17"/>Ich
                     eile nun auch, verehrter Herr Geheimerath, Ihre Anfrage wegen Absendung der
-                    ersten 5. Bände an Cotta zu beantworten<anchor xml:id="N24"/><ref target="#F24"
-                            ><hi rend="sup">7</hi></ref>.</p>
+                    ersten 5. Bände an Cotta zu beantworten<anchor xml:id="N24"/><ref target="#F24"><hi rend="sup">7</hi></ref>.</p>
                 <p>Es frägt sich ob es gut sey, mit Absendung der ersten 5. Bände so lange zu warten
                     bis alle 5. vollkommen fertig sind?</p>
                 <p>Insofern Cotta vor 2. bis 3. Monathen wegen Anschaffung neuer Lettern und Papier
@@ -272,13 +239,10 @@
                     daß er bey Cotta liege ehe der Druck wirklich beginnt.</p>
                 <p>Sodann könnte alle 14. Tage ein neuer Band nachfolgen.</p>
                 <p>Alles dieses gilt insoweit es <hi rend="letter-spaced">mich</hi> betrifft. Nun
-                    weiß ich aber nicht wie viel Zeit Riemer zur letzten <pb n="37"
-                        facs="quz_3_0037.jpg"/>Durchsicht eines Bandes bedarf, welches mit ihm zu
-                    besprechen wäre<anchor xml:id="N25"/><ref target="#F25"><hi rend="sup"
-                        >1</hi></ref>.</p>
+                    weiß ich aber nicht wie viel Zeit Riemer zur letzten <pb n="37" facs="quz_3_0037.jpg"/>Durchsicht eines Bandes bedarf, welches mit ihm zu
+                    besprechen wäre<anchor xml:id="N25"/><ref target="#F25"><hi rend="sup">1</hi></ref>.</p>
                 <p>Der <rs>Faust, mit dessen letzter Revision ich beschäftigt</rs>, könnte an Riemer
-                    in 5. Tagen gehen<anchor xml:id="N26"/><ref target="#F26"><hi rend="sup"
-                        >2</hi></ref>.<anchor xml:id="quz_III-17_end"/></p>
+                    in 5. Tagen gehen<anchor xml:id="N26"/><ref target="#F26"><hi rend="sup">2</hi></ref>.<anchor xml:id="quz_III-17_end"/></p>
             </div>
             <pb n="40" facs="quz_3_0040.jpg"/>
             <div type="letter">
@@ -289,18 +253,14 @@
                     <num type="quz_3">23</num>
                 </head>
                 <head type="editorial">Riemer an Müller (NFG/GSA, Müller-Nachlaß 669, 10):</head>
-                <p><milestone unit="testimony" spanTo="#quz_III-23_end" xml:id="quz_III-23"
-                        /><rs>Faust ist in meinen Händen</rs>. Flüchtig habe ich ihn durchgelesen,
-                    um nur erst einen Eindruck des Ganzen zu haben<anchor xml:id="N27"/><ref
-                        target="#F27"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-23_end"
-                    /></p>
+                <p><milestone unit="testimony" spanTo="#quz_III-23_end" xml:id="quz_III-23"/><rs>Faust ist in meinen Händen</rs>. Flüchtig habe ich ihn durchgelesen,
+                    um nur erst einen Eindruck des Ganzen zu haben<anchor xml:id="N27"/><ref target="#F27"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-23_end"/></p>
             </div>
             <pb n="58" facs="quz_3_0058.jpg"/>
             <pb n="59" facs="quz_3_0059.jpg"/>
             <div type="diary">
                 <head type="editorial">
-                    <date when="1832-09-20">[20. 9. 1832]<anchor xml:id="N29"/><ref target="#F29"
-                                ><hi rend="sup">4</hi></ref></date>
+                    <date when="1832-09-20">[20. 9. 1832]<anchor xml:id="N29"/><ref target="#F29"><hi rend="sup">4</hi></ref></date>
                 </head>
                 <head type="editorial">
                     <num type="quz_3">44</num>
@@ -308,10 +268,8 @@
                 <head type="editorial">Müller an Eckermann (NFG/GSA, Müller-Nachlaß 665, 40):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-44_end" xml:id="quz_III-44"/>Haben
                     Sie denn die <rs>Conferenz wegen <hi rend="letter-spaced">Faust</hi> mit
-                        Riemer</rs> gehalten? Wo nicht, so ist es <hi rend="letter-spaced"
-                        >unumgänglich</hi> nöthig, daß sie heute noch statt finde, aus Gründen, die
-                    ich mündlich eröfnen werde<anchor xml:id="N30"/><ref target="#F30"><hi
-                            rend="sup">5</hi></ref>.<anchor xml:id="quz_III-44_end"/></p>
+                        Riemer</rs> gehalten? Wo nicht, so ist es <hi rend="letter-spaced">unumgänglich</hi> nöthig, daß sie heute noch statt finde, aus Gründen, die
+                    ich mündlich eröfnen werde<anchor xml:id="N30"/><ref target="#F30"><hi rend="sup">5</hi></ref>.<anchor xml:id="quz_III-44_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -322,9 +280,7 @@
                 </head>
                 <head type="editorial">Riemers Tagebuch (Pollmer 34):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-45_end" xml:id="quz_III-45"/>Bei Dr.
-                    Eckermann, <rs>den Faust noch revidiert und abgeschlossen</rs><anchor
-                        xml:id="N31"/><ref target="#F31"><hi rend="sup">6</hi></ref>.<anchor
-                        xml:id="quz_III-45_end"/></p>
+                    Eckermann, <rs>den Faust noch revidiert und abgeschlossen</rs><anchor xml:id="N31"/><ref target="#F31"><hi rend="sup">6</hi></ref>.<anchor xml:id="quz_III-45_end"/></p>
             </div>
             <pb n="62" facs="quz_3_0062-0063.jpg"/>
             <div type="letter">
@@ -338,22 +294,17 @@
                     auch Düntzer I 451 und Houben I 2, 27 f):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-47_end" xml:id="quz_III-47"/>Hier
                     mein bester Hofrath schicke ich Ihnen den <rs>Faust besprochenermaßen
-                        ausgeputzt</rs>; die Stelle vom Asmodäus<anchor xml:id="N32"/><ref
-                        target="#F32"><hi rend="sup">1</hi></ref> habe ich nicht finden können.</p>
-                <p>Ich habe statt July, vollendet im Sommer<anchor xml:id="N33"/><ref target="#F33"
-                            ><hi rend="sup">2</hi></ref> geschrieben weil das doch im Grunde auch
+                        ausgeputzt</rs>; die Stelle vom Asmodäus<anchor xml:id="N32"/><ref target="#F32"><hi rend="sup">1</hi></ref> habe ich nicht finden können.</p>
+                <p>Ich habe statt July, vollendet im Sommer<anchor xml:id="N33"/><ref target="#F33"><hi rend="sup">2</hi></ref> geschrieben weil das doch im Grunde auch
                     richtig ist und es auf so genaue Bestimmungen nicht ankommt.</p>
                 <lg rend="indented">
                     <l>Mein Auge war auf’s hohe Meer gezogen</l>
                     <l>Es schwoll empor, pp.</l>
                 </lg>
-                <p>Vielleicht hat Herr Geh. R. v. Müller gedacht man könne verleitet werden das <hi
-                        rend="letter-spaced">Es</hi> auf <hi rend="letter-spaced">Auge</hi> zu
+                <p>Vielleicht hat Herr Geh. R. v. Müller gedacht man könne verleitet werden das <hi rend="letter-spaced">Es</hi> auf <hi rend="letter-spaced">Auge</hi> zu
                     beziehen, weshalb denn das vorgeschlagene Das (wenn sonst dadurch gegen kein
-                    gram: Gesetz verstoßen würde) vorzuziehen seyn möchte. Welches alles Ihrer <pb
-                        n="63" facs="quz_3_0062-0063.jpg"/>alleinigen Entscheidung anheim gestellt
-                    seyn soll<anchor xml:id="N34"/><ref target="#F34"><hi rend="sup"
-                    >1</hi></ref>.</p>
+                    gram: Gesetz verstoßen würde) vorzuziehen seyn möchte. Welches alles Ihrer <pb n="63" facs="quz_3_0062-0063.jpg"/>alleinigen Entscheidung anheim gestellt
+                    seyn soll<anchor xml:id="N34"/><ref target="#F34"><hi rend="sup">1</hi></ref>.</p>
                 <p>Ich habe bis jetzt in einem fort daran gearbeitet und mich im Aufsuchen der
                     manchen Fehler fast blind geguckt. Wenn man Zeit hätte, man fände noch
                         was.<anchor xml:id="quz_III-47_end"/></p>
@@ -373,10 +324,8 @@
                 <head type="editorial">Riemer an Müller (NFG/GSA, Müller-Nachlaß 369, 87):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-48_end" xml:id="quz_III-48"/>Endlich
                     auch <rs><hi rend="letter-spaced">der Faust</hi> wie wir ihn gemeinschaftlich
-                        Eckermann und ich durchgegangen sind</rs><anchor xml:id="N36"/><ref
-                        target="#F36"><hi rend="sup">3</hi></ref>. Von Ihren Erinnerungen haben wir,
-                    wo sie uns überzeugten, Gebrauch gemacht<anchor xml:id="N37"/><ref target="#F37"
-                            ><hi rend="sup">4</hi></ref>. Einiges hätten Sie selbst bey genauerer
+                        Eckermann und ich durchgegangen sind</rs><anchor xml:id="N36"/><ref target="#F36"><hi rend="sup">3</hi></ref>. Von Ihren Erinnerungen haben wir,
+                    wo sie uns überzeugten, Gebrauch gemacht<anchor xml:id="N37"/><ref target="#F37"><hi rend="sup">4</hi></ref>. Einiges hätten Sie selbst bey genauerer
                     Ansicht zurückgenommen als gegen Sinn und Absicht des Verfassers. Der
                     desiderirte Reim war nur übersehen.</p>
                 <p>Kleinigkeiten, als <hi rend="letter-spaced">Apostrophe</hi> mag es wohl noch zu
@@ -387,8 +336,7 @@
                     man wird gleich von der Sache hingerissen.</p>
                 <p>Sollte also der Druck gleich beginnen können, so möchte das M[anu]sc[ri]pt für
                     abgeschlossen gelten; wo nicht, so wäre ein nochmaliger Durchblick wohl zu
-                        wünschen<anchor xml:id="N38"/><ref target="#F38"><hi rend="sup"
-                        >5</hi></ref>.<anchor xml:id="quz_III-48_end"/></p>
+                        wünschen<anchor xml:id="N38"/><ref target="#F38"><hi rend="sup">5</hi></ref>.<anchor xml:id="quz_III-48_end"/></p>
             </div>
             <div type="diary">
                 <head type="editorial">
@@ -401,8 +349,7 @@
                     601):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-49_end" xml:id="quz_III-49"/>Zu
                     Cotta . . . Vorläufige <rs>Besprechung über Goethesche
-                        Angelegenheiten</rs><anchor xml:id="N39"/><ref target="#F39"><hi rend="sup"
-                            >6</hi></ref>.<anchor xml:id="quz_III-49_end"/></p>
+                        Angelegenheiten</rs><anchor xml:id="N39"/><ref target="#F39"><hi rend="sup">6</hi></ref>.<anchor xml:id="quz_III-49_end"/></p>
             </div>
             <pb n="64" facs="quz_3_0064.jpg"/>
             <div type="diary">
@@ -416,19 +363,15 @@
                     Müller-Nachlaß 661, 43):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-50_end" xml:id="quz_III-50"/>Von den
                     v: Goethe’schen TestamentsVollstreckern durch Herrn Geheimen Rath von Müller,
-                    einen <rs>Theil des Manuscripts zum 1<hi rend="sup">n</hi>. Band<anchor
-                            xml:id="N40"/><ref target="#F40"><hi rend="sup">1</hi></ref> des
+                    einen <rs>Theil des Manuscripts zum 1<hi rend="sup">n</hi>. Band<anchor xml:id="N40"/><ref target="#F40"><hi rend="sup">1</hi></ref> des
                         Nachlaßes</rs> von Goethe’s sämtlichen Werken, nämlich:</p>
                 <p>Faust, 2<hi rend="sup">r</hi>. Theil, und</p>
                 <p>Gottfried von Berlichingen</p>
-                <p>mit dem Versprechen erhalten, daß der Rest zu diesem Band<anchor xml:id="N41"
-                        /><ref target="#F41"><hi rend="sup">2</hi></ref> in Bälde nachfolgen
+                <p>mit dem Versprechen erhalten, daß der Rest zu diesem Band<anchor xml:id="N41"/><ref target="#F41"><hi rend="sup">2</hi></ref> in Bälde nachfolgen
                     werde.</p>
                 <p>Die laut Contract zur Leipziger Michaelis Meße dafür zu bezalende Rh. 3500.—
-                        sächsisch,<anchor xml:id="N42"/><ref target="#F42"><hi rend="sup"
-                        >3</hi></ref> sind auf die Ordre des Herrn Geheimen Raths von Müller bei
-                    Herren Frege &amp; Comp: in Leipzig angewiesen . . .<anchor
-                        xml:id="quz_III-50_end"/></p>
+                        sächsisch,<anchor xml:id="N42"/><ref target="#F42"><hi rend="sup">3</hi></ref> sind auf die Ordre des Herrn Geheimen Raths von Müller bei
+                    Herren Frege &amp; Comp: in Leipzig angewiesen . . .<anchor xml:id="quz_III-50_end"/></p>
             </div>
             <pb n="65" facs="quz_3_0065.jpg"/>
             <div type="letter">
@@ -439,27 +382,23 @@
                     <num type="quz_3">52</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an Müller (NFG/GSA, Müller-Nachlaß 663,
-                        1)<anchor xml:id="N43"/><ref target="#F43"><hi rend="sup"
-                    >4</hi></ref>:</head>
+                        1)<anchor xml:id="N43"/><ref target="#F43"><hi rend="sup">4</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-52_end" xml:id="quz_III-52"/>Ew.
                     Hochwohlgeboren</p>
-                <p>Verehrte Zuschrift vom 6. October kam mir richtig zu<anchor xml:id="N44"/><ref
-                        target="#F44"><hi rend="sup">5</hi></ref>, ebenso auch von Herrn Baron v.
+                <p>Verehrte Zuschrift vom 6. October kam mir richtig zu<anchor xml:id="N44"/><ref target="#F44"><hi rend="sup">5</hi></ref>, ebenso auch von Herrn Baron v.
                     Cotta das Manuscript des II Bandes des Nachlasses der Goethe’schen Werke, Götz
                     von Berlichingen enthaltend. Von diesem ist nun ein Bogen No. 1 und 2 gesezt.
                     Man beobachtete Dero Ordre in Hinsicht des Manuscripts, sich ganz daran zu
                     halten, stieß nun aber bei der Correctur auf mancherlei Anstände, welche
                     Dieselben auf der Anlage verzeichnet finden. Ich sandte nun dieses Verzeichniß
-                    am 12. Herrn Baron v. Cotta nach München, und erhalte es heute zurück<anchor
-                        xml:id="N45"/><ref target="#F45"><hi rend="sup">6</hi></ref>. Es schreibt
+                    am 12. Herrn Baron v. Cotta nach München, und erhalte es heute zurück<anchor xml:id="N45"/><ref target="#F45"><hi rend="sup">6</hi></ref>. Es schreibt
                     mir derselbe, daß es nöthig sey, Ew. Hochwohlgeboren mit den Inconsequenzen des
                     Manuscripts bekannt zu machen, und Ihre Ordre zu erbitten ob es nicht das
                     Gerathenste sey, hinsichtlich der Orthographie ganz sich an die früheren Bände
                     zu halten, welche Orthographie unser Corrector noch recht gut im Kopfe hat.</p>
                 <p>Belieben Ew. Hochwohlgeboren nun das Verzeichniß und den gedruckten Bogen
                     durchzugehen, und das Nöthige zu arrangiren. Doch bitte ich auch um baldigste
-                    geneigte Antwort, und Rücksendung der Revision<anchor xml:id="N46"/><ref
-                        target="#F46"><hi rend="sup">7</hi></ref>.</p>
+                    geneigte Antwort, und Rücksendung der Revision<anchor xml:id="N46"/><ref target="#F46"><hi rend="sup">7</hi></ref>.</p>
                 <p>Was ich für mein Theil auch <pb n="66" facs="quz_3_0066.jpg"/>für das fernere
                     Fortgehen des Drucks in Hinsicht der Correctur und des Drucks thun kann
                     geschieht gewiß.</p>
@@ -467,8 +406,7 @@
                     Augenblick in Händen. Nach Empfang werde ich Dero Anordnungen erst besser
                     verstehen können.</p>
                 <p>Dieser II Band Berlichingen, wird, wie ich rechne, nicht mehr als 16 Bogen
-                        werden<anchor xml:id="N47"/><ref target="#F47"><hi rend="sup"
-                        >1</hi></ref>.<anchor xml:id="quz_III-52_end"/></p>
+                        werden<anchor xml:id="N47"/><ref target="#F47"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-52_end"/></p>
             </div>
             <pb n="71" facs="quz_3_0071.jpg"/>
             <div type="letter">
@@ -480,26 +418,22 @@
                 </head>
                 <head type="editorial">Müller an J. F. Cotta (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-61_end" xml:id="quz_III-61"/>1., Bey
-                    meiner Heimkehr<anchor xml:id="N48"/><ref target="#F48"><hi rend="sup"
-                        >2</hi></ref> fand ich daß leider die ausführliche Ankündigung von Goethes
+                    meiner Heimkehr<anchor xml:id="N48"/><ref target="#F48"><hi rend="sup">2</hi></ref> fand ich daß leider die ausführliche Ankündigung von Goethes
                     nachgelaßenen Werken den Buchhandlungen in Frankfurth und Jena, namentlich auch
                     Frommann, noch nicht zugekommen ist . . .</p>
                 <p>4., Die kleinen Anstände, die mir Reichel wegen des Manuscripts Gottfried von
                     Berlichingen gemeldet, habe ich sofort <hi rend="letter-spaced">erschöpfend</hi>
-                    u. mit umlaufender Post gehoben<anchor xml:id="N49"/><ref target="#F49"><hi
-                            rend="sup">3</hi></ref>. Das Manuscript</p>
+                    u. mit umlaufender Post gehoben<anchor xml:id="N49"/><ref target="#F49"><hi rend="sup">3</hi></ref>. Das Manuscript</p>
                 <p>5., zu „Götz von Berlichingen für die Weimarische Bühne, bearbeitet“ geht mit
                     heutiger Fahrpost an Ihre Handlung zu Stuttgardt ab.</p>
                 <p>Soll ich das Manuscript zum 3<hi rend="sup">n</hi>—5<hi rend="sup">n</hi>. Band
                     ebenfalls <hi rend="letter-spaced">dahin,</hi> oder unmittelbar an Reichel
-                        addreßiren<anchor xml:id="N50"/><ref target="#F50"><hi rend="sup"
-                        >4</hi></ref>?</p>
+                        addreßiren<anchor xml:id="N50"/><ref target="#F50"><hi rend="sup">4</hi></ref>?</p>
                 <p>6., Der versprochene <rs>Prolog zum Faust</rs> folgt hier anschlüßig, und wird
                     Sie, wie ich hoffe, contentiren. Er ist mir wie eine wahre Eingebung von Oben
                     gekommen. Ich verlange Nichts dafür, sondern werde mich höchlich freuen, wenn
                     man findet, daß dadurch eine paßende Ouverture zu dem unschäzbaren Werke
-                    geliefert ist<anchor xml:id="N51"/><ref target="#F51"><hi rend="sup"
-                        >5</hi></ref>.<anchor xml:id="quz_III-61_end"/></p>
+                    geliefert ist<anchor xml:id="N51"/><ref target="#F51"><hi rend="sup">5</hi></ref>.<anchor xml:id="quz_III-61_end"/></p>
                 <pb n="72" facs="quz_3_0072.jpg"/>
                 <pb n="73" facs="quz_3_0073.jpg"/>
             </div>
@@ -512,28 +446,20 @@
                     <num type="quz_3">64</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an Müller (NFG/GSA, Müller-Nachlaß 663,
-                        2)<anchor xml:id="N52"/><ref target="#F52"><hi rend="sup"
-                    >1</hi></ref>:</head>
+                        2)<anchor xml:id="N52"/><ref target="#F52"><hi rend="sup">1</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-64_end" xml:id="quz_III-64"/>Ew.
                     Hochwohlgeboren</p>
                 <p>habe ich die Ehre beifolgend 2 Aushängebogen von denen Bogen 1 u. 2. des 42sten
                     Bandes, der heute in die Presse kam, zu übersenden. Ich <rs>beginne jezt auch
                         den Faust zu setzen</rs>; ich komme aber nicht recht aus Dero Schreiben von
-                    Stuttgart aus<anchor xml:id="N53"/><ref target="#F53"><hi rend="sup"
-                        >2</hi></ref>, nämlich:</p>
-                <p>Es kommen 2 Titel<anchor xml:id="N54"/><ref target="#F54"><hi rend="sup"
-                        >3</hi></ref>, (der eine als nachgelassene Werke der andere, als 41ster
-                    Band); dann kommen 4 Seiten Vorrede<anchor xml:id="N55"/><ref target="#F55"><hi
-                            rend="sup">4</hi></ref> welche die 15 Bände angehet; dann kommt das
+                    Stuttgart aus<anchor xml:id="N53"/><ref target="#F53"><hi rend="sup">2</hi></ref>, nämlich:</p>
+                <p>Es kommen 2 Titel<anchor xml:id="N54"/><ref target="#F54"><hi rend="sup">3</hi></ref>, (der eine als nachgelassene Werke der andere, als 41ster
+                    Band); dann kommen 4 Seiten Vorrede<anchor xml:id="N55"/><ref target="#F55"><hi rend="sup">4</hi></ref> welche die 15 Bände angehet; dann kommt das
                     Inhaltsblatt <hi rend="letter-spaced">des Bandes</hi>. (Dieses soll auf dem
-                    M[anu]s[crip]t des Faust stehen, steht aber nicht darauf.) Alles dieses soll <hi
-                        rend="letter-spaced">keine</hi> oder doch <hi rend="letter-spaced"
-                        >römische</hi> Pagina erhalten.</p>
-                <p>Ferner wollen Sie senden den Prolog<anchor xml:id="N56"/><ref target="#F56"><hi
-                            rend="sup">5</hi></ref>, und sagen die erste Pagina im Druck werde 12
+                    M[anu]s[crip]t des Faust stehen, steht aber nicht darauf.) Alles dieses soll <hi rend="letter-spaced">keine</hi> oder doch <hi rend="letter-spaced">römische</hi> Pagina erhalten.</p>
+                <p>Ferner wollen Sie senden den Prolog<anchor xml:id="N56"/><ref target="#F56"><hi rend="sup">5</hi></ref>, und sagen die erste Pagina im Druck werde 12
                     seyn. Nach den aufgezählten Seiten kann sie aber nur 10 seyn.</p>
-                <p>Nach meiner Meinung sollte die Vorrede nach dem Titel <hi rend="letter-spaced"
-                        >Nachgelassene Werke</hi> kommen, nach ihr der Titel 41ster Band, dann das
+                <p>Nach meiner Meinung sollte die Vorrede nach dem Titel <hi rend="letter-spaced">Nachgelassene Werke</hi> kommen, nach ihr der Titel 41ster Band, dann das
                     Inhaltsblatt des 41sten Bandes, dann der Prolog, mit voran den Titelblättchen:
                     Den Manen Goethes, dann das Titelblatt von Faust.</p>
                 <p>Die Vorrede, die 2 Titel und das Inhaltsblatt haben Zeit bis an das Ende des
@@ -550,30 +476,25 @@
                     beginnen. Hieraus folgt nun, daß mir der Prolog bälder nöthig ist, wie die
                     Vorrede; denn ich kann zwar den Satz jezt beginnen, wenn aber 26 Seiten gesezt
                     sind, so sind die 6 ersten vornen hin nothwendig.</p>
-                <p>Aus No. I. nun ergiebt sich, daß es 10 Seiten sind, die <hi rend="letter-spaced"
-                        >keine</hi> oder <hi rend="letter-spaced">römische</hi> Pagina erhalten
+                <p>Aus No. I. nun ergiebt sich, daß es 10 Seiten sind, die <hi rend="letter-spaced">keine</hi> oder <hi rend="letter-spaced">römische</hi> Pagina erhalten
                     sollen, und daß beim Binden diese 10 Seiten an Bog. 1. des deutsch (arabisch)
                     Paginirten anschließen, wie No. II gleichfalls zeigt. Es wäre daher fast
-                    vorzuschlagen, diese 6 Seiten von No. II jezt beim Beginn <hi
-                        rend="letter-spaced">auch wegzulassen</hi> und dann aus denen 10 und denen 6
+                    vorzuschlagen, diese 6 Seiten von No. II jezt beim Beginn <hi rend="letter-spaced">auch wegzulassen</hi> und dann aus denen 10 und denen 6
                     einen Bogen zu machen, wo dann der Buchbinder nichts abzuschneiden, und nichts
-                    einzukleben hat, wie das nothwendig geschehen muß, wenn am <hi
-                        rend="letter-spaced">lezten Bogen</hi> 10 Seiten angeschossen sind. Alsdann
+                    einzukleben hat, wie das nothwendig geschehen muß, wenn am <hi rend="letter-spaced">lezten Bogen</hi> 10 Seiten angeschossen sind. Alsdann
                     begänne ich jezt mit dem Bogen 1 den Faust, 2te Seite leer, 3te Seite: Erster
                     Akt, 4te Seite erhält dann die Pagina 4. Ich stelle daher diesen Gegenstand Ew.
                     Hochwohlgeboren anheim, indem ich glaube, wenn man die Vorrede zwischen die 2
                     Titel hineinbringt, alle diese 16 Seiten gar keine Pagina oder eine römische
                     erhalten können; und bestimmte ich lieber für die 10 Seiten gar keine, und für
-                    die 6 Seiten eine römische<anchor xml:id="N58"/><ref target="#F58"><hi
-                            rend="sup">2</hi></ref> . . . <hi rend="italic">Nachschrift:</hi> Noch
+                    die 6 Seiten eine römische<anchor xml:id="N58"/><ref target="#F58"><hi rend="sup">2</hi></ref> . . . <hi rend="italic">Nachschrift:</hi> Noch
                     Eine Frage:</p>
                 <p>Das Mst hat bald Mephistopheles</p>
                 <p>bald Meph.</p>
                 <p>bald Mephist.</p>
                 <p>oder auch Mephistoph.</p>
                 <p>Ich denke, man druckt den Namen stets <hi rend="letter-spaced">ganz</hi> aus; wie
-                    es im Faust 1 Theil auch ist<anchor xml:id="N59"/><ref target="#F59"><hi
-                            rend="sup">3</hi></ref>.<anchor xml:id="quz_III-64_end"/></p>
+                    es im Faust 1 Theil auch ist<anchor xml:id="N59"/><ref target="#F59"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_III-64_end"/></p>
             </div>
             <pb n="78" facs="quz_3_0078.jpg"/>
             <div type="letter">
@@ -584,20 +505,16 @@
                     <num type="quz_3">67</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an Müller (NFG/GSA, Müller-Nachlaß 663,
-                        3)<anchor xml:id="N60"/><ref target="#F60"><hi rend="sup"
-                    >1</hi></ref>:</head>
+                        3)<anchor xml:id="N60"/><ref target="#F60"><hi rend="sup">1</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-67_end" xml:id="quz_III-67"/>Ew.
                     Hochwohlgeboren</p>
                 <p>wollen gütigst entschuldigen, daß ich bei meinem Jüngsten vergaß Ihre Verehrte
-                    Zuschrift beizulegen, wie doch mein Brief besagte<anchor xml:id="N61"/><ref
-                        target="#F61"><hi rend="sup">2</hi></ref>. Sie folgt nun <hi
-                        rend="letter-spaced">hiebei,</hi> mit denen Bogen 3 und 4 von der Geschichte
+                    Zuschrift beizulegen, wie doch mein Brief besagte<anchor xml:id="N61"/><ref target="#F61"><hi rend="sup">2</hi></ref>. Sie folgt nun <hi rend="letter-spaced">hiebei,</hi> mit denen Bogen 3 und 4 von der Geschichte
                     Gottfrieds von Berlichingen.</p>
                 <p>Diese ist bereits ausgesezt, und hat 14 Bogen und 2 Seiten gegeben. Sehnlichst
                     erwarte ich daher den Götz von Berlichingen für die Weimarische Bühne
                     bearbeitet, den Ew. Hochwohlgeboren mir in den nächsten Tagen unterm 18 October
-                    bereits zu senden versprachen, und um welchen ich dringend bitte<anchor
-                        xml:id="N62"/><ref target="#F62"><hi rend="sup">3</hi></ref>. Der <rs>Faust
+                    bereits zu senden versprachen, und um welchen ich dringend bitte<anchor xml:id="N62"/><ref target="#F62"><hi rend="sup">3</hi></ref>. Der <rs>Faust
                         hat zu setzen bereits begonnen</rs>.<anchor xml:id="quz_III-67_end"/></p>
             </div>
             <div type="letter">
@@ -609,8 +526,7 @@
                 </head>
                 <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 666, 3b):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-68_end" xml:id="quz_III-68"/>Ich
-                    freue mich, verehrter Herr Geheimerath, der gesendeten Aushängebogen<anchor
-                        xml:id="N63"/><ref target="#F63"><hi rend="sup">4</hi></ref>, ich habe sie
+                    freue mich, verehrter Herr Geheimerath, der gesendeten Aushängebogen<anchor xml:id="N63"/><ref target="#F63"><hi rend="sup">4</hi></ref>, ich habe sie
                     flüchtig durchlaufen und finde nichts zu erinnern, es ist alles correct und
                     hübsch und das alte Manuscript macht sich in diesem neuen Kleide sehr gut.
                     Besonders freue ich mich an der Interpunction, woran ich einen besonderen Fleiß
@@ -618,23 +534,17 @@
                     Früchte meiner Mühe. Ich hoffe doch es wird eine hübsche Ausgabe womit wir Ehre
                     einlegen.</p>
                 <p>Ich bin noch ganz in der Schweizerreise vertieft, doch schon weit über die Hälfte
-                    fertig, und fange an freyer zu athmen. Es war eine schwere Aufgabe<anchor
-                        xml:id="N64"/><ref target="#F64"><hi rend="sup">5</hi></ref>, so daß ich
+                    fertig, und fange an freyer zu athmen. Es war eine schwere Aufgabe<anchor xml:id="N64"/><ref target="#F64"><hi rend="sup">5</hi></ref>, so daß ich
                     zuweilen verzweifelte, doch ich sehe nun daß einiges Geschick hineinkommt und
                     daß es ein lesliches Buch wird.</p>
                 <p><rs>Wegen Faust</rs> haben Sie ganz Recht es muß allerdings der <rs>specielle
-                        Titel</rs> bleiben und ich begreife kaum wie Reichel zweifeln kann<anchor
-                        xml:id="N65"/><ref target="#F65"><hi rend="sup">6</hi></ref>.</p>
-                <p>Die Vorrede mit dem Prolog<anchor xml:id="N66"/><ref target="#F66"><hi rend="sup"
-                            >7</hi></ref> können allerdings zuletzt gedruckt werden; und zwar noch
-                    vortheilhafter da man noch nicht weiß wie viel Papier am <hi
-                        rend="letter-spaced">letzten</hi> Bogen übrigbleibt, das dazu mit benutzt
-                    werden kann. Auf jeden Fall ist wohl anzunehmen daß <pb n="79"
-                        facs="quz_3_0079.jpg"/>Prolog, Vorrede und Titelblätter einen ganzen Bogen
+                        Titel</rs> bleiben und ich begreife kaum wie Reichel zweifeln kann<anchor xml:id="N65"/><ref target="#F65"><hi rend="sup">6</hi></ref>.</p>
+                <p>Die Vorrede mit dem Prolog<anchor xml:id="N66"/><ref target="#F66"><hi rend="sup">7</hi></ref> können allerdings zuletzt gedruckt werden; und zwar noch
+                    vortheilhafter da man noch nicht weiß wie viel Papier am <hi rend="letter-spaced">letzten</hi> Bogen übrigbleibt, das dazu mit benutzt
+                    werden kann. Auf jeden Fall ist wohl anzunehmen daß <pb n="79" facs="quz_3_0079.jpg"/>Prolog, Vorrede und Titelblätter einen ganzen Bogen
                     füllen werden. Um etwas ordentliches Freysinniges zu sagen kann ich mich nicht
                     gut auf wenige Seiten fassen. Ich habe sie schon ziemlich im Kopfe und hoffe sie
-                    in diesen Tagen zu Papier zu bringen und Ihnen vorzulegen.<anchor
-                        xml:id="quz_III-68_end"/></p>
+                    in diesen Tagen zu Papier zu bringen und Ihnen vorzulegen.<anchor xml:id="quz_III-68_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -650,18 +560,12 @@
                 <p>aufmerksame Fürsorge bestens verdankend, eile ich Ihre Zuschrift vom 24.
                         d[ieses]<anchor xml:id="N67"/><ref target="#F67"><hi rend="sup">1</hi></ref>
                     sofort zu beantworten. Inzwischen werden Sie den <rs>Prolog zum Faust</rs>, den
-                    ich heute vor 8 Tagen an Herrn von Cotta sandte<anchor xml:id="N68"/><ref
-                        target="#F68"><hi rend="sup">2</hi></ref>, schon erhalten haben . . . Da die
+                    ich heute vor 8 Tagen an Herrn von Cotta sandte<anchor xml:id="N68"/><ref target="#F68"><hi rend="sup">2</hi></ref>, schon erhalten haben . . . Da die
                     Vorrede von D. Eckermann noch nicht fertig und wie es scheint etwas länger
-                    werden dürfte als ich anfangs dachte<anchor xml:id="N69"/><ref target="#F69"><hi
-                            rend="sup">3</hi></ref>, so ist es wohl am besten, wenn die beiden
-                        Titelblätter<anchor xml:id="N70"/><ref target="#F70"><hi rend="sup"
-                        >4</hi></ref> sammt der InhaltsAnzeige mit der Vorrede zusammen <hi
-                        rend="letter-spaced">vorerst</hi> unberücksichtigt bleiben und seiner Zeit
+                    werden dürfte als ich anfangs dachte<anchor xml:id="N69"/><ref target="#F69"><hi rend="sup">3</hi></ref>, so ist es wohl am besten, wenn die beiden
+                        Titelblätter<anchor xml:id="N70"/><ref target="#F70"><hi rend="sup">4</hi></ref> sammt der InhaltsAnzeige mit der Vorrede zusammen <hi rend="letter-spaced">vorerst</hi> unberücksichtigt bleiben und seiner Zeit
                     in der Art auf Einen Bogen gebracht werden, wie die Anlage N. I. zeigt. Wir
-                    erhalten dadurch den Vortheil nicht genirt zu seyn, wenn die Vorrede etwas <hi
-                        rend="letter-spaced">länger</hi> ausfällt; wird sie wider Vermuthen <hi
-                        rend="letter-spaced">kürzer,</hi> so kann durch öftere Ausgänge oder etwas
+                    erhalten dadurch den Vortheil nicht genirt zu seyn, wenn die Vorrede etwas <hi rend="letter-spaced">länger</hi> ausfällt; wird sie wider Vermuthen <hi rend="letter-spaced">kürzer,</hi> so kann durch öftere Ausgänge oder etwas
                     weitläuftigern Druck leicht geholfen werden, so daß höchstens die letzte Seite
                     leer bliebe. Dabey, daß die Vorrede etwas größere Lettern (nur um einen Grad)
                     bekomme, oder wenigstens, wenn sie auch die gewöhnliche ProsaSchrift behielte,
@@ -669,14 +573,11 @@
                 <p>Ob Sie ihr römische Seitenzahlen oder gar keine geben wollen, hänge von Ihrer
                     Wahl ab.</p>
                 <p><hi rend="letter-spaced">Prolog und Anfang des Stücks können aber nun gleich
-                        gesetzt werden,</hi> wie die Anlage N. II. ergiebt<anchor xml:id="N71"/><ref
-                        target="#F71"><hi rend="sup">5</hi></ref> . . . Ganz einverstanden bin ich,
+                        gesetzt werden,</hi> wie die Anlage N. II. ergiebt<anchor xml:id="N71"/><ref target="#F71"><hi rend="sup">5</hi></ref> . . . Ganz einverstanden bin ich,
                     daß durchweg Mephistofoles gesetzt werde.</p>
                 <p>Daß der zweite Titel: 41. Band, erst <hi rend="letter-spaced">hinter</hi> der
-                    Vorrede komme, will uns nicht recht gefallen; besser gleich hinter dem 1<hi
-                        rend="sup">n</hi> Titel . . . Da an den 2 ersten Bogen des Gottfr[ied] v.
-                    B[erlichingen] gar nichts zu erinnern ist<anchor xml:id="N72"/><ref
-                        target="#F72"><hi rend="sup">6</hi></ref>, so habe ich darüber auch weiter
+                    Vorrede komme, will uns nicht recht gefallen; besser gleich hinter dem 1<hi rend="sup">n</hi> Titel . . . Da an den 2 ersten Bogen des Gottfr[ied] v.
+                    B[erlichingen] gar nichts zu erinnern ist<anchor xml:id="N72"/><ref target="#F72"><hi rend="sup">6</hi></ref>, so habe ich darüber auch weiter
                     nichts zu sagen.<anchor xml:id="quz_III-69_end"/></p>
             </div>
             <pb n="81" facs="quz_3_0081.jpg"/>
@@ -692,19 +593,12 @@
                     Herr Geh. Hofrath hatten noch nicht die Güte in Betreff des Druckes von Goethe
                     T[aschen]A[usgabe] etwas zu erwidern auf das, was ich Ihnen schrieb wegen des
                     Fertigwerdens; besonders auch wegen der Octav-Ausgabe (die ich bereits auch
-                    begonnen habe<anchor xml:id="N73"/><ref target="#F73"><hi rend="sup"
-                        >5</hi></ref>), fragte ich, ob das Extra-Manuscript (d. h. ein abermaliges
+                    begonnen habe<anchor xml:id="N73"/><ref target="#F73"><hi rend="sup">5</hi></ref>), fragte ich, ob das Extra-Manuscript (d. h. ein abermaliges
                     durchgesehenes Exemplar der T.A.) mir von Weimar aus zukomme wie es mit denen 40
-                    Bändchen der Fall war<anchor xml:id="N74"/><ref target="#F74"><hi rend="sup"
-                            >6</hi></ref>.</p>
+                    Bändchen der Fall war<anchor xml:id="N74"/><ref target="#F74"><hi rend="sup">6</hi></ref>.</p>
                 <p>Das <rs>Manuscript von Faust</rs> wird zurück verlangt. Ich sende selbiges im
-                    nächsten Postpaket<anchor xml:id="N75"/><ref target="#F75"><hi rend="sup"
-                        >7</hi></ref>. Am zweiten Doppelbogen wird indeß <pb n="82"
-                        facs="quz_3_0082.jpg"/>gesezt, und es mangelte mir nur das vorne hin noch
-                    kommen Sollende, nämlich der Prolog, mit der Aufschrift: <hi
-                        rend="letter-spaced">Den Manen Goethes</hi><anchor xml:id="N76"/><ref
-                        target="#F76"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-73_end"
-                    /></p>
+                    nächsten Postpaket<anchor xml:id="N75"/><ref target="#F75"><hi rend="sup">7</hi></ref>. Am zweiten Doppelbogen wird indeß <pb n="82" facs="quz_3_0082.jpg"/>gesezt, und es mangelte mir nur das vorne hin noch
+                    kommen Sollende, nämlich der Prolog, mit der Aufschrift: <hi rend="letter-spaced">Den Manen Goethes</hi><anchor xml:id="N76"/><ref target="#F76"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-73_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -714,12 +608,9 @@
                     <num type="quz_3">74</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an J. F. Cotta (SNM/CA):</head>
-                <p><milestone unit="testimony" spanTo="#quz_III-74_end" xml:id="quz_III-74"
-                        /><rs>Faust</rs> sende ich übermorgen im Postpaket<anchor xml:id="N77"/><ref
-                        target="#F77"><hi rend="sup">2</hi></ref>. Aber werde ich ihn bald zurück
+                <p><milestone unit="testimony" spanTo="#quz_III-74_end" xml:id="quz_III-74"/><rs>Faust</rs> sende ich übermorgen im Postpaket<anchor xml:id="N77"/><ref target="#F77"><hi rend="sup">2</hi></ref>. Aber werde ich ihn bald zurück
                     erhalten? Ich möchte, wie bereits gemeldet, nicht gern mehr als Einen daran
-                    setzen lassen<anchor xml:id="N78"/><ref target="#F78"><hi rend="sup"
-                        >3</hi></ref>.<anchor xml:id="quz_III-74_end"/></p>
+                    setzen lassen<anchor xml:id="N78"/><ref target="#F78"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_III-74_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -730,20 +621,16 @@
                 </head>
                 <head type="editorial">Augsburg, Reichel an J. F. Cotta (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-75_end" xml:id="quz_III-75"/>Der Hr.
-                    Geh. Hofrath empfangen beyfolgend das <rs>Manuscript von Faust</rs><anchor
-                        xml:id="N79"/><ref target="#F79"><hi rend="sup">4</hi></ref>.</p>
+                    Geh. Hofrath empfangen beyfolgend das <rs>Manuscript von Faust</rs><anchor xml:id="N79"/><ref target="#F79"><hi rend="sup">4</hi></ref>.</p>
                 <p>Ich hatte wegen des Schießens der Vorrede und des Prologs, darüber Hr. Kanzler v.
-                    Müller in seinem <hi rend="letter-spaced">ersten</hi> Brief schrieb<anchor
-                        xml:id="N80"/><ref target="#F80"><hi rend="sup">5</hi></ref>, nach dem
+                    Müller in seinem <hi rend="letter-spaced">ersten</hi> Brief schrieb<anchor xml:id="N80"/><ref target="#F80"><hi rend="sup">5</hi></ref>, nach dem
                     Empfang des Manuscripts von Faust hin geantwortet, und Vorschlag gemacht, wie
-                    das, was vorne hin soll, zu schießen seyn möchte<anchor xml:id="N81"/><ref
-                        target="#F81"><hi rend="sup">6</hi></ref>. Heute erhalte ich nun anliegende
+                    das, was vorne hin soll, zu schießen seyn möchte<anchor xml:id="N81"/><ref target="#F81"><hi rend="sup">6</hi></ref>. Heute erhalte ich nun anliegende
                         Antwort<anchor xml:id="N82"/><ref target="#F82"><hi rend="sup">7</hi></ref>,
                     die ich nach genommener Einsicht zurück erbitte . . . Von Faust sind bereits 1
                     1/2 Doppelbogen oder 48 Seiten (Columnen) gesezt, mit denen ich aber nichts
                     machen kann, bis ich das Manuscript zurück erhalte.</p>
-                <p>Der Götz von Berlichingen ist begonnen<anchor xml:id="N83"/><ref target="#F83"
-                            ><hi rend="sup">8</hi></ref>.<anchor xml:id="quz_III-75_end"/></p>
+                <p>Der Götz von Berlichingen ist begonnen<anchor xml:id="N83"/><ref target="#F83"><hi rend="sup">8</hi></ref>.<anchor xml:id="quz_III-75_end"/></p>
             </div>
             <pb n="85" facs="quz_3_0085.jpg"/>
             <div type="letter">
@@ -756,14 +643,11 @@
                 <head type="editorial">Augsburg, Reichel an J. F. Cotta (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-82_end" xml:id="quz_III-82"/>Binnen
                     heute und 8 Tagen setze ich nun den Götz von Berlichingen aus, oder den 42 Band,
-                    und es sollte bis dahin der 43ste Band in meinen Händen seyn<anchor xml:id="N84"
-                        /><ref target="#F84"><hi rend="sup">3</hi></ref>; denn wir denken jezt
+                    und es sollte bis dahin der 43ste Band in meinen Händen seyn<anchor xml:id="N84"/><ref target="#F84"><hi rend="sup">3</hi></ref>; denn wir denken jezt
                     täglich 18 Std zu drucken mit der Ueberfeyerabend-Arbeit vielleicht bis 11 oder
-                    12 Uhr Nachts<anchor xml:id="N85"/><ref target="#F85"><hi rend="sup"
-                        >4</hi></ref>. — Ich bitte demnach für das Manuscript zu sorgen.</p>
+                    12 Uhr Nachts<anchor xml:id="N85"/><ref target="#F85"><hi rend="sup">4</hi></ref>. — Ich bitte demnach für das Manuscript zu sorgen.</p>
                 <p>Auch wäre es sehr gut, wenn morgen im Postpaket das <rs>Manuscript von Faust</rs>
-                    wieder an mich abgegangen wäre<anchor xml:id="N86"/><ref target="#F86"><hi
-                            rend="sup">5</hi></ref>. Denn es wäre sonst wahrhaft schlimm und könnte
+                    wieder an mich abgegangen wäre<anchor xml:id="N86"/><ref target="#F86"><hi rend="sup">5</hi></ref>. Denn es wäre sonst wahrhaft schlimm und könnte
                     leicht fehlen für die Pressen, wenn ich da nicht fortmachen kann, und jenes auch
                     nicht kann.<anchor xml:id="quz_III-82_end"/></p>
             </div>
@@ -781,19 +665,14 @@
                     wiederhole, daß ich diesen Band <hi rend="letter-spaced">neben</hi> den andern
                     Bänden möchte machen lassen, wegen der <hi rend="letter-spaced">besondern</hi>
                     Achtsamkeit, die man dabei wegen Verwendung der verschiedenen Versarten und
-                    Abtheilungen der Seiten haben muß<anchor xml:id="N87"/><ref target="#F87"><hi
-                            rend="sup">4</hi></ref>. Allein nun mangelt mir das Manuscript zum III.
+                    Abtheilungen der Seiten haben muß<anchor xml:id="N87"/><ref target="#F87"><hi rend="sup">4</hi></ref>. Allein nun mangelt mir das Manuscript zum III.
                     Bande des Nachlasses, oder XLIII. der sämmtlichen Werke, und gleichwohl muß ich
                     vermuthen, daß es bereits gesandt ist, da Hr. Kanzler von Müller mir in der
                     Anlage vom 5. November schreibt, daß er das Manuscript vom 4ten Bande (oder den
                     XLIVsten d[er] W[erke]) am 6<hi rend="sup">ten</hi> nach Stuttgart
-                        absende<anchor xml:id="N88"/><ref target="#F88"><hi rend="sup"
-                    >5</hi></ref>.</p>
-                <p>Der Götz von Berlichingen wird bis Montag ausgesetzt<anchor xml:id="N89"/><ref
-                        target="#F89"><hi rend="sup">6</hi></ref>. Da sollte nun der <hi
-                        rend="letter-spaced">dritte</hi> Band, Schweizerreise, in meine Hände
-                    kommen; aber ich hörte noch gar nicht von ihm, daß er kommen solle.<anchor
-                        xml:id="quz_III-85_end"/></p>
+                        absende<anchor xml:id="N88"/><ref target="#F88"><hi rend="sup">5</hi></ref>.</p>
+                <p>Der Götz von Berlichingen wird bis Montag ausgesetzt<anchor xml:id="N89"/><ref target="#F89"><hi rend="sup">6</hi></ref>. Da sollte nun der <hi rend="letter-spaced">dritte</hi> Band, Schweizerreise, in meine Hände
+                    kommen; aber ich hörte noch gar nicht von ihm, daß er kommen solle.<anchor xml:id="quz_III-85_end"/></p>
             </div>
             <pb n="87" facs="quz_3_0087.jpg"/>
             <div type="letter">
@@ -807,19 +686,15 @@
                     7):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-87_end" xml:id="quz_III-87"/>Ew.
                     Hochwohlgeboren</p>
-                <p>empfangen Bog. 21.22.<anchor xml:id="N90"/><ref target="#F90"><hi rend="sup"
-                            >3</hi></ref> Ich habe die Ehre dabei zu bemerken, daß wir S. 335<anchor
-                        xml:id="N91"/><ref target="#F91"><hi rend="sup">4</hi></ref>, die Rede
+                <p>empfangen Bog. 21.22.<anchor xml:id="N90"/><ref target="#F90"><hi rend="sup">3</hi></ref> Ich habe die Ehre dabei zu bemerken, daß wir S. 335<anchor xml:id="N91"/><ref target="#F91"><hi rend="sup">4</hi></ref>, die Rede
                     Selbiz, besonders das „<hi rend="letter-spaced">Butz</hi>“ nicht verstanden
                     haben; es steht jedoch deutlich so geschrieben.</p>
                 <p>Eben so kommt S. 341. „<hi rend="letter-spaced">Fähnlein</hi>“. gleichsam als
                     redende Person. Auch dieß mußten wir so lassen, uns erklärend, daß es eine
                     gewisse Anzahl Soldaten sey, die man ein <hi rend="letter-spaced">Fähnlein</hi>
-                    nennt, und die von Einem angeführt werden, der eine Fahne trägt<anchor
-                        xml:id="N92"/><ref target="#F92"><hi rend="sup">5</hi></ref>.</p>
+                    nennt, und die von Einem angeführt werden, der eine Fahne trägt<anchor xml:id="N92"/><ref target="#F92"><hi rend="sup">5</hi></ref>.</p>
                 <p><rs>Der Faust ist im Satz begonnen</rs>, Dero Prolog erhielt ich nicht, aber die
-                    Ordre, daß der Faust beginnen könne<anchor xml:id="N93"/><ref target="#F93"><hi
-                            rend="sup">6</hi></ref>.<anchor xml:id="quz_III-87_end"/></p>
+                    Ordre, daß der Faust beginnen könne<anchor xml:id="N93"/><ref target="#F93"><hi rend="sup">6</hi></ref>.<anchor xml:id="quz_III-87_end"/></p>
             </div>
             <pb n="90" facs="quz_3_0090.jpg"/>
             <div type="letter">
@@ -832,12 +707,9 @@
                 <head type="editorial">Stuttgart, J. F. Cotta an Müller (NFG/GSA, Müller-Nachlaß
                     669, 33):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-92_end" xml:id="quz_III-92"/>Das
-                    M[anu]s[crip]t v. Göthe Nachlaß ist immer nach Augsb[urg] zu senden<anchor
-                        xml:id="N94"/><ref target="#F94"><hi rend="sup">3</hi></ref> . . . Wie kommt
+                    M[anu]s[crip]t v. Göthe Nachlaß ist immer nach Augsb[urg] zu senden<anchor xml:id="N94"/><ref target="#F94"><hi rend="sup">3</hi></ref> . . . Wie kommt
                     es, daß dasjenige was in der Fortsezung des Fausts schon in den frühern 40
-                    Bänden kommt, wie <rs>Helena p. nun wieder abgedrukt</rs> wird<anchor
-                        xml:id="N95"/><ref target="#F95"><hi rend="sup">4</hi></ref>?<anchor
-                        xml:id="quz_III-92_end"/></p>
+                    Bänden kommt, wie <rs>Helena p. nun wieder abgedrukt</rs> wird<anchor xml:id="N95"/><ref target="#F95"><hi rend="sup">4</hi></ref>?<anchor xml:id="quz_III-92_end"/></p>
             </div>
             <pb n="91" facs="quz_3_0091.jpg"/>
             <div type="letter">
@@ -848,14 +720,12 @@
                     <num type="quz_3">94</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an J. F. Cotta (SNM/CA):</head>
-                <p><milestone unit="testimony" spanTo="#quz_III-94_end" xml:id="quz_III-94"
-                    />Bezüglich der Titel zu Goethe habe ich noch einen Anstand. Heute erhalte ich
+                <p><milestone unit="testimony" spanTo="#quz_III-94_end" xml:id="quz_III-94"/>Bezüglich der Titel zu Goethe habe ich noch einen Anstand. Heute erhalte ich
                     den 4ten Band des Manuscripts im Postpaket und da steht auf dem äußeren Einband
                     auf dem Etikett „Goethes Nachgelassene Werke.“ Ebenso steht [es] auch auf dem
                         <rs>äußern Einband von Faust</rs> und desgleichen auch auf dem äußern
                     Einband von Berlichingen. Mir wurde der Auftrag die Titel aus der
-                        Ankündigung<anchor xml:id="N96"/><ref target="#F96"><hi rend="sup"
-                        >1</hi></ref> zu entnehmen, und zu diesem Behufe ein Exemplar der in Quart
+                        Ankündigung<anchor xml:id="N96"/><ref target="#F96"><hi rend="sup">1</hi></ref> zu entnehmen, und zu diesem Behufe ein Exemplar der in Quart
                     gedruckten gesendet. Nun lautet diese:</p>
                 <p>„Ankündigung der nachgelassenen Goetheschen Werke.“</p>
                 <p>Dann heißt es aber im Eingang der Ankündigung:</p>
@@ -865,16 +735,11 @@
                 <p>weil mir jene Etikette auf dem Einband nicht beifielen, besonders aber, weil mir
                     zu dem Inhalt dieser 15 Bände das Wort <hi rend="letter-spaced">Schriften</hi>
                     passender schien. Nun aber könnte es doch seyn, daß lieber Werke gesezt seyn
-                    sollte; daher sende ich dem Herrn Geh. Hofrath beifolgend <hi
-                        rend="letter-spaced">die Titel</hi> noch einmal, mit Bitte um umgehende
+                    sollte; daher sende ich dem Herrn Geh. Hofrath beifolgend <hi rend="letter-spaced">die Titel</hi> noch einmal, mit Bitte um umgehende
                     Rücksendung.</p>
-                <p>Ferner ist jezt <hi rend="letter-spaced">so</hi> geschossen, daß <pb n="92"
-                        facs="quz_3_0092.jpg"/>der Titel des <hi rend="letter-spaced"
-                        >Nachlasses</hi> aufliegt, daß er also der erste ist. Auch hierauf mache ich
+                <p>Ferner ist jezt <hi rend="letter-spaced">so</hi> geschossen, daß <pb n="92" facs="quz_3_0092.jpg"/>der Titel des <hi rend="letter-spaced">Nachlasses</hi> aufliegt, daß er also der erste ist. Auch hierauf mache ich
                     also aufmerksam, ob nicht der andere Titel mit <hi rend="letter-spaced">Zwey und
-                        vierzigster Band</hi> aufliegen und als Erster geschossen seyn solle<anchor
-                        xml:id="N97"/><ref target="#F97"><hi rend="sup">1</hi></ref>?<anchor
-                        xml:id="quz_III-94_end"/></p>
+                        vierzigster Band</hi> aufliegen und als Erster geschossen seyn solle<anchor xml:id="N97"/><ref target="#F97"><hi rend="sup">1</hi></ref>?<anchor xml:id="quz_III-94_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -896,29 +761,23 @@
                 <head type="editorial">
                     <num type="quz_3">97</num>
                 </head>
-                <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 666, 10b)<anchor
-                        xml:id="N98"/><ref target="#F98"><hi rend="sup">1</hi></ref>:</head>
+                <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 666, 10b)<anchor xml:id="N98"/><ref target="#F98"><hi rend="sup">1</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-97_end" xml:id="quz_III-97"/>Der
                         <rs>Druck des Faust</rs> ist ganz hübsch, ich danke für die vergönnte
                     Ansicht.</p>
-                <p>Nun habe ich auch die Freude zu melden, daß die Schweizerreise<anchor
-                        xml:id="N99"/><ref target="#F99"><hi rend="sup">2</hi></ref> bis auf’s
+                <p>Nun habe ich auch die Freude zu melden, daß die Schweizerreise<anchor xml:id="N99"/><ref target="#F99"><hi rend="sup">2</hi></ref> bis auf’s
                     Ausputzen vollendet ist und seit vorgestern in Riemers Händen ist. Es ist mir
                     dadurch ein großer Stein vom Herzen, denn die Materialien waren der Art, daß es
                     etwas gekostet hat einigen Zug hineinzubringen. Übrigens sind es köstliche
                     Sachen, so daß es der Mühe werth war, und ich nun glücklich bin, daß das
-                    Widerstrebende überwunden worden<anchor xml:id="N100"/><ref target="#F100"><hi
-                            rend="sup">3</hi></ref>.</p>
+                    Widerstrebende überwunden worden<anchor xml:id="N100"/><ref target="#F100"><hi rend="sup">3</hi></ref>.</p>
                 <p>Ich habe nun gleich, weil keine Zeit zu verlieren ist, ohne mich umzusehen den
                         6.<hi rend="sup">ten</hi> Band der auswärtigen Literatur seit gestern
-                    angefangen, den ich vielleicht bis Weihnachten fertig bringe<anchor
-                        xml:id="N101"/><ref target="#F101"><hi rend="sup">4</hi></ref>.<anchor
-                        xml:id="quz_III-97_end"/></p>
+                    angefangen, den ich vielleicht bis Weihnachten fertig bringe<anchor xml:id="N101"/><ref target="#F101"><hi rend="sup">4</hi></ref>.<anchor xml:id="quz_III-97_end"/></p>
             </div>
             <pb n="94" facs="quz_3_0094.jpg"/>
             <div type="letter">
-                <head type="editorial">[nach <date when="1832-12-01">1. 12. 1832</date>]<anchor
-                        xml:id="N102"/><ref target="#F102"><hi rend="sup">4</hi></ref></head>
+                <head type="editorial">[nach <date when="1832-12-01">1. 12. 1832</date>]<anchor xml:id="N102"/><ref target="#F102"><hi rend="sup">4</hi></ref></head>
                 <head type="editorial">
                     <num type="quz_3">101</num>
                 </head>
@@ -926,8 +785,7 @@
                 <p><milestone unit="testimony" spanTo="#quz_III-101_end" xml:id="quz_III-101"/>Der
                         <rs>Faust nimmt sich ganz hübsch aus</rs>, zumal auf weißem Papier.
                     Druckfehler habe ich nicht bemerkt; es wäre aber auch arg, da das M[anu]sc[ri]pt
-                    sehr reinlich und richtig war<anchor xml:id="N103"/><ref target="#F103"><hi
-                            rend="sup">5</hi></ref>.<anchor xml:id="quz_III-101_end"/></p>
+                    sehr reinlich und richtig war<anchor xml:id="N103"/><ref target="#F103"><hi rend="sup">5</hi></ref>.<anchor xml:id="quz_III-101_end"/></p>
             </div>
             <pb n="96" facs="quz_3_0096.jpg"/>
             <div type="letter">
@@ -941,8 +799,7 @@
                     9):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-105_end" xml:id="quz_III-105"/>Indem
                     ich Ew. Hochwohlgeboren die <rs>Aushängebogen von Faust No. 7.8</rs> übersende,
-                    füge ich die Correctur der beiden Tafeln bey<anchor xml:id="N104"/><ref
-                        target="#F104"><hi rend="sup">1</hi></ref>. Es sind 2 Abdrucke, und nach der
+                    füge ich die Correctur der beiden Tafeln bey<anchor xml:id="N104"/><ref target="#F104"><hi rend="sup">1</hi></ref>. Es sind 2 Abdrucke, und nach der
                     Vorschrift des Manuscripts auf der ersten Tafel, sie beide auf Ein Blatt hinter
                     einander zu drucken angefertigt.</p>
                 <p>Meinem Dafürhalten nach wäre jede <hi rend="letter-spaced">besonders</hi> auf
@@ -953,14 +810,11 @@
                     muß am Rande oben angedeutet werden: (Zu S. 000) — Dieses leztere ist auch
                     nothwendig, wenn jede Tafel auf ein eigenes Blatt gedruckt wird.</p>
                 <p>Diese Seiten bitte ich mir gütigst beizufügen und mit Rücksendung der Correctur
-                    zuzuwarten, bis Sie Bogen 7 und 8 als Aushängebogen erhalten<anchor
-                        xml:id="N105"/><ref target="#F105"><hi rend="sup">2</hi></ref>, <hi
-                        rend="letter-spaced">wohin</hi> wahrscheinlich erst die zweite Tafel gehören
+                    zuzuwarten, bis Sie Bogen 7 und 8 als Aushängebogen erhalten<anchor xml:id="N105"/><ref target="#F105"><hi rend="sup">2</hi></ref>, <hi rend="letter-spaced">wohin</hi> wahrscheinlich erst die zweite Tafel gehören
                     wird.</p>
                 <p>Ob das: <hi rend="letter-spaced">„Erste Tafel.“ „Zweyte Tafel“</hi> vielleicht
                     oben links in die Ecke zu setzen seyn möchte, wollen gleichfalls Ew.
-                    Hochwohlgeboren gütigst bestimmen<anchor xml:id="N106"/><ref target="#F106"><hi
-                            rend="sup">3</hi></ref>.<anchor xml:id="quz_III-105_end"/></p>
+                    Hochwohlgeboren gütigst bestimmen<anchor xml:id="N106"/><ref target="#F106"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_III-105_end"/></p>
             </div>
             <pb n="101" facs="quz_3_0101.jpg"/>
             <div type="letter">
@@ -971,38 +825,28 @@
                     <num type="quz_3">114</num>
                 </head>
                 <head type="editorial">Müller an J. F. Cotta (NFG/GSA, Müller-Nachlaß 661, 50f;
-                        Konzept)<anchor xml:id="N107"/><ref target="#F107"><hi rend="sup"
-                        >2</hi></ref>:</head>
+                        Konzept)<anchor xml:id="N107"/><ref target="#F107"><hi rend="sup">2</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-114_end" xml:id="quz_III-114"/>Der
                         3<hi rend="sup">te</hi> Band des Goetheschen Manuscripts ist vorgestern nach
-                    Augsburg abgegangen<anchor xml:id="N108"/><ref target="#F108"><hi rend="sup"
-                            >3</hi></ref>. Da dieser Band aus den Tagebüchern heraus erst componirt
+                    Augsburg abgegangen<anchor xml:id="N108"/><ref target="#F108"><hi rend="sup">3</hi></ref>. Da dieser Band aus den Tagebüchern heraus erst componirt
                     und um so sorgfältiger redigirt und auch mit Riemer und mir vielfach besprochen
                     werden mußte, so nahm er mehr Zeit in Anspruch als irgend ein anderer. Eckermann
                     hat sich dabey sehr verdient gemacht; ich hatte gleich fürs erste darauf
                     bestanden, daß sehr viele Nebendinge wegbleiben mußten. Nun wird er aber in der
                     jetzigen Gestalt den besten Eindruck machen. Sie finden auch Goethe’s Aufenthalt
-                    in Tübingen bey Ihnen darin<anchor xml:id="N109"/><ref target="#F109"><hi
-                            rend="sup">4</hi></ref>.</p>
+                    in Tübingen bey Ihnen darin<anchor xml:id="N109"/><ref target="#F109"><hi rend="sup">4</hi></ref>.</p>
                 <p>Mit der Rheinreise zusammen wird dieser Band wohl an 28 Bogen füllen und einige
-                    spätere von nur 18—19 Bogen übertragen<anchor xml:id="N110"/><ref target="#F110"
-                            ><hi rend="sup">5</hi></ref>.</p>
-                <p>Das Fertigwerden der 1sten Lieferung kann aber wohl <hi rend="letter-spaced"
-                        >durch diese</hi> spätere Sendung des Manuscripts nicht aufgehalten worden
+                    spätere von nur 18—19 Bogen übertragen<anchor xml:id="N110"/><ref target="#F110"><hi rend="sup">5</hi></ref>.</p>
+                <p>Das Fertigwerden der 1sten Lieferung kann aber wohl <hi rend="letter-spaced">durch diese</hi> spätere Sendung des Manuscripts nicht aufgehalten worden
                     seyn, noch werden, da ja der Druck der andern 4 Bände leider noch lange nicht
                     fertig ist; vom <rs>Faust habe ich erst den 8<hi rend="sup">n</hi>
-                        Aushängebogen</rs>, vom 4<hi rend="sup">n</hi> Bande den 6<hi rend="sup"
-                        >n</hi>, vom 5<hi rend="sup">n</hi> noch gar keinen, und blos der 2<hi
-                        rend="sup">te</hi> Band ist ganz fertig<anchor xml:id="N111"/><ref
-                        target="#F111"><hi rend="sup">6</hi></ref>.</p>
+                        Aushängebogen</rs>, vom 4<hi rend="sup">n</hi> Bande den 6<hi rend="sup">n</hi>, vom 5<hi rend="sup">n</hi> noch gar keinen, und blos der 2<hi rend="sup">te</hi> Band ist ganz fertig<anchor xml:id="N111"/><ref target="#F111"><hi rend="sup">6</hi></ref>.</p>
                 <p>Sie werden sich erinnern, daß Sie nach meiner Abreise von Stuttgardt das
                     Manuscript des Faust mehre Wochen an sich behielten, ehe es in die Druckerey
-                        kam<anchor xml:id="N112"/><ref target="#F112"><hi rend="sup"
-                    >7</hi></ref>.</p>
+                        kam<anchor xml:id="N112"/><ref target="#F112"><hi rend="sup">7</hi></ref>.</p>
                 <p>Haben Sie doch die Güte mir zu sagen, <hi rend="letter-spaced">wann</hi> der
                     Druck der Octav-Ausgabe beginnt? und ob sich jetzt schon zahlreiche
-                    Subscriptionen angemeldet<anchor xml:id="N113"/><ref target="#F113"><hi
-                            rend="sup">8</hi></ref>?<anchor xml:id="quz_III-114_end"/></p>
+                    Subscriptionen angemeldet<anchor xml:id="N113"/><ref target="#F113"><hi rend="sup">8</hi></ref>?<anchor xml:id="quz_III-114_end"/></p>
             </div>
             <pb n="110" facs="quz_3_0110.jpg"/>
             <div type="letter">
@@ -1016,18 +860,13 @@
                     12):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-124_end" xml:id="quz_III-124"/>Ew.
                     Hochwohlgeboren</p>
-                <p>habe ich die Ehre zu melden, daß mir die heutige Post sowohl die Vorrede<anchor
-                        xml:id="N114"/><ref target="#F114"><hi rend="sup">3</hi></ref>, als auch in
-                    einem andern Couvert die beiden Tafeln überbrachte<anchor xml:id="N115"/><ref
-                        target="#F115"><hi rend="sup">4</hi></ref>. Ich werde die Tafeln nun gleich
-                    drucken lassen . . . Hätte ich dieses Verlangen<anchor xml:id="N116"/><ref
-                        target="#F116"><hi rend="sup">5</hi></ref> freilich früher gekannt, so hätte
+                <p>habe ich die Ehre zu melden, daß mir die heutige Post sowohl die Vorrede<anchor xml:id="N114"/><ref target="#F114"><hi rend="sup">3</hi></ref>, als auch in
+                    einem andern Couvert die beiden Tafeln überbrachte<anchor xml:id="N115"/><ref target="#F115"><hi rend="sup">4</hi></ref>. Ich werde die Tafeln nun gleich
+                    drucken lassen . . . Hätte ich dieses Verlangen<anchor xml:id="N116"/><ref target="#F116"><hi rend="sup">5</hi></ref> freilich früher gekannt, so hätte
                     ich von Anfang den ersten Band mehr zu fördern gesucht; so aber traf ich gleich
-                    die Einrichtung diesen Band, der andere Lettern hat, <hi rend="letter-spaced"
-                        >neben</hi> denen andern vier laufen zu lassen mit Einem Setzer, schrieb
+                    die Einrichtung diesen Band, der andere Lettern hat, <hi rend="letter-spaced">neben</hi> denen andern vier laufen zu lassen mit Einem Setzer, schrieb
                     auch <hi rend="letter-spaced">das</hi> dem Herrn Baron v. Cotta beim
-                        Beginn<anchor xml:id="N117"/><ref target="#F117"><hi rend="sup"
-                    >6</hi></ref>, daß ich den <rs>Faust so durch meinen Sohn, der demnächst
+                        Beginn<anchor xml:id="N117"/><ref target="#F117"><hi rend="sup">6</hi></ref>, daß ich den <rs>Faust so durch meinen Sohn, der demnächst
                         auslernen wird, setzen lasse</rs>, indem ich demselben besondere Sorgfalt
                     widmen würde; in Hinsicht des Arrangements der Seiten, der Beobachtung der
                     Nichttrennung der Reime unten an den Seiten, wo es schicklich zu vermeiden ist,
@@ -1035,8 +874,7 @@
                     was mir sehr leid thut.</p>
                 <p>Herrn v. Elsholtz Wunsch werde ich zu erfüllen anordnen.</p>
                 <p>Der gemangelte Bogen 7.8. des 4<hi rend="sup">ten</hi> Bandes folgt; ich bitte um
-                    Entschuldigung des Versehens<anchor xml:id="N118"/><ref target="#F118"><hi
-                            rend="sup">7</hi></ref>.<anchor xml:id="quz_III-124_end"/></p>
+                    Entschuldigung des Versehens<anchor xml:id="N118"/><ref target="#F118"><hi rend="sup">7</hi></ref>.<anchor xml:id="quz_III-124_end"/></p>
             </div>
             <pb n="113" facs="quz_3_0113.jpg"/>
             <div type="letter">
@@ -1047,23 +885,19 @@
                     <num type="quz_3">126</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an Müller (NFG/GSA, Müller-Nachlaß 663,
-                        13)<anchor xml:id="N119"/><ref target="#F119"><hi rend="sup"
-                    >1</hi></ref>:</head>
+                        13)<anchor xml:id="N119"/><ref target="#F119"><hi rend="sup">1</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-126_end" xml:id="quz_III-126"/>Ew.
                     Hochwohlgeboren</p>
                 <p>habe ich die Ehre anzuzeigen, daß ich gestern Dero Verehrtes mit den Ihnen
-                    eingesandten Titeln des 4<hi rend="sup">ten</hi> Bandes zurückerhielt<anchor
-                        xml:id="N120"/><ref target="#F120"><hi rend="sup">2</hi></ref>. Da nun
+                    eingesandten Titeln des 4<hi rend="sup">ten</hi> Bandes zurückerhielt<anchor xml:id="N120"/><ref target="#F120"><hi rend="sup">2</hi></ref>. Da nun
                     dieser 4<hi rend="sup">te</hi> Band mit 21 Bogen und 3 Seiten, die also 1/8
                     Bögelchen füllten, ausging; da ferner in dem 5ten Bande der Fall häufig im
                     M[anu]s[crip]t gemacht ist, daß einzelne Aufsätze, die in ihrer Bedeutung mit
                     andern ganz gleich sind, ein einzelnes Titelblatt haben; so fand ich mich, nach
                     Rücksprache mit Herrn D. Kolb, der bei der Red[aktion] der Allg[emeinen] Zeitung
                     ist, und der eine Rev[ision] dieses Nachlasses liest, veranlaßt, die
-                    Titelblätter, <hi rend="letter-spaced">„Dilettantismus“</hi> und <hi
-                        rend="letter-spaced">„Schauspielkunst“</hi> wegzulassen, und also diese
-                    Aufsätze gerade zu behandeln wie die andern auch, deren sämmtliche unter der <hi
-                        rend="letter-spaced">Haupt-Ueberschrift „Kunst.“</hi> verzeichnet sind. —
+                    Titelblätter, <hi rend="letter-spaced">„Dilettantismus“</hi> und <hi rend="letter-spaced">„Schauspielkunst“</hi> wegzulassen, und also diese
+                    Aufsätze gerade zu behandeln wie die andern auch, deren sämmtliche unter der <hi rend="letter-spaced">Haupt-Ueberschrift „Kunst.“</hi> verzeichnet sind. —
                     Auch sind dieselben im Manuscript des Inhaltes durchaus nicht ausgezeichnet; und
                     ist ja wohl unter dem Hauptbegriff: <hi rend="letter-spaced">„Kunst“</hi> auch
                     der Dilettantismus in der Kunst, und Schauspielkunst mit zu begreifen.</p>
@@ -1071,22 +905,17 @@
                     auf beifolgendem Bogen 17 das Titelblatt: „Dilettantismus“ weggelassen, und
                     werde ich nun auch morgen No. 19.20 drucken und Titel und Inhalt so gestalten,
                         <pb n="114" facs="quz_3_0114.jpg"/>wie Sie es auf abermals beiliegenden
-                        Blättern<anchor xml:id="N121"/><ref target="#F121"><hi rend="sup"
-                        >1</hi></ref> finden. Der Inhalt, als der des Bandes zu betrachten, folgt
-                    nach den Titeln, und <hi rend="letter-spaced">nach</hi> ihm das Blatt <hi
-                        rend="letter-spaced">Kunst,</hi> von dem der ganze Band handelt. Zu diesem
-                    Behuf stelle ich <hi rend="letter-spaced">im</hi> Inhalt das Wort <hi
-                        rend="letter-spaced">Kunst</hi> in die Mitte.</p>
+                        Blättern<anchor xml:id="N121"/><ref target="#F121"><hi rend="sup">1</hi></ref> finden. Der Inhalt, als der des Bandes zu betrachten, folgt
+                    nach den Titeln, und <hi rend="letter-spaced">nach</hi> ihm das Blatt <hi rend="letter-spaced">Kunst,</hi> von dem der ganze Band handelt. Zu diesem
+                    Behuf stelle ich <hi rend="letter-spaced">im</hi> Inhalt das Wort <hi rend="letter-spaced">Kunst</hi> in die Mitte.</p>
                 <p>Wir vermeiden dadurch das Einlegen eines solchen Blättchens, von 1/8 Bogen in die
                     Exemplare, die ohnehin so gern verloren gehen und entheben uns eines unsäglichen
                     Geschäfts des Zerschneidens der Auflage in 1/8 Bogen.</p>
                 <p>Heute bringt mir Ew Hochwohlgeboren Verehrtes die Druckfehler des 42sten
-                        Bandes<anchor xml:id="N122"/><ref target="#F122"><hi rend="sup"
-                    >2</hi></ref>. Ich lasse sie untersuchen. Manche kommen einzig nur von dem Druck
+                        Bandes<anchor xml:id="N122"/><ref target="#F122"><hi rend="sup">2</hi></ref>. Ich lasse sie untersuchen. Manche kommen einzig nur von dem Druck
                     her, da allenfalls etwas auseinander gebracht oder abgestoßen wurde. Anzeigen
                     wird man solche nicht? Jeder Leser berichtiget das selber. Der Verewigte Herr
-                    Verfasser ließ auch keine anzeigen; es ist immer eine Unzierde<anchor
-                        xml:id="N123"/><ref target="#F123"><hi rend="sup">3</hi></ref>.</p>
+                    Verfasser ließ auch keine anzeigen; es ist immer eine Unzierde<anchor xml:id="N123"/><ref target="#F123"><hi rend="sup">3</hi></ref>.</p>
                 <p>Seit Dero leztem müssen Sie von <rs>Faust die Bogen 11 und 12</rs> erhalten
                         haben<anchor xml:id="N124"/><ref target="#F124"><hi rend="sup">4</hi></ref>,
                     und hiebei folgt 13 und 14.<anchor xml:id="quz_III-126_end"/></p>
@@ -1101,15 +930,11 @@
                 </head>
                 <head type="editorial">Müller an J. G. Cotta (NFG/GSA, Müller-Nachlaß 661, 62f;
                     Konzept):</head>
-                <p><milestone unit="testimony" spanTo="#quz_III-127_end" xml:id="quz_III-127"
-                    />Billig enthalte ich mich irgend etwas Geschäftliches jetzt zu berühren<anchor
-                        xml:id="N125"/><ref target="#F125"><hi rend="sup">5</hi></ref>; nur eins
+                <p><milestone unit="testimony" spanTo="#quz_III-127_end" xml:id="quz_III-127"/>Billig enthalte ich mich irgend etwas Geschäftliches jetzt zu berühren<anchor xml:id="N125"/><ref target="#F125"><hi rend="sup">5</hi></ref>; nur eins
                     darf ich nicht unterlassen: Ihr seel. Herr Vater ließ sich vor 14 Tagen das
                     Manuscript der Vorrede zu der 1<hi rend="sup">n</hi> Lieferung nachgelassener
-                    Goethescher Werke von Reicheln senden, um es vor dem Abdruck einzusehen<anchor
-                        xml:id="N126"/><ref target="#F126"><hi rend="sup">6</hi></ref>; haben Sie
-                    doch ja die Güte, schnelle Zurücksendung anzuordnen<anchor xml:id="N127"/><ref
-                        target="#F127"><hi rend="sup">7</hi></ref>, weil sonst der <rs>fast ganz
+                    Goethescher Werke von Reicheln senden, um es vor dem Abdruck einzusehen<anchor xml:id="N126"/><ref target="#F126"><hi rend="sup">6</hi></ref>; haben Sie
+                    doch ja die Güte, schnelle Zurücksendung anzuordnen<anchor xml:id="N127"/><ref target="#F127"><hi rend="sup">7</hi></ref>, weil sonst der <rs>fast ganz
                         fertige 1<hi rend="sup">e</hi> Band (Faust)</rs> nicht ausgedruckt werden
                         kann.<anchor xml:id="quz_III-127_end"/></p>
             </div>
@@ -1132,11 +957,8 @@
                     Verlangen. In Zeit 8 Tagen hoffe ich auszusetzen . . . Daß es jezt nicht rascher
                     geht, ist einzig der Mangel an Papier schuld; dessen ist genug gemacht, aber es
                     ist alles gefroren. Geht das Wetter bald auf so werden wir keinen Mangel mehr
-                    haben und rasch arbeiten können<anchor xml:id="N129"/><ref target="#F129"><hi
-                            rend="sup">2</hi></ref>. Es ist so etwas höchst unangenehm, aber dieses
-                    ganze Arrangement war zu kurz angeraumt, um <hi rend="letter-spaced"
-                        >gehörige</hi> Vorbereitungen machen zu können.<anchor
-                        xml:id="quz_III-128_end"/></p>
+                    haben und rasch arbeiten können<anchor xml:id="N129"/><ref target="#F129"><hi rend="sup">2</hi></ref>. Es ist so etwas höchst unangenehm, aber dieses
+                    ganze Arrangement war zu kurz angeraumt, um <hi rend="letter-spaced">gehörige</hi> Vorbereitungen machen zu können.<anchor xml:id="quz_III-128_end"/></p>
             </div>
             <pb n="116" facs="quz_3_0116.jpg"/>
             <div type="letter">
@@ -1147,23 +969,18 @@
                     <num type="quz_3">131</num>
                 </head>
                 <head type="editorial">Stuttgart, J. G. Cotta an Müller (NFG/GSA, Müller-Nachlaß
-                    661, 70)<anchor xml:id="N130"/><ref target="#F130"><hi rend="sup"
-                    >6</hi></ref>:</head>
+                    661, 70)<anchor xml:id="N130"/><ref target="#F130"><hi rend="sup">6</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-131_end" xml:id="quz_III-131"/>Von
                     Geschäften beantworte nur was Sie berühren, ohne weiter zu gehen, die
                         <rs>Eckermannsche Vorrede</rs>.</p>
-                <p>Von den lezten Anordnungen des Verewigten, war eine der Lezten, daß <hi
-                        rend="letter-spaced">nichts</hi> in die sämtlichen Werke aufgenommen werde
+                <p>Von den lezten Anordnungen des Verewigten, war eine der Lezten, daß <hi rend="letter-spaced">nichts</hi> in die sämtlichen Werke aufgenommen werde
                     als was von G. selbst herrühre, und solle man zu Augsburg dieselbe
                     beseitigen.</p>
-                <p>Ich will diese Maßregel nicht beurtheilen, mir ziemt nur ihr nachzukommen.<anchor
-                        xml:id="quz_III-131_end"/></p>
+                <p>Ich will diese Maßregel nicht beurtheilen, mir ziemt nur ihr nachzukommen.<anchor xml:id="quz_III-131_end"/></p>
             </div>
             <pb n="129" facs="quz_3_0129.jpg"/>
             <div type="letter">
-                <head type="editorial">[<date when="1833-01-21">21.</date> bis <date
-                        when="1833-01-23">23. 1. 1833</date>]<anchor xml:id="N131"/><ref
-                        target="#F131"><hi rend="sup">3</hi></ref></head>
+                <head type="editorial">[<date when="1833-01-21">21.</date> bis <date when="1833-01-23">23. 1. 1833</date>]<anchor xml:id="N131"/><ref target="#F131"><hi rend="sup">3</hi></ref></head>
                 <head type="editorial">
                     <num type="quz_3">148</num>
                 </head>
@@ -1172,26 +989,18 @@
                     schrieben mir vor einigen Tagen, daß Sie am 6<hi rend="sup">n</hi>. Bande
                     „auswärtige Literatur“ arbeiteten. Allein der 6<hi rend="sup">e</hi>. Band muß
                     nach beiliegender gedruckter Anzeige (die ich mir zurück erbitte) die Gedichte
-                    enthalten. Auch sehe ich, daß wir den vorigen Sonntag<anchor xml:id="N132"/><ref
-                        target="#F132"><hi rend="sup">4</hi></ref> abgegangenen Band irrig den <hi
-                        rend="letter-spaced">achten</hi> nannten; es ist der <hi
-                        rend="letter-spaced">siebente</hi>. Doch das ist beides leicht noch
-                        abzuändern<anchor xml:id="N133"/><ref target="#F133"><hi rend="sup"
-                        >5</hi></ref> . . . so eben empfange ich von Augsburg den <rs>lezten und den
-                        ersten Bogen des Faust ausgedruckt</rs><anchor xml:id="N134"/><ref
-                        target="#F134"><hi rend="sup">6</hi></ref> . . .<anchor
-                        xml:id="quz_III-148_end"/></p>
+                    enthalten. Auch sehe ich, daß wir den vorigen Sonntag<anchor xml:id="N132"/><ref target="#F132"><hi rend="sup">4</hi></ref> abgegangenen Band irrig den <hi rend="letter-spaced">achten</hi> nannten; es ist der <hi rend="letter-spaced">siebente</hi>. Doch das ist beides leicht noch
+                        abzuändern<anchor xml:id="N133"/><ref target="#F133"><hi rend="sup">5</hi></ref> . . . so eben empfange ich von Augsburg den <rs>lezten und den
+                        ersten Bogen des Faust ausgedruckt</rs><anchor xml:id="N134"/><ref target="#F134"><hi rend="sup">6</hi></ref> . . .<anchor xml:id="quz_III-148_end"/></p>
             </div>
             <pb n="139" facs="quz_3_0139.jpg"/>
             <div type="letter">
-                <head type="editorial">[vor <date when="1833-02-12">12. 2. 1833</date>]<anchor
-                        xml:id="N135"/><ref target="#F135"><hi rend="sup">4</hi></ref></head>
+                <head type="editorial">[vor <date when="1833-02-12">12. 2. 1833</date>]<anchor xml:id="N135"/><ref target="#F135"><hi rend="sup">4</hi></ref></head>
                 <head type="editorial">
                     <num type="quz_3">167</num>
                 </head>
                 <head type="editorial">Müller an Eckermann (NFG/GSA, Müller-Nachlaß 665, 27):</head>
-                <p><milestone unit="testimony" spanTo="#quz_III-167_end" xml:id="quz_III-167"
-                    />Musculus, der <rs>bis zum 16.<hi rend="sup">n</hi> Bogen des Faust</rs>, die
+                <p><milestone unit="testimony" spanTo="#quz_III-167_end" xml:id="quz_III-167"/>Musculus, der <rs>bis zum 16.<hi rend="sup">n</hi> Bogen des Faust</rs>, die
                     Druckfehler nachgesehen u. verzeichnet hat, wünscht nun noch die übrigen
                         Bogen<anchor xml:id="N136"/><ref target="#F136"><hi rend="sup">5</hi></ref>
                     dieserhalb durchzugehen. Haben Sie daher die Güte, lieber Herr Doctor! ihm Ihr
@@ -1205,30 +1014,20 @@
                     <num type="quz_3">168</num>
                 </head>
                 <head type="editorial">Müller an Reichel (NFG/GSA, Müller-Nachlaß 668, 16;
-                        Konzept)<anchor xml:id="N137"/><ref target="#F137"><hi rend="sup"
-                        >6</hi></ref>:</head>
+                        Konzept)<anchor xml:id="N137"/><ref target="#F137"><hi rend="sup">6</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-168_end" xml:id="quz_III-168"/>Sie
                     erhalten anbey, lieber Herr Factor! den sechsten Band Goethescher nachgelassener
-                        Manuscripte<anchor xml:id="N138"/><ref target="#F138"><hi rend="sup"
-                        >7</hi></ref>. In 10—12 Tagen folgen der 9<hi rend="sup">te</hi> und 10<hi
-                        rend="sup">te</hi><hi rend="letter-spaced">zugleich</hi> nach, und wenig
+                        Manuscripte<anchor xml:id="N138"/><ref target="#F138"><hi rend="sup">7</hi></ref>. In 10—12 Tagen folgen der 9<hi rend="sup">te</hi> und 10<hi rend="sup">te</hi><hi rend="letter-spaced">zugleich</hi> nach, und wenig
                     Tage darauf der siebente, die Gedichte, indem gerade dieser am meisten Sorgfalt
-                    und Auswahl fordert<anchor xml:id="N139"/><ref target="#F139"><hi rend="sup"
-                            >8</hi></ref>.</p>
+                    und Auswahl fordert<anchor xml:id="N139"/><ref target="#F139"><hi rend="sup">8</hi></ref>.</p>
                 <p>Die ganze 2<hi rend="sup">te</hi> Lieferung wird höchstens 85. Bogen geben und
                     die 3<hi rend="sup">te</hi> wollen wir auch auf allerhöchstens 95—100 B.
-                        reduciren<anchor xml:id="N140"/><ref target="#F140"><hi rend="sup"
-                        >9</hi></ref>, sodaß die drei Lieferungen nur wenig mehr als 300 Bogen haben
+                        reduciren<anchor xml:id="N140"/><ref target="#F140"><hi rend="sup">9</hi></ref>, sodaß die drei Lieferungen nur wenig mehr als 300 Bogen haben
                     sollen. Den früheren contractlichen Feststellungen gemäß soll jeder Band
                     zwischen 19. und 23. Bogen halten, also <pb n="140" facs="quz_3_0140.jpg"/>im
-                    Durchschnitt 21<anchor xml:id="N141"/><ref target="#F141"><hi rend="sup"
-                        >1</hi></ref> . . . Hier sende ich auch das <rs>Verzeichniß der wenigen
+                    Durchschnitt 21<anchor xml:id="N141"/><ref target="#F141"><hi rend="sup">1</hi></ref> . . . Hier sende ich auch das <rs>Verzeichniß der wenigen
                         Druckfehler</rs> im 41<hi rend="sup">n</hi>, 44<hi rend="sup">n</hi>, und
-                        45<hi rend="sup">n</hi> Bande, zur Benutzung bey der 8° Ausgabe<anchor
-                        xml:id="N142"/><ref target="#F142"><hi rend="sup">2</hi></ref>: <hi
-                        rend="letter-spaced">Wann</hi> beginnt denn diese<anchor xml:id="N143"/><ref
-                        target="#F143"><hi rend="sup">3</hi></ref>?? . . .<anchor
-                        xml:id="quz_III-168_end"/></p>
+                        45<hi rend="sup">n</hi> Bande, zur Benutzung bey der 8° Ausgabe<anchor xml:id="N142"/><ref target="#F142"><hi rend="sup">2</hi></ref>: <hi rend="letter-spaced">Wann</hi> beginnt denn diese<anchor xml:id="N143"/><ref target="#F143"><hi rend="sup">3</hi></ref>?? . . .<anchor xml:id="quz_III-168_end"/></p>
             </div>
             <div type="list">
                 <head type="editorial">
@@ -1236,8 +1035,7 @@
                 </head>
                 <table>
                     <head rend="centered">Beilage:</head>
-                    <head rend="centered"><milestone unit="testimony" spanTo="#quz_III-168a_end"
-                            xml:id="quz_III-168a"/><rs>Bd. 41.</rs></head>
+                    <head rend="centered"><milestone unit="testimony" spanTo="#quz_III-168a_end" xml:id="quz_III-168a"/><rs>Bd. 41.</rs></head>
                     <row>
                         <cell>Seite 107. Zeile 17. von oben</cell>
                         <cell>
@@ -1293,8 +1091,7 @@
                     </row>
                     <row>
                         <cell>„ 320. „ 17. „ „</cell>
-                        <cell>pre<hi rend="strikethrough">ff</hi>e <hi rend="underline"
-                            >ss</hi>.</cell>
+                        <cell>pre<hi rend="strikethrough">ff</hi>e <hi rend="underline">ss</hi>.</cell>
                     </row>
                 </table>
                 <table>
@@ -1346,8 +1143,7 @@
                     </row>
                     <row>
                         <cell>„ 183. „ 7. — —</cell>
-                        <cell>K<hi rend="strikethrough">a</hi>isersberg <hi rend="underline"
-                            >e</hi></cell>
+                        <cell>K<hi rend="strikethrough">a</hi>isersberg <hi rend="underline">e</hi></cell>
                     </row>
                     <row n="5">
                         <cell/>
@@ -1404,23 +1200,18 @@
             </div>
             <pb n="146" facs="quz_3_0146.jpg"/>
             <div type="letter">
-                <head type="editorial">[<date when="1833-02-24">24. 2. 1833</date>]<anchor
-                        xml:id="N144"/><ref target="#F144"><hi rend="sup">2</hi></ref></head>
+                <head type="editorial">[<date when="1833-02-24">24. 2. 1833</date>]<anchor xml:id="N144"/><ref target="#F144"><hi rend="sup">2</hi></ref></head>
                 <head type="editorial">
                     <num type="quz_3">178</num>
                 </head>
                 <head type="editorial">Müller an Eckermann (NFG/GSA, Müller-Nachlaß 665, 55):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-178_end" xml:id="quz_III-178"/>Ich
-                    habe nachgesehen, glücklicherweise ist nur der 42<hi rend="sup">e</hi>. u. 43<hi
-                        rend="sup">e</hi>. Band der OctavAusg[abe] <rs>schon gesetzt, Faust noch
-                        nicht</rs><anchor xml:id="N145"/><ref target="#F145"><hi rend="sup"
-                        >3</hi></ref>. Machen Sie also ja, daß ich das Druckfehler Verzeichniß bis
+                    habe nachgesehen, glücklicherweise ist nur der 42<hi rend="sup">e</hi>. u. 43<hi rend="sup">e</hi>. Band der OctavAusg[abe] <rs>schon gesetzt, Faust noch
+                        nicht</rs><anchor xml:id="N145"/><ref target="#F145"><hi rend="sup">3</hi></ref>. Machen Sie also ja, daß ich das Druckfehler Verzeichniß bis
                     Morgen Abend noch bekomme; dann ist gerade noch Zeit es zu berücksichtigen. Und
                     wollen wir denn die Note S. 98. Bd. 5. in der Oct. Ausg. nun stehen lassen, oder
                     nicht? Man könnte vor Peucers Nennung ebenfalls das „zumeist“ in der 8 Ausg.
-                    wiederhohlen, dann wäre die Note ganz unschädlich<anchor xml:id="N146"/><ref
-                        target="#F146"><hi rend="sup">4</hi></ref>.<anchor xml:id="quz_III-178_end"
-                    /></p>
+                    wiederhohlen, dann wäre die Note ganz unschädlich<anchor xml:id="N146"/><ref target="#F146"><hi rend="sup">4</hi></ref>.<anchor xml:id="quz_III-178_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -1429,8 +1220,7 @@
                 <head type="editorial">
                     <num type="quz_3">179</num>
                 </head>
-                <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 668, 22)<anchor
-                        xml:id="N147"/><ref target="#F147"><hi rend="sup">5</hi></ref>:</head>
+                <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 668, 22)<anchor xml:id="N147"/><ref target="#F147"><hi rend="sup">5</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-179_end" xml:id="quz_III-179"/>Die
                         <rs>Druckfehler des Faust</rs>, verehrter Herr Geheimerath, werde ich nicht
                     verfehlen bis diesen Abend zu senden.</p>
@@ -1448,8 +1238,7 @@
                     und mich mit der Durchsicht der Korrekturbogen von nun an selber befassen kann,
                     so wäre mein Wunsch, daß Reichel von nun an <hi rend="letter-spaced">zwey</hi>
                     Aushängebogen einsende, einen für Sie und einen für mich, den ich dann auch
-                    Herrn Hofrath Riemer und Herrn Musculus mittheilen würde.<anchor
-                        xml:id="quz_III-179_end"/></p>
+                    Herrn Hofrath Riemer und Herrn Musculus mittheilen würde.<anchor xml:id="quz_III-179_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -1460,21 +1249,15 @@
                 </head>
                 <head type="editorial">Müller an Reichel (NFG/GSA, Müller-Nachlaß 668, 23 und 86;
                     Konzept):</head>
-                <p><milestone unit="testimony" spanTo="#quz_III-180_end" xml:id="quz_III-180"
-                    />Gestern ging, mit der Fahrpost, der 9<hi rend="sup">te</hi> Band Manuscript an
-                    Sie ab, lieber Herr Factor<anchor xml:id="N148"/><ref target="#F148"><hi
-                            rend="sup">1</hi></ref>!</p>
+                <p><milestone unit="testimony" spanTo="#quz_III-180_end" xml:id="quz_III-180"/>Gestern ging, mit der Fahrpost, der 9<hi rend="sup">te</hi> Band Manuscript an
+                    Sie ab, lieber Herr Factor<anchor xml:id="N148"/><ref target="#F148"><hi rend="sup">1</hi></ref>!</p>
                 <p>Bey <rs><hi rend="letter-spaced">nochmaliger</hi> ganz genauer Durchgehung des
                         Faust</rs> haben sich noch einige Druck- — vielleicht auch Schreibfehler —
                     mehr gefunden, als ich früher angab. Ich füge daher ein ganz vollständiges
-                    Verzeichniß bey, welches aber auch die früher angezeigten mit umfaßt<anchor
-                        xml:id="N149"/><ref target="#F149"><hi rend="sup">2</hi></ref>. Es ist gut,
+                    Verzeichniß bey, welches aber auch die früher angezeigten mit umfaßt<anchor xml:id="N149"/><ref target="#F149"><hi rend="sup">2</hi></ref>. Es ist gut,
                     daß noch Zeit ist, diese Fehler bey der Octav-Ausgabe zu beachten.</p>
-                <p>Sodann müssen wir wünschen, daß in der Octav-Ausgabe die im 45<hi rend="sup"
-                        >n</hi> Bd. S. 98. nachgetragene Note: „Zumeist pp. <hi rend="letter-spaced"
-                        >ganz wegbleibe,</hi> da sie ihren besondern Zweck nun schon erreicht
-                        hat<anchor xml:id="N150"/><ref target="#F150"><hi rend="sup"
-                        >3</hi></ref>.<anchor xml:id="quz_III-180_end"/></p>
+                <p>Sodann müssen wir wünschen, daß in der Octav-Ausgabe die im 45<hi rend="sup">n</hi> Bd. S. 98. nachgetragene Note: „Zumeist pp. <hi rend="letter-spaced">ganz wegbleibe,</hi> da sie ihren besondern Zweck nun schon erreicht
+                        hat<anchor xml:id="N150"/><ref target="#F150"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_III-180_end"/></p>
             </div>
             <pb n="148" facs="quz_3_0148.jpg"/>
             <div type="list">
@@ -1482,16 +1265,14 @@
                 <head type="editorial">
                     <num type="quz_3">180a</num>
                 </head>
-                <p><milestone unit="testimony" spanTo="#quz_III-180a_end" xml:id="quz_III-180a"
-                    />Goethe’s Werke letzter Hand in 12°.</p>
+                <p><milestone unit="testimony" spanTo="#quz_III-180a_end" xml:id="quz_III-180a"/>Goethe’s Werke letzter Hand in 12°.</p>
                 <p><rs>Bd. 41.</rs></p>
                 <p>(Folgende Verbesserungen wurden heute Nachmittag (d. 25. Febr. 33.) von Herrn Dr.
                     Eckermann genehmigt.)</p>
                 <table>
                     <row>
                         <cell>Seite 10 Zeile 9 von oben</cell>
-                        <cell>setze man nach Sterne; statt Semicolon zwei Punkte <hi
-                                rend="underline">:</hi> +</cell>
+                        <cell>setze man nach Sterne; statt Semicolon zwei Punkte <hi rend="underline">:</hi> +</cell>
                     </row>
                     <row>
                         <cell>— 13 — 1 von oben</cell>
@@ -1539,8 +1320,7 @@
                     </row>
                     <row>
                         <cell>— — — 2 — —</cell>
-                        <cell><hi rend="strikethrough">K</hi>ündigt <hi rend="underline"
-                            >k</hi></cell>
+                        <cell><hi rend="strikethrough">K</hi>ündigt <hi rend="underline">k</hi></cell>
                     </row>
                     <row>
                         <cell>— 42 — 19 — —</cell>
@@ -1683,8 +1463,7 @@
                     </row>
                     <row>
                         <cell>— 241 — 14 — —</cell>
-                        <cell>man setze <hi rend="underline">Nur</hi> statt <hi rend="strikethrough"
-                                >Run</hi></cell>
+                        <cell>man setze <hi rend="underline">Nur</hi> statt <hi rend="strikethrough">Run</hi></cell>
                     </row>
                     <row>
                         <cell>— 254. — 2 — —</cell>
@@ -1729,8 +1508,7 @@
                     </row>
                     <row>
                         <cell>— — — 4 von unten</cell>
-                        <cell>man setze den statt <hi rend="strikethrough">dem</hi> Das ich de<hi
-                                rend="underline">n</hi> Alten ausersah.</cell>
+                        <cell>man setze den statt <hi rend="strikethrough">dem</hi> Das ich de<hi rend="underline">n</hi> Alten ausersah.</cell>
                     </row>
                     <row>
                         <cell>— 309 — 7 von oben</cell>
@@ -1747,8 +1525,7 @@
                     </row>
                     <row>
                         <cell>— 320 — 17 — —</cell>
-                        <cell>pre<hi rend="strikethrough">ff</hi>e <hi rend="underline"
-                            >ss</hi>e</cell>
+                        <cell>pre<hi rend="strikethrough">ff</hi>e <hi rend="underline">ss</hi>e</cell>
                     </row>
                     <row>
                         <cell>— 327 — 16 — —</cell>
@@ -1756,8 +1533,7 @@
                     </row>
                     <row>
                         <cell>— — — 20 — —</cell>
-                        <cell>nach bräunt sich<hi rend="underline">,</hi> do<hi rend="underline"
-                                >rr’t</hi>, es brennt! Das schrumpft nicht nur, es bräunt sich,
+                        <cell>nach bräunt sich<hi rend="underline">,</hi> do<hi rend="underline">rr’t</hi>, es brennt! Das schrumpft nicht nur, es bräunt sich,
                             dorr’t, es brennt!<anchor xml:id="quz_III-180a_end"/></cell>
                     </row>
                 </table>
@@ -1773,24 +1549,16 @@
                 <head type="editorial">Augsburg, Reichel an Müller (NFG/GSA, Müller-Nachlaß 668,
                     25):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-184_end" xml:id="quz_III-184"/>Aus
-                    Ew. Hochwohlgeboren Verehrtem vom 25<anchor xml:id="N151"/><ref target="#F151"
-                            ><hi rend="sup">3</hi></ref>, das ich so eben erhalte, ersehe ich die
-                    Absendung des 9. Bandes, der also am nächsten Montag eintreffen wird<anchor
-                        xml:id="N152"/><ref target="#F152"><hi rend="sup">4</hi></ref>. Ich bin sehr
+                    Ew. Hochwohlgeboren Verehrtem vom 25<anchor xml:id="N151"/><ref target="#F151"><hi rend="sup">3</hi></ref>, das ich so eben erhalte, ersehe ich die
+                    Absendung des 9. Bandes, der also am nächsten Montag eintreffen wird<anchor xml:id="N152"/><ref target="#F152"><hi rend="sup">4</hi></ref>. Ich bin sehr
                     froh, denn mein M[anu]s[crip]t reicht nicht über den Montag hinaus.</p>
-                <p>Möge doch der 10<hi rend="sup">te</hi> und 7<hi rend="sup">te</hi> recht bald <hi
-                        rend="letter-spaced">mit</hi> einander kommen, denn ich kann sie nicht <hi
-                        rend="letter-spaced">hinter</hi> einander; sondern muß sie <hi
-                        rend="letter-spaced">neben</hi> einander drucken, weil in den Gedichten
+                <p>Möge doch der 10<hi rend="sup">te</hi> und 7<hi rend="sup">te</hi> recht bald <hi rend="letter-spaced">mit</hi> einander kommen, denn ich kann sie nicht <hi rend="letter-spaced">hinter</hi> einander; sondern muß sie <hi rend="letter-spaced">neben</hi> einander drucken, weil in den Gedichten
                     nicht 6 Setzer arbeiten könnten; aber so nehme ich denn 2 in die Gedichte und 4
                     in die Prosa des 9. und 10. Bandes. Daher bitte ich daß die Gedichte so bald nur
-                    irgend möglich gesandt werden<anchor xml:id="N153"/><ref target="#F153"><hi
-                            rend="sup">5</hi></ref>, daß ich sie sogleich noch neben dem 9. <hi
-                        rend="letter-spaced">beginnen</hi> kann, dadurch giebt es mehr Zeit zur
+                    irgend möglich gesandt werden<anchor xml:id="N153"/><ref target="#F153"><hi rend="sup">5</hi></ref>, daß ich sie sogleich noch neben dem 9. <hi rend="letter-spaced">beginnen</hi> kann, dadurch giebt es mehr Zeit zur
                     Redaction des 10ten . . . <rs>Von Faust in Octav sind bereits 7 Bg.
                         gedruckt.</rs> Ich werde die gesandten Druckfehler sogleich nachsehen,
-                    eintragen und mit dem Mpt. vergleichen lassen.<anchor xml:id="quz_III-184_end"
-                    /></p>
+                    eintragen und mit dem Mpt. vergleichen lassen.<anchor xml:id="quz_III-184_end"/></p>
             </div>
             <pb n="152" facs="quz_3_0152.jpg"/>
             <div type="letter">
@@ -1810,20 +1578,16 @@
                     angekommenen 9ten Bandes brachte, den ich nun diesen Nachmittag von dem Mauthamt
                     frei mache. Gleich nach Empfang wird nun auch über diesen hergefallen werden,
                     und Sie dürfen schon rechnen, daß von heute an bis 14 oder 15 März derselbe
-                        ausgesezt<anchor xml:id="N154"/><ref target="#F154"><hi rend="sup"
-                        >3</hi></ref>, und der neue nothwendig wieder in meinen Händen seyn
-                        sollte<anchor xml:id="N155"/><ref target="#F155"><hi rend="sup"
-                    >4</hi></ref>.</p>
+                        ausgesezt<anchor xml:id="N154"/><ref target="#F154"><hi rend="sup">3</hi></ref>, und der neue nothwendig wieder in meinen Händen seyn
+                        sollte<anchor xml:id="N155"/><ref target="#F155"><hi rend="sup">4</hi></ref>.</p>
                 <p>Sehr unlieb vernehme ich die noch <rs>aufgefundenen Druckfehler im Faust</rs>.
                     Was Sie bereits sandten, ist eingetragen, und werde ich alle mit dem Manuscript
-                    vergleichen lassen, um zu sehen, ob Setzer und Corrector sudelten<anchor
-                        xml:id="N156"/><ref target="#F156"><hi rend="sup">5</hi></ref>.</p>
+                    vergleichen lassen, um zu sehen, ob Setzer und Corrector sudelten<anchor xml:id="N156"/><ref target="#F156"><hi rend="sup">5</hi></ref>.</p>
                 <p>
                     <hi rend="italic">Zusatz Müllers:</hi>
                 </p>
                 <p>NB. den 6.<hi rend="sup">n</hi> u. 7.<hi rend="sup">n</hi> März 33 sandte ich die
-                    ersten 10 Bogen Manuscript der Gedichte an Reichel.<anchor
-                        xml:id="quz_III-186_end"/></p>
+                    ersten 10 Bogen Manuscript der Gedichte an Reichel.<anchor xml:id="quz_III-186_end"/></p>
             </div>
             <pb n="159" facs="quz_3_0159.jpg"/>
             <div type="letter">
@@ -1834,8 +1598,7 @@
                     <num type="quz_3">198</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an Müller (NFG/GSA, Müller-Nachlaß 668,
-                        32)<anchor xml:id="N157"/><ref target="#F157"><hi rend="sup"
-                    >4</hi></ref>:</head>
+                        32)<anchor xml:id="N157"/><ref target="#F157"><hi rend="sup">4</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-198_end" xml:id="quz_III-198"/>Ewr.
                     Hochwohlgeboren</p>
                 <p>empfangen hiebei Aushängebogen Nr. 17. 18. Wie ich den 46. Band gleich bei
@@ -1844,8 +1607,7 @@
                     gedruckt war, auf Bog. 17 die gewesene Seite von 6 Zeilen 261 noch auf 259 und
                     260 bringen, und gleiches that ich mit der Seite 270, die ich auf S. 267, 268
                     und 269 einbringen ließ; denn am Ende so ein einzelnes Blättchen drucken und
-                    einlegen müssen, ist ein trauriges Geschäft<anchor xml:id="N158"/><ref
-                        target="#F158"><hi rend="sup">5</hi></ref>.</p>
+                    einlegen müssen, ist ein trauriges Geschäft<anchor xml:id="N158"/><ref target="#F158"><hi rend="sup">5</hi></ref>.</p>
                 <p>Band 9 oder 49 ist in voller Arbeit. Dieser Band hat den Schmutztitel:</p>
                 <p>
                     <hi rend="letter-spaced">Einzelnheiten</hi>
@@ -1865,9 +1627,7 @@
                 <p>Dann beginnt eine neue Seite.</p>
                 <p>Maximen und Reflexionen</p>
                 <p>Erste Abtheilung.</p>
-                <p>Und so beginnt bei jeder Abtheilung mit Wiederholung der Worte: <hi
-                        rend="letter-spaced">„Maximen und Reflexionen“</hi><pb n="160"
-                        facs="quz_3_0160.jpg"/>eine neue Seite. Das hielt ich für irrig; denn wenn
+                <p>Und so beginnt bei jeder Abtheilung mit Wiederholung der Worte: <hi rend="letter-spaced">„Maximen und Reflexionen“</hi><pb n="160" facs="quz_3_0160.jpg"/>eine neue Seite. Das hielt ich für irrig; denn wenn
                     die 5<hi rend="sup">te</hi> Abtheilung vorbei ist, so kommt</p>
                 <p>
                     <hi rend="letter-spaced">Epochen geselliger Bildung</hi>
@@ -1878,8 +1638,7 @@
                     fort. Oder es müßte nach der 5<hi rend="sup">ten</hi> Abtheilung wieder ein
                     Titelblatt für die <hi rend="letter-spaced">folgenden</hi> Aufsätze gekommen
                     seyn. — Eben so müßte, wenn <hi rend="letter-spaced">Maximen und
-                        Reflexionen</hi> ein eigenes Blatt hat, auch <hi rend="letter-spaced"
-                        >nach</hi> dem Hauptschmutztitel ein eigenes Blatt stehen mit dem Titel</p>
+                        Reflexionen</hi> ein eigenes Blatt hat, auch <hi rend="letter-spaced">nach</hi> dem Hauptschmutztitel ein eigenes Blatt stehen mit dem Titel</p>
                 <p>
                     <hi rend="letter-spaced">Einzelnheiten.</hi>
                 </p>
@@ -1898,16 +1657,13 @@
                 </p>
                 <p>wieder eine neue Seite, sowie mit jedem der noch folgenden 15 Aufsätze.</p>
                 <p>Ich und meine Correctoren, so wie die Herren Doctoren Revisoren halten das für
-                    zweckmäsiger und natürlicher<anchor xml:id="N159"/><ref target="#F159"><hi
-                            rend="sup">1</hi></ref>.</p>
-                <p>Uebrigens stehen eine Menge dieser Maximen und Reflexionen schon im 2<hi
-                        rend="sup">ten</hi> Theil der Wanderjahre. Die denn also das Publikum 2mal
+                    zweckmäsiger und natürlicher<anchor xml:id="N159"/><ref target="#F159"><hi rend="sup">1</hi></ref>.</p>
+                <p>Uebrigens stehen eine Menge dieser Maximen und Reflexionen schon im 2<hi rend="sup">ten</hi> Theil der Wanderjahre. Die denn also das Publikum 2mal
                         erhält<anchor xml:id="N160"/><ref target="#F160"><hi rend="sup">2</hi></ref>
                     . . .</p>
                 <p><hi rend="italic">Nachschrift:</hi> Ich <rs>hielt den Druck des Faust in Octav
                         an</rs>, und erwarte schmerzlich die angedeuteten Druckfehler, um wieder
-                    flott zu werden<anchor xml:id="N161"/><ref target="#F161"><hi rend="sup"
-                        >3</hi></ref>.<anchor xml:id="quz_III-198_end"/></p>
+                    flott zu werden<anchor xml:id="N161"/><ref target="#F161"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_III-198_end"/></p>
             </div>
             <pb n="163" facs="quz_3_0163.jpg"/>
             <div type="letter">
@@ -1918,18 +1674,15 @@
                     <num type="quz_3">203</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an Müller (NFG/GSA, Müller-Nachlaß 668,
-                        35)<anchor xml:id="N162"/><ref target="#F162"><hi rend="sup"
-                    >3</hi></ref>:</head>
+                        35)<anchor xml:id="N162"/><ref target="#F162"><hi rend="sup">3</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-203_end" xml:id="quz_III-203"/>Ew.
                     Hochwohlgeboren</p>
                 <p>habe ich die Ehre anzuzeigen, daß, ob zwar die Nürnberger Briefpost, oder die
                     Reitpost, täglich ankommt, mir selbige heute aber kein Manuscript der Gedichte
-                    mitgebracht hat<anchor xml:id="N163"/><ref target="#F163"><hi rend="sup"
-                        >4</hi></ref>.</p>
+                    mitgebracht hat<anchor xml:id="N163"/><ref target="#F163"><hi rend="sup">4</hi></ref>.</p>
                 <p>Die eigentliche Ursache aber, weshalb ich Ew. Hochwohlgeb. heute schreibe ist,
                     daß ich noch immer die <rs>paar angedeuteten Druckfehler in Faust
-                        erwarte</rs><anchor xml:id="N164"/><ref target="#F164"><hi rend="sup"
-                        >5</hi></ref>, um solche in der Octav-Ausgabe zu verbessern, wenn es noch
+                        erwarte</rs><anchor xml:id="N164"/><ref target="#F164"><hi rend="sup">5</hi></ref>, um solche in der Octav-Ausgabe zu verbessern, wenn es noch
                     Zeit ist. Hätten Dieselben mir solche doch <hi rend="letter-spaced">gleich</hi>
                     angegeben, oder wenigstens nur die Pagina angedeutet, so konnte ich doch von 8 =
                     10 gesezten Octav-Bogen drucken lassen; so aber steht das alles still, und kann
@@ -1944,29 +1697,22 @@
             </div>
             <pb n="164" facs="quz_3_0164.jpg"/>
             <div type="letter">
-                <head type="editorial">[<date when="1833-03-13">13. 3. 1833</date>]<anchor
-                        xml:id="N165"/><ref target="#F165"><hi rend="sup">2</hi></ref></head>
+                <head type="editorial">[<date when="1833-03-13">13. 3. 1833</date>]<anchor xml:id="N165"/><ref target="#F165"><hi rend="sup">2</hi></ref></head>
                 <head type="editorial">
                     <num type="quz_3">205</num>
                 </head>
                 <head type="editorial">Müller an Eckermann (NFG/GSA, Müller-Nachlaß 665, 30):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-205_end" xml:id="quz_III-205"/>Hier
-                    6 Aushängebogen u. ein Reichelsches Briefchen<anchor xml:id="N166"/><ref
-                        target="#F166"><hi rend="sup">3</hi></ref>. Besprechen Sie, lieber Doctor,
+                    6 Aushängebogen u. ein Reichelsches Briefchen<anchor xml:id="N166"/><ref target="#F166"><hi rend="sup">3</hi></ref>. Besprechen Sie, lieber Doctor,
                     geneigtest mit Riemer, ob der Mann Recht hat, hinsichtlich der
-                        Abtheilungs-Aenderungen<anchor xml:id="N167"/><ref target="#F167"><hi
-                            rend="sup">4</hi></ref>.</p>
+                        Abtheilungs-Aenderungen<anchor xml:id="N167"/><ref target="#F167"><hi rend="sup">4</hi></ref>.</p>
                 <p>Sehen Sie daß ich nicht ohne Grund fürchtete, man werde vorwerfen, daß manches
                     zum 2<hi rend="sup">t</hi>. <hi rend="letter-spaced">enmale</hi> gedruckt sey.
                     Bey den aus den Opern p. entnommenen u. frisch zusammengestellten Gedichten mag
-                    man Ihre Gründe dafür gelten lassen; aber bey den <hi rend="letter-spaced"
-                        >Maximen</hi> ist es ein anderer Fall, u. was in den Wanderjahren davon
-                    schon vorkommt, sollten wir billig noch jezt ausmärzen<anchor xml:id="N168"
-                        /><ref target="#F168"><hi rend="sup">5</hi></ref> . . . Das <rs><hi
-                            rend="letter-spaced">neuste</hi> Verzeichniß der Faustischen
+                    man Ihre Gründe dafür gelten lassen; aber bey den <hi rend="letter-spaced">Maximen</hi> ist es ein anderer Fall, u. was in den Wanderjahren davon
+                    schon vorkommt, sollten wir billig noch jezt ausmärzen<anchor xml:id="N168"/><ref target="#F168"><hi rend="sup">5</hi></ref> . . . Das <rs><hi rend="letter-spaced">neuste</hi> Verzeichniß der Faustischen
                         Druckfehler</rs> gieng mit den Gedichten vor 8 Tagen ab u. Reichel muß es
-                    nun seit vorgestern haben<anchor xml:id="N169"/><ref target="#F169"><hi
-                            rend="sup">6</hi></ref>.<anchor xml:id="quz_III-205_end"/></p>
+                    nun seit vorgestern haben<anchor xml:id="N169"/><ref target="#F169"><hi rend="sup">6</hi></ref>.<anchor xml:id="quz_III-205_end"/></p>
             </div>
             <pb n="193" facs="quz_3_0193.jpg"/>
             <div type="letter">
@@ -1980,43 +1726,30 @@
                 <p><milestone unit="testimony" spanTo="#quz_III-251_end" xml:id="quz_III-251"/>Es
                     ist gewiß von hier aus das <hi rend="letter-spaced">Möglichste</hi> geleistet
                     worden, um Ihrem gerechten Streben, mit der 2<hi rend="sup">n</hi>. Lieferung
-                    zur Ostermeße fertig zu werden, Vorschub zu leisten; D. Eckermann und bezüg<pb
-                        n="194" facs="quz_3_0194-0195.jpg"/>lich Hofr. Riemer haben, mit
-                    Hintansetzung aller andern Dinge u. selbst von Berufsarbeiten<anchor
-                        xml:id="N170"/><ref target="#F170"><hi rend="sup">1</hi></ref>, Tag u.
+                    zur Ostermeße fertig zu werden, Vorschub zu leisten; D. Eckermann und bezüg<pb n="194" facs="quz_3_0194-0195.jpg"/>lich Hofr. Riemer haben, mit
+                    Hintansetzung aller andern Dinge u. selbst von Berufsarbeiten<anchor xml:id="N170"/><ref target="#F170"><hi rend="sup">1</hi></ref>, Tag u.
                         Nacht<anchor xml:id="N171"/><ref target="#F171"><hi rend="sup">2</hi></ref>
                     dem Zwecke sich gewidmet. Daß im Herbst vorigen Jahres der Abdruck der ersten
                     Bände zu langsam erfolgte, insbesondere das <rs>Manuscript vom Faust, welches
                         ich Anfangs Octobers schon in Stuttgart auslieferte</rs>, daselbst einige
-                    Wochen zurückblieb<anchor xml:id="N172"/><ref target="#F172"><hi rend="sup"
-                            >3</hi></ref>, war ja nicht unsre Schuld . . . Was <hi
-                        rend="letter-spaced">diejenigen</hi> Maximen u. Reflexionen anlangt, die
+                    Wochen zurückblieb<anchor xml:id="N172"/><ref target="#F172"><hi rend="sup">3</hi></ref>, war ja nicht unsre Schuld . . . Was <hi rend="letter-spaced">diejenigen</hi> Maximen u. Reflexionen anlangt, die
                     schon in den Wanderjahren gedruckt sind, so erregten sie bey mir selbst Anfangs
-                        Bedenken<anchor xml:id="N173"/><ref target="#F173"><hi rend="sup"
-                        >4</hi></ref>. Allein D. Eckermann bewieß mir, daß die Sache auf einer
-                    speciellen Anordnung des seeligen Verfassers u. auf guten Gründen beruhe<anchor
-                        xml:id="N174"/><ref target="#F174"><hi rend="sup">5</hi></ref>. Es sind
+                        Bedenken<anchor xml:id="N173"/><ref target="#F173"><hi rend="sup">4</hi></ref>. Allein D. Eckermann bewieß mir, daß die Sache auf einer
+                    speciellen Anordnung des seeligen Verfassers u. auf guten Gründen beruhe<anchor xml:id="N174"/><ref target="#F174"><hi rend="sup">5</hi></ref>. Es sind
                     nämlich die fraglichen Stellen in den Wanderjahren nur Probeweise und abgerißen
                     vorgekommen, theils um den tiefen Charackter der Makaria zu erläutern, gleichsam
                     wie Citate, theils um den Standpunct näher zu bezeichnen, aus welchem überhaupt
                     Goethe die Wanderjahre betrachtet wißen wollte.</p>
                 <p>In den nachgelaßenen Werken hingegen bilden jene Fragmente nun ein wohlgeordnetes
-                    Ganze und werden, vereinigt mit den früher <hi rend="letter-spaced"
-                        >Ungedrukten</hi>, auch so sich bedeutender ausnehmen.</p>
+                    Ganze und werden, vereinigt mit den früher <hi rend="letter-spaced">Ungedrukten</hi>, auch so sich bedeutender ausnehmen.</p>
                 <p>Es ist hier allerdings ganz derselbe Fall wie mit der Helena, die ebenfalls nur
                     als Probe vorausgieng, nun aber im 2<hi rend="sup">n</hi>. Theil des Faust nicht
                     fehlen durfte, wenn das Ganze nicht leiden, den Zusammenhang einbüßen sollte
-                    . . . Die Überzahl der Bogen in der ersten Lieferung ist bey der 2<hi rend="sup"
-                        >n</hi>. Lieferung ausgeglichen<anchor xml:id="N175"/><ref target="#F175"
-                            ><hi rend="sup">6</hi></ref> u. war nicht zu vermeiden, wenn nicht die
+                    . . . Die Überzahl der Bogen in der ersten Lieferung ist bey der 2<hi rend="sup">n</hi>. Lieferung ausgeglichen<anchor xml:id="N175"/><ref target="#F175"><hi rend="sup">6</hi></ref> u. war nicht zu vermeiden, wenn nicht die
                     sträflichste Zertrennung des Zusammengehörigen eintreten sollte.</p>
                 <p>Wir haben um dieser Ausgleichung willen einen sehr beträchtlichen Theil der
-                    Manuscripte, u. darunter sehr viel Köstliches weglaßen <pb n="195"
-                        facs="quz_3_0194-0195.jpg"/>müßen<anchor xml:id="N176"/><ref target="#F176"
-                            ><hi rend="sup">1</hi></ref>, indem sich weit mehr vorfand, als Goethe
-                    berechnet hatte, wie er den ganzen Nachlaß auf nur 15 Bände anschlug<anchor
-                        xml:id="N177"/><ref target="#F177"><hi rend="sup">2</hi></ref>.<anchor
-                        xml:id="quz_III-251_end"/></p>
+                    Manuscripte, u. darunter sehr viel Köstliches weglaßen <pb n="195" facs="quz_3_0194-0195.jpg"/>müßen<anchor xml:id="N176"/><ref target="#F176"><hi rend="sup">1</hi></ref>, indem sich weit mehr vorfand, als Goethe
+                    berechnet hatte, wie er den ganzen Nachlaß auf nur 15 Bände anschlug<anchor xml:id="N177"/><ref target="#F177"><hi rend="sup">2</hi></ref>.<anchor xml:id="quz_III-251_end"/></p>
             </div>
             <pb n="204" facs="quz_3_0204.jpg"/>
             <div type="letter">
@@ -2029,33 +1762,24 @@
                 <head type="editorial">Müller an Eckermann (NFG/GSA, Müller-Nachlaß 664, 23):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-262_end" xml:id="quz_III-262"/>Als
                     ich gestern früh die von Ihnen, lieber Herr u. Freund! so gewissenhaft
-                        <rs>durchcorrigirten Aushängebogen</rs><anchor xml:id="N178"/><ref
-                        target="#F178"><hi rend="sup">1</hi></ref> absenden wollte, fiel mir die + +
-                    + + Stelle S. 226<anchor xml:id="N179"/><ref target="#F179"><hi rend="sup"
-                            >2</hi></ref> schwer aufs Herz, was auch schon früher der Fall war
-                    jedoch damals von Riemern abgestritten wurde<anchor xml:id="N180"/><ref
-                        target="#F180"><hi rend="sup">3</hi></ref>.</p>
+                        <rs>durchcorrigirten Aushängebogen</rs><anchor xml:id="N178"/><ref target="#F178"><hi rend="sup">1</hi></ref> absenden wollte, fiel mir die + +
+                    + + Stelle S. 226<anchor xml:id="N179"/><ref target="#F179"><hi rend="sup">2</hi></ref> schwer aufs Herz, was auch schon früher der Fall war
+                    jedoch damals von Riemern abgestritten wurde<anchor xml:id="N180"/><ref target="#F180"><hi rend="sup">3</hi></ref>.</p>
                 <p>Ich schrieb deshalb an Leztern, erhielt aber erst Abends seine Antwort, die ich
-                    Ihnen nun beilege<anchor xml:id="N181"/><ref target="#F181"><hi rend="sup"
-                            >4</hi></ref>.</p>
+                    Ihnen nun beilege<anchor xml:id="N181"/><ref target="#F181"><hi rend="sup">4</hi></ref>.</p>
                 <p>Das Übrige seiner Zuschrift bezieht sich darauf, daß ich ihm mitgetheilt hatte,
-                    wie üblen Eindruck die Stelle „Die Racker sind doch gar zu appetitlich“<anchor
-                        xml:id="N182"/><ref target="#F182"><hi rend="sup">5</hi></ref> zu Berlin u.
+                    wie üblen Eindruck die Stelle „Die Racker sind doch gar zu appetitlich“<anchor xml:id="N182"/><ref target="#F182"><hi rend="sup">5</hi></ref> zu Berlin u.
                     auch hier mehrwärts u. resp. an hohen Orten gemacht habe . . . Nun aber würde
-                    das Weglassen des Corpus delicti S. 226 nur durch Umdruck des ganzen 15<hi
-                        rend="sup">n</hi>. Bogens zu bemöglichen seyn, welcher Umdruck auf unsre d.
+                    das Weglassen des Corpus delicti S. 226 nur durch Umdruck des ganzen 15<hi rend="sup">n</hi>. Bogens zu bemöglichen seyn, welcher Umdruck auf unsre d.
                     h. der Goetheschen Nachlaßmasse Kosten vor sich gehen müßte . . . Inzwischen
                     scheint alles darauf anzukommen, welche Gründe man habe, anzunehmen, daß Goethe
                     selbst, wenn er noch lebte, die fragliche Stelle würde haben drucken lassen?
                     Wobey ich freylich in dubio <hi rend="letter-spaced">Nein</hi> setzen
                     möchte.</p>
-                <p>Sehr leicht könnte man das Gedicht in der Octav-Ausgabe weglassen<anchor
-                        xml:id="N183"/><ref target="#F183"><hi rend="sup">6</hi></ref>.</p>
+                <p>Sehr leicht könnte man das Gedicht in der Octav-Ausgabe weglassen<anchor xml:id="N183"/><ref target="#F183"><hi rend="sup">6</hi></ref>.</p>
                 <p>Aber gerade in der 16.° Ausg. wird sie am meisten gelesen.</p>
                 <p>Sehen Sie nun zu, mein werther Freund! was Ihr Redactions-Gewissen, Ihre
-                    Erinnerungen, Ihre Sorge für Goethe’s Ruhm Ihnen eingeben<anchor xml:id="N184"
-                        /><ref target="#F184"><hi rend="sup">7</hi></ref>.<anchor
-                        xml:id="quz_III-262_end"/></p>
+                    Erinnerungen, Ihre Sorge für Goethe’s Ruhm Ihnen eingeben<anchor xml:id="N184"/><ref target="#F184"><hi rend="sup">7</hi></ref>.<anchor xml:id="quz_III-262_end"/></p>
             </div>
             <div type="letter">
                 <head type="editorial">
@@ -2064,23 +1788,19 @@
                 <head type="editorial">
                     <num type="quz_3">263</num>
                 </head>
-                <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 668, 74)<anchor
-                        xml:id="N185"/><ref target="#F185"><hi rend="sup">8</hi></ref>:</head>
+                <head type="editorial">Eckermann an Müller (NFG/GSA, Müller-Nachlaß 668, 74)<anchor xml:id="N185"/><ref target="#F185"><hi rend="sup">8</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-263_end" xml:id="quz_III-263"/>Wir
                     würden uns in unendliche Schwierigkeiten und Zweifel verwickeln, wenn wir bey
                     unserer Redaction individuellen Neigungen <pb n="205" facs="quz_3_0205.jpg"/>und
                     Abneigungen Gehör geben wollten. . . . Wir haben das was den Leuten an Goethen
                     nicht mundet, keineswegs zu verantworten, und wie man sicher nicht auf unsere
-                    Rechnung setzt was die Leute bey diesem Nachlaß <hi rend="letter-spaced"
-                        >entzückt,</hi> so kann man uns auch nicht zuschreiben, was ihnen etwa nicht
+                    Rechnung setzt was die Leute bey diesem Nachlaß <hi rend="letter-spaced">entzückt,</hi> so kann man uns auch nicht zuschreiben, was ihnen etwa nicht
                     so behagen mag.</p>
                 <p>Meine Instruction geht bloß dahin, dasjenige zu mildern oder ganz ungedruckt zu
                     lassen, was <hi rend="letter-spaced">nahmhafte Personen verletzen und beleidigen
                         könnte</hi>, weshalb denn auch bey dem Gedicht Alcinous Böttigers Name
-                        wegblieb<anchor xml:id="N186"/><ref target="#F186"><hi rend="sup"
-                        >1</hi></ref>.</p>
-                <p>Ferner von den Gedichten <hi rend="letter-spaced">die Erotica</hi> und <hi
-                        rend="letter-spaced">Priapeia</hi>, die ich denn nun auch eingesiegelt habe
+                        wegblieb<anchor xml:id="N186"/><ref target="#F186"><hi rend="sup">1</hi></ref>.</p>
+                <p>Ferner von den Gedichten <hi rend="letter-spaced">die Erotica</hi> und <hi rend="letter-spaced">Priapeia</hi>, die ich denn nun auch eingesiegelt habe
                     um sie so in Goethes Archiv zurückzugeben.</p>
                 <p>Die <hi rend="letter-spaced">Politica</hi> aber hat Goethe mir besonders zur
                     Herausgabe übergeben und auf das <hi rend="letter-spaced">fragliche</hi> Gedicht
@@ -2095,16 +1815,13 @@
                     seyn . . . Das Gefallen oder Mißfallen unserer höchsten Herrschaften hätte in
                     der That keiner mehr zu berücksichtigen als ich, dessen häusliche Lage noch
                     keineswegs so gesichert ist, als daß ich auf so hohe Einflüsse nicht zu achten
-                    brauchte. Allein aller Gunst der Lebenden ziehe ich vor: <hi
-                        rend="letter-spaced">den Willen des Verstorbenen zu thun</hi><anchor
-                        xml:id="N187"/><ref target="#F187"><hi rend="sup">2</hi></ref> . . . Alles
+                    brauchte. Allein aller Gunst der Lebenden ziehe ich vor: <hi rend="letter-spaced">den Willen des Verstorbenen zu thun</hi><anchor xml:id="N187"/><ref target="#F187"><hi rend="sup">2</hi></ref> . . . Alles
                     bedenkend also, und wenn ich der mir gewordenen Instruction treulich nachkommen
                     will, kann ich meine Zustimmung zur Hinweglassung des Gedichtes über Napoleon
                         <hi rend="letter-spaced">nicht</hi> geben . . . In diesem Falle freut es
                     mich nebenbey daß eine Hinweglassung des fraglichen Gedichts auch ganz unmöglich
                     ist. Morgen am 9<hi rend="sup">n</hi>. endet der Druck der ganzen
-                        Lieferung<anchor xml:id="N188"/><ref target="#F188"><hi rend="sup"
-                        >3</hi></ref>. Über<pb n="206" facs="quz_3_0206.jpg"/>morgen fängt man schon
+                        Lieferung<anchor xml:id="N188"/><ref target="#F188"><hi rend="sup">3</hi></ref>. Über<pb n="206" facs="quz_3_0206.jpg"/>morgen fängt man schon
                     an <rs>die einzelnen Bände zu rangiren und zum Verpacken vorzubereiten</rs>, und
                     es ist an eine Änderung im Druck der kleinen Ausgabe gar nicht mehr zu denken.
                     Und ein Gedicht, nachdem man es 20,000 mal in der kleinen Ausgabe gedruckt hat,
@@ -2112,7 +1829,53 @@
                     keinen Grund.<anchor xml:id="quz_III-263_end"/></p>
             </div>
             <pb n="207" facs="quz_3_0207.jpg"/>
-            <!-- div type="editorial" entfernt -->
+            <div type="letter">
+                <head type="editorial">
+                    <date when="1833-04-15">15. 4. 1833</date>
+                </head>
+                <head type="editorial">
+                    <num type="quz_3">266</num>
+                </head>
+                <head type="editorial">Augsburg, J. G. Cotta an Müller (NFG/GSA, Müller-Nachlaß 661,
+                    100 f)<anchor xml:id="N189"/><ref target="#F189"><hi rend="sup">2</hi></ref>:</head>
+                <p><milestone unit="testimony" spanTo="#quz_III-266_end" xml:id="quz_III-266"/>Habe
+                    ich nun in meinem Letzten<anchor xml:id="N190"/><ref target="#F190"><hi rend="sup">3</hi></ref> wegen des ungeordneten, kostspieligen und
+                    zeitraubenden <rs>Zusendens des Manuscripts zu reclamiren</rs> gehabt, so liegt
+                    mir diese unangenehme Pflicht nun leider auch wegen des Inhaltes ob, und nicht
+                    zwar allein im Interesse der Verlagshandlung, sondern gleich sehr im Interesse
+                    des Publicums.</p>
+                <p>Es sind nehmlich nicht Bogen, sondern es steigt bis zu Bänden an, was in den
+                    frühern Werken Göthe’s schon Abgedrucktes, hier im Nachlasse <hi rend="letter-spaced">wieder abgedruckt</hi> worden ist<anchor xml:id="N191"/><ref target="#F191"><hi rend="sup">4</hi></ref>, während es nach dem
+                    trockenen Wortsinn schon nicht zum Nachlaß gerechnet werden kann. Hat nun mein
+                    Vater schon so wie gleichfalls ich, Namens der J. G. Cotta’schen Buchhandlung
+                    hiegegen bei Euer Hochwohlgeboren reclamirt<anchor xml:id="N192"/><ref target="#F192"><hi rend="sup">5</hi></ref>, und geschah die Zusendung des
+                    Manuscripts in der Art, daß das Durchlesen so wie allenfallsige Communicationen
+                    über den Druck desselben nicht mehr möglich waren, wollte man versprochener
+                    Maßen die zweite Lieferung noch zur Messe bringen, so trifft gewiß weder mich
+                    noch meinen Vater, noch die Buchhandlung irgend ein Vorwurf der Saumseligkeit
+                    oder des Einverständnisses.</p>
+                <p>Bei dem von allen Seiten einlaufenden herben und bittersten Tadel, bei privatim
+                    mir zukommendem Vorwurf von Seiten der ausgezeichnetsten Männer unsrer Zeit,
+                    glaube ich nun nicht länger mehr schweigen zu dürfen, sondern wie hiemit
+                    geschieht, die rechtsbündigste Verwahrung einlegen zu müssen. — Das Publicum,
+                    die Käufer <pb n="208" facs="quz_3_0208.jpg"/>nehmlich, werden über Täuschung
+                    und Unrecht schreien, und es ist zu vermuthen, daß der Unwille nicht eben in den
+                    mäßigsten Ausdrücken, und keinesfalls zu Ehren des Göthe’schen Namens,
+                    Nachlasses und seiner Geschäftsführung sich aussprechen werde.</p>
+                <p>Ich kann nicht sagen, wie mich dieß schmerzt, wie es mich in wahre Schwermuth
+                    versenkt, um so mehr als ganz unverschuldet die J. G. Cotta’sche Buchhandlung
+                    zugleich mit angeklagt werden wird.</p>
+                <p>Was von Seiten dieser Handlung hiegegen zu geschehen hat, ist mir ganz und gar
+                    klar, allein es kann meinen Kummer nicht lindern.</p>
+                <p>Daß aber von Seiten der Redaction des Nachlasses etwas das Publicum Beruhigendes
+                    seiner Zeit geschehen muß, steht mir nicht minder deutlich vor Augen, denn die
+                    Ehre des Göthe’schen Namens und das vereinigte Interesse der Göthe’schen Enkel,
+                    wie der J. G. Cotta’schen Buchhandlung heischen es gebieterisch<anchor xml:id="N193"/><ref target="#F193"><hi rend="sup">1</hi></ref> . . . Aus
+                    diesem Grunde<anchor xml:id="N194"/><ref target="#F194"><hi rend="sup">2</hi></ref> muß denn wohl der Redaction und dem Inhalt der dritten
+                    Lieferung alle erdenkliche Aufmerksamkeit gewidmet, lezterer möglichst
+                    reichhaltig gemacht, und alles schon Gedruckte daraus gänzlich entfernt gehalten
+                        werden<anchor xml:id="N195"/><ref target="#F195"><hi rend="sup">3</hi></ref>.<anchor xml:id="quz_III-266_end"/></p>
+            </div>
             <pb n="286" facs="quz_3_0286.jpg"/>
             <div type="letter">
                 <head type="editorial">
@@ -2125,8 +1888,7 @@
                     Konzept):</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-365_end" xml:id="quz_III-365"/>Ich
                     fürchte, daß vereinzelte Ausgaben in der Folgezeit sehr bereut werden
-                        würden<anchor xml:id="N196"/><ref target="#F196"><hi rend="sup"
-                    >2</hi></ref>. Höchstens mit den Gedichten möchte eine Ausnahme allenfalls
+                        würden<anchor xml:id="N196"/><ref target="#F196"><hi rend="sup">2</hi></ref>. Höchstens mit den Gedichten möchte eine Ausnahme allenfalls
                     stattfinden und diese in Einem Band aufs eleganteste zusammengedruckt genugsamen
                     Absatz versprechen, ohne der Gesammt-Ausgabe sehr zu schaden. Etwas anderes ist
                         <pb n="287" facs="quz_3_0287.jpg"/>es wenn Sie sich blos darauf beschränken
@@ -2138,8 +1900,7 @@
                     Bestandtheile des großen Ganzen außer etwa, wie oben gesagt, der Gedichte und —
                     möchte ich hinzufügen — des <rs>Faust, der in Einen eleganten Band gebracht mit
                         genau berichtigten Druckfehlern</rs> und etwas wohlfeiler als die bereits
-                    käuflichen zwei Bändchen auf Velin, wohl auch vielfache Liebhaber fände.<anchor
-                        xml:id="quz_III-365_end"/></p>
+                    käuflichen zwei Bändchen auf Velin, wohl auch vielfache Liebhaber fände.<anchor xml:id="quz_III-365_end"/></p>
             </div>
             <pb n="292" facs="quz_3_0292.jpg"/>
             <div type="list">
@@ -2152,8 +1913,7 @@
                 <head type="editorial">Aufstellung Eckermanns (NFG/GSA, Verwaltung des
                     Goethe-Nachlasses I, 3: 63):</head>
                 <table>
-                    <head rend="centered"><milestone unit="testimony" spanTo="#quz_III-371_end"
-                            xml:id="quz_III-371"/><hi rend="letter-spaced">Ungedruckt</hi>
+                    <head rend="centered"><milestone unit="testimony" spanTo="#quz_III-371_end" xml:id="quz_III-371"/><hi rend="letter-spaced">Ungedruckt</hi>
                         großtentheils Manuscript <hi rend="letter-spaced">Gedichte</hi></head>
                     <row>
                         <cell rows="8">1. Bändchen</cell>
@@ -2178,8 +1938,7 @@
                         <cell>„ „ Zahme Xenien.</cell>
                     </row>
                     <row>
-                        <cell>Der ewige Jude.<anchor xml:id="N197"/><ref target="#F197"><hi
-                                    rend="sup">1</hi></ref></cell>
+                        <cell>Der ewige Jude.<anchor xml:id="N197"/><ref target="#F197"><hi rend="sup">1</hi></ref></cell>
                     </row>
                 </table>
                 <pb n="293" facs="quz_3_0293.jpg"/>
@@ -2234,10 +1993,8 @@
                         <rs>Paralipomena zu Faust</rs> habe ich auf den Rath des Herrn Hofrath
                     Riemer weggelassen, denn er hat ganz recht, es würde die Menschen nur irre
                     machen.</p>
-                <p>Lila habe ich abermals gelesen und das kleine Stück so <pb n="317"
-                        facs="quz_3_0317.jpg"/>gut und hübsch gefunden daß ich mich nicht enthalten
-                    konnte es aufzunehmen<anchor xml:id="N198"/><ref target="#F198"><hi rend="sup"
-                            >1</hi></ref>.<anchor xml:id="quz_III-393_end"/></p>
+                <p>Lila habe ich abermals gelesen und das kleine Stück so <pb n="317" facs="quz_3_0317.jpg"/>gut und hübsch gefunden daß ich mich nicht enthalten
+                    konnte es aufzunehmen<anchor xml:id="N198"/><ref target="#F198"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-393_end"/></p>
             </div>
             <pb n="330" facs="quz_3_0330.jpg"/>
             <div type="letter">
@@ -2256,19 +2013,15 @@
                     Dramatischen zu den eigentlichen Theaterreden gedacht, und ihn auch deshalb
                     früher nicht darunter begriffen hatte.</p>
                 <p>Mieding und Schillers Glocke möchte ich aus dem Grunde daß sie am Schluß blieben,
-                    weil alle übrigen Prologe und Epiloge sich auf <hi rend="letter-spaced"
-                        >Theater</hi> und <hi rend="letter-spaced">Theater-Stücke</hi> beziehen,
+                    weil alle übrigen Prologe und Epiloge sich auf <hi rend="letter-spaced">Theater</hi> und <hi rend="letter-spaced">Theater-Stücke</hi> beziehen,
                     diese beyden Gedichte aber zwey <hi rend="letter-spaced">Personen</hi> zum
                     Gegenstande haben.</p>
                 <p>In solchen Fällen, wo man etwas Höheres bezweckt kann die chronologische Folge
                     (die überall nie consequent durchzuführen ist) immerhin nachstehen.</p>
                 <p>Wenn wir den Monolog von Hanswursts Hochzeit mittheilen wollen, so müßten wir es
                     wohl an <hi rend="letter-spaced">der</hi> Stelle thun, die Goethe selbst dafür
-                    ausersehen hat und wie auch schon früher Ihre Meinung war, nämlich im 4.<hi
-                        rend="sup">n</hi> Bande von Wahrheit und Dichtung S. 88. über der zweyten
-                    Zeile von unten<anchor xml:id="N199"/><ref target="#F199"><hi rend="sup"
-                        >1</hi></ref>. Der Theaterzettel<anchor xml:id="N200"/><ref target="#F200"
-                            ><hi rend="sup">2</hi></ref> ist nicht mittheilbar und wäre ganz gegen
+                    ausersehen hat und wie auch schon früher Ihre Meinung war, nämlich im 4.<hi rend="sup">n</hi> Bande von Wahrheit und Dichtung S. 88. über der zweyten
+                    Zeile von unten<anchor xml:id="N199"/><ref target="#F199"><hi rend="sup">1</hi></ref>. Der Theaterzettel<anchor xml:id="N200"/><ref target="#F200"><hi rend="sup">2</hi></ref> ist nicht mittheilbar und wäre ganz gegen
                     Göthes Willen.</p>
                 <p>Der ewige Jude paßte wohl zu den Geheimnissen wie auch früher Ihre Ansicht war,
                     und wohin ich ihn in Gedanken notirt habe . . . Ich sage Ihnen den besten Dank
@@ -2277,17 +2030,14 @@
             </div>
             <pb n="331" facs="quz_3_0331.jpg"/>
             <div type="list">
-                <head type="editorial">[Ende <date when="1836-01-00">Jan</date>/Anf <date
-                        when="1836-02-00">Febr</date>]</head>
+                <head type="editorial">[Ende <date when="1836-01-00">Jan</date>/Anf <date when="1836-02-00">Febr</date>]</head>
                 <head type="editorial">
                     <num type="quz_3">409</num>
                 </head>
                 <head type="editorial">Aufstellung Riemers (NFG/GSA, Müller-Nachlaß 670,
                     128):</head>
                 <table>
-                    <head rend="centered"><milestone unit="testimony" spanTo="#quz_III-409_end"
-                            xml:id="quz_III-409"/>Des ersten Bandes Erste Abtheilung<anchor
-                            xml:id="N201"/><ref target="#F201"><hi rend="sup">2</hi></ref></head>
+                    <head rend="centered"><milestone unit="testimony" spanTo="#quz_III-409_end" xml:id="quz_III-409"/>Des ersten Bandes Erste Abtheilung<anchor xml:id="N201"/><ref target="#F201"><hi rend="sup">2</hi></ref></head>
                     <row>
                         <cell>Die Laune des Verliebten</cell>
                         <cell>1769. concip[iert]</cell>
@@ -2297,8 +2047,7 @@
                         <cell>1769. concip.</cell>
                     </row>
                     <row>
-                        <cell>Satyros<anchor xml:id="N202"/><ref target="#F202"><hi rend="sup"
-                                    >3</hi></ref></cell>
+                        <cell>Satyros<anchor xml:id="N202"/><ref target="#F202"><hi rend="sup">3</hi></ref></cell>
                         <cell>1770 und ff. concip.</cell>
                     </row>
                     <row>
@@ -2331,16 +2080,14 @@
                     </row>
                     <row>
                         <cell><rs>Faust 2</rs><hi rend="sup">r</hi> Thl.</cell>
-                        <cell>1769 oder 1770 die Helena bereits <hi rend="italic"
-                            >[Lücke]</hi></cell>
+                        <cell>1769 oder 1770 die Helena bereits <hi rend="italic">[Lücke]</hi></cell>
                     </row>
                     <row>
                         <cell>Künstlers Erdewallen</cell>
                         <cell>177..</cell>
                     </row>
                     <row>
-                        <cell>Künstlers Apotheose<anchor xml:id="N203"/><ref target="#F203"><hi
-                                    rend="sup">4</hi></ref></cell>
+                        <cell>Künstlers Apotheose<anchor xml:id="N203"/><ref target="#F203"><hi rend="sup">4</hi></ref></cell>
                         <cell>177..</cell>
                     </row>
                     <row>
@@ -2349,8 +2096,7 @@
                     </row>
                     <pb n="332" facs="quz_3_0332.jpg"/>
                     <row>
-                        <cell>Nausikaa<anchor xml:id="N204"/><ref target="#F204"><hi rend="sup"
-                                    >1</hi></ref></cell>
+                        <cell>Nausikaa<anchor xml:id="N204"/><ref target="#F204"><hi rend="sup">1</hi></ref></cell>
                         <cell>1787.</cell>
                     </row>
                     <row>
@@ -2370,8 +2116,7 @@
                         <cell>1769. concip. <hi rend="underline">1773</hi>. gedr 1774. 1787.</cell>
                     </row>
                     <row>
-                        <cell>Egmont<anchor xml:id="N205"/><ref target="#F205"><hi rend="sup"
-                                >2</hi></ref></cell>
+                        <cell>Egmont<anchor xml:id="N205"/><ref target="#F205"><hi rend="sup">2</hi></ref></cell>
                         <cell>1778. 1788.</cell>
                     </row>
                     <row>
@@ -2419,8 +2164,7 @@
                         <cell>1775. 1780</cell>
                     </row>
                     <row>
-                        <cell>Jery und Bätely<anchor xml:id="N206"/><ref target="#F206"><hi
-                                    rend="sup">3</hi></ref></cell>
+                        <cell>Jery und Bätely<anchor xml:id="N206"/><ref target="#F206"><hi rend="sup">3</hi></ref></cell>
                         <cell>1779. 1780. 1790.</cell>
                     </row>
                     <row>
@@ -2452,8 +2196,7 @@
                         <cell>1810 sie ist wenigstens als Festvorspiel gedacht und erfunden.</cell>
                     </row>
                     <row>
-                        <cell>Epimenides Erwachen<anchor xml:id="N207"/><ref target="#F207"><hi
-                                    rend="sup">4</hi></ref></cell>
+                        <cell>Epimenides Erwachen<anchor xml:id="N207"/><ref target="#F207"><hi rend="sup">4</hi></ref></cell>
                         <cell>1814. 1815.</cell>
                     </row>
                     <row>
@@ -2510,8 +2253,7 @@
                         <cell>1815.</cell>
                     </row>
                     <row>
-                        <cell>Prolog für Berlin<anchor xml:id="N208"/><ref target="#F208"><hi
-                                    rend="sup">1</hi></ref></cell>
+                        <cell>Prolog für Berlin<anchor xml:id="N208"/><ref target="#F208"><hi rend="sup">1</hi></ref></cell>
                         <cell>1821.<anchor xml:id="quz_III-409_end"/></cell>
                     </row>
                 </table>
@@ -2532,8 +2274,7 @@
                     heute Morgen gleich zusammengestellt und dann es den Herren Hofrath Riemer und
                     Dr. Eckermann vorgelegt, welche beide es richtig und für diesen Zweck
                     ausführlich genug hielten . . . Die Rücksendung von der Cotta’schen Buchhandlung
-                    des <rs>Verzeichnisses über den dramatischen Theil</rs><anchor xml:id="N209"
-                        /><ref target="#F209"><hi rend="sup">2</hi></ref> erlaube ich mir nochmals
+                    des <rs>Verzeichnisses über den dramatischen Theil</rs><anchor xml:id="N209"/><ref target="#F209"><hi rend="sup">2</hi></ref> erlaube ich mir nochmals
                     in geneigte Erinnerung zu bringen.<anchor xml:id="quz_III-449_end"/></p>
             </div>
             <div type="list">
@@ -2570,12 +2311,10 @@
                     <item>Hans Wursts Hochzeit, Fragment.</item>
                     <item>Die ungleichen Hausgenossen, Singspiel, Fragment.</item>
                     <item>Pläne und Fragmente, unvollendete Trauerspiele, Opern und Kantaten,
-                        namentlich zur Jubelfeier von Luthers Reformation<anchor xml:id="N210"/><ref
-                            target="#F210"><hi rend="sup">1</hi></ref>.</item>
+                        namentlich zur Jubelfeier von Luthers Reformation<anchor xml:id="N210"/><ref target="#F210"><hi rend="sup">1</hi></ref>.</item>
                     <item><rs>Paralipomena zu Faust</rs>.</item>
                 </list>
-                <p>Die Reise der sieben Brüder, Fragment eines Romans<anchor xml:id="N211"/><ref
-                        target="#F211"><hi rend="sup">2</hi></ref>.</p>
+                <p>Die Reise der sieben Brüder, Fragment eines Romans<anchor xml:id="N211"/><ref target="#F211"><hi rend="sup">2</hi></ref>.</p>
                 <p>Biographische Einzelnheiten<anchor xml:id="quz_III-449a_end"/></p>
             </div>
             <pb n="386" facs="quz_3_0386.jpg"/>
@@ -2586,8 +2325,7 @@
                 <head type="editorial">
                     <num type="quz_3">483</num>
                 </head>
-                <head type="editorial">Riemer an Müller (NFG/GSA, Müller-Nachlaß 670, 336 f)<anchor
-                        xml:id="N212"/><ref target="#F212"><hi rend="sup">1</hi></ref>:</head>
+                <head type="editorial">Riemer an Müller (NFG/GSA, Müller-Nachlaß 670, 336 f)<anchor xml:id="N212"/><ref target="#F212"><hi rend="sup">1</hi></ref>:</head>
                 <p><milestone unit="testimony" spanTo="#quz_III-483_end" xml:id="quz_III-483"/>Unser
                     Publicum, das zum größern Theil aus Frauen und Mädchen, Jünglingen und Knaben
                     besteht, und unsre Zeit die den Heiligen die Zehen abfrißt, kann freylich durch
@@ -2613,18 +2351,13 @@
                     Angabe der Personen oder Figuren, mit abgerissenen Worten müßte allerdings
                     beybehalten werden, damit ein Kunstverständiger, Dichter oder Bildner, sehe der
                     Poet habe ein Wesentliches seiner Fabel nicht übersehen, sondern diese Partieen
-                    nur angedeutet und nicht detaillirt. Man muß das <hi rend="letter-spaced"
-                        >Harzgebirge</hi> sehen. Die ganze Scenerie unter der Ueberschrift <hi
-                        rend="letter-spaced">Höhere Region</hi> muß bleiben. Man muß auf dem Gipfel
-                    des Brockens den Satan auf seinem Thron. <pb n="387" facs="quz_3_0387.jpg"
-                    />Großes Volk umher. Faust und Mephistopheles im nächsten Kreise sehen. Man muß
-                    des Satans erste Worte wenigstens vernehmen. Diese Parodie von <hi
-                        rend="letter-spaced">Böcken zur Rechten, Ziegen zur Linken</hi> ist zu
+                    nur angedeutet und nicht detaillirt. Man muß das <hi rend="letter-spaced">Harzgebirge</hi> sehen. Die ganze Scenerie unter der Ueberschrift <hi rend="letter-spaced">Höhere Region</hi> muß bleiben. Man muß auf dem Gipfel
+                    des Brockens den Satan auf seinem Thron. <pb n="387" facs="quz_3_0387.jpg"/>Großes Volk umher. Faust und Mephistopheles im nächsten Kreise sehen. Man muß
+                    des Satans erste Worte wenigstens vernehmen. Diese Parodie von <hi rend="letter-spaced">Böcken zur Rechten, Ziegen zur Linken</hi> ist zu
                     characteristisch für den Teufel, dem man <hi rend="letter-spaced">für den
                         Teufel!</hi> doch erlauben wird ein <hi rend="letter-spaced">Atheist</hi>
                     seyn zu dürfen! Nach den Kirchenvätern ist er ein Simia Dei, macht dem lieben
-                    Gott alles nach (wie er denn auch den Merlin erzeugt hat, auch mit einer <hi
-                        rend="letter-spaced">Jungfrau</hi>, um Christi Erscheinung und Wirken einen
+                    Gott alles nach (wie er denn auch den Merlin erzeugt hat, auch mit einer <hi rend="letter-spaced">Jungfrau</hi>, um Christi Erscheinung und Wirken einen
                     Gegner und Widersacher zu stellen) — kurz er parodirt den Herrn und hält daher
                     auch <hi rend="letter-spaced">Audienz</hi>. Davon hernach! — Es muß daher auch
                     der <hi rend="letter-spaced">Chor</hi> bleiben, der übrigens nichts Anstößiges
@@ -2647,8 +2380,7 @@
                 <p>Die Privataudienz ist gleichfalls nicht ganz aufzugeben. Die unendlich feine
                     Ironie die darin liegt, daß der Simia Dei sich den H — küssen läßt, wie der
                     Stellvertreter Christi den Pantoffel, ist zu bedeutend und wenn man einmal über
-                    den <hi rend="letter-spaced">Hund</hi> kommt, kommt man auch über den <hi
-                        rend="letter-spaced">Schwanz</hi>!</p>
+                    den <hi rend="letter-spaced">Hund</hi> kommt, kommt man auch über den <hi rend="letter-spaced">Schwanz</hi>!</p>
                 <p>Nach dieser Ansicht vom Ganzen habe ich die wegzulassenden Stellen mit Bleystift
                     durchstrichen oder umklammert. So läßt es sich nicht nur ertragen, sondern auch
                     nothdürftig verstehen, und mehr braucht man auch nicht. Versteht man doch — oder
@@ -2662,10 +2394,8 @@
                     es ja wohl mit dem M[anu]sc[ri]pt des Fausts, das ich alleweile noch durch zu
                     corrigiren habe, abgehen können.</p>
                 <p>Andre <rs>Paralipomena vom Faust</rs> sind mir nicht bekannt. Denn die Scene im
-                    IV Bande S. 220—224.<anchor xml:id="N213"/><ref target="#F213"><hi rend="sup"
-                            >1</hi></ref> paßt gar nicht in unsern Faust, und ist blos zum Behuf der
-                    Aufführung des Faust bey Fürst Radzivil, als ein <hi rend="letter-spaced"
-                        >technischer</hi> Behelf von G. erfunden worden; aber meines Erachtens nicht
+                    IV Bande S. 220—224.<anchor xml:id="N213"/><ref target="#F213"><hi rend="sup">1</hi></ref> paßt gar nicht in unsern Faust, und ist blos zum Behuf der
+                    Aufführung des Faust bey Fürst Radzivil, als ein <hi rend="letter-spaced">technischer</hi> Behelf von G. erfunden worden; aber meines Erachtens nicht
                     glücklich, wie denn das Nachbessern und Einschieben dem seligen Herrn nicht
                     immer gelingen wollte.<anchor xml:id="quz_III-483_end"/></p>
             </div>
@@ -2686,13 +2416,11 @@
                     Musculus ist damit bey Riemer gewesen, der denn seine entschiedene Zustimmung
                     gegeben hat.</p>
                 <p>Unten <pb n="389" facs="quz_3_0389.jpg"/>auf der letzten Seite habe ich eine
-                    kleine Note gemacht, denn es möchte nicht jeder Leser wissen daß mit dem <hi
-                        rend="letter-spaced">Reichsverweser Christus</hi> gemeint sey. Ich wußte es
+                    kleine Note gemacht, denn es möchte nicht jeder Leser wissen daß mit dem <hi rend="letter-spaced">Reichsverweser Christus</hi> gemeint sey. Ich wußte es
                     nicht, Musculus auch nicht, wir haben es von Riemer. Sind Sie also der Meinung,
                     daß die kleine Note zum Verständniß nützlich, so schreiben Sie das Wort
                     vielleicht mit Tinte, sind Sie aber der Meinung daß es unnöthig, so ist es
-                    leicht weggewischt<anchor xml:id="N214"/><ref target="#F214"><hi rend="sup"
-                            >1</hi></ref>.<anchor xml:id="quz_III-485_end"/></p>
+                    leicht weggewischt<anchor xml:id="N214"/><ref target="#F214"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-485_end"/></p>
             </div>
             <pb n="390" facs="quz_3_0390.jpg"/>
             <div type="letter">
@@ -2703,8 +2431,7 @@
                     <num type="quz_3">489</num>
                 </head>
                 <head type="editorial">Müller an die J. G. Cottasche Buchhandlung (SNM/CA):</head>
-                <p><milestone unit="testimony" spanTo="#quz_III-489_end" xml:id="quz_III-489"
-                    />Dieselben erhalten hierbey:</p>
+                <p><milestone unit="testimony" spanTo="#quz_III-489_end" xml:id="quz_III-489"/>Dieselben erhalten hierbey:</p>
                 <p>1.) das Inhalts Verzeichniß der ganzen 2.<hi rend="sup">ten</hi> Abtheilung des
                         1.<hi rend="sup">ten</hi> Bandes der neuen Goetheschen Ausgabe,</p>
                 <p>2) den <rs>als Manuscript revidirten <hi rend="letter-spaced">Faust</hi></rs>, 2
@@ -2715,10 +2442,33 @@
                 <p>5) Fragmente einer Tragödie,</p>
                 <p>6) Elpenor,</p>
                 <p>7) Nausicaa.</p>
-                <p>Bald soll das Übrige nachfolgen<anchor xml:id="N215"/><ref target="#F215"><hi
-                            rend="sup">1</hi></ref>.<anchor xml:id="quz_III-489_end"/></p>
+                <p>Bald soll das Übrige nachfolgen<anchor xml:id="N215"/><ref target="#F215"><hi rend="sup">1</hi></ref>.<anchor xml:id="quz_III-489_end"/></p>
             </div>
-            <!-- div type="editorial" entfernt -->
+            <div type="editorial">
+                <gap reason="copyright"/>
+                <p>
+                    <anchor xml:id="F6"/>
+                    <ref target="#N6"><hi rend="sup">2</hi><gap reason="copyright"/><milestone unit="testimony" spanTo="#quz_III-2A_end" xml:id="quz_III-2A"/><quote>Täglich wende ich 3 Abendstunden auf <rs>Durchsicht von
+                                Nachlaßpapieren</rs> und noch bin ich nicht mit dem 20.<hi rend="sup">n</hi> Theil fertig. Es ist unglaublich, welche Schätze
+                            sich finden in jeder Hinsicht</quote><anchor xml:id="quz_III-2A_end"/>.</ref>
+                </p>
+                <gap reason="copyright"/>
+                <p>
+                    <anchor xml:id="F29"/>
+                    <ref target="#N29"><hi rend="sup">4</hi><gap reason="copyright"/>
+                            <milestone unit="testimony" spanTo="#quz_III-44A_end" xml:id="quz_III-44A"/><quote>Mit Riemer werde ich noch heute <rs>wegen
+                                Faust pp. sprechen</rs></quote>.<anchor xml:id="quz_III-44A_end"/>
+                        <gap reason="copyright"/></ref>
+                </p>
+                <gap reason="copyright"/>
+                <p>
+                    <anchor xml:id="F35"/>
+                    <ref target="#N35"><hi rend="sup">2</hi><gap reason="copyright"/><milestone unit="testimony" spanTo="#quz_III-48A_end" xml:id="quz_III-48A"/><quote><rs>Schickte
+                                Eckermann den Faust</rs>. Abends schickte ich das Manuskript . . .
+                            an den Kanzler</quote>.<anchor xml:id="quz_III-48A_end"/></ref>
+                </p>
+                <gap reason="copyright"/>
+            </div>
         </body>
     </text>
 </TEI>

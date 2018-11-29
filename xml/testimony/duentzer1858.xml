@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,9 +44,7 @@
                 <p>Unſre Prinzeſſin läßt Dich vielmals grüßen. Sie will durchaus haben, daß Du
                     Deinen Geburtstag bei uns celebriren ſollſt, und wir, Boschen und ich, wollen es
                     auch haben, da wir nicht ſelbſt kommen können und Dich doch ſo gerne wiederſehen
-                    möchten. — Der Prinzeß macht ihr Incognito in Deinem artigen Gedicht <anchor
-                        xml:id="N2"/><ref target="#F2">**)</ref> großes Vergnügen. <pb n="355"
-                        facs="duentzer1858_0355.jpg"/>Es freut ſie eigentlich nur Deine gute Meinung
+                    möchten. — Der Prinzeß macht ihr Incognito in Deinem artigen Gedicht <anchor xml:id="N2"/><ref target="#F2">**)</ref> großes Vergnügen. <pb n="355" facs="duentzer1858_0355.jpg"/>Es freut ſie eigentlich nur Deine gute Meinung
                     von ihr und nicht juſt die vom Publikum. —</p>
             </div>
             <pb n="541" facs="duentzer1858_0541.jpg"/>
@@ -71,13 +69,11 @@
                     viel Gutes für <pb n="542" facs="duentzer1858_0542.jpg"/>die ganze liebe
                     mecklenburger Kolonie aufgetragen. Er reiſte dießmal etwas früher des ſchönen
                     Wetters wegen, und hofft auch früher, in der Mitte Julius, wieder
-                    zurückzukommen. <milestone unit="testimony" spanTo="#graef_1128_end"
-                        xml:id="graef_1128"/>Noch ſagte er mir, er habe die <rs>6 ſchönen
+                    zurückzukommen. <milestone unit="testimony" spanTo="#graef_1128_end" xml:id="graef_1128"/>Noch ſagte er mir, er habe die <rs>6 ſchönen
                         Zeichnungen des ratzeburger Nauwercks</rs> zurückbehalten, und zwar aus
                     Spekulation für den Künſtler. Dieſer verlange für das Stück 25 Thaler ſächſiſch,
                     alſo für alle zuſammen 150 Thaler. Vielleicht möge es unſrer Prinzeß einmal
-                    anſtändig ſein, ſie zu nehmen. Mit der Bezahlung habe es noch Zeit.<anchor
-                        xml:id="graef_1128_end"/></p>
+                    anſtändig ſein, ſie zu nehmen. Mit der Bezahlung habe es noch Zeit.<anchor xml:id="graef_1128_end"/></p>
                 <p>Von Deinen dermaligen Landsleuten, die hier ſtudiren, möchte ich Dir gerne viel
                     Gutes ſchreiben können, ich kann es aber nicht mit gutem Gewiſſen thun. Es iſt
                     eine ziemliche Anzahl derſelben hier, die ſchon von Heidelberg ihres übeln
@@ -140,8 +136,7 @@
                     und ſpielt trefflich auf dem Klavier. Sie brachte mit ihren Eltern zwei Jahre in
                     Rom und Neapel zu, und hat ſich ſehr gebildet. Noch baten wir — denn ich muß des
                     Tages wegen alle die Namen nennen — den Hofrath Stark und ſeine Frau, den
-                    Präſident Müffling, der eben hier war, und Herrn von Münchow, dann noch <hi
-                        rend="antiqua">Dr.</hi> Gries, den Prof. Voigt, Köthe, meiſt lauter
+                    Präſident Müffling, der eben hier war, und Herrn von Münchow, dann noch <hi rend="antiqua">Dr.</hi> Gries, den Prof. Voigt, Köthe, meiſt lauter
                     drackendorfer Freunde, ſo daß wir in allem 13 waren. Man muß es der Silvie und
                     ihren Freundinnen laſſen, daß ſie die Geſellſchaft angenehm zu unterhalten
                     wiſſen, und daß zumal jener der leichte, gute Humor nicht ausgeht. Es war
@@ -156,8 +151,7 @@
                     ging, auf dem Klavier geſpielt und geſungen, wo mir der Geſang und die Methode
                     der Mademoiſelle Schlick ſehr wohl gefiel. Dieſe tanzte auch die Tarantella
                     höchſt zierlich, wobei ich mich der Grazie unſrer holden Prinzeſſin erinnerte.
-                    Auch die Silvie ſang einige Tirolerliedchen ſehr naiv. So ging es <pb n="550"
-                        facs="duentzer1858_0550.jpg"/>fort bis den Abend, wo ſie ſämmtlich wieder
+                    Auch die Silvie ſang einige Tirolerliedchen ſehr naiv. So ging es <pb n="550" facs="duentzer1858_0550.jpg"/>fort bis den Abend, wo ſie ſämmtlich wieder
                     Abſchied nahmen, und ich mit Voigt noch ein Weilchen ſpazieren ging, ſo daß kein
                     trüber Gedanke den ganzen Tag befleckte.</p>
                 <p>Nun kamen Abends ſpäter die Briefe von den Freundinnen aus Weimar an, wo mir Frau
@@ -187,8 +181,7 @@
                     Dieſes kleine deutſche Fürſtenweſen, ſo viel Gutes es ſonſt haben könnte,
                     verſinkt aber täglich mehr, weil die Fürſten es nicht halten können. Sie müßten
                     auf die ſimpelſten Grundſätze der Regierung und des eignen perſönlichen Werthes
-                    zurückkehren können, um den Dingen, die unter ihnen ſtehen, einige <pb n="551"
-                        facs="duentzer1858_0551.jpg"/>Dauer zu geben. Dieſes vermögen ſie aber
+                    zurückkehren können, um den Dingen, die unter ihnen ſtehen, einige <pb n="551" facs="duentzer1858_0551.jpg"/>Dauer zu geben. Dieſes vermögen ſie aber
                     nicht, hängen an ihren alten Vorurtheilen und verdorbenen Leidenſchaften und
                     Geſchmack, wollen dabei doch etwas wirken und ſchaffen, und ſetzen dadurch die
                     Dinge nur aus allem Zuſammenhang und aller Harmonie.</p>
@@ -209,15 +202,13 @@
                     denkt. Was die meiſten thun, das thut er auch. Dieſe ahmen den Führer nach, der
                     ſelbſt von Leidenſchaften, Wahn und Thorheit geführet wird — und ſo irren ſie
                     nun in der Wüſte umher, keiner weiß, was er will. —</p>
-                <p>Den 3. Juli. Ich kam geſtern nicht mehr zum Schreiben. Goethe <anchor xml:id="N4"
-                        /><ref target="#F4">*)</ref> fand ich ein wenig hypochonder. Der Zufall der
+                <p>Den 3. Juli. Ich kam geſtern nicht mehr zum Schreiben. Goethe <anchor xml:id="N4"/><ref target="#F4">*)</ref> fand ich ein wenig hypochonder. Der Zufall der
                     Herzogin geht ihm ſehr nahe, auch ſcheint es, daß die Badewelt kein ſonderliches
                     Intereſſe ihm mehr giebt. Man hört jetzt nirgends mehr viel Gutes, und der
                     Leichtſinn der Menſchen thut auch eben keine ſonderliche Wirkung. Man iſt beſſer
                     zu Hauſe und bei ſich, wo ein vernünftiger Mann noch immer Reſſourcen genug
                     findet. Goethe wird ſich wahrſcheinlich einige Zeit hier aufhalten, wenigſtens
-                    bis zur Rückkunft der Fürſtinnen nach Weimar. <milestone unit="testimony"
-                        spanTo="#graef_1131_end" xml:id="graef_1131"/>Ich ſagte ihm, daß die
+                    bis zur Rückkunft der Fürſtinnen nach Weimar. <milestone unit="testimony" spanTo="#graef_1131_end" xml:id="graef_1131"/>Ich ſagte ihm, daß die
                     Prinzeſſin die <rs>Zeichnungen des ratzeburgers Künſtlers</rs> wohl aufnehmen
                     würde. Er fand einen Augenblick Anſtand, der Prinzeſſin Koſten dadurch zu
                     verurſachen, doch glaubte <pb n="552" facs="duentzer1858_0552.jpg"/>er nachher,

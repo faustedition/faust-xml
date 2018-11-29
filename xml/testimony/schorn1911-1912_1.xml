@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -20,8 +20,7 @@
         <body>
             <pb n="76" facs="schorn1911-1912_1_0076.jpg"/>
             <div type="letter">
-                <p>Am 27. März 1827 ſchrieb der Kanzler v. Müller aus Weimar an Schorn:<anchor
-                        xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi></ref></p>
+                <p>Am 27. März 1827 ſchrieb der Kanzler v. Müller aus Weimar an Schorn:<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi></ref></p>
                 <p><milestone unit="testimony" spanTo="#bie3_5956_end" xml:id="bie3_5956"/><hi rend="small">Von Goethe kann ich Ihnen die allerbeſten Nachrichten
                         hinſichtlich ſeines Wohlbefindens und heitrer Thätigkeit geben. Er hat
                         dieſen Winter kräftiger als noch irgend einen frühern überſtanden, iſt ſogar
@@ -37,8 +36,7 @@
                         kommen wird und wo auch ſeine eigne Aſche dereinſt neben der des Freundes in
                         einem Sarkophag ruhen ſoll.</hi><anchor xml:id="bie3_5956_end"/></p>
                 <p><hi rend="small">Sie haben ſich unterdeſſen zu München faſt täglich noch mehr
-                        bereichert. Welche reiche Erwerbung machen Sie nun auch an Boiſſer<hi
-                            rend="antiqua">é</hi>e’s Sammlung. Faſt möchte man ſagen, es komme zu
+                        bereichert. Welche reiche Erwerbung machen Sie nun auch an Boiſſer<hi rend="antiqua">é</hi>e’s Sammlung. Faſt möchte man ſagen, es komme zu
                         viel der Schätze an einem Orte zuſammen! Aber Ihnen perſönlich kann man
                         doppelt dazu Glückwünſchen.</hi></p>
             </div>

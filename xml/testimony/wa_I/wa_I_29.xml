@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -92,8 +91,7 @@
 
                 <p>Aber auch hier sollte durch Zufälligkeiten eine so einfache Angelegenheit
                     verwickelt, durch Leidenschaftlichkeit <pb n="182"/> verwirrt und nahezu völlig
-                    vernichtet werden: <milestone unit="testimony" spanTo="#graef_1151a_end"
-                        xml:id="graef_1151a" next="#graef_1151a_b"/>denn nachdem ich überall
+                    vernichtet werden: <milestone unit="testimony" spanTo="#graef_1151a_end" xml:id="graef_1151a" next="#graef_1151a_b"/>denn nachdem ich überall
                     Abschied genommen und den Tag meiner Abreise verkündet, sodann aber eilig
                     eingepackt und dabei meiner <rs>ungedruckten Schriften</rs> nicht vergessen,
                     erwartete ich die Stunde, die den gedachten Freund im neuen Wagen herbeiführen
@@ -113,8 +111,7 @@
                     dadurch sollte vermehrt werden. Eine solche Beruhigung und neue Zufriedenheit
                     war ihm aber auch nöthig: denn er machte über das Außenbleiben des Wagens die
                     bedenklichsten Glossen. Er hielt das Ganze abermals nur für eine Erfindung,
-                    glaubte an keinen neuen Landauer, hielt den zurückgebliebenen Cavalier <pb
-                        n="183"/> für ein Luftgespenst; welches er mir zwar nur indirect zu
+                    glaubte an keinen neuen Landauer, hielt den zurückgebliebenen Cavalier <pb n="183"/> für ein Luftgespenst; welches er mir zwar nur indirect zu
                     verstehen gab, dagegen aber sich und meine Mutter desto ausführlicher quälte,
                     indem er das Ganze als einen lustigen Hofstreich ansah, den man in Gefolg meiner
                     Unarten habe ausgehen lassen, um mich zu kränken und zu beschämen, wenn ich
@@ -160,8 +157,7 @@
                 <lb/>
                 <lb/>
 
-                <p><milestone unit="testimony" spanTo="#graef_1151a_end_b" xml:id="graef_1151a_b"
-                    />Noch einige Tage verstrichen und die Hypothese meines Vaters gewann immer mehr
+                <p><milestone unit="testimony" spanTo="#graef_1151a_end_b" xml:id="graef_1151a_b"/>Noch einige Tage verstrichen und die Hypothese meines Vaters gewann immer mehr
                     Wahrscheinlichkeit, <pb n="185"/> da auch nicht einmal ein Brief von Karlsruhe
                     kam, welcher die Ursachen der Verzögerung des Wagens angegeben hätte. Meine
                     Dichtung gerieth in's Stocken und nun hatte mein Vater gutes Spiel bei der
@@ -177,14 +173,12 @@
 
             <!-- graef_1187 WA I, 29, 225 -->
             <div>
-                <p><milestone unit="testimony" spanTo="#graef_1187_end" xml:id="graef_1187"
-                    />Geheimes Archiv wunderlicher Produktionen&#0160;&#0160;&#0160; <rs>Faust</rs>.
-                    &#0160;&#0160;&#0160; Hanswursts Hochzeit &#0160;&#0160;&#0160; Ewiger Jude.
-                    &#0160;&#0160;&#0160; Invectiven und Widerstreit im Innern.
-                    &#0160;&#0160;&#0160; Rhythmus. &#0160;&#0160;&#0160; Reim.
-                    &#0160;&#0160;&#0160; Quantität. &#0160;&#0160;&#0160; Goetz. Prosa<anchor
-                        xml:id="graef_1187_end"/> &#0160;&#0160;&#0160; Haß gegen Sulzers Theorie
-                    (Haß --- Theorie) &#0160;&#0160;&#0160; Versuch der Trennung von Lili.</p>
+                <p><milestone unit="testimony" spanTo="#graef_1187_end" xml:id="graef_1187"/>Geheimes Archiv wunderlicher Produktionen    <rs>Faust</rs>.
+                        Hanswursts Hochzeit     Ewiger Jude.
+                        Invectiven und Widerstreit im Innern.
+                        Rhythmus.     Reim.
+                        Quantität.     Goetz. Prosa<anchor xml:id="graef_1187_end"/>     Haß gegen Sulzers Theorie
+                    (Haß --- Theorie)     Versuch der Trennung von Lili.</p>
             </div>
         </body>
     </text>

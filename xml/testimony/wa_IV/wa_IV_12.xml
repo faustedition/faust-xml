@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:f="http://faustedition.net/ns"
-    xmlns:xi="http://www.w3.org/2001/XInclude"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:math="http://www.w3.org/1998/Math/MathML"
-    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -51,8 +44,7 @@
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1797-06-22"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_906_end"
-                        xml:id="graef_906"/>Da es höchst nöthig ist daß ich mir, in meinem jetzigen
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_906_end" xml:id="graef_906"/>Da es höchst nöthig ist daß ich mir, in meinem jetzigen
                     unruhigen Zustande, etwas zu thun gebe, so <rs>habe ich mich entschlossen an meinen
                     Faust zu gehen und ihn, wo nicht zu vollenden, doch wenigstens um ein gutes
                     Theil weiter zu bringen</rs>, indem ich das was gedruckt ist, wieder auflöse und, mit
@@ -72,8 +64,7 @@
                     und Nebelweg gebracht, und die Umstände <pb n="168"/> rathen mir, in mehr als in
                     Einem Sinne, eine Zeit lang darauf herum zu irren.</p>
                 <p rend="indentchar-m4n0"> Das interessante meines neuen epischen Plans geht
-                    vielleicht auch in einem solchen Reim- und Strophendunst in die Luft,<anchor
-                        xml:id="graef_906_end"/> wir wollen es noch ein wenig cohobiren lassen. Für
+                    vielleicht auch in einem solchen Reim- und Strophendunst in die Luft,<anchor xml:id="graef_906_end"/> wir wollen es noch ein wenig cohobiren lassen. Für
                     heute leben Sie recht wohl! Karl war gestern in meinem Garten, ohngeachtet des
                     übeln Wetters, recht vergnügt. Ich hätte gern Ihre liebe Frau, wenn sie hier
                     geblieben wäre, mit den Ihrigen, heute Abend bey mir gesehen. Wenn Sie sich nur
@@ -89,8 +80,7 @@
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1797-06-24"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_911_end"
-                        xml:id="graef_911"/>Dank für Ihre ersten Worte <rs>über den wieder auflebenden
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_911_end" xml:id="graef_911"/>Dank für Ihre ersten Worte <rs>über den wieder auflebenden
                     Faust</rs>. Wir werden wohl in der Ansicht dieses Werkes nicht variiren, doch giebt's
                     gleich einen ganz andern Muth zur Arbeit, wenn man seine Gedanken und Vorsätze
                     auch von außen bezeichnet sieht, und Ihre Theilnahme ist in mehr als Einem Sinne
@@ -120,8 +110,7 @@
                 <p rend="indentchar-m4n0">Der Ring des Polykrates ist sehr gut dargestellt. Der
                     königliche Freund vor dessen, wie vor des Zuhörers, Augen alles geschieht und
                     der Schluß, der die Erfüllung in Suspenso läßt, alles ist sehr gut. Ich wünsche
-                    daß mir mein Gegenstück eben so gerathen möge! <milestone unit="testimony"
-                        spanTo="#graef_914_end" xml:id="graef_914"/>Ihre <rs>Bemerkungen zu Faust</rs> waren
+                    daß mir mein Gegenstück eben so gerathen möge! <milestone unit="testimony" spanTo="#graef_914_end" xml:id="graef_914"/>Ihre <rs>Bemerkungen zu Faust</rs> waren
                     mir sehr erfreulich. Sie treffen, wie es natürlich war, mit meinen Vorsätzen und
                     Planen recht gut zusammen, nur daß ich mir's bey dieser barbarischen Composition
                     bequemer mache und die höchsten Forderungen mehr zu berühren als zu erfüllen
@@ -136,8 +125,7 @@
                     freyer Luft macht, der Herbst ist immer unsere beste Zeit.</p>
                 <p rend="indentchar-m4n0"> Leben Sie recht wohl und fahren Sie fleißig fort Ihren
                     Almanach auszustatten. Da ich durch meinen Faust bey dem Reimwesen gehalten
-                    werde, so werde ich gewiß auch noch einiges liefern;<anchor
-                        xml:id="graef_914_end"/> es scheint mir jetzt auch ausgemacht daß meine
+                    werde, so werde ich gewiß auch noch einiges liefern;<anchor xml:id="graef_914_end"/> es scheint mir jetzt auch ausgemacht daß meine
                     Tieger und Löwen in diese Form gehören, ich fürchte nur fast daß das eigentliche
                     Interessante des Sujetes sich zuletzt gar in eine Ballade auflösen möchte. Wir
                     wollen abwarten an welches Ufer der Genius das Schifflein treibt.</p>
@@ -264,8 +252,7 @@
                     <lb/>An <persName>Friedrich Schiller</persName>
                     <date when="1797-07-05"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_918_end"
-                        xml:id="graef_918"/><rs>Faust ist die Zeit zurückgelegt worden</rs>, die nordischen
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_918_end" xml:id="graef_918"/><rs>Faust ist die Zeit zurückgelegt worden</rs>, die nordischen
                     Phantome sind durch die südlichen Reminiscenzen <pb n="182"/> auf einige Zeit
                     zurückgedrängt worden, doch habe ich das Ganze als Schema und Übersicht sehr
                     umständlich durchgeführt.<anchor xml:id="graef_918_end"/></p>
@@ -285,8 +272,7 @@
                     und pathetische auch in den bildenden Künsten dringt.</p>
                 <p rend="indentchar-m4n0"> Ich habe bey dieser Gelegenheit mich eines Aufsatzes
                     erinnert, den ich vor mehrern Jahren schrieb, und habe, da ich ihn nicht finden
-                    konnte, das Material, dessen ich noch wohl eingedenk bin, nach meiner (und <pb
-                        n="183"/> ich darf wohl sagen, <hi rend="italic">unserer</hi>) jetzigen
+                    konnte, das Material, dessen ich noch wohl eingedenk bin, nach meiner (und <pb n="183"/> ich darf wohl sagen, <hi rend="italic">unserer</hi>) jetzigen
                     Überzeugung zusammengestellt. Vielleicht kann ich es Sonnabend überschicken. Der
                     Hirtische Aufsatz ist eine gute Vorbereitung dazu, da er die neuste Veranlassung
                     gegeben hat. Vielleicht giebt dieses, besonders wenn Meyer mit seinen Schätzen
@@ -322,12 +308,10 @@
                     meiner Sorge für Ihre Gesundheit, bey dem Gefühl des Werthes, den ich auf unser
                     einziges Verhältniß lege, war mir die Lage der Sache äußerst schmerzlich und
                     mein durch die Lähmung unseres Plans ohnehin schon sehr gekränktes Gemüth ward
-                    nun durch die Nachricht von Ihrem Zustande noch mehr angegriffen. <milestone
-                        unit="testimony" spanTo="#graef_919_end" xml:id="graef_919"/>Ich machte mir
+                    nun durch die Nachricht von Ihrem Zustande noch mehr angegriffen. <milestone unit="testimony" spanTo="#graef_919_end" xml:id="graef_919"/>Ich machte mir
                     Vorwürfe daß ich, trotz der Umstände, nicht früher gegangen sey Sie aufzusuchen,
                     ich stellte mir Ihr einsames Verhältniß und Ihre Empfindungen recht lebhaft vor
-                    und <rs>arbeitete ohne Trieb und Behaglichkeit</rs>, blos um mich zu zerstreuen.<anchor
-                        xml:id="graef_919_end"/> Nun geht eine neue Epoche an, in welcher alles eine
+                    und <rs>arbeitete ohne Trieb und Behaglichkeit</rs>, blos um mich zu zerstreuen.<anchor xml:id="graef_919_end"/> Nun geht eine neue Epoche an, in welcher alles eine
                     bessere Gestalt gewinnen wird, aus unserm eigentlichen Unternehmen mag nun
                     werden was will. Sorgen Sie einzig für Ihre Gesundheit und ordnen Sie das
                     Gesammelte nach Lust und Belieben. Alles was Sie thun ist gut, denn alles hat
@@ -373,8 +357,7 @@
                     ich im allgemeinen sehe und erfahre schließt sich recht gut an alles übrige an,
                     was mir sonst bekannt ist, und ist mir nicht unangenehm, weil es in der ganzen
                     Masse meiner Kenntnisse mitzählt und das Capital vermehren hilft. Dagegen wüßte
-                    ich noch nichts was mir auf der ganzen Reise nur irgend eine Art von <hi
-                        rend="italic">Empfindung</hi> gegeben hätte, sondern ich bin heute so ruhig
+                    ich noch nichts was mir auf der ganzen Reise nur irgend eine Art von <hi rend="italic">Empfindung</hi> gegeben hätte, sondern ich bin heute so ruhig
                     und unbewegt als ich es jemals, bey den gewöhnlichsten Umständen und Vorfällen
                     gewesen. Woher denn also diese scheinbare Sentimentalität, die mir um so
                     auffallender ist, weil ich seit langer Zeit in meinem Wesen gar keine Spur,
@@ -388,17 +371,14 @@
                     Repräsentanten von vielen andern dastehen, eine gewisse Totalität in sich
                     schließen, eine gewisse Reihe fordern, ähnliches und fremdes in meinem Geiste
                     aufregen und so von außen wie von innen an eine gewisse Einheit und Allheit
-                    Anspruch machen. Sie sind also, was ein glückliches Sujet dem <hi rend="italic"
-                        >Dichter</hi> ist, glückliche Gegenstände für den <hi rend="italic"
-                        >Menschen,</hi> und weil man, indem man sie mit sich selbst recapitulirt,
+                    Anspruch machen. Sie sind also, was ein glückliches Sujet dem <hi rend="italic">Dichter</hi> ist, glückliche Gegenstände für den <hi rend="italic">Menschen,</hi> und weil man, indem man sie mit sich selbst recapitulirt,
                     ihnen keine <hi rend="italic">poetische</hi> Form geben kann, so muß man ihnen
                     doch eine <hi rend="italic">ideale</hi> geben, eine<hi rend="italic">
                         menschliche</hi> im höhern Sinn, das man auch mit einem so sehr mißbrauchten
                     Ausdruck sentimental nannte, und Sie werden also wohl nicht lachen, sondern nur
                     lächeln, wenn ich Ihnen hiermit zu meiner eignen Verwunderung darlege, daß ich,
                     wenn ich irgend von meinen Reisen etwas für Freunde oder für's Publicum
-                    aufzeichnen soll, wahrscheinlich noch in Gefahr komme <hi rend="italic"
-                        >empfindsame Reisen</hi> zu schreiben. Doch ich würde, wie Sie mich wohl
+                    aufzeichnen soll, wahrscheinlich noch in Gefahr komme <hi rend="italic">empfindsame Reisen</hi> zu schreiben. Doch ich würde, wie Sie mich wohl
                     kennen, kein <pb n="245"/> Wort, auch das verrufenste nicht fürchten, wenn die
                     Behandlung mich rechtfertigen, ja wenn ich so glücklich seyn könnte einem
                     verrufenen Nahmen seine Würde wieder zu geben.</p>
@@ -427,8 +407,7 @@
                     dastehen muß.</p>
                 <p rend="indentchar-m4n0"> Bey diesem Falle kommt denn freylich eine liebevolle
                     Erinnrung dazu, wenn man aber, durch diese Fälle aufmerksam gemacht, künftig bey
-                    weitern Fortschritten der Reise nicht sowohl auf's <hi rend="italic"
-                        >merkwürdige</hi> sondern auf's <hi rend="italic">bedeutende</hi> seine
+                    weitern Fortschritten der Reise nicht sowohl auf's <hi rend="italic">merkwürdige</hi> sondern auf's <hi rend="italic">bedeutende</hi> seine
                     Aufmerksamkeit richtete, so müßte man, für sich und andere, doch zuletzt eine
                     schöne Erndte gewinnen. Ich will es erst noch hier versuchen was ich
                     symbolisches bemerken kann, besonders aber an fremden Orten, die ich zum
@@ -438,10 +417,8 @@
                     bekannten Ländern und Gegenden davon tragen.</p>
                 <p rend="indentchar-m4n0"> Sagen Sie mir Ihre Gedanken hierüber in guter Stunde,
                     damit ich erweitert, befestigt, bestärkt und erfreut werde. Die Sache ist
-                    wichtig, denn sie hebt den Widerspruch, der zwischen meiner Natur und der <pb
-                        n="247"/> unmittelbaren Erfahrung lag, den in früherer Zeit ich niemals
-                    lösen konnte, sogleich auf, und glücklich, denn <milestone unit="testimony"
-                        spanTo="#graef_920_end" xml:id="graef_920"/>ich gestehe Ihnen, daß ich
+                    wichtig, denn sie hebt den Widerspruch, der zwischen meiner Natur und der <pb n="247"/> unmittelbaren Erfahrung lag, den in früherer Zeit ich niemals
+                    lösen konnte, sogleich auf, und glücklich, denn <milestone unit="testimony" spanTo="#graef_920_end" xml:id="graef_920"/>ich gestehe Ihnen, daß ich
                     <rs>lieber gerad nach Hause zurückgekehrt wäre, um, aus meinem Innersten, Phantome
                     jeder Art hervorzuarbeiten</rs>, als daß ich mich noch einmal, wie sonst (da mir das
                     Aufzählen eines Einzelnen nun einmal nicht gegeben ist) mit der milionfachen
@@ -490,8 +467,7 @@
                     übergehen, und dann den Mörder zwar dumm, roh und laut, aber doch nur dem Kreise
                     der Nachbarn vernehmlich, seine gaffende Bemerkung ausrufen lassen. Daraus
                     entständen zwischen ihm und den nächsten Zuschauern Händel, <pb n="260"/>
-                    dadurch würde das Volk aufmerksam u.s.w. Auf diesem Weg, so wie durch den <hi
-                        rend="italic">Zug</hi> der Kraniche würde alles ganz in's Natürliche
+                    dadurch würde das Volk aufmerksam u.s.w. Auf diesem Weg, so wie durch den <hi rend="italic">Zug</hi> der Kraniche würde alles ganz in's Natürliche
                     gespielt und nach meiner Empfindung die Wirkung erhöht, da jetzt der 15. Vers zu
                     laut und bedeutend anfängt und man fast etwas anders erwartet. Wenn Sie hie und
                     da an den Reim noch einige Sorgfalt wenden, so wird das übrige leicht gethan
@@ -523,8 +499,7 @@
                 <p rend="indentchar-m4n0"> Bey allem dem leugne ich nicht daß mich mehrmals eine
                     Sehnsucht nach dem Saalgrunde wieder anwandelt und, würde ich heute dahin
                     versetzt, so würde ich gleich, ohne irgend einen Rückblick, etwa meinen Faust
-                    oder sonst ein poetisches Werk anfangen können.<anchor xml:id="graef_921_end"
-                    /></p>
+                    oder sonst ein poetisches Werk anfangen können.<anchor xml:id="graef_921_end"/></p>
                 <p rend="indentchar-m4n0"> An Wallenstein denken Sie wohl gegenwärtig, da der
                     Almanach besorgt seyn will, wenig oder nicht? lassen Sie mich doch davon, wenn
                     Sie weiter vorwärts rücken, auch etwas vernehmen.</p>
@@ -588,8 +563,7 @@
                     allegorisch sind, so stellen sie sich der Imagination oft eben so gut und noch
                     besser dar als dem Auge, und wenn man eine so große Masse übersehen kann, so
                     lassen sich über französischen Geist und Kunst, im allgemeinen, recht artige
-                    Bemerkungen machen und das Einzelne, wenn man auch nicht <hi rend="italic"
-                        >lichtenbergisiren</hi> kann noch will, läßt sich doch immer heiter und
+                    Bemerkungen machen und das Einzelne, wenn man auch nicht <hi rend="italic">lichtenbergisiren</hi> kann noch will, läßt sich doch immer heiter und
                     munter genug stellen, daß man es gerne lesen wird. In der Schweiz finde ich
                     gewiß noch mehr und vielleicht auch die frühern. Es würde daraus ein ganz
                     artiger Aufsatz entstehen, durch welchen das Octoberstück einen ziemlichen
@@ -624,8 +598,7 @@
                         <pb n="372"/> müßte mir Jena erscheinen wenn ich Sie drüben nicht anträfe?
                     Ich freue mich nunmehr auf diesen Aufenthalt, da ich sonst, wenn ich Sie hüben
                     hätte lassen müssen, nur zwiespältig mit mir selbst gewesen wäre.</p>
-                <p rend="indentchar-m4n0"> Halten Sie sich ja zu Ihrem Wallenstein, <milestone
-                        unit="testimony" spanTo="#graef_922_end" xml:id="graef_922"/>ich werde wohl
+                <p rend="indentchar-m4n0"> Halten Sie sich ja zu Ihrem Wallenstein, <milestone unit="testimony" spanTo="#graef_922_end" xml:id="graef_922"/>ich werde wohl
                    <rs> zunächst an meinen Faust gehen</rs>, theils um diesen Tragelaphen los zu werden,
                     theils um mich zu einer höhern und reinern Stimmung, vielleicht zum Tell,
                         vorzubereiten.<anchor xml:id="graef_922_end"/> Dabey soll gelegentlich an
@@ -636,8 +609,7 @@
                     Auch können wir der Theilnahme des Publicums gewiß seyn; denn ob man gleich im
                     Ganzen immer darauf schilt, so enthält es doch im Einzelnen sehr gebildete
                     Menschen, welche die redlichen und ernsten Bemühungen eines Schriftstellers zu
-                    schätzen wissen. Indessen mag der alte Wieland, laudator temporis acti,<hi
-                        rend="italic"> in diesen Hefen des achtzehnten Jahrhunderts</hi> sich
+                    schätzen wissen. Indessen mag der alte Wieland, laudator temporis acti,<hi rend="italic"> in diesen Hefen des achtzehnten Jahrhunderts</hi> sich
                     betrüben (siehe das November-Stück des deutschen Merkurs p. 194) so viel klaren
                     Wein als wir brauchen wird uns die Muse schon einschenken. Die schönen Sachen
                     von Meyer zu sehen wäre wohl eine December-Spazierfahrt werth. Möchte Ihre
@@ -707,8 +679,7 @@
                     <gap/>
                     <row>
                         <cell>22.</cell>
-                        <cell><milestone unit="testimony" spanTo="#graef_907_end" xml:id="graef_907"
-                        />Jena</cell>
+                        <cell><milestone unit="testimony" spanTo="#graef_907_end" xml:id="graef_907"/>Jena</cell>
                         <cell>H. R. Schiller</cell>
                         <cell><rs>Nachricht weg. Faust</rs>.<anchor xml:id="graef_907_end"/></cell>
                     </row>

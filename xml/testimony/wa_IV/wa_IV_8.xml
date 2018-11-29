@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,9 +51,7 @@
                Gegenden der Welt mich zu verlieren, wo ich ganz unbekannt bin, ich gehe ganz allein
                unter einem fremden Nahmen und hoffe von dieser etwas sonderbaar scheinenden
                Unternehmung das beste.<anchor xml:id="graef_863b_end"/> Nur bitt ich lassen Sie
-               niemanden nichts mercken, daß ich außenbleibe. Alle die mir <hi rend="italic"
-                  instant="false" status="unremarkable">mit</hi> und <hi rend="italic"
-                  instant="false" status="unremarkable">unter</hi>geordnet sind, oder sonst mit mir
+               niemanden nichts mercken, daß ich außenbleibe. Alle die mir <hi rend="italic" instant="false" status="unremarkable">mit</hi> und <hi rend="italic" instant="false" status="unremarkable">unter</hi>geordnet sind, oder sonst mit mir
                in Verhältniß stehen, erwarten mich von Woche zu Woche,<pb n="13"/> und es ist gut
                daß das also bleibe und ich auch abwesend, als ein immer erwarteter, würcke.</p>
             <p rend="indentchar-m4n0"> Hier schick ich Riedels Brief, wenn es Ihnen um ihn Ernst
@@ -111,14 +105,12 @@
                mit dem Titel gedruckt werden kann, auch können die Seiten-Zahlen mit römischen
                Zahlen bezeichnet oder auch ganz und gar weggelassen werden. Die zwey folgenden Bände
                können um Michaelis, wenigstens bald nach Michaelis abgeliefert werden und Sie
-               möchten solche alsdenn vielleicht noch nicht einmal brauchen. <milestone
-                  unit="testimony" spanTo="#graef_863c_end" xml:id="graef_863c"/>Wegen der vier
+               möchten solche alsdenn vielleicht noch nicht einmal brauchen. <milestone unit="testimony" spanTo="#graef_863c_end" xml:id="graef_863c"/>Wegen der vier
                leztern haben wir bis Ostern Zeit, und es wird sich davon reden laßen. Gegen Neujahr
                werd ich schon sagen können wie es damit werden kann. <rs>Ich habe keine sonderliche Lust
                die Stücke wie sie angezeigt sind, unvollendet hinzugeben</rs>, weil man denn doch am Ende
                wenig Dank davon zu erwarten hat. Genug, was an mir liegt, um auch die vier lezten
-               Bände interessant zu machen, soll gewiß nicht fehlen.<anchor xml:id="graef_863c_end"
-               />
+               Bände interessant zu machen, soll gewiß nicht fehlen.<anchor xml:id="graef_863c_end"/>
             </p>
             <p rend="indentchar-m4n0"> Ich lege verschiedene Bemerckungen hier bey, die Bezug auf
                den Druck haben, machen Sie davon beliebigen Gebrauch, ein kluger Korrektor muß am
@@ -147,11 +139,9 @@
             <p rend="indentchar-m4n0">Mein erster Brief von hier aus, wird Sie in Berlin aufgesucht
                haben, darum konnte ich noch nicht mit einer Antwort, mit einer Nachricht von Ihnen
                erfreut werden, nach der ich so sehr verlange. Fast biß zur Ermüdung hab ich bisher
-               fortgefahren Rom zu durchwandern, auch habe ich das meiste <hi rend="italic"
-                  instant="false" status="unremarkable">gesehen.</hi>
+               fortgefahren Rom zu durchwandern, auch habe ich das meiste <hi rend="italic" instant="false" status="unremarkable">gesehen.</hi>
             </p>
-            <p rend="indentchar-m4n0"> Was heißt aber das <hi rend="italic" instant="false"
-                  status="unremarkable">Sehen</hi> von Gegenständen bey denen man lange verweilen,
+            <p rend="indentchar-m4n0"> Was heißt aber das <hi rend="italic" instant="false" status="unremarkable">Sehen</hi> von Gegenständen bey denen man lange verweilen,
                zu denen man oft zurücke kehren müßte um sie kennen und schätzen zu lernen.</p>
             <p rend="indentchar-m4n0"> An Ihre Frau Gemahlinn schreib ich hierüber einige Worte auf
                die ich mich beziehe.</p>
@@ -337,8 +327,7 @@
                eine Abschrifft hier behalten.</p>
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" spanTo="#graef_864b_end" xml:id="graef_864b"/> Nun gehts
-               an Egmont und die andern Sachen, <rs>ich will nichts in Stücken geben</rs>.<anchor
-                  xml:id="graef_864b_end"/>
+               an Egmont und die andern Sachen, <rs>ich will nichts in Stücken geben</rs>.<anchor xml:id="graef_864b_end"/>
             </p>
             <p rend="indentchar-m4n0"> Decke den Apoll, der im Vorsale steht, mit einer Serviette
                zu, erst hier lernt man solch ein Besitzthum schätzen.</p>
@@ -346,13 +335,9 @@
                <pb n="126"/> Ich bin wohl das Wetter herrlich. Empfiehl mich hie und da. Z. E. der
                Gräfinn Bernstorf und Boden, dem Obermarschall, dem alten Hofmarschall und v.
                Klinkowström u. s. w.</p>
-            <p rend="indentchar-m4n0"> Kayser in Zürch hat Partitur geschickt und zwar den <hi
-                  rend="italic" instant="false" status="unremarkable">ersten</hi> Ackt der Oper
-               umgearbeitet und den Anfang des <hi rend="italic" instant="false"
-                  status="unremarkable">vierten,</hi> eröffne das Packet und laß beide Ackte durch
-               Ambrosius sorgfältig in <hi rend="italic" instant="false" status="unremarkable"
-                  >Stimmen</hi> ausschreiben. Eben so verfahre mit dem <hi rend="italic"
-                  instant="false" status="unremarkable">zweiten Ackt</hi> wenn ihn Kayser schickt.
+            <p rend="indentchar-m4n0"> Kayser in Zürch hat Partitur geschickt und zwar den <hi rend="italic" instant="false" status="unremarkable">ersten</hi> Ackt der Oper
+               umgearbeitet und den Anfang des <hi rend="italic" instant="false" status="unremarkable">vierten,</hi> eröffne das Packet und laß beide Ackte durch
+               Ambrosius sorgfältig in <hi rend="italic" instant="false" status="unremarkable">Stimmen</hi> ausschreiben. Eben so verfahre mit dem <hi rend="italic" instant="false" status="unremarkable">zweiten Ackt</hi> wenn ihn Kayser schickt.
                Die erste Abschrifft der Stimmen, die wir machen ließen wird dadurch unbrauchbar. Es
                ist aber eine Kleinigkeit gegen den Gewinn an Kunst, den der Componist bey dieser
                Umarbeitung gemacht. Sollte noch nicht la Grotta di Trofonio in Partitur von Wien
@@ -372,8 +357,7 @@
                zusammenhängendes Wort. Ich bin wie einer, der auf einem Schiffe schreibt die
                Bewegung hindert mich so ausführlich zu seyn als ich wollte.</p>
             <p rend="indentchar-m4n0"> Erstlich denn von unsrem Wercke.</p>
-            <p rend="indentchar-m4n0"> Wann Sie <hi rend="italic" instant="false"
-                  status="unremarkable">enden</hi> könnten habe ich nur gefragt um etwa wegen dessen
+            <p rend="indentchar-m4n0"> Wann Sie <hi rend="italic" instant="false" status="unremarkable">enden</hi> könnten habe ich nur gefragt um etwa wegen dessen
                Publikation besorgt seyn zu können, da Sie noch so fleißig daran sind und so manches
                Gute daran thun; so sprechen wir uns vielleicht noch eh Sie ganz fertig sind, denn
                ich rechne sehr Sie auf meiner Rückreise zu besuchen.</p>
@@ -388,12 +372,10 @@
                vierten Ackt daß ich dazu Ja und Amen sage.</p>
             <p rend="indentchar-m4n0">
                <pb n="129"/> Heute geht meine Iphigenie umgearbeitet nach Deutschland, möge Sie
-               Ihnen auf Ostern, mit meinen übrigen Sachen einige gute Tage machen. <milestone
-                  unit="testimony" spanTo="#graef_864c_end" xml:id="graef_864c"/>Nun geh ich an die
+               Ihnen auf Ostern, mit meinen übrigen Sachen einige gute Tage machen. <milestone unit="testimony" spanTo="#graef_864c_end" xml:id="graef_864c"/>Nun geh ich an die
                vier letzten Bände um <rs>was ich als Stückwerck versprochen, wenigstens als
                anscheinendes Ganze zu liefern</rs>. Ich brauche dazu viel Gedult und Zusammennehmens, in
-               einer fremden Welt wo mich alles aus mir herauszieht und mich an sich lockt.<anchor
-                  xml:id="graef_864c_end"/>
+               einer fremden Welt wo mich alles aus mir herauszieht und mich an sich lockt.<anchor xml:id="graef_864c_end"/>
             </p>
             <p rend="indentchar-m4n0"> Das Lyrische Theater erfreut mich wenig hier. Die Ballette
                sind das Beste, übrigens alles lahm und langweilig.</p>
@@ -505,8 +487,7 @@
             <lb/>
             <p rend="right">Abends.</p>
             <p rend="indentchar-m4n0">Dein Brief vom 1. Jan. ist mir gekommen und hat mir Freude und
-               Schmertzen gebracht. Dazu kann ich nichts weiter sagen als: ich habe nur <hi
-                  rend="italic" instant="false" status="unremarkable">Eine</hi> Existenz, diese hab
+               Schmertzen gebracht. Dazu kann ich nichts weiter sagen als: ich habe nur <hi rend="italic" instant="false" status="unremarkable">Eine</hi> Existenz, diese hab
                ich diesmal <hi rend="italic" instant="false" status="unremarkable">ganz</hi>
                gespielt und spiele <pb n="144"/> sie noch. Komm ich leiblich und geistlich davon,
                überwältigt meine Natur, mein Geist, mein Glück, diese Krise, so ersetz ich dir
@@ -624,8 +605,7 @@
                man in eine so große Ferne so gewiß reichen kann.</p>
             <p rend="indentchar-m4n0"> Wie verlangts mich auf Nachricht der Aufnahme Iphigeniens und
                ob ihr Freude aus der Mühe, aus dem Fleiße habt schöpfen können, den ich noch an das
-               Stück gewendet habe. <milestone unit="testimony" spanTo="#graef_865a_end"
-                  xml:id="graef_865a"/>Man unternimmt nur zu viel! und ich darf an <rs>meine vier
+               Stück gewendet habe. <milestone unit="testimony" spanTo="#graef_865a_end" xml:id="graef_865a"/>Man unternimmt nur zu viel! und ich darf an <rs>meine vier
                letzten Theile</rs> nicht im Ganzen dencken; so möchte mirs schwindlich werden. Ich muß
                sie einzeln angreifen und so wirds gehn.<anchor xml:id="graef_865a_end"/>
             </p>
@@ -647,8 +627,7 @@
                den kleinen Herders. Grüße Stein und Ernst.</p>
             <p rend="indentchar-m4n0"> Der Göchhausen sage: es sey gar trotzig von ihr, daß sie mir
                nicht geschrieben, sie werde, wenn sie sich nicht beßre, kein Bildgen erhalten.</p>
-            <p rend="indentchar-m4n0"> Klinckovström sage, ich schicke durch Kranzen<hi
-                  rend="italic" instant="false" status="unremarkable"> Brokoli</hi> Saamen an ihn,
+            <p rend="indentchar-m4n0"> Klinckovström sage, ich schicke durch Kranzen<hi rend="italic" instant="false" status="unremarkable"> Brokoli</hi> Saamen an ihn,
                damit er ihn pflanzen und unsrer Fürstinn einen guten Salat bereiten laße, er soll
                auch andern Freunden davon etwas zu genießen geben. Nähere Anweisung kommt mit dem
                Samen.</p>
@@ -693,10 +672,8 @@
             </head>
             <p rend="indentchar-m4n0">Man hat mir endlich m. l. Kayser Ihren ersten Brief von Hause
                hierhergeschickt und ich habe über deßen Innhalt nur noch dieß zu sagen.</p>
-            <p rend="indentchar-m4n0"> Das Duett: <hi rend="italic" instant="false"
-                  status="unremarkable">Es stellet sich die Freude</hi> pp. hatte ich mir blos als
-               einen kurzen Gesang gedacht, der die Melodie des Schlußes des ersten Ackts: <hi
-                  rend="italic" instant="false" status="unremarkable">Ich lade Dich zur
+            <p rend="indentchar-m4n0"> Das Duett: <hi rend="italic" instant="false" status="unremarkable">Es stellet sich die Freude</hi> pp. hatte ich mir blos als
+               einen kurzen Gesang gedacht, der die Melodie des Schlußes des ersten Ackts: <hi rend="italic" instant="false" status="unremarkable">Ich lade Dich zur
                   Freude</hi> pp. wiederbringen sollte. Es thut einen gar artigen Effeckt wenn eine
                Anfangs Melodie beym Schluße wiederkommt und gleichsam die Erfüllung einer
                Prophezeihung hereinführt. Es sey Ihnen übrigens ganz überlaßen wie Sie es behandlen
@@ -714,20 +691,16 @@
                Vollkommenheit nicht, es ist alles Stück und Flickwerck. Ein neues Trauerspiel haben
                sie gut aufgeführt, und einige Commoedien habe ich mit Vergnügen gesehen. Ich kann
                nicht sagen, daß ich in dieser Kunst hier viel gelernt hätte. Nun liegt die
-               Geschichte des Italiänischen Opern Theaters von <hi rend="italic" instant="false"
-                  status="unremarkable">Arteaga</hi> auf meinem Tische, ich weiß nicht ob viel
+               Geschichte des Italiänischen Opern Theaters von <hi rend="italic" instant="false" status="unremarkable">Arteaga</hi> auf meinem Tische, ich weiß nicht ob viel
                daraus zu profitiren seyn wird. Inzwischen nimmt man sich doch immer hier und da
                etwas weg, die Künste sind so verwandt, daß man in einer seine Kenntniße kaum
                erweitern kann, ohne auch in den andern in gewißem Maaße fortzurücken.</p>
             <p rend="indentchar-m4n0"> Wenn Sie auf Ostern meine vier ersten Bände in die Hand
-               nehmen werden Sie Iphigenien <hi rend="italic" instant="false" status="unremarkable"
-                  >umgeschrieben</hi> finden (warum ich nicht <hi rend="italic" instant="false"
-                  status="unremarkable">umgearbeitet</hi> sage werden Sie am Stücke sehn).
+               nehmen werden Sie Iphigenien <hi rend="italic" instant="false" status="unremarkable">umgeschrieben</hi> finden (warum ich nicht <hi rend="italic" instant="false" status="unremarkable">umgearbeitet</hi> sage werden Sie am Stücke sehn).
                   <milestone unit="testimony" spanTo="#graef_865b_end" xml:id="graef_865b"/>Die
                   <rs>vier letzten Bände</rs> werden mir noch manche Sorge machen, doch ich arbeite
                sie gerne aus, und jetzt mit freyerem Gemüth. <pb n="176"/> Ich hoffe man soll
-               künftig meinen Sachen das <hi rend="italic" instant="false" status="unremarkable"
-                  >Ultramontane</hi> ansehen.<anchor xml:id="graef_865b_end"/>
+               künftig meinen Sachen das <hi rend="italic" instant="false" status="unremarkable">Ultramontane</hi> ansehen.<anchor xml:id="graef_865b_end"/>
             </p>
             <p rend="indentchar-m4n0"> An einer zweyten Oper für Sie soll's auch nicht fehlen. Leben
                Sie wohl und fleißig. Nach dem Carneval geh ich auf Neapel. Adieu.</p>
@@ -747,8 +720,7 @@
             </head>
             <p rend="right">Rom d. 20. Febr. 87.</p>
             <p rend="indentchar-m4n0">Die vier ersten Bände sind nun bey Ihnen und ich wünsche zu
-               dem Unternehmen Glück. <milestone unit="testimony" spanTo="#graef_865d_end"
-                  xml:id="graef_865d"/>Wie ich Iphigenien umgeschrieben habe, um sie einer guten
+               dem Unternehmen Glück. <milestone unit="testimony" spanTo="#graef_865d_end" xml:id="graef_865d"/>Wie ich Iphigenien umgeschrieben habe, um sie einer guten
                Aufnahme würdiger zu machen; so bin ich nun beschäfftigt auch den <rs>vier letzten
                   Bänden</rs> eine andre Gestalt zu geben.<anchor xml:id="graef_865d_end"/> Hr.
                General Superintendent Herder wird Ihnen ein Blättchen schicken, wodurch Sie das
@@ -882,14 +854,12 @@
                machen und mir eine Art von Direcktion laßen, alsdann ein Glied des Geh. Consilii dem
                andern untergeordnet ist welches ich nicht für ganz gut halte. Vielmehr wünschte ich:
                Sie entbänden mich, mit einem freundlichen Worte, meiner bisherigen Inkumbenz, (und
-               mit der gewöhnlichen Formel: <hi rend="italic" instant="false" status="unremarkable"
-                  >auf sein Ansuchen</hi>) Machten alsdann Schmidten entweder gradezu zum
+               mit der gewöhnlichen Formel: <hi rend="italic" instant="false" status="unremarkable">auf sein Ansuchen</hi>) Machten alsdann Schmidten entweder gradezu zum
                Presidenten, oder gäben ihm die Direcktion, wie ich sie in Würcklichkeit (nicht nach
                dem Rescripte) gehabt habe. Doch das sey Ihnen Alles überlaßen. Mein einziger Wunsch
                war: Sie Herr von dem Ihrigen zu wissen, alles was Sie thun um Sich die Sachen mehr
                nach der Hand einzurichten, <pb n="225"/> kann mir nicht anders als erfreulich seyn.
-               Machen Sie diese Veränderung wann und wie Sie es für gut befinden. <milestone
-                  unit="testimony" spanTo="#graef_865e_end" xml:id="graef_865e"/>Anfangs September
+               Machen Sie diese Veränderung wann und wie Sie es für gut befinden. <milestone unit="testimony" spanTo="#graef_865e_end" xml:id="graef_865e"/>Anfangs September
                bin ich hoffentlich in Franckfurt, kann ich alsdann einige Zeit bey meiner Mutter
                bleiben, um meine <rs>vier letzten Bände</rs> in Ordnung zu bringen, meine Reise
                Beobachtungen besser auszuführen, vielleicht an Wilhelm und einigen neuern Ideen zu
@@ -947,8 +917,7 @@
                scheint mir einer von denen Menschen zu seyn die einen guten moralischen Magen haben,
                um an dem großen Welttische immer mitgenießen zu können. Anstatt daß unser einer, wie
                ein wiederkäuendes Thier ist, das sich zu Zeiten überfüllt und dann nichts wieder zu
-               sich nehmen kann, biß es seine wiederhohlte Kauung und Verdauung geendigt hat. <hi
-                  rend="italic" instant="false" status="unremarkable">Sie</hi> gefällt mir auch
+               sich nehmen kann, biß es seine wiederhohlte Kauung und Verdauung geendigt hat. <hi rend="italic" instant="false" status="unremarkable">Sie</hi> gefällt mir auch
                recht wohl, sie ist ein gutes deutsches Wesen. Laß dich übrigens den Herzog von des
                Marquis Verdiensten unterhalten, es ist ein auf alle Weise schätzbarer Mann.</p>
             <p rend="indentchar-m4n0"> Ich gehe nun gern aus Neapel, ja ich muß fort. Diese letzten
@@ -1022,14 +991,11 @@
                   <milestone unit="testimony" spanTo="#graef_865f_end" xml:id="graef_865f"/>Ich muß
                nun mit Gewalt an die <rs>vier letzten Bände</rs>, und wie ich dir schon schrieb,
                müßen sie in Ordnung seyn eh ich zu euch zurückkehre, auch haben sich neue Sujets
-               zugedrängt die ich ausführen muß denn das Leben ist kurz;<anchor
-                  xml:id="graef_865f_end"/> wo ich nun sitze, hier oder in Franckfurt, das ist eins
+               zugedrängt die ich ausführen muß denn das Leben ist kurz;<anchor xml:id="graef_865f_end"/> wo ich nun sitze, hier oder in Franckfurt, das ist eins
                und Rom ist der einzige Ort in der Welt für den Künstler und ich bin doch einmal
                nichts anders. Wäre nur die Rückreise im Winter oder gegen den Winter nicht zu
                beschwerlich. Doch es mag werden.</p>
-            <p rend="indentchar-m4n0"> Übrigens habe ich glückliche Menschen kennen lernen, <pb
-                  n="232"/> die es nur sind weil sie <hi rend="italic" instant="false"
-                  status="unremarkable">ganz</hi> sind, auch der Geringste wenn er ganz ist kann
+            <p rend="indentchar-m4n0"> Übrigens habe ich glückliche Menschen kennen lernen, <pb n="232"/> die es nur sind weil sie <hi rend="italic" instant="false" status="unremarkable">ganz</hi> sind, auch der Geringste wenn er ganz ist kann
                glücklich und in seiner Art vollkommen seyn, das will und muß ich nun auch erlangen,
                und ich kanns, wenigstens weiß ich wo es liegt und wie es steht, ich habe mich auf
                dieser Reise unsäglich kennen lernen. Ich bin mir selbst wiedergegeben und nur
@@ -1066,8 +1032,7 @@
                Montag geht es nach Tivoli. Dieser Brief geht ab Sonnabends d. 9. Jun.</p>
             <p rend="indentchar-m4n0"> Der deine.</p>
             <p rend="right">G.</p>
-            <p rend="indentchar-m4n0">Angelika hat gar gemüthlich die Stelle: <hi rend="italic"
-                  instant="false" status="unremarkable">Seyd ihr auch schon herabgekommen?</hi>
+            <p rend="indentchar-m4n0">Angelika hat gar gemüthlich die Stelle: <hi rend="italic" instant="false" status="unremarkable">Seyd ihr auch schon herabgekommen?</hi>
                gezeichnet.</p>
             <pb n="234"/>
             <lb/>
@@ -1087,15 +1052,13 @@
                oben an sind pp.</p>
             <p rend="indentchar-m4n0">
                <milestone unit="testimony" spanTo="#graef_866_end" xml:id="graef_866"/>Wir haben die
-               famose <rs>Hexen Epoche</rs> in der Geschichte, die <hi rend="italic" instant="false"
-                  status="unremarkable">mir</hi> psychologisch noch lange nicht erklärt ist, diese
+               famose <rs>Hexen Epoche</rs> in der Geschichte, die <hi rend="italic" instant="false" status="unremarkable">mir</hi> psychologisch noch lange nicht erklärt ist, diese
                hat mich aufmercksam und mir alles wunderbare verdächtig gemacht.</p>
             <p rend="indentchar-m4n0"> Wie mir die <rs>Hexen</rs> beym Magnetismus einfallen, ist
                eine etwas weite Ideen Association, die ich auf diesem Blättchen nicht ausführen
                kann.</p>
             <p rend="indentchar-m4n0"> Gestern, nach Sonnenuntergang (man mag früher wegen der Hitze
-               nicht ausgehn) war ich in der <rs>Villa Borghese</rs>.<anchor xml:id="graef_866_end"
-               /> Wie hab ich dich zu mir gewünscht. Gleich vier herrliche Tableaus habe ich
+               nicht ausgehn) war ich in der <rs>Villa Borghese</rs>.<anchor xml:id="graef_866_end"/> Wie hab ich dich zu mir gewünscht. Gleich vier herrliche Tableaus habe ich
                gefunden, die man nur abschreiben dürfte, wenn mans könnte. Ich muß in der Landschaft
                und im Zeichnen überhaupt fortrücken, es koste was es wolle. Auf eben dem
                Spaziergange machte ich Anstalten Egmont zu endigen. Wenn ich dran komme geht es
@@ -1137,8 +1100,7 @@
                annehmen muß. Dieses macht den Aufenthalt in Rom so angenehm, weil so viele Menschen
                sich hier aufhalten, die sich mit Dencken über Kunst, mit Ausübung derselben
                Zeitlebens beschäftigen und wohl kein Punckt seyn kann, über den man nicht von einem
-               oder dem andern Belehrung erwarten könnte. <milestone unit="testimony"
-                  spanTo="#graef_867_end" xml:id="graef_867"/>Noch eine andre Epoche dencke ich mit
+               oder dem andern Belehrung erwarten könnte. <milestone unit="testimony" spanTo="#graef_867_end" xml:id="graef_867"/>Noch eine andre Epoche dencke ich mit
                Ostern zu schließen: meine erste (oder eigentlich meine zweyte)
                Schriftsteller-Epoche. Egmont ist fertig, und ich hoffe biß Neujahr den Tasso, biß
                Ostern <rs>Faust</rs> ausgearbeitet zu haben, welches mir nur in dieser
@@ -1150,8 +1112,7 @@
             <p rend="indentchar-m4n0"> Daß ich meine <rs>älteren Sachen</rs> fertig arbeite, dient
                mir erstaunend. Es ist eine Rekapitulation meines Lebens und meiner Kunst, und indem
                ich gezwungen bin, mich und meine jetzige Denckart, meine neuere Manier, nach meiner
-               ersten zurückzubilden, das was ich nur entworfen hatte nun auszuführen; so lern' <pb
-                  n="242"/> ich mich selbst und meine Engen und Weiten recht kennen. Hätte ich die
+               ersten zurückzubilden, das was ich nur entworfen hatte nun auszuführen; so lern' <pb n="242"/> ich mich selbst und meine Engen und Weiten recht kennen. Hätte ich die
                   <rs>alten Sachen</rs> stehen und liegen laßen, ich würde niemals soweit gekommen
                seyn, als ich jetzt zu reichen hoffe.<anchor xml:id="graef_867_end"/> Ostern ruckte
                ich mit Zucht und Ordnung wieder in's Vaterland und käme zur schönen Jahrszeit
@@ -1206,8 +1167,7 @@
             <p rend="indentchar-m4n0"> Von Mad. Angelica will ich sehen vor erst eine Zeichnung zum
                fünften Bande zu erhalten. Sie hat so viele Bestellungen, daß kein Federzug von ihr
                mit Gold zu erhalten ist, was sie nicht aus Gefälligkeit thut. Sie hat mich neulich
-               mit einer Zeichnung überrascht, welche die Stelle aus Iphigenie <hi rend="italic"
-                  instant="false" status="unremarkable">Seyd ihr auch schon herabgekommen</hi>
+               mit einer Zeichnung überrascht, welche die Stelle aus Iphigenie <hi rend="italic" instant="false" status="unremarkable">Seyd ihr auch schon herabgekommen</hi>
                vorstellt. Es ist vielleicht eine ihrer glücklichsten Compositionen. Und eben darum
                darf ich nicht zu dringlich seyn.</p>
             <p rend="indentchar-m4n0">
@@ -1250,8 +1210,7 @@
                und macht sich lustig, um alsdann bis zum Carneval wieder eingezogen zu bleiben. Rom
                hab ich diese Zeit her, soviel möglich war, genutzt. Die zwei Sommermonate durfte man
                kaum aus dem Hause; ich habe indeß an meinen Schriften gearbeitet; vier Bände werden
-               ihre Aufwartung gemacht haben, <milestone unit="testimony" spanTo="#graef_869a_end"
-                  xml:id="graef_869a"/>die <pb n="265"/>
+               ihre Aufwartung gemacht haben, <milestone unit="testimony" spanTo="#graef_869a_end" xml:id="graef_869a"/>die <pb n="265"/>
                <rs>übrigen</rs> sollen folgen.<anchor xml:id="graef_869a_end"/> Die Hauptstadt der
                Welt ist übrigens still genug. Eben setzt sich der Obelisk in Bewegung, der auf
                Trinita del monte soll aufgerichtet werden; er lag bisher bei St.-Giovanni in
@@ -1308,10 +1267,8 @@
                recht glücklich daß mir dieses möglich ist.</p>
             <p rend="indentchar-m4n0"> Es soll mir lieb seyn, wenn Hr. Rehberg zu uns paßt und ich
                ihm nützlich seyn kann.</p>
-            <p rend="indentchar-m4n0"> Meine Wercke werden ihre Aufwartung gemacht haben, <milestone
-                  unit="testimony" spanTo="#graef_869c_end" xml:id="graef_869c"/>die <rs>übrigen
-                  Bände</rs> sollen folgen wie sie nach und nach herauskommen.<anchor
-                  xml:id="graef_869c_end"/>
+            <p rend="indentchar-m4n0"> Meine Wercke werden ihre Aufwartung gemacht haben, <milestone unit="testimony" spanTo="#graef_869c_end" xml:id="graef_869c"/>die <rs>übrigen
+                  Bände</rs> sollen folgen wie sie nach und nach herauskommen.<anchor xml:id="graef_869c_end"/>
             </p>
             <p rend="indentchar-m4n0"> Grüßt mir Lotten auf's herzlichste, auch Amalien. Einer Eurer
                Kleinen hat sich wie ich höre mit meiner Mutter gar gut vertragen.</p>
@@ -1368,8 +1325,7 @@
             <p rend="indentchar-m4n0"> Wegen Ausgabe der Partitur dancke ich für Ihre
                Bereitwilligkeit. Ich werde die Sache mit dem Componisten durchsprechen, den ich in
                wenig Tagen hier zu sehen hoffe. Er wird mir das nun vollendete Stück vorspielen und
-               unsre Absicht ist sogleich an eine größre Arbeit zu gehen.<anchor
-                  xml:id="graef_869d_end"/>
+               unsre Absicht ist sogleich an eine größre Arbeit zu gehen.<anchor xml:id="graef_869d_end"/>
             </p>
             <p rend="indentchar-m4n0"> Mad. Angelicka hat mich mit einer gar schönen Zeichnung zum
                fünften Bande begünstigt. Hr. Lips hat sie auch bereits gestochen und schon im
@@ -1462,8 +1418,7 @@
                veranlaßten Schmidten, daß er Seideln, der Ihnen nun eine Zeitlang in der Stille und
                im kleinen dient, näher prüfe und sich selbst überzeuge wie und wozu <pb n="303"/>
                dieser Mensch brauchbar ist. Ich will ihn nicht unbedingt empfehlen, weil er der
-               Meinige war und im edelsten Sinne <hi rend="italic" instant="false"
-                  status="unremarkable">mein Geschöpf</hi> ist; aber ich wünsche daß man ihn kennen
+               Meinige war und im edelsten Sinne <hi rend="italic" instant="false" status="unremarkable">mein Geschöpf</hi> ist; aber ich wünsche daß man ihn kennen
                lerne. Wenn Bachmann abgeht, wird eine große Lücke erscheinen, die vielleicht weniger
                mercklich gemacht werden könnte, wenn man einen solchen durchaus treuen, arbeitsamen,
                verständigen Menschen dazu vorbereiten ließe. Er ist schon an Bachmanns Seite, kennt
@@ -1519,8 +1474,7 @@
                seine Gegenwart freut und erbaut. Einen männlichern, solideren Künstler habe ich nie
                gekannt und dabey hat er in der Vorstellungs Art eine Geschmeidigkeit, in seinem
                Umgang eine Grazie, die man erst nach und nach entdeckt und gewahr wird. Sein
-               Aufenthalt hier wird ihn ganz zur Reife bringen. Er komponirt alles was an Musick <pb
-                  n="306"/> zum Egmont nötig ist und seine Studien darüber sind mir sehr
+               Aufenthalt hier wird ihn ganz zur Reife bringen. Er komponirt alles was an Musick <pb n="306"/> zum Egmont nötig ist und seine Studien darüber sind mir sehr
                unterrichtend.</p>
             <p rend="indentchar-m4n0"> Ich habe an Fr. v. Stein einige Zeichnungen geschickt, wäre
                etwas darunter was Ihnen für die Freundinnen gefiele; so steht es zu Befehl. Es ist
@@ -1531,8 +1485,7 @@
                hoffen daß in einiger Zeit wenigstens unser guter Wille sichtbar werden wird. Fr. v.
                Stein kann etwas näheres, wenigstens die Liste der Süjette mittheilen.</p>
             <p rend="indentchar-m4n0"> Leben Sie aufs beste wohl und erfreuen mich manchmal mit
-               einem Worte. Nehmen Sie <hi rend="italic" instant="false" status="unremarkable"
-                  >Filippo Collina</hi> ein römisches Original, das ich Ihrer Frau Mutter als Reise
+               einem Worte. Nehmen Sie <hi rend="italic" instant="false" status="unremarkable">Filippo Collina</hi> ein römisches Original, das ich Ihrer Frau Mutter als Reise
                Maitre Jacques überschicke, in Protection. Sie können am ersten beurtheilen wie
                wunderlich einem verpflanzten Geschöpf seine Ortveränderung thut. Es ist ein sehr
                guter Mensch, wenn ich mich nicht sehr betrüge.</p>
@@ -1709,8 +1662,7 @@
             <p rend="indentchar-m4n0"> Das nunmehr versicherte Glück des Bergwercks freut mich
                unendlich und wir können nun mit ernstlichen Anstalten dem Wercke entgegen gehn. An
                Voigten haben Sie einen tüchtigen Arbeiter, geben Sie ihm zu den Ilmenauer Sachen
-               einen jungen Mann zu. Ich habe schon deshalb an ihn geschrieben, er wird mit<pb
-                  n="334"/> Schmidt sprechen und man wird Ihnen die Sache vorlegen. Ich wiederhohle
+               einen jungen Mann zu. Ich habe schon deshalb an ihn geschrieben, er wird mit<pb n="334"/> Schmidt sprechen und man wird Ihnen die Sache vorlegen. Ich wiederhohle
                nochmals: daß wenn Sie bey Ihrer Zurückkunft mich nötig finden sollten; ich auf jeden
                Winck zu kommen bereit bin. Gar manches macht mir den Rückweg nach Hause reitzend.
                Ohne Ihren Umgang, den Umgang geprüfter Freunde länger zu leben ist denn doch so eine
@@ -1718,8 +1670,7 @@
                Liebe und Zutrauen selten angewandt ist. Ich habe nun soviel in Kunst- und
                Natur-Kenntniß profitirt, daß ein weiteres Studium durch die Nähe unsrer Akademie
                Jena sehr erleichtert werden würde. Hier ist man gar zu sehr von Hülfsmitteln
-               entblößt. <milestone unit="testimony" spanTo="#graef_872a_end" xml:id="graef_872a"
-               />Dann hoffte ich auch <rs>meine Schriften</rs> mit mehr Musse und Ruhe zu endigen,
+               entblößt. <milestone unit="testimony" spanTo="#graef_872a_end" xml:id="graef_872a"/>Dann hoffte ich auch <rs>meine Schriften</rs> mit mehr Musse und Ruhe zu endigen,
                als in einem Lande wo alles einen ausser sich ruft.<anchor xml:id="graef_872a_end"/>
                Besonders wenn es mir nun Pflicht wird der Welt zu leben.</p>
             <p rend="indentchar-m4n0"> Bestätigen Sie mir Ihren Willen daß ich Ostern hier bleiben
@@ -1790,10 +1741,8 @@
                den Scizzen der ersten Ausgabe ist nur der Nahme und einige Liedchen übriggeblieben.
                Der folgende Band wird wahrscheinlich Tasso, Lila, Jery und Bätely und die Fischerinn
                enthalten. Mit diesen Stücken geht es mir nicht besser als mit obgenannten Operetten.
-               Ich muß sie ganz neu arbeiten, wenn sie in Gesellschaft der vorigen Bände <hi
-                  rend="italic" instant="false" status="unremarkable">sich nicht schämen</hi>
-               sollen. So wird man aus einem ins andere geführt. <milestone unit="testimony"
-                  spanTo="#graef_873_end" xml:id="graef_873"/>Die schwerste Arbeit die mir
+               Ich muß sie ganz neu arbeiten, wenn sie in Gesellschaft der vorigen Bände <hi rend="italic" instant="false" status="unremarkable">sich nicht schämen</hi>
+               sollen. So wird man aus einem ins andere geführt. <milestone unit="testimony" spanTo="#graef_873_end" xml:id="graef_873"/>Die schwerste Arbeit die mir
                bevorsteht ist <rs>Faust</rs>.<anchor xml:id="graef_873_end"/> Doch eins nach dem
                andern.</p>
             <p rend="indentchar-m4n0"> Die Vermischte Gedichte zum letzten Bande habe ich auch schon
@@ -1871,8 +1820,7 @@
                   <rs>Recapitulationen alter Ideen</rs>, diese Bearbeitungen solcher Gegenstände,
                von denen <pb n="348"/> ich auf immer getrennt zu seyn glaubte, zu denen ich fast mit
                keiner Ahndung hinreichte, machen mir große Freude. Dieses Summa Summarum meines
-               Lebens giebt mir Muth und Freude, wieder ein neues Blat zu eröffnen.<anchor
-                  xml:id="graef_874_end"/>
+               Lebens giebt mir Muth und Freude, wieder ein neues Blat zu eröffnen.<anchor xml:id="graef_874_end"/>
             </p>
             <p rend="indentchar-m4n0"> Die Caracktere die Sie mir schildern sind sehr interessant
                und neu, wie alles, was recht gesehen und recht gesprochen ist. Soviel weiß ich daß
@@ -1951,8 +1899,7 @@
                Freyheit und im Genuß des erflehtesten Glücks, manches hat leiden machen, mich an
                Ihrer Seite, mit den Ihrigen, in dem Ihrigen wiederzufinden, die Summe meiner Reise
                zu ziehen und die Masse mancher Lebenserinnerungen und Kunstüberlegungen in die
-                  <rs>drey letzten Bände</rs> meiner Schriften zu schließen.<anchor
-                  xml:id="graef_876_end"/>
+                  <rs>drey letzten Bände</rs> meiner Schriften zu schließen.<anchor xml:id="graef_876_end"/>
             </p>
             <p rend="indentchar-m4n0"> Ich darf wohl sagen: ich habe mich in dieser
                anderthalbjährigen Einsamkeit selbst wiedergefunden; aber als was? – Als Künstler!
@@ -2040,8 +1987,7 @@
                einigen Genuß derselben gewiß auch über den Alpen verschaffen können, wenn gleich das
                non plus ultra ihrer Ausführung in die Sixtinische Kapelle gebannt zu seyn
                scheint.</p>
-            <p rend="indentchar-m4n0"> Der Gute Genius segne den <hi rend="italic" instant="false"
-                  status="unremarkable">allgemeinen Geist</hi> im Ganzen, wie er bey Ihnen zu Hause
+            <p rend="indentchar-m4n0"> Der Gute Genius segne den <hi rend="italic" instant="false" status="unremarkable">allgemeinen Geist</hi> im Ganzen, wie er bey Ihnen zu Hause
                ist. Alles was Herder unter Ihren Auspiciis unternimmt giebt mir die größten
                Hoffnungen, und ich freue mich in jedem Sinne daran Theil nehmen zu können.</p>
             <p rend="indentchar-m4n0"> Daß Sie für ihn und für Voigten sorgen, erregt auch meine
@@ -2097,8 +2043,7 @@
             <p rend="indentchar-m4n0">Ihr Brief mein bester Fürst und Herr, in welchem Sie mir Ihre
                Gedancken über Egmont eröffnen, hat das Verlangen nur vermehrt mich mit Ihnen über
                solche und andre Gegenstände mündlich zu unterhalten. Bemerckungen wie die, welche
-               Sie mir schreiben, sind zwar für den <hi rend="italic" instant="false"
-                  status="unremarkable">Autor</hi> nicht sehr tröstlich, bleiben aber doch dem
+               Sie mir schreiben, sind zwar für den <hi rend="italic" instant="false" status="unremarkable">Autor</hi> nicht sehr tröstlich, bleiben aber doch dem
                Menschen äusserst wichtig und wer beyde in sich nie getrennt hat weiß solche
                Erinnerungen zu schätzen und zu nutzen. Einiges was Ihnen nicht behagte liegt in der
                Form und Constitution des Stücks und war nicht zu ändern ohne es aufzuheben. Andres
@@ -2137,9 +2082,7 @@
             <p rend="indentchar-m4n0">In vierzehn Tagen dencke ich hier loß und ledig zu seyn. Seit
                den Osterfeyertagen ist mir schon soviel durch den Kopf gegangen als wenn ein halb
                Jahr vorüber wäre. Jene Funcktionen kann man nicht ohne Verwunderung ansehen. Es ist
-               gewiß in der Welt nie ein solches Ensemble gewesen und man kann den<hi rend="italic"
-                  instant="false" status="unremarkable"> Schein,</hi> die <hi rend="italic"
-                  instant="false" status="unremarkable">Representation</hi> nicht höher treiben. Ich
+               gewiß in der Welt nie ein solches Ensemble gewesen und man kann den<hi rend="italic" instant="false" status="unremarkable"> Schein,</hi> die <hi rend="italic" instant="false" status="unremarkable">Representation</hi> nicht höher treiben. Ich
                habe die Meße des ersten Ostertags, welche unter der Peterskuppel, vor dem hohen
                Altar celebrirt wird, von oben, von einer der Tribunen gesehen, welche an den
                Pfeilern angebracht sind, worauf die Kuppel ruht. Man sieht ohngefähr von der Höhe
@@ -2179,13 +2122,8 @@
                gedeihen. Ich hoffe er wird mich grün und fröhlich empfangen.</p>
             <p rend="indentchar-m4n0">
                <pb n="369"/> Das Gedicht auf Miedings Tod hätte ich mit Freuden in der Pandora
-               gesehen, wenn nicht meine Absicht wäre Michael den <hi rend="italic" instant="false"
-                  status="unremarkable">sechsten</hi> und <hi rend="italic" instant="false"
-                  status="unremarkable">achten</hi> Band herauszugeben und <milestone
-                  unit="testimony" spanTo="#graef_878_end" xml:id="graef_878"/>Ostern mit dem <hi
-                  rend="italic" instant="false" status="unremarkable">siebenten</hi>, welcher den
-                  <rs>Faust</rs> und also die große Girandel enthält zu schließen.<anchor
-                  xml:id="graef_878_end"/>
+               gesehen, wenn nicht meine Absicht wäre Michael den <hi rend="italic" instant="false" status="unremarkable">sechsten</hi> und <hi rend="italic" instant="false" status="unremarkable">achten</hi> Band herauszugeben und <milestone unit="testimony" spanTo="#graef_878_end" xml:id="graef_878"/>Ostern mit dem <hi rend="italic" instant="false" status="unremarkable">siebenten</hi>, welcher den
+                  <rs>Faust</rs> und also die große Girandel enthält zu schließen.<anchor xml:id="graef_878_end"/>
             </p>
             <p rend="indentchar-m4n0"> Auf der Reise wird Tasso durchgedacht und also auf einer
                Wandrung, die Schicksale eines Mannes dramatisirt, dessen ganzes Leben ein Hin und

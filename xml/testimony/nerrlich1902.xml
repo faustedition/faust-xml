@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,19 +29,15 @@
                 <head rend="right">um 4½ Uhr.</head>
                 <p>Eh’ ich mit Schiller und dem Balbier mich anaſtomaſiere, wil ich dir ſchreiben.
                     Vor 2 oder 3 Jahren ſchrieb ich dir auch, aber aus dem Gaſthof zur häslich
-                    dunklen „<hi rend="letter-spaced">Sonne</hi>“; jezt aus dem zum lichten ½ „<hi
-                        rend="letter-spaced">Mond</hi>“ (an Metaphern iſt da nicht zu denken). In
+                    dunklen „<hi rend="letter-spaced">Sonne</hi>“; jezt aus dem zum lichten ½ „<hi rend="letter-spaced">Mond</hi>“ (an Metaphern iſt da nicht zu denken). In
                     dieſer Stunde wirſt du mit deiner und meiner Amöne in Hofek auf einen lichten
                     abtheilenden Punkt des Lebens blicken, weil ihr Geburtstag iſt; und der Ferne
                     feiert ihn warlich ſtil und erinnernd und vol Sehnſucht mit. Ich kehrte mich
                     heute auf meinem Wege von Naumburg oft nach dem klaren Süd-Oſt um zumal neben
                     der in belaubten Schatten ziehenden Saale, die keine Welle hat, die nicht an
                     mein Herz anſpühlt. Auf dem Weg hab ich mir einen neuen hölzernen Wegweiſer
-                    geſchnizt, der nach <hi rend="antiqua">Hof</hi> zeigt und treibt; nämlich — <hi
-                        rend="antiqua">caeteris paribus</hi> — ich gehe rükwärts gerade von hier
-                    nach <hi rend="antiqua">Hof</hi> und erſpare 26 Meilen. Es giebt <hi
-                        rend="antiqua">anno</hi> 1798 für mich keine leichtere Art nach <hi
-                        rend="antiqua">H[of]</hi> zu kommen als von hier aus. Lieber Otto, ich wolt’
+                    geſchnizt, der nach <hi rend="antiqua">Hof</hi> zeigt und treibt; nämlich — <hi rend="antiqua">caeteris paribus</hi> — ich gehe rükwärts gerade von hier
+                    nach <hi rend="antiqua">Hof</hi> und erſpare 26 Meilen. Es giebt <hi rend="antiqua">anno</hi> 1798 für mich keine leichtere Art nach <hi rend="antiqua">H[of]</hi> zu kommen als von hier aus. Lieber Otto, ich wolt’
                     ich dürfte empfindſam ſein wie andre Leute; mein Inneres iſt tiefer bewegt als
                     die oberſten Wellen verrathen — aber da jede wieder gleich ein Strudel wird, ſo
                     hab ich gar nicht <pb n="74" facs="nerrlich1902_0074-0075.jpg"/>den Muth, nur
@@ -50,8 +46,7 @@
                     die Sache — wegen meiner Reiſe-Gedanken, Reiſe-Ermattungen, Reiſefreuden, eben
                     jezt von ſingenden Alumnen umgeben, im Spiel der Abendlüfte, im Wiederſchein
                     Eueres heutigen Wiederſcheins, vor lauter elenden Kupferſtichen von 70 und 80,
-                    die aber meinem Lebens-Mai zugehören<anchor xml:id="N1"/><ref target="#F1"><hi
-                            rend="sup">1</hi>)</ref> und ihn nachbilden. Nein, meine Seele iſt zu
+                    die aber meinem Lebens-Mai zugehören<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi>)</ref> und ihn nachbilden. Nein, meine Seele iſt zu
                     weich, und doch wird ſie von andern nicht errathen und nicht erweicht.</p>
             </div>
             <div type="letter">
@@ -67,8 +62,7 @@
                     ſich krank an) und mit dieſem in den Mitwochs-Konvent. Mit ſeiner Frau gieng
                     [ich] viel und dum ſpazieren; ſie gehört unter die gemeinſten Koketten, denen
                     man den Bal nicht richtiger zurükwirft als durch ſpielende Perſiflage. Sie
-                    geleitete inzwiſchen in der Abendluft noch den Verfaſſer des <hi rend="antiqua"
-                        >Hesperus</hi> auf die ſchönſte Höhe (um ſelber eine zu ſein) und ſchön iſt
+                    geleitete inzwiſchen in der Abendluft noch den Verfaſſer des <hi rend="antiqua">Hesperus</hi> auf die ſchönſte Höhe (um ſelber eine zu ſein) und ſchön iſt
                     ihr Geſicht und am ſchönſten ihr Kleopatra’s Auge: daher ich immer zu ihr ſagte:
                     „ich glaubte ihr kein Wort, auſſer wenn ſie mich anſähe.“</p>
             </div>
@@ -81,10 +75,8 @@
                     dachte mir ihn lang) beſcheiden und beſtimt, aber ohne genialiſche Auszeichnung.
                     Er hat faſt die Phyſiognomie von Schreiner in <hi rend="antiqua">Leipzig.</hi>
                     Ich werde überal liebend behandelt, beſonders von Schüze. Ach ich rede bei den
-                    Leuten zu ſehr in den Tag hinein und ſcheere <pb n="75"
-                        facs="nerrlich1902_0074-0075.jpg"/>mich um zu wenig. Meine freundlichen
-                    Tiſchreden in <hi rend="antiqua">Dresden</hi> zur Schlegel ſollen wie <hi
-                        rend="antiqua">Herder</hi> erzählt, die Gebrüder Schlegel zur Umarbeitung ja
+                    Leuten zu ſehr in den Tag hinein und ſcheere <pb n="75" facs="nerrlich1902_0074-0075.jpg"/>mich um zu wenig. Meine freundlichen
+                    Tiſchreden in <hi rend="antiqua">Dresden</hi> zur Schlegel ſollen wie <hi rend="antiqua">Herder</hi> erzählt, die Gebrüder Schlegel zur Umarbeitung ja
                     ſogar zum Umdruk ihres Urtheils über mich genöthigt haben. —</p>
                 <p>Die <hi rend="antiqua">Herder</hi> ſind noch liebender gegen mich als ſonſt. Er
                     hatte meine <hi rend="antiqua">Palingenesien</hi> in einigen Tagen geleſen,
@@ -92,8 +84,7 @@
                     fuhren geſtern nach Tieffurth zur Herzogin Mutter.</p>
             </div>
             <div type="letter">
-                <head rend="right"><hi rend="antiqua">Weimar</hi> Donnerſtags <date
-                        when="0000-08-30">30. Auguſt.</date></head>
+                <head rend="right"><hi rend="antiqua">Weimar</hi> Donnerſtags <date when="0000-08-30">30. Auguſt.</date></head>
                 <p>„Ich ſchreibe hier in Wielands weiten Mantel vor Kälte eingewickelt, den mir
                     ſeine Frau mitgegeben, an meinen Fatis für dich weiter“ — ſo wolt’ ich vor
                     mehren Tagen ſchreiben; denn ich reiſe ſchon zum 2tenmale mit nichts anderem
@@ -115,20 +106,14 @@
                     jene, zu ſchreiben.</p>
                 <p>— Ich wil jezt an der chronologiſchen Leine durch meine hieſige Hiſtorie gehen.
                     Gott gebe mir eine ſeelige — Erinnerung.</p>
-                <p>Donnerſtags Nachmittags fuhren wir wie geſagt zur Herzogin — <hi rend="antiqua"
-                        >tous comme alors</hi> — Abends Eſſen und Lachen und Merkel bei <pb n="76"
-                        facs="nerrlich1902_0076-0077.jpg"/><hi rend="antiqua">Herder.</hi> Seine
+                <p>Donnerſtags Nachmittags fuhren wir wie geſagt zur Herzogin — <hi rend="antiqua">tous comme alors</hi> — Abends Eſſen und Lachen und Merkel bei <pb n="76" facs="nerrlich1902_0076-0077.jpg"/><hi rend="antiqua">Herder.</hi> Seine
                     Tochter gefält mir, ich weis nicht warum, wiewohl ſie ſehr ſchön iſt, nur aber
                     blöde. Überhaupt ſeinen Schwiegertöchtern und Söhnen entgeht ſelten ein Laut.
                     Freitags Mittags Eſſen bei <hi rend="antiqua">H[erder].</hi> (Wie das alles ſo
                     ſeelig klänge, wenn ichs ſo intonierte und z. B. dazu notierte, daß ich
                     Dienſtags von Leipzig über Lindenau (⅛ Stunde) reiſete, wo ich von dem zu
-                    weichen und zu ſehr und zum erſtenmal liebenden Herzen der <hi rend="antiqua"
-                        >Mdm.</hi> Hähnel und vom Rauſche der Empfindung und faſt des Weins in den
-                    blauen Himmel und in die grüne Welt hineintanzte und nachher in <hi
-                        rend="antiqua">Weissenfels</hi> einen vortreflichen H[errn] <hi
-                        rend="antiqua">v. Hardenberg</hi> hätte ſehen können und in <hi
-                        rend="antiqua">Naumburg</hi> ein Frl. <hi rend="antiqua">v. Kamingsky</hi>
+                    weichen und zu ſehr und zum erſtenmal liebenden Herzen der <hi rend="antiqua">Mdm.</hi> Hähnel und vom Rauſche der Empfindung und faſt des Weins in den
+                    blauen Himmel und in die grüne Welt hineintanzte und nachher in <hi rend="antiqua">Weissenfels</hi> einen vortreflichen H[errn] <hi rend="antiqua">v. Hardenberg</hi> hätte ſehen können und in <hi rend="antiqua">Naumburg</hi> ein Frl. <hi rend="antiqua">v. Kamingsky</hi>
                     ohne viel Bedeutung geſehen habe; aber was iſt dieſes Treiben und Trommeten
                     gegen Eine ſanfte Minute, wo man zum Fenſter im November hinaus- und ſein Holz
                     unten abladen ſieht und dabei denkt: das ſol dir an knarrenden lichten
@@ -137,16 +122,14 @@
                     Ehepaar hat einen Himmel um und in ſich; ſie iſt weicher, feſter,
                     ſchwärmeriſcher, häuslicher, liebender geworden durch und für den Man, den ich
                     troz ſeines ariſtokratiſchen bornierten leeren Sinnes, wegen ſeiner Herzlichkeit
-                    und Gutmüthigkeit und wegen ſeiner ehelichen Liebe recht liebe. Ach wie ein <hi
-                        rend="letter-spaced">Mädgen alles wird und kan</hi>, wenn ſie nur einen zu
+                    und Gutmüthigkeit und wegen ſeiner ehelichen Liebe recht liebe. Ach wie ein <hi rend="letter-spaced">Mädgen alles wird und kan</hi>, wenn ſie nur einen zu
                     lieben hat, wofür ſie etwas wird und thut. Es war auſſer der Frl. v. Oertel die
                     Fr. v. Wolzogen, die Agnes v. Lilien mitgebeten. Ihr Aeuſſeres iſt in Dicke und
                     Phyſiognomie der Abgus von meiner <hi rend="antiqua">Kalb,</hi> die leider jezt
                     auf ihrem Landgut ihre höchſte myopiſche Blindheit mit Ergeben trägt und zu
                     meiner Freude den hieſigen Winter mitfeiert. Die Wolzogen iſt klar, unbefangen,
                     nicht-preziös, unſchriftſtelleriſch, kurz man liebt ſie.</p>
-                <p>Sonabends ſolt’ ich Mittags wieder bei dem Paare eſſen, gieng aber zu <hi
-                        rend="antiqua">Wieland</hi> nach Osmanſtädt. Aus dem Gaſthofe ſchrieb ich
+                <p>Sonabends ſolt’ ich Mittags wieder bei dem Paare eſſen, gieng aber zu <hi rend="antiqua">Wieland</hi> nach Osmanſtädt. Aus dem Gaſthofe ſchrieb ich
                     ihm ein Billet, ſeines liegt bei. <hi rend="antiqua">W.</hi> iſt ein ſchlanker,
                     aufgerichteter mit einer rothen Schärpe und einem Kopftuch umbundner, ſich und
                     andere mäſſigender Neſtor, viel von ſich ſprechend aber nicht ſtolz — ein wenig
@@ -204,22 +187,19 @@
                     Perſonalien der Erde befangen, und angenehm — und Profeſſor Meier, den tiefen
                     Maler und Kunſtkenner, auſſen und als Menſch unbedeutend. — Am Sontage der
                     Abweſenheit ſolt’ ich bei der Herzogin und bei der Wohlzogen eſſen. Montags
-                    Mittags — <hi rend="antiqua">Diner</hi> bei Lichtenberg — abends bei <hi
-                        rend="antiqua">Herder</hi> — Dienſtags Mittags hoff ich hier. — Aber jezt
+                    Mittags — <hi rend="antiqua">Diner</hi> bei Lichtenberg — abends bei <hi rend="antiqua">Herder</hi> — Dienſtags Mittags hoff ich hier. — Aber jezt
                     läſſet meine Memorie nach; kurz ich as nur 2mal im Gaſthof und jeden Abend bei
                         <hi rend="antiqua">Herder</hi>, 2 ausgenommen, den am Donnerſtag bei der
                     Wohlzogen, wo es einen Puntſch ohne Gleichen gab, weil Rum ſtat Arrak ſeine
                     Seele war und wo die Herren bei jeder Bowle ſich zu einer neuen entſchloſſen.
                     —</p>
-                <p>— — Ich komme eben wieder vom <hi rend="antiqua">diner</hi> bei <hi
-                        rend="antiqua">Herder</hi> und ſas mehrere Stunden mit ihm allein in einer
+                <p>— — Ich komme eben wieder vom <hi rend="antiqua">diner</hi> bei <hi rend="antiqua">Herder</hi> und ſas mehrere Stunden mit ihm allein in einer
                     Laube. O lieber Otto, wie ſol ich dir dieſen groſſen Geiſt auf der rechten
                     Anhöhe zeigen, vor dem mein kleiner ſich ſpaniſch und türkiſch beugt — dieſen
                     durchgötterten Menſchen, der den Fus auf dieſer Welt, und Kopf und Bruſt in der
                     anderen hat — ſein Wiegen der Arme, wenn ihn Geſang und Muſik auflöſen, und ſein
                     trunknes ſchwimmendes Auge — ſein Erfaſſen aller Zweige des Baumes der Erkentnis
-                    — wiewohl er nur Maſſen, nicht Theile ergreift und ſtat des Baumes den Boden <pb
-                        n="79" facs="nerrlich1902_0078-0079.jpg"/>ſchüttelt, worauf dieſer ſteht.
+                    — wiewohl er nur Maſſen, nicht Theile ergreift und ſtat des Baumes den Boden <pb n="79" facs="nerrlich1902_0078-0079.jpg"/>ſchüttelt, worauf dieſer ſteht.
                     Ich habe ſchon oft abends mit Thränen Abſchied genommen; und er liebt mich
                     gewis. — Er ſchreibt nächſtens eine Metakritik Kants, der ſich, wie er ſagt, vor
                     Haman tief gebogen haben ſol.</p>
@@ -230,16 +210,13 @@
                     überſchreite, — wie mir Fichte gefallen. Auf lezteres: „es iſt der gröſte neue
                     Scholaſtiker — zum Poeten wird man geboren, aber zum Philoſophen kan man ſich
                     machen, wenn man irgend eine Idee zur transzendenten, fixen macht — Die Neueren
-                    machen das <hi rend="letter-spaced">Licht</hi> zum <hi rend="letter-spaced"
-                        >Gegenſtand</hi>, den es doch nur zeigen ſol.“ — <milestone unit="testimony"
-                        spanTo="#graef_945_end" xml:id="graef_945"/>Er wird nach 4 Monaten den
+                    machen das <hi rend="letter-spaced">Licht</hi> zum <hi rend="letter-spaced">Gegenſtand</hi>, den es doch nur zeigen ſol.“ — <milestone unit="testimony" spanTo="#graef_945_end" xml:id="graef_945"/>Er wird nach 4 Monaten den
                         <rs>Fauſt</rs> volenden; er ſagt, „er könne 6 Monate ſeine Arbeit
                     vorausſagen, weil er ſich zu einer ſolchen Stimmung der Stimmung durch
                     geſch[eute] leibliche Diätetik vorbereite.“<anchor xml:id="graef_945_end"/> —
                     Schiller ſäuft 6 Loth Kaffee auf 1 Taſſe und braucht Malaga und alles — nicht
                     jeder iſt im Kaffee ſo mäſſig als ich.</p>
-                <p>Auch bei der ſchönen, malenden und maleriſchen und dichteriſchen <hi
-                        rend="antiqua">lmhof</hi> war ich, ſo bei <hi rend="antiqua">Corona
+                <p>Auch bei der ſchönen, malenden und maleriſchen und dichteriſchen <hi rend="antiqua">lmhof</hi> war ich, ſo bei <hi rend="antiqua">Corona
                         Schroeter</hi> — Bei der Herzogin Mutter as ich einmal Mittags, die
                     unbefangen iſt und macht. Sie und ihre Hofdamen leſen meine Sachen; ich machte
                     viel Spas über Schlegel und ſie hätte gern, daß ich ernſthaft gegen ihn
@@ -262,12 +239,9 @@
                     erleichtert, den ich jezt, wil er ſtudieren, nach Jena ſchicken kan. — Ach ich
                     habe 100 Gründe! Auch hätten gewiſſe Blumenketten in Leipzig in meine Bruſthaut
                     eingeſägt, aus denen ich jezt mit verleztem Herzen treten werde. Siehſt du,
-                    dieſe Ungewisheit des Orts und Bleibens, (daher ich <hi rend="antiqua"
-                        >Halberstadt</hi> beſah,) quälte mich in der Leipziger bruderloſen Klauſe.
-                    Auch der Ort iſt kleiner und am Herzen näher. In <hi rend="antiqua"
-                        >Halberstadt</hi> verhies ich, nach <hi rend="antiqua">Halberstadt</hi> zu
-                    gehen. — <hi rend="antiqua">Corona Schroeter</hi> und <hi rend="antiqua"
-                        >Einsiedel</hi> und <hi rend="antiqua">Böttiger</hi> beſorgen mein
+                    dieſe Ungewisheit des Orts und Bleibens, (daher ich <hi rend="antiqua">Halberstadt</hi> beſah,) quälte mich in der Leipziger bruderloſen Klauſe.
+                    Auch der Ort iſt kleiner und am Herzen näher. In <hi rend="antiqua">Halberstadt</hi> verhies ich, nach <hi rend="antiqua">Halberstadt</hi> zu
+                    gehen. — <hi rend="antiqua">Corona Schroeter</hi> und <hi rend="antiqua">Einsiedel</hi> und <hi rend="antiqua">Böttiger</hi> beſorgen mein
                     Quartier.</p>
                 <p rend="centered">Eia, wären wir da!</p>
                 <p>Aber dan liebes Geſchik, treibe mich nicht wieder aus, binde mich an meine Frau
@@ -288,8 +262,7 @@
                     zum <hi rend="antiqua">corps diplomatique.</hi> Auf die Verfaſſerin der Agnes
                     macht’ es keinen Effekt.</p>
                 <p>Auf der einen Seite bin ich euch allen jezt näher (ich brauche nur Einen längſten
-                    Tag zur Reiſe); auf der andern ferner, wegen <pb n="81"
-                        facs="nerrlich1902_0080-0081.jpg"/>des längern Laufs der Briefe, wiewohl
+                    Tag zur Reiſe); auf der andern ferner, wegen <pb n="81" facs="nerrlich1902_0080-0081.jpg"/>des längern Laufs der Briefe, wiewohl
                     deine nie einen ſonderlichſchnellen nach <hi rend="antiqua">Leipzig</hi> hatten
                     und ich alſo durch Weimar nichts verliere als den <hi rend="antiqua">Datum</hi>
                     — Nach <hi rend="antiqua">Hof</hi> komm ich ſo dieſen Herbſt ſchwerlich — im
@@ -325,8 +298,7 @@
                     denk ich einander lieben.</p>
                 <pb n="82" facs="nerrlich1902_0082-0083.jpg"/>
                 <p>Es iſt eine Schwelgerei des Herzens, daß ich durchaus dieſen Brief als den erſten
-                    jezt ſchon an dich endige — wiewohl ich ihn in meinen Schuhen nach <hi
-                        rend="antiqua">Leipzig</hi> trage. — Grüſſe deinen Albrecht, deinen lieben
+                    jezt ſchon an dich endige — wiewohl ich ihn in meinen Schuhen nach <hi rend="antiqua">Leipzig</hi> trage. — Grüſſe deinen Albrecht, deinen lieben
                     herzlichen Albrecht und deine Schweſter und alle — und die Kranke, wenn ſie
                     nicht bleich iſt — und <hi rend="letter-spaced">dich</hi>. Wie komt es, daß ich
                     Euch alle immer mehr liebe, je beſſer ich es habe und je mehr ich andere

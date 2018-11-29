@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -84,8 +83,7 @@
 
                 <p rend="indentchar-m4n0">Mit dem alten Herrn geht mir's vortrefflich: bekam ich
                     auch den ersten Tag nur einen Finger, den andern hatte ich schon den ganzen Arm.
-                    Vorgestern, <milestone unit="testimony" spanTo="#graef_1122_end"
-                        xml:id="graef_1122"/>als ich eintrat, hatte er die <rs>Zeichnungen von Cornelius</rs>
+                    Vorgestern, <milestone unit="testimony" spanTo="#graef_1122_end" xml:id="graef_1122"/>als ich eintrat, hatte er die <rs>Zeichnungen von Cornelius</rs>
                     vor sich. »Da sehen sie einmal, Meyer!« sagte er zu diesem, der auch hereinkam,
                     »die alten Zeiten stehen<pb n="7"/> leibhaftig wieder auf.« Der alte kritliche
                     Fuchs murmelte (ganz wie Tieck ihn nachmacht, ohne die geringste Übertreibung);
@@ -149,8 +147,7 @@
                 <div>
                     <head> a. </head>
 
-                    <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1126_end"
-                            xml:id="graef_1126"/>Am Mittwoch fand ich ihn Morgens im Garten; wir
+                    <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1126_end" xml:id="graef_1126"/>Am Mittwoch fand ich ihn Morgens im Garten; wir
                         <rs>sprachen über Cornelius</rs>; er hatte ihm geschrieben und ihn recht gelobt, ihm
                         aber zu verstehen gegeben, daß er bei altdeutschem Geist, Tracht u.s.w. mehr
                         Freiheit in der Behandlung selber wünsche und hatte ihn an Dürer's Gebetbuch
@@ -227,8 +224,7 @@
                     kurze Winke, wie merkwürdig und wichtig das alles sei.</p>
                 <p rend="indentchar-m4n0"> – – – – – – – – – – – –</p>
                 <p rend="indentchar-m4n0">
-                    <milestone unit="testimony" spanTo="#graef_1127_end" xml:id="graef_1127"
-                    /><rs>Cornelius Zeichnungen</rs>, die den Beschluß gemacht, hatten allgemein gefallen;
+                    <milestone unit="testimony" spanTo="#graef_1127_end" xml:id="graef_1127"/><rs>Cornelius Zeichnungen</rs>, die den Beschluß gemacht, hatten allgemein gefallen;
                     ich benutzte dies, um den Alten wegen einem öffentlichen Urtheil anzugehen,
                     welches mir doch mit der Hauptzweck war, woraus Cornelius es angelegt. Ich ließ
                     den alten Herrn das Gewicht seines Einflusses fühlen, und wie er dadurch den
@@ -263,8 +259,7 @@
 
                 <p rend="indentchar-m4n0">Obgleich der Brief nicht so schnell fort soll, so wird er
                     doch geschrieben, weil des Meisters zärtlicher Gruß auf dem Papier stehen soll,
-                    und heute noch. <milestone unit="testimony" spanTo="#graef_1133_end"
-                        xml:id="graef_1133"/>Diesen Morgen kam er zu mir und war gar freundlich und
+                    und heute noch. <milestone unit="testimony" spanTo="#graef_1133_end" xml:id="graef_1133"/>Diesen Morgen kam er zu mir und war gar freundlich und
                     mild und mittheilend. Er fragte nach Ihnen, <pb n="25"/> meine gnädigste Prinzeß
                     [Caroline von Mecklenburg-Schwerin], recht theilnehmend; da sagte ich ihm, daß
                     ich Ihnen etwas aus den Memoires [»Aus meinem Leben«] vertraut hätte. Da war er
@@ -275,8 +270,7 @@
                     es nicht wieder. Das sagte ich ihm; das freut ihn sehr, und ich fühlte, daß es
                     ihn bewegte und freute. Caroline und ich sollen zu ihm kommen und die
                     <rs>Zeichnungen aus dem »Faust« [von Nauwerk und Natzeburg]</rs> sehen, die, wie ich
-                    höre, meine allergnädigste Prinzeß Sich an eignen will.<anchor
-                        xml:id="graef_1133_end"/></p>
+                    höre, meine allergnädigste Prinzeß Sich an eignen will.<anchor xml:id="graef_1133_end"/></p>
             </div>
             <pb n="129"/>
             <div type="conversation">
@@ -288,8 +282,7 @@
 
                 <p rend="indentchar-m4n0">Wir [F. v. Müller und Riemer] tafelten lange bei Goethe.
                     Er schien mir sehr angegriffen durch den Gedanken an das bevorstehende Duell
-                    seines Sohnes. <milestone unit="testimony" spanTo="#graef_1153a_end"
-                        xml:id="graef_1153a"/>Seine Unzufriedenheit über <rs>der Frau von Staël Urtheile
+                    seines Sohnes. <milestone unit="testimony" spanTo="#graef_1153a_end" xml:id="graef_1153a"/>Seine Unzufriedenheit über <rs>der Frau von Staël Urtheile
                     über seine Werke</rs> brach lebhaft hervor. Sie habe Mignon bloß als Episode
                     beurtheilt, da doch das ganze Werk dieses Charakters wegen geschrieben sei.
                     Meister müsse nothwendig so gährend, schwankend und biegsam erscheinen, damit
@@ -412,8 +405,7 @@
                         wissen, wie sehr ich die Überraschungen liebe. Wer ist es?« »Frau v.
                         Humboldt!« »F-r-a-u v-o-n H-u-m-b-o-l-dt? Sie möge kommen!« Und dabei
                         veränderte sich Goethes Gesicht von oben bis unten, indem es die
-                        langweiligste Grimasse annahm, Frau v. Humboldt öffnete die Thüre, und <pb
-                            n="149"/> die Arme ausbreitend rief sie: »Goethe!« Dieser erhob sich
+                        langweiligste Grimasse annahm, Frau v. Humboldt öffnete die Thüre, und <pb n="149"/> die Arme ausbreitend rief sie: »Goethe!« Dieser erhob sich
                         ruhig von seinem Sessel, bat sie, sich neben ihn zu setzen. »Wissen Sie, wie
                         man Salmen fängt?« fragte er. »Nein!« erwiderte ganz verwundert über solchen
                         Empfang Frau v. Humboldt. »Mit einem Wehr fängt man sie,« fuhr er fort.
@@ -432,8 +424,7 @@
                     <p rend="indentchar-m4n0"> Wiederholt war Goethe auch im Hause bei Voß, dem
                         Übersetzer des Homer, den er vor vielen hochschätzte. Die schlichte
                         Gutmüthigkeit der Hausfrau des berühmten Professors gab Anlaß zu manchem
-                        launigen Scherz. Goethe folgte ihr überall hin willig, als sie ihn bei <pb
-                            n="150"/> seinem ersten Besuch an allen Orten und Enden ihres Hauses
+                        launigen Scherz. Goethe folgte ihr überall hin willig, als sie ihn bei <pb n="150"/> seinem ersten Besuch an allen Orten und Enden ihres Hauses
                         herumführte und ihm auch das unbedeutendste Winkelchen, zuletzt selbst den
                         Gänsestall unter der Treppe zeigte. »Sie sind ja nun einmal ein Mann, der in
                         allen Dingen Bescheid weiß,« sagte sie, als er das nächste Mal wiederkam,
@@ -608,8 +599,7 @@
                     <p rend="indentchar-m4n0"> Daß die Heidelberger über Goethe entzückt sind,
                         versteht sich. Alt und jung preist seine Leutseligkeit, und jeder verwahrt
                         sorgfältig die ihm zugeworfenen Geistesbrocken, wenn sie auch noch so mager
-                        sind. Sogar mein College <milestone unit="testimony"
-                            spanTo="#graef_1155_end" xml:id="graef_1155"/>Moser, der aus einem
+                        sind. Sogar mein College <milestone unit="testimony" spanTo="#graef_1155_end" xml:id="graef_1155"/>Moser, der aus einem
                         deutschen Barbier ein lateinischer Professor der Medicin geworden, ist
                         seines Gespräches gewürdigt. »Wir haben <rs>über den ›Faust‹ gesprochen</rs>,« sagte
                         er mir.<anchor xml:id="graef_1155_end"/> »Und ich mit ihm über die
@@ -652,8 +642,7 @@
                     Preußen den Petrus nach Köln zurückgeben. So stellt auch der Ingenieurgeneral
                     Rauch alle römischen Alterthümer, die bei Köln gefunden werden, in seinem Hause
                     auf, mit dem festen Willen, daß sie in Köln bleiben sollen.« Vom Domwerk,
-                        <milestone unit="testimony" spanTo="#graef_1161_end" xml:id="graef_1161"
-                    /><rs>von Cornelius, dessen Faust,</rs> von Ruscheweih sehr schön gestochen, er bekommen
+                        <milestone unit="testimony" spanTo="#graef_1161_end" xml:id="graef_1161"/><rs>von Cornelius, dessen Faust,</rs> von Ruscheweih sehr schön gestochen, er bekommen
                     habe, soll gesprochen werden;<anchor xml:id="graef_1161_end"/> von Allem, was
                     Einzelne gethan, und was nun zu erwarten, wenn die Unterstützung der Regierung
                     zu Hülfe komme. »Gebt nur den Malern und Kunstbeflissenen zu leben und zu thun,
@@ -839,8 +828,7 @@
                     kommt er auf den <rs>Faust; der erste Theil ist geschlossen mit Gretchens Tod, nun
                     muß es par ricochet noch einmal anfangen</rs>; das sei recht schwer, dazu habe jetzt
                     der Maler eine andere Hand, einen andern Pinsel, was er jetzt zu produciren
-                    vermöchte, würde nicht mit dem Frühern zusammen gehen. Ich erwiderte: Er <pb
-                        n="192"/> dürfe sich keine Skrupel darüber machen, ein anderer vermöchte
+                    vermöchte, würde nicht mit dem Frühern zusammen gehen. Ich erwiderte: Er <pb n="192"/> dürfe sich keine Skrupel darüber machen, ein anderer vermöchte
                     sich in einen andern zu versetzen, wie viel eher doch der Meister in seine
                     frühern Werke. – <rs>Goethe: »ich gebe es gerne zu, Vieles ist auch schon fertig.</rs>« –
                     Ich frage nach dem Ende. – Goethe: »das sage ich nicht, darf es nicht sagen,
@@ -903,8 +891,7 @@
                     vollkommen, was ich ihm sage, daß er durchaus von unserer Sammlung reden müsse,
                     weil er sie gesehen, sonst urtheilten die Menschen, sein Schweigen sei ein
                     Mißbilligen oder Nichtachten. Darum sei es so gut, daß sich alles mache, und
-                    sich zeige, wie alles reif sei; er las mir dieß alles vor. <milestone
-                        unit="testimony" spanTo="#graef_1163_end" xml:id="graef_1163"/>Nach Tisch
+                    sich zeige, wie alles reif sei; er las mir dieß alles vor. <milestone unit="testimony" spanTo="#graef_1163_end" xml:id="graef_1163"/>Nach Tisch
                     besprach er die Fortsetzung des Divan, das Rosenöl; – »Behandelt die Weiber mit
                     Nachsicht;« – Spiel in den Locken; Hans Adams Geburt; – der Tulbend; – Freude
                     der Freigebigkeit. Versprechungen <pb n="195"/> des Liebhabers. Alle Pracht des
@@ -912,8 +899,7 @@
                     Armuth des Liebenden, und viele andere herrliche, prächtige und anmuthige Dinge.
                     <rs>Ich sage Goethe, daß es mich an Faust erinnere, wegen der Großartigkeit</rs> und
                     Kühnheit, und doch wieder in der Natürlichkeit und Einfachheit der Sache und in
-                    der Form und Sprache, was ihm dann ganz recht und lieb war.<anchor
-                        xml:id="graef_1163_end"/></p>
+                    der Form und Sprache, was ihm dann ganz recht und lieb war.<anchor xml:id="graef_1163_end"/></p>
                 <p rend="indentchar-m4n0"> Morgens. Goethe: was er näher kennen möchte, wäre das
                     Verhältniß und der Weg der neuen katholisch gewordenen Protestanten. – Ich
                     meine, die Philosophie der Geschichte der Menschheit (Herder, Müller), die Zeit

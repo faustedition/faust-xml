@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,8 +23,7 @@
         <body>
             <pb n="37" facs="kletke1873_0037.jpg"/>
             <div type="text">
-                <p><milestone unit="testimony" spanTo="#graef_1563_end" xml:id="graef_1563"
-                        next="#graef_1563_b"/>Nach Verlauf von vielen Jahren fand ich Veranlaſſung,
+                <p><milestone unit="testimony" spanTo="#graef_1563_end" xml:id="graef_1563" next="#graef_1563_b"/>Nach Verlauf von vielen Jahren fand ich Veranlaſſung,
                         <hi rend="letter-spaced">Goethe</hi> dieſes nächtliche Abenteuer zu
                     erzählen. Er hatte eben die <rs>von Cornelius gezeichneten, ihm gewidmeten
                         Illuſtrationen zum Fauſt</rs> erhalten, unter denen ſich ja eine ähnliche
@@ -60,8 +59,7 @@
                 <p><milestone unit="testimony" spanTo="#graef_1563_end_b" xml:id="graef_1563_b"/>Ich
                     erlaubte mir (es war vielleicht 1822) gegen die Darſtellung von Cornelius die
                     Bemerkung, daß er unmöglich die tiefe Bedeutung der Dichtung hier verſtanden
-                    habe. Der Dichter, ſo ſchien es mir, habe wohl im Sinne gehabt, den <pb n="38"
-                        facs="kletke1873_0038.jpg"/>Rabenſtein, auf welchem am nächſtfolgenden Tage
+                    habe. Der Dichter, ſo ſchien es mir, habe wohl im Sinne gehabt, den <pb n="38" facs="kletke1873_0038.jpg"/>Rabenſtein, auf welchem am nächſtfolgenden Tage
                         <rs>Gretchen</rs> ihr Haupt auf den Block legen ſollte, durch
                     blumenſtreuende Engel weihen zu laſſen. Statt deſſen giebt uns Cornelius einen
                     Teufels- und Hexenſpuk, womit <rs>Mephiſtopheles Fauſt</rs> belügen und betrügen
@@ -74,8 +72,7 @@
             <pb n="188" facs="kletke1873_0188.jpg"/>
             <div type="text">
                 <p><milestone unit="testimony" spanTo="#bie3_6689_end" xml:id="bie3_6689"/>Den 16.
-                    October. „Wenn mich auch,“ äußerte Goethe <pb n="189" facs="kletke1873_0189.jpg"
-                    />heute zu mir, „keine andere Nation mit Beſuchern ſo beläſtigt und mitunter
+                    October. „Wenn mich auch,“ äußerte Goethe <pb n="189" facs="kletke1873_0189.jpg"/>heute zu mir, „keine andere Nation mit Beſuchern ſo beläſtigt und mitunter
                     auch durch die bloße Neugier langweilt, wie die engliſche, ſo muß ich doch auch
                     zugeben und hab’ es ja ſchon ſelbſt oft erfahren, daß kein anderer Landsmann,
                     was ſplendide Schicklichkeit betrifft, es dem Engländer zuvorthut. Mir hatte vor
@@ -96,8 +93,7 @@
                     zu nehmen, und mir, was Sie darin Bemerkenswerthes finden, mitzutheilen und die
                     betreffenden Stellen vorzuleſen.“ — Am folgenden Tage fand ich mich zu der mir
                     beſtimmten Stunde ein, las zuerſt die <rs>Zueignung</rs> vor, welche Goethe ſehr
-                    gelungen fand und derſelben den Vorzug vor einer, ihm ebenfalls in <pb n="190"
-                        facs="kletke1873_0190.jpg"/>dieſen Tagen zugeſchickten franzöſiſchen
+                    gelungen fand und derſelben den Vorzug vor einer, ihm ebenfalls in <pb n="190" facs="kletke1873_0190.jpg"/>dieſen Tagen zugeſchickten franzöſiſchen
                     Ueberſetzung (mit lithographirten Illuſtrationen in Folio) zuerkannte. Als ich
                     ferner mittheilte, wie es mich in hohem Grade befremdet habe, daß die
                     prachtvolle <rs>Eröffnungsſcene im Himmel</rs> in der Ueberſetzung fehle, da ſie
@@ -123,11 +119,8 @@
                     <l><hi rend="antiqua">he called for his confessor</hi></l>
                     <l><hi rend="antiqua">left all to his successor.</hi></l>
                 </lg>
-                <p>[Auf dem Sterbebette ließ er ſeinen Beichtvater (<hi rend="antiqua"
-                        >confessor</hi>) rufen, wahrſcheinlich nur wegen des Reimes auf <hi
-                        rend="antiqua">„ſsuccessor“</hi> (Nachfolger)]. Goethe lachte herzlich:
-                    „ließ ſeinen Beichtvater rufen,“ wiederholte er, „wir wollen dem <pb n="191"
-                        facs="kletke1873_0191.jpg"/>edlen Lord bemerklich machen, daß der König von
+                <p>[Auf dem Sterbebette ließ er ſeinen Beichtvater (<hi rend="antiqua">confessor</hi>) rufen, wahrſcheinlich nur wegen des Reimes auf <hi rend="antiqua">„ſsuccessor“</hi> (Nachfolger)]. Goethe lachte herzlich:
+                    „ließ ſeinen Beichtvater rufen,“ wiederholte er, „wir wollen dem <pb n="191" facs="kletke1873_0191.jpg"/>edlen Lord bemerklich machen, daß der König von
                     Thule <hi rend="letter-spaced">vor der Sündfluth</hi> regierte; Beichtväter gab
                     es damals nicht.“ —</p>
                 <p>Auch über die <rs>franzöſiſche Ueberſetzung</rs> Bericht zu erſtatten, übertrug
@@ -149,12 +142,9 @@
                     <l>„Mißhör’ mich nicht, du holdes Angeſicht!“</l>
                 </lg>
                 <p>Auch hätte Freund Auguſt Wilhelm von Schlegel das lächerliche Mißverſtändniß
-                    beſeitigen können, welches dadurch veranlaßt wird, daß Frau von Sta<hi
-                        rend="antiqua">ë</hi>l die Worte Gretchens, als ſie in der Kirche ohnmächtig
-                    niederſinkt und ausruft: „Nachbarin, Euer Fläſchchen“ überſetzt: <hi
-                        rend="antiqua">„ma voisine, une goutte,“</hi> als ob Gretchen die Nachbarin
-                    um ihre Branntweinflaſche anſpräche, nicht um das Riechfläſchchen.“<anchor
-                        xml:id="bie3_6689_end"/> —</p>
+                    beſeitigen können, welches dadurch veranlaßt wird, daß Frau von Sta<hi rend="antiqua">ë</hi>l die Worte Gretchens, als ſie in der Kirche ohnmächtig
+                    niederſinkt und ausruft: „Nachbarin, Euer Fläſchchen“ überſetzt: <hi rend="antiqua">„ma voisine, une goutte,“</hi> als ob Gretchen die Nachbarin
+                    um ihre Branntweinflaſche anſpräche, nicht um das Riechfläſchchen.“<anchor xml:id="bie3_6689_end"/> —</p>
                 <p>Das gab Veranlaſſung, noch anderer dergleichen be<pb n="192"/>luſtigender Ueberſetzungen zu
                     gedenken: Fauſt: „Heiße Magiſter, heiße Doctor gar“ iſt überſetzt worden:</p>
                 <p>„On me nomme Maitre-Docteur Gar.“</p>
@@ -420,8 +410,7 @@
                     Hoftheaters unter des Grafen Brühl, die der Singakademie unter Leitung des
                     Profeſſors Zelter, die der Königlichen Kapelle unter der des Kapellmeiſters
                     Weber, ſtanden in geordneten Reihen und Gruppen, als der Hof eintrat. (Hierbei
-                    will ich nicht unerwähnt laſſen, daß der König Friedrich Wilhelm <hi
-                        rend="antiqua">III.</hi> nur einer einzigen Vorſtellung beigewohnt hat. Wie
+                    will ich nicht unerwähnt laſſen, daß der König Friedrich Wilhelm <hi rend="antiqua">III.</hi> nur einer einzigen Vorſtellung beigewohnt hat. Wie
                     verlautete, war er nicht nur gegen die Dichtungen Goethe’s, namentlich gegen den
                     Fauſt, ſondern auch gegen den Dichter perſönlich eingenommen, was aus einer
                     Begegnung mit ihm in der Rheincampagne ſich herſchrieb, wo Goethe in einer
@@ -459,12 +448,10 @@
                     einem Verſteck mit dröhnender Stimme wiederholt wurden. Als nun Mephiſto jene
                     bedenkliche Zeile ausließ, ſtreckte der Fürſt ſein weißes Haupt mit flammenden
                     Augen aus dem unterirdiſchen Verſteck hervor und rief: „Herzog Karl! ich kann
-                    Ihnen die „Fliegen, Fröſche, Wanzen, Läuſe“ nicht ſchenken! noch einmal, <hi
-                        rend="antiqua">da capo!</hi>“ Unter einem homeriſchen Gelächter, bei welchem
+                    Ihnen die „Fliegen, Fröſche, Wanzen, Läuſe“ nicht ſchenken! noch einmal, <hi rend="antiqua">da capo!</hi>“ Unter einem homeriſchen Gelächter, bei welchem
                     der überluſtige Kronprinz es allen Andern zuvorthat, mußte der Herzog von
                     Mecklenburg ſich als den Gebieter über all das ekle Ungeziefer bekennen. Zu
-                    einem nicht geringeren Ausbruche einer ſogenannten „<hi rend="letter-spaced"
-                        >ungeheuern</hi>“ Heiterkeit ließ der Kronprinz ſich hinreißen, als bei
+                    einem nicht geringeren Ausbruche einer ſogenannten „<hi rend="letter-spaced">ungeheuern</hi>“ Heiterkeit ließ der Kronprinz ſich hinreißen, als bei
                     einer ſpäteren Aufführung bei Anweſenheit der Prinzeſſinnen und ihrer Damen die
                     Scene in Auerbachs Keller zur Darſtellung kam und der Königliche Opernſänger
                     Zſchieſche mit ſeines Baſſes Grundgewalt das Lied von dem großen Floh nach
@@ -491,8 +478,7 @@
                     Wirthe und nahmen bald an dieſem, bald an jenem Tiſche Platz bei den Sängern und
                     den Mitgliedern der Kapelle, welche in derſelben Weiſe wie der Königliche Hof,
                     deſſen Tafeln ſich in demſelben Saale befanden, bewirthet und bedient wurden,
-                    wobei das bekannte <pb n="215" facs="kletke1873_0215.jpg"/>Sprichwort: <hi
-                        rend="antiqua">„cantores amant humores“</hi> nicht allein durch fröhlichen
+                    wobei das bekannte <pb n="215" facs="kletke1873_0215.jpg"/>Sprichwort: <hi rend="antiqua">„cantores amant humores“</hi> nicht allein durch fröhlichen
                     Humor, ſondern auch bei den ſchäumenden Feuchtigkeiten des Champagners zu
                     vollkommenſter Geltung kam. —</p>
                 <p>Uebrigens ſei hier bemerkt, daß Goethe durch den Fürſten ſelbſt ſchon 1814 nähere
@@ -537,11 +523,9 @@
                         Myſtiker.“<anchor xml:id="graef_1617_end"/>
                     <milestone unit="testimony" spanTo="#graef_1948_end" xml:id="graef_1948"/>Bei
                     meinem letzten Beſuche (1831) lagen <rs>zwei ſtarke Foliobände, Manuſcripte</rs>
-                    enthaltend, auf ſeinem Arbeitstiſche, <pb n="217" facs="kletke1873_0217.jpg"
-                    />und auf dieſe zeigend, ſagte er: „Unter ſieben Siegeln liegt hier der
+                    enthaltend, auf ſeinem Arbeitstiſche, <pb n="217" facs="kletke1873_0217.jpg"/>und auf dieſe zeigend, ſagte er: „Unter ſieben Siegeln liegt hier der
                         <rs>zweite Theil des Fauſt</rs> verſchloſſen; erſt aber, wenn ich es nicht
-                    mehr im Stande ſein werde, mögen Andere ihre Hand daran legen.“<anchor
-                        xml:id="graef_1948_end"/> Und ſo geſchah es: der zweite Theil des Fauſt
+                    mehr im Stande ſein werde, mögen Andere ihre Hand daran legen.“<anchor xml:id="graef_1948_end"/> Und ſo geſchah es: der zweite Theil des Fauſt
                     erſchien vollſtändig erſt nach des Dichters Tode.</p>
                 
                 <p><milestone unit="testimony" spanTo="#graef_1617_end_b" xml:id="graef_1617_b"/>Ich ſuchte das Geſpräch wiederum auf die Bearbeitung des Fauſt für die Bühne zu

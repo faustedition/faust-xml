@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -83,15 +81,13 @@
                     Man klatschte und rief ihm zu, es möge dieses Glas zu seiner Gesundheit, zur
                     Stärkung seiner alten Glieder gereichen. Er sang noch einige Romanzen und
                     erregte immer mehr Munterkeit in der Gesellschaft.</p>
-                <p><milestone unit="testimony" spanTo="#pniower_81a_end" xml:id="pniower_81a"
-                    />»Kannst du die Melodie, Alter«, rief Philine, »<rs>der Schäfer putzte sich zum
+                <p><milestone unit="testimony" spanTo="#pniower_81a_end" xml:id="pniower_81a"/>»Kannst du die Melodie, Alter«, rief Philine, »<rs>der Schäfer putzte sich zum
                     Tanz</rs>?«</p>
                 <p>»O ja«, versetzte er; »wenn Sie das Lied singen und aufführen wollen, an mir soll
                     es nicht fehlen.«</p>
                 <p>Philine stand auf und hielt sich fertig. Der Alte begann die Melodie, und sie
                     sang ein Lied, das wir unsern Lesern nicht mitteilen können, weil sie es
-                    vielleicht abgeschmackt oder wohl gar unanständig finden könnten.<anchor
-                        xml:id="pniower_81a_end"/></p>
+                    vielleicht abgeschmackt oder wohl gar unanständig finden könnten.<anchor xml:id="pniower_81a_end"/></p>
                 <p>Inzwischen hatte die Gesellschaft, die immer heiterer geworden war, noch manche
                     Flasche Wein ausgetrunken und fing an, sehr laut zu werden. Da aber unserm
                     Freunde die bösen Folgen ihrer Lust noch in frischem Andenken schwebten, suchte

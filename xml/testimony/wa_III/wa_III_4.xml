@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:f="http://faustedition.net/ns"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -136,10 +129,7 @@
                            <pb n="202"/> An Hrn. Baron von Beroldingen</hi> nach Hildesheim. <hi rend="italic">An Hrn. von Leonhardi</hi> nach Frankfurt. <hi rend="italic">An Hrn. Brizzi</hi> nach München. <hi rend="italic">An Hrn.
                            Prof. Zelter</hi> nach Berlin. <hi rend="italic">An Hrn. Dr.
                            Windischmann</hi> nach Aschaffenburg. Spatzieren um den blühenden Park zu
-                        sehen. <milestone unit="testimony"
-                          spanTo="#graef_1121_end"
-                          xml:id="graef_1121"
-                          next="#graef_1121_b"/>Herr von Boisserée von
+                        sehen. <milestone unit="testimony" spanTo="#graef_1121_end" xml:id="graef_1121" next="#graef_1121_b"/>Herr von Boisserée von
                            Köln.<anchor xml:id="graef_1121_end"/> Herr von Oliva von Wien.
                         Capellmeister Müller wegen Jephtha. <milestone unit="testimony" spanTo="#graef_1121_end_b" xml:id="graef_1121_b"/>
                <rs>Federzeichnungen

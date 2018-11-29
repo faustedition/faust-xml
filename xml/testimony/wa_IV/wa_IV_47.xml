@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,8 +44,7 @@
                Erker sehr anmuthig gefunden. Daneben ist die Terrasse glücklich und
                galant-wissenschaftlich angelegt; es wird gesorgt daß alles in diesen Wochen völlig
                zu Stande komme. Am Übrigen ist nichts auszusetzen.</p>
-            <p rend="indentchar-m4n0"> Die 7. Lieferung meiner Werke ist angekommen die 8<hi
-                  rend="sup">te</hi> fortgesendet. Die Augsburger versprechen mit der Octavausgabe
+            <p rend="indentchar-m4n0"> Die 7. Lieferung meiner Werke ist angekommen die 8<hi rend="sup">te</hi> fortgesendet. Die Augsburger versprechen mit der Octavausgabe
                schnell nachzurücken. Und so hätten wir dieses weitaussehende Werk denn auch noch zu
                Stande gebracht.</p>
             <p rend="indentchar-m4n0"> Den 23. Juni, als am Tage vor Johannis war, mir unwissend,
@@ -177,8 +172,7 @@
             <p rend="indentchar-m4n0"> Man bringt mir Briefe und Paquete adressirt an Sie; die
                ersten laß ich liegen, die zweyten nehm ich aus ihren Couverten mit allem
                Respect für den Inhalt, den Klagen über allzuschweres Porto auszuweichen.
-               <milestone unit="testimony" spanTo="#graef_1859_end" xml:id="graef_1859"
-               />Wir haben wenig zu erzählen, und hätten viel zu sagen, wovon ich nur soviel
+               <milestone unit="testimony" spanTo="#graef_1859_end" xml:id="graef_1859"/>Wir haben wenig zu erzählen, und hätten viel zu sagen, wovon ich nur soviel
                vermelde, <rs>daß die classische Walpurgisnacht zu Stande gekommen, oder
                   vielmehr in's Grenzenlose ausgelaufen ist</rs>. Hätten Sie solche noch vor
                Ihrer Abreise vernommen, so wären Sie vielleicht erstaunt; aber wie kann man
@@ -237,8 +231,7 @@
                Versuchen, in vorgerückten Jahren, diese Gelegenheit ergreifen werden Ihr künftiges
                Schicksal zu bestimmen.</p>
             <p rend="indentchar-m4n0"> Geben Sie mir einige Nachricht wie Sie es angreifen und
-               wiefern es Ihnen glückt. <milestone unit="testimony" spanTo="#graef_1860_end"
-                  xml:id="graef_1860"/>Für die übrigen Sendungen, besonders die von <rs>Faust</rs>,
+               wiefern es Ihnen glückt. <milestone unit="testimony" spanTo="#graef_1860_end" xml:id="graef_1860"/>Für die übrigen Sendungen, besonders die von <rs>Faust</rs>,
                statte meinen <pb n="284"/> besten Dank ab. Es muß mir immer merkwürdig bleiben, was
                dieses wundersame Werk aufregt und zu was für Betrachtungen es Veranlassung
                   gibt.<anchor xml:id="graef_1860_end"/>

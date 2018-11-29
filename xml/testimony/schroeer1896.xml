@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,21 +22,16 @@
             <div type="conversation">
                 <p><anchor xml:id="N1"/><ref target="#F1">*)</ref> <milestone unit="testimony" spanTo="#graef_1660_end" xml:id="graef_1660"/>Es war im Winter vom 1828 auf
                     1829 — vermuthlich noch 1828 <hi rend="letter-spaced">vor</hi> 12. December —
-                    als der <hi rend="letter-spaced">Kanzler von Müller</hi> mit den Freunden <hi
-                        rend="letter-spaced">Riemer, Eckermann</hi> und <hi rend="letter-spaced"
-                        >Laroche</hi> einen Beſuch bei Goethe machte. Goethes Sohn Auguſt hatte ſich
+                    als der <hi rend="letter-spaced">Kanzler von Müller</hi> mit den Freunden <hi rend="letter-spaced">Riemer, Eckermann</hi> und <hi rend="letter-spaced">Laroche</hi> einen Beſuch bei Goethe machte. Goethes Sohn Auguſt hatte ſich
                     ihnen gleichfalls angeſchloſſen.</p>
                 <p>Sie kamen mit der Mittheilung, <rs><hi rend="letter-spaced">daß ſie eine
-                        Fauſtaufführung</hi> auf der Weimarer Bühne</rs> <hi rend="letter-spaced"
-                        >beſchloſſen hätten</hi>.</p>
-                <p>Es war dies bisher noch von keiner Bühne verſucht worden. In <hi
-                        rend="letter-spaced">Braunſchweig</hi> beabſichtigte man unter der Direction
+                        Fauſtaufführung</hi> auf der Weimarer Bühne</rs> <hi rend="letter-spaced">beſchloſſen hätten</hi>.</p>
+                <p>Es war dies bisher noch von keiner Bühne verſucht worden. In <hi rend="letter-spaced">Braunſchweig</hi> beabſichtigte man unter der Direction
                         <hi rend="letter-spaced">Klingemanns</hi>, der ſelbſt ein volksbeliebtes
                     Spectakelſtück Fauſt auf die Bühne gebracht hatte, auf den Wunſch des Herzogs
                     Karl, eine Darſtellung und kam damit auch den 18. Januar 1829 Weimar zuvor.</p>
                 <p>Bald darauf hieß es, <hi rend="letter-spaced">Tieck in Dresden</hi> wolle hinter
-                    Braunſchweig nicht zurückbleiben, ſowie denn auch wirklich den 27. Auguſt <pb
-                        n="CXI" facs="schroeer1898_1_r0111.jpg"/>1829 daſelbſt eine Fauſtaufführung
+                    Braunſchweig nicht zurückbleiben, ſowie denn auch wirklich den 27. Auguſt <pb n="CXI" facs="schroeer1898_1_r0111.jpg"/>1829 daſelbſt eine Fauſtaufführung
                     ſtattfand, der eine andre in Leipzig den 28. Auguſt auf dem Fuße folgte.</p>
                 <p>Sehr möglich, daß das Gerücht von der beabſichtigten Darſtellung in Braunſchweig
                     auch in Weimar den Gedanken anregte.</p>
@@ -47,18 +42,14 @@
                     Darüber fuhr Goethe auf wie von einer Bremſe geſtochen.</p>
                 <p>„Glaubt man denn, daß ich, wenn ich gewollt hätte, nicht ſelbſt den Fauſt auf die
                     Bühne bringen konnte? — Iſt es billig, über meine Werke zu verfügen, ohne zu
-                    fragen, was ich ſelbſt damit vorhabe? — Bin ich denn nicht mehr am Leben? — <hi
-                        rend="letter-spaced">Beſchloſſen hat man?</hi> Man hat demnach <hi
-                        rend="letter-spaced">beſchloſſen</hi> ohne mich auch nur zu fragen!“</p>
+                    fragen, was ich ſelbſt damit vorhabe? — Bin ich denn nicht mehr am Leben? — <hi rend="letter-spaced">Beſchloſſen hat man?</hi> Man hat demnach <hi rend="letter-spaced">beſchloſſen</hi> ohne mich auch nur zu fragen!“</p>
                 <p>Voll Majeſtät in ſeinem Zorn ging er bei dieſen Worten im Zimmer auf und ab. Die
                     Freunde befanden ſich in der peinlichſten Lage.<anchor xml:id="graef_1660_end"/></p>
                 <p>Es ging damit aber doch den Weg, wie ſo manches Andre, das anfangs auf ſeinen
                     Widerſpruch ſtieß und ſchließlich doch durchgeführt wurde. <milestone unit="testimony" spanTo="#graef_1663_end" xml:id="graef_1663"/>Goethe machte ſich
                     mit dem Gedanken vertraut und äußerte denn endlich eines Tages gegen ſeine
                     vermittelnde Schwiegertochter Ottilie: „Wenn man denn den <rs>Fauſt zur Darſtellung
-                    bringen</rs> will, ſo ſoll er mindeſtens nicht ſo zur Darſtellung kommen, wie <hi
-                        rend="letter-spaced">ſie</hi> ſich ihn etwa denken, ſondern <hi
-                        rend="letter-spaced">ſo</hi>, wie <hi rend="letter-spaced">ich</hi> ihn
+                    bringen</rs> will, ſo ſoll er mindeſtens nicht ſo zur Darſtellung kommen, wie <hi rend="letter-spaced">ſie</hi> ſich ihn etwa denken, ſondern <hi rend="letter-spaced">ſo</hi>, wie <hi rend="letter-spaced">ich</hi> ihn
                     haben will!“<anchor xml:id="graef_1663_end"/> —</p>
             </div>
             <div type="editorial">

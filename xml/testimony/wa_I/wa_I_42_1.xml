@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +41,7 @@
                 <lb/>
 
                 <p>Wenn er nun aber vernimmt, daß man in gleicher Ansicht den Wunsch hegt, die
-                    neue Ausgabe seiner Schriften möchte chronologisch geordnet werden, so <pb
-                        n="78"/> hält er es für Schuldigkeit, umständlich anzuzeigen,
+                    neue Ausgabe seiner Schriften möchte chronologisch geordnet werden, so <pb n="78"/> hält er es für Schuldigkeit, umständlich anzuzeigen,
                     warum dieses nicht geschehen könne.</p>
                 <lb/>
                 <lb/>
@@ -160,8 +157,7 @@
                     Gelungenes und Mißlungenes, nicht weniger Vorarbeiten bekannt zu machen,
                     dabei anzudeuten, wie manches zu einem Zweck Gesammeltes zu andern verwendet, ja
                     wohl auch verschwendet worden. Kaum aber war man mit solchen Bemühungen,
-                    den Lebensgang folgerecht darzustellen, einige Lustra vorgeschritten, <pb n="82"
-                    /> als nur allzu deutlich ward, hier dürfe keine cursorische Behandlung
+                    den Lebensgang folgerecht darzustellen, einige Lustra vorgeschritten, <pb n="82"/> als nur allzu deutlich ward, hier dürfe keine cursorische Behandlung
                     stattfinden, sie müsse vielmehr derjenigen gleichen, wie sie schon in den
                     fünf biographischen Bänden mehr oder weniger durchgesetzt worden.</p>
                 <lb/>
@@ -185,8 +181,7 @@
 
                 <p rend="centered">Von 1769 bis 1775.</p>
 
-                <p><milestone unit="testimony" spanTo="#graef_1204_end" xml:id="graef_1204"
-                    />Werther; Götz von Berlichingen; Clavigo; Stella; Erwin und Elmire;
+                <p><milestone unit="testimony" spanTo="#graef_1204_end" xml:id="graef_1204"/>Werther; Götz von Berlichingen; Clavigo; Stella; Erwin und Elmire;
                     Claudine von Villa bella; <rs>Faust</rs>; die Puppenspiele; Prolog zu Bahrdt;
                     Fragmente des ewigen Juden; Antheil an den Frankfurter gelehrten Anzeigen und
                     Recensionen dahin.<anchor xml:id="graef_1204_end"/></p>
@@ -506,8 +501,7 @@
             <div>
                 <pb n="109"/>
 
-                <head><milestone unit="testimony" spanTo="#graef_1333_end" xml:id="graef_1333"
-                    />Anzeige von Goethe's sämmtlichen Werken, vollständige Ausgabe letzter Hand.
+                <head><milestone unit="testimony" spanTo="#graef_1333_end" xml:id="graef_1333"/>Anzeige von Goethe's sämmtlichen Werken, vollständige Ausgabe letzter Hand.
                     <lb/>Unter des Durchlauchtigsten Deutschen Bundes schützenden
                     Privilegien.</head>
 
@@ -768,8 +762,7 @@
                 <lb/>
 
                 <p>Sind nun diese mir verliehenen, mit landesherrlicher Unterschrift eingehändigten
-                    Documente höchlichst zu schätzen wegen des Zeitlichen, das mir dadurch <pb
-                        n="116"/> und den Meinigen gegründet wird, so sind solche zugleich mit
+                    Documente höchlichst zu schätzen wegen des Zeitlichen, das mir dadurch <pb n="116"/> und den Meinigen gegründet wird, so sind solche zugleich mit
                     dankbarer Verehrung anzuerkennen wegen der gnädigst und hochgeneigtest
                     ausgesprochenen Rücksichten auf die vieljährig ununterbrochene Bemühung, ein von
                     der Natur mir anvertrautes Talent zeitgemäß zu steigern und dadurch besonders in
@@ -980,8 +973,7 @@
                 <table>
                     <row>
                         <cell/>
-                        <cell><milestone unit="testimony" spanTo="#quz_II-300_end"
-                                xml:id="quz_II-300"/>Neue Ausgabe.</cell>
+                        <cell><milestone unit="testimony" spanTo="#quz_II-300_end" xml:id="quz_II-300"/>Neue Ausgabe.</cell>
                         <cell/>
                         <cell>Ältere.</cell>
                     </row>
@@ -1058,8 +1050,7 @@
 
                     <row>
                         <cell/>
-                        <cell>Buch des Sängers. Buch Hafis. der Liebe. der Betrachtungen. <pb
-                                n="459"/> des Unmuths. der Sprüche. des Timur. Suleika. des
+                        <cell>Buch des Sängers. Buch Hafis. der Liebe. der Betrachtungen. <pb n="459"/> des Unmuths. der Sprüche. des Timur. Suleika. des
                             Schenken. der Parabeln. des Parsen. des Paradieses.</cell>
                         <cell/>
                         <cell/>
@@ -1155,8 +1146,7 @@
                     <row>
                         <cell/>
                         <cell>Claudine von Villa. Bella Erwin und Elmire. Jery und Bätely. Lila.
-                            Die Fischerin. Scherz, List und Rache. Der Zauberflöte 2r Theil. Maskenzüge, <pb
-                                n="460"/> Carlsbader Gedichte. Des Epimenides Erwachen.</cell>
+                            Die Fischerin. Scherz, List und Rache. Der Zauberflöte 2r Theil. Maskenzüge, <pb n="460"/> Carlsbader Gedichte. Des Epimenides Erwachen.</cell>
                         <cell/>
                         <cell/>
                     </row>

@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:f="http://faustedition.net/ns"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -154,10 +147,7 @@
                   <date when="1825-05-28"/>
                </head>
                <p rend="indentchar-m8n8">
-               <milestone unit="testimony"
-                          spanTo="#graef_1326a_end"
-                          xml:id="graef_1326a"
-                          next="#graef_1326a_b"/>Ew. Wohlgeboren</p>
+               <milestone unit="testimony" spanTo="#graef_1326a_end" xml:id="graef_1326a" next="#graef_1326a_b"/>Ew. Wohlgeboren</p>
                <p rend="indentchar-m4n0">den <rs>9. und 10. Band</rs> hiebey übersendend<anchor xml:id="graef_1326a_end"/> vermelde zugleich
                   daß ich die ersten Bände nunmehro nochmals <pb n="203"/> durchgesehen und alles
                   nach Wunsch richtig befunden habe. Einige zweifelhafte Stellen sind näher bestimmt

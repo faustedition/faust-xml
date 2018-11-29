@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -26,18 +22,15 @@
          <pb n="53"/>
          <div type="diaryentry">
             <p rend="indentchar-m0n4">
-               <date when="1819-06-02"/>2. <milestone unit="testimony" spanTo="#graef_1206_end"
-                  xml:id="graef_1206"/>Nebenstehender Brief. <hi rend="italic">Herrn Grafen
-                  Brühl</hi>, wegen <rs>Aufführung des Fausts</rs>, nach Berlin.<anchor
-                  xml:id="graef_1206_end"/> Della Valle abgeschlossen. Abschrift gefördert. Um 11
+               <date when="1819-06-02"/>2. <milestone unit="testimony" spanTo="#graef_1206_end" xml:id="graef_1206"/>Nebenstehender Brief. <hi rend="italic">Herrn Grafen
+                  Brühl</hi>, wegen <rs>Aufführung des Fausts</rs>, nach Berlin.<anchor xml:id="graef_1206_end"/> Della Valle abgeschlossen. Abschrift gefördert. Um 11
                Uhr gebadet. Zwey Griechen von Leipzig kommend. Mittag Prof. Renner.</p>
          </div>
          <!--Testimony graef_1207-->
          <pb n="61"/>
          <div type="diaryentry">
             <p rend="indentchar-m0n4">
-               <date when="1819-06-25"/>25. Ging Zelter fort. Morphologische Botanik. <milestone
-                  unit="testimony" spanTo="#graef_1207_end" xml:id="graef_1207"/>Schauspieler Wolff
+               <date when="1819-06-25"/>25. Ging Zelter fort. Morphologische Botanik. <milestone unit="testimony" spanTo="#graef_1207_end" xml:id="graef_1207"/>Schauspieler Wolff
                von Berlin. Mit demselben <rs>Theatralia, besonders auf Faust bezüglich,
                   durchgesprochen</rs>. Mittags derselbe und Prof. Riemer. Blieben lange
                   zusammen.<anchor xml:id="graef_1207_end"/> 28. Revisionsbogen von Jena. Abends
@@ -68,8 +61,7 @@
                Erzählungen von der Reise; mancherley Geschenke und Documente daher. Mancherley
                eingepackt. Um 7 Uhr abgefahren, auf der Höhe von Kötschau des Nachts den Cometen
                gesehen. – An <hi rend="italic">
-                  <pb n="66"/> Madame Weppen</hi>, Wickershausen bey Northeim. <milestone
-                  unit="testimony" spanTo="#graef_1209_end" xml:id="graef_1209"/>
+                  <pb n="66"/> Madame Weppen</hi>, Wickershausen bey Northeim. <milestone unit="testimony" spanTo="#graef_1209_end" xml:id="graef_1209"/>
                <hi rend="italic">An Regisseur Wolff</hi> nach Berlin, mit <rs>Ergänzungen zu
                   Faust</rs>.<anchor xml:id="graef_1209_end"/>
                <hi rend="italic">Geheime Legationsrath Conta</hi> Promemoria und Acten wegen des
@@ -82,10 +74,8 @@
                <date when="1819-07-31"/>31. Allerley kleine Expeditionen. 10. Correcturbogen von der
                Morphologie nach Jena. Kräuter rangirte einiges in der Bibliothek ein. Correcturbogen
                10 von der Morphologie. Graf und Gräfin St. Julien, Geschwister, bey meiner
-               Schwiegertochter, wo ich sie sahe. Mittag zu dreyen. <milestone unit="testimony"
-                  spanTo="#graef_1211_end" xml:id="graef_1211"/>
-               <rs>Prolog zum Faust von Herzog Carl von Mecklenburg</rs>.<anchor
-                  xml:id="graef_1211_end"/> 1/2 5 Uhr zum Großherzog. Mit demselbigen nach
+               Schwiegertochter, wo ich sie sahe. Mittag zu dreyen. <milestone unit="testimony" spanTo="#graef_1211_end" xml:id="graef_1211"/>
+               <rs>Prolog zum Faust von Herzog Carl von Mecklenburg</rs>.<anchor xml:id="graef_1211_end"/> 1/2 5 Uhr zum Großherzog. Mit demselbigen nach
                Belvedere, die neuangekommenen Pflanzen betrachtet. Mein Sohn von der Bauexpedition
                zurück. Bey Tisch Geschichte derselben.</p>
          </div>
@@ -96,15 +86,12 @@
                <date when="1820-07-29"/>29. Abschluß der entoptischen Farben. Hofrath Döbereiner;
                mit demselben die Producte des Zwätzener Töpferofens durchgegangen und wegen der
                nächst zu bearbeitenden Steinarten das <pb n="202"/> weitere besprochen. Vor Tische
-               spazieren gefahren. <milestone unit="testimony" spanTo="#graef_1214_end"
-                  xml:id="graef_1214" next="#graef_1214_b"/>Paquet von Haage erhalten. Schreiben von
+               spazieren gefahren. <milestone unit="testimony" spanTo="#graef_1214_end" xml:id="graef_1214" next="#graef_1214_b"/>Paquet von Haage erhalten. Schreiben von
                Hüttner mit <rs>Fausts Kupfern</rs>
                <anchor xml:id="graef_1214_end"/>, ingleichen dessen litterarische Relationen.
                Serenissimi Medaille für den Grafen Bedemar. Fragmente lateinischer Autoren,
                herausgegeben von Niebuhr. Zu Major von Knebel, woselbst von Lyncker und Kosegarten.
-                  <milestone unit="testimony" spanTo="#graef_1214_end_b" xml:id="graef_1214_b"
-               />Nachts für mich die <rs>Sendungen</rs> angesehen,<anchor xml:id="graef_1214_end_b"
-               /> dictirt wegen meteorologischer Gesellschafts- Einrichtung. Über Rationalismus ein
+                  <milestone unit="testimony" spanTo="#graef_1214_end_b" xml:id="graef_1214_b"/>Nachts für mich die <rs>Sendungen</rs> angesehen,<anchor xml:id="graef_1214_end_b"/> dictirt wegen meteorologischer Gesellschafts- Einrichtung. Über Rationalismus ein
                früheres Werk des neuen Generalsuperintendents, gedruckt 1813.</p>
          </div>
          <!--Testimony graef_1215-->
@@ -116,21 +103,17 @@
                angeschmolzenen Mineralien zu sehen. Hofrath Döbereiner deßgleichen. Kam mein Sohn
                von Weimar. Besuchte mich Herr Hofrath Stark und Frau Regierungsräthin von Voigt.
                Speiste mit meinem Sohn. Fuhr nach Tafel in den Prinzessinnen-Garten, den
-               Herrschaften aufzuwarten. Sie fuhren um 4 Uhr weg. <milestone unit="testimony"
-                  spanTo="#graef_1215_end" xml:id="graef_1215"/>Knebel mit mir nach Hause, die
-               verschiedenen <rs>angekommenen Kunstwerke</rs> betrachtend.<anchor
-                  xml:id="graef_1215_end"/> Mein Sohn ritt weg gegen Sechse. Fuhr ich sodann mit
+               Herrschaften aufzuwarten. Sie fuhren um 4 Uhr weg. <milestone unit="testimony" spanTo="#graef_1215_end" xml:id="graef_1215"/>Knebel mit mir nach Hause, die
+               verschiedenen <rs>angekommenen Kunstwerke</rs> betrachtend.<anchor xml:id="graef_1215_end"/> Mein Sohn ritt weg gegen Sechse. Fuhr ich sodann mit
                Hofrath Döbereiner bis Winzerla, besuchte Knebeln. Zeitig zu Bette.</p>
          </div>
          <!--Testimony graef_1217, graef_1217_b-->
          <pb n="227"/>
          <div type="diaryentry">
             <p rend="indentchar-m0n4">
-               <date when="1820-09-26"/>26. <milestone unit="testimony" spanTo="#graef_1217_end"
-                  xml:id="graef_1217" next="#graef_1217_b"/>Bey Zeiten mit <rs>Dr. Schubarth</rs>
+               <date when="1820-09-26"/>26. <milestone unit="testimony" spanTo="#graef_1217_end" xml:id="graef_1217" next="#graef_1217_b"/>Bey Zeiten mit <rs>Dr. Schubarth</rs>
                   ausgefahren.<anchor xml:id="graef_1217_end"/> Besuch bey Knebel. Gegen Winzerle.
-               Der Hauptmann Förster. <milestone unit="testimony" spanTo="#graef_1217_end_b"
-                  xml:id="graef_1217_b"/>Schubarth zu Tische. Fernere <pb n="228"/>
+               Der Hauptmann Förster. <milestone unit="testimony" spanTo="#graef_1217_end_b" xml:id="graef_1217_b"/>Schubarth zu Tische. Fernere <pb n="228"/>
                <rs>Verhandlung über die litterarischen, sittlichen und theologischen
                   Gegenstände</rs>; bis gegen Abend.<anchor xml:id="graef_1217_end_b"/>
             </p>
@@ -140,18 +123,14 @@
          <div type="diaryentry">
             <p rend="indentchar-m0n4">
                <date when="1820-09-27"/>27. Früh allein spazieren gefahren gegen Wenigen- Jena.
-               Hauptmann Förster und Frau. <milestone unit="testimony" spanTo="#graef_1218_end"
-                  xml:id="graef_1218" next="#graef_1218_b"/>Schubarth über griechische und
-               lateinische Studien; über die <rs>Fortsetzung von Faust</rs>.<anchor
-                  xml:id="graef_1218_end"/> Nebenstehende Briefe: <hi rend="italic">Herrn Geh.
+               Hauptmann Förster und Frau. <milestone unit="testimony" spanTo="#graef_1218_end" xml:id="graef_1218" next="#graef_1218_b"/>Schubarth über griechische und
+               lateinische Studien; über die <rs>Fortsetzung von Faust</rs>.<anchor xml:id="graef_1218_end"/> Nebenstehende Briefe: <hi rend="italic">Herrn Geh.
                   Staatsrath Schultz</hi> nach Berlin. <hi rend="italic">Herrn Prof. Zelter</hi>
                dahin, Abschrift seines Briefes. <hi rend="italic">Herrn Prof. und Ritter
                   Hermann</hi> nach Leipzig. <hi rend="italic">An Frau Melber, geborne Textor</hi>,
                nach Frankfurt a. M. <hi rend="italic">An Herrn Polizeyrath Grüner</hi> nach Eger
-               durch Frau Eckhardt. – <milestone unit="testimony" spanTo="#graef_1218_end_b"
-                  xml:id="graef_1218_b"/>Schubarth, fortgesetzte gestrige <rs>Unterhaltung über das
-                  Fragmentarische des Faust und zu wünschende Vollendung</rs>.<anchor
-                  xml:id="graef_1218_end_b"/> Kam mein Sohn, die bisherigen Ereignisse erzählend. Er
+               durch Frau Eckhardt. – <milestone unit="testimony" spanTo="#graef_1218_end_b" xml:id="graef_1218_b"/>Schubarth, fortgesetzte gestrige <rs>Unterhaltung über das
+                  Fragmentarische des Faust und zu wünschende Vollendung</rs>.<anchor xml:id="graef_1218_end_b"/> Kam mein Sohn, die bisherigen Ereignisse erzählend. Er
                und die beyden Brüder zu Tische. Nachherige Unterhaltung mit ihm, er ritt um 6 Uhr
                weg. Die beyden Schubarthe zu Knebel. Das Geburtstagsgeschenk für Prinzeß Auguste
                ward fertig. Brief von Adelen und anderes. Zeitungsgeschichte, Betrachtung über das
@@ -161,14 +140,11 @@
          <pb n="244"/>
          <div type="diaryentry">
             <p rend="indentchar-m0n4">
-               <date when="1820-11-04"/>4. Alles in Jena abgeschlossen. <milestone unit="testimony"
-                  spanTo="#graef_1220_end" xml:id="graef_1220"/>Um 10 Uhr abgefahren. Unterwegs
+               <date when="1820-11-04"/>4. Alles in Jena abgeschlossen. <milestone unit="testimony" spanTo="#graef_1220_end" xml:id="graef_1220"/>Um 10 Uhr abgefahren. Unterwegs
                   <rs>Schubarths Betrachtungen über Faust</rs> durchgedacht. Nach 1 Uhr in
                   Weimar.<anchor xml:id="graef_1220_end"/>
                <pb n="245"/> Ausgepackt. Rauchs Büste angetroffen. Mittags zu vieren. Nach Tische
-               Kupfer ausgepackt. Mit den Kindern. Abends für mich, verschiedenes vorbereitet. – <hi
-                  rend="italic">An Herrn Dr. Carl Ernst Schubarth</hi> nach Breslau.<hi
-                  rend="italic"> An Herrn Vicedirector von Both</hi> nach Rostock.</p>
+               Kupfer ausgepackt. Mit den Kindern. Abends für mich, verschiedenes vorbereitet. – <hi rend="italic">An Herrn Dr. Carl Ernst Schubarth</hi> nach Breslau.<hi rend="italic"> An Herrn Vicedirector von Both</hi> nach Rostock.</p>
          </div>
       </body>
    </text>

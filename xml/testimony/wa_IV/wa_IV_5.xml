@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,10 +31,8 @@
                Ich will nur erleben wenn Wieland älter wird, wie es mit seinem Radotage werden kann,
                denn er schwätzt alle Tage ärger in den Tag hinein. Der Herzog schmiss die schöne
                Vestale um und es sprang ein Finger ab, die Herzoginn betrug sich gar himmlisch schön
-               dabey. Übrigens war <pb n="260"/> man vergnügt und gut, <milestone unit="testimony"
-                  spanTo="#graef_861_end" xml:id="graef_861"/><rs>mir raunte Mephistopheles einige
-               Anmerckungen Leise zu</rs>, und ich lies mir den Punsch schmecken.<anchor
-                  xml:id="graef_861_end"/> Adieu Beste sag mir wo du heut bist, ich bleibe bis gegen
+               dabey. Übrigens war <pb n="260"/> man vergnügt und gut, <milestone unit="testimony" spanTo="#graef_861_end" xml:id="graef_861"/><rs>mir raunte Mephistopheles einige
+               Anmerckungen Leise zu</rs>, und ich lies mir den Punsch schmecken.<anchor xml:id="graef_861_end"/> Adieu Beste sag mir wo du heut bist, ich bleibe bis gegen
                Abend zu Hause meiner zu warten und aufzuräumen. d. 10. Febr. 82.</p>
             <p rend="right">G.</p>
          </div>

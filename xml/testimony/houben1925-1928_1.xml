@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -60,10 +60,8 @@
                     Zeichnungen und Kupfer geordnet. Indische Schauspiele nach dem Engländer Wilson
                     . . .</p>
                 <p><hi rend="letter-spaced">[Eckermann:]</hi>
-                    <milestone unit="testimony" spanTo="#bie3_6314_end" xml:id="bie3_6314"
-                        /><rs>Composition des Faust</rs> von einem jungen Pariser Componisten nebst
-                    Brief. Indische Schauspiele. Maler. Franzosen. Voltaire. <pb n="429"
-                        facs="houben1925-1928_1_0429.jpg"/>Der Componist wie Delacroix. Viel über
+                    <milestone unit="testimony" spanTo="#bie3_6314_end" xml:id="bie3_6314"/><rs>Composition des Faust</rs> von einem jungen Pariser Componisten nebst
+                    Brief. Indische Schauspiele. Maler. Franzosen. Voltaire. <pb n="429" facs="houben1925-1928_1_0429.jpg"/>Der Componist wie Delacroix. Viel über
                     den Faust. Wassernoth am Ausfluß der Weichsel. Holländer Batavia, Millionen
                     Menschen, durch die schlechte Lage der Stadt. Die Dummheit wogegen selbst die
                     Gottheit verstummen muß.<anchor xml:id="bie3_6314_end"/></p>
@@ -72,8 +70,7 @@
             <div type="diary">
                 <head rend="right">Sonntag d. <date when="1830-01-10">10. [Januar].</date></head>
                 <p><milestone unit="testimony" spanTo="#bie3_6484_end" xml:id="bie3_6484"/>Goethe
-                    liest die Scene wo <rs>Faust</rs> zu den Müttern geht.<anchor
-                        xml:id="bie3_6484_end"/></p>
+                    liest die Scene wo <rs>Faust</rs> zu den Müttern geht.<anchor xml:id="bie3_6484_end"/></p>
             </div>
             <div type="diary">
                 <head rend="right">Mittwoch d. <date when="1830-01-13">13. [Januar].</date></head>
@@ -94,8 +91,7 @@
             <div type="diary">
                 <head rend="right">Mittw. d. <date when="1830-01-20">20. [Januar].</date></head>
                 <p><milestone unit="testimony" spanTo="#pniower_765_end" xml:id="pniower_765"/>Fernere
-                    Scene wo <rs>Faust</rs> nach der Helena fragt und der Berg entsteht.<anchor
-                        xml:id="pniower_765_end"/></p>
+                    Scene wo <rs>Faust</rs> nach der Helena fragt und der Berg entsteht.<anchor xml:id="pniower_765_end"/></p>
                 <p>[Diese Tagebuchnotizen vom 3.—20. Januar stehen auf den beiden Seiten eines
                     schmalen Blattes, keineswegs in richtiger zeitlicher Reihenfolge. Die zweite
                     Seite hat oben folgende zwei Bemerkungen: „Manzonis zarte Organisation. — Es
@@ -113,8 +109,7 @@
                         Auguste, um zu erfahren was an einer Darstellung hinterher poetisch seyn
                         möchte.</hi></p>
                 <p>Am 23. Januar Sonnabend die Stumme von Portici bey aufgehobenem Abonnement zum
-                    sechsten Male und bey übervollem Hause. Vor der <pb n="452"
-                        facs="houben1925-1928_1_0452.jpg"/>Sonne zählte ich sechzig Schlitten,
+                    sechsten Male und bey übervollem Hause. Vor der <pb n="452" facs="houben1925-1928_1_0452.jpg"/>Sonne zählte ich sechzig Schlitten,
                     Hofrath Vogel hatte vor dem Schwan, Elephanten und Erbprinzen siebzig gezählt.
                     Ich war mit den Engländern auf dem linken Balkon. Im fünften Act trank Auguste
                     mit der Müller meine Gesundheit, welches mich abermals so beglückte, daß ich es
@@ -153,16 +148,14 @@
                     weit, daß er mit dem Cheiron zusammen ist. Der <rs>fünfte Act</rs> ist fertig,
                     der <rs>vierte</rs> wird sich von selber machen.“ Daß er jetzt so wohl sey,
                     verdanke er Vogeln, ohne ihn wäre er längst unter der Erde, alle seine früheren
-                    Krankheiten wären aus der schlechten Behandlung der Aerzte entstanden.<anchor
-                        xml:id="bie3_6492_end"/></p>
+                    Krankheiten wären aus der schlechten Behandlung der Aerzte entstanden.<anchor xml:id="bie3_6492_end"/></p>
             </div>
             <pb n="525" facs="houben1925-1928_1_0525.jpg"/>
             <div type="diary">
                 <p><milestone unit="testimony" spanTo="#bie3_6768_end" xml:id="bie3_6768"/>Heut bey
                     Tisch erzählte mir Goethe daß er den <rs>vierten Act des Faust</rs> angefangen,
                     und so fortzufahren gedenke, welches mich sehr beglückte.</p>
-                <p>Sodann sprach er mit großem Lob über Carl Schöne<anchor xml:id="N1"/><ref
-                        target="#F1"><hi rend="sup">1</hi>)</ref>, einen jungen Philologen in
+                <p>Sodann sprach er mit großem Lob über Carl Schöne<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi>)</ref>, einen jungen Philologen in
                     Leipzig, der ein Werk über die Costüme in den Stücken des Euripides geschrieben,
                     und bey großer Gelehrsamkeit doch davon nicht mehr entwickelt als eben zu seinen
                     Zwecken nöthig.</p>
@@ -184,8 +177,7 @@
                     von Platen gelesen und seine glänzenden Eigenschaften nicht verkennen können,
                     aber wie gesagt, die Liebe fehlt ihm, und so wird er auch nie so wirken als er
                     hätte können. Man wird ihn fürchten, und er wird der Gott derer seyn, die gerne
-                    wie er negativ seyn möchten aber nicht wie er das Talent haben <anchor
-                        xml:id="N2"/><ref target="#F2"><hi rend="sup">1</hi>)</ref>.“</p>
+                    wie er negativ seyn möchten aber nicht wie er das Talent haben <anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">1</hi>)</ref>.“</p>
                 <pb n="527" facs="houben1925-1928_1_0527.jpg"/>
                 <p>Abends Ball auf dem Stadthause. Ich rede viel mit Frau v. Spiegel, dann einen
                     Augenblick die schöne Jenny [v. Pappenheim], die mir Vorwürfe macht, daß ich
@@ -219,8 +211,7 @@
                     Eckermann es zurück. „Das darin ihm Unbekannte wurde besprochen, die letzten
                     Pinselzüge gebilligt“, meldet das Tagebuch. Am 13. wurde die „klassische
                     Walpurgisnacht besprochen“, die Eckermann über Nacht gelesen hatte, am 14.
-                    nochmals und eingehend, und die „litterarischen Unterhaltungen“ am 15. und <pb
-                        n="588" facs="houben1925-1928_1_0588.jpg"/>16. werden ebenfalls den „Faust“
+                    nochmals und eingehend, und die „litterarischen Unterhaltungen“ am 15. und <pb n="588" facs="houben1925-1928_1_0588.jpg"/>16. werden ebenfalls den „Faust“
                     zum Mittelpunkt gehabt haben. Den „Abschluß“ der Dichtung mußte Eckermann am 17.
                     Dezember mitnehmen; es bedarf gar nicht der Bestätigung durch Goethes Tagebuch,
                     daß sich auch an diese Lektüre weitere Unterhaltungen knüpften, und wenn Goethe
@@ -239,17 +230,13 @@
                     dürfte:</p>
                 <p><milestone unit="testimony" spanTo="#bie3_7065_end" xml:id="bie3_7065"/>„Goethe
                     übergab mir heute das <rs>Manuscript des zweiten Theiles seines Faust</rs>, um
-                    es nebst seinem übrigen Nachlaß einstens<anchor xml:id="N3"/><ref target="#F3"
-                            ><hi rend="sup">1</hi>)</ref> herauszugeben. ‚Sie <pb n="589"
-                        facs="houben1925-1928_1_0589.jpg"/>lesen es wohl noch einmal‘, sagte er,
+                    es nebst seinem übrigen Nachlaß einstens<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup">1</hi>)</ref> herauszugeben. ‚Sie <pb n="589" facs="houben1925-1928_1_0589.jpg"/>lesen es wohl noch einmal‘, sagte er,
                     ‚und bemerken wohl was Ihnen etwa auffällt, damit wir es nach und nach in’s
-                    Reine bringen. Ich wünsche übrigens nicht daß es [vor der Publication] <anchor
-                        xml:id="N4"/><ref target="#F4"><hi rend="sup">1</hi>)</ref> jemand anders
+                    Reine bringen. Ich wünsche übrigens nicht daß es [vor der Publication] <anchor xml:id="N4"/><ref target="#F4"><hi rend="sup">1</hi>)</ref> jemand anders
                     lese. Sie <anchor xml:id="N5"/><ref target="#F5"><hi rend="sup">2</hi>)</ref>
                     wissen ich habe Zelter davon Einiges gezeigt; aber sonst kennt es außer Ottilien
                     und Ihnen niemand. Anderen guten Freunden, die nach dem Manuscript einige
-                    Neugierde verriethen<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup"
-                        >3</hi>)</ref>, habe ich weißgemacht ich hätte es mit sieben Siegeln belegt
+                    Neugierde verriethen<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup">3</hi>)</ref>, habe ich weißgemacht ich hätte es mit sieben Siegeln belegt
                     und fest verschlossen. Wir wollen es dabei bewenden lassen, damit ich nicht
                     ferner geplagt werde.‘“<anchor xml:id="bie3_7065_end"/></p>
                 <p>Das Manuskript gehört nach Bleistiftschrift und Papier Eckermanns letzten
@@ -259,8 +246,7 @@
                     Vorgang skizzieren, der nicht uninteressant ist; ob die Einsiegelung des
                     Manuskripts zu „Faust II.“, von der in der Tat mehrere Briefe Goethes sprechen,
                     überhaupt oder doch einige Zeit lang ein von ihm selbst verbreitetes Märchen
-                    war, um vor Neugierigen und Teilnehmenden Ruhe <pb n="590"
-                        facs="houben1925-1928_1_0590.jpg"/>zu haben, das festzustellen muß einer
+                    war, um vor Neugierigen und Teilnehmenden Ruhe <pb n="590" facs="houben1925-1928_1_0590.jpg"/>zu haben, das festzustellen muß einer
                     Spezialuntersuchung überlassen bleiben. —</p>
             </div>
             <div type="editorial">

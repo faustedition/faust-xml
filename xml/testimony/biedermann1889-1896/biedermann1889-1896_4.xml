@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,8 +43,7 @@
                     <pb n="79"/> Er zeigte mir einen herrlichen Kupferstich von Martin Lunghi, eben
                     aus Mailand gekommen, die Hochzeit der Maria von Rafael vorstellend. Das Bild
                     hängt in der Brera zu Maitand, in Öl gemalt und ist aus Rafaels mittlerer
-                    Periode, schon in Verwandtschaft mit der Schule zu Athen. <milestone
-                        unit="testimony" spanTo="#graef_1225_end" xml:id="graef_1225"/>Darauf ward
+                    Periode, schon in Verwandtschaft mit der Schule zu Athen. <milestone unit="testimony" spanTo="#graef_1225_end" xml:id="graef_1225"/>Darauf ward
                     von den <rs>Tableaux aus Faust</rs> erzählt, die eine hiesige Gesellschaft unter
                     Lieber's, Holdermann's und Schwerdgeburth's Direction dermalen von Zeit zu Zeit
                     im Alexanderhof<anchor xml:id="N111"/>
@@ -93,8 +91,7 @@
                     <head><date when="1822-08-02">1822, 2. August.</date></head>
                 <head>Mit <persName>Joseph Sebastian Grüner</persName> u.a.</head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1245_end"
-                        xml:id="graef_1245"/>Goethe besah meine Bibliothek, hielt sich einige Zeit
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1245_end" xml:id="graef_1245"/>Goethe besah meine Bibliothek, hielt sich einige Zeit
                     bei meinen französischen und englischen Werken auf, nahm manchen Band heraus, um
                     die Auflage zu besehen; endlich nahm er auch einen Band von seinen Werken. Es
                     war <rs>der erste Theil, betitelt: »Theater <pb n="175"/> von Goethe«, enthaltend:
@@ -103,8 +100,7 @@
                     befürchtete ich, Goethe werde sich etwas bitter äußern. Er aber betrachtete die
                     Umrisse, die statt der Kupferstiche beigegeben waren, und sagte, nachdem er noch
                     einige Bände angesehen hatte, daß diese Auflage unter die guten zu zählen sei, –
-                    ohne eine Miene zu machen, daß der Nachdruck ihm unangenehm wäre.<anchor
-                        xml:id="graef_1245_end"/> Dann verweilte er längere Zeit bei meiner schon
+                    ohne eine Miene zu machen, daß der Nachdruck ihm unangenehm wäre.<anchor xml:id="graef_1245_end"/> Dann verweilte er längere Zeit bei meiner schon
                     erwähnten Mosaik.</p>
                 <p rend="indentchar-m4n0"> Nachmittags besuchten wir den Prior im
                     Dominikanerkloster, um die Bibliothek und das Mineralien-und Conchylienkabinet
@@ -165,8 +161,7 @@
                     <head><date when="1823-10-21">1823, 21. October.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
                 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1260a_end"
-                        xml:id="graef_1260a"/>Ich war diesen Abend bei Goethe. Wir sprachen über die
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1260a_end" xml:id="graef_1260a"/>Ich war diesen Abend bei Goethe. Wir sprachen über die
                     »Pandora«. Ich fragte ihn, ob man diese Dichtung wohl als ein Ganzes ansehen
                     könne, oder ob noch etwas weiteres davon existire. Er sagte, es sei weiter
                     nichts vorhanden, er habe es nicht weiter gemacht, und zwar deswegen nicht, weil
@@ -175,15 +170,13 @@
                     Ganzes zu betrachten, weshalb er sich auch dabei beruhigt habe.</p>
                 <p rend="indentchar-m4n0"> Ich sagte ihm, daß ich bei dieser schweren Dichtung erst
                     nach und nach zum Verständniß durchgedrungen, nachdem ich sie so oft gelesen,
-                    daß ich sie nun fast auswendig wisse. Darüber lächelte Goethe. »Das <pb n="296"
-                    /> glaube ich wohl;« sagte er, »es ist alles als wie ineinander gekeilt.«</p>
+                    daß ich sie nun fast auswendig wisse. Darüber lächelte Goethe. »Das <pb n="296"/> glaube ich wohl;« sagte er, »es ist alles als wie ineinander gekeilt.«</p>
                 <p rend="indentchar-m4n0"> Ich sagte ihm, daß ich wegen dieses Gedichts nicht ganz
                     mit Schubarth zufrieden, der darin alles das vereinigt finden wolle, was im
                     »Werther«, »Wilhelm Meister«, <rs>»Faust«</rs> und »Wahlverwandtschaften« einzeln
                     ausgesprochen sei, wodurch doch die Sache sehr unfaßlich und schwer werde.</p>
                 <p rend="indentchar-m4n0"> »Schubarth,« sagte Goethe, »geht oft ein wenig tief; doch
-                    ist er sehr tüchtig, es ist bei ihm alles prägnant.«<anchor
-                        xml:id="graef_1260a_end"/></p>
+                    ist er sehr tüchtig, es ist bei ihm alles prägnant.«<anchor xml:id="graef_1260a_end"/></p>
                 <p rend="indentchar-m4n0"> Wir sprachen über Uhland. »Wo ich große Wirkungen sehe,«
                     sagte Goethe, »pflege ich auch große Ursachen vorauszusetzen, und bei der so
                     sehr verbreiteten Popularität, die Uhland genießt, muß also wohl etwas
@@ -279,8 +272,7 @@
                         giebt. Glauben Sie nur: hier ist ein Stück von der ältesten Urkunde des
                         Menschengeschlechts. Den Zusammenhang aber müssen Sie selbst entdecken. Wer
                         es nicht findet, dem hilft es auch nichts, wenn man es<pb n="342"/> ihm
-                        sagt. <milestone unit="testimony" spanTo="#graef_1026_end"
-                            xml:id="graef_1026"/>Unsere Naturforscher lieben ein wenig das
+                        sagt. <milestone unit="testimony" spanTo="#graef_1026_end" xml:id="graef_1026"/>Unsere Naturforscher lieben ein wenig das
                         Ausführliche. Sie zählen uns den ganzen Bestand der Welt in lauter besondern
                         Theilen zu und haben glücklich für jeden besondern Theil auch einen
                         besondern Namen. Das ist Thonerde! Das ist Kieselerde! Das ist dies und das
@@ -290,8 +282,7 @@
 
                     <p> Encheirisin naturae nennt's die Chemie;</p>
                     <p> Bohrt sich selber Esel und weiß nicht wie!</p>
-                    <p>Was helfen mir denn die Theile? was ihre Namen?<anchor
-                            xml:id="graef_1026_end"/> Wissen will ich, was jeden einzelnen Theil im
+                    <p>Was helfen mir denn die Theile? was ihre Namen?<anchor xml:id="graef_1026_end"/> Wissen will ich, was jeden einzelnen Theil im
                         Universum so hoch <hi rend="italic">begeistigt</hi>, daß er den andern
                         aufsucht, ihm entweder dient oder ihn beherrscht, je nachdem das allen ein-
                         und aufgeborne Vernunftgesetz in einem höhern oder geringern Grade den zu
@@ -493,9 +484,7 @@
                         Ehre in den D-ck treten will. Deshalb wollen wir ihm keine besondere
                         Prädilection für den D-ck beilegen und so hoff' ich denn, werdet Ihr mich
                         auch in diesem Punkte freisprechen.«</p>
-                    <p rend="indentchar-m4n0"> »Die gerechtere Nachwelt –« nahm ich das <pb n="351"
-                        /> Wort, aber <milestone unit="testimony" spanTo="#graef_1174_end"
-                            xml:id="graef_1174"/>Goethe, ohne abzuwarten, was ich eigentlich von der
+                    <p rend="indentchar-m4n0"> »Die gerechtere Nachwelt –« nahm ich das <pb n="351"/> Wort, aber <milestone unit="testimony" spanTo="#graef_1174_end" xml:id="graef_1174"/>Goethe, ohne abzuwarten, was ich eigentlich von der
                         Nachwelt sagen wollte, entgegnete mir mit ungemeiner Hastigkeit: »Ich will
                         nichts davon hören, weder von dem Publicum, noch von der Nachwelt, noch von
                         der Gerechtigkeit, wie sie es nennen, die sie einst meinem Bestreben
@@ -556,8 +545,7 @@
                         nicht übel gelaunt bin, und ich nehme mich selbst beim Schopf und werfe mich
                         in den Walpurgissack. Bei meinem Eid! was da unten steckt, das steckt unten
                         und kommt nicht wieder an den Tag, und wenn ich es selbst wäre! So streng,
-                        sollt Ihr wissen, halte ich über meinen Walpurgissack und die höllische <pb
-                            n="354"/> Constitution, die ich ihm gegeben habe. Es brennt da unten ein
+                        sollt Ihr wissen, halte ich über meinen Walpurgissack und die höllische <pb n="354"/> Constitution, die ich ihm gegeben habe. Es brennt da unten ein
                         unverlöschliches Fegefeuer, was, wenn es um sich greift, weder Freund noch
                         Feind verschont. Ich wenigstens will niemand rathen, ihm allzunahe zu
                         kommen: ich fürchte mich selbst davor.«<anchor xml:id="graef_1174_end"/></p>
@@ -582,8 +570,7 @@
                         nach dem einmal angelegten Plane sich in solcher Höhe zu behaupten; das
                         könne aber dies Lob weder schmälern, noch solle man es deshalb zurücknehmen.
                         In der »Emilia Galotti« sei ebenfalls das Motiv meisterhaft und zugleich
-                        höchst charakteristisch, daß der Kammerherr dem Prinzen Emilia Galotti <pb
-                            n="355"/> sicher auf seinem Wege zugeführt haben würde, daß aber der
+                        höchst charakteristisch, daß der Kammerherr dem Prinzen Emilia Galotti <pb n="355"/> sicher auf seinem Wege zugeführt haben würde, daß aber der
                         Prinz dadurch, daß er in die Kirche geht und in den Handel hineinpfuscht,
                         dem Marinelli und sich selber das Spiel verdirbt. Nicht immerdar schön sei
                         die Art, wie Lessing das Schicksal in der »Emilia Galotti« einführt. Ein

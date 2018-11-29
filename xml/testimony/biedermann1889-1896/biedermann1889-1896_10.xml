@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,14 +21,12 @@
             <pb n="10"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1581.</num> <milestone unit="page" type="startpage"
-                        n="10"/>
+                    <num type="biedermann-1">1581.</num> <milestone unit="page" type="startpage" n="10"/>
                     <lb/>Mit <persName>Johann Georg Zimmermann</persName>
                     <lb/>
                     <date>1775, September.</date>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_858_end"
-                        xml:id="graef_858"/><rs>»Faust« avait été annoncé</rs> de bonne heure, et l'on
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_858_end" xml:id="graef_858"/><rs>»Faust« avait été annoncé</rs> de bonne heure, et l'on
                     s'attendait alors à la voir paraitre prochainement. Zimmermann... demanda à son
                     ami Goethe des nouvelles de cette composition. Goethe apporta un sac rempli de
                     petits chiffons de papier. Il le vida sur la table et dit: »Voilà mon
@@ -38,34 +35,29 @@
             <pb n="52"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1643.</num></head> <milestone unit="page" type="startpage"
-                        n="52"/>
+                    <num type="biedermann-1">1643.</num></head> <milestone unit="page" type="startpage" n="52"/>
                     <head><date when="1809-01-14">1809, 14. Januar.</date></head>
                 <head>Mit <persName>Charlotte von Schiller</persName></head>
                 
                 <p rend="indentchar-m4n0">Sonst sah ich [Abeken] Goethe... bei Johannes Falk, dem
-                    bekannten Satiriker... einmal in einer komischen Situation. <milestone
-                        unit="testimony" spanTo="#graef_1097_end" xml:id="graef_1097"/>Falk nämlich,
+                    bekannten Satiriker... einmal in einer komischen Situation. <milestone unit="testimony" spanTo="#graef_1097_end" xml:id="graef_1097"/>Falk nämlich,
                     der damals immer seltsame Dinge im Kopfe hatte und in die Gesellschaft
                     Geistreiches zu bringen bemüht war, ließ, um eine große, bei ihm versammelte
                     Gesellschaft zu unterhalten, <rs>in einem selbsterfundenen chinesischen
                     Schattenspiel Scenen aus Goethe's »Faust« darstellen</rs>, wozu hinter dem, die
                     Schattenbilder aufnehmenden Vorhange von ihm und einer damals reisenden
-                    Virtuosin, Fräulein v. Winkel, aus dem Gedichte declamirt wurde. Da kam <pb
-                        n="53"/> es mir nun äußerst komisch vor, wie diese aus schwarzem Papier
+                    Virtuosin, Fräulein v. Winkel, aus dem Gedichte declamirt wurde. Da kam <pb n="53"/> es mir nun äußerst komisch vor, wie diese aus schwarzem Papier
                     geschnittenen, fingerlangen Püppchen, die Gretchen, Valentin, Faust und
                     Mephistopheles vorstellen sollten, vor Goethe's Augen sich hin und her bewegten.
                     Er sah das ganz ruhig an; am andern Tage sagte er zu Frau v. Schiller: es sei
-                    ihm vorgekommen, als ob er schon hundert Jahre todt gewesen.<anchor
-                        xml:id="graef_1097_end"/></p>
+                    ihm vorgekommen, als ob er schon hundert Jahre todt gewesen.<anchor xml:id="graef_1097_end"/></p>
                 <pb n="54"/>
                 <lb/>
             </div>
             <pb n="100"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1697.</num></head> <milestone unit="page" type="startpage"
-                        n="100"/>
+                    <num type="biedermann-1">1697.</num></head> <milestone unit="page" type="startpage" n="100"/>
                     
                     <head><date when="1821-01-15">1821, 15. Januar.</date></head>
                 <head>Mit <persName>Friedrich von Müller</persName></head>
@@ -91,8 +83,7 @@
                     <ref target="F108">
                         <hi rend="sup">2</hi>
                     </ref> Goethe nahm Gelegenheit, mir dessen letzten Brief zu zeigen: »wie ungern
-                    ich auch« – setzte er hinzu – »Briefe vorzeige.«<anchor xml:id="graef_1224_end"
-                    /> .....</p>
+                    ich auch« – setzte er hinzu – »Briefe vorzeige.«<anchor xml:id="graef_1224_end"/> .....</p>
                 <p rend="indentchar-m4n0"> Von Schubarth's Bruder sagte Goethe: er sei ein auf
                     Landwirthschaft gerichteter, gar liebenswürdiger, heiterer, verständiger Mensch,
                     viel realer, sinnlicher, fester als der Schriftsteller. Er hätte ihn gern
@@ -141,8 +132,7 @@
             <pb n="130"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1732.</num></head> <milestone unit="page" type="startpage"
-                        n="130"/>
+                    <num type="biedermann-1">1732.</num></head> <milestone unit="page" type="startpage" n="130"/>
                     
                     <head><date>1824, 1.? October.</date></head>
                 <head>Mit <persName>Heinrich Heine</persName></head>
@@ -152,8 +142,7 @@
                     sich eine Audienz bei dem greisen Dichterfürsten, dem er bereits anderthalb
                     Jahre vorher seine Gedichte und Tragödien übersandt hatte. Es kann keinem
                     Zweifel unterliegen, daß dieser Besuch für Heine's Selbstgefühl und Eitelkeit
-                        <pb n="131"/> eine tiefe Demüthigung bedeutete. <milestone unit="testimony"
-                        spanTo="#graef_1271_end" xml:id="graef_1271"/>Nachdem er zu seinem Verdruß
+                        <pb n="131"/> eine tiefe Demüthigung bedeutete. <milestone unit="testimony" spanTo="#graef_1271_end" xml:id="graef_1271"/>Nachdem er zu seinem Verdruß
                     vermuthlich auf eine Frage Goethe's nach seiner Wanderung erzählte, daß die
                     Pflaumen auf dem Wege zwischen Jena und Weimar sehr gut schmeckten, richtete
                     Goethe plötzlich die Frage an ihn: <rs>›Womit beschäftigen Sie sich jetzt?‹ Rasch
@@ -186,8 +175,7 @@
                     Zeitgenossen.</p>
                 <p rend="indentchar-m4n0"> Übrigens haben wir – ich, der junge Mann und er, der
                     Greis – viel über unsere Anschauungen und moderne Kunst discutirt. Ich machte
-                    ihn nachdenklich, als ich ihm sagte: wir hätten in Frankreich einen viel<pb
-                        n="173"/> gründlicheren Faust, als der seinige ist, und einen viel
+                    ihn nachdenklich, als ich ihm sagte: wir hätten in Frankreich einen viel<pb n="173"/> gründlicheren Faust, als der seinige ist, und einen viel
                     diabolischeren Mephistopheles, als seinen: jener Faust sei Napoleon, der stets
                     das Unmögliche begehre, jener Mephisto sei Talleyrand, ein hinkender Dämon,
                     ähnlich dem Teufel der Deutschen. Er hat alle Katastrophen überlebt und blieb
@@ -202,8 +190,7 @@
                     hatte sein Kennerblick in meinen, inderfolge zu schaffenden sechzig Dramen
                     gelesen, daß meine zwei Haupteigenschaften als Theaterdichter in der
                     Geschicklichkeit inbezug auf den Bau und in der Wahrheit der Leidenschaften
-                    beständen, zwei Dinge, die ihm fast vollständig abgingen. <milestone
-                        unit="testimony" spanTo="#pniower_713_end" xml:id="pniower_713"/>Hierauf
+                    beständen, zwei Dinge, die ihm fast vollständig abgingen. <milestone unit="testimony" spanTo="#pniower_713_end" xml:id="pniower_713"/>Hierauf
                     entwickelte ich dem erstaunten großen Meister der Dichtkunst, der mich mit
                     liebenswürdigem Wohlwollen bis zu Ende anhörte, daß, wenn es nicht ein Verstoß
                     gegen die Pietät wäre, an dem Meisterwerke der deutschen dramatischen
@@ -224,8 +211,7 @@
                     Leidenschaft, dann die Philosophie. Es mögen beiläufig fünfzig Jahre sein, daß
                     ich diesen Gegenstand bereits mit Schiller besprochen habe.« Fast hätte ich
                     leise hinzugefügt: und leider haben Sie ihn überzeugt, daß die Philosophie über
-                    die Leidenschaft den Sieg davontragen müsse.<anchor xml:id="pniower_713_end"
-                    /></p>
+                    die Leidenschaft den Sieg davontragen müsse.<anchor xml:id="pniower_713_end"/></p>
                 <p rend="indentchar-m4n0"> Hierauf wendete sich das Gespräch. Er befragte mich um
                     Details über Talma, Mlle. Mars und Mlle. Georges, welche er in Erfurt kennen
                     gelernt hatte ..... Er fragte auch, welches wol nach meiner <pb n="175"/>
@@ -241,8 +227,7 @@
             <pb n="177"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1767.</num></head> <milestone unit="page" type="startpage"
-                        n="177"/>
+                    <num type="biedermann-1">1767.</num></head> <milestone unit="page" type="startpage" n="177"/>
                     
                     <head><date when="1829-10-03">1829, 3. October.</date></head>
                 <head>Mit <persName>Ludwig Freiherrn v</persName>. u. zu Steinfurt</head>
@@ -374,8 +359,7 @@
             <pb n="196"/>
             <div type="conversation">
                 <head>
-                    <num type="biedermann-1">1779.</num></head> <milestone unit="page" type="startpage"
-                        n="196"/>
+                    <num type="biedermann-1">1779.</num></head> <milestone unit="page" type="startpage" n="196"/>
                     <head><date>Zwischen 1826 und 1832.</date></head>
                 <head>Mit <persName>Jenny von Pappenheim</persName></head>
                 
@@ -419,8 +403,7 @@
                         fuhren zusammen nach Weimar zurück. Vor Goethe's Hausthür stand ein kleiner
                         Knabe, der Pfefferkuchen feil bot; Goethe nahm ein Herz über dem zwei
                         Täubchen einträchtig saßen, schenkte es mir und lud mich noch zu Mittag ein,
-                        was Friedrich rasch meinen Eltern kundthun mußte. <milestone
-                            unit="testimony" spanTo="#graef_1625_end" xml:id="graef_1625"/>Nach
+                        was Friedrich rasch meinen Eltern kundthun mußte. <milestone unit="testimony" spanTo="#graef_1625_end" xml:id="graef_1625"/>Nach
                         Tische <rs>holte er seinen ›Faust‹, an dessen zweitem Theil er noch arbeitete</rs>
                         und aus dem er Ottilie oft vorlas. Jetzt durfte ich ihm lauschen; ich hätte
                         es ewig thun mögen, nie den Platz zu seinen Füßen zu verlassen brauchen. Es

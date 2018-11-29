@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude"
-   xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
-   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,8 +69,7 @@
                kaum fortschicken, wenn ich dir nicht zugleich sagen könnte daß es mir in jedem
                Sinne wohlgeht, dergestalt, daß ich mir ein vor meinem nächsten Geburtstag <pb n="4"/>
                <rs>zu erreichendes Ziel vorgesteckt</rs> habe, das ich nicht voreilig berufen will.
-               Ist es gelungen, so sollst du der erste seyn dem es notificirt wird.<anchor
-                  xml:id="graef_1930_end"/>
+               Ist es gelungen, so sollst du der erste seyn dem es notificirt wird.<anchor xml:id="graef_1930_end"/>
             </p>
             <p rend="indentchar-m4n0"> Hiemit also sey für dießmal geschlossen, mit dem besten Dank
                für deine vielfachen Mittheilungen, auch in den letzten Briefen, bey deren erster
@@ -120,8 +115,7 @@
                Unterschied des Früheren und Späteren ausgelöscht zu haben. Und so ist nun ein schwerer
                Stein über den Bergesgipfel auf die andere Seite hinabgewälzt. Gleich liegen aber
                wieder andere hinter mir, die auch wieder gefördert seyn wollen; damit erfüllt
-               werde, was geschrieben steht: »Solche Mühe hat Gott den Menschen gegeben.«<anchor
-                  xml:id="graef_1941_end"/>
+               werde, was geschrieben steht: »Solche Mühe hat Gott den Menschen gegeben.«<anchor xml:id="graef_1941_end"/>
             </p>
             <p rend="indentchar-m4n0"> Ihro Majestät der König von Württemberg haben mir die Gnade
                erzeigt, wohl anderthalb Stunden bey mir zu verweilen. Glücklicher Weise hatte ich
@@ -686,8 +680,7 @@
                erleuchten scheint. Sagen Sie mir Ihre Gedanken hierüber, mich weiter
                aufzuklären.</p>
             <p rend="indentchar-m4n0">
-               <milestone unit="testimony" spanTo="#graef_1959_end" xml:id="graef_1959"
-                  next="#graef_1959_b"/>Seitdem ich das Glück hatte, meinen <rs>Faust
+               <milestone unit="testimony" spanTo="#graef_1959_end" xml:id="graef_1959" next="#graef_1959_b"/>Seitdem ich das Glück hatte, meinen <rs>Faust
                   abzuschließen</rs> und zu versiegeln, damit er, wie er auch sey, noch einige Jahre
                in Ruhe bleiben möge, hab ich mich wieder in die naturwissenschaftlichen Dinge
                   geworfen<anchor xml:id="graef_1959_end"/>, um sie so zu redigiren, zu stellen und
@@ -734,8 +727,7 @@
                sey nun geschehen und jedermann wallfahrte zu dem Grabe des wackern Mannes. Auch ich
                besuchte es alsobald, fand es, dem antiken Geschmack sich nähernd, gar artig gedacht und
                gelungen, so daß dieser gute Mann, dem es eigentlich nicht um Ruhm, sondern nur um
-               ein heiteres Andenken zu thun war, seinen Zweck wirklich erreicht hatte.<anchor
-                  xml:id="graef_1959_end_b"/>
+               ein heiteres Andenken zu thun war, seinen Zweck wirklich erreicht hatte.<anchor xml:id="graef_1959_end_b"/>
             </p>
             <p rend="indentchar-m4n0"> und so fort an!</p>
             <p rend="centered">von der ersten zur letzten Zeile</p>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,8 +22,7 @@
         <body>
             <pb n="387" facs="kua_6-2_0387.jpg"/>
             <div type="article">
-                <p><hi rend="antiqua"><milestone unit="testimony" spanTo="#graef_1627_end"
-                            xml:id="graef_1627"/>Faust, Tragédie de Mr. de Goethe, traduite en
+                <p><hi rend="antiqua"><milestone unit="testimony" spanTo="#graef_1627_end" xml:id="graef_1627"/>Faust, Tragédie de Mr. de Goethe, traduite en
                         François par Mr. <hi rend="letter-spaced">Stapfer</hi>, ornée de XVII
                         dessins par Mr. <hi rend="letter-spaced">De Lacroix</hi>.</hi></p>
                 <p>Wenn ich die <rs>franzöſiſche Ueberſetzung meines Fauſt</rs> in einer
@@ -31,8 +30,7 @@
                     Werk erſonnen, verfaßt und mit ganz eignen Gefühlen niedergeſchrieben worden.
                     Den Beyfall den es nah und fern gefunden und der ſich nunmehr auch in
                     typographiſcher Vollendung ausweiſ’t, mag es wohl der ſeltenen Eigenſchaft
-                    ſchuldig ſeyn, daß es für immer die Entwicke<pb n="388" facs="kua_6-2_0388.jpg"
-                    />lungsperiode eines Menſchengeiſtes feſthält, der von allem was die Menſchheit
+                    ſchuldig ſeyn, daß es für immer die Entwicke<pb n="388" facs="kua_6-2_0388.jpg"/>lungsperiode eines Menſchengeiſtes feſthält, der von allem was die Menſchheit
                     peinigt auch gequält, von allem was ſie beunruhigt auch ergriffen, in dem was
                     ſie verabſcheut gleichfalls befangen, und durch das was ſie wünſcht auch
                     beſeligt worden. Sehr entfernt ſind ſolche Zuſtände gegenwärtig von dem Dichter,
@@ -67,8 +65,7 @@
                     eine düſtere Welt geführt und die uralte Empfindung einer mährchenhaften
                     Erzählung wieder aufgeregt. Ein weiteres getrauen wir uns nicht zu ſagen, einem
                     jeden Beſchauer dieſes bedeutenden Werks mehr oder weniger den unſrigen analoge
-                    Empfindungen zutrauend und gleiche Befriedigung wünſchend.<anchor
-                        xml:id="graef_1627_end"/></p>
+                    Empfindungen zutrauend und gleiche Befriedigung wünſchend.<anchor xml:id="graef_1627_end"/></p>
             </div>
             <pb n="390" facs="kua_6-2_0390.jpg"/>
             <div type="article">
@@ -112,8 +109,7 @@
                 <head rend="centered">Carl <hi rend="letter-spaced">Lehmann’s</hi>
                     Buchbinderarbeiten.</head>
                 <p>Wenn typographiſch allgemach die Bücher ſich ſteigern, darf wohl auch der
-                    Buchbinder ehrenvoll als Künſtler hervortreten. Und <milestone unit="testimony"
-                        spanTo="#graef_1620_end" xml:id="graef_1620"/>wie auf der Kupferplatte ſich
+                    Buchbinder ehrenvoll als Künſtler hervortreten. Und <milestone unit="testimony" spanTo="#graef_1620_end" xml:id="graef_1620"/>wie auf der Kupferplatte ſich
                     der Drucker nennt, wenn er aus der Maſſe der Handwerker ſich auszuzeichnen den
                     Muth hat, ſo finden wir neuerlich den Buchbinder, ſich entweder beſcheiden
                     inwendig auf kleiner Etikette, oder zuverſichtlicher außen am unteren Rande des
@@ -132,8 +128,7 @@
                     wenigen Seiten waren wir veranlaßt von drey wackern Künſtlern zu reden, welche,
                     von unſerm <rs>Fauſt</rs> aufgeregt, ihr Talent gar verſchiedentlich offenbaren
                     wollen. Hier aber nehmen wir Gelegenheit ihre Namen als Zeugniſſe einer
-                    ehrenvollen Theilnahme zuſammen auszuſprechen. Es ſind die Herren <hi
-                        rend="letter-spaced">Cornelius, Retſch</hi> und <hi rend="letter-spaced">de
+                    ehrenvollen Theilnahme zuſammen auszuſprechen. Es ſind die Herren <hi rend="letter-spaced">Cornelius, Retſch</hi> und <hi rend="letter-spaced">de
                         Lacroix</hi>, denen ein vierter, Herr <hi rend="letter-spaced">Nauwerk</hi>
                     aus Neuſtrelitz, mit einem zweyten Hefte ſeiner gleichmäßigen Darſtellungen
                     freundlich ſich zugeſellt. Wir haben ſchon in dem vorigen Stücke Seite 155 u. f.
@@ -147,21 +142,14 @@
                     zu vergleichen, wodurch denn das Verhältniß eines jeden beſondern Talentes zu
                     dem Gedicht, ſodann aber auch zu ſeinen Mitkünſtlern ſich hervorthut. Die daraus
                     ſich ergebenden Betrachtungen ſind für den Kunſtfreund angenehm-bedeutend und
-                    wir möchten in der Folge vielleicht geneigt ſeyn ſie mitzutheilen.<anchor
-                        xml:id="graef_1636_end"/></p>
-                <p><hi rend="letter-spaced"><milestone unit="testimony" spanTo="#graef_1628_end"
-                            xml:id="graef_1628"/><rs>Helena</rs></hi> in <hi rend="letter-spaced"
-                        >Edinburg, Paris</hi> und <hi rend="letter-spaced">Moskau</hi>. <hi
-                        rend="antiqua">The Foreign Review No. II. 1828. p. 430. Le Globe Tom. VI.
+                    wir möchten in der Folge vielleicht geneigt ſeyn ſie mitzutheilen.<anchor xml:id="graef_1636_end"/></p>
+                <p><hi rend="letter-spaced"><milestone unit="testimony" spanTo="#graef_1628_end" xml:id="graef_1628"/><rs>Helena</rs></hi> in <hi rend="letter-spaced">Edinburg, Paris</hi> und <hi rend="letter-spaced">Moskau</hi>. <hi rend="antiqua">The Foreign Review No. II. 1828. p. 430. Le Globe Tom. VI.
                         No. 34. p.</hi> 209. Der Moskowiſche Bote <hi rend="antiqua">No.</hi> 21.
                     1827. S. 79. Hier ſtrebt nun der Schotte das Werk zu durchdringen; der Franzoſe
-                    es zu verſtehen; der Ruſſe ſich es anzueignen. Und ſo hätten die Herren <hi
-                        rend="letter-spaced">Carlyle, Ampère</hi> und <hi rend="letter-spaced"
-                        >Schewireff</hi>, ganz ohne Verabredung, die ſämmtlichen Kategorien der
+                    es zu verſtehen; der Ruſſe ſich es anzueignen. Und ſo hätten die Herren <hi rend="letter-spaced">Carlyle, Ampère</hi> und <hi rend="letter-spaced">Schewireff</hi>, ganz ohne Verabredung, die ſämmtlichen Kategorien der
                     möglichen Theilnahme an einem Kunſt- oder Naturproduct vollſtändig durchgeführt.
                     Das Weitere hierüber zu verhandeln ſey unſern wohlwollenden Freunden überlaſſen.
-                    Sie werden, das Ineinandergreifen jenes dreyfachen nie <pb n="430"
-                        facs="kua_6-2_0430.jpg"/>ſcharf zu trennenden Strebens bemerkend und
+                    Sie werden, das Ineinandergreifen jenes dreyfachen nie <pb n="430" facs="kua_6-2_0430.jpg"/>ſcharf zu trennenden Strebens bemerkend und
                     bezeichnend, uns über die mannigfaltigſten äſthetiſchen Einwirkungen aufzuklären
                     erwünſchte Gelegenheit davon hernehmen.<anchor xml:id="graef_1628_end"/></p>
             </div>

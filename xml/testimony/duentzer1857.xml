@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,12 +33,10 @@
                     von Kalb erzählte nämlich, Goethe habe ihr wenigſtens zwölf Jahre vor der
                     <rs>vollſtändigen Herausgabe des erſten Theils des „Fauſt“</rs>, die im Jahre 1808
                     erfolgte, ein Geſpräch zwiſchen Mephiſtopheles und einem jungen
-                    überſchwenglichen Idealiſten vorgeleſen, worin dieſer jenem <pb n="84"
-                        facs="duentzer1857_0084.jpg"/>zu Leibe gehe und ihn an Abſolutheit
+                    überſchwenglichen Idealiſten vorgeleſen, worin dieſer jenem <pb n="84" facs="duentzer1857_0084.jpg"/>zu Leibe gehe und ihn an Abſolutheit
                     übertrumpfe, wobei ſie ſich beſonders der Aeußerung erinnerte, daß man alle
                     Dreißigjährigen todtſchlagen ſolle, welche Aeußerung man zu Jena und Weimar
-                    Fichte zuſchrieb <anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
-                        >1</hi>)</ref>.</p>
+                    Fichte zuſchrieb <anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">1</hi>)</ref>.</p>
             </div>
             <div type="editorial">
                 <p><anchor xml:id="F1"/><ref target="#N1">1) Dieſe Mittheilung der Frau von Kalb

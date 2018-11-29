@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -31,8 +31,7 @@
                     fertig werden</p>
                 <table>
                     <row>
-                        <cell>Auflage<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup"
-                                >3</hi></ref></cell>
+                        <cell>Auflage<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">3</hi></ref></cell>
                         <cell>Plutarch</cell>
                         <cell>Druckp[apier]</cell>
                     </row>
@@ -42,8 +41,7 @@
                         <cell>Schr[eib]pr.</cell>
                     </row>
                 </table>
-                <p>In der ersten Hälfte von 1816 druckten wir 1500<anchor xml:id="N2"/><ref
-                        target="#F2"><hi rend="sup">4</hi></ref>.<anchor xml:id="quz_IV-1240_end"/></p>
+                <p>In der ersten Hälfte von 1816 druckten wir 1500<anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">4</hi></ref>.<anchor xml:id="quz_IV-1240_end"/></p>
             </div>
             <pb n="462" facs="quz_4_0462.jpg"/>
             <div type="letter">
@@ -55,8 +53,7 @@
                 </head>
                 <head type="editorial">Augsburg, Reichel an Cottasche Buchhandlung (SNM/CA):</head>
                 <p><milestone unit="testimony" spanTo="#quz_IV-1779_end" xml:id="quz_IV-1779"/>Ich melde Ihnen den Empfang von</p>
-                <p>1 <rs>Goethe Faust zum neuen Abdruck</rs><anchor xml:id="N3"/><ref target="#F3"><hi
-                            rend="sup">2</hi></ref> . . . Wenn die Wahlverwandtschaften vollends
+                <p>1 <rs>Goethe Faust zum neuen Abdruck</rs><anchor xml:id="N3"/><ref target="#F3"><hi rend="sup">2</hi></ref> . . . Wenn die Wahlverwandtschaften vollends
                     beendet sind, will ich Douglas<hi rend="sup">3</hi> beginnen.</p>
                 <p>Nach [Maria] Stuart, will ich Goethe Faust beginnen . . .<anchor xml:id="quz_IV-1779_end"/></p>
             </div>
@@ -86,8 +83,7 @@
                 </head>
                 <head type="editorial">Stuttgart, Cotta an Goethe und A. v. Goethe (Kuhn 2,
                     144f):</head>
-                <p><milestone unit="testimony" spanTo="#quz_IV-1796_end" xml:id="quz_IV-1796"/>Sie halten disen Verkauff<anchor xml:id="N4"/><ref target="#F4"><hi rend="sup"
-                            >2</hi></ref> von hoher Bedeutung, allein da er sich nur für diejenigen
+                <p><milestone unit="testimony" spanTo="#quz_IV-1796_end" xml:id="quz_IV-1796"/>Sie halten disen Verkauff<anchor xml:id="N4"/><ref target="#F4"><hi rend="sup">2</hi></ref> von hoher Bedeutung, allein da er sich nur für diejenigen
                     vom Verleger der sämtlichen Werke erzielen läßt, wovon das Verlags Recht nicht
                     besonders honorirt wurde, wie von Weygand bei Werthers Leiden, Vieweg bei
                     Herrmann und Dorothea pp so beschränkt er sich vorzüglich auf</p>
@@ -117,8 +113,7 @@
                     aus dieser nach dem Wahrscheinlichkeits-Calcul ermessen, wann eine Auflage
                     abgesezt seyn kan. Ist es ein gangbarer Artikel, so wird nicht die Zeit
                     abgewartet, bis die Auflage erschöpft ist, sondern geraume Zeit vorher mit dem
-                    Druk begonnen — . . . So war es auch mit <pb n="468" facs="quz_4_0468.jpg"
-                    />Faust der schon Jahr und Tag begonnen wurde und den ich auch beginnen konnte,
+                    Druk begonnen — . . . So war es auch mit <pb n="468" facs="quz_4_0468.jpg"/>Faust der schon Jahr und Tag begonnen wurde und den ich auch beginnen konnte,
                     da ich nach dem frühern Vertrag das Vorzugsrecht vor jedem andern Verleger bei
                     gleichen Bedingungen geniesse und mir wohl bewußt war, daß ich auf diese
                     eingehen würde —</p>
@@ -136,14 +131,11 @@
                     <num type="quz_4">2043</num>
                 </head>
                 <head type="editorial">Augsburg, Reichel an Cottasche Buchhandlung (SNM/CA):</head>
-                <p><milestone unit="testimony" spanTo="#quz_IV-2043_end" xml:id="quz_IV-2043"/>Goethes Gedichte I Band<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup"
-                            >2</hi></ref> ist fertig bis auf den Titelbogen. Der II erlitt einen
+                <p><milestone unit="testimony" spanTo="#quz_IV-2043_end" xml:id="quz_IV-2043"/>Goethes Gedichte I Band<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup">2</hi></ref> ist fertig bis auf den Titelbogen. Der II erlitt einen
                     Stillstand, da ich erst mit dem Herrn Geh. Hofr. bei seiner lezten Anwesenheit
                     hier sprechen mußte, wegen der Ordnung der Gedichte, nämlich der dritte Band der
                     Werke hat Xenien I. II. III. Der vierte IV. V. VI. In den Gedichten II. Band,
-                    der aus dem dritten und vierten Band der Werke besteht, müßten <pb n="542"
-                        facs="quz_4_0542.jpg"/>die Xenien nun doch zusammen genommen werden<anchor
-                        xml:id="N6"/><ref target="#F6"><hi rend="sup">1</hi></ref>. Eben so <rs>muß
+                    der aus dem dritten und vierten Band der Werke besteht, müßten <pb n="542" facs="quz_4_0542.jpg"/>die Xenien nun doch zusammen genommen werden<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup">1</hi></ref>. Eben so <rs>muß
                     Helena ganz wegbleiben, diese gehört zum Faust</rs>. Jezt bin ich nun an den Xenien,
                     und ich werde nun den Band recht schnell weiter fördern, daß er in ein Paar
                     Wochen fertig wird.<anchor xml:id="quz_IV-2043_end"/></p>

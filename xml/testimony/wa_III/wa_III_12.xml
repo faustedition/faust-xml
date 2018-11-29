@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
-     xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:f="http://faustedition.net/ns"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:svg="http://www.w3.org/2000/svg"
-     xmlns:math="http://www.w3.org/1998/Math/MathML"
-     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.net/ns" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -42,10 +35,7 @@
          <pb n="3"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-01-06"/>6. <milestone unit="testimony"
-                          spanTo="#graef_1678_end"
-                          xml:id="graef_1678"
-                          next="#graef_1678_b"/>Nebenstehendes ausgefertigt:<anchor xml:id="graef_1678_end"/>
+                        <date when="1829-01-06"/>6. <milestone unit="testimony" spanTo="#graef_1678_end" xml:id="graef_1678" next="#graef_1678_b"/>Nebenstehendes ausgefertigt:<anchor xml:id="graef_1678_end"/>
                         <hi rend="italic">Herrn Canzler von Müller</hi>, Gedicht von ...... <hi rend="italic">Herrn von Otto</hi>, Quittung über 100 Thaler. <hi rend="italic">Herrn Geh. Hofrath Helbig</hi>, die Boisseréesche Rechnung.
                            <hi rend="italic">
                   <milestone unit="testimony" spanTo="#graef_1678_end_b" xml:id="graef_1678_b"/>Herrn Professor Zelter</hi>, einige
@@ -78,10 +68,7 @@
                         <date when="1829-01-11"/>
                         <hi rend="bold">
                            <pb n="6"/> 11.</hi>
-                        <milestone unit="testimony"
-                          spanTo="#graef_1680_end"
-                          xml:id="graef_1680"
-                          next="#graef_1680_b"/>Am <rs>Hauptgeschäft</rs> fortgeschritten.<anchor xml:id="graef_1680_end"/> Der thüringische Volksfreund 2. Stück. Mittag
+                        <milestone unit="testimony" spanTo="#graef_1680_end" xml:id="graef_1680" next="#graef_1680_b"/>Am <rs>Hauptgeschäft</rs> fortgeschritten.<anchor xml:id="graef_1680_end"/> Der thüringische Volksfreund 2. Stück. Mittag
                         für mich. Nach Tische, veranlaßt durch die russischen Krystalle, Naumanns
                         Lehrbuch der Mineralogie vorgenommen. Auch damit mich meist den Abend
                         beschäftigt. <milestone unit="testimony" spanTo="#graef_1680_end_b" xml:id="graef_1680_b"/>
@@ -433,10 +420,7 @@
          <pb n="110"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-08-12"/>12. <milestone unit="testimony"
-                          spanTo="#graef_1717_end"
-                          xml:id="graef_1717"
-                          next="#graef_1717_b"/>Nebenstehendes: <hi rend="italic">Herrn Präsident von Ziegesar</hi>,
+                        <date when="1829-08-12"/>12. <milestone unit="testimony" spanTo="#graef_1717_end" xml:id="graef_1717" next="#graef_1717_b"/>Nebenstehendes: <hi rend="italic">Herrn Präsident von Ziegesar</hi>,
                         Erwiderung, daß er Curator der Academie geworden sey, Jena. <hi rend="italic">Herrn Dr. Weiler</hi>, Jena, Erinnerung wegen Göttling
                         wegen des Manuscripts. <rs><hi rend="italic">Herrn Musikdirector Eberwein,</hi>
                         stellen zu Faust</rs>.<anchor xml:id="graef_1717_end"/> Schuchardt, dessen
@@ -466,10 +450,7 @@
                         Herr Robinson aus einen Augenblick, sich wegen des Mittags entschuldigend.
                         Um 12 Uhr spazieren gefahren am Schießhaus vorbei durch's Webicht. Mittag
                         für mich. Den 5. Band von St. Simon gelesen. Dr. Herzog von Jena, Robinson
-                        und Ottilie. Sodann <milestone unit="testimony"
-                          spanTo="#graef_1720_end"
-                          xml:id="graef_1720"
-                          next="#graef_1720_b"/>Professor Riemer.<anchor xml:id="graef_1720_end"/> Jene beyden Ersten fuhren auf's Schießhaus,
+                        und Ottilie. Sodann <milestone unit="testimony" spanTo="#graef_1720_end" xml:id="graef_1720" next="#graef_1720_b"/>Professor Riemer.<anchor xml:id="graef_1720_end"/> Jene beyden Ersten fuhren auf's Schießhaus,
                         wohin die Frau Großherzogin kam. Mit Letzterem den Abend zugebracht.
                         Verschiedenes durchgegangen. Auch <milestone unit="testimony" spanTo="#graef_1720_end_b" xml:id="graef_1720_b"/>wegen dem Fortschreiten
                         der <rs>Proben von Faust</rs> gesprochen.<anchor xml:id="graef_1720_end_b"/>
@@ -571,8 +552,7 @@
                Auszug aus Le Temps und Verzeichniß der im letzten Vierteljahr eingekommenen
                Bücher. Herrn Soret gesendet, mit 7. Heft der Revue Française. – Die
                Übersetzungen von Herrn Parry kamen an. <milestone unit="testimony" spanTo="#graef_1736_end" xml:id="graef_1736"/>Professor Riemer entschuldigte sich
-               auf heute Abend wegen der <rs>Probe von Faust</rs>.<anchor
-                  xml:id="graef_1736_end"/> Facius bracht' einen Stempel M. P. Kam ein
+               auf heute Abend wegen der <rs>Probe von Faust</rs>.<anchor xml:id="graef_1736_end"/> Facius bracht' einen Stempel M. P. Kam ein
                Schreiben von Herrn Hitzig aus Berlin an meinen Sohn. Die deutsche
                Gesellschaft sollte in Bezug mit dem Auslande gesetzt werden. Mittag für
                mich. Nach Tische nähere Betrachtung und Sonderung der Mineralien. Besuch
@@ -711,10 +691,7 @@
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
                         <date when="1829-12-07"/>7. Fortsetzung aller Geschäfte von gestern.
-                           <milestone unit="testimony"
-                          spanTo="#graef_1746_end"
-                          xml:id="graef_1746"
-                          next="#graef_1746_b"/>
+                           <milestone unit="testimony" spanTo="#graef_1746_end" xml:id="graef_1746" next="#graef_1746_b"/>
                <rs>Poetisches</rs>.<anchor xml:id="graef_1746_end"/> Mittag Herr Hofrath Meyer. Das Neuste von Kunst und Verhältnissen.
                         Mannigfaltiges Bestreben. Abends Herr Oberbaudirector Coudray. Ausbau des
                         Schloßflügels und Bedenkliches dabey besprochen. Mémoires de St. Simon immer
@@ -725,10 +702,7 @@
          <pb n="163"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-12-08"/>8. <milestone unit="testimony"
-                          spanTo="#graef_1747_end"
-                          xml:id="graef_1747"
-                          next="#graef_1747_b"/>
+                        <date when="1829-12-08"/>8. <milestone unit="testimony" spanTo="#graef_1747_end" xml:id="graef_1747" next="#graef_1747_b"/>
                <rs>Gestriges</rs> fortgesetzt. <anchor xml:id="graef_1747_end"/>
                         Französische Tagesblätter. Frau Großherzogin-Mutter um halb 11 Uhr. Das
                         Neuste vorgelegt. Der Abgeordnete von Herrn<pb n="164"/> Rieth in Ilmenau,
@@ -766,10 +740,7 @@
          <pb n="165"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-12-12"/>12. <milestone unit="testimony"
-                          spanTo="#graef_1750_end"
-                          xml:id="graef_1750"
-                          next="#graef_1750_b"/>
+                        <date when="1829-12-12"/>12. <milestone unit="testimony" spanTo="#graef_1750_end" xml:id="graef_1750" next="#graef_1750_b"/>
                <rs>Poetisches</rs>.<anchor xml:id="graef_1750_end"/> Nebenstehendes:
                            <hi rend="italic">Herrn Hofrath Voigt</hi> nach Jena, wegen der
                         verlangten Caution. – Concepte und Munda von Briefen. Meursii Cyprus. Mittag
@@ -822,10 +793,7 @@
          <pb n="166"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-12-15"/>15. <milestone unit="testimony"
-                          spanTo="#graef_1753_end"
-                          xml:id="graef_1753"
-                          next="#graef_1753_b"/>
+                        <date when="1829-12-15"/>15. <milestone unit="testimony" spanTo="#graef_1753_end" xml:id="graef_1753" next="#graef_1753_b"/>
                <rs>Poetisches</rs>.<anchor xml:id="graef_1753_end"/> Einiges
                         vorbereitet zur Correspondenz. Zwey Herren Macarthur aus Sidney, eingeführt
                         von Herrn von Froriep. Erzählten viel Interessantes von ihren dortigen
@@ -896,10 +864,7 @@
          <pb n="173"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-12-29"/>29. <milestone unit="testimony"
-                          spanTo="#graef_1763_end"
-                          xml:id="graef_1763"
-                          next="#graef_1763_b"/>
+                        <date when="1829-12-29"/>29. <milestone unit="testimony" spanTo="#graef_1763_end" xml:id="graef_1763" next="#graef_1763_b"/>
                <rs>Poetisches</rs>.<anchor xml:id="graef_1763_end"/> Brief an Zeltern
                         vorbereitet. Hofrath Vogel. Über eigene und fremde Zustände. Mittag die
                         Enkel. <milestone unit="testimony" spanTo="#graef_1763_end_b" xml:id="graef_1763_b"/>Abends Professor Riemer. Vorbereitung auf
@@ -912,10 +877,7 @@
          <pb n="173"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-12-30"/>30. <milestone unit="testimony"
-                          spanTo="#graef_1765_end"
-                          xml:id="graef_1765"
-                          next="#graef_1765_b"/>
+                        <date when="1829-12-30"/>30. <milestone unit="testimony" spanTo="#graef_1765_end" xml:id="graef_1765" next="#graef_1765_b"/>
                <rs>Poetisches</rs>. Arrangement einiger Concepte.<anchor xml:id="graef_1765_end"/> Protokoll geführt von Schrön bey der letzten
                         Unterredung <pb n="174"/> mit meinem Sohne. Bericht von Färbern, die
                         Geschäfte des Vergangenen Jahrs betreffend. Herr Minister von Fritsch
@@ -931,10 +893,7 @@
          <pb n="174"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1829-12-31"/>31. <milestone unit="testimony"
-                          spanTo="#graef_1766_end"
-                          xml:id="graef_1766"
-                          next="#graef_1766_b"/>früh
+                        <date when="1829-12-31"/>31. <milestone unit="testimony" spanTo="#graef_1766_end" xml:id="graef_1766" next="#graef_1766_b"/>früh
                         zu Stande gebracht. John mundirte sogleich.<anchor xml:id="graef_1766_end"/>
                         Er hatte vorher die oberaufsichtlichen Geschäfte mit meinem Sohne
                         durchgeführt. Nach 12 Uhr Frau Großherzogin mit Demoiselle Mazelet. Mittag
@@ -963,10 +922,7 @@
                         <hi rend="bold">3.</hi> Nebenstehendes: <hi rend="italic">Herrn W. J.
                            Sintenis</hi> nach Leipzig, sein Manuscript zurück. <hi rend="italic">An
                            Herrn Bürgermeister Beyer</hi> nach Eisenach, Zeichenblätter der
-                        Gewerkschule zurück. – <milestone unit="testimony"
-                          spanTo="#graef_1769_end"
-                          xml:id="graef_1769"
-                          next="#graef_1769_b"/>
+                        Gewerkschule zurück. – <milestone unit="testimony" spanTo="#graef_1769_end" xml:id="graef_1769" next="#graef_1769_b"/>
                <rs>Poetisches</rs>
                            gefördert.<anchor xml:id="graef_1769_end"/> Manches zum Geschäft gehörig.
                         Ordnung der Tageshefte. Mein Sohn fuhr nach Erfurt. Ottilie erzählte mir von
@@ -980,19 +936,13 @@
          <pb n="176"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-01-04"/>4. <milestone unit="testimony"
-                          spanTo="#graef_1770_end"
-                          xml:id="graef_1770"
-                          next="#graef_1770_b"/>Einiges ausgeführt und mundirt.<anchor xml:id="graef_1770_end"/> Geh.
+                        <date when="1830-01-04"/>4. <milestone unit="testimony" spanTo="#graef_1770_end" xml:id="graef_1770" next="#graef_1770_b"/>Einiges ausgeführt und mundirt.<anchor xml:id="graef_1770_end"/> Geh.
                         Hofrath Völkel giebt Nachricht der zweyten Verwilligung von 1400 Thalern.
                         Einige Concepte. Die Acten bezüglich auf die Geschäfte der Frau
                         Großherzogin, welche bisher in Tecturen gelegen, zu heften angefangen. Herr
                         Geh. Rath Schweitzer Excellenz freundlicher Neujahrsbesuch. War von dem
                         schleichenden und einschleichenden Pietismus die Rede. Mittags für mich.
-                           <milestone unit="testimony"
-                          spanTo="#graef_1770_end_b"
-                          xml:id="graef_1770_b"
-                          next="#graef_1770_c"/>
+                           <milestone unit="testimony" spanTo="#graef_1770_end_b" xml:id="graef_1770_b" next="#graef_1770_c"/>
                <rs>Betrachtung und <pb n="177"/> Bemühung</rs> fortgesetzt.<anchor xml:id="graef_1770_end_b"/> Eckermanns Gedicht nochmals betrachtet. Die neusten Weltbegebenheiten
                         überlegt. Proben einer altdeutschen Sprache communicirt von Lacher in
                         Speyer. Herr Canzler von Müller. Ihro Königliche Hoheit der Großherzog.
@@ -1003,10 +953,7 @@
          <pb n="177"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-01-05"/>5. <milestone unit="testimony"
-                          spanTo="#graef_1771_end"
-                          xml:id="graef_1771"
-                          next="#graef_1771_b"/>
+                        <date when="1830-01-05"/>5. <milestone unit="testimony" spanTo="#graef_1771_end" xml:id="graef_1771" next="#graef_1771_b"/>
                <rs>Poetisches</rs> concipirt und mundirt.<anchor xml:id="graef_1771_end"/> Einige Geschäftsexpeditionen. Meines Sohnes
                         Anregung wegen der bevorstehenden Maskerade. Mittag Wölfchen. Nachher
                            <milestone unit="testimony" spanTo="#graef_1771_end_b" xml:id="graef_1771_b"/>fortgesetzte Vorbereitung zu dem allernächst
@@ -1084,10 +1031,7 @@
                      <p rend="indentchar-m0n4">
                         <date when="1830-01-10"/>
                         <hi rend="bold">10.</hi>
-                        <milestone unit="testimony"
-                          spanTo="#graef_1777_end"
-                          xml:id="graef_1777"
-                          next="#graef_1777_b"/>
+                        <milestone unit="testimony" spanTo="#graef_1777_end" xml:id="graef_1777" next="#graef_1777_b"/>
                <rs>Poetisches</rs> concipirt und mundirt.<anchor xml:id="graef_1777_end"/> Cammerconsulent Schnauß und Sohn.
                         Einladungskarten an Geh. Rath Schweitzer und Generalsuperintendent Röhr.
                            <milestone unit="testimony" spanTo="#graef_1777_end_b" xml:id="graef_1777_b"/>Mittag Dr. Eckermann. Über die Thätigkeit der hier
@@ -1135,10 +1079,7 @@
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
                         <date when="1830-01-16"/>16. Nebenstehendes: <hi rend="italic">An Fräulein
-                           Schopenhauer</hi> nach Bonn. – <milestone unit="testimony"
-                          spanTo="#graef_1780_end"
-                          xml:id="graef_1780"
-                          next="#graef_1780_b"/>
+                           Schopenhauer</hi> nach Bonn. – <milestone unit="testimony" spanTo="#graef_1780_end" xml:id="graef_1780" next="#graef_1780_b"/>
                <rs>Poetisches aus den Concepten</rs> geordnet. Ein <rs>neues
                            Schema</rs> dictirt.<anchor xml:id="graef_1780_end"/> Die von John
                         eingebrachten Bilder näher betrachtet. Schmeller lieferte das Porträt des
@@ -1154,10 +1095,7 @@
                      <p rend="indentchar-m0n4">
                         <date when="1830-01-17"/>
                         <hi rend="bold">17.</hi> Nebenstehendes: <hi rend="italic">Herrn Grafen
-                           Sternberg, Excellenz</hi>, 6. Lieferung meiner Werke. <hi rend="italic">Herrn Börner</hi> 45 Thlr. 17 Gr. nach Leipzig. – <milestone unit="testimony"
-                          spanTo="#graef_1781_end"
-                          xml:id="graef_1781"
-                          next="#graef_1781_b"/>
+                           Sternberg, Excellenz</hi>, 6. Lieferung meiner Werke. <hi rend="italic">Herrn Börner</hi> 45 Thlr. 17 Gr. nach Leipzig. – <milestone unit="testimony" spanTo="#graef_1781_end" xml:id="graef_1781" next="#graef_1781_b"/>
                <rs>Poetisches</rs> mundirt und
                            schematisirt.<anchor xml:id="graef_1781_end"/> Die Tage- und Jahreshefte
                         vorgenommen. Herr von Lyncker von Kötschau. Riemer sendete das Festgedicht.
@@ -1182,10 +1120,7 @@
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
                         <date when="1830-01-19"/>19. Die nöthigen Concepte zu dem vorliegenden
-                        Geschäft ausgefertigt. <milestone unit="testimony"
-                          spanTo="#graef_1783_end"
-                          xml:id="graef_1783"
-                          next="#graef_1783_b"/>
+                        Geschäft ausgefertigt. <milestone unit="testimony" spanTo="#graef_1783_end" xml:id="graef_1783" next="#graef_1783_b"/>
                <rs>Einiges Poetische</rs>
                         bedacht und berichtigt.<anchor xml:id="graef_1783_end"/> Dr. Kämpfer nach
                         dem Ableben des Bergrath Wahl als Provincial-Physikus angestellt. Sodann
@@ -1252,10 +1187,7 @@
          <pb n="188"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-01-29"/>29. <milestone unit="testimony"
-                          spanTo="#graef_1788_end"
-                          xml:id="graef_1788"
-                          next="#graef_1788_b"/>Fortleitung.<anchor xml:id="graef_1788_end"/> Nebenstehendes
+                        <date when="1830-01-29"/>29. <milestone unit="testimony" spanTo="#graef_1788_end" xml:id="graef_1788" next="#graef_1788_b"/>Fortleitung.<anchor xml:id="graef_1788_end"/> Nebenstehendes
                         ausgefertigt: <hi rend="italic">Herrn Professor Zelter</hi>, Berlin. –
                         Abschluß der Chroniken. Mittag für mich. Gegen Abend Fräulein Jacobi und
                         Professor Riemer. Erstere wegen einem nach Frankfurt zu sendenden Brief
@@ -1384,10 +1316,7 @@
                      <p rend="indentchar-m0n4">
                         <date when="1830-02-07"/>
                         <hi rend="bold">7.</hi> Nebenstehendes: <hi rend="italic">Dem Herrn J.
-                           Busch,</hi> Artillerie- Wirthschafts-Fourier, Dresden. – <milestone unit="testimony"
-                          spanTo="#graef_1797_end"
-                          xml:id="graef_1797"
-                          next="#graef_1797_b"/>Einiges <pb n="194"/>
+                           Busch,</hi> Artillerie- Wirthschafts-Fourier, Dresden. – <milestone unit="testimony" spanTo="#graef_1797_end" xml:id="graef_1797" next="#graef_1797_b"/>Einiges <pb n="194"/>
                         <rs>Poetische</rs>.<anchor xml:id="graef_1797_end"/> Sonstige Concepte. Mein
                         Sohn einige Requisiten zum Maskenzug verlangend. Ihro Königliche Hoheit der
                         Herr Großherzog. Fortgesetztes Gespräch von gestern. Mittag Dr. Eckermann.
@@ -1443,10 +1372,7 @@
                      <p rend="indentchar-m0n4">
                         <date when="1830-02-13"/>13. Nebenstehendes abgeschlossen: <hi rend="italic">Herrn Geh. Rath von Cotta</hi> nach München. <hi rend="italic">Herrn
                            Varnhagen von Ense</hi>, Brief und Packet, Berlin. – Anderes vorbereitet.
-                           <milestone unit="testimony"
-                          spanTo="#graef_1802_end"
-                          xml:id="graef_1802"
-                          next="#graef_1802_b"/>
+                           <milestone unit="testimony" spanTo="#graef_1802_end" xml:id="graef_1802" next="#graef_1802_b"/>
                <rs>Poetisches</rs> behandelt.<anchor xml:id="graef_1802_end"/> Hofrath Vogel, Befinden der Frau
                         Großherzogin-Mutter. Mittag allein. Das kleinere Italiänische Portefeuille
                         durchgesehen. <milestone unit="testimony" spanTo="#graef_1802_end_b" xml:id="graef_1802_b"/>
@@ -1460,10 +1386,7 @@
                         <date when="1830-02-14"/>
                         <hi rend="bold">
                            <pb n="197"/> 14.</hi> Den eingegangenen Bericht gelesen und überlegt.
-                           <milestone unit="testimony"
-                          spanTo="#graef_1804_end"
-                          xml:id="graef_1804"
-                          next="#graef_1804_b"/>Einiges <rs>Poetische</rs>.<anchor xml:id="graef_1804_end"/> Sonstiges Geforderte. Das kleine
+                           <milestone unit="testimony" spanTo="#graef_1804_end" xml:id="graef_1804" next="#graef_1804_b"/>Einiges <rs>Poetische</rs>.<anchor xml:id="graef_1804_end"/> Sonstiges Geforderte. Das kleine
                         Niederländische Portefeuille. Schreiben des Herrn von Vitzthum. Mittag Dr.
                         Eckermann und Wölfchen. Verscheiden der Frau Großherzogin gegen 2 Uhr. Wurde
                         geläutet. Ottilie und Ulrike kamen. Später Herr Soret, auch Hofrath Vogel.
@@ -1474,10 +1397,7 @@
          <pb n="197"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-02-15"/>15. Einige Concepte, Munda, <milestone unit="testimony"
-                          spanTo="#graef_1805_end"
-                          xml:id="graef_1805"
-                          next="#graef_1805_b"/>
+                        <date when="1830-02-15"/>15. Einige Concepte, Munda, <milestone unit="testimony" spanTo="#graef_1805_end" xml:id="graef_1805" next="#graef_1805_b"/>
                <rs>Poetisches</rs>.<anchor xml:id="graef_1805_end"/> Nebenstehendes: <hi rend="italic">Herrn Professor Zelter</hi>, Berlin. –
                         Sendung von Rochlitz: Für Freunde der Tonkunst. Mit Ottilien spazieren
                         gefahren. Speiste Wölfchen mit mir. Herr Hofrath Vogel über die nächsten
@@ -1553,10 +1473,7 @@
          <pb n="201"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-02-23"/>23. <milestone unit="testimony"
-                          spanTo="#graef_1811_end"
-                          xml:id="graef_1811"
-                          next="#graef_1811_b"/>Einiges <rs>Poetische</rs>, Mundum.<anchor xml:id="graef_1811_end"/>
+                        <date when="1830-02-23"/>23. <milestone unit="testimony" spanTo="#graef_1811_end" xml:id="graef_1811" next="#graef_1811_b"/>Einiges <rs>Poetische</rs>, Mundum.<anchor xml:id="graef_1811_end"/>
                         Nebenstehendes in Bezug auf Bibliotheksangelegenheiten: <hi rend="italic">An
                            Frau von Pogwisch</hi>, hier. – 25 Thaler von der Casse zu Förderung
                         eines litterarischen Unternehmens. Ottilien die Frommannische Korbrechnung
@@ -1588,10 +1505,7 @@
          <pb n="202"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-02-25"/>25. <milestone unit="testimony"
-                          spanTo="#graef_1814_end"
-                          xml:id="graef_1814"
-                          next="#graef_1814_b"/>
+                        <date when="1830-02-25"/>25. <milestone unit="testimony" spanTo="#graef_1814_end" xml:id="graef_1814" next="#graef_1814_b"/>
                <rs>Poetisches</rs>, Concept und Mundum.<anchor xml:id="graef_1814_end"/> Um 12 Uhr die Frau Großherzogin und Demoiselle Mazelet. Mittag Hofrath
                         Meyer, besahen das Plutonische Reich von Cornelius und stellten sorgfältige
                         Betrachtungen darüber an. Herr Canzler von Müller. Die Relation des Globe
@@ -1623,10 +1537,7 @@
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
                         <date when="1830-02-27"/>27. Angenehme Sendung von Göttling. Zeugniß seiner
-                        Genesung. <milestone unit="testimony"
-                          spanTo="#graef_1816_end"
-                          xml:id="graef_1816"
-                          next="#graef_1816_b"/>Das <rs>nächste Poetische</rs>,
+                        Genesung. <milestone unit="testimony" spanTo="#graef_1816_end" xml:id="graef_1816" next="#graef_1816_b"/>Das <rs>nächste Poetische</rs>,
                         Concept und Mundum.<anchor xml:id="graef_1816_end"/> Nebenstehendes
                         ausgefertigt: <hi rend="italic">Herrn Major von Knebel,</hi> Zurücksendung
                         eines Manuscripts mit Brief. <hi rend="italic">Herrn Professor
@@ -1714,10 +1625,7 @@
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
                         <date when="1830-03-05"/>5. Das Trauerblatt Chaos mußte noch leider näher
-                        überlegt werden, wegen einiger Veränderungen und Zuthaten. <milestone unit="testimony"
-                          spanTo="#graef_1823_end"
-                          xml:id="graef_1823"
-                          next="#graef_1823_b"/>John fuhr an dem <rs>Hauptmundum</rs>
+                        überlegt werden, wegen einiger Veränderungen und Zuthaten. <milestone unit="testimony" spanTo="#graef_1823_end" xml:id="graef_1823" next="#graef_1823_b"/>John fuhr an dem <rs>Hauptmundum</rs>
                         <pb n="207"/> fort.<anchor xml:id="graef_1823_end"/> Um 1 Uhr Herr Graf Voß,
                         Frau, Tochter und noch eine Dame. Ich sah sie in Erinnerung der Frau von
                         Berg, Mutter der Frau Gräfin Voß. Mittag Hofrath Meyer. Wir besahen das
@@ -1730,10 +1638,7 @@
          <pb n="207"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-03-06"/>6. <milestone unit="testimony"
-                          spanTo="#graef_1825_end"
-                          xml:id="graef_1825"
-                          next="#graef_1825_b"/>
+                        <date when="1830-03-06"/>6. <milestone unit="testimony" spanTo="#graef_1825_end" xml:id="graef_1825" next="#graef_1825_b"/>
                <rs>Poetisches</rs>, Concept und Mundum. Das Schema
                            umgeschrieben.<anchor xml:id="graef_1825_end"/> Anderes eingerichtet und
                         eingeleitet. Revisor Geist brachte das schöne Monstrum von Valeriana phu,
@@ -1809,10 +1714,7 @@
                         Vogel. Herr Hofrath Soret und der Prinz. Ersterem zeigte ich die durch
                         ...... angekommenen Werke. Der Prinz war mit seinem Herrn Vater auf dem
                         Bibliotheksmuseum gewesen. Hatte sich der schönen Elfenbein-Arbeiten
-                        erfreut. <milestone unit="testimony"
-                          spanTo="#graef_1830_end"
-                          xml:id="graef_1830"
-                          next="#graef_1830_b"/>John schrieb am <rs>Faust</rs>
+                        erfreut. <milestone unit="testimony" spanTo="#graef_1830_end" xml:id="graef_1830" next="#graef_1830_b"/>John schrieb am <rs>Faust</rs>
                            ab.<anchor xml:id="graef_1830_end"/> Mittag Herr Zahn und Oberbaudirector
                         Coudray. Nach Tische Schmeller, Verabredung wegen des Zahnischen Porträts.
                         Man wies die Schmellerischen Porträte vor. Gegen Abend Herr Canzler. Kamen
@@ -2153,10 +2055,7 @@
                         Quittung wurde autorisirt. Sonstiges geordnet. Mittag für mich. Im Sondern
                         der Papiere fortgefahren. Abends Ulrike und Ottilie. Letztere las mir später
                         aus dem Conversations-Lexicon vor und erzählte von manchen Vergangenheiten.
-                        Um 9 Uhr zu Bette. <milestone unit="testimony"
-                          spanTo="#graef_1864_end"
-                          xml:id="graef_1864"
-                          next="#graef_1864_b"/>Nach 1 Uhr einige Stunden
+                        Um 9 Uhr zu Bette. <milestone unit="testimony" spanTo="#graef_1864_end" xml:id="graef_1864" next="#graef_1864_b"/>Nach 1 Uhr einige Stunden
                         gewacht. <rs>Verschiedenes</rs> in Gedanken gefördert. Bis früh
                            geschlafen.<anchor xml:id="graef_1864_end"/>
             </p>
@@ -2214,10 +2113,7 @@
                      <p rend="indentchar-m0n4">
                         <date when="1830-12-12"/>
                         <hi rend="bold">12.</hi>
-                        <milestone unit="testimony"
-                          spanTo="#graef_1868_end"
-                          xml:id="graef_1868"
-                          next="#graef_1868_b"/>Einiges zu <rs>Faust</rs>.<anchor xml:id="graef_1868_end"/> Nebenstehendes: Schreiben <hi rend="italic">an
+                        <milestone unit="testimony" spanTo="#graef_1868_end" xml:id="graef_1868" next="#graef_1868_b"/>Einiges zu <rs>Faust</rs>.<anchor xml:id="graef_1868_end"/> Nebenstehendes: Schreiben <hi rend="italic">an
                            des Herrn Minister von Fritsch</hi>, wegen eines neuen Assistenten. <hi rend="italic">Herrn Hofrath Winkler</hi>, Ankündigung der 300 Thlr. –
                         Sonstige Vorsehung wegen des Dresdener Kunstvereins. Unterhaltung mit
                         Rinaldo wegen öconomischer und Kasse-Angelegenheiten. Briefe von Mylius und
@@ -2248,10 +2144,7 @@
          <pb n="343"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-12-14"/>14. <milestone unit="testimony"
-                          spanTo="#graef_1871_end"
-                          xml:id="graef_1871"
-                          next="#graef_1871_b"/>Bey
+                        <date when="1830-12-14"/>14. <milestone unit="testimony" spanTo="#graef_1871_end" xml:id="graef_1871" next="#graef_1871_b"/>Bey
                         Zeiten zu arbeiten angefangen. Das <rs>Poetische</rs> blieb im Gange.<anchor xml:id="graef_1871_end"/> Nebenstehendes: <hi rend="italic">Herrn
                            Professor Dr. Zelter</hi>, Berlin. <hi rend="italic">An Fräulein Adele
                            Schopenhauer</hi>, Bonn. 300 Thaler sächsisch nach Dresden<hi rend="italic"> an Hofrath Winkler</hi>. – Einiges auf die Streitigkeit
@@ -2268,10 +2161,7 @@
          <pb n="343"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-12-15"/>15. <milestone unit="testimony"
-                          spanTo="#graef_1872_end"
-                          xml:id="graef_1872"
-                          next="#graef_1872_b"/>An
+                        <date when="1830-12-15"/>15. <milestone unit="testimony" spanTo="#graef_1872_end" xml:id="graef_1872" next="#graef_1872_b"/>An
                            <rs>Faust</rs> fortgefahren.<anchor xml:id="graef_1872_end"/> Kamen
                         Briefe von Geoffroy de St. Hilaire von Paris, von Kaufmann Paraviso und
                         Auctionator Schmidmer, beyde von Nürnberg. Maler Kaiser, daß er den <pb n="344"/> Winter hier bleiben wolle, vermeldend. Graf Santi, den ich
@@ -2289,10 +2179,7 @@
          <pb n="344"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-12-16"/>16. <milestone unit="testimony"
-                          spanTo="#graef_1873_end"
-                          xml:id="graef_1873"
-                          next="#graef_1873_b"/>An
+                        <date when="1830-12-16"/>16. <milestone unit="testimony" spanTo="#graef_1873_end" xml:id="graef_1873" next="#graef_1873_b"/>An
                            <rs>Faust</rs> fortgeschrieben.<anchor xml:id="graef_1873_end"/>
                         Oberaufsichtliche Geschäfte. Professor Wackenroder, von Helgoland referirend
                         und einige Gebirgsarten bringend; auch von dem calcedonisirten Sandstein
@@ -2309,10 +2196,7 @@
          <pb n="345"/>
          <div type="diaryentry">
                      <p rend="indentchar-m0n4">
-                        <date when="1830-12-17"/>17. <milestone unit="testimony"
-                          spanTo="#graef_1874_end"
-                          xml:id="graef_1874"
-                          next="#graef_1874_b"/>
+                        <date when="1830-12-17"/>17. <milestone unit="testimony" spanTo="#graef_1874_end" xml:id="graef_1874" next="#graef_1874_b"/>
                <rs>Abschluß von Faust und Mundum</rs> desselben.<anchor xml:id="graef_1874_end"/> Kamen an Jahrbücher der Litteratur, 51. Band,
                         1830. Ernst Meyer von Königsberg: De Plantis Labradoricis. Ein kindisches
                         Religionsbüchlein von Carové. Secretär Kräuter, brachte einige Dresdner

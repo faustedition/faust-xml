@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -173,8 +172,7 @@
                         geblieben,<pb n="41"/> und alle Erforschung und Erfahrung wäre nichts
                     gewesen als ein ganz todtes und vergebliches Bemühen. Das Licht ist da, und die
                     Farben umgeben uns; allein trügen wir kein Licht und keine Farben im eigenen
-                    Auge, so würden wir auch außer uns dergleichen nicht wahrnehmen.«<anchor
-                        xml:id="graef_1265_end"/></p>
+                    Auge, so würden wir auch außer uns dergleichen nicht wahrnehmen.«<anchor xml:id="graef_1265_end"/></p>
                 <lb/>
                 <p>
                     <anchor xml:id="F151"/>
@@ -202,8 +200,7 @@
                     Tage weghelfen; ist es doch, als ob das Bewußtsein, in wenig Tagen der Sonne
                     wieder näher zu kommen, uns schon jetzt erwärmte.«</p>
                 <p rend="indentchar-m4n0"> Ich brachte ihm von Gagern merkwürdige Handschriften. Er
-                    holte ähnliche herbei in großer Zahl. Eckermann trat ein, <milestone
-                        unit="testimony" spanTo="#graef_1273_end" xml:id="graef_1273"/>das Gespräch
+                    holte ähnliche herbei in großer Zahl. Eckermann trat ein, <milestone unit="testimony" spanTo="#graef_1273_end" xml:id="graef_1273"/>das Gespräch
                     kam auf Byron's Conversations. »Ich lese sie nun zum zweiten Male, ich möchte
                     sie nicht missen und doch lassen sie einen peniblen Eindruck zurück. Wie viel
                     Geklatsche oft nur um eine elende Kleinigkeit; welche Empfindlichkeit über jedes
@@ -271,8 +268,7 @@
                     freundlich, und Goethe bat uns darauf, Platz zu nehmen.</p>
                 <p rend="indentchar-m4n0"> Die Persönlichkeit des Herrn H. mußte auf Goethe einen
                     guten Eindruck machen, denn seine große Liebenswürdigkeit und heitere Milde
-                    zeigte sich dem Fremden gegenüber heute in ihrer wahren Schönheit. »Sie <pb
-                        n="123"/> haben wohlgethan,« sagte er, »daß Sie, um deutsch zu lernen, zu
+                    zeigte sich dem Fremden gegenüber heute in ihrer wahren Schönheit. »Sie <pb n="123"/> haben wohlgethan,« sagte er, »daß Sie, um deutsch zu lernen, zu
                     uns herübergekommen sind, wo Sie nicht allein die Sprache leicht und schnell
                     gewinnen, sondern auch die Elemente, worauf sie ruht, unsern Boden, Klima,
                     Lebensart, Sitten, gesellschaftlichen Verkehr, Verfassung und dergleichen mit
@@ -390,8 +386,7 @@
                     </ref> gemacht habe. Ich konnte zugleich ihr nicht gewöhnliches Talent rühmen,
                     und Goethe, der einige ihrer Produkte gleichfalls kannte, stimmte in dieses Lob
                     mit ein. »Eins von ihren Gedichten,« sagte er, »wo sie eine Gegend ihrer Heimath
-                    beschreibt, ist von einem höchst eigenthümlichen Character. Sie hat eine <pb
-                        n="128"/> gute Richtung auf äußere Gegenstände, auch fehlt es ihr nicht an
+                    beschreibt, ist von einem höchst eigenthümlichen Character. Sie hat eine <pb n="128"/> gute Richtung auf äußere Gegenstände, auch fehlt es ihr nicht an
                     guten innern Eigenschaften. Freilich wäre auch manches an ihr auszusetzen, wir
                     wollen sie jedoch gehen lassen und sie auf dem Wege nicht irren, den das Talent
                     ihr zeigen wird.«</p>
@@ -676,8 +671,7 @@
                     qui trouve insupportable l'archaisme de M. Courier, toutes les fois que la
                     passionne vient pas l'ani mer et le rajeunir, et qui préfère incomparablement la
                     prose simple et mâle du XVII<hi rend="sup">e</hi> siècle <pb n="180"/> à la
-                    langue souple et gracieuse, il est vrai, mais déjà maniérée du XVI<hi rend="sup"
-                        >e</hi>. Mais ne voulant pas contredire l'illustre vieillard, et voyant que
+                    langue souple et gracieuse, il est vrai, mais déjà maniérée du XVI<hi rend="sup">e</hi>. Mais ne voulant pas contredire l'illustre vieillard, et voyant que
                     je n'en pourrais tirer davantage sur la France, je changeai de sujet: »Du moins«
                     – lui dis-je – »je suis heureux que, parmi les choses dont vous pouvez vous
                     occuper, vous ayez mis la nouvelle littérature italienne et mon ami Manzoni.« –
@@ -707,11 +701,9 @@
                 <p rend="indentchar-m4n0"> Là-dessus je lui dis avec un peu d'émotion: »Les
                     sentiments d'Adelchi mourant sont ceux de Manzoni lui-mème. Manzoni, qui est
                     toujours un poëte lyrique, s'est peint dans Adelchi.« – »Oui, vraiment? Il y a
-                    longtemps que j'avais connu son âme et sa manière de sentir dans ses <hi
-                        rend="italic">Inni sacri</hi>. C'est un catholique naïf et vertueux.«</p>
+                    longtemps que j'avais connu son âme et sa manière de sentir dans ses <hi rend="italic">Inni sacri</hi>. C'est un catholique naïf et vertueux.«</p>
                 <p rend="indentchar-m4n0"> Je lui exprimai ma reconnaisance, comme ami de Manzoni,
-                    de ce qu'il avait eu la bonté de le défendre contre la critique du <hi
-                        rend="italic">Quarterly Review</hi>. Il me répondit, avec un accent vrai et
+                    de ce qu'il avait eu la bonté de le défendre contre la critique du <hi rend="italic">Quarterly Review</hi>. Il me répondit, avec un accent vrai et
                     profond: »J'en fais grand cas, j'en fais grand cas! Adelchi est un plus grand
                     sujet; mais le comte de Carmagnola a <pb n="182"/> bien de la profondeur. Et la
                     partie lyrique en est si belle que ce méchant critique anglais l'a louée et même
@@ -892,16 +884,14 @@
                     Klettenberg mich dazu veranlaßt hat; es steht in der Überschrift: auf Verlangen
                     entworfen, und ich wüßte nicht, wer von meinen Freunden einen solchen Gegenstand
                     anders hätte verlangen können. Es fehlte mir damals an Stoff, und ich war
-                    glücklich, wenn ich nur etwas hatte, das ich besingen konnte. Noch dieser<pb
-                        n="274"/> Tage fiel mir ein Gedicht aus jener Zeit in die Hände, das ich in
+                    glücklich, wenn ich nur etwas hatte, das ich besingen konnte. Noch dieser<pb n="274"/> Tage fiel mir ein Gedicht aus jener Zeit in die Hände, das ich in
                     englischer Sprache geschrieben, und worin ich mich über den Mangel an poetischen
                     Gegenständen beklage. Wir Deutschen sind auch wirklich schlimm daran: unsere
                     Urgeschichte liegt zu sehr im Dunkel, und die spätere hat aus Mangel eines
                     einzigen Regentenhauses kein allgemeines nationales Interesse. Klopstock
                     versuchte sich am Hermann, allein der Gegenstand liegt zu entfernt, niemand hat
                     dazu ein Verhältniß, niemand weiß, was er damit machen soll, und seine
-                    Darstellung ist daher ohne Wirkung und Popularität geblieben. <milestone
-                        unit="testimony" spanTo="#graef_1334_end" xml:id="graef_1334"/>Ich that
+                    Darstellung ist daher ohne Wirkung und Popularität geblieben. <milestone unit="testimony" spanTo="#graef_1334_end" xml:id="graef_1334"/>Ich that
                     einen glücklichen Griff mit meinem ›Götz von Berlichingen‹; das war doch Bein
                     von meinem Bein und Fleisch von meinem Fleisch, und es war schon etwas damit zu
                     machen.</p>
@@ -955,8 +945,7 @@
                     nämlich: er gäbe Plan und Hauptgedanken, das Skelett der Scenen an, lasse aber
                     die Schüler dann ausführen und retouchire nur zuletzt. Es schien fast, als wäre
                     er der Meinung, daß es gar nicht der Mühe werth sei, für einen Mann von Walter
-                    Scott's Eminenz, seine Zeit zu soviel fastidieusen Details herzugeben.<anchor
-                        xml:id="N180"/>
+                    Scott's Eminenz, seine Zeit zu soviel fastidieusen Details herzugeben.<anchor xml:id="N180"/>
                     <ref target="F180">
                         <hi rend="sup">1</hi>
                     </ref> »Hätte ich« – setzte er hinzu – »mich zu bloßem Gewinnsuchen verstehen
@@ -987,8 +976,7 @@
                     Meinung indeß ziemlich warm. Er kam hier auf seine Lieblingsidee, die er
                     mehrmals wiederholte, nämlich daß jeder nur darum bekümmert sein solle, in
                     seiner speciellen Sphäre, groß oder klein, recht treu und mit Liebe
-                    fortzuwirken, so werde der allgemeine Segen auch unter keiner Regierungsform <pb
-                        n="307"/> ausbleiben. Er für seine Person habe es nicht anders gemacht, und
+                    fortzuwirken, so werde der allgemeine Segen auch unter keiner Regierungsform <pb n="307"/> ausbleiben. Er für seine Person habe es nicht anders gemacht, und
                     ich mache es in Muskau ja ebenfalls so – setzte er gutmüthig hinzu –
                     unbekümmert, was andere Interessen geböten. Ich meinte nun freilich mit aller
                     Bescheidenheit, daß, so wahr und herrlich dieser Grundsatz sei, ich doch glaube,
@@ -1000,8 +988,7 @@
                     führte endlich, vielleicht ungeschickt, England als Beleg für meine Behauptung
                     an. Er erwiederte gleich: das Beispiel sei nicht zum besten gewählt; denn in
                     keinem Lande herrsche eben Egoismus mehr vor, kein Volk sei vielleicht
-                    wesentlich inhumaner in politischen und Privatverhältnissen;<anchor
-                        xml:id="N181"/>
+                    wesentlich inhumaner in politischen und Privatverhältnissen;<anchor xml:id="N181"/>
                     <ref target="F181">
                         <hi rend="sup">2</hi>
                     </ref> nicht von außen herein durch Regierungsform käme das Heil, sondern von
@@ -1011,8 +998,7 @@
                 <p rend="indentchar-m4n0">
                     <pb n="308"/> Von Lord Byron redete er nachher mit vieler Liebe, fast wie ein
                     Vater von seinem Sohne, was meinem hohen Enthusiasmus für diesen großen Dichter
-                    sehr wohl that. <milestone unit="testimony" spanTo="#graef_1410_end"
-                        xml:id="graef_1410"/>Er widersprach unter andern auch der albernen
+                    sehr wohl that. <milestone unit="testimony" spanTo="#graef_1410_end" xml:id="graef_1410"/>Er widersprach unter andern auch der albernen
                     <rs>Behauptung, daß »Manfred« eine Nachbetung seines »Faust«</rs> sei; doch sei es ihm
                     allerdings als etwas Interessantes aufgefallen, daß Byron unbewußt sich
                     derselben Maske des Mephistopheles wie er bedient habe, obgleich freilich Byron
@@ -1054,13 +1040,11 @@
                         November.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1423_end"
-                        xml:id="graef_1423"/>Goethe sprach heute abermals mit Bewunderung über Lord
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1423_end" xml:id="graef_1423"/>Goethe sprach heute abermals mit Bewunderung über Lord
                     Byron. »Ich habe,« sagte er, »seinen ›Deformed Transformed‹ wieder gelesen und
                     muß sagen, daß sein Talent mir immer größer vorkommt. <rs>Sein Teufel ist aus meinem
                     Mephistopheles hervorgegangen, aber es ist keine Nachahmung</rs>, es ist alles
-                    durchaus originell und neu, und alles knapp, tüchtig und geistreich.<anchor
-                        xml:id="graef_1423_end"/> Es ist keine Stelle darin, die schwach wäre, nicht
+                    durchaus originell und neu, und alles knapp, tüchtig und geistreich.<anchor xml:id="graef_1423_end"/> Es ist keine Stelle darin, die schwach wäre, nicht
                     so viel Platz um den Knopf einer Nadel hinzusetzen, wo man nicht auf Erfindung
                     und Geist träfe. Ihm ist nichts im Wege als das Hypochondrische und negative,
                     und er wäre so groß wie Shakespeare und <pb n="319"/> die Alten.« Ich wunderte
@@ -1111,8 +1095,7 @@
                         November.</date></head>
                 <head>Mit <persName>Johann Peter Eckermann</persName></head>
 
-                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1432_end"
-                        xml:id="graef_1432"/>Lord Byron's ›Deformed Transformed‹ hatte ich nun auch
+                <p rend="indentchar-m4n0"><milestone unit="testimony" spanTo="#graef_1432_end" xml:id="graef_1432"/>Lord Byron's ›Deformed Transformed‹ hatte ich nun auch
                     gelesen und sprach mit Goethe darüber nach Tische.</p>
                 <p rend="indentchar-m4n0">
                     <pb n="321"/> »Nicht wahr,« sagte er, »die ersten Scenen sind groß und zwar
@@ -1156,8 +1139,7 @@
                     ist für ihn nicht da; er wie sein Pferd empfinden nichts, es wird ihnen kein
                     Haar bewegt.</p>
                 <p>Wir hatten an dieser geistreichen Composition große Freude. »Da muß man doch
-                    gestehen,« sagte Goethe, »daß man es sich selbst nicht so vollkommen gedacht <pb
-                        n="323"/> hat. Hier haben Sie ein anderes Blatt, was sagen Sie zu
+                    gestehen,« sagte Goethe, »daß man es sich selbst nicht so vollkommen gedacht <pb n="323"/> hat. Hier haben Sie ein anderes Blatt, was sagen Sie zu
                     diesem?«</p>
                 <p>Die wilde Trinkscene in Auerbach's Keller sah ich dargestellt und zwar, als
                     Quintessenz des Ganzen, den bedeutendsten Moment, wo der verschüttete Wein als

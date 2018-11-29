@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?> 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,15 +22,11 @@
             <div type="text">
                 <p><anchor xml:id="N1"/><ref target="#F1">*)</ref> <milestone unit="testimony" spanTo="#bie3_6273_end" xml:id="bie3_6273"/>Es war im Winter vom Jahre 1828
                     auf 1829 — vermuthlich noch 1828 <hi rend="letter-spaced">vor</hi> 12. December
-                    — als der <hi rend="letter-spaced">Kanzler von Müller</hi> mit den Freunden <hi
-                        rend="letter-spaced">Riemer, Eckermann</hi> und <hi rend="letter-spaced"
-                        >Laroche</hi> einen Beſuch bei Goethe machte. Goethes Sohn Auguſt hatte ſich
+                    — als der <hi rend="letter-spaced">Kanzler von Müller</hi> mit den Freunden <hi rend="letter-spaced">Riemer, Eckermann</hi> und <hi rend="letter-spaced">Laroche</hi> einen Beſuch bei Goethe machte. Goethes Sohn Auguſt hatte ſich
                     ihnen gleichfalls angeſchloſſen.</p>
                 <p>Sie kamen mit der Mittheilung, <hi rend="letter-spaced">daß ſie eine
-                        <rs>Fauſtaufführung</rs></hi> auf der Weimarer Bühne <hi rend="letter-spaced"
-                        >beſchloſſen hätten</hi>.</p>
-                <p>Es war dieß bisher noch von keiner Bühne verſucht worden. In <hi
-                        rend="letter-spaced">Braunſchweig</hi> beabſichtigte man unter der Direction
+                        <rs>Fauſtaufführung</rs></hi> auf der Weimarer Bühne <hi rend="letter-spaced">beſchloſſen hätten</hi>.</p>
+                <p>Es war dieß bisher noch von keiner Bühne verſucht worden. In <hi rend="letter-spaced">Braunſchweig</hi> beabſichtigte man unter der Direction
                         <hi rend="letter-spaced">Klingemanns</hi>, der ſelbſt ein volksbeliebtes
                     Spectakelſtück Fauſt auf die Bühne gebracht hatte, auf den Wunſch des Herzogs
                     Karl, eine Darſtellung und kam damit auch den 18. Januar 1829 Weimar zuvor.</p>
@@ -47,19 +43,15 @@
                     Darüber fuhr Goethe auf wie von einer Bremſe geſtochen.</p>
                 <p>„Glaubt man denn daß ich, wenn ich gewollt hätte, nicht ſelbſt den Fauſt auf die
                     Bühne bringen konnte? — Iſt es billig, über meine Werke zu verfügen, ohne zu
-                    fragen, was ich ſelbſt damit vorhabe? — Bin ich denn nicht mehr am Leben? — <hi
-                        rend="letter-spaced">Beſchloſſen hat man?</hi> Man hat demnach <hi
-                        rend="letter-spaced">beſchloſſen</hi> ohne mich auch nur zu fragen!“</p>
-                <p>Voll Majeſtät in ſeinem Zorn ging er bei dieſen Worten <pb n="XCVI"
-                        facs="schroeer1886_1_r0096.jpg"/>im Zimmer auf und ab. Die Freunde befanden
+                    fragen, was ich ſelbſt damit vorhabe? — Bin ich denn nicht mehr am Leben? — <hi rend="letter-spaced">Beſchloſſen hat man?</hi> Man hat demnach <hi rend="letter-spaced">beſchloſſen</hi> ohne mich auch nur zu fragen!“</p>
+                <p>Voll Majeſtät in ſeinem Zorn ging er bei dieſen Worten <pb n="XCVI" facs="schroeer1886_1_r0096.jpg"/>im Zimmer auf und ab. Die Freunde befanden
                     ſich in der peinlichſten Lage.</p>
                 <p>Es ging damit aber doch den Weg, wie ſo manches Andre, das anfangs auf ſeinen
                     Widerſpruch ſtieß und ſchließlich doch durchgeführt wurde. Goethe machte ſich
                     mit dem Gedanken vertraut und äußerte denn endlich eines Tages gegen ſeine
                     vermittelnde Schwiegertochter Ottilie: „Wenn man denn durchaus den Fauſt zur
                     Darſtellung bringen will, ſo ſoll er mindeſtens nicht ſo zur Darſtellung kommen,
-                    wie <hi rend="letter-spaced">ſie</hi> ſich ihn etwa denken, ſondern <hi
-                        rend="letter-spaced">ſo</hi> wie <hi rend="letter-spaced">ich</hi> ihn haben
+                    wie <hi rend="letter-spaced">ſie</hi> ſich ihn etwa denken, ſondern <hi rend="letter-spaced">ſo</hi> wie <hi rend="letter-spaced">ich</hi> ihn haben
                     will!“<anchor xml:id="bie3_6273_end"/> —</p>
                 <p>Dieß muß vor dem 12. December geweſen ſein, den wir ſchon oben als den
                     vermuthlichen Zeitpunkt annahmen, <hi rend="letter-spaced">vor</hi> dem die
@@ -75,8 +67,7 @@
                     für die Darſtellung nach Goethes Anordnung wichtig iſt. Sie lautet:</p>
                 <p>„Da Sie gefälligſt kleine Aufträge auszuführen ſich erboten haben, ſo wollte ich
                     Sie um Folgendes erſuchen. Fürſt Radziwill, welcher verſchiedene
-                    Privataufführungen einiger Scenen meines Fauſt begünſtigte, ließ die <hi
-                        rend="letter-spaced">Erſcheinung des Geiſtes</hi> in der erſten Scene auf
+                    Privataufführungen einiger Scenen meines Fauſt begünſtigte, ließ die <hi rend="letter-spaced">Erſcheinung des Geiſtes</hi> in der erſten Scene auf
                     eine phantasmagoriſche Weiſe vorſtellen, daß nämlich bei verdunkeltem Theater,
                     auf eine im Hintergrund aufgeſpannte Leinwand, von hinten her ein erſt
                     kleinerer, dann ſich immer vergrößernder lichter Kopf geworfen wurde, welcher
@@ -86,23 +77,17 @@
                     man einen gleichen erlangen könnte und was man allenfalls dafür entrichten
                     müßte? <hi rend="letter-spaced">Das vorzuſtellende Bild würde man von hier aus
                         dem Künſtler zuſenden</hi>.“</p>
-                <p>Enslin macht zu dieſem Briefe a. a. O. S. 15 die Be<pb n="XCVII"
-                        facs="schroeer1886_1_r0097.jpg"/>merkung: „Ein derartiger Apparat kömmt auch
+                <p>Enslin macht zu dieſem Briefe a. a. O. S. 15 die Be<pb n="XCVII" facs="schroeer1886_1_r0097.jpg"/>merkung: „Ein derartiger Apparat kömmt auch
                     bei den jetzigen Fauſt-Aufführungen in Weimar zur Anwendung. Die Wirkung iſt
                     gut; weniger zu loben iſt aber, <hi rend="letter-spaced">daß die Worte des
                         Erdgeiſtes durch ein Sprachrohr geſprochen werden</hi>.“</p>
-                <p><milestone unit="testimony" spanTo="#bie3_6681_end" xml:id="bie3_6681"/>Laroche erinnert ſich, daß bei der <rs>erſten Fauſtdarſtellung</rs> <hi
-                        rend="letter-spaced">ein Rieſenantlitz faſt den ganzen Hintergrund
+                <p><milestone unit="testimony" spanTo="#bie3_6681_end" xml:id="bie3_6681"/>Laroche erinnert ſich, daß bei der <rs>erſten Fauſtdarſtellung</rs> <hi rend="letter-spaced">ein Rieſenantlitz faſt den ganzen Hintergrund
                         erfüllte</hi> und daß dieſe Darſtellung des Erdgeiſtes dann auch auf die der
                     Wiener Hofburg überging<anchor xml:id="N2"/><ref target="#F2">*)</ref>. Die
-                    Worte des Erdgeiſtes wurden aber nach einer Compoſition <hi rend="letter-spaced"
-                        >Karl Eberweins</hi>, wie Laroche erzählt, <hi rend="letter-spaced"
-                        >geſungen</hi><anchor xml:id="N3"/><ref target="#F3">**)</ref>.</p>
+                    Worte des Erdgeiſtes wurden aber nach einer Compoſition <hi rend="letter-spaced">Karl Eberweins</hi>, wie Laroche erzählt, <hi rend="letter-spaced">geſungen</hi><anchor xml:id="N3"/><ref target="#F3">**)</ref>.</p>
                 <p>Nachdem denn Goethe erklärt hatte, daß er gegen eine Fauſtaufführung nichts
-                    weiter einwenden wolle, daß er aber wünſche, daß ſie in <hi rend="letter-spaced"
-                        >ſeinem Sinn</hi> vorgenommen werde, ließ er vorerſt eine Geſellſchaft von
-                    Freunden und Mitgliedern der Bühne ſich in ſeinem Hauſe verſammeln, denen <hi
-                        rend="letter-spaced">er den ganzen erſten Theil vorlas</hi>. —
+                    weiter einwenden wolle, daß er aber wünſche, daß ſie in <hi rend="letter-spaced">ſeinem Sinn</hi> vorgenommen werde, ließ er vorerſt eine Geſellſchaft von
+                    Freunden und Mitgliedern der Bühne ſich in ſeinem Hauſe verſammeln, denen <hi rend="letter-spaced">er den ganzen erſten Theil vorlas</hi>. —
                     Wahrſcheinlich doch wol mit den Weglaſſungen, die bei der Aufführung nothwendig
                     eintreten mußten; denn daß er Alles bis auf den Walpurgisnachtstraum geleſen
                     haben ſollte, wird nicht anzunehmen ſein.</p>
@@ -146,13 +131,11 @@
                     den 2. September unter anderm Folgendes: „Es iſt wunderlich genug, daß dieſe
                     ſeltſame Frucht erſt jetzt gleichſam vom Baume fällt. Auch hier hat man ihn
                     gegeben, <hi rend="letter-spaced">ohne meine Anregung, aber nicht wider meinen
-                        Willen</hi> und <hi rend="letter-spaced">nicht ohne meine Bil<pb
-                        n="XCIX" facs="schroeer1886_1_r0099.jpg"/>ligung
+                        Willen</hi> und <hi rend="letter-spaced">nicht ohne meine Bil<pb n="XCIX" facs="schroeer1886_1_r0099.jpg"/>ligung
                         der Art und Weiſe, wie man ſich dabei benommen</hi>.“ — —</p>
                 <p>Nach einer weiteren Mittheilung von Rochlitz ſchreibt er den 29. September unter
                     anderm zurück: „Bei meiner vieljährigen Theaterverwaltung habe ich eine ſolche
-                    oft verlangte, ja dringend geforderte Vorſtellung <hi rend="letter-spaced"
-                        >niemals begünſtigt und ſie auch jetzt hier am Orte nur geſchehn
+                    oft verlangte, ja dringend geforderte Vorſtellung <hi rend="letter-spaced">niemals begünſtigt und ſie auch jetzt hier am Orte nur geſchehn
                         laſſen.</hi>“ — —</p>
                 <p>Das Vorhaben von 1810 war demnach offenbar nur ein vorübergehender Einfall, auf
                     den er ſchon ganz vergeſſen oder, was wahrſcheinlicher iſt, der nie ſoweit
@@ -164,8 +147,7 @@
                     Mühe genommen ſie ihnen einzuſtudiren, antwortete mir dieſer 9. Auguſt 1880 aus
                     Gmunden: „Nachdem Goethe endlich ſeine Einwilligung zur Aufführung des Fauſt
                     gegeben, die Scenenfolge und was er melodramatiſch wünſchte angeführt, hat er
-                    ſich meines Wiſſens mit den Darſtellern der andern Rollen <hi
-                        rend="letter-spaced">nicht befaßt</hi>, höchſtens durch Eckermann einige
+                    ſich meines Wiſſens mit den Darſtellern der andern Rollen <hi rend="letter-spaced">nicht befaßt</hi>, höchſtens durch Eckermann einige
                     Winke geben laſſen.“<anchor xml:id="bie3_6681_end"/></p>
                 <p>Fauſt ſelbſt war dem Dichter nicht ſo gegenſtändlich wie Mephiſtopheles, ſ. oben
                     S. <hi rend="antiqua">LXIV</hi> f.</p>
@@ -194,8 +176,7 @@
                         Menſchenkopf, der Leib aber iſt zottig.<lb/>Goethe hat ſeine Vorſtellung
                         nicht nach dem erſten Fauſtbuch, dem auch Marlowe folgt, ſondern nach den
                         ſpätern Volksbüchern oder Puppenſpielen gebildet.</ref></p>
-                <p><anchor xml:id="F3"/><ref target="#N3">**) S. oben darüber die Bemerkung S. <hi
-                            rend="antiqua">LXXVII</hi> f.</ref>
+                <p><anchor xml:id="F3"/><ref target="#N3">**) S. oben darüber die Bemerkung S. <hi rend="antiqua">LXXVII</hi> f.</ref>
                 </p>
             </div>
         </body>

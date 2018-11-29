@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -24,8 +24,7 @@
             <div type="letter">
                 <head type="editorial">An Schinz. <date when="1775-06-15">15. Juni
                     1775.</date></head>
-                <p>Hr. Lav. hat Göthen und die Grafen von Stolberg zu mir gebracht<anchor
-                        xml:id="N1"/><ref target="#F1"><hi rend="sup">3</hi></ref>. Ich habe auch
+                <p>Hr. Lav. hat Göthen und die Grafen von Stolberg zu mir gebracht<anchor xml:id="N1"/><ref target="#F1"><hi rend="sup">3</hi></ref>. Ich habe auch
                     Göthen bei Lav. einen Besuch gemacht. Die Grafen haben ein Landhaus in der
                         Enge<anchor xml:id="N2"/><ref target="#F2"><hi rend="sup">4</hi></ref>
                     gemiethet. Hr. Lav. hat Göthen eine vortheilhafte opinion von mir gemacht, die
@@ -38,13 +37,10 @@
                     mit der äussersten Unempfindlichkeit erduldet, solche Ideale von
                     Unerschrockenheit hat. Ist nicht Wehrter der blödeste, feigherzig[st]e Mann?
                     Aber es scheint, der Verf. halte die Feigheit, welche den Schmerzen der Liebe
-                    durch den Tod entflieht, für Stärke der Seele. <milestone unit="testimony"
-                        spanTo="#pniower_19_end" xml:id="pniower_19"/>Man sagt, Göthe wolle bey uns
+                    durch den Tod entflieht, für Stärke der Seele. <milestone unit="testimony" spanTo="#pniower_19_end" xml:id="pniower_19"/>Man sagt, Göthe wolle bey uns
                     an einem <rs>Trauerspiel von Dr. Faustus</rs> arbeiten. Eine Farçe lässt sich
                     von einem Schwindelkopf leicht daraus machen.<anchor xml:id="pniower_19_end"/>
-                    Die Stollbergen sind gute Menschen. Sie brachten <pb n="193"
-                        facs="gjb_5_0192-0193.jpg"/>mir die stärksten Grüsse von Klopstok<anchor
-                        xml:id="N3"/><ref target="#F3"><hi rend="sup">1</hi></ref>, den sie vor
+                    Die Stollbergen sind gute Menschen. Sie brachten <pb n="193" facs="gjb_5_0192-0193.jpg"/>mir die stärksten Grüsse von Klopstok<anchor xml:id="N3"/><ref target="#F3"><hi rend="sup">1</hi></ref>, den sie vor
                     kurzer Zeit in Hamburg gesprochen. Der jüngere will ein Bewunderer Homers seyn,
                     ein Homerist; ich sagte, dass wir demnach von einer Sekte wären; wir wollten
                     eine homerische Kirche anbauen, wie Lav. eine gottselige, ich durfte nicht sagen
@@ -55,10 +51,8 @@
                     Wielandisches Gedicht. Denn Wieland ist für den griechischen Apollo .... Hr.
                     Lav. hat sich bey Hr. Dr. Hirzel nicht empfohlen, dass er diese Hrn nicht auch
                     zu ihm geführt hat. Er hatte diese Höflichkeit doch mit dem Feuer verdient, mit
-                    welchem er gegen das Sendschreiben<anchor xml:id="N5"/><ref target="#F5"><hi
-                            rend="sup">3</hi></ref> entonirt hat. Er hat sie auch nicht zu
-                    Steinbrüchel und Hottinger<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup"
-                            >4</hi></ref> geführt.</p>
+                    welchem er gegen das Sendschreiben<anchor xml:id="N5"/><ref target="#F5"><hi rend="sup">3</hi></ref> entonirt hat. Er hat sie auch nicht zu
+                    Steinbrüchel und Hottinger<anchor xml:id="N6"/><ref target="#F6"><hi rend="sup">4</hi></ref> geführt.</p>
                 
                 <p><anchor xml:id="F1"/><ref target="#N1"><hi rend="sup">3</hi> Vergl. Hempel XXIII
                         64 ff.</ref></p>

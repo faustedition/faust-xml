@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,8 +35,7 @@
                 <p>Vor einigen Tagen communicirte er mir die Anfänge einer Fortſetzung von „Wahrheit
                     und Dichtung“, ein auf Quartblättern geſchriebenes Heft, kaum von der Stärke
                     eines Fingers. Einiges iſt ausgeführt, das meiſte jedoch nur in Andeutungen
-                    enthalten. Doch iſt bereits eine Abtheilung in <pb n="111"
-                        facs="duentzer1885_1_0111.jpg"/>fünf Bücher gemacht, und die ſchematiſirten
+                    enthalten. Doch iſt bereits eine Abtheilung in <pb n="111" facs="duentzer1885_1_0111.jpg"/>fünf Bücher gemacht, und die ſchematiſirten
                     Blätter ſind ſo zuſammengelegt, daß man bei einigem Studium den Inhalt des
                     Ganzen wohl überſehen kann.</p>
                 <p>Das bereits Ausgeführte erſcheint mir nun ſo vortrefflich und der Inhalt des
@@ -96,16 +95,14 @@
                 <p>Ob nun dieſer Plan zu „Fauſt“ mitzutheilen oder zurückzuhalten ſein wird, dieſer
                     Zweifel dürfte ſich dann beſeitigen laſſen, wenn man die bereits fertigen
                     Bruchſtücke zur Prüfung vor Augen hat und erſt darüber klar iſt, ob man überall
-                    die Hoffnung einer Fortſetzung des „Fauſt“ aufgeben muß oder nicht.<anchor
-                        xml:id="pniower_349_end"/></p>
+                    die Hoffnung einer Fortſetzung des „Fauſt“ aufgeben muß oder nicht.<anchor xml:id="pniower_349_end"/></p>
             </div>
             <div type="letter">
                 <head rend="centered">Viertes Buch.</head>
                 <p>Das dritte Buch ſchlöſſe mit dem Verſuch einer Trennung von Lili. Dieſes vierte
                     beginnt daher ſehr paſſend mit der Ankunft der Stolberge und Haugwitzens,
                     wodurch die Schweizerreiſe und mithin die erſte Flucht von Lili motivirt wird.
-                    Das über dieſes Buch vorhandene ausführliche Schema <pb n="113"
-                        facs="duentzer1885_1_0113.jpg"/>verſpricht uns die intereſſanteſten Dinge
+                    Das über dieſes Buch vorhandene ausführliche Schema <pb n="113" facs="duentzer1885_1_0113.jpg"/>verſpricht uns die intereſſanteſten Dinge
                     und erregt den Wunſch nach möglichſt detaillirter Ausführung auf das
                     lebendigſte. Die immer wieder hervorbrechende, nicht zu unterdrückende
                     Leidenſchaft zu Lili durchwärmt auch dieſes Buch mit der Glut jugendlicher Liebe
@@ -126,8 +123,7 @@
             <div type="conversation">
                 <head rend="right">Mittwoch den <date when="1825-04-20">20. April
                     1825</date>.</head>
-                <p><milestone unit="testimony" spanTo="#graef_1318_end" xml:id="graef_1318"
-                    />Goethe zeigte mir dieſen Abend einen Brief eines jungen Studirenden, der ihn
+                <p><milestone unit="testimony" spanTo="#graef_1318_end" xml:id="graef_1318"/>Goethe zeigte mir dieſen Abend einen Brief eines jungen Studirenden, der ihn
                     um den <rs>Plan zum zweiten Theil des „Fauſt“</rs> bittet, indem er den Vorſatz habe,
                     dieſes Werk ſeiner<pb n="144" facs="duentzer1885_1_0144.jpg"/>ſeits zu
                     vollenden.<anchor xml:id="graef_1318_end"/> Trocken, gutmüthig und

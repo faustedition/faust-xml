@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/xml/schema/faust-tei_neu.rng" type="xml"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,11 +39,9 @@
                 <lb/>
 
                 <p>Ich werde oft schreiben und den Winter durch immer im Geiste unter euch sein.
-                        <milestone unit="testimony" spanTo="#graef_868_end" xml:id="graef_868"
-                    />Tasso kommt nach dem neuen Jahre. <rs>Faust</rs> soll auf seinem Mantel als
+                        <milestone unit="testimony" spanTo="#graef_868_end" xml:id="graef_868"/>Tasso kommt nach dem neuen Jahre. <rs>Faust</rs> soll auf seinem Mantel als
                     Courier meine Ankunft melden. Ich habe alsdann eine Hauptepoche zurückgelegt,
-                    rein geendigt, und kann wieder anfangen und eingreifen, wo es nöthig ist.<anchor
-                        xml:id="graef_868_end"/>
+                    rein geendigt, und kann wieder anfangen und eingreifen, wo es nöthig ist.<anchor xml:id="graef_868_end"/>
                     <pb n="58"/> Ich fühle mir einen leichtern Sinn und bin fast ein andrer Mensch
                     als vor'm Jahr.</p>
                 <lb/>
@@ -87,8 +84,7 @@
                     beleuchtet alles mit eurem Lichte.</p>
                 <lb/>
                 <lb/>
-                <p>Die Ideen, die Gedichte sind noch nicht berührt. <milestone unit="testimony"
-                        spanTo="#graef_869b_end" xml:id="graef_869b"/>Meine Schriften mögen nun
+                <p>Die Ideen, die Gedichte sind noch nicht berührt. <milestone unit="testimony" spanTo="#graef_869b_end" xml:id="graef_869b"/>Meine Schriften mögen nun
                     gehen, ich will treulich fortfahren. Die vier <rs>Kupfer zu den letzten
                         Bänden</rs> sollen hier werden.<anchor xml:id="graef_869b_end"/></p>
                 <lb/>
@@ -123,8 +119,7 @@
                 <lb/>
                 <lb/>
                 <p>Plato wollte keinen ageometreton in seiner Schule leiden; wäre ich im Stande eine
-                    zu machen, ich litte keinen, der sich nicht irgend ein Naturstudium ernst <pb
-                        n="107"/> und eigentlich gewählt. Neulich fand ich in einer leidig
+                    zu machen, ich litte keinen, der sich nicht irgend ein Naturstudium ernst <pb n="107"/> und eigentlich gewählt. Neulich fand ich in einer leidig
                     apostolisch-capuzinermäßigen Declamation des Züricher Propheten die unsinnigen
                     Worte: Alles was Leben hat, lebt durch etwas außer sich. Oder so ungefähr
                     klang's. Das kann nun so ein Heidenbekehrer hinschreiben, und bei der Revision
@@ -186,10 +181,8 @@
                     machen wollen; wenn ihr sagt, daß es gemacht ist, so habe ich meinen Endzweck
                     erreicht. Es war eine unsäglich schwere Aufgabe, die ich ohne eine ungemessene
                     Freiheit des Lebens und des Gemüths nie zu Stande gebracht hätte. Man denke, was
-                    das sagen will: ein Werk vornehmen, was zwölf Jahre früher geschrieben ist, <pb
-                        n="136"/> es vollenden ohne es umzuschreiben. Die besondern Umstände der
-                    Zeit haben mir die Arbeit erschwert und erleichtert. <milestone unit="testimony"
-                        spanTo="#graef_870_end" xml:id="graef_870"/>Nun liegen noch so zwei Steine
+                    das sagen will: ein Werk vornehmen, was zwölf Jahre früher geschrieben ist, <pb n="136"/> es vollenden ohne es umzuschreiben. Die besondern Umstände der
+                    Zeit haben mir die Arbeit erschwert und erleichtert. <milestone unit="testimony" spanTo="#graef_870_end" xml:id="graef_870"/>Nun liegen noch so zwei Steine
                     vor mir: <rs>Faust und Tasso</rs>. Da die barmherzigen Götter mir die Strafe des
                     Sisyphus auf die Zukunft erlassen zu haben scheinen, hoffe ich auch diese
                     Klumpen den Berg hinauf zu bringen. Bin ich einmal damit oben, dann soll es
@@ -360,8 +353,7 @@
                     erst die Studien gemacht, und alles Detail ist mir nun recht lebendig. Ich freue
                     mich auch darauf und habe die beste Hoffnung zu den drei letzten Bänden, ich
                     sehe sie im Ganzen schon vor mir stehen und wünsche mir nur Muße und
-                    Gemüthsruhe, um nun Schritt vor Schritt das Gedachte auszuführen.<anchor
-                        xml:id="graef_875_end"/></p>
+                    Gemüthsruhe, um nun Schritt vor Schritt das Gedachte auszuführen.<anchor xml:id="graef_875_end"/></p>
                 <lb/>
                 <lb/>
 
@@ -398,32 +390,31 @@
             <div>
                 <head rend="center">März.</head>
 
-                <p>Functionen in der Sixtin. Capelle. &#0160;&#0160;&#0160; Neues Quartier, Aussicht
-                    in die blühende Gegend. &#0160;&#0160;&#0160; Raphaels Schädel zu St. Luca.
-                        <milestone unit="testimony" spanTo="#quz_I-272_end" xml:id="quz_I-272"
-                        /><rs>Faust spukt indessen</rs>.<anchor xml:id="quz_I-272_end"/>
-                    &#0160;&#0160;&#0160; Exequien des Cardinal Visconti. &#0160;&#0160;&#0160;
-                    Determination zur Rückreise. &#0160;&#0160;&#0160; Conflict der Beschäftigungen
-                    und Aufgaben. &#0160;&#0160;&#0160; Charwoche und Osterfeyerlichkeiten.</p>
+                <p>Functionen in der Sixtin. Capelle.     Neues Quartier, Aussicht
+                    in die blühende Gegend.     Raphaels Schädel zu St. Luca.
+                        <milestone unit="testimony" spanTo="#quz_I-272_end" xml:id="quz_I-272"/><rs>Faust spukt indessen</rs>.<anchor xml:id="quz_I-272_end"/>
+                        Exequien des Cardinal Visconti.    
+                    Determination zur Rückreise.     Conflict der Beschäftigungen
+                    und Aufgaben.     Charwoche und Osterfeyerlichkeiten.</p>
             </div>
 
             <!-- quz_I-273, WA I, 32, 467 -->
             <div>
                 <head rend="center">März.</head>
 
-                <p>Charwoche. &#0160;&#0160;&#0160; Marcello's Psalmen. &#0160;&#0160;&#0160;
+                <p>Charwoche.     Marcello's Psalmen.    
                         <milestone unit="testimony" spanTo="#quz_I-273_end" xml:id="quz_I-273"/>Die
-                    drey letzten Bände überdacht. &#0160;&#0160;&#0160; <rs>Faust und Tasso kommen
-                        zur Sprache</rs>.<anchor xml:id="quz_I-273_end"/> &#0160;&#0160;&#0160;
-                    Mengs Schriften. &#0160;&#0160;&#0160; Die Farbe tritt vor.
-                    &#0160;&#0160;&#0160; Sammlung der Academie S. Luca und Raphaels Schädel.
-                    &#0160;&#0160;&#0160; Exequien des Cardinal Visconti. &#0160;&#0160;&#0160;
-                    Modelliren. &#0160;&#0160;&#0160; Ablösen nach und nach. &#0160;&#0160;&#0160;
-                    Musik der Sixtinischen Capelle in dem Saale gehört. &#0160;&#0160;&#0160; Die
-                    heil. Woche ist vorüber. &#0160;&#0160;&#0160; Die Functionen sämmtlich gesehn.
-                    &#0160;&#0160;&#0160; Lärmige Auferstehung Christi. &#0160;&#0160;&#0160;
-                    Falkisches Institut in Rom. &#0160;&#0160;&#0160; Sieben Hauptkirchen.
-                    &#0160;&#0160;&#0160; Largition in der Villa Massimi.</p>
+                    drey letzten Bände überdacht.     <rs>Faust und Tasso kommen
+                        zur Sprache</rs>.<anchor xml:id="quz_I-273_end"/>    
+                    Mengs Schriften.     Die Farbe tritt vor.
+                        Sammlung der Academie S. Luca und Raphaels Schädel.
+                        Exequien des Cardinal Visconti.    
+                    Modelliren.     Ablösen nach und nach.    
+                    Musik der Sixtinischen Capelle in dem Saale gehört.     Die
+                    heil. Woche ist vorüber.     Die Functionen sämmtlich gesehn.
+                        Lärmige Auferstehung Christi.    
+                    Falkisches Institut in Rom.     Sieben Hauptkirchen.
+                        Largition in der Villa Massimi.</p>
             </div>
 
             <!-- quz_I-277, WA I, 32, 480 -->
@@ -431,9 +422,7 @@
                 <head rend="center">März.</head>
 
                 <p>1. Sixtinische Capelle. 5. Neues Quartier Aussicht in die blühende Gegend. 6.
-                    Raphaels Schädel. 7. <milestone unit="testimony" spanTo="#quz_I-277_end"
-                        xml:id="quz_I-277"/><rs>Faust</rs> kommt zur Sprache.<anchor
-                        xml:id="quz_I-277_end"/> Exequien des Cardinals Visconti. 9. Sixtinische
+                    Raphaels Schädel. 7. <milestone unit="testimony" spanTo="#quz_I-277_end" xml:id="quz_I-277"/><rs>Faust</rs> kommt zur Sprache.<anchor xml:id="quz_I-277_end"/> Exequien des Cardinals Visconti. 9. Sixtinische
                     Capelle. 14. Determination zur Rückreise.</p>
             </div>
             
@@ -461,7 +450,7 @@
                         <cell rend="centered">Allgem. Betracht.</cell>
                     </row>
                     <row>
-                        <cell>1786 &#0160;&#0160;&#0160; Octbr.</cell>
+                        <cell>1786     Octbr.</cell>
                         <cell/>
                         <cell/>
                         <cell/>
@@ -474,7 +463,7 @@
                         <cell>Nichts ganz fremd </cell>
                     </row>
                     <row>
-                        <cell rend="right"> [Sontag]&#0160;&#0160;&#0160; 29.</cell>
+                        <cell rend="right"> [Sontag]    29.</cell>
                         <cell>Rom erreicht</cell>
                         <cell/>
                         <cell/>
@@ -562,7 +551,7 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell>&#0160;&#0160;&#0160; Stillschw.</cell>
+                        <cell>    Stillschw.</cell>
                     </row>
                     <row>
                         <cell rend="right">17.</cell>
@@ -579,7 +568,7 @@
                     </row>
                     <row>
                         <cell/>
-                        <cell>&#0160;&#0160;&#0160; Valle</cell>
+                        <cell>    Valle</cell>
                         <cell/>
                         <cell> gewahr</cell>
                         <cell/>
@@ -702,9 +691,7 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell><milestone unit="testimony" spanTo="#quz_I-83_end" xml:id="quz_I-83"
-                                next="#quz_I-83_b"/>Iph. fertig<anchor xml:id="quz_I-83_end"
-                            /></cell>
+                        <cell><milestone unit="testimony" spanTo="#quz_I-83_end" xml:id="quz_I-83" next="#quz_I-83_b"/>Iph. fertig<anchor xml:id="quz_I-83_end"/></cell>
                         <cell>Abbate Monti</cell>
                         <cell/>
                         <cell>Lob, Patrocinium,</cell>
@@ -731,8 +718,7 @@
                         <cell/>
                         <cell/>
                         <cell>
-                            <milestone unit="testimony" spanTo="#quz_I-83_end_b" xml:id="quz_I-83_b"
-                                next="#quz_I-83_c"/>Claudine<anchor xml:id="quz_I-83_end_b"/>
+                            <milestone unit="testimony" spanTo="#quz_I-83_end_b" xml:id="quz_I-83_b" next="#quz_I-83_c"/>Claudine<anchor xml:id="quz_I-83_end_b"/>
                         </cell>
                         <cell>aufgef. d.</cell>
                         <cell/>
@@ -772,9 +758,7 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell><milestone unit="testimony" spanTo="#quz_I-83_end_c"
-                                xml:id="quz_I-83_c"/>Egm. Tasso <rs>Faust</rs>.<anchor
-                                xml:id="quz_I-83_end_c"/></cell>
+                        <cell><milestone unit="testimony" spanTo="#quz_I-83_end_c" xml:id="quz_I-83_c"/>Egm. Tasso <rs>Faust</rs>.<anchor xml:id="quz_I-83_end_c"/></cell>
                         <cell/>
                         <cell/>
                         <cell/>
@@ -1135,8 +1119,7 @@
                         <cell/>
                         <cell/>
                         <cell/>
-                        <cell><milestone unit="testimony" spanTo="#quz_I-274_end" xml:id="quz_I-274"
-                                /><rs>Faust</rs>.<anchor xml:id="quz_I-274_end"/></cell>
+                        <cell><milestone unit="testimony" spanTo="#quz_I-274_end" xml:id="quz_I-274"/><rs>Faust</rs>.<anchor xml:id="quz_I-274_end"/></cell>
                         <cell>Card. Visconti </cell>
                         <cell>Neues </cell>
                         <cell/>
@@ -1233,7 +1216,7 @@
                         <cell> </cell>
                     </row>
                     <row>
-                        <cell rend="right">May &#0160;&#0160;&#0160; 1.</cell>
+                        <cell rend="right">May     1.</cell>
                         <cell>Florenz</cell>
                         <cell/>
                         <cell/>

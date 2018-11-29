@@ -1,6 +1,5 @@
-<?oxygen RNGSchema="https://faustedition.uni-wuerzburg.de/schema/1.3/faust-tei.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
-    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -163,8 +162,7 @@
                 <p rend="indentchar-m4n0"> Überhaupt, wenn man mit der Welt nicht ganz fremd werden
                     will, so muß man die jungen Leute gelten lassen für das was sie sind, und muß es
                     wenigstens mit einigen halten, damit man erfahre was die übrigen treiben.
-                        <milestone unit="testimony" xml:id="graef_1124" spanTo="#graef_1124_end"
-                    />Boisserée hat mir <rs>ein halb Dutzend Federzeichnungen von einem jungen Mann
+                        <milestone unit="testimony" xml:id="graef_1124" spanTo="#graef_1124_end"/>Boisserée hat mir <rs>ein halb Dutzend Federzeichnungen von einem jungen Mann
                     Namens Cornelius</rs>, der sonst in Düsseldorf lebte, und sich jetzt in Frankfurt
                     aufhält, und mit dem ich früher durch unsere Ausstellungen bekannt geworden,
                     mitgebracht, die wirklich verwundersam sind. <rs>Es sind Scenen nach meinem Faust
@@ -172,8 +170,7 @@
                     vertieft, die denn zu den Faustischen Zuständen ganz gut passt, und hat sehr
                     geistreiche gutgedachte, ja oft unübertrefflich glückliche Einfälle zu Tage
                     gefördert, und es ist sehr wahrscheinlich, daß er es noch weiter bringen wird,
-                    wenn er nur erst die Stufen gewahr werden kann, die noch über ihm liegen.<anchor
-                        xml:id="graef_1124_end"/></p>
+                    wenn er nur erst die Stufen gewahr werden kann, die noch über ihm liegen.<anchor xml:id="graef_1124_end"/></p>
                 <p rend="indentchar-m4n0"> Ich bin nun auf meiner Reise nach Carlsbad begriffen, so
                     darf ich wohl sagen, ich werde in etwa <pb n="85"/> 8 Tagen von hier abgehen.
                     Dort habe ich mir vorgenommen allerley wunderliche Dinge zu arbeiten, von denen
@@ -206,8 +203,7 @@
                     <lb/>An <persName>Peter von Cornelius</persName>
                     <date when="1811-05-08"/>
                 </head>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1123"
-                        spanTo="#graef_1123_end"/><rs>Die von Herrn Boisserée mir überbrachten
+                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1123" spanTo="#graef_1123_end"/><rs>Die von Herrn Boisserée mir überbrachten
                     Zeichnungen</rs> haben mir auf eine sehr angenehme Weise dargethan, welche
                     Fortschritte Sie, mein werther Herr Cornelius, gemacht, seitdem ich nichts von
                     Ihren Arbeiten gesehen. Die Momente sind gut gewählt, und die Darstellung
@@ -280,8 +276,7 @@
                     Auerbachs Keller habe ich mit Vergnügen zu seinen Geschwistern versammelt</rs>. Sie
                     finden durchaus vielen Beyfall und ich denke es wird sich doch wohl auch ein
                     Käufer finden. Wären die Zeiten nicht für einen Jeden bedenklich, so würde ich
-                    mich schon wegen derselben für Ihren Schuldner erklärt haben.<anchor
-                        xml:id="graef_1125_end"/></p>
+                    mich schon wegen derselben für Ihren Schuldner erklärt haben.<anchor xml:id="graef_1125_end"/></p>
                 <p rend="indentchar-m4n0"> An Herrn von Kügelgen ist das Gemälde wohlgepackt
                     abgegangen. Ich gehe dieser Tage nach Carlsbad um einen Theil des Sommers in
                     Böhmen zuzubringen. Möge ich von Zeit zu Zeit vernehmen, daß Sie sich in einem
@@ -382,8 +377,7 @@
                     er wäre persönlich dabey gewesen, um zu erfahren <rs>wie gut seine Zeichnungen
                     aufgenommen worden</rs>. Ich habe mich in dem Briefe an ihn nur mäßig ausgedruckt, wie man im Schreiben
                     billig thun soll; ich wünschte aber, wie gesagt, daß er sich in der Gegenwart
-                    des Enthusiasmus hätte erfreuen können, den seine Arbeiten erregt haben.<anchor
-                        xml:id="graef_1132_end"/></p>
+                    des Enthusiasmus hätte erfreuen können, den seine Arbeiten erregt haben.<anchor xml:id="graef_1132_end"/></p>
                 <p rend="indentchar-m4n0"> Des Herrn Professor Textor in Tübigen werde ich nicht
                     ermangeln gehörigen Orts zu gedenken.</p>
                 <p rend="indentchar-m4n0"> Für die übersendeten Notizen danke ich gleichfalls zum
@@ -418,8 +412,7 @@
                 </head>
                 <p>[Concept.]</p>
                 <p rend="right">[Weimar, 14. August.]</p>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1134"
-                        spanTo="#graef_1134_end"/>Ew. Durchlaucht hat unser Knebel <rs>Nachricht gegeben
+                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1134" spanTo="#graef_1134_end"/>Ew. Durchlaucht hat unser Knebel <rs>Nachricht gegeben
                     von einigen durch meinen Faust veranlaßten Zeichnungen</rs>. Sie sind wirklich
                     geistreich und lobenswerth, und mir ist es sehr angenehm zu hören, daß Ew. Durchlaucht sie zu besitzen wünschen. Sie
                     werden Ihnen gewiß Vergnügen machen und auch der Gesellschaft eine angenehme
@@ -443,8 +436,7 @@
                     außerordentlichem Detail und der zartesten Ausführung sind.</p>
                 <p rend="indentchar-m4n0"> Wollten also Ew. Durchlaucht die 175 Thaler gedachtem
                     Manne übermachen lassen, so wird er sehr glücklich seyn zu erfahren, daß sein
-                    Fleiß und Talent von seiner Fürstinn anerkannt und gebilligt worden.<anchor
-                        xml:id="graef_1134_end"/></p>
+                    Fleiß und Talent von seiner Fürstinn anerkannt und gebilligt worden.<anchor xml:id="graef_1134_end"/></p>
                 <p rend="indentchar-m4n0"> Möge ich doch immer wie bisher vernehmen, daß Ew.
                     Durchlaucht sich wohl und vergnügt befinden und auch meiner gedenken.</p>
                 <p rend="indentchar-m4n0"> Von Carlsbad bin ich dießmal in kürzerer Zeit mit meiner
@@ -461,8 +453,7 @@
                 </head>
                 <p>[Concept.]</p>
                 <p rend="right">[Weimar, 14. August]</p>
-                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1135"
-                        spanTo="#graef_1135_end"/>Die <rs>Scene in Auerbachs Keller ist bey mir
+                <p rend="indentchar-m4n0"><milestone unit="testimony" xml:id="graef_1135" spanTo="#graef_1135_end"/>Die <rs>Scene in Auerbachs Keller ist bey mir
                     glücklich angekommen</rs> und ich habe sie zu den übrigen Zeichnungen hinzugefügt, an
                     die sie sich sowohl in Erfindung als Ausführung recht gut anschließt. Die
                     Erbprinzeß von Mecklenburg Schwerin geborne Prinzeß von Weimar hat durch hiesige
@@ -472,8 +463,7 @@
                     wenn ich mich recht erinnere, mit Ihrer Forderung übereintrifft: denn Ihre
                     Briefe habe ich gerade nicht bey der Hand. Es wird Ihnen gewiß angenehm seyn,
                     diese Blätter in den Händen Ihrer Fürstinn zu wissen. Sie verschaffen Ihnen wohl
-                    Gelegenheit dieser vortrefflichen Dame einmal aufzuwarten.<anchor
-                        xml:id="graef_1135_end"/> Ich wünsche recht wohl zu leben und ersuche Sie,
+                    Gelegenheit dieser vortrefflichen Dame einmal aufzuwarten.<anchor xml:id="graef_1135_end"/> Ich wünsche recht wohl zu leben und ersuche Sie,
                     mir gelegentlich von sich einige Nachricht zu ertheilen.</p>
                 <p rend="indentchar-m4n0"> Weimar den 10. August 1811.</p>
                 <pb n="147"/>
@@ -603,11 +593,9 @@
                 <p rend="indentchar-m4n0"> An Ihrem lieben und freundlichen Antheil an meinem
                     biographischen Versuche habe ich nicht gezweifelt, da ich voraushoffen konnte,
                     daß Sie ihn mit den Augen eines Freundes, Verwandten und Landsmannes ansehen
-                    würden. <milestone unit="testimony" xml:id="graef_1140" spanTo="#graef_1140_end"
-                    />Ich wünsche den folgenden Theilen eine gleich gute Aufnahme.</p>
+                    würden. <milestone unit="testimony" xml:id="graef_1140" spanTo="#graef_1140_end"/>Ich wünsche den folgenden Theilen eine gleich gute Aufnahme.</p>
                 <p rend="indentchar-m4n0">Von Ihrem Herrn Bruder in Rom habe ich durch Reisende das Beste vernommen,
-                    sowie auch, daß <rs>unser gute Corneli und seine Arbeiten viel Sensation gemacht</rs>.<anchor
-                        xml:id="graef_1140_end"/> Ich bin überzeugt, daß er seinen Aufenthalt
+                    sowie auch, daß <rs>unser gute Corneli und seine Arbeiten viel Sensation gemacht</rs>.<anchor xml:id="graef_1140_end"/> Ich bin überzeugt, daß er seinen Aufenthalt
                     trefflich nutzen wird.</p>
                 <p rend="indentchar-m4n0">
                     <pb n="258"/> Gönnen Sie mir auch in diesem neuen Jahre Ihre freundschaftliche
@@ -685,8 +673,7 @@
                     sogar bey einem mäßigen Regen, ruhig sitzen konnten. Hatte man so durch gedachte
                     Überhänge und durch das oben vorspringende Dach schon in die Rechte der Straße
                     gleichsam Eingriffe gethan; so lag es, besonders in weniger polizeylichen
-                    Zeiten, ganz nahe, sich einen hölzernen Käfich herauszubauen, um nicht <pb
-                        n="268"/> den Augen jedes Vorübergehenden ausgesetzt zu seyn. Dieses Geräms
+                    Zeiten, ganz nahe, sich einen hölzernen Käfich herauszubauen, um nicht <pb n="268"/> den Augen jedes Vorübergehenden ausgesetzt zu seyn. Dieses Geräms
                     war wirklich meistentheils oben offen weil es von jenen Überhängen genugsam
                     bedeckt war. Es hing durch eine besondre Thüre mit dem Hausflur zusammen,
                     welche Nachts eben so sorgfältig als die Hausthüre selbst verschlossen wurde.
@@ -744,8 +731,7 @@
                     Franzosen zu verhelfen; so würden Sie mich sehr glücklich machen. Die Sammlung
                     ist nun schon so groß, daß man über die Handschriften der Nationen, der Zeiten
                     so wie der Individuen, welche solche modificiren, einiges aussprechen kann; und
-                    alles ist zu unserer Zeit noch einmal so viel werth, was uns im Stillen <pb
-                        n="271"/> mit vertrauten Freunden zu geistreicher Unterhaltung dient.</p>
+                    alles ist zu unserer Zeit noch einmal so viel werth, was uns im Stillen <pb n="271"/> mit vertrauten Freunden zu geistreicher Unterhaltung dient.</p>
                 <p rend="indentchar-m4n0"> Nun das wichtigste zum Schluß, daß Herr Baron von St.
                     Aignan als bevollmächtigter Minister an den Herzogl. Sächsischen Höfen angelangt
                     und bey uns sein Creditiv zuerst producirt hat.</p>
