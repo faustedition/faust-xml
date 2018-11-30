@@ -336,7 +336,7 @@
                 <line type="inter" xml:id="lat">
                     <seg f:left="#durchaus">
                         <app>
-                            <lem><handShift new="#g_bl"/>hin</lem>
+                            <lem><handShift new="#g_bl"/><mod rend="erase" hand="#g">hin</mod></lem>
                             <rdg resp="#wa-app"/>
                         </app>
                     </seg>
@@ -346,7 +346,7 @@
                     </seg>
                 </line>
                 <line xml:id="wenns-wuethet">Wenns fieberhaft durch<anchor xml:id="durchaus"/><app>
-                        <lem><mod rend="strikethrough" hand="#g_bl">aus</mod><!-- FIXME Rücknahme der Durchstreichung kodieren --></lem>
+                        <lem><mod rend="strikethrough" hand="#g_bl" xml:id="aus_tilgt_g">aus</mod><undo target="#aus_tilgt_g" rend="erase" hand="#g"/></lem>
                         <rdg resp="#wa-app">aus</rdg>
                     </app> im <mod rend="strikethrough">innern</mod><anchor xml:id="innern"/> wüthet,</line>
                 <line xml:id="ll">Und Übel ſich in Übeln überbrütet:</line>
