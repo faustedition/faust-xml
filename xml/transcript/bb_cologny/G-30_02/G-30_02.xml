@@ -295,6 +295,7 @@
     </teiHeader>
     <text>
         <body>
+            <div type="stueck">
             <sp>
                 <pb n="recto"/>
                 <speaker n="before_5263_a">Trunckner</speaker>
@@ -354,8 +355,10 @@
                     <add>Dem iſt’s unterm Tiſch</add>
                     </subst> gethan.</l>
             </sp>
+            </div>
             <pb n="verso"/>
-            <sp>
+            <div type="stueck">
+                <sp>
                 <l n="6644"><subst f:revType="soon">
                         <del>Der</del>
                         <add>Den</add>
@@ -406,6 +409,7 @@
                 <l n="6669">Thürpfoſten bebten, Riegel ſprangen,</l>
                 <l n="6670">Sonſt kamt ihr ſelber nicht herein.</l>
             </sp>
+        </div>
         </body>
     </text>
 </TEI>
