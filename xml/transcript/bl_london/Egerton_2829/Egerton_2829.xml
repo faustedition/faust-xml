@@ -1,17 +1,63 @@
-<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
-        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">2 I H.0b</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
-                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/archival/bl_london/Egerton_2829.xml--><msIdentifier><repository>British Library, London</repository><idno type="bl_london">Egerton MS 2829, f. 13</idno><altIdentifier><idno type="gsa_1">GSA 25/XVII,6,1</idno></altIdentifier></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Faust</title>
+                <title type="sub">Historisch-kritische Edition</title>
+                <author>Johann Wolfgang Goethe</author>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name>Anne Bohnenkamp</name>
+                    <name>Silke Henke</name>
+                    <name>Fotis Jannidis</name>
+                    <orgName>Freies Deutsches Hochstift</orgName>
+                    <orgName>Klassik Stiftung Weimar</orgName>
+                    <orgName>Julius-Maximilians-Universität Würzburg</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Mitarbeit</resp>
+                    <name>Gerrit Brüning</name>
+                    <name>Katrin Henzel</name>
+                    <name>Christoph Leijser</name>
+                    <name>Gregor Middell</name>
+                    <name>Dietmar Pravida</name>
+                    <name>Thorsten Vitt</name>
+                    <name>Moritz Wissenbach</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <idno type="faustedition">2 I H.0b</idno>
+                <date/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                        Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!--xml/document/archival/bl_london/Egerton_2829.xml-->
+                    <msIdentifier>
+                        <repository>British Library, London</repository>
+                        <idno type="bl_london">Egerton MS 2829, f. 13</idno>
+                        <altIdentifier>
+                            <idno type="gsa_1">GSA 25/XVII,6,1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
         <profileDesc>
             <listTranspose>
-                    <transpose f:revType="soon">
-                        <ptr target="#l4672"/>
-                        <ptr target="#l4673"/>
-                    </transpose>
-                </listTranspose>
-            <creation>
-                
-            </creation>
+                <transpose f:revType="soon">
+                    <ptr target="#l4672"/>
+                    <ptr target="#l4673"/>
+                </transpose>
+            </listTranspose>
+            <creation> </creation>
             <handNotes>
                 <handNote xml:id="g">Goethe (ohne Schreibmaterial)</handNote>
                 <handNote xml:id="g_t">Goethe (ink - Schrift)</handNote>
@@ -310,8 +356,10 @@
             <change when="2011-12-22" who="henzel">encoded</change>
             <change when="2015-03-02" who="kockel">Zählung des Nebentextes abgeschlossen</change>
             <change when="2015-07-02" who="henzel">pb</change>
-            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
-            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von
+                TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und
+                Schemaanpassungen</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -319,7 +367,8 @@
             <pb n="A80014-89"/>
             <sp>
                 <speaker n="before_4634_a">Chor</speaker>
-                <stage n="before_4634_b">(Einzeln, zu zweyen und vielen, abwechſelnd und geſammt)</stage>
+                <stage n="before_4634_b">(Einzeln, zu zweyen und vielen, abwechſelnd und
+                    geſammt)</stage>
                 <lg type="stanza">
                     <l n="4634">Wenn ſich lau die Lüfte füllen</l>
                     <l n="4635">Um den grünumſchränckten Plan,</l>
@@ -341,13 +390,13 @@
                     <l n="4648">Tiefſten Ruhens Glück beſiegelnd</l>
                     <l n="4649"><subst f:revType="late">
                             <del><restore>Herrſcht <subst f:revType="soon">
-                                        <del>der Mond
-                                                <supplied evidence="internal">in</supplied>
+                                        <del>der Mond <supplied evidence="internal">in</supplied>
                                                 volle<supplied evidence="internal">r</supplied>
                                             Pracht</del>
                                         <add>des Mondes volle Pracht</add>
                                     </subst></restore></del>
-                        <add><del f:revType="instant"><gap unit="chars" quantity="6" precision="medium"/></del></add>
+                            <add><del f:revType="instant"><gap unit="chars" quantity="6"
+                                        precision="medium"/></del></add>
                         </subst>.</l>
                 </lg>
                 <lg type="stanza">
@@ -362,7 +411,8 @@
                     <l n="4654">Thäler grünen, Hügel ſchwellen,</l>
                     <l n="4655">Buſchen ſich zu Schatten-Ruh;</l>
                     <l n="4656">Und in ſchwancken Silberwellen</l>
-                    <l n="4657">Wogt die Saa<del f:revType="instant"><gap unit="chars" quantity="1"/></del>t der Erndte zu.</l>
+                    <l n="4657">Wogt die Saa<del f:revType="instant"><gap unit="chars" quantity="1"
+                            /></del>t der Erndte zu.</l>
                 </lg>
                 <lg type="stanza">
                     <l n="4658">Wunſch um Wünſche zu erlangen</l>
@@ -373,7 +423,9 @@
                     <l n="4663">Wenn die Menge zaudernd ſchweift;</l>
                     <l n="4664">Alles kann der Edle leiſten,</l>
                     <l n="4665"><subst f:revType="soon-or-late">
-                            <del><damage><gap quantity="3" unit="chars"/><c xml:space="preserve"> </c><gap precision="medium" quantity="6" unit="chars"/></damage></del>
+                            <del><damage><gap quantity="3" unit="chars"
+                                        /><c xml:space="preserve"> </c><gap precision="medium"
+                                        quantity="6" unit="chars"/></damage></del>
                             <add>Der verſteht</add>
                         </subst> und raſch ergreift.</l>
                 </lg>
@@ -394,8 +446,8 @@
                 <l n="4671">Welch Get<orig>o</orig>ſe bringt das Licht!</l>
                 <l n="4673" xml:id="l4673">Auge blinzt und Ohr erſtaunet</l>
                 <l n="4672" xml:id="l4672">Es <choice>
-                    <sic>drommetes</sic>
-                    <corr>drommetet</corr>
+                        <sic>drommetes</sic>
+                        <corr>drommetet</corr>
                     </choice> es poſaunet</l>
                 <l n="4674">Unerhörtes hört ſich nicht.</l>
                 <l n="4675">Schlüpfet zu den Blumenkronen</l>
