@@ -325,14 +325,14 @@
                 <line f:bottom="#lq" xml:id="lab">1<space dim="horizontal" quantity="1" unit="chars"/></line>
                 <line f:bottom="#lr" xml:id="lac">2<space dim="horizontal" quantity="1" unit="chars"/></line>
             </zone>
-            <zone f:bottom-top="#ziffern" f:right-left="#ziffern" rotate="90" xml:id="Saust">
+            <zone f:top="#ziffern" f:right-left="#ziffern" rotate="90" xml:id="Saust">
                 <metamark function="used" hand="#g_bl" spanTo="#gewahr"/>
-                <line xml:id="la" rend="right"><handShift new="#g_bl"/>3 Sauſt es mir doch</line>
-                <line xml:id="lb" rend="right"><orig>u</orig>bers Haar</line>
+                <line xml:id="la" rend="indent-30"><handShift new="#g_bl"/>3 Sauſt es mir doch</line>
+                <line xml:id="lb" rend="indent-50"><orig>u</orig>bers Haar</line>
                 <line xml:id="lc">4 Ward ichs doch am Fuß gew<supplied evidence="internal">a</supplied>hr<space dim="horizontal" quantity="1" unit="chars"/></line>
                 <anchor xml:id="gewahr"/>
             </zone>
-            <zone f:top="#lt" f:right-left="#mainzone" rotate="90">
+            <zone f:top="#lt" f:right-left="#ziffern" rotate="90">
                 <metamark function="used" hand="#g_bl" spanTo="#wissen-das"/>
                 <space dim="vertical" quantity="1" unit="lines"/>
                 <line xml:id="ld"><handShift new="#g_bl"/>Friſch dahinten tanzt man ſchon</line>
