@@ -327,8 +327,14 @@
                 <line xml:id="lx">Nirgend ſeh<handShift new="#sc_t"/>’ <handShift new="#jo_t"/>ich ein Gedränge.</line>
                 <line xml:id="ly">Farbig glitzert<handShift new="#sc_bl"/>’<handShift new="#jo_t"/>s in der Ferne,</line>
                 <line xml:id="lz">Irrend leuchten bunte Sterne,</line>
-                <line xml:id="laa">Wie von magiſcher Laterne.</line>
-                <line xml:id="lab">Schnaubt<mod rend="erase" hand="#g">s</mod> heran mit Stürmgewalt.</line><!-- TODO klaeren: auch <orig>u</orig> lesbar -->
+                <line xml:id="laa">Wie von magiſcher Laterne<f:overw>
+                    <f:under><f:overw>
+                    <f:under><gap unit="chars" quantity="1"></gap></f:under>
+                    <f:over><handShift new="#ri_bl"/><mod rend="erase" hand="#g">,</mod></f:over>
+                    </f:overw></f:under>
+                    <f:over><handShift new="#g_t"/>.</f:over>
+                </f:overw></line>
+                <line xml:id="lab"><handShift new="#jo_t"/>Schnaubt<mod rend="erase" hand="#g">s</mod> heran mit Stürmgewalt.</line><!-- TODO klaeren: auch <orig>u</orig> lesbar -->
                 <line xml:id="lac">Platz gemacht! Mich ſchaudert<handShift new="#sc_t"/>’<handShift new="#jo_t"/>s!<anchor xml:id="schauderts"/></line>
                 <line xml:id="lad" rend="indent-center-60"><hi rend="underline">Knabe</hi> (Wagenlenker)</line>
                 <line f:left="#schauderts" xml:id="lae">Halt!</line>
