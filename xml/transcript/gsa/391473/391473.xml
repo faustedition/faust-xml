@@ -2475,9 +2475,10 @@
                                 <add>I</add>
                             </subst>hm vertraut’ ich mich.</l>
                         <l n="9017">Und ſeine Burg! die ſoltet ihr mit Augen ſehn,</l>
-                        <l n="9018">Das iſt was <subst f:acceptedBy="#g" f:proposedBy="#ri" f:revType="soon">
+                        <l n="9018">Das iſt was <subst f:revType="soon">
                                 <del>anders</del>
-                                <add>andres</add>
+                            <add f:proposedBy="#ri" f:rejectedBy="#g">andres</add>
+                            <add>anderes</add><!-- e nicht mit Tinte gestrichen -->
                             </subst> gegen plumpes Mauerwerck,</l>
                         <l n="9019">Das eure Väter, mir nichts dir nichts, aufgewältzt,</l>
                         <l n="9020">Cyklopiſch wie Cyclopen, rohen Stein ſogleich</l>
