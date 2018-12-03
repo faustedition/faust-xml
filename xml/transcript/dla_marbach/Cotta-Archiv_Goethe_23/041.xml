@@ -334,8 +334,10 @@
                     </f:overw></f:under>
                     <f:over><handShift new="#g_t"/>.</f:over>
                 </f:overw></line>
-                <line xml:id="lab"><handShift new="#jo_t"/>Schnaubt<mod rend="erase" hand="#g">s</mod> heran mit Stürmgewalt.</line><!-- TODO klaeren: auch <orig>u</orig> lesbar -->
-                <line xml:id="lac">Platz gemacht! Mich ſchaudert<handShift new="#sc_t"/>’<handShift new="#jo_t"/>s!<anchor xml:id="schauderts"/></line>
+                <line xml:id="lab"><handShift new="#jo_t"/>Schnaubt<mod rend="erase" hand="#g">s</mod> heran mit Stürmgewalt<f:overw>
+                    <f:under>!</f:under>
+                    <f:over><handShift new="#g_t"/>.</f:over></f:overw></line>
+                <line xml:id="lac"><handShift new="#jo_t"/>Platz gemacht! Mich ſchaudert<handShift new="#sc_t"/>’<handShift new="#jo_t"/>s!<anchor xml:id="schauderts"/></line>
                 <line xml:id="lad" rend="indent-center-60"><hi rend="underline">Knabe</hi> (Wagenlenker)</line>
                 <line f:left="#schauderts" xml:id="lae">Halt!</line>
             </zone>
