@@ -367,8 +367,7 @@
                             <num>II.</num><c xml:space="preserve"> </c><abbr>S.</abbr><c xml:space="preserve"> </c><anchor
                             xml:id="z280"/>280<anchor xml:id="note"/></note></line>
                 <line f:left="#z280"><note>281</note></line>
-                <line rend="right"><handShift new="#g_bl"/><unclear cert="high">Erſt
-                        hinten</unclear>.</line><!-- wohl auf die Lesrichtung zu beziehen --><!-- TODO am Original pruefen, ob am Ende noch 7. steht (oder von Rueckseite durchschimmert) -->
+                <line rend="indent-60"><handShift new="#g_bl"/><gap unit="chars" quantity="9" precision="medium"></gap>.</line><!-- TODO am Original pruefen, ob am Ende noch 7. steht (oder von Rueckseite durchschimmert) -->
                 <metamark function="used" hand="#g_bl" spanTo="#used_1"/>
                 <line f:left="#hast" type="inter">dieſen</line>
                 <line>Mi<f:overw>
@@ -456,11 +455,11 @@
                 <line>Es war ſo was vom Kreutz daran</line>
                 <anchor xml:id="used_5"/>
             </zone>
-            <zone f:left-right="#mainzone" f:top-bottom="#mainzone" rotate="180">
-                <line f:bottom="#Sie"><handShift new="#xx_bl"/><note><abbr>S.</abbr>
+            <zone f:top="#Sie" f:right-left="#Sie" rotate="180">
+                <line f:top="#Sie"><handShift new="#xx_bl"/><note><abbr>S.</abbr>
                     282</note></line>
-                <line f:bottom="#Behalt"><note><abbr>S.</abbr> 280</note></line>
-                <line f:bottom="#Mag"><note><abbr>S.</abbr> 281</note></line>
+                <line f:top="#Behalt"><note><abbr>S.</abbr> 280</note></line>
+                <line f:top="#Mag"><note><abbr>S.</abbr> 281</note></line>
             </zone>
         </surface>
     </sourceDoc>
