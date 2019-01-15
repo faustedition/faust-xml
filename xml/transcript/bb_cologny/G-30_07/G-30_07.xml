@@ -1,7 +1,55 @@
-<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
-        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">2 IV H.7b</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
-                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/archival/bb_cologny/G-30_07.xml--><msIdentifier><repository>Bibliotheca Bodmeriana, Cologny</repository><idno type="bb_cologny">G-30.7</idno><altIdentifier><idno type="gsa_1">GSA 25/XVIII,6,1</idno></altIdentifier></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Faust</title>
+                <title type="sub">Historisch-kritische Edition</title>
+                <author>Johann Wolfgang Goethe</author>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name>Anne Bohnenkamp</name>
+                    <name>Silke Henke</name>
+                    <name>Fotis Jannidis</name>
+                    <orgName>Freies Deutsches Hochstift</orgName>
+                    <orgName>Klassik Stiftung Weimar</orgName>
+                    <orgName>Julius-Maximilians-Universität Würzburg</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Mitarbeit</resp>
+                    <name>Gerrit Brüning</name>
+                    <name>Katrin Henzel</name>
+                    <name>Christoph Leijser</name>
+                    <name>Gregor Middell</name>
+                    <name>Dietmar Pravida</name>
+                    <name>Thorsten Vitt</name>
+                    <name>Moritz Wissenbach</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <idno type="faustedition">2 IV H.7b</idno>
+                <date/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                        Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!--xml/document/archival/bb_cologny/G-30_07.xml-->
+                    <msIdentifier>
+                        <repository>Bibliotheca Bodmeriana, Cologny</repository>
+                        <idno type="bb_cologny">G-30.7</idno>
+                        <altIdentifier>
+                            <idno type="gsa_1">GSA 25/XVIII,6,1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
         <profileDesc>
             <creation>
                 <listChange>
@@ -150,8 +198,10 @@
                 <handNote xml:id="v_bl_gr">Helene Vulpius (pencil - greek)</handNote>
                 <handNote xml:id="we_t">Weller (ink - Schrift)</handNote>
                 <handNote xml:id="we_t_lat">Weller (ink - latin)</handNote>
-                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne (ink - Schrift)</handNote>
-                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne (ink - latin)</handNote>
+                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - Schrift)</handNote>
+                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - latin)</handNote>
                 <handNote xml:id="wo_t">Pius Alexander Wolff (ink - Schrift)</handNote>
                 <handNote xml:id="wo_t_lat">Pius Alexander Wolff (ink - latin)</handNote>
                 <handNote xml:id="wo_t_gr">Pius Alexander Wolff (ink - greek)</handNote>
@@ -163,7 +213,8 @@
                 <handNote xml:id="wo_bl_gr">Pius Alexander Wolff (pencil - greek)</handNote>
                 <handNote xml:id="avg_t">August von Goethe (ink - Schrift)</handNote>
                 <handNote xml:id="avg_t_lat">August von Goethe (ink - latin)</handNote>
-                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink -
+                    Schrift)</handNote>
                 <handNote xml:id="wvg_t">Wolfgang von Goethe (ink - Schrift)</handNote>
                 <handNote xml:id="wvg_bl">Wolfgang von Goethe (pencil - Schrift)</handNote>
                 <handNote xml:id="sc">Schreiberhand (ohne Schreibmaterial)</handNote>
@@ -178,16 +229,22 @@
                 <handNote xml:id="sc_tr_lat">Schreiberhand (ink red/brown - latin)</handNote>
                 <handNote xml:id="zs_t">Zeitgenössische Schrift (ink - Schrift)</handNote>
                 <handNote xml:id="zs_t_lat">Zeitgenössische Schrift (ink - latin)</handNote>
-                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown - Schrift)</handNote>
-                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown - latin)</handNote>
-                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown - greek)</handNote>
+                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown -
+                    latin)</handNote>
+                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown -
+                    greek)</handNote>
                 <handNote xml:id="zs_bl">Zeitgenössische Schrift (pencil - Schrift)</handNote>
                 <handNote xml:id="zs_bl_lat">Zeitgenössische Schrift (pencil - latin)</handNote>
                 <handNote xml:id="zs_bl_gr">Zeitgenössische Schrift (pencil - greek)</handNote>
                 <handNote xml:id="zs_ro">Zeitgenössische Schrift (ruddle - Schrift)</handNote>
-                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil - Schrift)</handNote>
-                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil - latin)</handNote>
-                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil - greek)</handNote>
+                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil -
+                    latin)</handNote>
+                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil -
+                    greek)</handNote>
                 <handNote xml:id="xx_t">Fremde Hand #1 (ink - Schrift)</handNote>
                 <handNote xml:id="xx_t_lat">Fremde Hand #1 (ink - latin)</handNote>
                 <handNote xml:id="xx_t_gr">Fremde Hand #1 (ink - greek)</handNote>
@@ -262,12 +319,21 @@
                 </char>
                 <char xml:id="g_break">
                     <charName>TEXT BREAK</charName>
-                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt begann</desc>
+                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn
+                        eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt
+                        begann</desc>
                     <mapping type="Unicode">[</mapping>
                 </char>
                 <char xml:id="parenthesis_left">
                     <charName>LEFT PARENTHESIS</charName>
-                    <desc>In 18th century there were different ways to represent parentheses in handwritten documents. Then the token most often used (default symbol) was a vertical stroke combined with a colon. We want to be able to differentiate between this default representation, which we encode as normal parenthesis characters, and the very (same) characters, that are used today, and that also appear in documents of that time. Therefore we encode the contemporary representation of parantheses, if encountered in handwritten documents, as glyphs.</desc>
+                    <desc>In 18th century there were different ways to represent parentheses in
+                        handwritten documents. Then the token most often used (default symbol) was a
+                        vertical stroke combined with a colon. We want to be able to differentiate
+                        between this default representation, which we encode as normal parenthesis
+                        characters, and the very (same) characters, that are used today, and that
+                        also appear in documents of that time. Therefore we encode the contemporary
+                        representation of parantheses, if encountered in handwritten documents, as
+                        glyphs.</desc>
                     <mapping type="Unicode">(</mapping>
                 </char>
                 <char xml:id="parenthesis_right">
@@ -277,7 +343,8 @@
                 </char>
                 <char xml:id="truncation">
                     <charName>TRUNCATION SIGN</charName>
-                    <desc>The suspension/truncation sign, in German known as “Abbrechungszeichen”.</desc>
+                    <desc>The suspension/truncation sign, in German known as
+                        “Abbrechungszeichen”.</desc>
                     <mapping type="Unicode">.</mapping>
                 </char>
             </charDecl>
@@ -287,15 +354,20 @@
             <change when="2013-07-16" who="henzel">1x korrekturgelesen</change>
             <change when="2015-03-02" who="kockel">Zählung des Nebentextes abgeschlossen</change>
             <change when="2015-04-15" who="kockel">pb eingetragen</change>
-            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
-            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von
+                TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und
+                Schemaanpassungen</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <pb n="recto"/>
             <sp who="Mephistopheles">
-                <l n="10270"><damage>Und</damage> allen <damage>wuchs die <supplied evidence="external" source="391098">Kühnheit nicht</supplied> geri<supplied evidence="external" source="391098">ng</supplied></damage></l>
+                <l n="10270"><damage>Und</damage> allen <damage>wuchs die <supplied
+                            evidence="external" source="391098">Kühnheit nicht</supplied>
+                            geri<supplied evidence="external" source="391098"
+                    >ng</supplied></damage></l>
                 <l n="10271">Denn Leben hieß ſich wehren – Nun das ging.</l>
             </sp>
             <sp>
@@ -306,13 +378,16 @@
             <sp>
                 <speaker n="before_10274"><abbr>Mephiſto.</abbr></speaker>
                 <l n="10274">Und ſolchen Zustand durfte niemand ſchelten,</l>
-                <l n="10275">Ein jeder konnte, jeder wollte gelten<add f:revType="soon-or-late">.</add></l>
+                <l n="10275">Ein jeder konnte, jeder wollte gelten<add f:revType="soon-or-late"
+                        >.</add></l>
                 <l n="10276">Der Kleinſte ſelbst er galt für voll.</l>
-                <l n="10277">Doch wa<add f:revType="soon">r</add>s zuletzt den Beſten allzutoll<add f:revType="soon-or-late">,</add></l>
+                <l n="10277">Doch wa<add f:revType="soon">r</add>s zuletzt den Beſten allzutoll<add
+                        f:revType="soon-or-late">,</add></l>
                 <l n="10278">Die Tüchtigen ſie ſtanden auf mit Kraft</l>
                 <l n="10279">Und ſagten: Herr ist der uns Ruhe ſchafft</l>
                 <l n="10280">Der Kaiſer kanns nicht wills nicht – läßt uns wählen,</l>
-                <l n="10281">Den neuen Kaiſer neu das Reich beſeelen<add f:revType="soon-or-late">,</add></l>
+                <l n="10281">Den neuen Kaiſer neu das Reich beſeelen<add f:revType="soon-or-late"
+                        >,</add></l>
                 <l n="10282">Indem er <subst f:revType="soon-or-late">
                         <del>jedem</del>
                         <add>jeden</add>
@@ -322,25 +397,31 @@
             </sp>
             <sp>
                 <speaker n="before_10285i">Fauſt.</speaker>
-                <l n="10285" xml:id="l_10285a">Das klingt ſehr pfäffiſch<add f:revType="soon-or-late">.</add></l>
+                <l n="10285" xml:id="l_10285a">Das klingt ſehr pfäffiſch<add
+                        f:revType="soon-or-late">.</add></l>
             </sp>
             <sp>
                 <speaker n="before_10285f"><abbr>Mephiſt.</abbr></speaker>
                 <l n="10285" xml:id="l_10285b">Pfaffen waren’s auch.</l>
                 <join target="#l_10285a #l_10285b" type="antilabe"/>
-                <l n="10286"><del f:revType="instant">D</del>Sie ſicherten den wohlgenährten Bauch.</l>
+                <l n="10286"><del f:revType="instant">D</del>Sie ſicherten den wohlgenährten
+                    Bauch.</l>
             </sp>
             <pb n="verso"/>
             <sp who="Mephistopheles">
                 <l n="10292">Kom̄, ſehn wir zu, der Lebende ſoll hoffen.</l>
                 <addSpan spanTo="#add_10293-10296" f:revType="soon"/>
-                <l n="10293">Befreyn wir ihn aus dieſem engen Thal<add f:revType="soon" change="#l10393f">e</add>!</l>
-                <l n="10294">Einmal gerettet iſt’s für tauſendmal<add f:revType="soon" change="#l10393f">e</add>.</l>
+                <l n="10293">Befreyn wir ihn aus dieſem engen Thal<add f:revType="soon"
+                        change="#l10393f">e</add>!</l>
+                <l n="10294">Einmal gerettet iſt’s für tauſendmal<add f:revType="soon"
+                        change="#l10393f">e</add>.</l>
                 <l n="10295">Wer weis wie noch die Würfel fallen?</l>
-                <l n="10296">Und hat er Glück<add f:revType="soon-or-late">,</add> ſo hat er auch Vaſallen.</l>
+                <l n="10296">Und hat er Glück<add f:revType="soon-or-late">,</add> ſo hat er auch
+                    Vaſallen.</l>
                 <anchor xml:id="add_10293-10296"/>
             </sp>
-            <stage n="after_10296">(ſie ſteigen über das Mittelgebirg herüber und beſchauen die Anordnung des Heeres im Thal<subst f:revType="soon">
+            <stage n="after_10296">(ſie ſteigen über das Mittelgebirg herüber und beſchauen die
+                Anordnung des Heeres im Thal<subst f:revType="soon">
                     <del>)</del>
                     <add>Trommeln und Kriegsmuſik ſchallt von unten auf)</add>
                 </subst></stage>
