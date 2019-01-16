@@ -1,7 +1,58 @@
-<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
-        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">2 H</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
-                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/faust/2/gsa_391098.xml--><msIdentifier><repository>Goethe- und Schiller-Archiv, Weimar</repository><idno type="gsa_1">GSA 25/XIX,3</idno><altIdentifier><idno type="gsa_2">GSA 25/W 1804</idno></altIdentifier><altIdentifier><idno type="gsa_ident">391098</idno></altIdentifier></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Faust</title>
+                <title type="sub">Historisch-kritische Edition</title>
+                <author>Johann Wolfgang Goethe</author>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name>Anne Bohnenkamp</name>
+                    <name>Silke Henke</name>
+                    <name>Fotis Jannidis</name>
+                    <orgName>Freies Deutsches Hochstift</orgName>
+                    <orgName>Klassik Stiftung Weimar</orgName>
+                    <orgName>Julius-Maximilians-Universität Würzburg</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Mitarbeit</resp>
+                    <name>Gerrit Brüning</name>
+                    <name>Katrin Henzel</name>
+                    <name>Christoph Leijser</name>
+                    <name>Gregor Middell</name>
+                    <name>Dietmar Pravida</name>
+                    <name>Thorsten Vitt</name>
+                    <name>Moritz Wissenbach</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <idno type="faustedition">2 H</idno>
+                <date/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                        Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!--xml/document/faust/2/gsa_391098.xml-->
+                    <msIdentifier>
+                        <repository>Goethe- und Schiller-Archiv, Weimar</repository>
+                        <idno type="gsa_1">GSA 25/XIX,3</idno>
+                        <altIdentifier>
+                            <idno type="gsa_2">GSA 25/W 1804</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno type="gsa_ident">391098</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
         <encodingDesc>
             <charDecl>
                 <char xml:id="g_transp_1">
@@ -36,12 +87,21 @@
                 </char>
                 <char xml:id="g_break">
                     <charName>TEXT BREAK</charName>
-                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt begann</desc>
+                    <desc>Das Zeichen ähnelt einer öffnenden eckigen Klammer und markiert den Beginn
+                        eines neuen textuellen Abschnitts, wo vorher kein solcher Abschnitt
+                        begann</desc>
                     <mapping type="Unicode">[</mapping>
                 </char>
                 <char xml:id="parenthesis_left">
                     <charName>LEFT PARENTHESIS</charName>
-                    <desc>In 18th century there were different ways to represent parentheses in handwritten documents. Then the token most often used (default symbol) was a vertical stroke combined with a colon. We want to be able to differentiate between this default representation, which we encode as normal parenthesis characters, and the very (same) characters, that are used today, and that also appear in documents of that time. Therefore we encode the contemporary representation of parantheses, if encountered in handwritten documents, as glyphs.</desc>
+                    <desc>In 18th century there were different ways to represent parentheses in
+                        handwritten documents. Then the token most often used (default symbol) was a
+                        vertical stroke combined with a colon. We want to be able to differentiate
+                        between this default representation, which we encode as normal parenthesis
+                        characters, and the very (same) characters, that are used today, and that
+                        also appear in documents of that time. Therefore we encode the contemporary
+                        representation of parantheses, if encountered in handwritten documents, as
+                        glyphs.</desc>
                     <mapping type="Unicode">(</mapping>
                 </char>
                 <char xml:id="parenthesis_right">
@@ -51,7 +111,8 @@
                 </char>
                 <char xml:id="truncation">
                     <charName>TRUNCATION SIGN</charName>
-                    <desc>The suspension/truncation sign, in German known as “Abbrechungszeichen”.</desc>
+                    <desc>The suspension/truncation sign, in German known as
+                        “Abbrechungszeichen”.</desc>
                     <mapping type="Unicode">.</mapping>
                 </char>
             </charDecl>
@@ -199,8 +260,10 @@
                 <handNote xml:id="v_bl_gr">Helene Vulpius (pencil - greek)</handNote>
                 <handNote xml:id="we_t">Weller (ink - Schrift)</handNote>
                 <handNote xml:id="we_t_lat">Weller (ink - latin)</handNote>
-                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne (ink - Schrift)</handNote>
-                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne (ink - latin)</handNote>
+                <handNote xml:id="wi_t">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - Schrift)</handNote>
+                <handNote xml:id="wi_t_lat">Maria Anna Katharina Theresia Willemer, genannt Marianne
+                    (ink - latin)</handNote>
                 <handNote xml:id="wo_t">Pius Alexander Wolff (ink - Schrift)</handNote>
                 <handNote xml:id="wo_t_lat">Pius Alexander Wolff (ink - latin)</handNote>
                 <handNote xml:id="wo_t_gr">Pius Alexander Wolff (ink - greek)</handNote>
@@ -212,7 +275,8 @@
                 <handNote xml:id="wo_bl_gr">Pius Alexander Wolff (pencil - greek)</handNote>
                 <handNote xml:id="avg_t">August von Goethe (ink - Schrift)</handNote>
                 <handNote xml:id="avg_t_lat">August von Goethe (ink - latin)</handNote>
-                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink - Schrift)</handNote>
+                <handNote xml:id="w-o-wvg_t">Walther oder Wolfgang von Goethe (ink -
+                    Schrift)</handNote>
                 <handNote xml:id="wvg_t">Wolfgang von Goethe (ink - Schrift)</handNote>
                 <handNote xml:id="wvg_bl">Wolfgang von Goethe (pencil - Schrift)</handNote>
                 <handNote xml:id="sc">Schreiberhand (ohne Schreibmaterial)</handNote>
@@ -227,16 +291,22 @@
                 <handNote xml:id="sc_tr_lat">Schreiberhand (ink red/brown - latin)</handNote>
                 <handNote xml:id="zs_t">Zeitgenössische Schrift (ink - Schrift)</handNote>
                 <handNote xml:id="zs_t_lat">Zeitgenössische Schrift (ink - latin)</handNote>
-                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown - Schrift)</handNote>
-                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown - latin)</handNote>
-                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown - greek)</handNote>
+                <handNote xml:id="zs_tr">Zeitgenössische Schrift (ink red/brown -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_tr_lat">Zeitgenössische Schrift (ink red/brown -
+                    latin)</handNote>
+                <handNote xml:id="zs_tr_gr">Zeitgenössische Schrift (ink red/brown -
+                    greek)</handNote>
                 <handNote xml:id="zs_bl">Zeitgenössische Schrift (pencil - Schrift)</handNote>
                 <handNote xml:id="zs_bl_lat">Zeitgenössische Schrift (pencil - latin)</handNote>
                 <handNote xml:id="zs_bl_gr">Zeitgenössische Schrift (pencil - greek)</handNote>
                 <handNote xml:id="zs_ro">Zeitgenössische Schrift (ruddle - Schrift)</handNote>
-                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil - Schrift)</handNote>
-                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil - latin)</handNote>
-                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil - greek)</handNote>
+                <handNote xml:id="zs_blau">Zeitgenössische Schrift (blue pencil -
+                    Schrift)</handNote>
+                <handNote xml:id="zs_blau_lat">Zeitgenössische Schrift (blue pencil -
+                    latin)</handNote>
+                <handNote xml:id="zs_blau_gr">Zeitgenössische Schrift (blue pencil -
+                    greek)</handNote>
                 <handNote xml:id="xx_t">Fremde Hand #1 (ink - Schrift)</handNote>
                 <handNote xml:id="xx_t_lat">Fremde Hand #1 (ink - latin)</handNote>
                 <handNote xml:id="xx_t_gr">Fremde Hand #1 (ink - greek)</handNote>
@@ -289,14 +359,17 @@
             <change when="2014-07-14" who="ritter">text-bild-verlinkung abgeschlossen</change>
             <change when="2014-08-04" who="ritschel">3x korrekturgelesen</change>
             <change when="2015-03-31" who="bruening">Ritschels Korrekturen eingetragen</change>
-            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
-            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von
+                TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und
+                Schemaanpassungen</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="faust://facsimile/gsa/391098/391098_0141"/>
         <!--Text-image links-->
-        <graphic mimeType="image/svg+xml" url="faust://xml/image-text-links/eca2cb2a-097f-4aa3-8073-44a1272e5654.svg"/>
+        <graphic mimeType="image/svg+xml"
+            url="faust://xml/image-text-links/eca2cb2a-097f-4aa3-8073-44a1272e5654.svg"/>
     </facsimile>
     <sourceDoc>
         <surface>
@@ -310,14 +383,18 @@
                 <line f:left="#Sphynx" xml:id="lc" type="inter">
                     <retrace hand="#g_t"><handShift new="#sc_bl"/>i</retrace>
                 </line>
-                <line xml:id="ld" rend="indent-center-60"><handShift new="#jo_t"/><hi rend="underline">Sph<anchor xml:id="Sphynx"/><mod rend="strikethrough" hand="#g_t"><mod rend="strikethrough" hand="#sc_bl">y</mod></mod>nxe</hi> (ſie verſpottend<f:overw>
+                <line xml:id="ld" rend="indent-center-60"><handShift new="#jo_t"/><hi
+                        rend="underline">Sph<anchor xml:id="Sphynx"/><mod rend="strikethrough"
+                            hand="#g_t"><mod rend="strikethrough" hand="#sc_bl"
+                        >y</mod></mod>nxe</hi> (ſie verſpottend<f:overw>
                         <f:under><handShift new="#g_bl"/>)</f:under>
                         <f:over><retrace hand="#g_t">i</retrace></f:over>
                     </f:overw><retrace hand="g_t"><handShift new="#g_bl"/>n der-</retrace></line>
                 <line xml:id="le" rend="indent-60" type="inter">
                     <retrace hand="#g_t"><handShift new="#g_bl"/>ſelben Melodie)</retrace>
                 </line>
-                <line xml:id="lf" rend="indent-20"><handShift new="#jo_t"/>Nöthigt ſie herabzuſteigen!</line>
+                <line xml:id="lf" rend="indent-20"><handShift new="#jo_t"/>Nöthigt ſie
+                    herabzuſteigen!</line>
                 <line xml:id="lg" rend="indent-20">Sie verbergen in den Zweigen</line>
                 <line xml:id="lh" rend="indent-20">Ihre garſtigen Habichtskrallen,</line>
                 <line xml:id="li" rend="indent-20">Euch verderblich anzufallen,</line>
@@ -329,24 +406,31 @@
                         <f:under>,</f:under>
                         <f:over><handShift new="#sc_bl"/>;</f:over>
                     </f:overw></line>
-                <line xml:id="lm" rend="indent-20"><handShift new="#jo_t"/>Sam̄eln wir die klarſten Freuden,</line>
+                <line xml:id="lm" rend="indent-20"><handShift new="#jo_t"/>Sam̄eln wir die klarſten
+                    Freuden,</line>
                 <line xml:id="ln" rend="indent-20">Unterm Himmel ausgeſtreut!</line>
                 <line xml:id="lo" rend="indent-20">Auf dem Waſſer, auf der Erde,</line>
-                <line xml:id="lp" rend="indent-20">Sey<handShift new="#g_bl"/>’<handShift new="#jo_t"/>s die heiterſte Gebärde</line>
+                <line xml:id="lp" rend="indent-20">Sey<handShift new="#g_bl"/>’<handShift
+                        new="#jo_t"/>s die heiterſte Gebärde</line>
                 <line xml:id="lq" rend="indent-20">Die man dem <f:overw>
                         <f:under>w</f:under>
                         <f:over><retrace hand="#g_t"><handShift new="#g_bl"/>W</retrace></f:over>
                     </f:overw><handShift new="#jo_t"/>illkom̄nen beut.</line>
-                <line xml:id="lr" rend="centered"><abbr><hi rend="underline">Meph.</hi></abbr></line>
+                <line xml:id="lr" rend="centered"><abbr><hi rend="underline"
+                    >Meph.</hi></abbr></line>
                 <line xml:id="ls" rend="indent-20">Das ſind die ſaubern Neuigkeiten</line>
                 <line xml:id="lt" rend="indent-20">Wo aus der Kehle, von den Saiten,</line>
                 <line xml:id="lu" rend="indent-20">Ein Ton ſich um den andern flicht.</line>
-                <line xml:id="lv" rend="indent-20">Das Trallern iſt bey mir verloren<handShift new="#sc_bl"/>,</line>
-                <line xml:id="lw" rend="indent-20"><handShift new="#jo_t"/>Es krabbelt wohl mir um die Ohren</line>
+                <line xml:id="lv" rend="indent-20">Das Trallern iſt bey mir verloren<handShift
+                        new="#sc_bl"/>,</line>
+                <line xml:id="lw" rend="indent-20"><handShift new="#jo_t"/>Es krabbelt wohl mir um
+                    die Ohren</line>
                 <line xml:id="lx" rend="indent-20">Allein zum Herzen dringt es nicht.</line>
-                <line xml:id="ly" type="inter"><handShift new="#g_t"/><f:ins f:at="#Sphynx1" f:orient="right">i</f:ins></line>
+                <line xml:id="ly" type="inter"><handShift new="#g_t"/><f:ins f:at="#Sphynx1"
+                        f:orient="right">i</f:ins></line>
                 <line xml:id="lz" rend="centered"><handShift new="#jo_t"/>
-                    <hi rend="underline">Sph<anchor xml:id="Sphynx1"/><mod rend="strikethrough" hand="#g_t"><mod rend="strikethrough" hand="#g_bl"><f:overw>
+                    <hi rend="underline">Sph<anchor xml:id="Sphynx1"/><mod rend="strikethrough"
+                            hand="#g_t"><mod rend="strikethrough" hand="#g_bl"><f:overw>
                                     <f:under>y</f:under>
                                     <f:over><handShift new="#sc_bl"/>i</f:over>
                                 </f:overw></mod></mod><handShift new="#jo_t"/>nxe.</hi>
@@ -354,7 +438,8 @@
                 <line xml:id="laa" rend="indent-20">Sprich nicht vom Herzen! das iſt eitel;</line>
                 <line xml:id="lab" rend="indent-20">Ein lederner verſchrumpfter Beutel</line>
                 <line xml:id="lac" rend="indent-20">Das paßt dir eher zu Geſicht.</line>
-                <line xml:id="lad" rend="indent-center-60"><hi rend="underline">Fauſt</hi> (herantretend)</line>
+                <line xml:id="lad" rend="indent-center-60"><hi rend="underline">Fauſt</hi>
+                    (herantretend)</line>
                 <line xml:id="lae">Wie wunderbar! das Anſchaun thut mir Gnüge,</line>
                 <line xml:id="laf">Im Widerwärtigen große tüchtige Züge.</line>
                 <line xml:id="lag">Ich ahne ſchon ein günſtiges Geſchick;</line>
