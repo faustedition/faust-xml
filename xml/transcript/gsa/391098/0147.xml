@@ -331,7 +331,9 @@
             <line xml:id="lh" rend="centered">
                <hi rend="underline">Erichto.</hi>
             </line>
-            <line xml:id="li">Zum Schau<seg rend="inbetween">d</seg>erfeſte dieſer Nacht, wie
+            <line xml:id="li">Zum <f:overw>
+               <f:under><mod rend="erase" hand="#g"><gap unit="chars" quantity="2"></gap></mod></f:under>
+               <f:over><handShift new="#g_t"/>Sch</f:over></f:overw><handShift new="#jo_t"/>au<handShift new="#g_t"/><seg rend="inbetween">d</seg><handShift new="#jo_t"/>erfeſte dieſer Nacht, wie
                öfter ſchon,</line>
             <line xml:id="lj">Tret<handShift new="#sc_bl"/>’ <handShift new="#jo_t"/>ich einher,
                Erichto, ich die düſtere;</line>
