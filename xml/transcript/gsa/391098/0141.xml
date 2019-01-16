@@ -393,9 +393,11 @@
                 <line xml:id="le" rend="indent-60" type="inter">
                     <retrace hand="#g_t"><handShift new="#g_bl"/>ſelben Melodie)</retrace>
                 </line>
-                <line xml:id="lf" rend="indent-20"><handShift new="#jo_t"/>Nöthigt ſie
-                    herabzuſteigen!</line>
-                <line xml:id="lg" rend="indent-20">Sie verbergen in den Zweigen</line>
+                <line xml:id="lf" rend="indent-20"><handShift new="#jo_t"/>Nöthigt ſie herabzuſteigen<f:overw>
+                    <f:under><mod rend="erase" hand="#g">,</mod></f:under>
+                        <f:over><handShift new="#g_t"/>!</f:over>
+                    </f:overw></line>
+                <line xml:id="lg" rend="indent-20"><handShift new="#jo_t"/>Sie verbergen in den Zweigen</line>
                 <line xml:id="lh" rend="indent-20">Ihre garſtigen Habichtskrallen,</line>
                 <line xml:id="li" rend="indent-20">Euch verderblich anzufallen,</line>
                 <line xml:id="lj" rend="indent-20">Wenn ihr euer Ohr verleiht.</line>

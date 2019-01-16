@@ -338,7 +338,9 @@
                         <f:under><unclear cert="high">:</unclear></f:under>
                         <f:over>,</f:over>
                     </f:overw></line>
-                <line xml:id="lw">Verſchwunden mit günſtigem Wind.</line>
+                <line xml:id="lw">Verſchw<f:overw>
+                    <f:under><mod rend="erase" hand="#g"><gap unit="chars" quantity="1"></gap></mod></f:under>
+                    <f:over><handShift new="#g_t"/>u</f:over></f:overw><handShift new="#jo_t"/>nden mit günſtigem Wind.</line>
                 <line xml:id="lx">Was denken ſie zu vollführen</line>
                 <line xml:id="ly">Im Reiche der hohen Kabiren?</line>
             </zone>
