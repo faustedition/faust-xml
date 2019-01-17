@@ -323,7 +323,10 @@
                     </f:overw>
                     <handShift new="#jo_t"/>er leuchtet, blitzt!</line>
                 <line xml:id="ll" rend="centered"><hi rend="underline"><abbr>Meph.</abbr></hi></line>
-                <line xml:id="lm">Merkſt du nun bald was man an ihm beſitzt<handShift new="#sc_bl"/><retrace hand="#sc_t">?</retrace></line>
+                <line xml:id="lm">Merkſt du nun bald was man an ihm beſitzt<f:overw>
+                    <f:under>.</f:under>
+                    <f:over><handShift new="#sc_bl"/><retrace hand="#sc_t">?</retrace></f:over>
+                </f:overw><!-- abweichend von der Druckausgabe --></line>
                 <line xml:id="ln"><handShift new="#jo_t"/>Der Schlüſſel wird die rechte Stelle wittern,</line>
                 <line xml:id="lo">Folg ihm hinab, er führt dich zu den Müttern.</line>
                 <line xml:id="lp" rend="indent-center-60"><hi rend="underline">Fauſt.</hi> (ſchaudernd)</line>
