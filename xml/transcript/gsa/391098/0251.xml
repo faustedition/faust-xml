@@ -323,11 +323,11 @@
                     <fw type="folioNum"><handShift new="#xx_blau_lat"/>120</fw>
                 </line>
                 <line xml:id="lb" rend="right">
-                    <handShift new="#sc_bl"/>
+                    <handShift new="#g_bl"/>
                     <fw type="pageNum"><f:overw>
                             <f:under>2</f:under>
-                            <f:over>4</f:over>
-                        </f:overw>3.</fw>
+                            <f:over><handShift new="#sc_bl"/>4</f:over>
+                        </f:overw><handShift new="#g_bl"/>3.</fw>
                 </line>
                 <space dim="vertical" quantity="1.5" unit="lines"/>
                 <line xml:id="lc"><handShift new="#st_t"/><hi rend="underline">Fauſt</hi>

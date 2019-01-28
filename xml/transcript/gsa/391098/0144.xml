@@ -346,7 +346,10 @@
             <line xml:id="lad" rend="indent-20">Und verziehen kein Geſicht.</line>
          </zone>
          <zone f:right-left="#mainzone">
-            <line f:top="#Macht" xml:id="lae"><handShift new="#sc_bl"/><f:grLine f:orient="vert" f:style="linear" hand="#sc_bl"/> e<space dim="horizontal" quantity="3" unit="chars"/></line>
+            <line f:top="#Macht" xml:id="lae"><handShift new="#sc_bl"/><f:grLine f:orient="vert" f:style="linear" hand="#sc_bl"/>e<space dim="horizontal" quantity="3" unit="chars"/></line>
+         </zone>
+         <zone f:top="#lp" f:right-left="#lp">
+            <line><handShift new="#sc_bl"/>⸓</line>
          </zone>
       </surface>
    </sourceDoc>
