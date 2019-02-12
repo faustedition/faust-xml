@@ -318,11 +318,11 @@
                     </f:overw><handShift new="#jo_t"/> beherzt<handShift new="#g_t"/>!</line>
                 <line rend="centered" xml:id="lh"><handShift new="#g_bl"/><retrace hand="#g_t">(Sie ſteigen hinab)</retrace></line>
             </zone>
-            <zone f:right-left="#mainzone">
+            <!--<zone f:right-left="#mainzone">
                 <line f:top="#Lauscht" xml:id="li"><handShift new="#sc_bl"/>
                     <f:grLine f:orient="vert" f:style="linear" hand="#sc_bl"/><space dim="horizontal" quantity="5" unit="chars"/>
-                </line><!-- Funktion des Strichs nicht klar -->
-            </zone>
+                </line><!-\- Funktion des Strichs nicht klar -\->
+            </zone>-->
             <zone f:left="#mainzone" f:top-bottom="#mainzone">
                 <!-- <f:grLine f:orient="vert" f:style="curly" hand="#g_bl" rend="centered"/> FIXME kommentarfunktion entfernen -->
                 <space dim="vertical" quantity="20" unit="lines"/>
