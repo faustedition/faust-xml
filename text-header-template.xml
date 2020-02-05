@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Faust</title>
+            <title type="sub">Eine Tragödie</title>
+            <title type="sub">Konstituierter Text</title>
+            <author>Johann Wolfgang Goethe</author>
+            <respStmt>
+               <resp>Textkonstitution</resp>
+               <name>Gerrit Brüning</name>
+               <name>Dietmar Pravida</name>
+            </respStmt>
+            <respStmt>
+               <resp>Bereitstellung des digitalen Textes</resp>
+               <name>Thorsten Vitt</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition><!-- generiert: Versionsname --></edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><!-- bleibt leer --></publisher>
+            <date><!-- generiert: date/@when --></date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                  >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                  4.0)</licence>
+            </availability>
+         </publicationStmt>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>
