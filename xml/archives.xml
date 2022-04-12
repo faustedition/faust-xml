@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="archives.rnc" type="application/relax-ng-compact-syntax"?>
 <archives xmlns="http://www.faustedition.net/ns">
     <archive id="gsa">
         <name>Goethe- und Schiller-Archiv</name>
@@ -34,7 +35,7 @@
         <country code="de">Deutschland</country>
         <url>http://staatsbibliothek-berlin.de/handschriftenabteilung/</url>
         <geolocation lat="52.51987689109352" lng="13.39181900024414"/>
-        <facsimile license="Staatsbibliothek zu Berlin – PK, Handschriftenabt." downloadable="yes"/>
+        <facsimile license="Staatsbibliothek zu Berlin – PK, Handschriftenabt." downloadable="yes" max-width="1600"/>
     </archive>
     <!-- Bonn -->
     <archive id="ub_bonn">
@@ -184,7 +185,7 @@
         <country code="us">USA</country>
         <url>http://www.themorgan.org/</url>
         <geolocation lat="40.75232871988624" lng="-73.98107528686523"/>
-        <facsimile license="Morgan Library &amp; Museum, New York" downloadable="yes"/>
+        <facsimile license="Morgan Library &amp; Museum, New York" downloadable="yes" max-dpi="72"/>
     </archive>
     <!--  Oxford -->
     <archive id="bl_oxford">
@@ -195,7 +196,7 @@
         <country code="gb">Großbritannien</country>
         <url>http://www.bodleian.ox.ac.uk/</url>
         <geolocation lat="51.75567462258246" lng="-1.2567329406738281"/>
-        <facsimile license="The Bodleian Libraries, The University of Oxford" downloadable="yes"/>
+        <facsimile license="The Bodleian Libraries, The University of Oxford" downloadable="yes" resolution="reduced"/>
     </archive>
     <!--  Paris -->
     <archive id="mlm_paris">
@@ -229,7 +230,7 @@
         <geolocation lat="45.58040629946662" lng="11.578903198242188"/>
         <facsimile
             license="Su concessione della Biblioteca Civica Bertoliana, con divieto di ulteriore riproduzione."
-            downloadable="yes"/>
+            downloadable="yes" resolution="reduced"/>
     </archive>
     <!-- Warschau -->
     <archive id="agad_warszawa">

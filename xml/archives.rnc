@@ -1,0 +1,61 @@
+default namespace = "http://www.faustedition.net/ns"
+
+start =
+  element archives {
+  
+    ## A single repository.
+    element archive {
+    
+      ## repository id as used in metadata files
+      attribute id { xsd:NCName },
+      
+      ## human-readable (short) name
+      element name { text },
+      
+      ## long name for display on descriptive pages on the archive
+      element displayName { text },
+     
+      element institution { text }?,
+      element department { text }?,
+      (element city { text },
+       element country {
+         attribute code { xsd:NCName },
+         xsd:NCName
+       })?,
+       
+      ## URL of the archive’s website
+      element url { xsd:anyURI }?,
+      
+      ## the archive’s geolocation for display on a map
+      element geolocation {
+        attribute lat { xsd:decimal },
+        attribute lng { xsd:decimal }
+      }?,
+      
+      ## rules for the facsimiles received from that archive
+      element facsimile {
+      
+        ## license string to display for this archive’s images
+        attribute license { text }?,
+        
+        ((
+          ## offering facsimiles for download is allowed, restrictions may apply
+          attribute downloadable { "yes" },
+          ( 
+            ## downloadable images must not exceed this width (in pixels)
+            attribute max-width { xsd:positiveInteger } |
+            
+            ## downloadable images must not exceed this resolution (in dpi)
+            attribute max-dpi { xsd:positiveInteger } | 
+                        
+            attribute resolution { 
+              ## downloadable images must have a significantly reduced resolution
+              "reduced" }
+           )?
+        ) | 
+        attribute downloadable { 
+          ## facsimiles may only be displayed, not offered for download
+          "no" })
+      }?
+    }+
+  }
