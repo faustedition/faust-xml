@@ -6,6 +6,7 @@ default namespace = "http://www.faustedition.net/ns"
 
 start = macrogenesis
 faustURI = xs:anyURI { pattern = 'faust://(document/[A-Za-z0-9_\-]+/[\-A-Za-z0-9.,_]+|inscription/[A-Za-z0-9_\-]+/[\-A-Za-z0-9.,_]+/[\-A-Za-z0-9._]+|self|bibliography/[\-a-zA-Z0-9_]+)' }
+testimonyURI = xs:anyURI { pattern = 'faust://testimony/[A-Za-z0-9_\-]+' } 
 
 macrogenesis =  ## The root element. Can contain any amount of genetic information
                 element macrogenesis {
@@ -22,6 +23,7 @@ relation = ## Establishes a relation on two or more items
       },
       ignoreable,      
       (source+ &
+      testimony* &
       comment*),
       item,
       item+
@@ -50,7 +52,8 @@ date = ## Assigns a date or date range to an item
       "normalized" }?,
     ignoreable,    
     (source+ &
-    comment*),
+     testimony* &
+     comment*),
     item+
   }
   
@@ -71,4 +74,15 @@ date = ## Assigns a date or date range to an item
             ## additional information (page, ...)
             text?
           }
-            
+
+testimony = ## A testimony giving information for this dating.
+	   element testimony {
+	    ## The URI identifying the source.  
+	    attribute uri { 
+	       ## Use something like faust://testimony/graef_1234
+	       testimonyURI 
+	    },
+            ## additional information (page, ...)
+            text?
+          }
+	    
