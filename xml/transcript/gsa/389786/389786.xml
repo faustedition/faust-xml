@@ -1,7 +1,59 @@
-<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns" xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://faustedition.net/schema/1.0/faust-tei.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://www.faustedition.net/ns"
+    xmlns:ge="http://www.tei-c.org/ns/geneticEditions" xmlns:svg="http://www.w3.org/2000/svg">
     <teiHeader>
-        <fileDesc><titleStmt><title type="main">Faust</title><title type="sub">Historisch-kritische Edition</title><author>Johann Wolfgang Goethe</author><respStmt><resp>Herausgegeben von</resp><name>Anne Bohnenkamp</name><name>Silke Henke</name><name>Fotis Jannidis</name><orgName>Freies Deutsches Hochstift</orgName><orgName>Klassik Stiftung Weimar</orgName><orgName>Julius-Maximilians-Universität Würzburg</orgName></respStmt><respStmt><resp>Mitarbeit</resp><name>Gerrit Brüning</name><name>Katrin Henzel</name><name>Christoph Leijser</name><name>Gregor Middell</name><name>Dietmar Pravida</name><name>Thorsten Vitt</name><name>Moritz Wissenbach</name></respStmt></titleStmt><publicationStmt><publisher/><idno type="faustedition">2 IV H.3</idno><date/><availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
-                        4.0)</licence></availability></publicationStmt><sourceDesc><msDesc><!--xml/document/faust/2.4/gsa_389786.xml--><msIdentifier><repository>Goethe- und Schiller-Archiv, Weimar</repository><idno type="gsa_1">GSA 25/XVIII,5,4</idno><altIdentifier><idno type="gsa_2">GSA 25/W 1672</idno></altIdentifier><altIdentifier><idno type="gsa_ident">389786</idno></altIdentifier></msIdentifier></msDesc></sourceDesc></fileDesc>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Faust</title>
+                <title type="sub">Historisch-kritische Edition</title>
+                <author>Johann Wolfgang Goethe</author>
+                <respStmt>
+                    <resp>Herausgegeben von</resp>
+                    <name>Anne Bohnenkamp</name>
+                    <name>Silke Henke</name>
+                    <name>Fotis Jannidis</name>
+                    <orgName>Freies Deutsches Hochstift</orgName>
+                    <orgName>Klassik Stiftung Weimar</orgName>
+                    <orgName>Julius-Maximilians-Universität Würzburg</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Mitarbeit</resp>
+                    <name>Gerrit Brüning</name>
+                    <name>Katrin Henzel</name>
+                    <name>Christoph Leijser</name>
+                    <name>Gregor Middell</name>
+                    <name>Dietmar Pravida</name>
+                    <name>Thorsten Vitt</name>
+                    <name>Moritz Wissenbach</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <idno type="faustedition">2 IV H.3</idno>
+                <date/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                        Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <!--xml/document/faust/2.4/gsa_389786.xml-->
+                    <msIdentifier>
+                        <repository>Goethe- und Schiller-Archiv, Weimar</repository>
+                        <idno type="gsa_1">GSA 25/XVIII,5,4</idno>
+                        <altIdentifier>
+                            <idno type="gsa_2">GSA 25/W 1672</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno type="gsa_ident">389786</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
         <profileDesc>
             <handNotes>
                 <handNote xml:id="g">Goethe (ohne Schreibmaterial)</handNote>
@@ -299,16 +351,24 @@
         <revisionDesc>
             <change when="2011-07-20" who="henzel">encoded</change>
             <change when="2015-03-02" who="kockel">Zählung des Nebentextes abgeschlossen</change>
-            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von TEI P5 3.4.0 konvertiert</change>
-            <change when="2018-10-09" who="thvitt" type="automatic">Header und Schemaanpassungen</change>
+            <change when="2018-09-16" who="thvitt" type="automatic">Zu neuem Schema auf Basis von
+                TEI P5 3.4.0 konvertiert</change>
+            <change when="2018-10-09" who="thvitt" type="automatic">Header und
+                Schemaanpassungen</change>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <!-- Hypothese zu Schreibphasen: Grundschicht - Tinte soon - Bleistift late - Tinte (Fixierung und Bearbeitung) late -->
-            <stage n="before_10067_a">Ein <hi>Sieben-Meilen-Stiefel</hi> <add f:revType="late">(</add>tappt auf<add f:revType="late">)</add>, ein <hi>anderer</hi> folgt alſo bald. <hi>Mephiſtopheles</hi> (ſteigt ab, die <hi>Stiefel</hi> <choice><sic>ſcheiten</sic><corr>ſchreiten</corr></choice> eilig weiter)</stage>
+            <stage n="before_10067_a">Ein <hi>Sieben-Meilen-Stiefel</hi>
+                <add f:revType="late">(</add>tappt auf<add f:revType="late">)</add>, ein
+                    <hi>anderer</hi> folgt alſo bald. <hi>Mephiſtopheles</hi> (ſteigt ab, die
+                    <hi>Stiefel</hi>
+                <choice><sic>ſcheiten</sic><corr>ſchreiten</corr></choice> eilig weiter)</stage>
             <sp>
-                <speaker n="before_10067_b"><abbr>Meph.</abbr></speaker>
+                <speaker n="before_10067_b">
+                    <abbr>Meph.</abbr>
+                </speaker>
                 <l n="10067">Das heiß ich endlich vorgeſchritten! –</l>
                 <l n="10068">Nun aber ſag, was fällt dir ein?</l>
                 <l n="10069">Steigſt ab in ſolcher Gräuel <subst f:revType="soon">
@@ -331,7 +391,9 @@
                     </subst> an dergleichen auszuſpenden?</l>
             </sp>
             <sp>
-                <speaker n="before_10075_a"><abbr>Meph.</abbr></speaker>
+                <speaker n="before_10075_a">
+                    <abbr>Meph.</abbr>
+                </speaker>
                 <stage n="before_10075_b" rend="inline">(ernſthaft)</stage>
                 <l n="10075">Als Gott der Herr; – Ich weis auch wohl warum,</l>
                 <l n="10076">Uns, aus der Luft, in tiefſte<del f:revType="soon">n</del> Tiefen
@@ -371,7 +433,8 @@
                         <del>Nur durch Verrath ward’s allen</del>
                         <add>Und wird nur ſpät den V<orig>o</orig>lckern</add>
                     </subst> offenbart.</l>
-                <note n="after_10094" place="margin" type="bible"><add f:revType="late">(<abbr>Ephes.</abbr><del f:revType="instant">1</del>2</add> : 2</note>
+                <note n="after_10094" place="margin" type="bible"><add f:revType="late"
+                            >(<abbr>Ephes.</abbr><del f:revType="instant">1</del>2</add> : 2</note>
             </sp>
             <sp>
                 <speaker n="before_10095">Fauſt.</speaker>
@@ -391,7 +454,9 @@
                 <l n="10104">Bedarf ſie nicht der tollen Strudeleyen.</l>
             </sp>
             <sp>
-                <speaker n="before_10105"><abbr>Meph.</abbr></speaker>
+                <speaker n="before_10105">
+                    <abbr>Meph.</abbr>
+                </speaker>
                 <addSpan f:revType="late"/>
                 <l n="10105">Das ſprecht ihr ſo! Das ſcheint euch ſonnenklar.</l>
                 <l n="10106">Doch weis es anders der <del f:revType="soon-or-late">ſelbſt</del>
@@ -400,20 +465,23 @@
                 <l n="10107"><subst>
                         <del>Ich</del>
                         <add><emph>Ich</emph></add>
-                    </subst> war dabey, als noch da<add f:revType="late">dr</add>unten, <del f:revType="instant"><unclear cert="high">S</unclear></del>ſiedend,</l>
+                    </subst> war dabey, als noch da<add f:revType="late">dr</add>unten, <del
+                        f:revType="instant"><unclear cert="high">S</unclear></del>ſiedend,</l>
                 <l n="10108">Der Abgrund ſchwoll und ſtrömend Flammen trug,</l>
                 <l n="10109">Als Molochs Hammer, Fels an Felſen ſchmiedend,</l>
                 <l n="10110">Gebürges Trümmer in die Ferne <del f:revType="instant">trug</del>
                     ſchlug.</l>
                 <l n="10111">Noch ſtarrt das Land von fremden Zentnermaſſen,</l>
-                <l n="10112">Wer giebt Erkl<orig>a</orig>rung ſolcher Schleudermacht<add f:revType="late">?</add></l>
+                <l n="10112">Wer giebt Erkl<orig>a</orig>rung ſolcher Schleudermacht<add
+                        f:revType="late">?</add></l>
                 <l n="10113">Der Philoſoph er weis es nicht zu faſſen,</l>
                 <l n="10114">Da liegt <subst f:revType="soon">
                         <del><gap unit="chars" quantity="3" precision="medium"/></del>
                         <add>der</add>
                     </subst> Fels, man muß ihn liegen laſſen</l>
-                <l n="10115"><add f:revType="soon">Zu Schanden haben wir uns ſchon
-                    gedacht.</add></l>
+                <l n="10115">
+                    <add f:revType="soon">Zu Schanden haben wir uns ſchon gedacht.</add>
+                </l>
                 <l n="10116">Das treu-gemeine Volck allein begreift</l>
                 <l n="10117">Und läßt ſich im Begriff nicht ſt<orig>o</orig>ren;</l>
                 <l n="10118">Ihm iſt die Weisheit längſt gereift:</l>
@@ -434,7 +502,9 @@
                 <l n="10123">Zu ſehn wie Teufel die Natur betrachten.</l>
             </sp>
             <sp>
-                <speaker n="before_10124"><abbr>Meph.</abbr></speaker>
+                <speaker n="before_10124">
+                    <abbr>Meph.</abbr>
+                </speaker>
                 <l n="10124">Was geht michs an! Natur ſey wie ſie ſey!</l>
                 <l n="10125"><subst f:revType="late">
                         <del>Mein</del>
@@ -456,19 +526,25 @@
                         <del>.</del>
                         <add>;</add>
                     </subst></l>
-                <note n="after_10131"><add f:revType="soon">(<abbr><choice>
+                <note n="after_10131">
+                    <add f:revType="soon">(<abbr><choice>
                                 <sic>Math.</sic>
                                 <corr>Matth.</corr>
-                            </choice></abbr> 4)</add></note>
+                            </choice></abbr> 4)</add>
+                </note>
                 <l n="10132">Doch ungenügſam wie du biſt</l>
                 <l n="10133">Empfandeſt du wohl kein Gelüſt?</l>
             </sp>
             <sp>
                 <speaker n="before_10134">Fauſt <note n="todo"><abbr>pp</abbr></note></speaker>
-        
+
                 <l n="10134"><del f:revType="instant-or-soon">Ja wohl <abbr>pp</abbr></del> Und doch
                         <abbr>pp</abbr></l>
-                <p><del f:revType="late"><space quantity="6" unit="lines"/></del></p>
+                <p>
+                    <del f:revType="late">
+                        <space quantity="6" unit="lines"/>
+                    </del>
+                </p>
             </sp>
         </body>
     </text>
