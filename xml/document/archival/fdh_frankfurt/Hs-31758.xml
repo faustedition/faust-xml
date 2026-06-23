@@ -2,10 +2,11 @@
 <archivalDocument xmlns="http://www.faustedition.net/ns" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:f="http://www.faustedition.net/ns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.faustedition.net/ns https://faustedition.uni-wuerzburg.de/xml/schema/metadata.xsd"
-    xml:base="faust://xml/transcript/privatbesitz/anonym2/">
+    xml:base="faust://xml/transcript/fdh_frankfurt/Hs-31758/">
     <revisionDesc>
         <change when="2018-01-22" who="bruening">angelegt</change>
         <change when="2018-01-25" who="bruening">Angaben von ABR übernommen</change>
+       <change from="2026-06-22" to="2026-06-23" who="bruening">Dateien verschoben, Pfade angepasst, bestandhaltende Institution und Signatur ergänzt</change>
     </revisionDesc>
     <metadata>
         <headNote>Zettel. – Zu ‚Faust II‘, Akt 3.</headNote>
@@ -15,6 +16,7 @@
         <!-- Faltungsspuren? Nein -->
        <repository>fdh_frankfurt</repository>
         <idno type="faustedition">H P174</idno><!-- salvo meliore -->
+       <idno type="fdh_frankfurt">Hs-31758</idno>
         <idno type="wa_faust">none</idno>
        <textTranscript uri="Hs-31758.xml"/>
         <classification>Konzept</classification>
